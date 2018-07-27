@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Bellevue
-permalink: bellevue.html
+permalink: bellevue
 ---
 
 
 Bellevue Superintendent Compensation in Constant Dollars
 ![Bellevuue Image](pages/WA School District Compensation History for Bellevue Superintendent ConstantDollars.png "Bellevue Superintendent Constant Dollars")
+
 ___
 
 Bellevue Superintendent Compensation in Current Dollars
