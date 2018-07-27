@@ -4,7 +4,7 @@ title: Districts
 permalink:
 ---
 
-[Bellevue](pages/bellevue/)
+[Bellevue](pages/seattle/)
 
 [Everett](/pages/everett/)
 
