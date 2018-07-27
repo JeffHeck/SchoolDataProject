@@ -10,5 +10,5 @@ Bellevue Superintendent Compensation in Constant Dollars
 ___
 
 Bellevue Superintendent Compensation in Current Dollars
-![Bellevuue Image](/images/WA School District Compensation History for Bellevue Superintendent NominalDollars.png "Bellevue Superintendent Current Dollars")
+![Bellevuue Image](WA School District Compensation History for Bellevue Superintendent NominalDollars.png "Bellevue Superintendent Current Dollars")
 
