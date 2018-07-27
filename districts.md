@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Districts
-permalink:
+permalink: /districts/
 ---
 
-[Bellevue](pages/seattle/)
+[Bellevue](/pages/seattle/)
 
 [Everett](/pages/everett/)
 
