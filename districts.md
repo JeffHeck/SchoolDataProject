@@ -4,7 +4,7 @@ title: Districts
 permalink: 
 ---
 
-[Bellevue](bellevue.html)
+[Bellevue](bellevue)
 
 [Everett](everett)
 
