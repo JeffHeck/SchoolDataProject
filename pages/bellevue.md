@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bellevue
-permalink: 
+permalink: /pages/bellevue/
 ---
 
 
