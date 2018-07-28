@@ -5,9 +5,10 @@ permalink: wellpinit
 ---
 
 
-Wellpinit Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Wellpinit Image](pages/WA School District Compensation History for Wellpinit Superintendent ConstantDollars.png "Wellpinit Superintendent Constant Dollars")
+
 ___
 
-Wellpinit Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Wellpinit Image](pages/WA School District Compensation History for Wellpinit Superintendent NominalDollars.png "Wellpinit Superintendent Nominal Dollars")

@@ -5,9 +5,10 @@ permalink: hockinson
 ---
 
 
-Hockinson Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Hockinson Image](pages/WA School District Compensation History for Hockinson Superintendent ConstantDollars.png "Hockinson Superintendent Constant Dollars")
+
 ___
 
-Hockinson Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Hockinson Image](pages/WA School District Compensation History for Hockinson Superintendent NominalDollars.png "Hockinson Superintendent Nominal Dollars")

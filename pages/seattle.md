@@ -5,9 +5,10 @@ permalink: seattle
 ---
 
 
-Seattle Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Seattle Image](pages/WA School District Compensation History for Seattle Superintendent ConstantDollars.png "Seattle Superintendent Constant Dollars")
+
 ___
 
-Seattle Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Seattle Image](pages/WA School District Compensation History for Seattle Superintendent NominalDollars.png "Seattle Superintendent Nominal Dollars")

@@ -5,9 +5,10 @@ permalink: rosalia
 ---
 
 
-Rosalia Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Rosalia Image](pages/WA School District Compensation History for Rosalia Superintendent ConstantDollars.png "Rosalia Superintendent Constant Dollars")
+
 ___
 
-Rosalia Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Rosalia Image](pages/WA School District Compensation History for Rosalia Superintendent NominalDollars.png "Rosalia Superintendent Nominal Dollars")

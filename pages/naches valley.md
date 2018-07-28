@@ -5,9 +5,10 @@ permalink: naches valley
 ---
 
 
-Naches Valley Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Naches Valley Image](pages/WA School District Compensation History for Naches Valley Superintendent ConstantDollars.png "Naches Valley Superintendent Constant Dollars")
+
 ___
 
-Naches Valley Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Naches Valley Image](pages/WA School District Compensation History for Naches Valley Superintendent NominalDollars.png "Naches Valley Superintendent Nominal Dollars")

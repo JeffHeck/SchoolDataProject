@@ -282,7 +282,7 @@ permalink:
 
 [Manson](manson)
 
-[Mary M. Knight](mary m. knight)
+[Mary M Knight](mary m knight)
 
 [Mary Walker](mary walker)
 
@@ -328,7 +328,7 @@ permalink:
 
 [Napavine](napavine)
 
-[Naselle-Grays R.](naselle-grays r.)
+[Naselle-Grays R](naselle-grays r)
 
 [Nespelem](nespelem)
 
@@ -514,7 +514,7 @@ permalink:
 
 [Sprague](sprague)
 
-[St. John](st. john)
+[St John](st john)
 
 [Stanwood-Camano](stanwood-camano)
 
@@ -524,7 +524,7 @@ permalink:
 
 [Stehekin](stehekin)
 
-[Steilacoom Hist.](steilacoom hist.)
+[Steilacoom Hist](steilacoom hist)
 
 [Steptoe](steptoe)
 
@@ -628,7 +628,7 @@ permalink:
 
 [Woodland](woodland)
 
-[WSIPC Serv. Cntr.](wsipc serv. cntr.)
+[WSIPC Serv Cntr](wsipc serv cntr)
 
 [Yakima](yakima)
 

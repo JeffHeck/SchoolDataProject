@@ -5,9 +5,10 @@ permalink: almira
 ---
 
 
-Almira Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Almira Image](pages/WA School District Compensation History for Almira Superintendent ConstantDollars.png "Almira Superintendent Constant Dollars")
+
 ___
 
-Almira Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Almira Image](pages/WA School District Compensation History for Almira Superintendent NominalDollars.png "Almira Superintendent Nominal Dollars")

@@ -5,9 +5,10 @@ permalink: kalama
 ---
 
 
-Kalama Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Kalama Image](pages/WA School District Compensation History for Kalama Superintendent ConstantDollars.png "Kalama Superintendent Constant Dollars")
+
 ___
 
-Kalama Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Kalama Image](pages/WA School District Compensation History for Kalama Superintendent NominalDollars.png "Kalama Superintendent Nominal Dollars")

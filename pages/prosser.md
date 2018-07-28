@@ -5,9 +5,10 @@ permalink: prosser
 ---
 
 
-Prosser Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Prosser Image](pages/WA School District Compensation History for Prosser Superintendent ConstantDollars.png "Prosser Superintendent Constant Dollars")
+
 ___
 
-Prosser Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Prosser Image](pages/WA School District Compensation History for Prosser Superintendent NominalDollars.png "Prosser Superintendent Nominal Dollars")

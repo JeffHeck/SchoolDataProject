@@ -5,9 +5,10 @@ permalink: inchelium
 ---
 
 
-Inchelium Superintendent Compensation in Constant Dollars
+Historical Superintendent Compensation in Constant Dollars
 ![Inchelium Image](pages/WA School District Compensation History for Inchelium Superintendent ConstantDollars.png "Inchelium Superintendent Constant Dollars")
+
 ___
 
-Inchelium Superintendent Compensation in Current Dollars
+Historical Superintendent Compensation in Current Dollars
 ![Inchelium Image](pages/WA School District Compensation History for Inchelium Superintendent NominalDollars.png "Inchelium Superintendent Nominal Dollars")
