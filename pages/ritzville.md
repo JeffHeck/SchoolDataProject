@@ -5,6 +5,11 @@ permalink: ritzville
 ---
 
 
+Ritzville High School
+![Ritzville High School Image](pages/Ritzville School District Ritzville High SchoolDual Credit BarChart.png "Ritzville High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Ritzville Image](pages/WA School District Compensation History for Ritzville Superintendent ConstantDollars.png "Ritzville Superintendent Constant Dollars")
 

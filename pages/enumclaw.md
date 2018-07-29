@@ -5,6 +5,11 @@ permalink: enumclaw
 ---
 
 
+Enumclaw Sr High School
+![Enumclaw Sr High School Image](pages/Enumclaw School District Enumclaw Sr High SchoolDual Credit BarChart.png "Enumclaw Sr High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Enumclaw Image](pages/WA School District Compensation History for Enumclaw Superintendent ConstantDollars.png "Enumclaw Superintendent Constant Dollars")
 

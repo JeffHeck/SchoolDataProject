@@ -5,6 +5,11 @@ permalink: willapa valley
 ---
 
 
+Willapa Valley Middle-High
+![Willapa Valley Middle-High Image](pages/Willapa Valley School District Willapa Valley Middle-HighDual Credit BarChart.png "Willapa Valley Middle-High Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Willapa Valley Image](pages/WA School District Compensation History for Willapa Valley Superintendent ConstantDollars.png "Willapa Valley Superintendent Constant Dollars")
 

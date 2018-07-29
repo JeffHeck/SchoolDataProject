@@ -5,6 +5,11 @@ permalink: wapato
 ---
 
 
+Wapato High School
+![Wapato High School Image](pages/Wapato School District Wapato High SchoolDual Credit BarChart.png "Wapato High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Wapato Image](pages/WA School District Compensation History for Wapato Superintendent ConstantDollars.png "Wapato Superintendent Constant Dollars")
 

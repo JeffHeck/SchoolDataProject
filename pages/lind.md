@@ -5,6 +5,11 @@ permalink: lind
 ---
 
 
+Lind-Ritzville High School
+![Lind-Ritzville High School Image](pages/Lind School District Lind-Ritzville High SchoolDual Credit BarChart.png "Lind-Ritzville High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Lind Image](pages/WA School District Compensation History for Lind Superintendent ConstantDollars.png "Lind Superintendent Constant Dollars")
 

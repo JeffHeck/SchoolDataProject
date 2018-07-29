@@ -5,6 +5,36 @@ permalink: mead
 ---
 
 
+Mead Alternative High School
+![Mead Alternative High School Image](pages/Mead School District Mead Alternative High SchoolDual Credit BarChart.png "Mead Alternative High School Dual Credit Participation")
+
+___
+
+Mead Education Partnership Prog
+![Mead Education Partnership Prog Image](pages/Mead School District Mead Education Partnership ProgDual Credit BarChart.png "Mead Education Partnership Prog Dual Credit Participation")
+
+___
+
+Mead Open Doors
+![Mead Open Doors Image](pages/Mead School District Mead Open DoorsDual Credit BarChart.png "Mead Open Doors Dual Credit Participation")
+
+___
+
+Mead Senior High School
+![Mead Senior High School Image](pages/Mead School District Mead Senior High SchoolDual Credit BarChart.png "Mead Senior High School Dual Credit Participation")
+
+___
+
+Mt Spokane High School
+![Mt Spokane High School Image](pages/Mead School District Mt Spokane High SchoolDual Credit BarChart.png "Mt Spokane High School Dual Credit Participation")
+
+___
+
+Riverpoint Academy
+![Riverpoint Academy Image](pages/Mead School District Riverpoint AcademyDual Credit BarChart.png "Riverpoint Academy Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Mead Image](pages/WA School District Compensation History for Mead Superintendent ConstantDollars.png "Mead Superintendent Constant Dollars")
 

@@ -5,6 +5,11 @@ permalink: hockinson
 ---
 
 
+Hockinson High School
+![Hockinson High School Image](pages/Hockinson School District Hockinson High SchoolDual Credit BarChart.png "Hockinson High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Hockinson Image](pages/WA School District Compensation History for Hockinson Superintendent ConstantDollars.png "Hockinson Superintendent Constant Dollars")
 

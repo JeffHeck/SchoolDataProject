@@ -5,6 +5,11 @@ permalink: mabton
 ---
 
 
+Mabton Jr. Sr. High
+![Mabton Jr. Sr. High Image](pages/Mabton School District Mabton Jr. Sr. HighDual Credit BarChart.png "Mabton Jr. Sr. High Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Mabton Image](pages/WA School District Compensation History for Mabton Superintendent ConstantDollars.png "Mabton Superintendent Constant Dollars")
 

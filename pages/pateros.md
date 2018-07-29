@@ -5,6 +5,11 @@ permalink: pateros
 ---
 
 
+Pateros High School
+![Pateros High School Image](pages/Pateros School District Pateros High SchoolDual Credit BarChart.png "Pateros High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Pateros Image](pages/WA School District Compensation History for Pateros Superintendent ConstantDollars.png "Pateros Superintendent Constant Dollars")
 

@@ -5,6 +5,11 @@ permalink: meridian
 ---
 
 
+Meridian High School
+![Meridian High School Image](pages/Meridian School District Meridian High SchoolDual Credit BarChart.png "Meridian High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Meridian Image](pages/WA School District Compensation History for Meridian Superintendent ConstantDollars.png "Meridian Superintendent Constant Dollars")
 

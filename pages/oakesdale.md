@@ -5,6 +5,11 @@ permalink: oakesdale
 ---
 
 
+Oakesdale High School
+![Oakesdale High School Image](pages/Oakesdale School District Oakesdale High SchoolDual Credit BarChart.png "Oakesdale High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Oakesdale Image](pages/WA School District Compensation History for Oakesdale Superintendent ConstantDollars.png "Oakesdale Superintendent Constant Dollars")
 

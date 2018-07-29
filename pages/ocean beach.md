@@ -5,6 +5,11 @@ permalink: ocean beach
 ---
 
 
+Ilwaco High School
+![Ilwaco High School Image](pages/Ocean Beach School District Ilwaco High SchoolDual Credit BarChart.png "Ilwaco High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Ocean Beach Image](pages/WA School District Compensation History for Ocean Beach Superintendent ConstantDollars.png "Ocean Beach Superintendent Constant Dollars")
 

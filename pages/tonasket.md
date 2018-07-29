@@ -5,6 +5,11 @@ permalink: tonasket
 ---
 
 
+Tonasket High School
+![Tonasket High School Image](pages/Tonasket School District Tonasket High SchoolDual Credit BarChart.png "Tonasket High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Tonasket Image](pages/WA School District Compensation History for Tonasket Superintendent ConstantDollars.png "Tonasket Superintendent Constant Dollars")
 

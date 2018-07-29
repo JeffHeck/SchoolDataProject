@@ -5,6 +5,11 @@ permalink: skykomish
 ---
 
 
+Skykomish High School
+![Skykomish High School Image](pages/Skykomish School District Skykomish High SchoolDual Credit BarChart.png "Skykomish High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Skykomish Image](pages/WA School District Compensation History for Skykomish Superintendent ConstantDollars.png "Skykomish Superintendent Constant Dollars")
 

@@ -5,6 +5,11 @@ permalink: tenino
 ---
 
 
+Tenino High School
+![Tenino High School Image](pages/Tenino School District Tenino High SchoolDual Credit BarChart.png "Tenino High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Tenino Image](pages/WA School District Compensation History for Tenino Superintendent ConstantDollars.png "Tenino Superintendent Constant Dollars")
 

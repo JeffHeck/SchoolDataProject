@@ -5,6 +5,11 @@ permalink: waterville
 ---
 
 
+Waterville High School
+![Waterville High School Image](pages/Waterville School District Waterville High SchoolDual Credit BarChart.png "Waterville High School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Waterville Image](pages/WA School District Compensation History for Waterville Superintendent ConstantDollars.png "Waterville Superintendent Constant Dollars")
 

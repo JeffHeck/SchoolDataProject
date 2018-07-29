@@ -5,6 +5,11 @@ permalink: morton
 ---
 
 
+Morton Junior-Senior High
+![Morton Junior-Senior High Image](pages/Morton School District Morton Junior-Senior HighDual Credit BarChart.png "Morton Junior-Senior High Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Morton Image](pages/WA School District Compensation History for Morton Superintendent ConstantDollars.png "Morton Superintendent Constant Dollars")
 

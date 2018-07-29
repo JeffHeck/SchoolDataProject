@@ -5,6 +5,11 @@ permalink: easton
 ---
 
 
+Easton School
+![Easton School Image](pages/Easton School District Easton SchoolDual Credit BarChart.png "Easton School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Easton Image](pages/WA School District Compensation History for Easton Superintendent ConstantDollars.png "Easton Superintendent Constant Dollars")
 

@@ -5,6 +5,11 @@ permalink: crescent
 ---
 
 
+Crescent School
+![Crescent School Image](pages/Crescent School District Crescent SchoolDual Credit BarChart.png "Crescent School Dual Credit Participation")
+
+___
+
 Historical Superintendent Compensation in Constant Dollars
 ![Crescent Image](pages/WA School District Compensation History for Crescent Superintendent ConstantDollars.png "Crescent Superintendent Constant Dollars")
 
