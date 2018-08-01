@@ -47,4 +47,5 @@ plugins:
 
 header_pages:
   - about.md
+  - sba_outliers.md
   - districts.md
