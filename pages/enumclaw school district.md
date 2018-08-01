@@ -1,0 +1,27 @@
+---
+layout: page
+title: Enumclaw School District
+permalink: enumclaw school district
+---
+
+
+Enumclaw Middle School
+![Enumclaw Middle School Image](pages/Enumclaw School District Enumclaw Middle SchoolDual Credit BarChart.png "Enumclaw Middle School Dual Credit Participation")
+
+___
+
+Enumclaw Sr High School
+![Enumclaw Sr High School Image](pages/Enumclaw School District Enumclaw Sr High SchoolDual Credit BarChart.png "Enumclaw Sr High School Dual Credit Participation")
+
+___
+
+Thunder Mountain Middle School
+![Thunder Mountain Middle School Image](pages/Enumclaw School District Thunder Mountain Middle SchoolDual Credit BarChart.png "Thunder Mountain Middle School Dual Credit Participation")
+
+___
+
+Enumclaw School DistrictSuperintendent Compensation History
+![Enumclaw School District Image](pages/WA School District Compensation History for Enumclaw Superintendent ConstantDollars.png "Enumclaw School District Superintendent Compensation History")
+
+___
+
