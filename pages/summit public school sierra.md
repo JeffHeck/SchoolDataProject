@@ -10,8 +10,3 @@ Summit Public School Sierra
 
 ___
 
-Summit Public School SierraSuperintendent Compensation History
-![Summit Public School Sierra Image](pages/WA School District Compensation History for Summit Public School Sierra Superintendent ConstantDollars.png "Summit Public School Sierra Superintendent Compensation History")
-
-___
-
