@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Currently working on adding dual credit"
+title:  "Currently working on adding dual credit charts"
 date:   2018-07-28 20:19:36 -0700
 categories: washington schools data analysis
 ---
