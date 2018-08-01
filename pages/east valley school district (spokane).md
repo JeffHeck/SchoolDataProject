@@ -25,8 +25,3 @@ East Valley School District (Spokane)Superintendent Compensation History
 
 ___
 
-East Valley School District (Spokane)Superintendent Compensation History
-![East Valley School District (Spokane) Image](pages/WA School District Compensation History for East Valley (Spokane) Superintendent ConstantDollars.png "East Valley School District (Spokane) Superintendent Compensation History")
-
-___
-

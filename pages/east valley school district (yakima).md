@@ -15,3 +15,8 @@ East Valley High School
 
 ___
 
+East Valley School District (Yakima)Superintendent Compensation History
+![East Valley School District (Yakima) Image](pages/WA School District Compensation History for East Valley (Yakima) Superintendent ConstantDollars.png "East Valley School District (Yakima) Superintendent Compensation History")
+
+___
+
