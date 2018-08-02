@@ -46,7 +46,7 @@ iGrad
 ___
 
 Kent School DistrictSuperintendent Compensation History
-![Kent School District Image](pages/WA School District Compensation History for Kent Superintendent ConstantDollars.png "Kent School District Superintendent Compensation History")
+![Kent School District Image](pages/WA School District Compensation History for Kent Superintendent ConstantDollars.png?ver=123 "Kent School District Superintendent Compensation History")
 
 ___
 
