@@ -15,7 +15,12 @@ Wahluke High School
 
 ___
 
-Wahluke School DistrictSuperintendent Compensation History
+Wahluke School District Secondary Teachers' Median Total Compensation
+![Wahluke School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wahluke Highlighted.png "Wahluke School District Secondary Teachers Median Total Compensation")
+
+___
+
+Wahluke School District Superintendent Compensation History
 ![Wahluke School District Image](pages/WA School District Compensation History for Wahluke Superintendent ConstantDollars.png "Wahluke School District Superintendent Compensation History")
 
 ___

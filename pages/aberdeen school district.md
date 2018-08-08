@@ -15,7 +15,12 @@ J M Weatherwax High School
 
 ___
 
-Aberdeen School DistrictSuperintendent Compensation History
+Aberdeen School District Secondary Teachers' Median Total Compensation
+![Aberdeen School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Aberdeen Highlighted.png "Aberdeen School District Secondary Teachers Median Total Compensation")
+
+___
+
+Aberdeen School District Superintendent Compensation History
 ![Aberdeen School District Image](pages/WA School District Compensation History for Aberdeen Superintendent ConstantDollars.png "Aberdeen School District Superintendent Compensation History")
 
 ___

@@ -15,7 +15,12 @@ W F West High School
 
 ___
 
-Chehalis School DistrictSuperintendent Compensation History
+Chehalis School District Secondary Teachers' Median Total Compensation
+![Chehalis School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Chehalis Highlighted.png "Chehalis School District Secondary Teachers Median Total Compensation")
+
+___
+
+Chehalis School District Superintendent Compensation History
 ![Chehalis School District Image](pages/WA School District Compensation History for Chehalis Superintendent ConstantDollars.png "Chehalis School District Superintendent Compensation History")
 
 ___

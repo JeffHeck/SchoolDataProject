@@ -10,7 +10,12 @@ Pullman High School
 
 ___
 
-Pullman School DistrictSuperintendent Compensation History
+Pullman School District Secondary Teachers' Median Total Compensation
+![Pullman School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Pullman Highlighted.png "Pullman School District Secondary Teachers Median Total Compensation")
+
+___
+
+Pullman School District Superintendent Compensation History
 ![Pullman School District Image](pages/WA School District Compensation History for Pullman Superintendent ConstantDollars.png "Pullman School District Superintendent Compensation History")
 
 ___

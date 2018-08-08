@@ -10,7 +10,12 @@ Wishram High And Elementary Schl
 
 ___
 
-Wishram School DistrictSuperintendent Compensation History
+Wishram School District Secondary Teachers' Median Total Compensation
+![Wishram School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wishram Highlighted.png "Wishram School District Secondary Teachers Median Total Compensation")
+
+___
+
+Wishram School District Superintendent Compensation History
 ![Wishram School District Image](pages/WA School District Compensation History for Wishram Superintendent ConstantDollars.png "Wishram School District Superintendent Compensation History")
 
 ___

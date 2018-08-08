@@ -15,7 +15,12 @@ Sumner High School
 
 ___
 
-Sumner School DistrictSuperintendent Compensation History
+Sumner School District Secondary Teachers' Median Total Compensation
+![Sumner School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Sumner Highlighted.png "Sumner School District Secondary Teachers Median Total Compensation")
+
+___
+
+Sumner School District Superintendent Compensation History
 ![Sumner School District Image](pages/WA School District Compensation History for Sumner Superintendent ConstantDollars.png "Sumner School District Superintendent Compensation History")
 
 ___

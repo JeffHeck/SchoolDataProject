@@ -10,7 +10,12 @@ Wilson Creek High
 
 ___
 
-Wilson Creek School DistrictSuperintendent Compensation History
+Wilson Creek School District Secondary Teachers' Median Total Compensation
+![Wilson Creek School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wilson Creek Highlighted.png "Wilson Creek School District Secondary Teachers Median Total Compensation")
+
+___
+
+Wilson Creek School District Superintendent Compensation History
 ![Wilson Creek School District Image](pages/WA School District Compensation History for Wilson Creek Superintendent ConstantDollars.png "Wilson Creek School District Superintendent Compensation History")
 
 ___

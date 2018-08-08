@@ -20,7 +20,12 @@ Loowit High School
 
 ___
 
-Kelso School DistrictSuperintendent Compensation History
+Kelso School District Secondary Teachers' Median Total Compensation
+![Kelso School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Kelso Highlighted.png "Kelso School District Secondary Teachers Median Total Compensation")
+
+___
+
+Kelso School District Superintendent Compensation History
 ![Kelso School District Image](pages/WA School District Compensation History for Kelso Superintendent ConstantDollars.png "Kelso School District Superintendent Compensation History")
 
 ___

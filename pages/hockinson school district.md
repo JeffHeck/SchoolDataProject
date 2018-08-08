@@ -10,7 +10,12 @@ Hockinson High School
 
 ___
 
-Hockinson School DistrictSuperintendent Compensation History
+Hockinson School District Secondary Teachers' Median Total Compensation
+![Hockinson School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Hockinson Highlighted.png "Hockinson School District Secondary Teachers Median Total Compensation")
+
+___
+
+Hockinson School District Superintendent Compensation History
 ![Hockinson School District Image](pages/WA School District Compensation History for Hockinson Superintendent ConstantDollars.png "Hockinson School District Superintendent Compensation History")
 
 ___

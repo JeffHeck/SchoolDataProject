@@ -50,7 +50,12 @@ Scriber Lake High School
 
 ___
 
-Edmonds School DistrictSuperintendent Compensation History
+Edmonds School District Secondary Teachers' Median Total Compensation
+![Edmonds School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Edmonds Highlighted.png "Edmonds School District Secondary Teachers Median Total Compensation")
+
+___
+
+Edmonds School District Superintendent Compensation History
 ![Edmonds School District Image](pages/WA School District Compensation History for Edmonds Superintendent ConstantDollars.png "Edmonds School District Superintendent Compensation History")
 
 ___

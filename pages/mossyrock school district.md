@@ -15,7 +15,12 @@ Mossyrock Jr Sr High School
 
 ___
 
-Mossyrock School DistrictSuperintendent Compensation History
+Mossyrock School District Secondary Teachers' Median Total Compensation
+![Mossyrock School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mossyrock Highlighted.png "Mossyrock School District Secondary Teachers Median Total Compensation")
+
+___
+
+Mossyrock School District Superintendent Compensation History
 ![Mossyrock School District Image](pages/WA School District Compensation History for Mossyrock Superintendent ConstantDollars.png "Mossyrock School District Superintendent Compensation History")
 
 ___

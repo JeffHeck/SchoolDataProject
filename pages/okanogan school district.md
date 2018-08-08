@@ -20,7 +20,12 @@ Okanogan Outreach Alternative School
 
 ___
 
-Okanogan School DistrictSuperintendent Compensation History
+Okanogan School District Secondary Teachers' Median Total Compensation
+![Okanogan School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Okanogan Highlighted.png "Okanogan School District Secondary Teachers Median Total Compensation")
+
+___
+
+Okanogan School District Superintendent Compensation History
 ![Okanogan School District Image](pages/WA School District Compensation History for Okanogan Superintendent ConstantDollars.png "Okanogan School District Superintendent Compensation History")
 
 ___

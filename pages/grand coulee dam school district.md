@@ -10,7 +10,12 @@ Lake Roosevelt Jr Sr High School
 
 ___
 
-Grand Coulee Dam School DistrictSuperintendent Compensation History
+Grand Coulee Dam School District Secondary Teachers' Median Total Compensation
+![Grand Coulee Dam School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Grand Coulee Dam Highlighted.png "Grand Coulee Dam School District Secondary Teachers Median Total Compensation")
+
+___
+
+Grand Coulee Dam School District Superintendent Compensation History
 ![Grand Coulee Dam School District Image](pages/WA School District Compensation History for Grand Coulee Dam Superintendent ConstantDollars.png "Grand Coulee Dam School District Superintendent Compensation History")
 
 ___

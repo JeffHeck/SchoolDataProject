@@ -45,8 +45,13 @@ iGrad
 
 ___
 
-Kent School DistrictSuperintendent Compensation History
-![Kent School District Image](pages/WA School District Compensation History for Kent Superintendent ConstantDollars.png?ver=123 "Kent School District Superintendent Compensation History")
+Kent School District Secondary Teachers' Median Total Compensation
+![Kent School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Kent Highlighted.png "Kent School District Secondary Teachers Median Total Compensation")
+
+___
+
+Kent School District Superintendent Compensation History
+![Kent School District Image](pages/WA School District Compensation History for Kent Superintendent ConstantDollars.png "Kent School District Superintendent Compensation History")
 
 ___
 

@@ -15,7 +15,12 @@ Pend Oreille River School
 
 ___
 
-Newport School DistrictSuperintendent Compensation History
+Newport School District Secondary Teachers' Median Total Compensation
+![Newport School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Newport Highlighted.png "Newport School District Secondary Teachers Median Total Compensation")
+
+___
+
+Newport School District Superintendent Compensation History
 ![Newport School District Image](pages/WA School District Compensation History for Newport Superintendent ConstantDollars.png "Newport School District Superintendent Compensation History")
 
 ___

@@ -55,7 +55,12 @@ The Community School
 
 ___
 
-Spokane School DistrictSuperintendent Compensation History
+Spokane School District Secondary Teachers' Median Total Compensation
+![Spokane School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Spokane Highlighted.png "Spokane School District Secondary Teachers Median Total Compensation")
+
+___
+
+Spokane School District Superintendent Compensation History
 ![Spokane School District Image](pages/WA School District Compensation History for Spokane Superintendent ConstantDollars.png "Spokane School District Superintendent Compensation History")
 
 ___

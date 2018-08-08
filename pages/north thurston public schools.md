@@ -25,7 +25,12 @@ Timberline High School
 
 ___
 
-North Thurston Public SchoolsSuperintendent Compensation History
+North Thurston Public Schools Secondary Teachers' Median Total Compensation
+![North Thurston Public Schools Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With North Thurston Highlighted.png "North Thurston Public Schools Secondary Teachers Median Total Compensation")
+
+___
+
+North Thurston Public Schools Superintendent Compensation History
 ![North Thurston Public Schools Image](pages/WA School District Compensation History for North Thurston Superintendent ConstantDollars.png "North Thurston Public Schools Superintendent Compensation History")
 
 ___

@@ -10,7 +10,12 @@ Curlew Elem   High School
 
 ___
 
-Curlew School DistrictSuperintendent Compensation History
+Curlew School District Secondary Teachers' Median Total Compensation
+![Curlew School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Curlew Highlighted.png "Curlew School District Secondary Teachers Median Total Compensation")
+
+___
+
+Curlew School District Superintendent Compensation History
 ![Curlew School District Image](pages/WA School District Compensation History for Curlew Superintendent ConstantDollars.png "Curlew School District Superintendent Compensation History")
 
 ___

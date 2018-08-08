@@ -10,7 +10,12 @@ Crescent School
 
 ___
 
-Crescent School DistrictSuperintendent Compensation History
+Crescent School District Secondary Teachers' Median Total Compensation
+![Crescent School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Crescent Highlighted.png "Crescent School District Secondary Teachers Median Total Compensation")
+
+___
+
+Crescent School District Superintendent Compensation History
 ![Crescent School District Image](pages/WA School District Compensation History for Crescent Superintendent ConstantDollars.png "Crescent School District Superintendent Compensation History")
 
 ___

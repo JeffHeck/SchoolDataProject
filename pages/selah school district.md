@@ -15,7 +15,12 @@ Selah High School
 
 ___
 
-Selah School DistrictSuperintendent Compensation History
+Selah School District Secondary Teachers' Median Total Compensation
+![Selah School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Selah Highlighted.png "Selah School District Secondary Teachers Median Total Compensation")
+
+___
+
+Selah School District Superintendent Compensation History
 ![Selah School District Image](pages/WA School District Compensation History for Selah Superintendent ConstantDollars.png "Selah School District Superintendent Compensation History")
 
 ___

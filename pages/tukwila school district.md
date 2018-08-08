@@ -10,7 +10,12 @@ Foster Senior High School
 
 ___
 
-Tukwila School DistrictSuperintendent Compensation History
+Tukwila School District Secondary Teachers' Median Total Compensation
+![Tukwila School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Tukwila Highlighted.png "Tukwila School District Secondary Teachers Median Total Compensation")
+
+___
+
+Tukwila School District Superintendent Compensation History
 ![Tukwila School District Image](pages/WA School District Compensation History for Tukwila Superintendent ConstantDollars.png "Tukwila School District Superintendent Compensation History")
 
 ___

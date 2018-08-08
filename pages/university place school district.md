@@ -15,7 +15,12 @@ Curtis Senior High
 
 ___
 
-University Place School DistrictSuperintendent Compensation History
+University Place School District Secondary Teachers' Median Total Compensation
+![University Place School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With University Place Highlighted.png "University Place School District Secondary Teachers Median Total Compensation")
+
+___
+
+University Place School District Superintendent Compensation History
 ![University Place School District Image](pages/WA School District Compensation History for University Place Superintendent ConstantDollars.png "University Place School District Superintendent Compensation History")
 
 ___

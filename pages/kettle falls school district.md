@@ -15,7 +15,12 @@ Kettle Falls High School
 
 ___
 
-Kettle Falls School DistrictSuperintendent Compensation History
+Kettle Falls School District Secondary Teachers' Median Total Compensation
+![Kettle Falls School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Kettle Falls Highlighted.png "Kettle Falls School District Secondary Teachers Median Total Compensation")
+
+___
+
+Kettle Falls School District Superintendent Compensation History
 ![Kettle Falls School District Image](pages/WA School District Compensation History for Kettle Falls Superintendent ConstantDollars.png "Kettle Falls School District Superintendent Compensation History")
 
 ___

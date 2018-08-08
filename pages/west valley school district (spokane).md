@@ -25,7 +25,12 @@ West Valley High School
 
 ___
 
-West Valley School District (Spokane)Superintendent Compensation History
+West Valley School District (Spokane) Secondary Teachers' Median Total Compensation
+![West Valley School District (Spokane) Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With West Valley (Spokane) Highlighted.png "West Valley School District (Spokane) Secondary Teachers Median Total Compensation")
+
+___
+
+West Valley School District (Spokane) Superintendent Compensation History
 ![West Valley School District (Spokane) Image](pages/WA School District Compensation History for West Valley (Spokane) Superintendent ConstantDollars.png "West Valley School District (Spokane) Superintendent Compensation History")
 
 ___

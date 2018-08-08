@@ -20,7 +20,12 @@ PI Program
 
 ___
 
-Chimacum School DistrictSuperintendent Compensation History
+Chimacum School District Secondary Teachers' Median Total Compensation
+![Chimacum School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Chimacum Highlighted.png "Chimacum School District Secondary Teachers Median Total Compensation")
+
+___
+
+Chimacum School District Superintendent Compensation History
 ![Chimacum School District Image](pages/WA School District Compensation History for Chimacum Superintendent ConstantDollars.png "Chimacum School District Superintendent Compensation History")
 
 ___

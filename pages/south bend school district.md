@@ -20,7 +20,12 @@ South Bend Home Link
 
 ___
 
-South Bend School DistrictSuperintendent Compensation History
+South Bend School District Secondary Teachers' Median Total Compensation
+![South Bend School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With South Bend Highlighted.png "South Bend School District Secondary Teachers Median Total Compensation")
+
+___
+
+South Bend School District Superintendent Compensation History
 ![South Bend School District Image](pages/WA School District Compensation History for South Bend Superintendent ConstantDollars.png "South Bend School District Superintendent Compensation History")
 
 ___

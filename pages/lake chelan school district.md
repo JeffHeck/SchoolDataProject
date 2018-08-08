@@ -20,7 +20,12 @@ Holden Village Community School
 
 ___
 
-Lake Chelan School DistrictSuperintendent Compensation History
+Lake Chelan School District Secondary Teachers' Median Total Compensation
+![Lake Chelan School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lake Chelan Highlighted.png "Lake Chelan School District Secondary Teachers Median Total Compensation")
+
+___
+
+Lake Chelan School District Superintendent Compensation History
 ![Lake Chelan School District Image](pages/WA School District Compensation History for Lake Chelan Superintendent ConstantDollars.png "Lake Chelan School District Superintendent Compensation History")
 
 ___

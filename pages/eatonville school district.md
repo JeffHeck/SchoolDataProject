@@ -10,7 +10,12 @@ Eatonville High School
 
 ___
 
-Eatonville School DistrictSuperintendent Compensation History
+Eatonville School District Secondary Teachers' Median Total Compensation
+![Eatonville School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Eatonville Highlighted.png "Eatonville School District Secondary Teachers Median Total Compensation")
+
+___
+
+Eatonville School District Superintendent Compensation History
 ![Eatonville School District Image](pages/WA School District Compensation History for Eatonville Superintendent ConstantDollars.png "Eatonville School District Superintendent Compensation History")
 
 ___

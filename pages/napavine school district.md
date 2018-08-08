@@ -10,7 +10,12 @@ Napavine Jr Sr High School
 
 ___
 
-Napavine School DistrictSuperintendent Compensation History
+Napavine School District Secondary Teachers' Median Total Compensation
+![Napavine School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Napavine Highlighted.png "Napavine School District Secondary Teachers Median Total Compensation")
+
+___
+
+Napavine School District Superintendent Compensation History
 ![Napavine School District Image](pages/WA School District Compensation History for Napavine Superintendent ConstantDollars.png "Napavine School District Superintendent Compensation History")
 
 ___

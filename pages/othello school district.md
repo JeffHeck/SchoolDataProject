@@ -15,7 +15,12 @@ Othello High School
 
 ___
 
-Othello School DistrictSuperintendent Compensation History
+Othello School District Secondary Teachers' Median Total Compensation
+![Othello School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Othello Highlighted.png "Othello School District Secondary Teachers Median Total Compensation")
+
+___
+
+Othello School District Superintendent Compensation History
 ![Othello School District Image](pages/WA School District Compensation History for Othello Superintendent ConstantDollars.png "Othello School District Superintendent Compensation History")
 
 ___

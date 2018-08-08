@@ -10,7 +10,12 @@ North Beach Senior High School
 
 ___
 
-North Beach School DistrictSuperintendent Compensation History
+North Beach School District Secondary Teachers' Median Total Compensation
+![North Beach School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With North Beach Highlighted.png "North Beach School District Secondary Teachers Median Total Compensation")
+
+___
+
+North Beach School District Superintendent Compensation History
 ![North Beach School District Image](pages/WA School District Compensation History for North Beach Superintendent ConstantDollars.png "North Beach School District Superintendent Compensation History")
 
 ___

@@ -80,7 +80,12 @@ Technology - Engineering   Communications
 
 ___
 
-Highline School DistrictSuperintendent Compensation History
+Highline School District Secondary Teachers' Median Total Compensation
+![Highline School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Highline Highlighted.png "Highline School District Secondary Teachers Median Total Compensation")
+
+___
+
+Highline School District Superintendent Compensation History
 ![Highline School District Image](pages/WA School District Compensation History for Highline Superintendent ConstantDollars.png "Highline School District Superintendent Compensation History")
 
 ___

@@ -15,7 +15,12 @@ Palouse Junction High School
 
 ___
 
-North Franklin School DistrictSuperintendent Compensation History
+North Franklin School District Secondary Teachers' Median Total Compensation
+![North Franklin School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With North Franklin Highlighted.png "North Franklin School District Secondary Teachers Median Total Compensation")
+
+___
+
+North Franklin School District Superintendent Compensation History
 ![North Franklin School District Image](pages/WA School District Compensation History for North Franklin Superintendent ConstantDollars.png "North Franklin School District Superintendent Compensation History")
 
 ___

@@ -15,7 +15,12 @@ Mary Walker Promise
 
 ___
 
-Mary Walker School DistrictSuperintendent Compensation History
+Mary Walker School District Secondary Teachers' Median Total Compensation
+![Mary Walker School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mary Walker Highlighted.png "Mary Walker School District Secondary Teachers Median Total Compensation")
+
+___
+
+Mary Walker School District Superintendent Compensation History
 ![Mary Walker School District Image](pages/WA School District Compensation History for Mary Walker Superintendent ConstantDollars.png "Mary Walker School District Superintendent Compensation History")
 
 ___

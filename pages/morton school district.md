@@ -10,7 +10,12 @@ Morton Junior-Senior High
 
 ___
 
-Morton School DistrictSuperintendent Compensation History
+Morton School District Secondary Teachers' Median Total Compensation
+![Morton School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Morton Highlighted.png "Morton School District Secondary Teachers Median Total Compensation")
+
+___
+
+Morton School District Superintendent Compensation History
 ![Morton School District Image](pages/WA School District Compensation History for Morton Superintendent ConstantDollars.png "Morton School District Superintendent Compensation History")
 
 ___

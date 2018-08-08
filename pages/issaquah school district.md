@@ -20,7 +20,12 @@ Skyline High School
 
 ___
 
-Issaquah School DistrictSuperintendent Compensation History
+Issaquah School District Secondary Teachers' Median Total Compensation
+![Issaquah School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Issaquah Highlighted.png "Issaquah School District Secondary Teachers Median Total Compensation")
+
+___
+
+Issaquah School District Superintendent Compensation History
 ![Issaquah School District Image](pages/WA School District Compensation History for Issaquah Superintendent ConstantDollars.png "Issaquah School District Superintendent Compensation History")
 
 ___

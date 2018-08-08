@@ -20,7 +20,12 @@ Jenkins Junior Senior High
 
 ___
 
-Chewelah School DistrictSuperintendent Compensation History
+Chewelah School District Secondary Teachers' Median Total Compensation
+![Chewelah School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Chewelah Highlighted.png "Chewelah School District Secondary Teachers Median Total Compensation")
+
+___
+
+Chewelah School District Superintendent Compensation History
 ![Chewelah School District Image](pages/WA School District Compensation History for Chewelah Superintendent ConstantDollars.png "Chewelah School District Superintendent Compensation History")
 
 ___

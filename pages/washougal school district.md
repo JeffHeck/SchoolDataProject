@@ -15,7 +15,12 @@ Washougal High School
 
 ___
 
-Washougal School DistrictSuperintendent Compensation History
+Washougal School District Secondary Teachers' Median Total Compensation
+![Washougal School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Washougal Highlighted.png "Washougal School District Secondary Teachers Median Total Compensation")
+
+___
+
+Washougal School District Superintendent Compensation History
 ![Washougal School District Image](pages/WA School District Compensation History for Washougal Superintendent ConstantDollars.png "Washougal School District Superintendent Compensation History")
 
 ___

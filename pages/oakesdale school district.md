@@ -10,7 +10,12 @@ Oakesdale High School
 
 ___
 
-Oakesdale School DistrictSuperintendent Compensation History
+Oakesdale School District Secondary Teachers' Median Total Compensation
+![Oakesdale School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Oakesdale Highlighted.png "Oakesdale School District Secondary Teachers Median Total Compensation")
+
+___
+
+Oakesdale School District Superintendent Compensation History
 ![Oakesdale School District Image](pages/WA School District Compensation History for Oakesdale Superintendent ConstantDollars.png "Oakesdale School District Superintendent Compensation History")
 
 ___

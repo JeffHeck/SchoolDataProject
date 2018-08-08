@@ -10,7 +10,12 @@ Montesano Jr-Sr High
 
 ___
 
-Montesano School DistrictSuperintendent Compensation History
+Montesano School District Secondary Teachers' Median Total Compensation
+![Montesano School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Montesano Highlighted.png "Montesano School District Secondary Teachers Median Total Compensation")
+
+___
+
+Montesano School District Superintendent Compensation History
 ![Montesano School District Image](pages/WA School District Compensation History for Montesano Superintendent ConstantDollars.png "Montesano School District Superintendent Compensation History")
 
 ___

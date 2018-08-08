@@ -10,7 +10,12 @@ Royal High School
 
 ___
 
-Royal School DistrictSuperintendent Compensation History
+Royal School District Secondary Teachers' Median Total Compensation
+![Royal School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Royal Highlighted.png "Royal School District Secondary Teachers Median Total Compensation")
+
+___
+
+Royal School District Superintendent Compensation History
 ![Royal School District Image](pages/WA School District Compensation History for Royal Superintendent ConstantDollars.png "Royal School District Superintendent Compensation History")
 
 ___

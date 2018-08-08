@@ -15,7 +15,12 @@ Skagit Family Learning Center MVSD
 
 ___
 
-Mount Vernon School DistrictSuperintendent Compensation History
+Mount Vernon School District Secondary Teachers' Median Total Compensation
+![Mount Vernon School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mount Vernon Highlighted.png "Mount Vernon School District Secondary Teachers Median Total Compensation")
+
+___
+
+Mount Vernon School District Superintendent Compensation History
 ![Mount Vernon School District Image](pages/WA School District Compensation History for Mount Vernon Superintendent ConstantDollars.png "Mount Vernon School District Superintendent Compensation History")
 
 ___

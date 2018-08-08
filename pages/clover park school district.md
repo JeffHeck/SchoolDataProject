@@ -35,7 +35,12 @@ Re-Entry High School
 
 ___
 
-Clover Park School DistrictSuperintendent Compensation History
+Clover Park School District Secondary Teachers' Median Total Compensation
+![Clover Park School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Clover Park Highlighted.png "Clover Park School District Secondary Teachers Median Total Compensation")
+
+___
+
+Clover Park School District Superintendent Compensation History
 ![Clover Park School District Image](pages/WA School District Compensation History for Clover Park Superintendent ConstantDollars.png "Clover Park School District Superintendent Compensation History")
 
 ___

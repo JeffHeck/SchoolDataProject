@@ -15,7 +15,12 @@ Toledo High School
 
 ___
 
-Toledo School DistrictSuperintendent Compensation History
+Toledo School District Secondary Teachers' Median Total Compensation
+![Toledo School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Toledo Highlighted.png "Toledo School District Secondary Teachers Median Total Compensation")
+
+___
+
+Toledo School District Superintendent Compensation History
 ![Toledo School District Image](pages/WA School District Compensation History for Toledo Superintendent ConstantDollars.png "Toledo School District Superintendent Compensation History")
 
 ___

@@ -20,7 +20,12 @@ Elma High School
 
 ___
 
-Elma School DistrictSuperintendent Compensation History
+Elma School District Secondary Teachers' Median Total Compensation
+![Elma School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Elma Highlighted.png "Elma School District Secondary Teachers Median Total Compensation")
+
+___
+
+Elma School District Superintendent Compensation History
 ![Elma School District Image](pages/WA School District Compensation History for Elma Superintendent ConstantDollars.png "Elma School District Superintendent Compensation History")
 
 ___

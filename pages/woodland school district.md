@@ -20,7 +20,12 @@ Woodland High School
 
 ___
 
-Woodland School DistrictSuperintendent Compensation History
+Woodland School District Secondary Teachers' Median Total Compensation
+![Woodland School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Woodland Highlighted.png "Woodland School District Secondary Teachers Median Total Compensation")
+
+___
+
+Woodland School District Superintendent Compensation History
 ![Woodland School District Image](pages/WA School District Compensation History for Woodland Superintendent ConstantDollars.png "Woodland School District Superintendent Compensation History")
 
 ___

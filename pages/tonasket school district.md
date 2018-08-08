@@ -10,7 +10,12 @@ Tonasket High School
 
 ___
 
-Tonasket School DistrictSuperintendent Compensation History
+Tonasket School District Secondary Teachers' Median Total Compensation
+![Tonasket School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Tonasket Highlighted.png "Tonasket School District Secondary Teachers Median Total Compensation")
+
+___
+
+Tonasket School District Superintendent Compensation History
 ![Tonasket School District Image](pages/WA School District Compensation History for Tonasket Superintendent ConstantDollars.png "Tonasket School District Superintendent Compensation History")
 
 ___

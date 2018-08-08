@@ -15,7 +15,12 @@ Tahoma Senior High School
 
 ___
 
-Tahoma School DistrictSuperintendent Compensation History
+Tahoma School District Secondary Teachers' Median Total Compensation
+![Tahoma School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Tahoma Highlighted.png "Tahoma School District Secondary Teachers Median Total Compensation")
+
+___
+
+Tahoma School District Superintendent Compensation History
 ![Tahoma School District Image](pages/WA School District Compensation History for Tahoma Superintendent ConstantDollars.png "Tahoma School District Superintendent Compensation History")
 
 ___

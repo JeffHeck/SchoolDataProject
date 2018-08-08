@@ -35,7 +35,12 @@ South Kitsap High School
 
 ___
 
-South Kitsap School DistrictSuperintendent Compensation History
+South Kitsap School District Secondary Teachers' Median Total Compensation
+![South Kitsap School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With South Kitsap Highlighted.png "South Kitsap School District Secondary Teachers Median Total Compensation")
+
+___
+
+South Kitsap School District Superintendent Compensation History
 ![South Kitsap School District Image](pages/WA School District Compensation History for South Kitsap Superintendent ConstantDollars.png "South Kitsap School District Superintendent Compensation History")
 
 ___

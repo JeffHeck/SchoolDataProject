@@ -10,7 +10,12 @@ Washtucna Elementary High School
 
 ___
 
-Washtucna School DistrictSuperintendent Compensation History
+Washtucna School District Secondary Teachers' Median Total Compensation
+![Washtucna School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Washtucna Highlighted.png "Washtucna School District Secondary Teachers Median Total Compensation")
+
+___
+
+Washtucna School District Superintendent Compensation History
 ![Washtucna School District Image](pages/WA School District Compensation History for Washtucna Superintendent ConstantDollars.png "Washtucna School District Superintendent Compensation History")
 
 ___

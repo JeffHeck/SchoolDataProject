@@ -20,7 +20,12 @@ Quincy Junior High
 
 ___
 
-Quincy School DistrictSuperintendent Compensation History
+Quincy School District Secondary Teachers' Median Total Compensation
+![Quincy School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Quincy Highlighted.png "Quincy School District Secondary Teachers Median Total Compensation")
+
+___
+
+Quincy School District Superintendent Compensation History
 ![Quincy School District Image](pages/WA School District Compensation History for Quincy Superintendent ConstantDollars.png "Quincy School District Superintendent Compensation History")
 
 ___

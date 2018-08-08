@@ -10,7 +10,12 @@ Waterville High School
 
 ___
 
-Waterville School DistrictSuperintendent Compensation History
+Waterville School District Secondary Teachers' Median Total Compensation
+![Waterville School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Waterville Highlighted.png "Waterville School District Secondary Teachers Median Total Compensation")
+
+___
+
+Waterville School District Superintendent Compensation History
 ![Waterville School District Image](pages/WA School District Compensation History for Waterville Superintendent ConstantDollars.png "Waterville School District Superintendent Compensation History")
 
 ___

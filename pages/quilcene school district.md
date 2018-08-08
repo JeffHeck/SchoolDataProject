@@ -15,7 +15,12 @@ Quilcene High And Elementary
 
 ___
 
-Quilcene School DistrictSuperintendent Compensation History
+Quilcene School District Secondary Teachers' Median Total Compensation
+![Quilcene School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Quilcene Highlighted.png "Quilcene School District Secondary Teachers Median Total Compensation")
+
+___
+
+Quilcene School District Superintendent Compensation History
 ![Quilcene School District Image](pages/WA School District Compensation History for Quilcene Superintendent ConstantDollars.png "Quilcene School District Superintendent Compensation History")
 
 ___

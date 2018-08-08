@@ -25,7 +25,12 @@ PARADE
 
 ___
 
-Riverview School DistrictSuperintendent Compensation History
+Riverview School District Secondary Teachers' Median Total Compensation
+![Riverview School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Riverview Highlighted.png "Riverview School District Secondary Teachers Median Total Compensation")
+
+___
+
+Riverview School District Superintendent Compensation History
 ![Riverview School District Image](pages/WA School District Compensation History for Riverview Superintendent ConstantDollars.png "Riverview School District Superintendent Compensation History")
 
 ___

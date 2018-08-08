@@ -10,7 +10,12 @@ Inchelium High School
 
 ___
 
-Inchelium School DistrictSuperintendent Compensation History
+Inchelium School District Secondary Teachers' Median Total Compensation
+![Inchelium School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Inchelium Highlighted.png "Inchelium School District Secondary Teachers Median Total Compensation")
+
+___
+
+Inchelium School District Superintendent Compensation History
 ![Inchelium School District Image](pages/WA School District Compensation History for Inchelium Superintendent ConstantDollars.png "Inchelium School District Superintendent Compensation History")
 
 ___

@@ -15,7 +15,12 @@ Orcas Island High School
 
 ___
 
-Orcas Island School DistrictSuperintendent Compensation History
+Orcas Island School District Secondary Teachers' Median Total Compensation
+![Orcas Island School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Orcas Island Highlighted.png "Orcas Island School District Secondary Teachers Median Total Compensation")
+
+___
+
+Orcas Island School District Superintendent Compensation History
 ![Orcas Island School District Image](pages/WA School District Compensation History for Orcas Island Superintendent ConstantDollars.png "Orcas Island School District Superintendent Compensation History")
 
 ___

@@ -25,7 +25,12 @@ Sky Valley Education Center
 
 ___
 
-Monroe School DistrictSuperintendent Compensation History
+Monroe School District Secondary Teachers' Median Total Compensation
+![Monroe School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Monroe Highlighted.png "Monroe School District Secondary Teachers Median Total Compensation")
+
+___
+
+Monroe School District Superintendent Compensation History
 ![Monroe School District Image](pages/WA School District Compensation History for Monroe Superintendent ConstantDollars.png "Monroe School District Superintendent Compensation History")
 
 ___

@@ -15,7 +15,12 @@ Naselle Jr Sr High Schools
 
 ___
 
-Naselle-Grays River Valley School DistrictSuperintendent Compensation History
+Naselle-Grays River Valley School District Secondary Teachers' Median Total Compensation
+![Naselle-Grays River Valley School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Naselle-Grays River Valley Highlighted.png "Naselle-Grays River Valley School District Secondary Teachers Median Total Compensation")
+
+___
+
+Naselle-Grays River Valley School District Superintendent Compensation History
 ![Naselle-Grays River Valley School District Image](pages/WA School District Compensation History for Naselle-Grays River Valley Superintendent ConstantDollars.png "Naselle-Grays River Valley School District Superintendent Compensation History")
 
 ___

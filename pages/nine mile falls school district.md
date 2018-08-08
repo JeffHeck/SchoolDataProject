@@ -10,7 +10,12 @@ Lakeside High School
 
 ___
 
-Nine Mile Falls School DistrictSuperintendent Compensation History
+Nine Mile Falls School District Secondary Teachers' Median Total Compensation
+![Nine Mile Falls School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Nine Mile Falls Highlighted.png "Nine Mile Falls School District Secondary Teachers Median Total Compensation")
+
+___
+
+Nine Mile Falls School District Superintendent Compensation History
 ![Nine Mile Falls School District Image](pages/WA School District Compensation History for Nine Mile Falls Superintendent ConstantDollars.png "Nine Mile Falls School District Superintendent Compensation History")
 
 ___

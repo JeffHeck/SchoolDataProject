@@ -10,7 +10,12 @@ Wahkiakum High School
 
 ___
 
-Wahkiakum School DistrictSuperintendent Compensation History
+Wahkiakum School District Secondary Teachers' Median Total Compensation
+![Wahkiakum School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wahkiakum Highlighted.png "Wahkiakum School District Secondary Teachers Median Total Compensation")
+
+___
+
+Wahkiakum School District Superintendent Compensation History
 ![Wahkiakum School District Image](pages/WA School District Compensation History for Wahkiakum Superintendent ConstantDollars.png "Wahkiakum School District Superintendent Compensation History")
 
 ___

@@ -20,7 +20,12 @@ Thunder Mountain Middle School
 
 ___
 
-Enumclaw School DistrictSuperintendent Compensation History
+Enumclaw School District Secondary Teachers' Median Total Compensation
+![Enumclaw School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Enumclaw Highlighted.png "Enumclaw School District Secondary Teachers Median Total Compensation")
+
+___
+
+Enumclaw School District Superintendent Compensation History
 ![Enumclaw School District Image](pages/WA School District Compensation History for Enumclaw Superintendent ConstantDollars.png "Enumclaw School District Superintendent Compensation History")
 
 ___

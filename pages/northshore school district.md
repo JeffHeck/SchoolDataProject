@@ -65,7 +65,12 @@ Woodinville HS
 
 ___
 
-Northshore School DistrictSuperintendent Compensation History
+Northshore School District Secondary Teachers' Median Total Compensation
+![Northshore School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Northshore Highlighted.png "Northshore School District Secondary Teachers Median Total Compensation")
+
+___
+
+Northshore School District Superintendent Compensation History
 ![Northshore School District Image](pages/WA School District Compensation History for Northshore Superintendent ConstantDollars.png "Northshore School District Superintendent Compensation History")
 
 ___

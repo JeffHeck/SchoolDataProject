@@ -15,7 +15,12 @@ Medical Lake High School
 
 ___
 
-Medical Lake School DistrictSuperintendent Compensation History
+Medical Lake School District Secondary Teachers' Median Total Compensation
+![Medical Lake School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Medical Lake Highlighted.png "Medical Lake School District Secondary Teachers Median Total Compensation")
+
+___
+
+Medical Lake School District Superintendent Compensation History
 ![Medical Lake School District Image](pages/WA School District Compensation History for Medical Lake Superintendent ConstantDollars.png "Medical Lake School District Superintendent Compensation History")
 
 ___

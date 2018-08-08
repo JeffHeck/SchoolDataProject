@@ -25,7 +25,12 @@ Yelm Middle School
 
 ___
 
-Yelm School DistrictSuperintendent Compensation History
+Yelm School District Secondary Teachers' Median Total Compensation
+![Yelm School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Yelm Highlighted.png "Yelm School District Secondary Teachers Median Total Compensation")
+
+___
+
+Yelm School District Superintendent Compensation History
 ![Yelm School District Image](pages/WA School District Compensation History for Yelm Superintendent ConstantDollars.png "Yelm School District Superintendent Compensation History")
 
 ___

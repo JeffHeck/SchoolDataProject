@@ -15,7 +15,12 @@ Rochester High School
 
 ___
 
-Rochester School DistrictSuperintendent Compensation History
+Rochester School District Secondary Teachers' Median Total Compensation
+![Rochester School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Rochester Highlighted.png "Rochester School District Secondary Teachers Median Total Compensation")
+
+___
+
+Rochester School District Superintendent Compensation History
 ![Rochester School District Image](pages/WA School District Compensation History for Rochester Superintendent ConstantDollars.png "Rochester School District Superintendent Compensation History")
 
 ___

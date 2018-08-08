@@ -20,7 +20,12 @@ Vashon Island High School
 
 ___
 
-Vashon Island School DistrictSuperintendent Compensation History
+Vashon Island School District Secondary Teachers' Median Total Compensation
+![Vashon Island School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Vashon Island Highlighted.png "Vashon Island School District Secondary Teachers Median Total Compensation")
+
+___
+
+Vashon Island School District Superintendent Compensation History
 ![Vashon Island School District Image](pages/WA School District Compensation History for Vashon Island Superintendent ConstantDollars.png "Vashon Island School District Superintendent Compensation History")
 
 ___

@@ -15,7 +15,12 @@ Steilacoom High
 
 ___
 
-Steilacoom Hist School DistrictSuperintendent Compensation History
+Steilacoom Hist School District Secondary Teachers' Median Total Compensation
+![Steilacoom Hist School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Steilacoom Hist Highlighted.png "Steilacoom Hist School District Secondary Teachers Median Total Compensation")
+
+___
+
+Steilacoom Hist School District Superintendent Compensation History
 ![Steilacoom Hist School District Image](pages/WA School District Compensation History for Steilacoom Hist Superintendent ConstantDollars.png "Steilacoom Hist School District Superintendent Compensation History")
 
 ___

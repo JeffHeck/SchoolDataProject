@@ -15,7 +15,12 @@ Skill Source Learning Center
 
 ___
 
-Moses Lake School DistrictSuperintendent Compensation History
+Moses Lake School District Secondary Teachers' Median Total Compensation
+![Moses Lake School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Moses Lake Highlighted.png "Moses Lake School District Secondary Teachers Median Total Compensation")
+
+___
+
+Moses Lake School District Superintendent Compensation History
 ![Moses Lake School District Image](pages/WA School District Compensation History for Moses Lake Superintendent ConstantDollars.png "Moses Lake School District Superintendent Compensation History")
 
 ___

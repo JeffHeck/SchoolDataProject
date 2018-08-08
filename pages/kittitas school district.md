@@ -10,7 +10,12 @@ Kittitas High School
 
 ___
 
-Kittitas School DistrictSuperintendent Compensation History
+Kittitas School District Secondary Teachers' Median Total Compensation
+![Kittitas School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Kittitas Highlighted.png "Kittitas School District Secondary Teachers Median Total Compensation")
+
+___
+
+Kittitas School District Superintendent Compensation History
 ![Kittitas School District Image](pages/WA School District Compensation History for Kittitas Superintendent ConstantDollars.png "Kittitas School District Superintendent Compensation History")
 
 ___

@@ -15,7 +15,12 @@ Liberty Bell Jr Sr High
 
 ___
 
-Methow Valley School DistrictSuperintendent Compensation History
+Methow Valley School District Secondary Teachers' Median Total Compensation
+![Methow Valley School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Methow Valley Highlighted.png "Methow Valley School District Secondary Teachers Median Total Compensation")
+
+___
+
+Methow Valley School District Superintendent Compensation History
 ![Methow Valley School District Image](pages/WA School District Compensation History for Methow Valley Superintendent ConstantDollars.png "Methow Valley School District Superintendent Compensation History")
 
 ___

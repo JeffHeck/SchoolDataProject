@@ -20,7 +20,12 @@ East Valley High School
 
 ___
 
-East Valley School District (Spokane)Superintendent Compensation History
+East Valley School District (Spokane) Secondary Teachers' Median Total Compensation
+![East Valley School District (Spokane) Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With East Valley (Spokane) Highlighted.png "East Valley School District (Spokane) Secondary Teachers Median Total Compensation")
+
+___
+
+East Valley School District (Spokane) Superintendent Compensation History
 ![East Valley School District (Spokane) Image](pages/WA School District Compensation History for East Valley (Spokane) Superintendent ConstantDollars.png "East Valley School District (Spokane) Superintendent Compensation History")
 
 ___

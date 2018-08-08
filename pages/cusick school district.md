@@ -10,7 +10,12 @@ Cusick Jr Sr High School
 
 ___
 
-Cusick School DistrictSuperintendent Compensation History
+Cusick School District Secondary Teachers' Median Total Compensation
+![Cusick School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Cusick Highlighted.png "Cusick School District Secondary Teachers Median Total Compensation")
+
+___
+
+Cusick School District Superintendent Compensation History
 ![Cusick School District Image](pages/WA School District Compensation History for Cusick Superintendent ConstantDollars.png "Cusick School District Superintendent Compensation History")
 
 ___

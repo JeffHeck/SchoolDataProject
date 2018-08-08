@@ -15,7 +15,12 @@ Port Angeles High School
 
 ___
 
-Port Angeles School DistrictSuperintendent Compensation History
+Port Angeles School District Secondary Teachers' Median Total Compensation
+![Port Angeles School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Port Angeles Highlighted.png "Port Angeles School District Secondary Teachers Median Total Compensation")
+
+___
+
+Port Angeles School District Superintendent Compensation History
 ![Port Angeles School District Image](pages/WA School District Compensation History for Port Angeles Superintendent ConstantDollars.png "Port Angeles School District Superintendent Compensation History")
 
 ___

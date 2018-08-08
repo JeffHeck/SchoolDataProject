@@ -45,7 +45,12 @@ Ridgetop Middle School
 
 ___
 
-Central Kitsap School DistrictSuperintendent Compensation History
+Central Kitsap School District Secondary Teachers' Median Total Compensation
+![Central Kitsap School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Central Kitsap Highlighted.png "Central Kitsap School District Secondary Teachers Median Total Compensation")
+
+___
+
+Central Kitsap School District Superintendent Compensation History
 ![Central Kitsap School District Image](pages/WA School District Compensation History for Central Kitsap Superintendent ConstantDollars.png "Central Kitsap School District Superintendent Compensation History")
 
 ___

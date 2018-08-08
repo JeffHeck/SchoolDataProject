@@ -15,7 +15,12 @@ Mount Baker Senior High
 
 ___
 
-Mount Baker School DistrictSuperintendent Compensation History
+Mount Baker School District Secondary Teachers' Median Total Compensation
+![Mount Baker School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mount Baker Highlighted.png "Mount Baker School District Secondary Teachers Median Total Compensation")
+
+___
+
+Mount Baker School District Superintendent Compensation History
 ![Mount Baker School District Image](pages/WA School District Compensation History for Mount Baker Superintendent ConstantDollars.png "Mount Baker School District Superintendent Compensation History")
 
 ___

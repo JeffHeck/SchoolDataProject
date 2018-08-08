@@ -10,7 +10,12 @@ Wilbur Secondary School
 
 ___
 
-Wilbur School DistrictSuperintendent Compensation History
+Wilbur School District Secondary Teachers' Median Total Compensation
+![Wilbur School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wilbur Highlighted.png "Wilbur School District Secondary Teachers Median Total Compensation")
+
+___
+
+Wilbur School District Superintendent Compensation History
 ![Wilbur School District Image](pages/WA School District Compensation History for Wilbur Superintendent ConstantDollars.png "Wilbur School District Superintendent Compensation History")
 
 ___

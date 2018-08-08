@@ -10,7 +10,12 @@ Lake Quinault High School
 
 ___
 
-Lake Quinault School DistrictSuperintendent Compensation History
+Lake Quinault School District Secondary Teachers' Median Total Compensation
+![Lake Quinault School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lake Quinault Highlighted.png "Lake Quinault School District Secondary Teachers Median Total Compensation")
+
+___
+
+Lake Quinault School District Superintendent Compensation History
 ![Lake Quinault School District Image](pages/WA School District Compensation History for Lake Quinault Superintendent ConstantDollars.png "Lake Quinault School District Superintendent Compensation History")
 
 ___

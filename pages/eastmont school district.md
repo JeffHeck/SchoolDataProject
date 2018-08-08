@@ -15,7 +15,12 @@ Eastmont Senior High
 
 ___
 
-Eastmont School DistrictSuperintendent Compensation History
+Eastmont School District Secondary Teachers' Median Total Compensation
+![Eastmont School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Eastmont Highlighted.png "Eastmont School District Secondary Teachers Median Total Compensation")
+
+___
+
+Eastmont School District Superintendent Compensation History
 ![Eastmont School District Image](pages/WA School District Compensation History for Eastmont Superintendent ConstantDollars.png "Eastmont School District Superintendent Compensation History")
 
 ___

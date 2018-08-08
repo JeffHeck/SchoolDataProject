@@ -20,7 +20,12 @@ North Mason Senior High School
 
 ___
 
-North Mason School DistrictSuperintendent Compensation History
+North Mason School District Secondary Teachers' Median Total Compensation
+![North Mason School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With North Mason Highlighted.png "North Mason School District Secondary Teachers Median Total Compensation")
+
+___
+
+North Mason School District Superintendent Compensation History
 ![North Mason School District Image](pages/WA School District Compensation History for North Mason Superintendent ConstantDollars.png "North Mason School District Superintendent Compensation History")
 
 ___

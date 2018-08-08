@@ -110,7 +110,12 @@ West Seattle High School
 
 ___
 
-Seattle Public SchoolsSuperintendent Compensation History
+Seattle Public Schools Secondary Teachers' Median Total Compensation
+![Seattle Public Schools Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Seattle Highlighted.png "Seattle Public Schools Secondary Teachers Median Total Compensation")
+
+___
+
+Seattle Public Schools Superintendent Compensation History
 ![Seattle Public Schools Image](pages/WA School District Compensation History for Seattle Superintendent ConstantDollars.png "Seattle Public Schools Superintendent Compensation History")
 
 ___

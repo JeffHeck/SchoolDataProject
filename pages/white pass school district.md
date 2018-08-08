@@ -10,7 +10,12 @@ White Pass Jr Sr High School
 
 ___
 
-White Pass School DistrictSuperintendent Compensation History
+White Pass School District Secondary Teachers' Median Total Compensation
+![White Pass School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With White Pass Highlighted.png "White Pass School District Secondary Teachers Median Total Compensation")
+
+___
+
+White Pass School District Superintendent Compensation History
 ![White Pass School District Image](pages/WA School District Compensation History for White Pass Superintendent ConstantDollars.png "White Pass School District Superintendent Compensation History")
 
 ___

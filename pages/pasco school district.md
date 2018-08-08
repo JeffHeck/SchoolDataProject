@@ -20,7 +20,12 @@ Pasco Senior High School
 
 ___
 
-Pasco School DistrictSuperintendent Compensation History
+Pasco School District Secondary Teachers' Median Total Compensation
+![Pasco School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Pasco Highlighted.png "Pasco School District Secondary Teachers Median Total Compensation")
+
+___
+
+Pasco School District Superintendent Compensation History
 ![Pasco School District Image](pages/WA School District Compensation History for Pasco Superintendent ConstantDollars.png "Pasco School District Superintendent Compensation History")
 
 ___

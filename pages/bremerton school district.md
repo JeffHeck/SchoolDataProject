@@ -20,7 +20,12 @@ Renaissance Alternative High School
 
 ___
 
-Bremerton School DistrictSuperintendent Compensation History
+Bremerton School District Secondary Teachers' Median Total Compensation
+![Bremerton School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Bremerton Highlighted.png "Bremerton School District Secondary Teachers Median Total Compensation")
+
+___
+
+Bremerton School District Superintendent Compensation History
 ![Bremerton School District Image](pages/WA School District Compensation History for Bremerton Superintendent ConstantDollars.png "Bremerton School District Superintendent Compensation History")
 
 ___

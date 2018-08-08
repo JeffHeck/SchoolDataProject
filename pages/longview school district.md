@@ -25,7 +25,12 @@ R A Long High School
 
 ___
 
-Longview School DistrictSuperintendent Compensation History
+Longview School District Secondary Teachers' Median Total Compensation
+![Longview School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Longview Highlighted.png "Longview School District Secondary Teachers Median Total Compensation")
+
+___
+
+Longview School District Superintendent Compensation History
 ![Longview School District Image](pages/WA School District Compensation History for Longview Superintendent ConstantDollars.png "Longview School District Superintendent Compensation History")
 
 ___

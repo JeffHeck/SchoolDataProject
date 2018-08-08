@@ -10,7 +10,12 @@ Wishkah Valley Elementary High School
 
 ___
 
-Wishkah Valley School DistrictSuperintendent Compensation History
+Wishkah Valley School District Secondary Teachers' Median Total Compensation
+![Wishkah Valley School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wishkah Valley Highlighted.png "Wishkah Valley School District Secondary Teachers Median Total Compensation")
+
+___
+
+Wishkah Valley School District Superintendent Compensation History
 ![Wishkah Valley School District Image](pages/WA School District Compensation History for Wishkah Valley Superintendent ConstantDollars.png "Wishkah Valley School District Superintendent Compensation History")
 
 ___

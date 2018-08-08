@@ -15,7 +15,12 @@ Lopez Middle High School
 
 ___
 
-Lopez School DistrictSuperintendent Compensation History
+Lopez School District Secondary Teachers' Median Total Compensation
+![Lopez School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lopez Highlighted.png "Lopez School District Secondary Teachers Median Total Compensation")
+
+___
+
+Lopez School District Superintendent Compensation History
 ![Lopez School District Image](pages/WA School District Compensation History for Lopez Superintendent ConstantDollars.png "Lopez School District Superintendent Compensation History")
 
 ___

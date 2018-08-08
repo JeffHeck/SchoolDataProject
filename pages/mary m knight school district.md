@@ -10,7 +10,12 @@ Mary M Knight School
 
 ___
 
-Mary M Knight School DistrictSuperintendent Compensation History
+Mary M Knight School District Secondary Teachers' Median Total Compensation
+![Mary M Knight School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mary M Knight Highlighted.png "Mary M Knight School District Secondary Teachers Median Total Compensation")
+
+___
+
+Mary M Knight School District Superintendent Compensation History
 ![Mary M Knight School District Image](pages/WA School District Compensation History for Mary M Knight Superintendent ConstantDollars.png "Mary M Knight School District Superintendent Compensation History")
 
 ___

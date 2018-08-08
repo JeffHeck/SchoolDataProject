@@ -15,7 +15,12 @@ Eagle Harbor High School
 
 ___
 
-Bainbridge Island School DistrictSuperintendent Compensation History
+Bainbridge Island School District Secondary Teachers' Median Total Compensation
+![Bainbridge Island School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Bainbridge Island Highlighted.png "Bainbridge Island School District Secondary Teachers Median Total Compensation")
+
+___
+
+Bainbridge Island School District Superintendent Compensation History
 ![Bainbridge Island School District Image](pages/WA School District Compensation History for Bainbridge Island Superintendent ConstantDollars.png "Bainbridge Island School District Superintendent Compensation History")
 
 ___

@@ -10,7 +10,12 @@ St John Endicott High
 
 ___
 
-St John School DistrictSuperintendent Compensation History
+St John School District Secondary Teachers' Median Total Compensation
+![St John School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With St John Highlighted.png "St John School District Secondary Teachers Median Total Compensation")
+
+___
+
+St John School District Superintendent Compensation History
 ![St John School District Image](pages/WA School District Compensation History for St John Superintendent ConstantDollars.png "St John School District Superintendent Compensation History")
 
 ___

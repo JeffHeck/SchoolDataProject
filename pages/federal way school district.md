@@ -65,7 +65,12 @@ Todd Beamer High School
 
 ___
 
-Federal Way School DistrictSuperintendent Compensation History
+Federal Way School District Secondary Teachers' Median Total Compensation
+![Federal Way School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Federal Way Highlighted.png "Federal Way School District Secondary Teachers Median Total Compensation")
+
+___
+
+Federal Way School District Superintendent Compensation History
 ![Federal Way School District Image](pages/WA School District Compensation History for Federal Way Superintendent ConstantDollars.png "Federal Way School District Superintendent Compensation History")
 
 ___

@@ -15,7 +15,12 @@ Wapato High School
 
 ___
 
-Wapato School DistrictSuperintendent Compensation History
+Wapato School District Secondary Teachers' Median Total Compensation
+![Wapato School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wapato Highlighted.png "Wapato School District Secondary Teachers Median Total Compensation")
+
+___
+
+Wapato School District Superintendent Compensation History
 ![Wapato School District Image](pages/WA School District Compensation History for Wapato Superintendent ConstantDollars.png "Wapato School District Superintendent Compensation History")
 
 ___

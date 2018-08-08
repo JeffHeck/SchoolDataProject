@@ -70,7 +70,12 @@ Wilson
 
 ___
 
-Tacoma School DistrictSuperintendent Compensation History
+Tacoma School District Secondary Teachers' Median Total Compensation
+![Tacoma School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Tacoma Highlighted.png "Tacoma School District Secondary Teachers Median Total Compensation")
+
+___
+
+Tacoma School District Superintendent Compensation History
 ![Tacoma School District Image](pages/WA School District Compensation History for Tacoma Superintendent ConstantDollars.png "Tacoma School District Superintendent Compensation History")
 
 ___

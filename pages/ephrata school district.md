@@ -15,7 +15,12 @@ Sage Hills High School
 
 ___
 
-Ephrata School DistrictSuperintendent Compensation History
+Ephrata School District Secondary Teachers' Median Total Compensation
+![Ephrata School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Ephrata Highlighted.png "Ephrata School District Secondary Teachers Median Total Compensation")
+
+___
+
+Ephrata School District Superintendent Compensation History
 ![Ephrata School District Image](pages/WA School District Compensation History for Ephrata Superintendent ConstantDollars.png "Ephrata School District Superintendent Compensation History")
 
 ___

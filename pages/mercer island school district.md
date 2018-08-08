@@ -15,7 +15,12 @@ Mercer Island High School
 
 ___
 
-Mercer Island School DistrictSuperintendent Compensation History
+Mercer Island School District Secondary Teachers' Median Total Compensation
+![Mercer Island School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mercer Island Highlighted.png "Mercer Island School District Secondary Teachers Median Total Compensation")
+
+___
+
+Mercer Island School District Superintendent Compensation History
 ![Mercer Island School District Image](pages/WA School District Compensation History for Mercer Island Superintendent ConstantDollars.png "Mercer Island School District Superintendent Compensation History")
 
 ___

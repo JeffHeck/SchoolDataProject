@@ -10,7 +10,12 @@ Pateros High School
 
 ___
 
-Pateros School DistrictSuperintendent Compensation History
+Pateros School District Secondary Teachers' Median Total Compensation
+![Pateros School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Pateros Highlighted.png "Pateros School District Secondary Teachers Median Total Compensation")
+
+___
+
+Pateros School District Superintendent Compensation History
 ![Pateros School District Image](pages/WA School District Compensation History for Pateros Superintendent ConstantDollars.png "Pateros School District Superintendent Compensation History")
 
 ___

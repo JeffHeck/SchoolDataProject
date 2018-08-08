@@ -10,7 +10,12 @@ Cashmere High School
 
 ___
 
-Cashmere School DistrictSuperintendent Compensation History
+Cashmere School District Secondary Teachers' Median Total Compensation
+![Cashmere School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Cashmere Highlighted.png "Cashmere School District Secondary Teachers Median Total Compensation")
+
+___
+
+Cashmere School District Superintendent Compensation History
 ![Cashmere School District Image](pages/WA School District Compensation History for Cashmere Superintendent ConstantDollars.png "Cashmere School District Superintendent Compensation History")
 
 ___

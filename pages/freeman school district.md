@@ -10,7 +10,12 @@ Freeman High School
 
 ___
 
-Freeman School DistrictSuperintendent Compensation History
+Freeman School District Secondary Teachers' Median Total Compensation
+![Freeman School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Freeman Highlighted.png "Freeman School District Secondary Teachers Median Total Compensation")
+
+___
+
+Freeman School District Superintendent Compensation History
 ![Freeman School District Image](pages/WA School District Compensation History for Freeman Superintendent ConstantDollars.png "Freeman School District Superintendent Compensation History")
 
 ___

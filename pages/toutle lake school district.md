@@ -10,7 +10,12 @@ Toutle Lake High School
 
 ___
 
-Toutle Lake School DistrictSuperintendent Compensation History
+Toutle Lake School District Secondary Teachers' Median Total Compensation
+![Toutle Lake School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Toutle Lake Highlighted.png "Toutle Lake School District Secondary Teachers Median Total Compensation")
+
+___
+
+Toutle Lake School District Superintendent Compensation History
 ![Toutle Lake School District Image](pages/WA School District Compensation History for Toutle Lake Superintendent ConstantDollars.png "Toutle Lake School District Superintendent Compensation History")
 
 ___

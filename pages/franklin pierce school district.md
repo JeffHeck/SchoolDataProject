@@ -20,7 +20,12 @@ Washington High School
 
 ___
 
-Franklin Pierce School DistrictSuperintendent Compensation History
+Franklin Pierce School District Secondary Teachers' Median Total Compensation
+![Franklin Pierce School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Franklin Pierce Highlighted.png "Franklin Pierce School District Secondary Teachers Median Total Compensation")
+
+___
+
+Franklin Pierce School District Superintendent Compensation History
 ![Franklin Pierce School District Image](pages/WA School District Compensation History for Franklin Pierce Superintendent ConstantDollars.png "Franklin Pierce School District Superintendent Compensation History")
 
 ___

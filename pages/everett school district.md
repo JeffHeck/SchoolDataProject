@@ -40,7 +40,12 @@ Special Services
 
 ___
 
-Everett School DistrictSuperintendent Compensation History
+Everett School District Secondary Teachers' Median Total Compensation
+![Everett School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Everett Highlighted.png "Everett School District Secondary Teachers Median Total Compensation")
+
+___
+
+Everett School District Superintendent Compensation History
 ![Everett School District Image](pages/WA School District Compensation History for Everett Superintendent ConstantDollars.png "Everett School District Superintendent Compensation History")
 
 ___
