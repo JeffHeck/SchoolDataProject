@@ -8,4 +8,5 @@ This site is devoted to analyzing school data to inform and assist parents, taxp
 Currently, Washington State's K-12 schools are covered.
 
 Latest addition: added district historical demographics.
+
 In progress: adding elementary school teachers' median total compensation for each district.
