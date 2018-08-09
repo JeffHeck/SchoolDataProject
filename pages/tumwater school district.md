@@ -35,6 +35,11 @@ Tumwater School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Tumwater School District Elem. Homeroom Teachers' Median Total Compensation
+![Tumwater School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Tumwater Highlighted.png "Tumwater School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Tumwater School District Superintendent Compensation History
 ![Tumwater School District Image](pages/WA School District Compensation History for Tumwater Superintendent ConstantDollars.png "Tumwater School District Superintendent Compensation History")
 

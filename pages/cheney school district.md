@@ -30,6 +30,11 @@ Cheney School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Cheney School District Elem. Homeroom Teachers' Median Total Compensation
+![Cheney School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Cheney Highlighted.png "Cheney School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Cheney School District Superintendent Compensation History
 ![Cheney School District Image](pages/WA School District Compensation History for Cheney Superintendent ConstantDollars.png "Cheney School District Superintendent Compensation History")
 

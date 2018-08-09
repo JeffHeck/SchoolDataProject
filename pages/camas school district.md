@@ -25,6 +25,11 @@ Camas School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Camas School District Elem. Homeroom Teachers' Median Total Compensation
+![Camas School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Camas Highlighted.png "Camas School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Camas School District Superintendent Compensation History
 ![Camas School District Image](pages/WA School District Compensation History for Camas Superintendent ConstantDollars.png "Camas School District Superintendent Compensation History")
 

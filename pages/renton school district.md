@@ -55,6 +55,11 @@ Renton School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Renton School District Elem. Homeroom Teachers' Median Total Compensation
+![Renton School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Renton Highlighted.png "Renton School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Renton School District Superintendent Compensation History
 ![Renton School District Image](pages/WA School District Compensation History for Renton Superintendent ConstantDollars.png "Renton School District Superintendent Compensation History")
 

@@ -20,6 +20,11 @@ Mount Adams School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Mount Adams School District Elem. Homeroom Teachers' Median Total Compensation
+![Mount Adams School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Mount Adams Highlighted.png "Mount Adams School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Mount Adams School District Superintendent Compensation History
 ![Mount Adams School District Image](pages/WA School District Compensation History for Mount Adams Superintendent ConstantDollars.png "Mount Adams School District Superintendent Compensation History")
 

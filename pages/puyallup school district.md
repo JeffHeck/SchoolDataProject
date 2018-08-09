@@ -80,6 +80,11 @@ Puyallup School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Puyallup School District Elem. Homeroom Teachers' Median Total Compensation
+![Puyallup School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Puyallup Highlighted.png "Puyallup School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Puyallup School District Superintendent Compensation History
 ![Puyallup School District Image](pages/WA School District Compensation History for Puyallup Superintendent ConstantDollars.png "Puyallup School District Superintendent Compensation History")
 

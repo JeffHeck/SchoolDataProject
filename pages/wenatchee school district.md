@@ -40,6 +40,11 @@ Wenatchee School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Wenatchee School District Elem. Homeroom Teachers' Median Total Compensation
+![Wenatchee School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Wenatchee Highlighted.png "Wenatchee School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Wenatchee School District Superintendent Compensation History
 ![Wenatchee School District Image](pages/WA School District Compensation History for Wenatchee Superintendent ConstantDollars.png "Wenatchee School District Superintendent Compensation History")
 

@@ -25,6 +25,11 @@ Soap Lake School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Soap Lake School District Elem. Homeroom Teachers' Median Total Compensation
+![Soap Lake School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Soap Lake Highlighted.png "Soap Lake School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Soap Lake School District Superintendent Compensation History
 ![Soap Lake School District Image](pages/WA School District Compensation History for Soap Lake Superintendent ConstantDollars.png "Soap Lake School District Superintendent Compensation History")
 

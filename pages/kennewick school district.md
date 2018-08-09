@@ -45,6 +45,11 @@ Kennewick School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Kennewick School District Elem. Homeroom Teachers' Median Total Compensation
+![Kennewick School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Kennewick Highlighted.png "Kennewick School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Kennewick School District Superintendent Compensation History
 ![Kennewick School District Image](pages/WA School District Compensation History for Kennewick Superintendent ConstantDollars.png "Kennewick School District Superintendent Compensation History")
 

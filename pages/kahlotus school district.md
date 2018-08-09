@@ -20,6 +20,11 @@ Kahlotus School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Kahlotus School District Elem. Homeroom Teachers' Median Total Compensation
+![Kahlotus School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Kahlotus Highlighted.png "Kahlotus School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Kahlotus School District Superintendent Compensation History
 ![Kahlotus School District Image](pages/WA School District Compensation History for Kahlotus Superintendent ConstantDollars.png "Kahlotus School District Superintendent Compensation History")
 

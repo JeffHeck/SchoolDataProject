@@ -25,6 +25,11 @@ Coupeville School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Coupeville School District Elem. Homeroom Teachers' Median Total Compensation
+![Coupeville School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Coupeville Highlighted.png "Coupeville School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Coupeville School District Superintendent Compensation History
 ![Coupeville School District Image](pages/WA School District Compensation History for Coupeville Superintendent ConstantDollars.png "Coupeville School District Superintendent Compensation History")
 

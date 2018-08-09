@@ -25,6 +25,11 @@ Brewster School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Brewster School District Elem. Homeroom Teachers' Median Total Compensation
+![Brewster School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Brewster Highlighted.png "Brewster School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Brewster School District Superintendent Compensation History
 ![Brewster School District Image](pages/WA School District Compensation History for Brewster Superintendent ConstantDollars.png "Brewster School District Superintendent Compensation History")
 

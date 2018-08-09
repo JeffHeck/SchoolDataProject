@@ -20,6 +20,11 @@ Ritzville School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Ritzville School District Elem. Homeroom Teachers' Median Total Compensation
+![Ritzville School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ritzville Highlighted.png "Ritzville School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Ritzville School District Superintendent Compensation History
 ![Ritzville School District Image](pages/WA School District Compensation History for Ritzville Superintendent ConstantDollars.png "Ritzville School District Superintendent Compensation History")
 

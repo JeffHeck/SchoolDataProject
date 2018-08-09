@@ -35,6 +35,11 @@ Olympia School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Olympia School District Elem. Homeroom Teachers' Median Total Compensation
+![Olympia School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Olympia Highlighted.png "Olympia School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Olympia School District Superintendent Compensation History
 ![Olympia School District Image](pages/WA School District Compensation History for Olympia Superintendent ConstantDollars.png "Olympia School District Superintendent Compensation History")
 

@@ -25,6 +25,11 @@ Columbia (Stevens) School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Columbia (Stevens) School District Elem. Homeroom Teachers' Median Total Compensation
+![Columbia (Stevens) School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Columbia (Stevens) Highlighted.png "Columbia (Stevens) School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Columbia (Stevens) School District Superintendent Compensation History
 ![Columbia (Stevens) School District Image](pages/WA School District Compensation History for Columbia (Stevens) Superintendent ConstantDollars.png "Columbia (Stevens) School District Superintendent Compensation History")
 

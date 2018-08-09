@@ -30,6 +30,11 @@ Concrete School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Concrete School District Elem. Homeroom Teachers' Median Total Compensation
+![Concrete School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Concrete Highlighted.png "Concrete School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Concrete School District Superintendent Compensation History
 ![Concrete School District Image](pages/WA School District Compensation History for Concrete Superintendent ConstantDollars.png "Concrete School District Superintendent Compensation History")
 

@@ -25,6 +25,11 @@ Shoreline School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Shoreline School District Elem. Homeroom Teachers' Median Total Compensation
+![Shoreline School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Shoreline Highlighted.png "Shoreline School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Shoreline School District Superintendent Compensation History
 ![Shoreline School District Image](pages/WA School District Compensation History for Shoreline Superintendent ConstantDollars.png "Shoreline School District Superintendent Compensation History")
 

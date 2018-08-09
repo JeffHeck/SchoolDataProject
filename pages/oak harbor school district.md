@@ -30,6 +30,11 @@ Oak Harbor School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Oak Harbor School District Elem. Homeroom Teachers' Median Total Compensation
+![Oak Harbor School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Oak Harbor Highlighted.png "Oak Harbor School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Oak Harbor School District Superintendent Compensation History
 ![Oak Harbor School District Image](pages/WA School District Compensation History for Oak Harbor Superintendent ConstantDollars.png "Oak Harbor School District Superintendent Compensation History")
 

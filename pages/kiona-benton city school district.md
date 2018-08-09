@@ -20,6 +20,11 @@ Kiona-Benton City School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Kiona-Benton City School District Elem. Homeroom Teachers' Median Total Compensation
+![Kiona-Benton City School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Kiona-Benton City Highlighted.png "Kiona-Benton City School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Kiona-Benton City School District Superintendent Compensation History
 ![Kiona-Benton City School District Image](pages/WA School District Compensation History for Kiona-Benton City Superintendent ConstantDollars.png "Kiona-Benton City School District Superintendent Compensation History")
 

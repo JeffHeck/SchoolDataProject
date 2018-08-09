@@ -15,6 +15,11 @@ Summit Public School Sierra Secondary Teachers' Median Total Compensation
 
 ___
 
+Summit Public School Sierra Elem. Homeroom Teachers' Median Total Compensation
+![Summit Public School Sierra Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Summit Public School Sierra Highlighted.png "Summit Public School Sierra Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Summit Public School Sierra Superintendent Compensation History
 ![Summit Public School Sierra Image](pages/WA School District Compensation History for Summit Public School Sierra Superintendent ConstantDollars.png "Summit Public School Sierra Superintendent Compensation History")
 

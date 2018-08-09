@@ -35,6 +35,11 @@ Auburn School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Auburn School District Elem. Homeroom Teachers' Median Total Compensation
+![Auburn School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Auburn Highlighted.png "Auburn School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Auburn School District Superintendent Compensation History
 ![Auburn School District Image](pages/WA School District Compensation History for Auburn Superintendent ConstantDollars.png "Auburn School District Superintendent Compensation History")
 

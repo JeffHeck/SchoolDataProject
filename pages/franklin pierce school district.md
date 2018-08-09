@@ -30,6 +30,11 @@ Franklin Pierce School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Franklin Pierce School District Elem. Homeroom Teachers' Median Total Compensation
+![Franklin Pierce School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Franklin Pierce Highlighted.png "Franklin Pierce School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Franklin Pierce School District Superintendent Compensation History
 ![Franklin Pierce School District Image](pages/WA School District Compensation History for Franklin Pierce Superintendent ConstantDollars.png "Franklin Pierce School District Superintendent Compensation History")
 

@@ -20,6 +20,11 @@ White Pass School District Secondary Teachers' Median Total Compensation
 
 ___
 
+White Pass School District Elem. Homeroom Teachers' Median Total Compensation
+![White Pass School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With White Pass Highlighted.png "White Pass School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 White Pass School District Superintendent Compensation History
 ![White Pass School District Image](pages/WA School District Compensation History for White Pass Superintendent ConstantDollars.png "White Pass School District Superintendent Compensation History")
 

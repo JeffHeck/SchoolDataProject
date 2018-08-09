@@ -20,6 +20,11 @@ LaCrosse School District Secondary Teachers' Median Total Compensation
 
 ___
 
+LaCrosse School District Elem. Homeroom Teachers' Median Total Compensation
+![LaCrosse School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With LaCrosse Highlighted.png "LaCrosse School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 LaCrosse School District Superintendent Compensation History
 ![LaCrosse School District Image](pages/WA School District Compensation History for LaCrosse Superintendent ConstantDollars.png "LaCrosse School District Superintendent Compensation History")
 

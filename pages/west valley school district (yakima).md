@@ -25,6 +25,11 @@ West Valley School District (Yakima) Secondary Teachers' Median Total Compensati
 
 ___
 
+West Valley School District (Yakima) Elem. Homeroom Teachers' Median Total Compensation
+![West Valley School District (Yakima) Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With West Valley (Yakima) Highlighted.png "West Valley School District (Yakima) Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 West Valley School District (Yakima) Superintendent Compensation History
 ![West Valley School District (Yakima) Image](pages/WA School District Compensation History for West Valley (Yakima) Superintendent ConstantDollars.png "West Valley School District (Yakima) Superintendent Compensation History")
 

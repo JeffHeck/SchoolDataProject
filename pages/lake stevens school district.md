@@ -30,6 +30,11 @@ Lake Stevens School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Lake Stevens School District Elem. Homeroom Teachers' Median Total Compensation
+![Lake Stevens School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Lake Stevens Highlighted.png "Lake Stevens School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Lake Stevens School District Superintendent Compensation History
 ![Lake Stevens School District Image](pages/WA School District Compensation History for Lake Stevens Superintendent ConstantDollars.png "Lake Stevens School District Superintendent Compensation History")
 

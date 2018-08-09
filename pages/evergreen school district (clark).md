@@ -55,6 +55,11 @@ Evergreen School District (Clark) Secondary Teachers' Median Total Compensation
 
 ___
 
+Evergreen School District (Clark) Elem. Homeroom Teachers' Median Total Compensation
+![Evergreen School District (Clark) Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Evergreen (Clark) Highlighted.png "Evergreen School District (Clark) Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Evergreen School District (Clark) Superintendent Compensation History
 ![Evergreen School District (Clark) Image](pages/WA School District Compensation History for Evergreen (Clark) Superintendent ConstantDollars.png "Evergreen School District (Clark) Superintendent Compensation History")
 

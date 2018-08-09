@@ -25,6 +25,11 @@ Bridgeport School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Bridgeport School District Elem. Homeroom Teachers' Median Total Compensation
+![Bridgeport School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Bridgeport Highlighted.png "Bridgeport School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Bridgeport School District Superintendent Compensation History
 ![Bridgeport School District Image](pages/WA School District Compensation History for Bridgeport Superintendent ConstantDollars.png "Bridgeport School District Superintendent Compensation History")
 

@@ -30,6 +30,11 @@ Blaine School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Blaine School District Elem. Homeroom Teachers' Median Total Compensation
+![Blaine School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Blaine Highlighted.png "Blaine School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Blaine School District Superintendent Compensation History
 ![Blaine School District Image](pages/WA School District Compensation History for Blaine Superintendent ConstantDollars.png "Blaine School District Superintendent Compensation History")
 

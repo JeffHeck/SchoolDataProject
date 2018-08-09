@@ -30,6 +30,11 @@ Omak School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Omak School District Elem. Homeroom Teachers' Median Total Compensation
+![Omak School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Omak Highlighted.png "Omak School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Omak School District Superintendent Compensation History
 ![Omak School District Image](pages/WA School District Compensation History for Omak Superintendent ConstantDollars.png "Omak School District Superintendent Compensation History")
 

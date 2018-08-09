@@ -20,6 +20,11 @@ Valley School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Valley School District Elem. Homeroom Teachers' Median Total Compensation
+![Valley School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Valley Highlighted.png "Valley School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Valley School District Superintendent Compensation History
 ![Valley School District Image](pages/WA School District Compensation History for Valley Superintendent ConstantDollars.png "Valley School District Superintendent Compensation History")
 

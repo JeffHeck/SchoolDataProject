@@ -20,6 +20,11 @@ Creston School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Creston School District Elem. Homeroom Teachers' Median Total Compensation
+![Creston School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Creston Highlighted.png "Creston School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Creston School District Superintendent Compensation History
 ![Creston School District Image](pages/WA School District Compensation History for Creston Superintendent ConstantDollars.png "Creston School District Superintendent Compensation History")
 

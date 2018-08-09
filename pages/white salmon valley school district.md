@@ -25,6 +25,11 @@ White Salmon Valley School District Secondary Teachers' Median Total Compensatio
 
 ___
 
+White Salmon Valley School District Elem. Homeroom Teachers' Median Total Compensation
+![White Salmon Valley School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With White Salmon Valley Highlighted.png "White Salmon Valley School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 White Salmon Valley School District Superintendent Compensation History
 ![White Salmon Valley School District Image](pages/WA School District Compensation History for White Salmon Valley Superintendent ConstantDollars.png "White Salmon Valley School District Superintendent Compensation History")
 

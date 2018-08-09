@@ -30,6 +30,11 @@ Clarkston School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Clarkston School District Elem. Homeroom Teachers' Median Total Compensation
+![Clarkston School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Clarkston Highlighted.png "Clarkston School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Clarkston School District Superintendent Compensation History
 ![Clarkston School District Image](pages/WA School District Compensation History for Clarkston Superintendent ConstantDollars.png "Clarkston School District Superintendent Compensation History")
 

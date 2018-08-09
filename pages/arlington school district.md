@@ -30,6 +30,11 @@ Arlington School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Arlington School District Elem. Homeroom Teachers' Median Total Compensation
+![Arlington School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Arlington Highlighted.png "Arlington School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Arlington School District Superintendent Compensation History
 ![Arlington School District Image](pages/WA School District Compensation History for Arlington Superintendent ConstantDollars.png "Arlington School District Superintendent Compensation History")
 

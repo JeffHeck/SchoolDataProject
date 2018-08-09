@@ -20,6 +20,11 @@ Granger School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Granger School District Elem. Homeroom Teachers' Median Total Compensation
+![Granger School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Granger Highlighted.png "Granger School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Granger School District Superintendent Compensation History
 ![Granger School District Image](pages/WA School District Compensation History for Granger Superintendent ConstantDollars.png "Granger School District Superintendent Compensation History")
 

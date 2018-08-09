@@ -65,6 +65,11 @@ Marysville School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Marysville School District Elem. Homeroom Teachers' Median Total Compensation
+![Marysville School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Marysville Highlighted.png "Marysville School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Marysville School District Superintendent Compensation History
 ![Marysville School District Image](pages/WA School District Compensation History for Marysville Superintendent ConstantDollars.png "Marysville School District Superintendent Compensation History")
 

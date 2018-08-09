@@ -25,6 +25,11 @@ Republic School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Republic School District Elem. Homeroom Teachers' Median Total Compensation
+![Republic School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Republic Highlighted.png "Republic School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Republic School District Superintendent Compensation History
 ![Republic School District Image](pages/WA School District Compensation History for Republic Superintendent ConstantDollars.png "Republic School District Superintendent Compensation History")
 

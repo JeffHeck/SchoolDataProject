@@ -20,6 +20,11 @@ Wishkah Valley School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Wishkah Valley School District Elem. Homeroom Teachers' Median Total Compensation
+![Wishkah Valley School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Wishkah Valley Highlighted.png "Wishkah Valley School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Wishkah Valley School District Superintendent Compensation History
 ![Wishkah Valley School District Image](pages/WA School District Compensation History for Wishkah Valley Superintendent ConstantDollars.png "Wishkah Valley School District Superintendent Compensation History")
 

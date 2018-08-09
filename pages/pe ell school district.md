@@ -25,6 +25,11 @@ Pe Ell School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Pe Ell School District Elem. Homeroom Teachers' Median Total Compensation
+![Pe Ell School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Pe Ell Highlighted.png "Pe Ell School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Pe Ell School District Superintendent Compensation History
 ![Pe Ell School District Image](pages/WA School District Compensation History for Pe Ell Superintendent ConstantDollars.png "Pe Ell School District Superintendent Compensation History")
 

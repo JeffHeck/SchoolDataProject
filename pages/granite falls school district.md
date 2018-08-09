@@ -30,6 +30,11 @@ Granite Falls School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Granite Falls School District Elem. Homeroom Teachers' Median Total Compensation
+![Granite Falls School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Granite Falls Highlighted.png "Granite Falls School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Granite Falls School District Superintendent Compensation History
 ![Granite Falls School District Image](pages/WA School District Compensation History for Granite Falls Superintendent ConstantDollars.png "Granite Falls School District Superintendent Compensation History")
 

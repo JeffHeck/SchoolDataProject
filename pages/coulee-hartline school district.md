@@ -20,6 +20,11 @@ Coulee-Hartline School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Coulee-Hartline School District Elem. Homeroom Teachers' Median Total Compensation
+![Coulee-Hartline School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Coulee-Hartline Highlighted.png "Coulee-Hartline School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Coulee-Hartline School District Superintendent Compensation History
 ![Coulee-Hartline School District Image](pages/WA School District Compensation History for Coulee-Hartline Superintendent ConstantDollars.png "Coulee-Hartline School District Superintendent Compensation History")
 

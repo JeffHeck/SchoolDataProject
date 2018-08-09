@@ -75,6 +75,11 @@ Northshore School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Northshore School District Elem. Homeroom Teachers' Median Total Compensation
+![Northshore School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Northshore Highlighted.png "Northshore School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Northshore School District Superintendent Compensation History
 ![Northshore School District Image](pages/WA School District Compensation History for Northshore Superintendent ConstantDollars.png "Northshore School District Superintendent Compensation History")
 

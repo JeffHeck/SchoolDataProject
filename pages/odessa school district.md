@@ -20,6 +20,11 @@ Odessa School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Odessa School District Elem. Homeroom Teachers' Median Total Compensation
+![Odessa School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Odessa Highlighted.png "Odessa School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Odessa School District Superintendent Compensation History
 ![Odessa School District Image](pages/WA School District Compensation History for Odessa Superintendent ConstantDollars.png "Odessa School District Superintendent Compensation History")
 

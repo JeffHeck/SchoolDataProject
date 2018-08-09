@@ -35,6 +35,11 @@ North Kitsap School District Secondary Teachers' Median Total Compensation
 
 ___
 
+North Kitsap School District Elem. Homeroom Teachers' Median Total Compensation
+![North Kitsap School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With North Kitsap Highlighted.png "North Kitsap School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 North Kitsap School District Superintendent Compensation History
 ![North Kitsap School District Image](pages/WA School District Compensation History for North Kitsap Superintendent ConstantDollars.png "North Kitsap School District Superintendent Compensation History")
 

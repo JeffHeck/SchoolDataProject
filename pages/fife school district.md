@@ -25,6 +25,11 @@ Fife School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Fife School District Elem. Homeroom Teachers' Median Total Compensation
+![Fife School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Fife Highlighted.png "Fife School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Fife School District Superintendent Compensation History
 ![Fife School District Image](pages/WA School District Compensation History for Fife Superintendent ConstantDollars.png "Fife School District Superintendent Compensation History")
 

@@ -30,6 +30,11 @@ Okanogan School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Okanogan School District Elem. Homeroom Teachers' Median Total Compensation
+![Okanogan School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Okanogan Highlighted.png "Okanogan School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Okanogan School District Superintendent Compensation History
 ![Okanogan School District Image](pages/WA School District Compensation History for Okanogan Superintendent ConstantDollars.png "Okanogan School District Superintendent Compensation History")
 

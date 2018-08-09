@@ -20,6 +20,11 @@ Darrington School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Darrington School District Elem. Homeroom Teachers' Median Total Compensation
+![Darrington School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Darrington Highlighted.png "Darrington School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Darrington School District Superintendent Compensation History
 ![Darrington School District Image](pages/WA School District Compensation History for Darrington Superintendent ConstantDollars.png "Darrington School District Superintendent Compensation History")
 

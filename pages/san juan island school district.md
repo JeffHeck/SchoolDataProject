@@ -25,6 +25,11 @@ San Juan Island School District Secondary Teachers' Median Total Compensation
 
 ___
 
+San Juan Island School District Elem. Homeroom Teachers' Median Total Compensation
+![San Juan Island School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With San Juan Island Highlighted.png "San Juan Island School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 San Juan Island School District Superintendent Compensation History
 ![San Juan Island School District Image](pages/WA School District Compensation History for San Juan Island Superintendent ConstantDollars.png "San Juan Island School District Superintendent Compensation History")
 

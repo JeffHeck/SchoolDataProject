@@ -20,6 +20,11 @@ Eatonville School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Eatonville School District Elem. Homeroom Teachers' Median Total Compensation
+![Eatonville School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Eatonville Highlighted.png "Eatonville School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Eatonville School District Superintendent Compensation History
 ![Eatonville School District Image](pages/WA School District Compensation History for Eatonville Superintendent ConstantDollars.png "Eatonville School District Superintendent Compensation History")
 

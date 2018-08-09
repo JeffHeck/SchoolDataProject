@@ -30,6 +30,11 @@ Grandview School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Grandview School District Elem. Homeroom Teachers' Median Total Compensation
+![Grandview School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Grandview Highlighted.png "Grandview School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Grandview School District Superintendent Compensation History
 ![Grandview School District Image](pages/WA School District Compensation History for Grandview Superintendent ConstantDollars.png "Grandview School District Superintendent Compensation History")
 

@@ -25,6 +25,11 @@ Anacortes School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Anacortes School District Elem. Homeroom Teachers' Median Total Compensation
+![Anacortes School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Anacortes Highlighted.png "Anacortes School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Anacortes School District Superintendent Compensation History
 ![Anacortes School District Image](pages/WA School District Compensation History for Anacortes Superintendent ConstantDollars.png "Anacortes School District Superintendent Compensation History")
 

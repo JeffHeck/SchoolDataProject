@@ -40,6 +40,11 @@ Battle Ground School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Battle Ground School District Elem. Homeroom Teachers' Median Total Compensation
+![Battle Ground School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Battle Ground Highlighted.png "Battle Ground School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Battle Ground School District Superintendent Compensation History
 ![Battle Ground School District Image](pages/WA School District Compensation History for Battle Ground Superintendent ConstantDollars.png "Battle Ground School District Superintendent Compensation History")
 

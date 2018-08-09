@@ -30,6 +30,11 @@ Peninsula School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Peninsula School District Elem. Homeroom Teachers' Median Total Compensation
+![Peninsula School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Peninsula Highlighted.png "Peninsula School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Peninsula School District Superintendent Compensation History
 ![Peninsula School District Image](pages/WA School District Compensation History for Peninsula Superintendent ConstantDollars.png "Peninsula School District Superintendent Compensation History")
 

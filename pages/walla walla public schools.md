@@ -35,6 +35,11 @@ Walla Walla Public Schools Secondary Teachers' Median Total Compensation
 
 ___
 
+Walla Walla Public Schools Elem. Homeroom Teachers' Median Total Compensation
+![Walla Walla Public Schools Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Walla Walla Highlighted.png "Walla Walla Public Schools Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Walla Walla Public Schools Superintendent Compensation History
 ![Walla Walla Public Schools Image](pages/WA School District Compensation History for Walla Walla Superintendent ConstantDollars.png "Walla Walla Public Schools Superintendent Compensation History")
 

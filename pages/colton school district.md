@@ -20,6 +20,11 @@ Colton School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Colton School District Elem. Homeroom Teachers' Median Total Compensation
+![Colton School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Colton Highlighted.png "Colton School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Colton School District Superintendent Compensation History
 ![Colton School District Image](pages/WA School District Compensation History for Colton Superintendent ConstantDollars.png "Colton School District Superintendent Compensation History")
 

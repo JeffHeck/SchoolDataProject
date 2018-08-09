@@ -35,6 +35,11 @@ Ferndale School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Ferndale School District Elem. Homeroom Teachers' Median Total Compensation
+![Ferndale School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ferndale Highlighted.png "Ferndale School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Ferndale School District Superintendent Compensation History
 ![Ferndale School District Image](pages/WA School District Compensation History for Ferndale Superintendent ConstantDollars.png "Ferndale School District Superintendent Compensation History")
 

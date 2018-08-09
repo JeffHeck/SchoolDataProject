@@ -20,6 +20,11 @@ Stevenson-Carson School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Stevenson-Carson School District Elem. Homeroom Teachers' Median Total Compensation
+![Stevenson-Carson School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Stevenson-Carson Highlighted.png "Stevenson-Carson School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Stevenson-Carson School District Superintendent Compensation History
 ![Stevenson-Carson School District Image](pages/WA School District Compensation History for Stevenson-Carson Superintendent ConstantDollars.png "Stevenson-Carson School District Superintendent Compensation History")
 

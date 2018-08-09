@@ -20,6 +20,11 @@ Easton School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Easton School District Elem. Homeroom Teachers' Median Total Compensation
+![Easton School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Easton Highlighted.png "Easton School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Easton School District Superintendent Compensation History
 ![Easton School District Image](pages/WA School District Compensation History for Easton Superintendent ConstantDollars.png "Easton School District Superintendent Compensation History")
 

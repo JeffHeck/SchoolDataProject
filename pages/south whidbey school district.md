@@ -25,6 +25,11 @@ South Whidbey School District Secondary Teachers' Median Total Compensation
 
 ___
 
+South Whidbey School District Elem. Homeroom Teachers' Median Total Compensation
+![South Whidbey School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With South Whidbey Highlighted.png "South Whidbey School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 South Whidbey School District Superintendent Compensation History
 ![South Whidbey School District Image](pages/WA School District Compensation History for South Whidbey Superintendent ConstantDollars.png "South Whidbey School District Superintendent Compensation History")
 

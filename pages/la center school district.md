@@ -25,6 +25,11 @@ La Center School District Secondary Teachers' Median Total Compensation
 
 ___
 
+La Center School District Elem. Homeroom Teachers' Median Total Compensation
+![La Center School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With La Center Highlighted.png "La Center School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 La Center School District Superintendent Compensation History
 ![La Center School District Image](pages/WA School District Compensation History for La Center Superintendent ConstantDollars.png "La Center School District Superintendent Compensation History")
 

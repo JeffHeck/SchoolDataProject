@@ -30,6 +30,11 @@ Vashon Island School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Vashon Island School District Elem. Homeroom Teachers' Median Total Compensation
+![Vashon Island School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Vashon Island Highlighted.png "Vashon Island School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Vashon Island School District Superintendent Compensation History
 ![Vashon Island School District Image](pages/WA School District Compensation History for Vashon Island Superintendent ConstantDollars.png "Vashon Island School District Superintendent Compensation History")
 

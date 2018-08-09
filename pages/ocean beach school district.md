@@ -25,6 +25,11 @@ Ocean Beach School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Ocean Beach School District Elem. Homeroom Teachers' Median Total Compensation
+![Ocean Beach School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ocean Beach Highlighted.png "Ocean Beach School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Ocean Beach School District Superintendent Compensation History
 ![Ocean Beach School District Image](pages/WA School District Compensation History for Ocean Beach Superintendent ConstantDollars.png "Ocean Beach School District Superintendent Compensation History")
 

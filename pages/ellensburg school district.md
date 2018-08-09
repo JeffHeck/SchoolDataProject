@@ -25,6 +25,11 @@ Ellensburg School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Ellensburg School District Elem. Homeroom Teachers' Median Total Compensation
+![Ellensburg School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ellensburg Highlighted.png "Ellensburg School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Ellensburg School District Superintendent Compensation History
 ![Ellensburg School District Image](pages/WA School District Compensation History for Ellensburg Superintendent ConstantDollars.png "Ellensburg School District Superintendent Compensation History")
 

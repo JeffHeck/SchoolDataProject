@@ -45,6 +45,11 @@ Mead School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Mead School District Elem. Homeroom Teachers' Median Total Compensation
+![Mead School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Mead Highlighted.png "Mead School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Mead School District Superintendent Compensation History
 ![Mead School District Image](pages/WA School District Compensation History for Mead Superintendent ConstantDollars.png "Mead School District Superintendent Compensation History")
 

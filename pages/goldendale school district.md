@@ -20,6 +20,11 @@ Goldendale School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Goldendale School District Elem. Homeroom Teachers' Median Total Compensation
+![Goldendale School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Goldendale Highlighted.png "Goldendale School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Goldendale School District Superintendent Compensation History
 ![Goldendale School District Image](pages/WA School District Compensation History for Goldendale Superintendent ConstantDollars.png "Goldendale School District Superintendent Compensation History")
 

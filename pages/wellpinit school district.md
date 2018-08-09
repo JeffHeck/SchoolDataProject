@@ -35,6 +35,11 @@ Wellpinit School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Wellpinit School District Elem. Homeroom Teachers' Median Total Compensation
+![Wellpinit School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Wellpinit Highlighted.png "Wellpinit School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Wellpinit School District Superintendent Compensation History
 ![Wellpinit School District Image](pages/WA School District Compensation History for Wellpinit Superintendent ConstantDollars.png "Wellpinit School District Superintendent Compensation History")
 

@@ -45,6 +45,11 @@ Yakima School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Yakima School District Elem. Homeroom Teachers' Median Total Compensation
+![Yakima School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Yakima Highlighted.png "Yakima School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Yakima School District Superintendent Compensation History
 ![Yakima School District Image](pages/WA School District Compensation History for Yakima Superintendent ConstantDollars.png "Yakima School District Superintendent Compensation History")
 

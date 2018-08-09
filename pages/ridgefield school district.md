@@ -20,6 +20,11 @@ Ridgefield School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Ridgefield School District Elem. Homeroom Teachers' Median Total Compensation
+![Ridgefield School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ridgefield Highlighted.png "Ridgefield School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Ridgefield School District Superintendent Compensation History
 ![Ridgefield School District Image](pages/WA School District Compensation History for Ridgefield Superintendent ConstantDollars.png "Ridgefield School District Superintendent Compensation History")
 

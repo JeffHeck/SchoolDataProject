@@ -25,6 +25,11 @@ Burlington-Edison School District Secondary Teachers' Median Total Compensation
 
 ___
 
+Burlington-Edison School District Elem. Homeroom Teachers' Median Total Compensation
+![Burlington-Edison School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Burlington-Edison Highlighted.png "Burlington-Edison School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Burlington-Edison School District Superintendent Compensation History
 ![Burlington-Edison School District Image](pages/WA School District Compensation History for Burlington-Edison Superintendent ConstantDollars.png "Burlington-Edison School District Superintendent Compensation History")
 

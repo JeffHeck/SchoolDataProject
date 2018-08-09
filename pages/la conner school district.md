@@ -20,6 +20,11 @@ La Conner School District Secondary Teachers' Median Total Compensation
 
 ___
 
+La Conner School District Elem. Homeroom Teachers' Median Total Compensation
+![La Conner School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With La Conner Highlighted.png "La Conner School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 La Conner School District Superintendent Compensation History
 ![La Conner School District Image](pages/WA School District Compensation History for La Conner Superintendent ConstantDollars.png "La Conner School District Superintendent Compensation History")
 

@@ -20,6 +20,11 @@ Lummi Tribal Agency Secondary Teachers' Median Total Compensation
 
 ___
 
+Lummi Tribal Agency Elem. Homeroom Teachers' Median Total Compensation
+![Lummi Tribal Agency Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Lummi Tribal Agency Highlighted.png "Lummi Tribal Agency Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Lummi Tribal Agency Superintendent Compensation History
 ![Lummi Tribal Agency Image](pages/WA School District Compensation History for Lummi Tribal Agency Superintendent ConstantDollars.png "Lummi Tribal Agency Superintendent Compensation History")
 

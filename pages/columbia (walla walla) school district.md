@@ -20,6 +20,11 @@ Columbia (Walla Walla) School District Secondary Teachers' Median Total Compensa
 
 ___
 
+Columbia (Walla Walla) School District Elem. Homeroom Teachers' Median Total Compensation
+![Columbia (Walla Walla) School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Columbia (Walla Walla) Highlighted.png "Columbia (Walla Walla) School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
 Columbia (Walla Walla) School District Superintendent Compensation History
 ![Columbia (Walla Walla) School District Image](pages/WA School District Compensation History for Columbia (Walla Walla) Superintendent ConstantDollars.png "Columbia (Walla Walla) School District Superintendent Compensation History")
 
