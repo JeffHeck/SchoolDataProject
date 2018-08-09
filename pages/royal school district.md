@@ -5,6 +5,11 @@ permalink: royal school district
 ---
 
 
+Royal School District Historical Demographics
+![Royal School District Image](pages/Royal School District Historical Demographics.png "Royal School District Historical Demographics")
+
+___
+
 Royal High School
 ![Royal High School Image](pages/Royal School District Royal High SchoolDual Credit BarChart.png "Royal High School Dual Credit Participation")
 

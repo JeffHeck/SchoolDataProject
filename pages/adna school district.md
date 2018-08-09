@@ -5,6 +5,11 @@ permalink: adna school district
 ---
 
 
+Adna School District Historical Demographics
+![Adna School District Image](pages/Adna School District Historical Demographics.png "Adna School District Historical Demographics")
+
+___
+
 Adna Middle High School
 ![Adna Middle High School Image](pages/Adna School District Adna Middle High SchoolDual Credit BarChart.png "Adna Middle High School Dual Credit Participation")
 

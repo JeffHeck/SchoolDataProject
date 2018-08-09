@@ -5,6 +5,11 @@ permalink: wenatchee school district
 ---
 
 
+Wenatchee School District Historical Demographics
+![Wenatchee School District Image](pages/Wenatchee School District Historical Demographics.png "Wenatchee School District Historical Demographics")
+
+___
+
 Open Doors  Re-Engagement Wenatchee
 ![Open Doors  Re-Engagement Wenatchee Image](pages/Wenatchee School District Open Doors  Re-Engagement WenatcheeDual Credit BarChart.png "Open Doors  Re-Engagement Wenatchee Dual Credit Participation")
 

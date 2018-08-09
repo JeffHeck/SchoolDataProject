@@ -5,6 +5,11 @@ permalink: la conner school district
 ---
 
 
+La Conner School District Historical Demographics
+![La Conner School District Image](pages/La Conner School District Historical Demographics.png "La Conner School District Historical Demographics")
+
+___
+
 La Conner High School
 ![La Conner High School Image](pages/La Conner School District La Conner High SchoolDual Credit BarChart.png "La Conner High School Dual Credit Participation")
 

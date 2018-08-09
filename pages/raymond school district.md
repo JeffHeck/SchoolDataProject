@@ -5,6 +5,11 @@ permalink: raymond school district
 ---
 
 
+Raymond School District Historical Demographics
+![Raymond School District Image](pages/Raymond School District Historical Demographics.png "Raymond School District Historical Demographics")
+
+___
+
 Raymond Home Link School
 ![Raymond Home Link School Image](pages/Raymond School District Raymond Home Link SchoolDual Credit BarChart.png "Raymond Home Link School Dual Credit Participation")
 

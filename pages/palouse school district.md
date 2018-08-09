@@ -5,6 +5,11 @@ permalink: palouse school district
 ---
 
 
+Palouse School District Historical Demographics
+![Palouse School District Image](pages/Palouse School District Historical Demographics.png "Palouse School District Historical Demographics")
+
+___
+
 Palouse High School
 ![Palouse High School Image](pages/Palouse School District Palouse High SchoolDual Credit BarChart.png "Palouse High School Dual Credit Participation")
 

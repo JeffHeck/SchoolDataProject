@@ -5,6 +5,11 @@ permalink: newport school district
 ---
 
 
+Newport School District Historical Demographics
+![Newport School District Image](pages/Newport School District Historical Demographics.png "Newport School District Historical Demographics")
+
+___
+
 Newport High School
 ![Newport High School Image](pages/Newport School District Newport High SchoolDual Credit BarChart.png "Newport High School Dual Credit Participation")
 

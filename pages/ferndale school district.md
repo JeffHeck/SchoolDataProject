@@ -5,6 +5,11 @@ permalink: ferndale school district
 ---
 
 
+Ferndale School District Historical Demographics
+![Ferndale School District Image](pages/Ferndale School District Historical Demographics.png "Ferndale School District Historical Demographics")
+
+___
+
 FERNDALE RE-ENGAGEMENT
 ![FERNDALE RE-ENGAGEMENT Image](pages/Ferndale School District FERNDALE RE-ENGAGEMENTDual Credit BarChart.png "FERNDALE RE-ENGAGEMENT Dual Credit Participation")
 

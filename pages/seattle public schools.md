@@ -5,6 +5,11 @@ permalink: seattle public schools
 ---
 
 
+Seattle Public Schools Historical Demographics
+![Seattle Public Schools Image](pages/Seattle Public Schools Historical Demographics.png "Seattle Public Schools Historical Demographics")
+
+___
+
 Ballard High School
 ![Ballard High School Image](pages/Seattle Public Schools Ballard High SchoolDual Credit BarChart.png "Ballard High School Dual Credit Participation")
 

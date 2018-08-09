@@ -5,6 +5,11 @@ permalink: colfax school district
 ---
 
 
+Colfax School District Historical Demographics
+![Colfax School District Image](pages/Colfax School District Historical Demographics.png "Colfax School District Historical Demographics")
+
+___
+
 Colfax High School
 ![Colfax High School Image](pages/Colfax School District Colfax High SchoolDual Credit BarChart.png "Colfax High School Dual Credit Participation")
 

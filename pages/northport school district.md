@@ -5,6 +5,11 @@ permalink: northport school district
 ---
 
 
+Northport School District Historical Demographics
+![Northport School District Image](pages/Northport School District Historical Demographics.png "Northport School District Historical Demographics")
+
+___
+
 Northport High School
 ![Northport High School Image](pages/Northport School District Northport High SchoolDual Credit BarChart.png "Northport High School Dual Credit Participation")
 

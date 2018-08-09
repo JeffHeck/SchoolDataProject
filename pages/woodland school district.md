@@ -5,6 +5,11 @@ permalink: woodland school district
 ---
 
 
+Woodland School District Historical Demographics
+![Woodland School District Image](pages/Woodland School District Historical Demographics.png "Woodland School District Historical Demographics")
+
+___
+
 Lewis River Academy
 ![Lewis River Academy Image](pages/Woodland School District Lewis River AcademyDual Credit BarChart.png "Lewis River Academy Dual Credit Participation")
 

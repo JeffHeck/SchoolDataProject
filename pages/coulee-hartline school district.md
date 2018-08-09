@@ -5,6 +5,11 @@ permalink: coulee-hartline school district
 ---
 
 
+Coulee-Hartline School District Historical Demographics
+![Coulee-Hartline School District Image](pages/Coulee-Hartline School District Historical Demographics.png "Coulee-Hartline School District Historical Demographics")
+
+___
+
 Almira Coulee Hartline High School
 ![Almira Coulee Hartline High School Image](pages/Coulee-Hartline School District Almira Coulee Hartline High SchoolDual Credit BarChart.png "Almira Coulee Hartline High School Dual Credit Participation")
 

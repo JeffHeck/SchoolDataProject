@@ -5,6 +5,11 @@ permalink: battle ground school district
 ---
 
 
+Battle Ground School District Historical Demographics
+![Battle Ground School District Image](pages/Battle Ground School District Historical Demographics.png "Battle Ground School District Historical Demographics")
+
+___
+
 Battle Ground High School
 ![Battle Ground High School Image](pages/Battle Ground School District Battle Ground High SchoolDual Credit BarChart.png "Battle Ground High School Dual Credit Participation")
 

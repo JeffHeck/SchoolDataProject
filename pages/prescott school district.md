@@ -5,6 +5,11 @@ permalink: prescott school district
 ---
 
 
+Prescott School District Historical Demographics
+![Prescott School District Image](pages/Prescott School District Historical Demographics.png "Prescott School District Historical Demographics")
+
+___
+
 Prescott Jr Sr High
 ![Prescott Jr Sr High Image](pages/Prescott School District Prescott Jr Sr HighDual Credit BarChart.png "Prescott Jr Sr High Dual Credit Participation")
 

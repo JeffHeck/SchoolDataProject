@@ -5,6 +5,11 @@ permalink: davenport school district
 ---
 
 
+Davenport School District Historical Demographics
+![Davenport School District Image](pages/Davenport School District Historical Demographics.png "Davenport School District Historical Demographics")
+
+___
+
 Davenport Senior High School
 ![Davenport Senior High School Image](pages/Davenport School District Davenport Senior High SchoolDual Credit BarChart.png "Davenport Senior High School Dual Credit Participation")
 

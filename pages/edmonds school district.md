@@ -5,6 +5,11 @@ permalink: edmonds school district
 ---
 
 
+Edmonds School District Historical Demographics
+![Edmonds School District Image](pages/Edmonds School District Historical Demographics.png "Edmonds School District Historical Demographics")
+
+___
+
 Edmonds Career Access Program
 ![Edmonds Career Access Program Image](pages/Edmonds School District Edmonds Career Access ProgramDual Credit BarChart.png "Edmonds Career Access Program Dual Credit Participation")
 

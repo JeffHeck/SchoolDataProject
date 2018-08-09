@@ -5,6 +5,11 @@ permalink: kelso school district
 ---
 
 
+Kelso School District Historical Demographics
+![Kelso School District Image](pages/Kelso School District Historical Demographics.png "Kelso School District Historical Demographics")
+
+___
+
 Kelso High School
 ![Kelso High School Image](pages/Kelso School District Kelso High SchoolDual Credit BarChart.png "Kelso High School Dual Credit Participation")
 

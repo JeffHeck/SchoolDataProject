@@ -5,6 +5,11 @@ permalink: wahluke school district
 ---
 
 
+Wahluke School District Historical Demographics
+![Wahluke School District Image](pages/Wahluke School District Historical Demographics.png "Wahluke School District Historical Demographics")
+
+___
+
 Sentinel Tech Alt School
 ![Sentinel Tech Alt School Image](pages/Wahluke School District Sentinel Tech Alt SchoolDual Credit BarChart.png "Sentinel Tech Alt School Dual Credit Participation")
 

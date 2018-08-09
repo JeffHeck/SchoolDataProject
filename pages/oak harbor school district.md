@@ -5,6 +5,11 @@ permalink: oak harbor school district
 ---
 
 
+Oak Harbor School District Historical Demographics
+![Oak Harbor School District Image](pages/Oak Harbor School District Historical Demographics.png "Oak Harbor School District Historical Demographics")
+
+___
+
 Homeconnection
 ![Homeconnection Image](pages/Oak Harbor School District HomeconnectionDual Credit BarChart.png "Homeconnection Dual Credit Participation")
 

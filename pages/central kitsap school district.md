@@ -5,6 +5,11 @@ permalink: central kitsap school district
 ---
 
 
+Central Kitsap School District Historical Demographics
+![Central Kitsap School District Image](pages/Central Kitsap School District Historical Demographics.png "Central Kitsap School District Historical Demographics")
+
+___
+
 Alternative High School
 ![Alternative High School Image](pages/Central Kitsap School District Alternative High SchoolDual Credit BarChart.png "Alternative High School Dual Credit Participation")
 

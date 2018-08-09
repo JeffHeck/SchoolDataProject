@@ -5,6 +5,11 @@ permalink: wellpinit school district
 ---
 
 
+Wellpinit School District Historical Demographics
+![Wellpinit School District Image](pages/Wellpinit School District Historical Demographics.png "Wellpinit School District Historical Demographics")
+
+___
+
 Wellpinit Alliance High School
 ![Wellpinit Alliance High School Image](pages/Wellpinit School District Wellpinit Alliance High SchoolDual Credit BarChart.png "Wellpinit Alliance High School Dual Credit Participation")
 

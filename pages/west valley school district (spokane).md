@@ -5,6 +5,11 @@ permalink: west valley school district (spokane)
 ---
 
 
+West Valley School District (Spokane) Historical Demographics
+![West Valley School District (Spokane) Image](pages/West Valley School District (Spokane) Historical Demographics.png "West Valley School District (Spokane) Historical Demographics")
+
+___
+
 Dishman Hills High School
 ![Dishman Hills High School Image](pages/West Valley School District (Spokane) Dishman Hills High SchoolDual Credit BarChart.png "Dishman Hills High School Dual Credit Participation")
 

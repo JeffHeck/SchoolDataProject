@@ -5,6 +5,11 @@ permalink: central valley school district
 ---
 
 
+Central Valley School District Historical Demographics
+![Central Valley School District Image](pages/Central Valley School District Historical Demographics.png "Central Valley School District Historical Demographics")
+
+___
+
 CVSD Open Doors Programs
 ![CVSD Open Doors Programs Image](pages/Central Valley School District CVSD Open Doors ProgramsDual Credit BarChart.png "CVSD Open Doors Programs Dual Credit Participation")
 

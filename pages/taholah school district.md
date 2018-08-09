@@ -5,6 +5,11 @@ permalink: taholah school district
 ---
 
 
+Taholah School District Historical Demographics
+![Taholah School District Image](pages/Taholah School District Historical Demographics.png "Taholah School District Historical Demographics")
+
+___
+
 Taholah High School
 ![Taholah High School Image](pages/Taholah School District Taholah High SchoolDual Credit BarChart.png "Taholah High School Dual Credit Participation")
 

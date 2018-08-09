@@ -5,6 +5,11 @@ permalink: quillayute valley school district
 ---
 
 
+Quillayute Valley School District Historical Demographics
+![Quillayute Valley School District Image](pages/Quillayute Valley School District Historical Demographics.png "Quillayute Valley School District Historical Demographics")
+
+___
+
 Forks Alternative School
 ![Forks Alternative School Image](pages/Quillayute Valley School District Forks Alternative SchoolDual Credit BarChart.png "Forks Alternative School Dual Credit Participation")
 

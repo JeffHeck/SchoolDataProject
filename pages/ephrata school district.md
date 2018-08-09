@@ -5,6 +5,11 @@ permalink: ephrata school district
 ---
 
 
+Ephrata School District Historical Demographics
+![Ephrata School District Image](pages/Ephrata School District Historical Demographics.png "Ephrata School District Historical Demographics")
+
+___
+
 Ephrata High School
 ![Ephrata High School Image](pages/Ephrata School District Ephrata High SchoolDual Credit BarChart.png "Ephrata High School Dual Credit Participation")
 

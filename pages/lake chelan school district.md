@@ -5,6 +5,11 @@ permalink: lake chelan school district
 ---
 
 
+Lake Chelan School District Historical Demographics
+![Lake Chelan School District Image](pages/Lake Chelan School District Historical Demographics.png "Lake Chelan School District Historical Demographics")
+
+___
+
 Chelan High School
 ![Chelan High School Image](pages/Lake Chelan School District Chelan High SchoolDual Credit BarChart.png "Chelan High School Dual Credit Participation")
 

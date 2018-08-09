@@ -5,6 +5,11 @@ permalink: clover park school district
 ---
 
 
+Clover Park School District Historical Demographics
+![Clover Park School District Image](pages/Clover Park School District Historical Demographics.png "Clover Park School District Historical Demographics")
+
+___
+
 Alfaretta House
 ![Alfaretta House Image](pages/Clover Park School District Alfaretta HouseDual Credit BarChart.png "Alfaretta House Dual Credit Participation")
 

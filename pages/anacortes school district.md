@@ -5,6 +5,11 @@ permalink: anacortes school district
 ---
 
 
+Anacortes School District Historical Demographics
+![Anacortes School District Image](pages/Anacortes School District Historical Demographics.png "Anacortes School District Historical Demographics")
+
+___
+
 Anacortes High School
 ![Anacortes High School Image](pages/Anacortes School District Anacortes High SchoolDual Credit BarChart.png "Anacortes High School Dual Credit Participation")
 

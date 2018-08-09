@@ -5,6 +5,11 @@ permalink: mossyrock school district
 ---
 
 
+Mossyrock School District Historical Demographics
+![Mossyrock School District Image](pages/Mossyrock School District Historical Demographics.png "Mossyrock School District Historical Demographics")
+
+___
+
 Mossyrock Academy
 ![Mossyrock Academy Image](pages/Mossyrock School District Mossyrock AcademyDual Credit BarChart.png "Mossyrock Academy Dual Credit Participation")
 

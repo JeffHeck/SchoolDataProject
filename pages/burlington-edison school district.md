@@ -5,6 +5,11 @@ permalink: burlington-edison school district
 ---
 
 
+Burlington-Edison School District Historical Demographics
+![Burlington-Edison School District Image](pages/Burlington-Edison School District Historical Demographics.png "Burlington-Edison School District Historical Demographics")
+
+___
+
 Burlington Edison High School
 ![Burlington Edison High School Image](pages/Burlington-Edison School District Burlington Edison High SchoolDual Credit BarChart.png "Burlington Edison High School Dual Credit Participation")
 

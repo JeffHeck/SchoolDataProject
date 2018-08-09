@@ -5,6 +5,11 @@ permalink: issaquah school district
 ---
 
 
+Issaquah School District Historical Demographics
+![Issaquah School District Image](pages/Issaquah School District Historical Demographics.png "Issaquah School District Historical Demographics")
+
+___
+
 Issaquah High School
 ![Issaquah High School Image](pages/Issaquah School District Issaquah High SchoolDual Credit BarChart.png "Issaquah High School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: bethel school district
 ---
 
 
+Bethel School District Historical Demographics
+![Bethel School District Image](pages/Bethel School District Historical Demographics.png "Bethel School District Historical Demographics")
+
+___
+
 Acceleration Academy
 ![Acceleration Academy Image](pages/Bethel School District Acceleration AcademyDual Credit BarChart.png "Acceleration Academy Dual Credit Participation")
 

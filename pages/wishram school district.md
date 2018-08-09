@@ -5,6 +5,11 @@ permalink: wishram school district
 ---
 
 
+Wishram School District Historical Demographics
+![Wishram School District Image](pages/Wishram School District Historical Demographics.png "Wishram School District Historical Demographics")
+
+___
+
 Wishram High And Elementary Schl
 ![Wishram High And Elementary Schl Image](pages/Wishram School District Wishram High And Elementary SchlDual Credit BarChart.png "Wishram High And Elementary Schl Dual Credit Participation")
 

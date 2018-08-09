@@ -5,6 +5,11 @@ permalink: la center school district
 ---
 
 
+La Center School District Historical Demographics
+![La Center School District Image](pages/La Center School District Historical Demographics.png "La Center School District Historical Demographics")
+
+___
+
 La Center High School
 ![La Center High School Image](pages/La Center School District La Center High SchoolDual Credit BarChart.png "La Center High School Dual Credit Participation")
 

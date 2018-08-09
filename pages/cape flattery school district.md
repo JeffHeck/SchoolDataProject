@@ -5,6 +5,11 @@ permalink: cape flattery school district
 ---
 
 
+Cape Flattery School District Historical Demographics
+![Cape Flattery School District Image](pages/Cape Flattery School District Historical Demographics.png "Cape Flattery School District Historical Demographics")
+
+___
+
 Clallam Bay High   Elementary
 ![Clallam Bay High   Elementary Image](pages/Cape Flattery School District Clallam Bay High   ElementaryDual Credit BarChart.png "Clallam Bay High   Elementary Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: mead school district
 ---
 
 
+Mead School District Historical Demographics
+![Mead School District Image](pages/Mead School District Historical Demographics.png "Mead School District Historical Demographics")
+
+___
+
 Mead Alternative High School
 ![Mead Alternative High School Image](pages/Mead School District Mead Alternative High SchoolDual Credit BarChart.png "Mead Alternative High School Dual Credit Participation")
 

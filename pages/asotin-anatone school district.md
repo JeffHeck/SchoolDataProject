@@ -5,6 +5,11 @@ permalink: asotin-anatone school district
 ---
 
 
+Asotin-Anatone School District Historical Demographics
+![Asotin-Anatone School District Image](pages/Asotin-Anatone School District Historical Demographics.png "Asotin-Anatone School District Historical Demographics")
+
+___
+
 Asotin Jr Sr High
 ![Asotin Jr Sr High Image](pages/Asotin-Anatone School District Asotin Jr Sr HighDual Credit BarChart.png "Asotin Jr Sr High Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: kent school district
 ---
 
 
+Kent School District Historical Demographics
+![Kent School District Image](pages/Kent School District Historical Demographics.png "Kent School District Historical Demographics")
+
+___
+
 Kent Mountain View Academy
 ![Kent Mountain View Academy Image](pages/Kent School District Kent Mountain View AcademyDual Credit BarChart.png "Kent Mountain View Academy Dual Credit Participation")
 

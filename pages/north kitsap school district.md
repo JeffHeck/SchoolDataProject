@@ -5,6 +5,11 @@ permalink: north kitsap school district
 ---
 
 
+North Kitsap School District Historical Demographics
+![North Kitsap School District Image](pages/North Kitsap School District Historical Demographics.png "North Kitsap School District Historical Demographics")
+
+___
+
 Chief Kitsap Academy
 ![Chief Kitsap Academy Image](pages/North Kitsap School District Chief Kitsap AcademyDual Credit BarChart.png "Chief Kitsap Academy Dual Credit Participation")
 

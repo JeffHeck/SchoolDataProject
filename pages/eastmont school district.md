@@ -5,6 +5,11 @@ permalink: eastmont school district
 ---
 
 
+Eastmont School District Historical Demographics
+![Eastmont School District Image](pages/Eastmont School District Historical Demographics.png "Eastmont School District Historical Demographics")
+
+___
+
 Eastmont Junior High
 ![Eastmont Junior High Image](pages/Eastmont School District Eastmont Junior HighDual Credit BarChart.png "Eastmont Junior High Dual Credit Participation")
 

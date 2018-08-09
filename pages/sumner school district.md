@@ -5,6 +5,11 @@ permalink: sumner school district
 ---
 
 
+Sumner School District Historical Demographics
+![Sumner School District Image](pages/Sumner School District Historical Demographics.png "Sumner School District Historical Demographics")
+
+___
+
 Bonney Lake High School
 ![Bonney Lake High School Image](pages/Sumner School District Bonney Lake High SchoolDual Credit BarChart.png "Bonney Lake High School Dual Credit Participation")
 

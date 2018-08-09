@@ -5,6 +5,11 @@ permalink: mansfield school district
 ---
 
 
+Mansfield School District Historical Demographics
+![Mansfield School District Image](pages/Mansfield School District Historical Demographics.png "Mansfield School District Historical Demographics")
+
+___
+
 Mansfield Elem and High School
 ![Mansfield Elem and High School Image](pages/Mansfield School District Mansfield Elem and High SchoolDual Credit BarChart.png "Mansfield Elem and High School Dual Credit Participation")
 

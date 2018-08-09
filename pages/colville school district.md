@@ -5,6 +5,11 @@ permalink: colville school district
 ---
 
 
+Colville School District Historical Demographics
+![Colville School District Image](pages/Colville School District Historical Demographics.png "Colville School District Historical Demographics")
+
+___
+
 Colville Senior High School
 ![Colville Senior High School Image](pages/Colville School District Colville Senior High SchoolDual Credit BarChart.png "Colville Senior High School Dual Credit Participation")
 

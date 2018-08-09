@@ -5,6 +5,11 @@ permalink: tenino school district
 ---
 
 
+Tenino School District Historical Demographics
+![Tenino School District Image](pages/Tenino School District Historical Demographics.png "Tenino School District Historical Demographics")
+
+___
+
 Tenino High School
 ![Tenino High School Image](pages/Tenino School District Tenino High SchoolDual Credit BarChart.png "Tenino High School Dual Credit Participation")
 

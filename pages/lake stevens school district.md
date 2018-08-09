@@ -5,6 +5,11 @@ permalink: lake stevens school district
 ---
 
 
+Lake Stevens School District Historical Demographics
+![Lake Stevens School District Image](pages/Lake Stevens School District Historical Demographics.png "Lake Stevens School District Historical Demographics")
+
+___
+
 Cavelero Mid High School
 ![Cavelero Mid High School Image](pages/Lake Stevens School District Cavelero Mid High SchoolDual Credit BarChart.png "Cavelero Mid High School Dual Credit Participation")
 

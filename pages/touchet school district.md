@@ -5,6 +5,11 @@ permalink: touchet school district
 ---
 
 
+Touchet School District Historical Demographics
+![Touchet School District Image](pages/Touchet School District Historical Demographics.png "Touchet School District Historical Demographics")
+
+___
+
 Touchet Elem   High School
 ![Touchet Elem   High School Image](pages/Touchet School District Touchet Elem   High SchoolDual Credit BarChart.png "Touchet Elem   High School Dual Credit Participation")
 

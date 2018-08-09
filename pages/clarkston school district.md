@@ -5,6 +5,11 @@ permalink: clarkston school district
 ---
 
 
+Clarkston School District Historical Demographics
+![Clarkston School District Image](pages/Clarkston School District Historical Demographics.png "Clarkston School District Historical Demographics")
+
+___
+
 Charles Francis Adams High School
 ![Charles Francis Adams High School Image](pages/Clarkston School District Charles Francis Adams High SchoolDual Credit BarChart.png "Charles Francis Adams High School Dual Credit Participation")
 

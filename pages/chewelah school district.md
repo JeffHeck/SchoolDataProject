@@ -5,6 +5,11 @@ permalink: chewelah school district
 ---
 
 
+Chewelah School District Historical Demographics
+![Chewelah School District Image](pages/Chewelah School District Historical Demographics.png "Chewelah School District Historical Demographics")
+
+___
+
 Chewelah Alternative
 ![Chewelah Alternative Image](pages/Chewelah School District Chewelah AlternativeDual Credit BarChart.png "Chewelah Alternative Dual Credit Participation")
 

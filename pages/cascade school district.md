@@ -5,6 +5,11 @@ permalink: cascade school district
 ---
 
 
+Cascade School District Historical Demographics
+![Cascade School District Image](pages/Cascade School District Historical Demographics.png "Cascade School District Historical Demographics")
+
+___
+
 Cascade High School
 ![Cascade High School Image](pages/Cascade School District Cascade High SchoolDual Credit BarChart.png "Cascade High School Dual Credit Participation")
 

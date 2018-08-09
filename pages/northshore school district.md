@@ -5,6 +5,11 @@ permalink: northshore school district
 ---
 
 
+Northshore School District Historical Demographics
+![Northshore School District Image](pages/Northshore School District Historical Demographics.png "Northshore School District Historical Demographics")
+
+___
+
 Bothell High School
 ![Bothell High School Image](pages/Northshore School District Bothell High SchoolDual Credit BarChart.png "Bothell High School Dual Credit Participation")
 

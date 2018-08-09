@@ -5,6 +5,11 @@ permalink: tekoa school district
 ---
 
 
+Tekoa School District Historical Demographics
+![Tekoa School District Image](pages/Tekoa School District Historical Demographics.png "Tekoa School District Historical Demographics")
+
+___
+
 Tekoa High School
 ![Tekoa High School Image](pages/Tekoa School District Tekoa High SchoolDual Credit BarChart.png "Tekoa High School Dual Credit Participation")
 

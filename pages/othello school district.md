@@ -5,6 +5,11 @@ permalink: othello school district
 ---
 
 
+Othello School District Historical Demographics
+![Othello School District Image](pages/Othello School District Historical Demographics.png "Othello School District Historical Demographics")
+
+___
+
 Desert Oasis High School
 ![Desert Oasis High School Image](pages/Othello School District Desert Oasis High SchoolDual Credit BarChart.png "Desert Oasis High School Dual Credit Participation")
 

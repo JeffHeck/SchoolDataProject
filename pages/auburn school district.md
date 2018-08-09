@@ -5,6 +5,11 @@ permalink: auburn school district
 ---
 
 
+Auburn School District Historical Demographics
+![Auburn School District Image](pages/Auburn School District Historical Demographics.png "Auburn School District Historical Demographics")
+
+___
+
 Auburn Mountainview High School
 ![Auburn Mountainview High School Image](pages/Auburn School District Auburn Mountainview High SchoolDual Credit BarChart.png "Auburn Mountainview High School Dual Credit Participation")
 

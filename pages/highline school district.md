@@ -5,6 +5,11 @@ permalink: highline school district
 ---
 
 
+Highline School District Historical Demographics
+![Highline School District Image](pages/Highline School District Historical Demographics.png "Highline School District Historical Demographics")
+
+___
+
 Academy of Citizenship and Empowerment
 ![Academy of Citizenship and Empowerment Image](pages/Highline School District Academy of Citizenship and EmpowermentDual Credit BarChart.png "Academy of Citizenship and Empowerment Dual Credit Participation")
 

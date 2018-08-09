@@ -5,6 +5,11 @@ permalink: oakesdale school district
 ---
 
 
+Oakesdale School District Historical Demographics
+![Oakesdale School District Image](pages/Oakesdale School District Historical Demographics.png "Oakesdale School District Historical Demographics")
+
+___
+
 Oakesdale High School
 ![Oakesdale High School Image](pages/Oakesdale School District Oakesdale High SchoolDual Credit BarChart.png "Oakesdale High School Dual Credit Participation")
 

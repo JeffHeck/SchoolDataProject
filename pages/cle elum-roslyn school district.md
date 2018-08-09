@@ -5,6 +5,11 @@ permalink: cle elum-roslyn school district
 ---
 
 
+Cle Elum-Roslyn School District Historical Demographics
+![Cle Elum-Roslyn School District Image](pages/Cle Elum-Roslyn School District Historical Demographics.png "Cle Elum-Roslyn School District Historical Demographics")
+
+___
+
 Cle Elum Roslyn High School
 ![Cle Elum Roslyn High School Image](pages/Cle Elum-Roslyn School District Cle Elum Roslyn High SchoolDual Credit BarChart.png "Cle Elum Roslyn High School Dual Credit Participation")
 

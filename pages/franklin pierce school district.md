@@ -5,6 +5,11 @@ permalink: franklin pierce school district
 ---
 
 
+Franklin Pierce School District Historical Demographics
+![Franklin Pierce School District Image](pages/Franklin Pierce School District Historical Demographics.png "Franklin Pierce School District Historical Demographics")
+
+___
+
 Franklin Pierce High School
 ![Franklin Pierce High School Image](pages/Franklin Pierce School District Franklin Pierce High SchoolDual Credit BarChart.png "Franklin Pierce High School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: riverview school district
 ---
 
 
+Riverview School District Historical Demographics
+![Riverview School District Image](pages/Riverview School District Historical Demographics.png "Riverview School District Historical Demographics")
+
+___
+
 CLIP
 ![CLIP Image](pages/Riverview School District CLIPDual Credit BarChart.png "CLIP Dual Credit Participation")
 

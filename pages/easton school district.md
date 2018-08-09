@@ -5,6 +5,11 @@ permalink: easton school district
 ---
 
 
+Easton School District Historical Demographics
+![Easton School District Image](pages/Easton School District Historical Demographics.png "Easton School District Historical Demographics")
+
+___
+
 Easton School
 ![Easton School Image](pages/Easton School District Easton SchoolDual Credit BarChart.png "Easton School Dual Credit Participation")
 

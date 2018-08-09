@@ -5,6 +5,11 @@ permalink: freeman school district
 ---
 
 
+Freeman School District Historical Demographics
+![Freeman School District Image](pages/Freeman School District Historical Demographics.png "Freeman School District Historical Demographics")
+
+___
+
 Freeman High School
 ![Freeman High School Image](pages/Freeman School District Freeman High SchoolDual Credit BarChart.png "Freeman High School Dual Credit Participation")
 

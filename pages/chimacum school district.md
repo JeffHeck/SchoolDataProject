@@ -5,6 +5,11 @@ permalink: chimacum school district
 ---
 
 
+Chimacum School District Historical Demographics
+![Chimacum School District Image](pages/Chimacum School District Historical Demographics.png "Chimacum School District Historical Demographics")
+
+___
+
 Chimacum High School
 ![Chimacum High School Image](pages/Chimacum School District Chimacum High SchoolDual Credit BarChart.png "Chimacum High School Dual Credit Participation")
 

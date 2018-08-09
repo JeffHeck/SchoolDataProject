@@ -5,6 +5,11 @@ permalink: puyallup school district
 ---
 
 
+Puyallup School District Historical Demographics
+![Puyallup School District Image](pages/Puyallup School District Historical Demographics.png "Puyallup School District Historical Demographics")
+
+___
+
 Aylen Jr High
 ![Aylen Jr High Image](pages/Puyallup School District Aylen Jr HighDual Credit BarChart.png "Aylen Jr High Dual Credit Participation")
 

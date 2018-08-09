@@ -5,6 +5,11 @@ permalink: lake washington school district
 ---
 
 
+Lake Washington School District Historical Demographics
+![Lake Washington School District Image](pages/Lake Washington School District Historical Demographics.png "Lake Washington School District Historical Demographics")
+
+___
+
 Eastlake High School
 ![Eastlake High School Image](pages/Lake Washington School District Eastlake High SchoolDual Credit BarChart.png "Eastlake High School Dual Credit Participation")
 

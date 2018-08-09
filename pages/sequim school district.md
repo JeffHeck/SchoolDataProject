@@ -5,6 +5,11 @@ permalink: sequim school district
 ---
 
 
+Sequim School District Historical Demographics
+![Sequim School District Image](pages/Sequim School District Historical Demographics.png "Sequim School District Historical Demographics")
+
+___
+
 Sequim Community School
 ![Sequim Community School Image](pages/Sequim School District Sequim Community SchoolDual Credit BarChart.png "Sequim Community School Dual Credit Participation")
 

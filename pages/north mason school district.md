@@ -5,6 +5,11 @@ permalink: north mason school district
 ---
 
 
+North Mason School District Historical Demographics
+![North Mason School District Image](pages/North Mason School District Historical Demographics.png "North Mason School District Historical Demographics")
+
+___
+
 James A Taylor High School
 ![James A Taylor High School Image](pages/North Mason School District James A Taylor High SchoolDual Credit BarChart.png "James A Taylor High School Dual Credit Participation")
 

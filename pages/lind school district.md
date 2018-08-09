@@ -5,6 +5,11 @@ permalink: lind school district
 ---
 
 
+Lind School District Historical Demographics
+![Lind School District Image](pages/Lind School District Historical Demographics.png "Lind School District Historical Demographics")
+
+___
+
 Lind-Ritzville High School
 ![Lind-Ritzville High School Image](pages/Lind School District Lind-Ritzville High SchoolDual Credit BarChart.png "Lind-Ritzville High School Dual Credit Participation")
 

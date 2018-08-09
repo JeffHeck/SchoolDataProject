@@ -5,6 +5,11 @@ permalink: lake quinault school district
 ---
 
 
+Lake Quinault School District Historical Demographics
+![Lake Quinault School District Image](pages/Lake Quinault School District Historical Demographics.png "Lake Quinault School District Historical Demographics")
+
+___
+
 Lake Quinault High School
 ![Lake Quinault High School Image](pages/Lake Quinault School District Lake Quinault High SchoolDual Credit BarChart.png "Lake Quinault High School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: mary m knight school district
 ---
 
 
+Mary M Knight School District Historical Demographics
+![Mary M Knight School District Image](pages/Mary M Knight School District Historical Demographics.png "Mary M Knight School District Historical Demographics")
+
+___
+
 Mary M Knight School
 ![Mary M Knight School Image](pages/Mary M Knight School District Mary M Knight SchoolDual Credit BarChart.png "Mary M Knight School Dual Credit Participation")
 

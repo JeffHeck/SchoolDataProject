@@ -5,6 +5,11 @@ permalink: methow valley school district
 ---
 
 
+Methow Valley School District Historical Demographics
+![Methow Valley School District Image](pages/Methow Valley School District Historical Demographics.png "Methow Valley School District Historical Demographics")
+
+___
+
 Alternative School
 ![Alternative School Image](pages/Methow Valley School District Alternative SchoolDual Credit BarChart.png "Alternative School Dual Credit Participation")
 

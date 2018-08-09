@@ -5,6 +5,11 @@ permalink: longview school district
 ---
 
 
+Longview School District Historical Demographics
+![Longview School District Image](pages/Longview School District Historical Demographics.png "Longview School District Historical Demographics")
+
+___
+
 Discovery High School-Achieve
 ![Discovery High School-Achieve Image](pages/Longview School District Discovery High School-AchieveDual Credit BarChart.png "Discovery High School-Achieve Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: tukwila school district
 ---
 
 
+Tukwila School District Historical Demographics
+![Tukwila School District Image](pages/Tukwila School District Historical Demographics.png "Tukwila School District Historical Demographics")
+
+___
+
 Foster Senior High School
 ![Foster Senior High School Image](pages/Tukwila School District Foster Senior High SchoolDual Credit BarChart.png "Foster Senior High School Dual Credit Participation")
 

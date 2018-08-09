@@ -5,6 +5,11 @@ permalink: centralia school district
 ---
 
 
+Centralia School District Historical Demographics
+![Centralia School District Image](pages/Centralia School District Historical Demographics.png "Centralia School District Historical Demographics")
+
+___
+
 Centralia High School
 ![Centralia High School Image](pages/Centralia School District Centralia High SchoolDual Credit BarChart.png "Centralia High School Dual Credit Participation")
 

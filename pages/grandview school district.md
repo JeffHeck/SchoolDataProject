@@ -5,6 +5,11 @@ permalink: grandview school district
 ---
 
 
+Grandview School District Historical Demographics
+![Grandview School District Image](pages/Grandview School District Historical Demographics.png "Grandview School District Historical Demographics")
+
+___
+
 Compass High School
 ![Compass High School Image](pages/Grandview School District Compass High SchoolDual Credit BarChart.png "Compass High School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: white salmon valley school district
 ---
 
 
+White Salmon Valley School District Historical Demographics
+![White Salmon Valley School District Image](pages/White Salmon Valley School District Historical Demographics.png "White Salmon Valley School District Historical Demographics")
+
+___
+
 Columbia High School
 ![Columbia High School Image](pages/White Salmon Valley School District Columbia High SchoolDual Credit BarChart.png "Columbia High School Dual Credit Participation")
 

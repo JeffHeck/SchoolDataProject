@@ -5,6 +5,11 @@ permalink: san juan island school district
 ---
 
 
+San Juan Island School District Historical Demographics
+![San Juan Island School District Image](pages/San Juan Island School District Historical Demographics.png "San Juan Island School District Historical Demographics")
+
+___
+
 Friday Harbor High School
 ![Friday Harbor High School Image](pages/San Juan Island School District Friday Harbor High SchoolDual Credit BarChart.png "Friday Harbor High School Dual Credit Participation")
 

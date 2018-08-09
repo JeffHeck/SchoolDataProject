@@ -5,6 +5,11 @@ permalink: peninsula school district
 ---
 
 
+Peninsula School District Historical Demographics
+![Peninsula School District Image](pages/Peninsula School District Historical Demographics.png "Peninsula School District Historical Demographics")
+
+___
+
 Gig Harbor High
 ![Gig Harbor High Image](pages/Peninsula School District Gig Harbor HighDual Credit BarChart.png "Gig Harbor High Dual Credit Participation")
 

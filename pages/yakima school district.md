@@ -5,6 +5,11 @@ permalink: yakima school district
 ---
 
 
+Yakima School District Historical Demographics
+![Yakima School District Image](pages/Yakima School District Historical Demographics.png "Yakima School District Historical Demographics")
+
+___
+
 Davis High School
 ![Davis High School Image](pages/Yakima School District Davis High SchoolDual Credit BarChart.png "Davis High School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: okanogan school district
 ---
 
 
+Okanogan School District Historical Demographics
+![Okanogan School District Image](pages/Okanogan School District Historical Demographics.png "Okanogan School District Historical Demographics")
+
+___
+
 Okanogan Alternative High School
 ![Okanogan Alternative High School Image](pages/Okanogan School District Okanogan Alternative High SchoolDual Credit BarChart.png "Okanogan Alternative High School Dual Credit Participation")
 

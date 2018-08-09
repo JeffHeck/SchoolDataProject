@@ -5,6 +5,11 @@ permalink: west valley school district (yakima)
 ---
 
 
+West Valley School District (Yakima) Historical Demographics
+![West Valley School District (Yakima) Image](pages/West Valley School District (Yakima) Historical Demographics.png "West Valley School District (Yakima) Historical Demographics")
+
+___
+
 West Valley High School Freshman Campus
 ![West Valley High School Freshman Campus Image](pages/West Valley School District (Yakima) West Valley High School Freshman CampusDual Credit BarChart.png "West Valley High School Freshman Campus Dual Credit Participation")
 

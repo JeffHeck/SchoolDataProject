@@ -5,6 +5,11 @@ permalink: kalama school district
 ---
 
 
+Kalama School District Historical Demographics
+![Kalama School District Image](pages/Kalama School District Historical Demographics.png "Kalama School District Historical Demographics")
+
+___
+
 Kalama Jr Sr High
 ![Kalama Jr Sr High Image](pages/Kalama School District Kalama Jr Sr HighDual Credit BarChart.png "Kalama Jr Sr High Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: tonasket school district
 ---
 
 
+Tonasket School District Historical Demographics
+![Tonasket School District Image](pages/Tonasket School District Historical Demographics.png "Tonasket School District Historical Demographics")
+
+___
+
 Tonasket High School
 ![Tonasket High School Image](pages/Tonasket School District Tonasket High SchoolDual Credit BarChart.png "Tonasket High School Dual Credit Participation")
 

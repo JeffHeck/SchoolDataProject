@@ -5,6 +5,11 @@ permalink: enumclaw school district
 ---
 
 
+Enumclaw School District Historical Demographics
+![Enumclaw School District Image](pages/Enumclaw School District Historical Demographics.png "Enumclaw School District Historical Demographics")
+
+___
+
 Enumclaw Middle School
 ![Enumclaw Middle School Image](pages/Enumclaw School District Enumclaw Middle SchoolDual Credit BarChart.png "Enumclaw Middle School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: vashon island school district
 ---
 
 
+Vashon Island School District Historical Demographics
+![Vashon Island School District Image](pages/Vashon Island School District Historical Demographics.png "Vashon Island School District Historical Demographics")
+
+___
+
 Family Link
 ![Family Link Image](pages/Vashon Island School District Family LinkDual Credit BarChart.png "Family Link Dual Credit Participation")
 

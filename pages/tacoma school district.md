@@ -5,6 +5,11 @@ permalink: tacoma school district
 ---
 
 
+Tacoma School District Historical Demographics
+![Tacoma School District Image](pages/Tacoma School District Historical Demographics.png "Tacoma School District Historical Demographics")
+
+___
+
 Comm Based Trans Program
 ![Comm Based Trans Program Image](pages/Tacoma School District Comm Based Trans ProgramDual Credit BarChart.png "Comm Based Trans Program Dual Credit Participation")
 

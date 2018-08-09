@@ -5,6 +5,11 @@ permalink: toppenish school district
 ---
 
 
+Toppenish School District Historical Demographics
+![Toppenish School District Image](pages/Toppenish School District Historical Demographics.png "Toppenish School District Historical Demographics")
+
+___
+
 Computer Academy Toppenish High School
 ![Computer Academy Toppenish High School Image](pages/Toppenish School District Computer Academy Toppenish High SchoolDual Credit BarChart.png "Computer Academy Toppenish High School Dual Credit Participation")
 

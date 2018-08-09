@@ -5,6 +5,11 @@ permalink: evergreen school district (clark)
 ---
 
 
+Evergreen School District (Clark) Historical Demographics
+![Evergreen School District (Clark) Image](pages/Evergreen School District (Clark) Historical Demographics.png "Evergreen School District (Clark) Historical Demographics")
+
+___
+
 49th Street Academy
 ![49th Street Academy Image](pages/Evergreen School District (Clark) 49th Street AcademyDual Credit BarChart.png "49th Street Academy Dual Credit Participation")
 

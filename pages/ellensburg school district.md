@@ -5,6 +5,11 @@ permalink: ellensburg school district
 ---
 
 
+Ellensburg School District Historical Demographics
+![Ellensburg School District Image](pages/Ellensburg School District Historical Demographics.png "Ellensburg School District Historical Demographics")
+
+___
+
 Ellensburg High School
 ![Ellensburg High School Image](pages/Ellensburg School District Ellensburg High SchoolDual Credit BarChart.png "Ellensburg High School Dual Credit Participation")
 

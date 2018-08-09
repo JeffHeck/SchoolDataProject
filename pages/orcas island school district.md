@@ -5,6 +5,11 @@ permalink: orcas island school district
 ---
 
 
+Orcas Island School District Historical Demographics
+![Orcas Island School District Image](pages/Orcas Island School District Historical Demographics.png "Orcas Island School District Historical Demographics")
+
+___
+
 OASIS K-12
 ![OASIS K-12 Image](pages/Orcas Island School District OASIS K-12Dual Credit BarChart.png "OASIS K-12 Dual Credit Participation")
 

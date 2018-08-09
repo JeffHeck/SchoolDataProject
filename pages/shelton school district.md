@@ -5,6 +5,11 @@ permalink: shelton school district
 ---
 
 
+Shelton School District Historical Demographics
+![Shelton School District Image](pages/Shelton School District Historical Demographics.png "Shelton School District Historical Demographics")
+
+___
+
 Choice Alternative School
 ![Choice Alternative School Image](pages/Shelton School District Choice Alternative SchoolDual Credit BarChart.png "Choice Alternative School Dual Credit Participation")
 

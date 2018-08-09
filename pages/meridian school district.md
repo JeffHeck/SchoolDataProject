@@ -5,6 +5,11 @@ permalink: meridian school district
 ---
 
 
+Meridian School District Historical Demographics
+![Meridian School District Image](pages/Meridian School District Historical Demographics.png "Meridian School District Historical Demographics")
+
+___
+
 Meridian High School
 ![Meridian High School Image](pages/Meridian School District Meridian High SchoolDual Credit BarChart.png "Meridian High School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: lynden school district
 ---
 
 
+Lynden School District Historical Demographics
+![Lynden School District Image](pages/Lynden School District Historical Demographics.png "Lynden School District Historical Demographics")
+
+___
+
 Lynden Academy
 ![Lynden Academy Image](pages/Lynden School District Lynden AcademyDual Credit BarChart.png "Lynden Academy Dual Credit Participation")
 

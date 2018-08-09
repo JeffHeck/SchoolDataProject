@@ -5,6 +5,11 @@ permalink: north franklin school district
 ---
 
 
+North Franklin School District Historical Demographics
+![North Franklin School District Image](pages/North Franklin School District Historical Demographics.png "North Franklin School District Historical Demographics")
+
+___
+
 Connell High School
 ![Connell High School Image](pages/North Franklin School District Connell High SchoolDual Credit BarChart.png "Connell High School Dual Credit Participation")
 

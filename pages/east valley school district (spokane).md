@@ -5,6 +5,11 @@ permalink: east valley school district (spokane)
 ---
 
 
+East Valley School District (Spokane) Historical Demographics
+![East Valley School District (Spokane) Image](pages/East Valley School District (Spokane) Historical Demographics.png "East Valley School District (Spokane) Historical Demographics")
+
+___
+
 EV Online
 ![EV Online Image](pages/East Valley School District (Spokane) EV OnlineDual Credit BarChart.png "EV Online Dual Credit Participation")
 

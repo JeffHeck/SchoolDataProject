@@ -5,6 +5,11 @@ permalink: mukilteo school district
 ---
 
 
+Mukilteo School District Historical Demographics
+![Mukilteo School District Image](pages/Mukilteo School District Historical Demographics.png "Mukilteo School District Historical Demographics")
+
+___
+
 ACES High School
 ![ACES High School Image](pages/Mukilteo School District ACES High SchoolDual Credit BarChart.png "ACES High School Dual Credit Participation")
 

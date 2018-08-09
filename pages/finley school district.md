@@ -5,6 +5,11 @@ permalink: finley school district
 ---
 
 
+Finley School District Historical Demographics
+![Finley School District Image](pages/Finley School District Historical Demographics.png "Finley School District Historical Demographics")
+
+___
+
 River View High School
 ![River View High School Image](pages/Finley School District River View High SchoolDual Credit BarChart.png "River View High School Dual Credit Participation")
 

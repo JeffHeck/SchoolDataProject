@@ -5,6 +5,11 @@ permalink: concrete school district
 ---
 
 
+Concrete School District Historical Demographics
+![Concrete School District Image](pages/Concrete School District Historical Demographics.png "Concrete School District Historical Demographics")
+
+___
+
 Concrete High School
 ![Concrete High School Image](pages/Concrete School District Concrete High SchoolDual Credit BarChart.png "Concrete High School Dual Credit Participation")
 

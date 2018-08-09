@@ -5,6 +5,11 @@ permalink: washougal school district
 ---
 
 
+Washougal School District Historical Demographics
+![Washougal School District Image](pages/Washougal School District Historical Demographics.png "Washougal School District Historical Demographics")
+
+___
+
 Excelsior High School
 ![Excelsior High School Image](pages/Washougal School District Excelsior High SchoolDual Credit BarChart.png "Excelsior High School Dual Credit Participation")
 

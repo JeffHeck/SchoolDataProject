@@ -5,6 +5,11 @@ permalink: snohomish school district
 ---
 
 
+Snohomish School District Historical Demographics
+![Snohomish School District Image](pages/Snohomish School District Historical Demographics.png "Snohomish School District Historical Demographics")
+
+___
+
 AIM High School
 ![AIM High School Image](pages/Snohomish School District AIM High SchoolDual Credit BarChart.png "AIM High School Dual Credit Participation")
 

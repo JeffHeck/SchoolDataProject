@@ -5,6 +5,11 @@ permalink: lopez school district
 ---
 
 
+Lopez School District Historical Demographics
+![Lopez School District Image](pages/Lopez School District Historical Demographics.png "Lopez School District Historical Demographics")
+
+___
+
 CVA-Lopez Island
 ![CVA-Lopez Island Image](pages/Lopez School District CVA-Lopez IslandDual Credit BarChart.png "CVA-Lopez Island Dual Credit Participation")
 

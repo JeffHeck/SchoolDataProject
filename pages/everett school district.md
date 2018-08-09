@@ -5,6 +5,11 @@ permalink: everett school district
 ---
 
 
+Everett School District Historical Demographics
+![Everett School District Image](pages/Everett School District Historical Demographics.png "Everett School District Historical Demographics")
+
+___
+
 Cascade High School
 ![Cascade High School Image](pages/Everett School District Cascade High SchoolDual Credit BarChart.png "Cascade High School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: rainier school district
 ---
 
 
+Rainier School District Historical Demographics
+![Rainier School District Image](pages/Rainier School District Historical Demographics.png "Rainier School District Historical Demographics")
+
+___
+
 Rainier Senior High School
 ![Rainier Senior High School Image](pages/Rainier School District Rainier Senior High SchoolDual Credit BarChart.png "Rainier Senior High School Dual Credit Participation")
 

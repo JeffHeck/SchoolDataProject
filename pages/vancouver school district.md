@@ -5,6 +5,11 @@ permalink: vancouver school district
 ---
 
 
+Vancouver School District Historical Demographics
+![Vancouver School District Image](pages/Vancouver School District Historical Demographics.png "Vancouver School District Historical Demographics")
+
+___
+
 Columbia River High
 ![Columbia River High Image](pages/Vancouver School District Columbia River HighDual Credit BarChart.png "Columbia River High Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: muckleshoot indian tribe
 ---
 
 
+Muckleshoot Indian Tribe Historical Demographics
+![Muckleshoot Indian Tribe Image](pages/Muckleshoot Indian Tribe Historical Demographics.png "Muckleshoot Indian Tribe Historical Demographics")
+
+___
+
 Muckleshoot Tribal School
 ![Muckleshoot Tribal School Image](pages/Muckleshoot Indian Tribe Muckleshoot Tribal SchoolDual Credit BarChart.png "Muckleshoot Tribal School Dual Credit Participation")
 

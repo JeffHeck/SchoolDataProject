@@ -5,6 +5,11 @@ permalink: richland school district
 ---
 
 
+Richland School District Historical Demographics
+![Richland School District Image](pages/Richland School District Historical Demographics.png "Richland School District Historical Demographics")
+
+___
+
 Hanford High School
 ![Hanford High School Image](pages/Richland School District Hanford High SchoolDual Credit BarChart.png "Hanford High School Dual Credit Participation")
 

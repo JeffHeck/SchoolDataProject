@@ -5,6 +5,11 @@ permalink: waitsburg school district
 ---
 
 
+Waitsburg School District Historical Demographics
+![Waitsburg School District Image](pages/Waitsburg School District Historical Demographics.png "Waitsburg School District Historical Demographics")
+
+___
+
 Waitsburg High School
 ![Waitsburg High School Image](pages/Waitsburg School District Waitsburg High SchoolDual Credit BarChart.png "Waitsburg High School Dual Credit Participation")
 

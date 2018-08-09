@@ -5,6 +5,11 @@ permalink: pe ell school district
 ---
 
 
+Pe Ell School District Historical Demographics
+![Pe Ell School District Image](pages/Pe Ell School District Historical Demographics.png "Pe Ell School District Historical Demographics")
+
+___
+
 Pe Ell School
 ![Pe Ell School Image](pages/Pe Ell School District Pe Ell SchoolDual Credit BarChart.png "Pe Ell School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: creston school district
 ---
 
 
+Creston School District Historical Demographics
+![Creston School District Image](pages/Creston School District Historical Demographics.png "Creston School District Historical Demographics")
+
+___
+
 Creston Jr-Sr High School
 ![Creston Jr-Sr High School Image](pages/Creston School District Creston Jr-Sr High SchoolDual Credit BarChart.png "Creston Jr-Sr High School Dual Credit Participation")
 

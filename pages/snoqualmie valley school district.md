@@ -5,6 +5,11 @@ permalink: snoqualmie valley school district
 ---
 
 
+Snoqualmie Valley School District Historical Demographics
+![Snoqualmie Valley School District Image](pages/Snoqualmie Valley School District Historical Demographics.png "Snoqualmie Valley School District Historical Demographics")
+
+___
+
 Mount Si High School
 ![Mount Si High School Image](pages/Snoqualmie Valley School District Mount Si High SchoolDual Credit BarChart.png "Mount Si High School Dual Credit Participation")
 

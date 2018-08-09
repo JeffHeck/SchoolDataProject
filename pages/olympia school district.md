@@ -5,6 +5,11 @@ permalink: olympia school district
 ---
 
 
+Olympia School District Historical Demographics
+![Olympia School District Image](pages/Olympia School District Historical Demographics.png "Olympia School District Historical Demographics")
+
+___
+
 Avanti High School
 ![Avanti High School Image](pages/Olympia School District Avanti High SchoolDual Credit BarChart.png "Avanti High School Dual Credit Participation")
 

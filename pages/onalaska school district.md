@@ -5,6 +5,11 @@ permalink: onalaska school district
 ---
 
 
+Onalaska School District Historical Demographics
+![Onalaska School District Image](pages/Onalaska School District Historical Demographics.png "Onalaska School District Historical Demographics")
+
+___
+
 CVA - Onalaska
 ![CVA - Onalaska Image](pages/Onalaska School District CVA - OnalaskaDual Credit BarChart.png "CVA - Onalaska Dual Credit Participation")
 

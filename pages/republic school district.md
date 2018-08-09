@@ -5,6 +5,11 @@ permalink: republic school district
 ---
 
 
+Republic School District Historical Demographics
+![Republic School District Image](pages/Republic School District Historical Demographics.png "Republic School District Historical Demographics")
+
+___
+
 Republic Parent Partner
 ![Republic Parent Partner Image](pages/Republic School District Republic Parent PartnerDual Credit BarChart.png "Republic Parent Partner Dual Credit Participation")
 

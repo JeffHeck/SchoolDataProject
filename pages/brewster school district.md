@@ -5,6 +5,11 @@ permalink: brewster school district
 ---
 
 
+Brewster School District Historical Demographics
+![Brewster School District Image](pages/Brewster School District Historical Demographics.png "Brewster School District Historical Demographics")
+
+___
+
 Brewster Alternative School
 ![Brewster Alternative School Image](pages/Brewster School District Brewster Alternative SchoolDual Credit BarChart.png "Brewster Alternative School Dual Credit Participation")
 

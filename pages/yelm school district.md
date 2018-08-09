@@ -5,6 +5,11 @@ permalink: yelm school district
 ---
 
 
+Yelm School District Historical Demographics
+![Yelm School District Image](pages/Yelm School District Historical Demographics.png "Yelm School District Historical Demographics")
+
+___
+
 Ridgeline Middle School
 ![Ridgeline Middle School Image](pages/Yelm School District Ridgeline Middle SchoolDual Credit BarChart.png "Ridgeline Middle School Dual Credit Participation")
 

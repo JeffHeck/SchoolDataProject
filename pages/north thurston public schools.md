@@ -5,6 +5,11 @@ permalink: north thurston public schools
 ---
 
 
+North Thurston Public Schools Historical Demographics
+![North Thurston Public Schools Image](pages/North Thurston Public Schools Historical Demographics.png "North Thurston Public Schools Historical Demographics")
+
+___
+
 North Thurston High School
 ![North Thurston High School Image](pages/North Thurston Public Schools North Thurston High SchoolDual Credit BarChart.png "North Thurston High School Dual Credit Participation")
 

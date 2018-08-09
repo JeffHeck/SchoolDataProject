@@ -5,6 +5,11 @@ permalink: medical lake school district
 ---
 
 
+Medical Lake School District Historical Demographics
+![Medical Lake School District Image](pages/Medical Lake School District Historical Demographics.png "Medical Lake School District Historical Demographics")
+
+___
+
 Medical Lake Alternative High School
 ![Medical Lake Alternative High School Image](pages/Medical Lake School District Medical Lake Alternative High SchoolDual Credit BarChart.png "Medical Lake Alternative High School Dual Credit Participation")
 

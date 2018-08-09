@@ -5,6 +5,11 @@ permalink: bellingham school district
 ---
 
 
+Bellingham School District Historical Demographics
+![Bellingham School District Image](pages/Bellingham School District Historical Demographics.png "Bellingham School District Historical Demographics")
+
+___
+
 Bellingham High School
 ![Bellingham High School Image](pages/Bellingham School District Bellingham High SchoolDual Credit BarChart.png "Bellingham High School Dual Credit Participation")
 

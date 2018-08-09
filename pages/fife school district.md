@@ -5,6 +5,11 @@ permalink: fife school district
 ---
 
 
+Fife School District Historical Demographics
+![Fife School District Image](pages/Fife School District Historical Demographics.png "Fife School District Historical Demographics")
+
+___
+
 Columbia Junior High School
 ![Columbia Junior High School Image](pages/Fife School District Columbia Junior High SchoolDual Credit BarChart.png "Columbia Junior High School Dual Credit Participation")
 

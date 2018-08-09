@@ -5,6 +5,11 @@ permalink: south bend school district
 ---
 
 
+South Bend School District Historical Demographics
+![South Bend School District Image](pages/South Bend School District Historical Demographics.png "South Bend School District Historical Demographics")
+
+___
+
 Pacific County Jail
 ![Pacific County Jail Image](pages/South Bend School District Pacific County JailDual Credit BarChart.png "Pacific County Jail Dual Credit Participation")
 

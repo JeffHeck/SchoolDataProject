@@ -5,6 +5,11 @@ permalink: tumwater school district
 ---
 
 
+Tumwater School District Historical Demographics
+![Tumwater School District Image](pages/Tumwater School District Historical Demographics.png "Tumwater School District Historical Demographics")
+
+___
+
 A G West Black Hills High School
 ![A G West Black Hills High School Image](pages/Tumwater School District A G West Black Hills High SchoolDual Credit BarChart.png "A G West Black Hills High School Dual Credit Participation")
 

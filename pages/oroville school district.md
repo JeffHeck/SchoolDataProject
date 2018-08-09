@@ -5,6 +5,11 @@ permalink: oroville school district
 ---
 
 
+Oroville School District Historical Demographics
+![Oroville School District Image](pages/Oroville School District Historical Demographics.png "Oroville School District Historical Demographics")
+
+___
+
 Oroville Middle-High School
 ![Oroville Middle-High School Image](pages/Oroville School District Oroville Middle-High SchoolDual Credit BarChart.png "Oroville Middle-High School Dual Credit Participation")
 

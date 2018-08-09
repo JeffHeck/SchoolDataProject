@@ -5,6 +5,11 @@ permalink: port townsend school district
 ---
 
 
+Port Townsend School District Historical Demographics
+![Port Townsend School District Image](pages/Port Townsend School District Historical Demographics.png "Port Townsend School District Historical Demographics")
+
+___
+
 OCEAN
 ![OCEAN Image](pages/Port Townsend School District OCEANDual Credit BarChart.png "OCEAN Dual Credit Participation")
 

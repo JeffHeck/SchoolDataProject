@@ -5,6 +5,11 @@ permalink: kahlotus school district
 ---
 
 
+Kahlotus School District Historical Demographics
+![Kahlotus School District Image](pages/Kahlotus School District Historical Demographics.png "Kahlotus School District Historical Demographics")
+
+___
+
 Kahlotus Elem   High
 ![Kahlotus Elem   High Image](pages/Kahlotus School District Kahlotus Elem   HighDual Credit BarChart.png "Kahlotus Elem   High Dual Credit Participation")
 

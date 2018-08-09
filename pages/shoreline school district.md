@@ -5,6 +5,11 @@ permalink: shoreline school district
 ---
 
 
+Shoreline School District Historical Demographics
+![Shoreline School District Image](pages/Shoreline School District Historical Demographics.png "Shoreline School District Historical Demographics")
+
+___
+
 Shorecrest High School
 ![Shorecrest High School Image](pages/Shoreline School District Shorecrest High SchoolDual Credit BarChart.png "Shorecrest High School Dual Credit Participation")
 

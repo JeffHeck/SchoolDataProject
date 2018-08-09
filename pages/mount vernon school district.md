@@ -5,6 +5,11 @@ permalink: mount vernon school district
 ---
 
 
+Mount Vernon School District Historical Demographics
+![Mount Vernon School District Image](pages/Mount Vernon School District Historical Demographics.png "Mount Vernon School District Historical Demographics")
+
+___
+
 Mount Vernon High School
 ![Mount Vernon High School Image](pages/Mount Vernon School District Mount Vernon High SchoolDual Credit BarChart.png "Mount Vernon High School Dual Credit Participation")
 

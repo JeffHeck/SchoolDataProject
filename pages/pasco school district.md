@@ -5,6 +5,11 @@ permalink: pasco school district
 ---
 
 
+Pasco School District Historical Demographics
+![Pasco School District Image](pages/Pasco School District Historical Demographics.png "Pasco School District Historical Demographics")
+
+___
+
 Chiawana High School
 ![Chiawana High School Image](pages/Pasco School District Chiawana High SchoolDual Credit BarChart.png "Chiawana High School Dual Credit Participation")
 

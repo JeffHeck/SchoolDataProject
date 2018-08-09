@@ -5,6 +5,11 @@ permalink: walla walla public schools
 ---
 
 
+Walla Walla Public Schools Historical Demographics
+![Walla Walla Public Schools Image](pages/Walla Walla Public Schools Historical Demographics.png "Walla Walla Public Schools Historical Demographics")
+
+___
+
 Alternative Education Program
 ![Alternative Education Program Image](pages/Walla Walla Public Schools Alternative Education ProgramDual Credit BarChart.png "Alternative Education Program Dual Credit Participation")
 

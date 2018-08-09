@@ -5,6 +5,11 @@ permalink: bainbridge island school district
 ---
 
 
+Bainbridge Island School District Historical Demographics
+![Bainbridge Island School District Image](pages/Bainbridge Island School District Historical Demographics.png "Bainbridge Island School District Historical Demographics")
+
+___
+
 Bainbridge High School
 ![Bainbridge High School Image](pages/Bainbridge Island School District Bainbridge High SchoolDual Credit BarChart.png "Bainbridge High School Dual Credit Participation")
 

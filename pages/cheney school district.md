@@ -5,6 +5,11 @@ permalink: cheney school district
 ---
 
 
+Cheney School District Historical Demographics
+![Cheney School District Image](pages/Cheney School District Historical Demographics.png "Cheney School District Historical Demographics")
+
+___
+
 Cheney High School
 ![Cheney High School Image](pages/Cheney School District Cheney High SchoolDual Credit BarChart.png "Cheney High School Dual Credit Participation")
 

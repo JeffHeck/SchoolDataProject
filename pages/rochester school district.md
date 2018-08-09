@@ -5,6 +5,11 @@ permalink: rochester school district
 ---
 
 
+Rochester School District Historical Demographics
+![Rochester School District Image](pages/Rochester School District Historical Demographics.png "Rochester School District Historical Demographics")
+
+___
+
 Heart High School
 ![Heart High School Image](pages/Rochester School District Heart High SchoolDual Credit BarChart.png "Heart High School Dual Credit Participation")
 

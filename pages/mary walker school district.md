@@ -5,6 +5,11 @@ permalink: mary walker school district
 ---
 
 
+Mary Walker School District Historical Demographics
+![Mary Walker School District Image](pages/Mary Walker School District Historical Demographics.png "Mary Walker School District Historical Demographics")
+
+___
+
 Mary Walker High School
 ![Mary Walker High School Image](pages/Mary Walker School District Mary Walker High SchoolDual Credit BarChart.png "Mary Walker High School Dual Credit Participation")
 

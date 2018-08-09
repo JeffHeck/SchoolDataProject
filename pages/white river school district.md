@@ -5,6 +5,11 @@ permalink: white river school district
 ---
 
 
+White River School District Historical Demographics
+![White River School District Image](pages/White River School District Historical Demographics.png "White River School District Historical Demographics")
+
+___
+
 White River High School
 ![White River High School Image](pages/White River School District White River High SchoolDual Credit BarChart.png "White River High School Dual Credit Participation")
 

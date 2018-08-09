@@ -5,6 +5,11 @@ permalink: montesano school district
 ---
 
 
+Montesano School District Historical Demographics
+![Montesano School District Image](pages/Montesano School District Historical Demographics.png "Montesano School District Historical Demographics")
+
+___
+
 Montesano Jr-Sr High
 ![Montesano Jr-Sr High Image](pages/Montesano School District Montesano Jr-Sr HighDual Credit BarChart.png "Montesano Jr-Sr High Dual Credit Participation")
 

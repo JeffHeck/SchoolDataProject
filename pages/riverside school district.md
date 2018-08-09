@@ -5,6 +5,11 @@ permalink: riverside school district
 ---
 
 
+Riverside School District Historical Demographics
+![Riverside School District Image](pages/Riverside School District Historical Demographics.png "Riverside School District Historical Demographics")
+
+___
+
 Independent Scholar
 ![Independent Scholar Image](pages/Riverside School District Independent ScholarDual Credit BarChart.png "Independent Scholar Dual Credit Participation")
 

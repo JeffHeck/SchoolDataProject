@@ -5,6 +5,11 @@ permalink: sultan school district
 ---
 
 
+Sultan School District Historical Demographics
+![Sultan School District Image](pages/Sultan School District Historical Demographics.png "Sultan School District Historical Demographics")
+
+___
+
 Sky Valley Options
 ![Sky Valley Options Image](pages/Sultan School District Sky Valley OptionsDual Credit BarChart.png "Sky Valley Options Dual Credit Participation")
 

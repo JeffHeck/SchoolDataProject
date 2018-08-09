@@ -5,6 +5,11 @@ permalink: monroe school district
 ---
 
 
+Monroe School District Historical Demographics
+![Monroe School District Image](pages/Monroe School District Historical Demographics.png "Monroe School District Historical Demographics")
+
+___
+
 Leaders In Learning
 ![Leaders In Learning Image](pages/Monroe School District Leaders In LearningDual Credit BarChart.png "Leaders In Learning Dual Credit Participation")
 

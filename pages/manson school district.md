@@ -5,6 +5,11 @@ permalink: manson school district
 ---
 
 
+Manson School District Historical Demographics
+![Manson School District Image](pages/Manson School District Historical Demographics.png "Manson School District Historical Demographics")
+
+___
+
 Manson High School
 ![Manson High School Image](pages/Manson School District Manson High SchoolDual Credit BarChart.png "Manson High School Dual Credit Participation")
 

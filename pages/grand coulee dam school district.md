@@ -5,6 +5,11 @@ permalink: grand coulee dam school district
 ---
 
 
+Grand Coulee Dam School District Historical Demographics
+![Grand Coulee Dam School District Image](pages/Grand Coulee Dam School District Historical Demographics.png "Grand Coulee Dam School District Historical Demographics")
+
+___
+
 Lake Roosevelt Jr Sr High School
 ![Lake Roosevelt Jr Sr High School Image](pages/Grand Coulee Dam School District Lake Roosevelt Jr Sr High SchoolDual Credit BarChart.png "Lake Roosevelt Jr Sr High School Dual Credit Participation")
 

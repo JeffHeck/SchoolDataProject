@@ -5,6 +5,11 @@ permalink: renton school district
 ---
 
 
+Renton School District Historical Demographics
+![Renton School District Image](pages/Renton School District Historical Demographics.png "Renton School District Historical Demographics")
+
+___
+
 Griffin Home
 ![Griffin Home Image](pages/Renton School District Griffin HomeDual Credit BarChart.png "Griffin Home Dual Credit Participation")
 

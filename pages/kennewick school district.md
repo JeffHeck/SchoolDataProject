@@ -5,6 +5,11 @@ permalink: kennewick school district
 ---
 
 
+Kennewick School District Historical Demographics
+![Kennewick School District Image](pages/Kennewick School District Historical Demographics.png "Kennewick School District Historical Demographics")
+
+___
+
 Kamiakin High School
 ![Kamiakin High School Image](pages/Kennewick School District Kamiakin High SchoolDual Credit BarChart.png "Kamiakin High School Dual Credit Participation")
 

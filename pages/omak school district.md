@@ -5,6 +5,11 @@ permalink: omak school district
 ---
 
 
+Omak School District Historical Demographics
+![Omak School District Image](pages/Omak School District Historical Demographics.png "Omak School District Historical Demographics")
+
+___
+
 Highlands High School
 ![Highlands High School Image](pages/Omak School District Highlands High SchoolDual Credit BarChart.png "Highlands High School Dual Credit Participation")
 

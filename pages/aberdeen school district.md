@@ -5,6 +5,11 @@ permalink: aberdeen school district
 ---
 
 
+Aberdeen School District Historical Demographics
+![Aberdeen School District Image](pages/Aberdeen School District Historical Demographics.png "Aberdeen School District Historical Demographics")
+
+___
+
 Harbor High School
 ![Harbor High School Image](pages/Aberdeen School District Harbor High SchoolDual Credit BarChart.png "Harbor High School Dual Credit Participation")
 

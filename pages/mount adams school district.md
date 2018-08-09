@@ -5,6 +5,11 @@ permalink: mount adams school district
 ---
 
 
+Mount Adams School District Historical Demographics
+![Mount Adams School District Image](pages/Mount Adams School District Historical Demographics.png "Mount Adams School District Historical Demographics")
+
+___
+
 White Swan High School
 ![White Swan High School Image](pages/Mount Adams School District White Swan High SchoolDual Credit BarChart.png "White Swan High School Dual Credit Participation")
 

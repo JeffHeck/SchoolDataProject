@@ -5,6 +5,11 @@ permalink: north river school district
 ---
 
 
+North River School District Historical Demographics
+![North River School District Image](pages/North River School District Historical Demographics.png "North River School District Historical Demographics")
+
+___
+
 North River School
 ![North River School Image](pages/North River School District North River SchoolDual Credit BarChart.png "North River School Dual Credit Participation")
 

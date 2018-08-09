@@ -5,6 +5,11 @@ permalink: trout lake school district
 ---
 
 
+Trout Lake School District Historical Demographics
+![Trout Lake School District Image](pages/Trout Lake School District Historical Demographics.png "Trout Lake School District Historical Demographics")
+
+___
+
 Trout Lake School
 ![Trout Lake School Image](pages/Trout Lake School District Trout Lake SchoolDual Credit BarChart.png "Trout Lake School Dual Credit Participation")
 

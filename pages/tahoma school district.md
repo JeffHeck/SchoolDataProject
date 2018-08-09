@@ -5,6 +5,11 @@ permalink: tahoma school district
 ---
 
 
+Tahoma School District Historical Demographics
+![Tahoma School District Image](pages/Tahoma School District Historical Demographics.png "Tahoma School District Historical Demographics")
+
+___
+
 Tahoma Jr High
 ![Tahoma Jr High Image](pages/Tahoma School District Tahoma Jr HighDual Credit BarChart.png "Tahoma Jr High Dual Credit Participation")
 

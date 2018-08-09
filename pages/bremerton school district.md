@@ -5,6 +5,11 @@ permalink: bremerton school district
 ---
 
 
+Bremerton School District Historical Demographics
+![Bremerton School District Image](pages/Bremerton School District Historical Demographics.png "Bremerton School District Historical Demographics")
+
+___
+
 Bremerton High School
 ![Bremerton High School Image](pages/Bremerton School District Bremerton High SchoolDual Credit BarChart.png "Bremerton High School Dual Credit Participation")
 

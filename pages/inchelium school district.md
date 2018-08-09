@@ -5,6 +5,11 @@ permalink: inchelium school district
 ---
 
 
+Inchelium School District Historical Demographics
+![Inchelium School District Image](pages/Inchelium School District Historical Demographics.png "Inchelium School District Historical Demographics")
+
+___
+
 Inchelium High School
 ![Inchelium High School Image](pages/Inchelium School District Inchelium High SchoolDual Credit BarChart.png "Inchelium High School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: spokane school district
 ---
 
 
+Spokane School District Historical Demographics
+![Spokane School District Image](pages/Spokane School District Historical Demographics.png "Spokane School District Historical Demographics")
+
+___
+
 Bryant Center
 ![Bryant Center Image](pages/Spokane School District Bryant CenterDual Credit BarChart.png "Bryant Center Dual Credit Participation")
 

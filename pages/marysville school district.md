@@ -5,6 +5,11 @@ permalink: marysville school district
 ---
 
 
+Marysville School District Historical Demographics
+![Marysville School District Image](pages/Marysville School District Historical Demographics.png "Marysville School District Historical Demographics")
+
+___
+
 Academy of Const and Engineering
 ![Academy of Const and Engineering Image](pages/Marysville School District Academy of Const and EngineeringDual Credit BarChart.png "Academy of Const and Engineering Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: bridgeport school district
 ---
 
 
+Bridgeport School District Historical Demographics
+![Bridgeport School District Image](pages/Bridgeport School District Historical Demographics.png "Bridgeport School District Historical Demographics")
+
+___
+
 Bridgeport Aurora High School
 ![Bridgeport Aurora High School Image](pages/Bridgeport School District Bridgeport Aurora High SchoolDual Credit BarChart.png "Bridgeport Aurora High School Dual Credit Participation")
 

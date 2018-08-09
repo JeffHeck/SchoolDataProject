@@ -5,6 +5,11 @@ permalink: granger school district
 ---
 
 
+Granger School District Historical Demographics
+![Granger School District Image](pages/Granger School District Historical Demographics.png "Granger School District Historical Demographics")
+
+___
+
 Granger High School
 ![Granger High School Image](pages/Granger School District Granger High SchoolDual Credit BarChart.png "Granger High School Dual Credit Participation")
 

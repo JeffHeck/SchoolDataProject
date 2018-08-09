@@ -5,6 +5,11 @@ permalink: camas school district
 ---
 
 
+Camas School District Historical Demographics
+![Camas School District Image](pages/Camas School District Historical Demographics.png "Camas School District Historical Demographics")
+
+___
+
 Camas High School
 ![Camas High School Image](pages/Camas School District Camas High SchoolDual Credit BarChart.png "Camas High School Dual Credit Participation")
 

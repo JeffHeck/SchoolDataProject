@@ -5,6 +5,11 @@ permalink: reardan-edwall school district
 ---
 
 
+Reardan-Edwall School District Historical Demographics
+![Reardan-Edwall School District Image](pages/Reardan-Edwall School District Historical Demographics.png "Reardan-Edwall School District Historical Demographics")
+
+___
+
 Reardan Middle-Senior High School
 ![Reardan Middle-Senior High School Image](pages/Reardan-Edwall School District Reardan Middle-Senior High SchoolDual Credit BarChart.png "Reardan Middle-Senior High School Dual Credit Participation")
 

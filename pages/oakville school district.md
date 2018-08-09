@@ -5,6 +5,11 @@ permalink: oakville school district
 ---
 
 
+Oakville School District Historical Demographics
+![Oakville School District Image](pages/Oakville School District Historical Demographics.png "Oakville School District Historical Demographics")
+
+___
+
 Oakville High School
 ![Oakville High School Image](pages/Oakville School District Oakville High SchoolDual Credit BarChart.png "Oakville High School Dual Credit Participation")
 

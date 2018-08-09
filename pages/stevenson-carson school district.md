@@ -5,6 +5,11 @@ permalink: stevenson-carson school district
 ---
 
 
+Stevenson-Carson School District Historical Demographics
+![Stevenson-Carson School District Image](pages/Stevenson-Carson School District Historical Demographics.png "Stevenson-Carson School District Historical Demographics")
+
+___
+
 Stevenson High School
 ![Stevenson High School Image](pages/Stevenson-Carson School District Stevenson High SchoolDual Credit BarChart.png "Stevenson High School Dual Credit Participation")
 

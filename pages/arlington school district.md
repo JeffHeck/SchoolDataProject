@@ -5,6 +5,11 @@ permalink: arlington school district
 ---
 
 
+Arlington School District Historical Demographics
+![Arlington School District Image](pages/Arlington School District Historical Demographics.png "Arlington School District Historical Demographics")
+
+___
+
 Arlington High School
 ![Arlington High School Image](pages/Arlington School District Arlington High SchoolDual Credit BarChart.png "Arlington High School Dual Credit Participation")
 

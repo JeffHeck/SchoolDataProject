@@ -5,6 +5,11 @@ permalink: columbia (stevens) school district
 ---
 
 
+Columbia (Stevens) School District Historical Demographics
+![Columbia (Stevens) School District Image](pages/Columbia (Stevens) School District Historical Demographics.png "Columbia (Stevens) School District Historical Demographics")
+
+___
+
 Columbia Alternative School
 ![Columbia Alternative School Image](pages/Columbia (Stevens) School District Columbia Alternative SchoolDual Credit BarChart.png "Columbia Alternative School Dual Credit Participation")
 

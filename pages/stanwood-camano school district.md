@@ -5,6 +5,11 @@ permalink: stanwood-camano school district
 ---
 
 
+Stanwood-Camano School District Historical Demographics
+![Stanwood-Camano School District Image](pages/Stanwood-Camano School District Historical Demographics.png "Stanwood-Camano School District Historical Demographics")
+
+___
+
 Lincoln Hill High School
 ![Lincoln Hill High School Image](pages/Stanwood-Camano School District Lincoln Hill High SchoolDual Credit BarChart.png "Lincoln Hill High School Dual Credit Participation")
 

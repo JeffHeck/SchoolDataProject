@@ -5,6 +5,11 @@ permalink: prosser school district
 ---
 
 
+Prosser School District Historical Demographics
+![Prosser School District Image](pages/Prosser School District Historical Demographics.png "Prosser School District Historical Demographics")
+
+___
+
 Prosser Falls Education Center
 ![Prosser Falls Education Center Image](pages/Prosser School District Prosser Falls Education CenterDual Credit BarChart.png "Prosser Falls Education Center Dual Credit Participation")
 

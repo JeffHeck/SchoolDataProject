@@ -5,6 +5,11 @@ permalink: bellevue school district
 ---
 
 
+Bellevue School District Historical Demographics
+![Bellevue School District Image](pages/Bellevue School District Historical Demographics.png "Bellevue School District Historical Demographics")
+
+___
+
 Bellevue Big Picture School
 ![Bellevue Big Picture School Image](pages/Bellevue School District Bellevue Big Picture SchoolDual Credit BarChart.png "Bellevue Big Picture School Dual Credit Participation")
 

@@ -5,6 +5,11 @@ permalink: federal way school district
 ---
 
 
+Federal Way School District Historical Demographics
+![Federal Way School District Image](pages/Federal Way School District Historical Demographics.png "Federal Way School District Historical Demographics")
+
+___
+
 Career Academy at Truman High School
 ![Career Academy at Truman High School Image](pages/Federal Way School District Career Academy at Truman High SchoolDual Credit BarChart.png "Career Academy at Truman High School Dual Credit Participation")
 

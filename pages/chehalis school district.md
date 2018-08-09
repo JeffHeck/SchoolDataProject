@@ -5,6 +5,11 @@ permalink: chehalis school district
 ---
 
 
+Chehalis School District Historical Demographics
+![Chehalis School District Image](pages/Chehalis School District Historical Demographics.png "Chehalis School District Historical Demographics")
+
+___
+
 Lewis County Alternative School
 ![Lewis County Alternative School Image](pages/Chehalis School District Lewis County Alternative SchoolDual Credit BarChart.png "Lewis County Alternative School Dual Credit Participation")
 

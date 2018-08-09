@@ -5,6 +5,11 @@ permalink: elma school district
 ---
 
 
+Elma School District Historical Demographics
+![Elma School District Image](pages/Elma School District Historical Demographics.png "Elma School District Historical Demographics")
+
+___
+
 East Grays Harbor High School
 ![East Grays Harbor High School Image](pages/Elma School District East Grays Harbor High SchoolDual Credit BarChart.png "East Grays Harbor High School Dual Credit Participation")
 

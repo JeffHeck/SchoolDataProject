@@ -5,6 +5,11 @@ permalink: mercer island school district
 ---
 
 
+Mercer Island School District Historical Demographics
+![Mercer Island School District Image](pages/Mercer Island School District Historical Demographics.png "Mercer Island School District Historical Demographics")
+
+___
+
 Islander Middle School
 ![Islander Middle School Image](pages/Mercer Island School District Islander Middle SchoolDual Credit BarChart.png "Islander Middle School Dual Credit Participation")
 

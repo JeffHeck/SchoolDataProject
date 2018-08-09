@@ -5,6 +5,11 @@ permalink: hoquiam school district
 ---
 
 
+Hoquiam School District Historical Demographics
+![Hoquiam School District Image](pages/Hoquiam School District Historical Demographics.png "Hoquiam School District Historical Demographics")
+
+___
+
 Hoquiam High School
 ![Hoquiam High School Image](pages/Hoquiam School District Hoquiam High SchoolDual Credit BarChart.png "Hoquiam High School Dual Credit Participation")
 

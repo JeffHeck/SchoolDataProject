@@ -5,6 +5,11 @@ permalink: hockinson school district
 ---
 
 
+Hockinson School District Historical Demographics
+![Hockinson School District Image](pages/Hockinson School District Historical Demographics.png "Hockinson School District Historical Demographics")
+
+___
+
 Hockinson High School
 ![Hockinson High School Image](pages/Hockinson School District Hockinson High SchoolDual Credit BarChart.png "Hockinson High School Dual Credit Participation")
 

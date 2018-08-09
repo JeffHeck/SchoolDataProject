@@ -5,6 +5,11 @@ permalink: toledo school district
 ---
 
 
+Toledo School District Historical Demographics
+![Toledo School District Image](pages/Toledo School District Historical Demographics.png "Toledo School District Historical Demographics")
+
+___
+
 Cowlitz Prairie Academy
 ![Cowlitz Prairie Academy Image](pages/Toledo School District Cowlitz Prairie AcademyDual Credit BarChart.png "Cowlitz Prairie Academy Dual Credit Participation")
 

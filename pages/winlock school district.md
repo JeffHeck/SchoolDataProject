@@ -5,6 +5,11 @@ permalink: winlock school district
 ---
 
 
+Winlock School District Historical Demographics
+![Winlock School District Image](pages/Winlock School District Historical Demographics.png "Winlock School District Historical Demographics")
+
+___
+
 Winlock Senior High
 ![Winlock Senior High Image](pages/Winlock School District Winlock Senior HighDual Credit BarChart.png "Winlock Senior High Dual Credit Participation")
 

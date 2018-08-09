@@ -5,6 +5,11 @@ permalink: south kitsap school district
 ---
 
 
+South Kitsap School District Historical Demographics
+![South Kitsap School District Image](pages/South Kitsap School District Historical Demographics.png "South Kitsap School District Historical Demographics")
+
+___
+
 Cedar Heights Middle School
 ![Cedar Heights Middle School Image](pages/South Kitsap School District Cedar Heights Middle SchoolDual Credit BarChart.png "Cedar Heights Middle School Dual Credit Participation")
 

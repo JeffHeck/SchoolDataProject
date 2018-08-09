@@ -15,4 +15,8 @@ Summit Public School Sierra Secondary Teachers' Median Total Compensation
 
 ___
 
+Summit Public School Sierra Superintendent Compensation History
+![Summit Public School Sierra Image](pages/WA School District Compensation History for Summit Public School Sierra Superintendent ConstantDollars.png "Summit Public School Sierra Superintendent Compensation History")
+
+___
 
