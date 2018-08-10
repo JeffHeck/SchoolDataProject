@@ -20,8 +20,4 @@ Excel Public Charter School LEA Elem. Homeroom Teachers' Median Total Compensati
 
 ___
 
-Excel Public Charter School LEA Superintendent Compensation History
-![Excel Public Charter School LEA Image](pages/WA School District Compensation History for Excel Public Charter School LEA Superintendent ConstantDollars.png "Excel Public Charter School LEA Superintendent Compensation History")
-
-___
 
