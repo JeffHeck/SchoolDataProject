@@ -15,8 +15,5 @@ SOAR Academy Charter District Elem. Homeroom Teachers' Median Total Compensation
 
 ___
 
-SOAR Academy Charter District Superintendent Compensation History
-![SOAR Academy Charter District Image](pages/WA School District Compensation History for SOAR Academy Charter District Superintendent ConstantDollars.png "SOAR Academy Charter District Superintendent Compensation History")
 
-___
 
