@@ -5,38 +5,31 @@ permalink: issaquah school district
 ---
 
 
-Issaquah School District Historical Demographics
-![Issaquah School District Image](pages/Issaquah School District Historical Demographics.png "Issaquah School District Historical Demographics")
+[Issaquah School District Historical Demographics](pages/Issaquah School District Historical Demographics.png "Issaquah School District Historical Demographics")
 
 ___
 
-Issaquah High School
-![Issaquah High School Image](pages/Issaquah School District Issaquah High SchoolDual Credit BarChart.png "Issaquah High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Issaquah High School](pages/Issaquah School District Issaquah High SchoolDual Credit BarChart.png "Issaquah High School Dual Credit Participation")
+
+[Liberty Sr High School](pages/Issaquah School District Liberty Sr High SchoolDual Credit BarChart.png "Liberty Sr High School Dual Credit Participation")
+
+[Skyline High School](pages/Issaquah School District Skyline High SchoolDual Credit BarChart.png "Skyline High School Dual Credit Participation")
+
 
 ___
 
-Liberty Sr High School
-![Liberty Sr High School Image](pages/Issaquah School District Liberty Sr High SchoolDual Credit BarChart.png "Liberty Sr High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Issaquah School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Issaquah Highlighted.png "Issaquah School District Secondary Teachers Median Total Compensation")
+
+[Issaquah School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Issaquah Highlighted.png "Issaquah School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Skyline High School
-![Skyline High School Image](pages/Issaquah School District Skyline High SchoolDual Credit BarChart.png "Skyline High School Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Issaquah School District Secondary Teachers' Median Total Compensation
-![Issaquah School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Issaquah Highlighted.png "Issaquah School District Secondary Teachers Median Total Compensation")
-
-___
-
-Issaquah School District Elem. Homeroom Teachers' Median Total Compensation
-![Issaquah School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Issaquah Highlighted.png "Issaquah School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Issaquah School District Superintendent Compensation History
-![Issaquah School District Image](pages/WA School District Compensation History for Issaquah Superintendent ConstantDollars.png "Issaquah School District Superintendent Compensation History")
-
-___
+[Issaquah School District Superintendent Compensation History](pages/Historical Compensation for the Issaquah SD in Constant 2017 DollarsDuty Title = Superintendent.png "Issaquah School District Superintendent Compensation History")
 

@@ -5,33 +5,29 @@ permalink: lopez school district
 ---
 
 
-Lopez School District Historical Demographics
-![Lopez School District Image](pages/Lopez School District Historical Demographics.png "Lopez School District Historical Demographics")
+[Lopez School District Historical Demographics](pages/Lopez School District Historical Demographics.png "Lopez School District Historical Demographics")
 
 ___
 
-CVA-Lopez Island
-![CVA-Lopez Island Image](pages/Lopez School District CVA-Lopez IslandDual Credit BarChart.png "CVA-Lopez Island Dual Credit Participation")
+## Dual Credit Participation
+
+[CVA-Lopez Island](pages/Lopez School District CVA-Lopez IslandDual Credit BarChart.png "CVA-Lopez Island Dual Credit Participation")
+
+[Lopez Middle High School](pages/Lopez School District Lopez Middle High SchoolDual Credit BarChart.png "Lopez Middle High School Dual Credit Participation")
+
 
 ___
 
-Lopez Middle High School
-![Lopez Middle High School Image](pages/Lopez School District Lopez Middle High SchoolDual Credit BarChart.png "Lopez Middle High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Lopez School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lopez Highlighted.png "Lopez School District Secondary Teachers Median Total Compensation")
+
+[Lopez School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Lopez Highlighted.png "Lopez School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Lopez School District Secondary Teachers' Median Total Compensation
-![Lopez School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lopez Highlighted.png "Lopez School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Lopez School District Elem. Homeroom Teachers' Median Total Compensation
-![Lopez School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Lopez Highlighted.png "Lopez School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Lopez School District Superintendent Compensation History
-![Lopez School District Image](pages/WA School District Compensation History for Lopez Superintendent ConstantDollars.png "Lopez School District Superintendent Compensation History")
-
-___
+[Lopez School District Superintendent Compensation History](pages/Historical Compensation for the Lopez SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lopez School District Superintendent Compensation History")
 

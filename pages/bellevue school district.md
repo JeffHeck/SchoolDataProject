@@ -5,58 +5,39 @@ permalink: bellevue school district
 ---
 
 
-Bellevue School District Historical Demographics
-![Bellevue School District Image](pages/Bellevue School District Historical Demographics.png "Bellevue School District Historical Demographics")
+[Bellevue School District Historical Demographics](pages/Bellevue School District Historical Demographics.png "Bellevue School District Historical Demographics")
 
 ___
 
-Bellevue Big Picture School
-![Bellevue Big Picture School Image](pages/Bellevue School District Bellevue Big Picture SchoolDual Credit BarChart.png "Bellevue Big Picture School Dual Credit Participation")
+## Dual Credit Participation
+
+[Bellevue Big Picture School](pages/Bellevue School District Bellevue Big Picture SchoolDual Credit BarChart.png "Bellevue Big Picture School Dual Credit Participation")
+
+[Bellevue High School](pages/Bellevue School District Bellevue High SchoolDual Credit BarChart.png "Bellevue High School Dual Credit Participation")
+
+[Grad Alliance Program](pages/Bellevue School District Grad Alliance ProgramDual Credit BarChart.png "Grad Alliance Program Dual Credit Participation")
+
+[Interlake Senior High School](pages/Bellevue School District Interlake Senior High SchoolDual Credit BarChart.png "Interlake Senior High School Dual Credit Participation")
+
+[International School](pages/Bellevue School District International SchoolDual Credit BarChart.png "International School Dual Credit Participation")
+
+[Newport Senior High School](pages/Bellevue School District Newport Senior High SchoolDual Credit BarChart.png "Newport Senior High School Dual Credit Participation")
+
+[Sammamish Senior High](pages/Bellevue School District Sammamish Senior HighDual Credit BarChart.png "Sammamish Senior High Dual Credit Participation")
+
 
 ___
 
-Bellevue High School
-![Bellevue High School Image](pages/Bellevue School District Bellevue High SchoolDual Credit BarChart.png "Bellevue High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Bellevue School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Bellevue Highlighted.png "Bellevue School District Secondary Teachers Median Total Compensation")
+
+[Bellevue School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Bellevue Highlighted.png "Bellevue School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Grad Alliance Program
-![Grad Alliance Program Image](pages/Bellevue School District Grad Alliance ProgramDual Credit BarChart.png "Grad Alliance Program Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Interlake Senior High School
-![Interlake Senior High School Image](pages/Bellevue School District Interlake Senior High SchoolDual Credit BarChart.png "Interlake Senior High School Dual Credit Participation")
-
-___
-
-International School
-![International School Image](pages/Bellevue School District International SchoolDual Credit BarChart.png "International School Dual Credit Participation")
-
-___
-
-Newport Senior High School
-![Newport Senior High School Image](pages/Bellevue School District Newport Senior High SchoolDual Credit BarChart.png "Newport Senior High School Dual Credit Participation")
-
-___
-
-Sammamish Senior High
-![Sammamish Senior High Image](pages/Bellevue School District Sammamish Senior HighDual Credit BarChart.png "Sammamish Senior High Dual Credit Participation")
-
-___
-
-Bellevue School District Secondary Teachers' Median Total Compensation
-![Bellevue School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Bellevue Highlighted.png "Bellevue School District Secondary Teachers Median Total Compensation")
-
-___
-
-Bellevue School District Elem. Homeroom Teachers' Median Total Compensation
-![Bellevue School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Bellevue Highlighted.png "Bellevue School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Bellevue School District Superintendent Compensation History
-![Bellevue School District Image](pages/WA School District Compensation History for Bellevue Superintendent ConstantDollars.png "Bellevue School District Superintendent Compensation History")
-
-___
+[Bellevue School District Superintendent Compensation History](pages/Historical Compensation for the Bellevue SD in Constant 2017 DollarsDuty Title = Superintendent.png "Bellevue School District Superintendent Compensation History")
 

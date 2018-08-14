@@ -5,28 +5,27 @@ permalink: klickitat school district
 ---
 
 
-Klickitat School District Historical Demographics
-![Klickitat School District Image](pages/Klickitat School District Historical Demographics.png "Klickitat School District Historical Demographics")
+[Klickitat School District Historical Demographics](pages/Klickitat School District Historical Demographics.png "Klickitat School District Historical Demographics")
 
 ___
 
-Klickitat Elem   High
-![Klickitat Elem   High Image](pages/Klickitat School District Klickitat Elem   HighDual Credit BarChart.png "Klickitat Elem   High Dual Credit Participation")
+## Dual Credit Participation
+
+[Klickitat Elem   High](pages/Klickitat School District Klickitat Elem   HighDual Credit BarChart.png "Klickitat Elem   High Dual Credit Participation")
+
 
 ___
 
-Klickitat School District Secondary Teachers' Median Total Compensation
-![Klickitat School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Klickitat Highlighted.png "Klickitat School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Klickitat School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Klickitat Highlighted.png "Klickitat School District Secondary Teachers Median Total Compensation")
+
+[Klickitat School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Klickitat Highlighted.png "Klickitat School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Klickitat School District Elem. Homeroom Teachers' Median Total Compensation
-![Klickitat School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Klickitat Highlighted.png "Klickitat School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Klickitat School District Superintendent Compensation History
-![Klickitat School District Image](pages/WA School District Compensation History for Klickitat Superintendent ConstantDollars.png "Klickitat School District Superintendent Compensation History")
-
-___
+[Klickitat School District Superintendent Compensation History](pages/Historical Compensation for the Klickitat SD in Constant 2017 DollarsDuty Title = Superintendent.png "Klickitat School District Superintendent Compensation History")
 

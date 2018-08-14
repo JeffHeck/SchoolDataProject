@@ -5,43 +5,33 @@ permalink: north thurston public schools
 ---
 
 
-North Thurston Public Schools Historical Demographics
-![North Thurston Public Schools Image](pages/North Thurston Public Schools Historical Demographics.png "North Thurston Public Schools Historical Demographics")
+[North Thurston Public Schools Historical Demographics](pages/North Thurston Public Schools Historical Demographics.png "North Thurston Public Schools Historical Demographics")
 
 ___
 
-North Thurston High School
-![North Thurston High School Image](pages/North Thurston Public Schools North Thurston High SchoolDual Credit BarChart.png "North Thurston High School Dual Credit Participation")
+## Dual Credit Participation
+
+[North Thurston High School](pages/North Thurston Public Schools North Thurston High SchoolDual Credit BarChart.png "North Thurston High School Dual Credit Participation")
+
+[River Ridge High School](pages/North Thurston Public Schools River Ridge High SchoolDual Credit BarChart.png "River Ridge High School Dual Credit Participation")
+
+[South Sound High School](pages/North Thurston Public Schools South Sound High SchoolDual Credit BarChart.png "South Sound High School Dual Credit Participation")
+
+[Timberline High School](pages/North Thurston Public Schools Timberline High SchoolDual Credit BarChart.png "Timberline High School Dual Credit Participation")
+
 
 ___
 
-River Ridge High School
-![River Ridge High School Image](pages/North Thurston Public Schools River Ridge High SchoolDual Credit BarChart.png "River Ridge High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[North Thurston Public Schools Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With North Thurston Highlighted.png "North Thurston Public Schools Secondary Teachers Median Total Compensation")
+
+[North Thurston Public Schools Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With North Thurston Highlighted.png "North Thurston Public Schools Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-South Sound High School
-![South Sound High School Image](pages/North Thurston Public Schools South Sound High SchoolDual Credit BarChart.png "South Sound High School Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Timberline High School
-![Timberline High School Image](pages/North Thurston Public Schools Timberline High SchoolDual Credit BarChart.png "Timberline High School Dual Credit Participation")
-
-___
-
-North Thurston Public Schools Secondary Teachers' Median Total Compensation
-![North Thurston Public Schools Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With North Thurston Highlighted.png "North Thurston Public Schools Secondary Teachers Median Total Compensation")
-
-___
-
-North Thurston Public Schools Elem. Homeroom Teachers' Median Total Compensation
-![North Thurston Public Schools Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With North Thurston Highlighted.png "North Thurston Public Schools Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-North Thurston Public Schools Superintendent Compensation History
-![North Thurston Public Schools Image](pages/WA School District Compensation History for North Thurston Superintendent ConstantDollars.png "North Thurston Public Schools Superintendent Compensation History")
-
-___
+[North Thurston Public Schools Superintendent Compensation History](pages/Historical Compensation for the North Thurston SD in Constant 2017 DollarsDuty Title = Superintendent.png "North Thurston Public Schools Superintendent Compensation History")
 

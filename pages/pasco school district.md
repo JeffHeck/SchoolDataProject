@@ -5,38 +5,31 @@ permalink: pasco school district
 ---
 
 
-Pasco School District Historical Demographics
-![Pasco School District Image](pages/Pasco School District Historical Demographics.png "Pasco School District Historical Demographics")
+[Pasco School District Historical Demographics](pages/Pasco School District Historical Demographics.png "Pasco School District Historical Demographics")
 
 ___
 
-Chiawana High School
-![Chiawana High School Image](pages/Pasco School District Chiawana High SchoolDual Credit BarChart.png "Chiawana High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Chiawana High School](pages/Pasco School District Chiawana High SchoolDual Credit BarChart.png "Chiawana High School Dual Credit Participation")
+
+[New Horizons High School](pages/Pasco School District New Horizons High SchoolDual Credit BarChart.png "New Horizons High School Dual Credit Participation")
+
+[Pasco Senior High School](pages/Pasco School District Pasco Senior High SchoolDual Credit BarChart.png "Pasco Senior High School Dual Credit Participation")
+
 
 ___
 
-New Horizons High School
-![New Horizons High School Image](pages/Pasco School District New Horizons High SchoolDual Credit BarChart.png "New Horizons High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Pasco School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Pasco Highlighted.png "Pasco School District Secondary Teachers Median Total Compensation")
+
+[Pasco School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Pasco Highlighted.png "Pasco School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Pasco Senior High School
-![Pasco Senior High School Image](pages/Pasco School District Pasco Senior High SchoolDual Credit BarChart.png "Pasco Senior High School Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Pasco School District Secondary Teachers' Median Total Compensation
-![Pasco School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Pasco Highlighted.png "Pasco School District Secondary Teachers Median Total Compensation")
-
-___
-
-Pasco School District Elem. Homeroom Teachers' Median Total Compensation
-![Pasco School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Pasco Highlighted.png "Pasco School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Pasco School District Superintendent Compensation History
-![Pasco School District Image](pages/WA School District Compensation History for Pasco Superintendent ConstantDollars.png "Pasco School District Superintendent Compensation History")
-
-___
+[Pasco School District Superintendent Compensation History](pages/Historical Compensation for the Pasco SD in Constant 2017 DollarsDuty Title = Superintendent.png "Pasco School District Superintendent Compensation History")
 

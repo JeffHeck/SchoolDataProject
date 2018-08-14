@@ -5,28 +5,20 @@ permalink: suquamish tribal education department
 ---
 
 
-Suquamish Tribal Education Department Historical Demographics
-![Suquamish Tribal Education Department Image](pages/Suquamish Tribal Education Department Historical Demographics.png "Suquamish Tribal Education Department Historical Demographics")
+[Suquamish Tribal Education Department Historical Demographics](pages/Suquamish Tribal Education Department Historical Demographics.png "Suquamish Tribal Education Department Historical Demographics")
 
 ___
 
-Chief Kitsap Academy
-![Chief Kitsap Academy Image](pages/Suquamish Tribal Education Department Chief Kitsap AcademyDual Credit BarChart.png "Chief Kitsap Academy Dual Credit Participation")
+## Dual Credit Participation
+
+[Chief Kitsap Academy](pages/Suquamish Tribal Education Department Chief Kitsap AcademyDual Credit BarChart.png "Chief Kitsap Academy Dual Credit Participation")
+
 
 ___
 
-Suquamish Tribal Education Department Secondary Teachers' Median Total Compensation
-![Suquamish Tribal Education Department Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Suquamish Tribal Education Department Highlighted.png "Suquamish Tribal Education Department Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
 
-___
+[Suquamish Tribal Education Department Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Suquamish Tribal Education Department Highlighted.png "Suquamish Tribal Education Department Secondary Teachers Median Total Compensation")
 
-Suquamish Tribal Education Department Elem. Homeroom Teachers' Median Total Compensation
-![Suquamish Tribal Education Department Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Suquamish Tribal Education Department Highlighted.png "Suquamish Tribal Education Department Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Suquamish Tribal Education Department Superintendent Compensation History
-![Suquamish Tribal Education Department Image](pages/WA School District Compensation History for Suquamish Tribal Education Department Superintendent ConstantDollars.png "Suquamish Tribal Education Department Superintendent Compensation History")
-
-___
+[Suquamish Tribal Education Department Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Suquamish Tribal Education Department Highlighted.png "Suquamish Tribal Education Department Elem Homeroom Teachers Median Total Compensation")
 

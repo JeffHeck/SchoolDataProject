@@ -5,28 +5,27 @@ permalink: rainier school district
 ---
 
 
-Rainier School District Historical Demographics
-![Rainier School District Image](pages/Rainier School District Historical Demographics.png "Rainier School District Historical Demographics")
+[Rainier School District Historical Demographics](pages/Rainier School District Historical Demographics.png "Rainier School District Historical Demographics")
 
 ___
 
-Rainier Senior High School
-![Rainier Senior High School Image](pages/Rainier School District Rainier Senior High SchoolDual Credit BarChart.png "Rainier Senior High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Rainier Senior High School](pages/Rainier School District Rainier Senior High SchoolDual Credit BarChart.png "Rainier Senior High School Dual Credit Participation")
+
 
 ___
 
-Rainier School District Secondary Teachers' Median Total Compensation
-![Rainier School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Rainier Highlighted.png "Rainier School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Rainier School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Rainier Highlighted.png "Rainier School District Secondary Teachers Median Total Compensation")
+
+[Rainier School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Rainier Highlighted.png "Rainier School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Rainier School District Elem. Homeroom Teachers' Median Total Compensation
-![Rainier School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Rainier Highlighted.png "Rainier School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Rainier School District Superintendent Compensation History
-![Rainier School District Image](pages/WA School District Compensation History for Rainier Superintendent ConstantDollars.png "Rainier School District Superintendent Compensation History")
-
-___
+[Rainier School District Superintendent Compensation History](pages/Historical Compensation for the Rainier SD in Constant 2017 DollarsDuty Title = Superintendent.png "Rainier School District Superintendent Compensation History")
 

@@ -5,33 +5,29 @@ permalink: ephrata school district
 ---
 
 
-Ephrata School District Historical Demographics
-![Ephrata School District Image](pages/Ephrata School District Historical Demographics.png "Ephrata School District Historical Demographics")
+[Ephrata School District Historical Demographics](pages/Ephrata School District Historical Demographics.png "Ephrata School District Historical Demographics")
 
 ___
 
-Ephrata High School
-![Ephrata High School Image](pages/Ephrata School District Ephrata High SchoolDual Credit BarChart.png "Ephrata High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Ephrata High School](pages/Ephrata School District Ephrata High SchoolDual Credit BarChart.png "Ephrata High School Dual Credit Participation")
+
+[Sage Hills High School](pages/Ephrata School District Sage Hills High SchoolDual Credit BarChart.png "Sage Hills High School Dual Credit Participation")
+
 
 ___
 
-Sage Hills High School
-![Sage Hills High School Image](pages/Ephrata School District Sage Hills High SchoolDual Credit BarChart.png "Sage Hills High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Ephrata School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Ephrata Highlighted.png "Ephrata School District Secondary Teachers Median Total Compensation")
+
+[Ephrata School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ephrata Highlighted.png "Ephrata School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Ephrata School District Secondary Teachers' Median Total Compensation
-![Ephrata School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Ephrata Highlighted.png "Ephrata School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Ephrata School District Elem. Homeroom Teachers' Median Total Compensation
-![Ephrata School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ephrata Highlighted.png "Ephrata School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Ephrata School District Superintendent Compensation History
-![Ephrata School District Image](pages/WA School District Compensation History for Ephrata Superintendent ConstantDollars.png "Ephrata School District Superintendent Compensation History")
-
-___
+[Ephrata School District Superintendent Compensation History](pages/Historical Compensation for the Ephrata SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ephrata School District Superintendent Compensation History")
 

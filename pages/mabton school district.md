@@ -5,28 +5,27 @@ permalink: mabton school district
 ---
 
 
-Mabton School District Historical Demographics
-![Mabton School District Image](pages/Mabton School District Historical Demographics.png "Mabton School District Historical Demographics")
+[Mabton School District Historical Demographics](pages/Mabton School District Historical Demographics.png "Mabton School District Historical Demographics")
 
 ___
 
-Mabton Jr Sr High
-![Mabton Jr Sr High Image](pages/Mabton School District Mabton Jr Sr HighDual Credit BarChart.png "Mabton Jr Sr High Dual Credit Participation")
+## Dual Credit Participation
+
+[Mabton Jr Sr High](pages/Mabton School District Mabton Jr Sr HighDual Credit BarChart.png "Mabton Jr Sr High Dual Credit Participation")
+
 
 ___
 
-Mabton School District Secondary Teachers' Median Total Compensation
-![Mabton School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mabton Highlighted.png "Mabton School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Mabton School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mabton Highlighted.png "Mabton School District Secondary Teachers Median Total Compensation")
+
+[Mabton School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Mabton Highlighted.png "Mabton School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Mabton School District Elem. Homeroom Teachers' Median Total Compensation
-![Mabton School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Mabton Highlighted.png "Mabton School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Mabton School District Superintendent Compensation History
-![Mabton School District Image](pages/WA School District Compensation History for Mabton Superintendent ConstantDollars.png "Mabton School District Superintendent Compensation History")
-
-___
+[Mabton School District Superintendent Compensation History](pages/Historical Compensation for the Mabton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mabton School District Superintendent Compensation History")
 

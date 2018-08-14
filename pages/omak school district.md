@@ -5,38 +5,31 @@ permalink: omak school district
 ---
 
 
-Omak School District Historical Demographics
-![Omak School District Image](pages/Omak School District Historical Demographics.png "Omak School District Historical Demographics")
+[Omak School District Historical Demographics](pages/Omak School District Historical Demographics.png "Omak School District Historical Demographics")
 
 ___
 
-Highlands High School
-![Highlands High School Image](pages/Omak School District Highlands High SchoolDual Credit BarChart.png "Highlands High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Highlands High School](pages/Omak School District Highlands High SchoolDual Credit BarChart.png "Highlands High School Dual Credit Participation")
+
+[Omak High School](pages/Omak School District Omak High SchoolDual Credit BarChart.png "Omak High School Dual Credit Participation")
+
+[Washington Virtual Academy Omak High School](pages/Omak School District Washington Virtual Academy Omak High SchoolDual Credit BarChart.png "Washington Virtual Academy Omak High School Dual Credit Participation")
+
 
 ___
 
-Omak High School
-![Omak High School Image](pages/Omak School District Omak High SchoolDual Credit BarChart.png "Omak High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Omak School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Omak Highlighted.png "Omak School District Secondary Teachers Median Total Compensation")
+
+[Omak School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Omak Highlighted.png "Omak School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Washington Virtual Academy Omak High School
-![Washington Virtual Academy Omak High School Image](pages/Omak School District Washington Virtual Academy Omak High SchoolDual Credit BarChart.png "Washington Virtual Academy Omak High School Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Omak School District Secondary Teachers' Median Total Compensation
-![Omak School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Omak Highlighted.png "Omak School District Secondary Teachers Median Total Compensation")
-
-___
-
-Omak School District Elem. Homeroom Teachers' Median Total Compensation
-![Omak School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Omak Highlighted.png "Omak School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Omak School District Superintendent Compensation History
-![Omak School District Image](pages/WA School District Compensation History for Omak Superintendent ConstantDollars.png "Omak School District Superintendent Compensation History")
-
-___
+[Omak School District Superintendent Compensation History](pages/Historical Compensation for the Omak SD in Constant 2017 DollarsDuty Title = Superintendent.png "Omak School District Superintendent Compensation History")
 

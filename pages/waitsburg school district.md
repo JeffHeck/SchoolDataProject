@@ -5,28 +5,27 @@ permalink: waitsburg school district
 ---
 
 
-Waitsburg School District Historical Demographics
-![Waitsburg School District Image](pages/Waitsburg School District Historical Demographics.png "Waitsburg School District Historical Demographics")
+[Waitsburg School District Historical Demographics](pages/Waitsburg School District Historical Demographics.png "Waitsburg School District Historical Demographics")
 
 ___
 
-Waitsburg High School
-![Waitsburg High School Image](pages/Waitsburg School District Waitsburg High SchoolDual Credit BarChart.png "Waitsburg High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Waitsburg High School](pages/Waitsburg School District Waitsburg High SchoolDual Credit BarChart.png "Waitsburg High School Dual Credit Participation")
+
 
 ___
 
-Waitsburg School District Secondary Teachers' Median Total Compensation
-![Waitsburg School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Waitsburg Highlighted.png "Waitsburg School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Waitsburg School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Waitsburg Highlighted.png "Waitsburg School District Secondary Teachers Median Total Compensation")
+
+[Waitsburg School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Waitsburg Highlighted.png "Waitsburg School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Waitsburg School District Elem. Homeroom Teachers' Median Total Compensation
-![Waitsburg School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Waitsburg Highlighted.png "Waitsburg School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Waitsburg School District Superintendent Compensation History
-![Waitsburg School District Image](pages/WA School District Compensation History for Waitsburg Superintendent ConstantDollars.png "Waitsburg School District Superintendent Compensation History")
-
-___
+[Waitsburg School District Superintendent Compensation History](pages/Historical Compensation for the Waitsburg SD in Constant 2017 DollarsDuty Title = Superintendent.png "Waitsburg School District Superintendent Compensation History")
 

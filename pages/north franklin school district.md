@@ -5,33 +5,29 @@ permalink: north franklin school district
 ---
 
 
-North Franklin School District Historical Demographics
-![North Franklin School District Image](pages/North Franklin School District Historical Demographics.png "North Franklin School District Historical Demographics")
+[North Franklin School District Historical Demographics](pages/North Franklin School District Historical Demographics.png "North Franklin School District Historical Demographics")
 
 ___
 
-Connell High School
-![Connell High School Image](pages/North Franklin School District Connell High SchoolDual Credit BarChart.png "Connell High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Connell High School](pages/North Franklin School District Connell High SchoolDual Credit BarChart.png "Connell High School Dual Credit Participation")
+
+[Palouse Junction High School](pages/North Franklin School District Palouse Junction High SchoolDual Credit BarChart.png "Palouse Junction High School Dual Credit Participation")
+
 
 ___
 
-Palouse Junction High School
-![Palouse Junction High School Image](pages/North Franklin School District Palouse Junction High SchoolDual Credit BarChart.png "Palouse Junction High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[North Franklin School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With North Franklin Highlighted.png "North Franklin School District Secondary Teachers Median Total Compensation")
+
+[North Franklin School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With North Franklin Highlighted.png "North Franklin School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-North Franklin School District Secondary Teachers' Median Total Compensation
-![North Franklin School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With North Franklin Highlighted.png "North Franklin School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-North Franklin School District Elem. Homeroom Teachers' Median Total Compensation
-![North Franklin School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With North Franklin Highlighted.png "North Franklin School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-North Franklin School District Superintendent Compensation History
-![North Franklin School District Image](pages/WA School District Compensation History for North Franklin Superintendent ConstantDollars.png "North Franklin School District Superintendent Compensation History")
-
-___
+[North Franklin School District Superintendent Compensation History](pages/Historical Compensation for the North Franklin SD in Constant 2017 DollarsDuty Title = Superintendent.png "North Franklin School District Superintendent Compensation History")
 

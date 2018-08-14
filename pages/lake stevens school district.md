@@ -5,38 +5,31 @@ permalink: lake stevens school district
 ---
 
 
-Lake Stevens School District Historical Demographics
-![Lake Stevens School District Image](pages/Lake Stevens School District Historical Demographics.png "Lake Stevens School District Historical Demographics")
+[Lake Stevens School District Historical Demographics](pages/Lake Stevens School District Historical Demographics.png "Lake Stevens School District Historical Demographics")
 
 ___
 
-Cavelero Mid High School
-![Cavelero Mid High School Image](pages/Lake Stevens School District Cavelero Mid High SchoolDual Credit BarChart.png "Cavelero Mid High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Cavelero Mid High School](pages/Lake Stevens School District Cavelero Mid High SchoolDual Credit BarChart.png "Cavelero Mid High School Dual Credit Participation")
+
+[Homelink](pages/Lake Stevens School District HomelinkDual Credit BarChart.png "Homelink Dual Credit Participation")
+
+[Lake Stevens Sr High School](pages/Lake Stevens School District Lake Stevens Sr High SchoolDual Credit BarChart.png "Lake Stevens Sr High School Dual Credit Participation")
+
 
 ___
 
-Homelink
-![Homelink Image](pages/Lake Stevens School District HomelinkDual Credit BarChart.png "Homelink Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Lake Stevens School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lake Stevens Highlighted.png "Lake Stevens School District Secondary Teachers Median Total Compensation")
+
+[Lake Stevens School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Lake Stevens Highlighted.png "Lake Stevens School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Lake Stevens Sr High School
-![Lake Stevens Sr High School Image](pages/Lake Stevens School District Lake Stevens Sr High SchoolDual Credit BarChart.png "Lake Stevens Sr High School Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Lake Stevens School District Secondary Teachers' Median Total Compensation
-![Lake Stevens School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lake Stevens Highlighted.png "Lake Stevens School District Secondary Teachers Median Total Compensation")
-
-___
-
-Lake Stevens School District Elem. Homeroom Teachers' Median Total Compensation
-![Lake Stevens School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Lake Stevens Highlighted.png "Lake Stevens School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Lake Stevens School District Superintendent Compensation History
-![Lake Stevens School District Image](pages/WA School District Compensation History for Lake Stevens Superintendent ConstantDollars.png "Lake Stevens School District Superintendent Compensation History")
-
-___
+[Lake Stevens School District Superintendent Compensation History](pages/Historical Compensation for the Lake Stevens SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lake Stevens School District Superintendent Compensation History")
 

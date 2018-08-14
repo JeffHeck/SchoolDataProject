@@ -5,28 +5,27 @@ permalink: colfax school district
 ---
 
 
-Colfax School District Historical Demographics
-![Colfax School District Image](pages/Colfax School District Historical Demographics.png "Colfax School District Historical Demographics")
+[Colfax School District Historical Demographics](pages/Colfax School District Historical Demographics.png "Colfax School District Historical Demographics")
 
 ___
 
-Colfax High School
-![Colfax High School Image](pages/Colfax School District Colfax High SchoolDual Credit BarChart.png "Colfax High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Colfax High School](pages/Colfax School District Colfax High SchoolDual Credit BarChart.png "Colfax High School Dual Credit Participation")
+
 
 ___
 
-Colfax School District Secondary Teachers' Median Total Compensation
-![Colfax School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Colfax Highlighted.png "Colfax School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Colfax School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Colfax Highlighted.png "Colfax School District Secondary Teachers Median Total Compensation")
+
+[Colfax School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Colfax Highlighted.png "Colfax School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Colfax School District Elem. Homeroom Teachers' Median Total Compensation
-![Colfax School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Colfax Highlighted.png "Colfax School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Colfax School District Superintendent Compensation History
-![Colfax School District Image](pages/WA School District Compensation History for Colfax Superintendent ConstantDollars.png "Colfax School District Superintendent Compensation History")
-
-___
+[Colfax School District Superintendent Compensation History](pages/Historical Compensation for the Colfax SD in Constant 2017 DollarsDuty Title = Superintendent.png "Colfax School District Superintendent Compensation History")
 

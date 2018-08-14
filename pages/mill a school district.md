@@ -5,18 +5,13 @@ permalink: mill a school district
 ---
 
 
-Mill A School District Historical Demographics
-![Mill A School District Image](pages/Mill A School District Historical Demographics.png "Mill A School District Historical Demographics")
+[Mill A School District Historical Demographics](pages/Mill A School District Historical Demographics.png "Mill A School District Historical Demographics")
+[Mill A School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Mill A Highlighted.png "Mill A School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Mill A School District Elem. Homeroom Teachers' Median Total Compensation
-![Mill A School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Mill A Highlighted.png "Mill A School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Mill A School District Superintendent Compensation History
-![Mill A School District Image](pages/WA School District Compensation History for Mill A Superintendent ConstantDollars.png "Mill A School District Superintendent Compensation History")
-
-___
+[Mill A School District Superintendent Compensation History](pages/Historical Compensation for the Mill A SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mill A School District Superintendent Compensation History")
 

@@ -5,33 +5,29 @@ permalink: ellensburg school district
 ---
 
 
-Ellensburg School District Historical Demographics
-![Ellensburg School District Image](pages/Ellensburg School District Historical Demographics.png "Ellensburg School District Historical Demographics")
+[Ellensburg School District Historical Demographics](pages/Ellensburg School District Historical Demographics.png "Ellensburg School District Historical Demographics")
 
 ___
 
-Ellensburg High School
-![Ellensburg High School Image](pages/Ellensburg School District Ellensburg High SchoolDual Credit BarChart.png "Ellensburg High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Ellensburg High School](pages/Ellensburg School District Ellensburg High SchoolDual Credit BarChart.png "Ellensburg High School Dual Credit Participation")
+
+[K-12 Ellensburg Learning Center](pages/Ellensburg School District K-12 Ellensburg Learning CenterDual Credit BarChart.png "K-12 Ellensburg Learning Center Dual Credit Participation")
+
 
 ___
 
-K-12 Ellensburg Learning Center
-![K-12 Ellensburg Learning Center Image](pages/Ellensburg School District K-12 Ellensburg Learning CenterDual Credit BarChart.png "K-12 Ellensburg Learning Center Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Ellensburg School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Ellensburg Highlighted.png "Ellensburg School District Secondary Teachers Median Total Compensation")
+
+[Ellensburg School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ellensburg Highlighted.png "Ellensburg School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Ellensburg School District Secondary Teachers' Median Total Compensation
-![Ellensburg School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Ellensburg Highlighted.png "Ellensburg School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Ellensburg School District Elem. Homeroom Teachers' Median Total Compensation
-![Ellensburg School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Ellensburg Highlighted.png "Ellensburg School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Ellensburg School District Superintendent Compensation History
-![Ellensburg School District Image](pages/WA School District Compensation History for Ellensburg Superintendent ConstantDollars.png "Ellensburg School District Superintendent Compensation History")
-
-___
+[Ellensburg School District Superintendent Compensation History](pages/Historical Compensation for the Ellensburg SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ellensburg School District Superintendent Compensation History")
 

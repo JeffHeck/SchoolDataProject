@@ -5,33 +5,29 @@ permalink: wahluke school district
 ---
 
 
-Wahluke School District Historical Demographics
-![Wahluke School District Image](pages/Wahluke School District Historical Demographics.png "Wahluke School District Historical Demographics")
+[Wahluke School District Historical Demographics](pages/Wahluke School District Historical Demographics.png "Wahluke School District Historical Demographics")
 
 ___
 
-Sentinel Tech Alt School
-![Sentinel Tech Alt School Image](pages/Wahluke School District Sentinel Tech Alt SchoolDual Credit BarChart.png "Sentinel Tech Alt School Dual Credit Participation")
+## Dual Credit Participation
+
+[Sentinel Tech Alt School](pages/Wahluke School District Sentinel Tech Alt SchoolDual Credit BarChart.png "Sentinel Tech Alt School Dual Credit Participation")
+
+[Wahluke High School](pages/Wahluke School District Wahluke High SchoolDual Credit BarChart.png "Wahluke High School Dual Credit Participation")
+
 
 ___
 
-Wahluke High School
-![Wahluke High School Image](pages/Wahluke School District Wahluke High SchoolDual Credit BarChart.png "Wahluke High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Wahluke School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wahluke Highlighted.png "Wahluke School District Secondary Teachers Median Total Compensation")
+
+[Wahluke School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Wahluke Highlighted.png "Wahluke School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Wahluke School District Secondary Teachers' Median Total Compensation
-![Wahluke School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Wahluke Highlighted.png "Wahluke School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Wahluke School District Elem. Homeroom Teachers' Median Total Compensation
-![Wahluke School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Wahluke Highlighted.png "Wahluke School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Wahluke School District Superintendent Compensation History
-![Wahluke School District Image](pages/WA School District Compensation History for Wahluke Superintendent ConstantDollars.png "Wahluke School District Superintendent Compensation History")
-
-___
+[Wahluke School District Superintendent Compensation History](pages/Historical Compensation for the Wahluke SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wahluke School District Superintendent Compensation History")
 

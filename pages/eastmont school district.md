@@ -5,33 +5,29 @@ permalink: eastmont school district
 ---
 
 
-Eastmont School District Historical Demographics
-![Eastmont School District Image](pages/Eastmont School District Historical Demographics.png "Eastmont School District Historical Demographics")
+[Eastmont School District Historical Demographics](pages/Eastmont School District Historical Demographics.png "Eastmont School District Historical Demographics")
 
 ___
 
-Eastmont Junior High
-![Eastmont Junior High Image](pages/Eastmont School District Eastmont Junior HighDual Credit BarChart.png "Eastmont Junior High Dual Credit Participation")
+## Dual Credit Participation
+
+[Eastmont Junior High](pages/Eastmont School District Eastmont Junior HighDual Credit BarChart.png "Eastmont Junior High Dual Credit Participation")
+
+[Eastmont Senior High](pages/Eastmont School District Eastmont Senior HighDual Credit BarChart.png "Eastmont Senior High Dual Credit Participation")
+
 
 ___
 
-Eastmont Senior High
-![Eastmont Senior High Image](pages/Eastmont School District Eastmont Senior HighDual Credit BarChart.png "Eastmont Senior High Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Eastmont School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Eastmont Highlighted.png "Eastmont School District Secondary Teachers Median Total Compensation")
+
+[Eastmont School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Eastmont Highlighted.png "Eastmont School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Eastmont School District Secondary Teachers' Median Total Compensation
-![Eastmont School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Eastmont Highlighted.png "Eastmont School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Eastmont School District Elem. Homeroom Teachers' Median Total Compensation
-![Eastmont School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Eastmont Highlighted.png "Eastmont School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Eastmont School District Superintendent Compensation History
-![Eastmont School District Image](pages/WA School District Compensation History for Eastmont Superintendent ConstantDollars.png "Eastmont School District Superintendent Compensation History")
-
-___
+[Eastmont School District Superintendent Compensation History](pages/Historical Compensation for the Eastmont SD in Constant 2017 DollarsDuty Title = Superintendent.png "Eastmont School District Superintendent Compensation History")
 

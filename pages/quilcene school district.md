@@ -5,33 +5,29 @@ permalink: quilcene school district
 ---
 
 
-Quilcene School District Historical Demographics
-![Quilcene School District Image](pages/Quilcene School District Historical Demographics.png "Quilcene School District Historical Demographics")
+[Quilcene School District Historical Demographics](pages/Quilcene School District Historical Demographics.png "Quilcene School District Historical Demographics")
 
 ___
 
-Crossroads Community School
-![Crossroads Community School Image](pages/Quilcene School District Crossroads Community SchoolDual Credit BarChart.png "Crossroads Community School Dual Credit Participation")
+## Dual Credit Participation
+
+[Crossroads Community School](pages/Quilcene School District Crossroads Community SchoolDual Credit BarChart.png "Crossroads Community School Dual Credit Participation")
+
+[Quilcene High And Elementary](pages/Quilcene School District Quilcene High And ElementaryDual Credit BarChart.png "Quilcene High And Elementary Dual Credit Participation")
+
 
 ___
 
-Quilcene High And Elementary
-![Quilcene High And Elementary Image](pages/Quilcene School District Quilcene High And ElementaryDual Credit BarChart.png "Quilcene High And Elementary Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Quilcene School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Quilcene Highlighted.png "Quilcene School District Secondary Teachers Median Total Compensation")
+
+[Quilcene School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Quilcene Highlighted.png "Quilcene School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Quilcene School District Secondary Teachers' Median Total Compensation
-![Quilcene School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Quilcene Highlighted.png "Quilcene School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Quilcene School District Elem. Homeroom Teachers' Median Total Compensation
-![Quilcene School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Quilcene Highlighted.png "Quilcene School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Quilcene School District Superintendent Compensation History
-![Quilcene School District Image](pages/WA School District Compensation History for Quilcene Superintendent ConstantDollars.png "Quilcene School District Superintendent Compensation History")
-
-___
+[Quilcene School District Superintendent Compensation History](pages/Historical Compensation for the Quilcene SD in Constant 2017 DollarsDuty Title = Superintendent.png "Quilcene School District Superintendent Compensation History")
 

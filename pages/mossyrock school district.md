@@ -5,33 +5,29 @@ permalink: mossyrock school district
 ---
 
 
-Mossyrock School District Historical Demographics
-![Mossyrock School District Image](pages/Mossyrock School District Historical Demographics.png "Mossyrock School District Historical Demographics")
+[Mossyrock School District Historical Demographics](pages/Mossyrock School District Historical Demographics.png "Mossyrock School District Historical Demographics")
 
 ___
 
-Mossyrock Academy
-![Mossyrock Academy Image](pages/Mossyrock School District Mossyrock AcademyDual Credit BarChart.png "Mossyrock Academy Dual Credit Participation")
+## Dual Credit Participation
+
+[Mossyrock Academy](pages/Mossyrock School District Mossyrock AcademyDual Credit BarChart.png "Mossyrock Academy Dual Credit Participation")
+
+[Mossyrock Jr Sr High School](pages/Mossyrock School District Mossyrock Jr Sr High SchoolDual Credit BarChart.png "Mossyrock Jr Sr High School Dual Credit Participation")
+
 
 ___
 
-Mossyrock Jr Sr High School
-![Mossyrock Jr Sr High School Image](pages/Mossyrock School District Mossyrock Jr Sr High SchoolDual Credit BarChart.png "Mossyrock Jr Sr High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Mossyrock School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mossyrock Highlighted.png "Mossyrock School District Secondary Teachers Median Total Compensation")
+
+[Mossyrock School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Mossyrock Highlighted.png "Mossyrock School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Mossyrock School District Secondary Teachers' Median Total Compensation
-![Mossyrock School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Mossyrock Highlighted.png "Mossyrock School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Mossyrock School District Elem. Homeroom Teachers' Median Total Compensation
-![Mossyrock School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Mossyrock Highlighted.png "Mossyrock School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Mossyrock School District Superintendent Compensation History
-![Mossyrock School District Image](pages/WA School District Compensation History for Mossyrock Superintendent ConstantDollars.png "Mossyrock School District Superintendent Compensation History")
-
-___
+[Mossyrock School District Superintendent Compensation History](pages/Historical Compensation for the Mossyrock SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mossyrock School District Superintendent Compensation History")
 

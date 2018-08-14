@@ -5,28 +5,27 @@ permalink: orting school district
 ---
 
 
-Orting School District Historical Demographics
-![Orting School District Image](pages/Orting School District Historical Demographics.png "Orting School District Historical Demographics")
+[Orting School District Historical Demographics](pages/Orting School District Historical Demographics.png "Orting School District Historical Demographics")
 
 ___
 
-Orting High School
-![Orting High School Image](pages/Orting School District Orting High SchoolDual Credit BarChart.png "Orting High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Orting High School](pages/Orting School District Orting High SchoolDual Credit BarChart.png "Orting High School Dual Credit Participation")
+
 
 ___
 
-Orting School District Secondary Teachers' Median Total Compensation
-![Orting School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Orting Highlighted.png "Orting School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Orting School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Orting Highlighted.png "Orting School District Secondary Teachers Median Total Compensation")
+
+[Orting School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Orting Highlighted.png "Orting School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Orting School District Elem. Homeroom Teachers' Median Total Compensation
-![Orting School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Orting Highlighted.png "Orting School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Orting School District Superintendent Compensation History
-![Orting School District Image](pages/WA School District Compensation History for Orting Superintendent ConstantDollars.png "Orting School District Superintendent Compensation History")
-
-___
+[Orting School District Superintendent Compensation History](pages/Historical Compensation for the Orting SD in Constant 2017 DollarsDuty Title = Superintendent.png "Orting School District Superintendent Compensation History")
 

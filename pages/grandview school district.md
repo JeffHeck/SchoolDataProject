@@ -5,38 +5,31 @@ permalink: grandview school district
 ---
 
 
-Grandview School District Historical Demographics
-![Grandview School District Image](pages/Grandview School District Historical Demographics.png "Grandview School District Historical Demographics")
+[Grandview School District Historical Demographics](pages/Grandview School District Historical Demographics.png "Grandview School District Historical Demographics")
 
 ___
 
-Compass High School
-![Compass High School Image](pages/Grandview School District Compass High SchoolDual Credit BarChart.png "Compass High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Compass High School](pages/Grandview School District Compass High SchoolDual Credit BarChart.png "Compass High School Dual Credit Participation")
+
+[Contract Learning Center](pages/Grandview School District Contract Learning CenterDual Credit BarChart.png "Contract Learning Center Dual Credit Participation")
+
+[Grandview High School](pages/Grandview School District Grandview High SchoolDual Credit BarChart.png "Grandview High School Dual Credit Participation")
+
 
 ___
 
-Contract Learning Center
-![Contract Learning Center Image](pages/Grandview School District Contract Learning CenterDual Credit BarChart.png "Contract Learning Center Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Grandview School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Grandview Highlighted.png "Grandview School District Secondary Teachers Median Total Compensation")
+
+[Grandview School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Grandview Highlighted.png "Grandview School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Grandview High School
-![Grandview High School Image](pages/Grandview School District Grandview High SchoolDual Credit BarChart.png "Grandview High School Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Grandview School District Secondary Teachers' Median Total Compensation
-![Grandview School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Grandview Highlighted.png "Grandview School District Secondary Teachers Median Total Compensation")
-
-___
-
-Grandview School District Elem. Homeroom Teachers' Median Total Compensation
-![Grandview School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Grandview Highlighted.png "Grandview School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Grandview School District Superintendent Compensation History
-![Grandview School District Image](pages/WA School District Compensation History for Grandview Superintendent ConstantDollars.png "Grandview School District Superintendent Compensation History")
-
-___
+[Grandview School District Superintendent Compensation History](pages/Historical Compensation for the Grandview SD in Constant 2017 DollarsDuty Title = Superintendent.png "Grandview School District Superintendent Compensation History")
 

@@ -5,8 +5,4 @@ permalink: community colleges of spokane
 ---
 
 
-Community Colleges of Spokane Historical Demographics
-![Community Colleges of Spokane Image](pages/Community Colleges of Spokane Historical Demographics.png "Community Colleges of Spokane Historical Demographics")
-
-___
-
+[Community Colleges of Spokane Historical Demographics](pages/Community Colleges of Spokane Historical Demographics.png "Community Colleges of Spokane Historical Demographics")

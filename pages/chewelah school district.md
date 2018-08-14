@@ -5,38 +5,31 @@ permalink: chewelah school district
 ---
 
 
-Chewelah School District Historical Demographics
-![Chewelah School District Image](pages/Chewelah School District Historical Demographics.png "Chewelah School District Historical Demographics")
+[Chewelah School District Historical Demographics](pages/Chewelah School District Historical Demographics.png "Chewelah School District Historical Demographics")
 
 ___
 
-Chewelah Alternative
-![Chewelah Alternative Image](pages/Chewelah School District Chewelah AlternativeDual Credit BarChart.png "Chewelah Alternative Dual Credit Participation")
+## Dual Credit Participation
+
+[Chewelah Alternative](pages/Chewelah School District Chewelah AlternativeDual Credit BarChart.png "Chewelah Alternative Dual Credit Participation")
+
+[Home Link Alternative](pages/Chewelah School District Home Link AlternativeDual Credit BarChart.png "Home Link Alternative Dual Credit Participation")
+
+[Jenkins Junior Senior High](pages/Chewelah School District Jenkins Junior Senior HighDual Credit BarChart.png "Jenkins Junior Senior High Dual Credit Participation")
+
 
 ___
 
-Home Link Alternative
-![Home Link Alternative Image](pages/Chewelah School District Home Link AlternativeDual Credit BarChart.png "Home Link Alternative Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Chewelah School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Chewelah Highlighted.png "Chewelah School District Secondary Teachers Median Total Compensation")
+
+[Chewelah School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Chewelah Highlighted.png "Chewelah School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Jenkins Junior Senior High
-![Jenkins Junior Senior High Image](pages/Chewelah School District Jenkins Junior Senior HighDual Credit BarChart.png "Jenkins Junior Senior High Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Chewelah School District Secondary Teachers' Median Total Compensation
-![Chewelah School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Chewelah Highlighted.png "Chewelah School District Secondary Teachers Median Total Compensation")
-
-___
-
-Chewelah School District Elem. Homeroom Teachers' Median Total Compensation
-![Chewelah School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Chewelah Highlighted.png "Chewelah School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Chewelah School District Superintendent Compensation History
-![Chewelah School District Image](pages/WA School District Compensation History for Chewelah Superintendent ConstantDollars.png "Chewelah School District Superintendent Compensation History")
-
-___
+[Chewelah School District Superintendent Compensation History](pages/Historical Compensation for the Chewelah SD in Constant 2017 DollarsDuty Title = Superintendent.png "Chewelah School District Superintendent Compensation History")
 

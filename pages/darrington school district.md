@@ -5,28 +5,27 @@ permalink: darrington school district
 ---
 
 
-Darrington School District Historical Demographics
-![Darrington School District Image](pages/Darrington School District Historical Demographics.png "Darrington School District Historical Demographics")
+[Darrington School District Historical Demographics](pages/Darrington School District Historical Demographics.png "Darrington School District Historical Demographics")
 
 ___
 
-Darrington Sr High School
-![Darrington Sr High School Image](pages/Darrington School District Darrington Sr High SchoolDual Credit BarChart.png "Darrington Sr High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Darrington Sr High School](pages/Darrington School District Darrington Sr High SchoolDual Credit BarChart.png "Darrington Sr High School Dual Credit Participation")
+
 
 ___
 
-Darrington School District Secondary Teachers' Median Total Compensation
-![Darrington School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Darrington Highlighted.png "Darrington School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Darrington School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Darrington Highlighted.png "Darrington School District Secondary Teachers Median Total Compensation")
+
+[Darrington School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Darrington Highlighted.png "Darrington School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Darrington School District Elem. Homeroom Teachers' Median Total Compensation
-![Darrington School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Darrington Highlighted.png "Darrington School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Darrington School District Superintendent Compensation History
-![Darrington School District Image](pages/WA School District Compensation History for Darrington Superintendent ConstantDollars.png "Darrington School District Superintendent Compensation History")
-
-___
+[Darrington School District Superintendent Compensation History](pages/Historical Compensation for the Darrington SD in Constant 2017 DollarsDuty Title = Superintendent.png "Darrington School District Superintendent Compensation History")
 

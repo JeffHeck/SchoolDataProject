@@ -5,23 +5,20 @@ permalink: conway school district
 ---
 
 
-Conway School District Historical Demographics
-![Conway School District Image](pages/Conway School District Historical Demographics.png "Conway School District Historical Demographics")
+[Conway School District Historical Demographics](pages/Conway School District Historical Demographics.png "Conway School District Historical Demographics")
 
 ___
 
-Conway School District Secondary Teachers' Median Total Compensation
-![Conway School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Conway Highlighted.png "Conway School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Conway School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Conway Highlighted.png "Conway School District Secondary Teachers Median Total Compensation")
+
+[Conway School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Conway Highlighted.png "Conway School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Conway School District Elem. Homeroom Teachers' Median Total Compensation
-![Conway School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Conway Highlighted.png "Conway School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Conway School District Superintendent Compensation History
-![Conway School District Image](pages/WA School District Compensation History for Conway Superintendent ConstantDollars.png "Conway School District Superintendent Compensation History")
-
-___
+[Conway School District Superintendent Compensation History](pages/Historical Compensation for the Conway SD in Constant 2017 DollarsDuty Title = Superintendent.png "Conway School District Superintendent Compensation History")
 

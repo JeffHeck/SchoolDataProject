@@ -5,28 +5,27 @@ permalink: waterville school district
 ---
 
 
-Waterville School District Historical Demographics
-![Waterville School District Image](pages/Waterville School District Historical Demographics.png "Waterville School District Historical Demographics")
+[Waterville School District Historical Demographics](pages/Waterville School District Historical Demographics.png "Waterville School District Historical Demographics")
 
 ___
 
-Waterville High School
-![Waterville High School Image](pages/Waterville School District Waterville High SchoolDual Credit BarChart.png "Waterville High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Waterville High School](pages/Waterville School District Waterville High SchoolDual Credit BarChart.png "Waterville High School Dual Credit Participation")
+
 
 ___
 
-Waterville School District Secondary Teachers' Median Total Compensation
-![Waterville School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Waterville Highlighted.png "Waterville School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Waterville School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Waterville Highlighted.png "Waterville School District Secondary Teachers Median Total Compensation")
+
+[Waterville School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Waterville Highlighted.png "Waterville School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Waterville School District Elem. Homeroom Teachers' Median Total Compensation
-![Waterville School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Waterville Highlighted.png "Waterville School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Waterville School District Superintendent Compensation History
-![Waterville School District Image](pages/WA School District Compensation History for Waterville Superintendent ConstantDollars.png "Waterville School District Superintendent Compensation History")
-
-___
+[Waterville School District Superintendent Compensation History](pages/Historical Compensation for the Waterville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Waterville School District Superintendent Compensation History")
 

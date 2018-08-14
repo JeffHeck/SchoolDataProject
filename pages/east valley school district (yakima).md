@@ -5,33 +5,29 @@ permalink: east valley school district (yakima)
 ---
 
 
-East Valley School District (Yakima) Historical Demographics
-![East Valley School District (Yakima) Image](pages/East Valley School District (Yakima) Historical Demographics.png "East Valley School District (Yakima) Historical Demographics")
+[East Valley School District (Yakima) Historical Demographics](pages/East Valley School District (Yakima) Historical Demographics.png "East Valley School District (Yakima) Historical Demographics")
 
 ___
 
-East Valley Central Middle School
-![East Valley Central Middle School Image](pages/East Valley School District (Yakima) East Valley Central Middle SchoolDual Credit BarChart.png "East Valley Central Middle School Dual Credit Participation")
+## Dual Credit Participation
+
+[East Valley Central Middle School](pages/East Valley School District (Yakima) East Valley Central Middle SchoolDual Credit BarChart.png "East Valley Central Middle School Dual Credit Participation")
+
+[East Valley High School](pages/East Valley School District (Yakima) East Valley High SchoolDual Credit BarChart.png "East Valley High School Dual Credit Participation")
+
 
 ___
 
-East Valley High School
-![East Valley High School Image](pages/East Valley School District (Yakima) East Valley High SchoolDual Credit BarChart.png "East Valley High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[East Valley School District (Yakima) Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With East Valley (Yakima) Highlighted.png "East Valley School District (Yakima) Secondary Teachers Median Total Compensation")
+
+[East Valley School District (Yakima) Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With East Valley (Yakima) Highlighted.png "East Valley School District (Yakima) Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-East Valley School District (Yakima) Secondary Teachers' Median Total Compensation
-![East Valley School District (Yakima) Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With East Valley (Yakima) Highlighted.png "East Valley School District (Yakima) Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-East Valley School District (Yakima) Elem. Homeroom Teachers' Median Total Compensation
-![East Valley School District (Yakima) Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With East Valley (Yakima) Highlighted.png "East Valley School District (Yakima) Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-East Valley School District (Yakima) Superintendent Compensation History
-![East Valley School District (Yakima) Image](pages/WA School District Compensation History for East Valley (Yakima) Superintendent ConstantDollars.png "East Valley School District (Yakima) Superintendent Compensation History")
-
-___
+[East Valley School District (Yakima) Superintendent Compensation History](pages/Historical Compensation for the East Valley (Yakima) SD in Constant 2017 DollarsDuty Title = Superintendent.png "East Valley School District (Yakima) Superintendent Compensation History")
 

@@ -5,33 +5,29 @@ permalink: meridian school district
 ---
 
 
-Meridian School District Historical Demographics
-![Meridian School District Image](pages/Meridian School District Historical Demographics.png "Meridian School District Historical Demographics")
+[Meridian School District Historical Demographics](pages/Meridian School District Historical Demographics.png "Meridian School District Historical Demographics")
 
 ___
 
-Meridian High School
-![Meridian High School Image](pages/Meridian School District Meridian High SchoolDual Credit BarChart.png "Meridian High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Meridian High School](pages/Meridian School District Meridian High SchoolDual Credit BarChart.png "Meridian High School Dual Credit Participation")
+
+[Meridian Middle School](pages/Meridian School District Meridian Middle SchoolDual Credit BarChart.png "Meridian Middle School Dual Credit Participation")
+
 
 ___
 
-Meridian Middle School
-![Meridian Middle School Image](pages/Meridian School District Meridian Middle SchoolDual Credit BarChart.png "Meridian Middle School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Meridian School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Meridian Highlighted.png "Meridian School District Secondary Teachers Median Total Compensation")
+
+[Meridian School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Meridian Highlighted.png "Meridian School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Meridian School District Secondary Teachers' Median Total Compensation
-![Meridian School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Meridian Highlighted.png "Meridian School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Meridian School District Elem. Homeroom Teachers' Median Total Compensation
-![Meridian School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Meridian Highlighted.png "Meridian School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Meridian School District Superintendent Compensation History
-![Meridian School District Image](pages/WA School District Compensation History for Meridian Superintendent ConstantDollars.png "Meridian School District Superintendent Compensation History")
-
-___
+[Meridian School District Superintendent Compensation History](pages/Historical Compensation for the Meridian SD in Constant 2017 DollarsDuty Title = Superintendent.png "Meridian School District Superintendent Compensation History")
 

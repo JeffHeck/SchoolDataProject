@@ -5,33 +5,29 @@ permalink: rochester school district
 ---
 
 
-Rochester School District Historical Demographics
-![Rochester School District Image](pages/Rochester School District Historical Demographics.png "Rochester School District Historical Demographics")
+[Rochester School District Historical Demographics](pages/Rochester School District Historical Demographics.png "Rochester School District Historical Demographics")
 
 ___
 
-Heart High School
-![Heart High School Image](pages/Rochester School District Heart High SchoolDual Credit BarChart.png "Heart High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Heart High School](pages/Rochester School District Heart High SchoolDual Credit BarChart.png "Heart High School Dual Credit Participation")
+
+[Rochester High School](pages/Rochester School District Rochester High SchoolDual Credit BarChart.png "Rochester High School Dual Credit Participation")
+
 
 ___
 
-Rochester High School
-![Rochester High School Image](pages/Rochester School District Rochester High SchoolDual Credit BarChart.png "Rochester High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Rochester School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Rochester Highlighted.png "Rochester School District Secondary Teachers Median Total Compensation")
+
+[Rochester School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Rochester Highlighted.png "Rochester School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Rochester School District Secondary Teachers' Median Total Compensation
-![Rochester School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Rochester Highlighted.png "Rochester School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Rochester School District Elem. Homeroom Teachers' Median Total Compensation
-![Rochester School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Rochester Highlighted.png "Rochester School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Rochester School District Superintendent Compensation History
-![Rochester School District Image](pages/WA School District Compensation History for Rochester Superintendent ConstantDollars.png "Rochester School District Superintendent Compensation History")
-
-___
+[Rochester School District Superintendent Compensation History](pages/Historical Compensation for the Rochester SD in Constant 2017 DollarsDuty Title = Superintendent.png "Rochester School District Superintendent Compensation History")
 

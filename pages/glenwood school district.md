@@ -5,28 +5,27 @@ permalink: glenwood school district
 ---
 
 
-Glenwood School District Historical Demographics
-![Glenwood School District Image](pages/Glenwood School District Historical Demographics.png "Glenwood School District Historical Demographics")
+[Glenwood School District Historical Demographics](pages/Glenwood School District Historical Demographics.png "Glenwood School District Historical Demographics")
 
 ___
 
-Glenwood Secondary
-![Glenwood Secondary Image](pages/Glenwood School District Glenwood SecondaryDual Credit BarChart.png "Glenwood Secondary Dual Credit Participation")
+## Dual Credit Participation
+
+[Glenwood Secondary](pages/Glenwood School District Glenwood SecondaryDual Credit BarChart.png "Glenwood Secondary Dual Credit Participation")
+
 
 ___
 
-Glenwood School District Secondary Teachers' Median Total Compensation
-![Glenwood School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Glenwood Highlighted.png "Glenwood School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Glenwood School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Glenwood Highlighted.png "Glenwood School District Secondary Teachers Median Total Compensation")
+
+[Glenwood School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Glenwood Highlighted.png "Glenwood School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Glenwood School District Elem. Homeroom Teachers' Median Total Compensation
-![Glenwood School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Glenwood Highlighted.png "Glenwood School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Glenwood School District Superintendent Compensation History
-![Glenwood School District Image](pages/WA School District Compensation History for Glenwood Superintendent ConstantDollars.png "Glenwood School District Superintendent Compensation History")
-
-___
+[Glenwood School District Superintendent Compensation History](pages/Historical Compensation for the Glenwood SD in Constant 2017 DollarsDuty Title = Superintendent.png "Glenwood School District Superintendent Compensation History")
 

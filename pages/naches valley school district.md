@@ -5,28 +5,27 @@ permalink: naches valley school district
 ---
 
 
-Naches Valley School District Historical Demographics
-![Naches Valley School District Image](pages/Naches Valley School District Historical Demographics.png "Naches Valley School District Historical Demographics")
+[Naches Valley School District Historical Demographics](pages/Naches Valley School District Historical Demographics.png "Naches Valley School District Historical Demographics")
 
 ___
 
-Naches Valley High School
-![Naches Valley High School Image](pages/Naches Valley School District Naches Valley High SchoolDual Credit BarChart.png "Naches Valley High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Naches Valley High School](pages/Naches Valley School District Naches Valley High SchoolDual Credit BarChart.png "Naches Valley High School Dual Credit Participation")
+
 
 ___
 
-Naches Valley School District Secondary Teachers' Median Total Compensation
-![Naches Valley School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Naches Valley Highlighted.png "Naches Valley School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Naches Valley School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Naches Valley Highlighted.png "Naches Valley School District Secondary Teachers Median Total Compensation")
+
+[Naches Valley School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Naches Valley Highlighted.png "Naches Valley School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Naches Valley School District Elem. Homeroom Teachers' Median Total Compensation
-![Naches Valley School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Naches Valley Highlighted.png "Naches Valley School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Naches Valley School District Superintendent Compensation History
-![Naches Valley School District Image](pages/WA School District Compensation History for Naches Valley Superintendent ConstantDollars.png "Naches Valley School District Superintendent Compensation History")
-
-___
+[Naches Valley School District Superintendent Compensation History](pages/Historical Compensation for the Naches Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Naches Valley School District Superintendent Compensation History")
 

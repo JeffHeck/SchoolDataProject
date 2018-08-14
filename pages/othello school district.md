@@ -5,33 +5,29 @@ permalink: othello school district
 ---
 
 
-Othello School District Historical Demographics
-![Othello School District Image](pages/Othello School District Historical Demographics.png "Othello School District Historical Demographics")
+[Othello School District Historical Demographics](pages/Othello School District Historical Demographics.png "Othello School District Historical Demographics")
 
 ___
 
-Desert Oasis High School
-![Desert Oasis High School Image](pages/Othello School District Desert Oasis High SchoolDual Credit BarChart.png "Desert Oasis High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Desert Oasis High School](pages/Othello School District Desert Oasis High SchoolDual Credit BarChart.png "Desert Oasis High School Dual Credit Participation")
+
+[Othello High School](pages/Othello School District Othello High SchoolDual Credit BarChart.png "Othello High School Dual Credit Participation")
+
 
 ___
 
-Othello High School
-![Othello High School Image](pages/Othello School District Othello High SchoolDual Credit BarChart.png "Othello High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Othello School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Othello Highlighted.png "Othello School District Secondary Teachers Median Total Compensation")
+
+[Othello School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Othello Highlighted.png "Othello School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Othello School District Secondary Teachers' Median Total Compensation
-![Othello School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Othello Highlighted.png "Othello School District Secondary Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Othello School District Elem. Homeroom Teachers' Median Total Compensation
-![Othello School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Othello Highlighted.png "Othello School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Othello School District Superintendent Compensation History
-![Othello School District Image](pages/WA School District Compensation History for Othello Superintendent ConstantDollars.png "Othello School District Superintendent Compensation History")
-
-___
+[Othello School District Superintendent Compensation History](pages/Historical Compensation for the Othello SD in Constant 2017 DollarsDuty Title = Superintendent.png "Othello School District Superintendent Compensation History")
 

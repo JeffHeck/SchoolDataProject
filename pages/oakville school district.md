@@ -5,28 +5,27 @@ permalink: oakville school district
 ---
 
 
-Oakville School District Historical Demographics
-![Oakville School District Image](pages/Oakville School District Historical Demographics.png "Oakville School District Historical Demographics")
+[Oakville School District Historical Demographics](pages/Oakville School District Historical Demographics.png "Oakville School District Historical Demographics")
 
 ___
 
-Oakville High School
-![Oakville High School Image](pages/Oakville School District Oakville High SchoolDual Credit BarChart.png "Oakville High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Oakville High School](pages/Oakville School District Oakville High SchoolDual Credit BarChart.png "Oakville High School Dual Credit Participation")
+
 
 ___
 
-Oakville School District Secondary Teachers' Median Total Compensation
-![Oakville School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Oakville Highlighted.png "Oakville School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Oakville School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Oakville Highlighted.png "Oakville School District Secondary Teachers Median Total Compensation")
+
+[Oakville School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Oakville Highlighted.png "Oakville School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Oakville School District Elem. Homeroom Teachers' Median Total Compensation
-![Oakville School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Oakville Highlighted.png "Oakville School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Oakville School District Superintendent Compensation History
-![Oakville School District Image](pages/WA School District Compensation History for Oakville Superintendent ConstantDollars.png "Oakville School District Superintendent Compensation History")
-
-___
+[Oakville School District Superintendent Compensation History](pages/Historical Compensation for the Oakville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Oakville School District Superintendent Compensation History")
 

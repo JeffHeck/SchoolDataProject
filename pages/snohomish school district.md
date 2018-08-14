@@ -5,48 +5,35 @@ permalink: snohomish school district
 ---
 
 
-Snohomish School District Historical Demographics
-![Snohomish School District Image](pages/Snohomish School District Historical Demographics.png "Snohomish School District Historical Demographics")
+[Snohomish School District Historical Demographics](pages/Snohomish School District Historical Demographics.png "Snohomish School District Historical Demographics")
 
 ___
 
-AIM High School
-![AIM High School Image](pages/Snohomish School District AIM High SchoolDual Credit BarChart.png "AIM High School Dual Credit Participation")
+## Dual Credit Participation
+
+[AIM High School](pages/Snohomish School District AIM High SchoolDual Credit BarChart.png "AIM High School Dual Credit Participation")
+
+[Glacier Peak High School](pages/Snohomish School District Glacier Peak High SchoolDual Credit BarChart.png "Glacier Peak High School Dual Credit Participation")
+
+[High School Re Entry](pages/Snohomish School District High School Re EntryDual Credit BarChart.png "High School Re Entry Dual Credit Participation")
+
+[Parent Partnerhip](pages/Snohomish School District Parent PartnerhipDual Credit BarChart.png "Parent Partnerhip Dual Credit Participation")
+
+[Snohomish High School](pages/Snohomish School District Snohomish High SchoolDual Credit BarChart.png "Snohomish High School Dual Credit Participation")
+
 
 ___
 
-Glacier Peak High School
-![Glacier Peak High School Image](pages/Snohomish School District Glacier Peak High SchoolDual Credit BarChart.png "Glacier Peak High School Dual Credit Participation")
+## Teacher Compensation Comparisons
+
+[Snohomish School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Snohomish Highlighted.png "Snohomish School District Secondary Teachers Median Total Compensation")
+
+[Snohomish School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Snohomish Highlighted.png "Snohomish School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-High School Re Entry
-![High School Re Entry Image](pages/Snohomish School District High School Re EntryDual Credit BarChart.png "High School Re Entry Dual Credit Participation")
+## Superintendent Compensation History
 
-___
-
-Parent Partnerhip
-![Parent Partnerhip Image](pages/Snohomish School District Parent PartnerhipDual Credit BarChart.png "Parent Partnerhip Dual Credit Participation")
-
-___
-
-Snohomish High School
-![Snohomish High School Image](pages/Snohomish School District Snohomish High SchoolDual Credit BarChart.png "Snohomish High School Dual Credit Participation")
-
-___
-
-Snohomish School District Secondary Teachers' Median Total Compensation
-![Snohomish School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Snohomish Highlighted.png "Snohomish School District Secondary Teachers Median Total Compensation")
-
-___
-
-Snohomish School District Elem. Homeroom Teachers' Median Total Compensation
-![Snohomish School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Snohomish Highlighted.png "Snohomish School District Elem Homeroom Teachers Median Total Compensation")
-
-___
-
-Snohomish School District Superintendent Compensation History
-![Snohomish School District Image](pages/WA School District Compensation History for Snohomish Superintendent ConstantDollars.png "Snohomish School District Superintendent Compensation History")
-
-___
+[Snohomish School District Superintendent Compensation History](pages/Historical Compensation for the Snohomish SD in Constant 2017 DollarsDuty Title = Superintendent.png "Snohomish School District Superintendent Compensation History")
 

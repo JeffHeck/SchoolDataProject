@@ -5,28 +5,27 @@ permalink: lyle school district
 ---
 
 
-Lyle School District Historical Demographics
-![Lyle School District Image](pages/Lyle School District Historical Demographics.png "Lyle School District Historical Demographics")
+[Lyle School District Historical Demographics](pages/Lyle School District Historical Demographics.png "Lyle School District Historical Demographics")
 
 ___
 
-Lyle High School
-![Lyle High School Image](pages/Lyle School District Lyle High SchoolDual Credit BarChart.png "Lyle High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Lyle High School](pages/Lyle School District Lyle High SchoolDual Credit BarChart.png "Lyle High School Dual Credit Participation")
+
 
 ___
 
-Lyle School District Secondary Teachers' Median Total Compensation
-![Lyle School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lyle Highlighted.png "Lyle School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Lyle School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Lyle Highlighted.png "Lyle School District Secondary Teachers Median Total Compensation")
+
+[Lyle School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Lyle Highlighted.png "Lyle School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Lyle School District Elem. Homeroom Teachers' Median Total Compensation
-![Lyle School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Lyle Highlighted.png "Lyle School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Lyle School District Superintendent Compensation History
-![Lyle School District Image](pages/WA School District Compensation History for Lyle Superintendent ConstantDollars.png "Lyle School District Superintendent Compensation History")
-
-___
+[Lyle School District Superintendent Compensation History](pages/Historical Compensation for the Lyle SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lyle School District Superintendent Compensation History")
 

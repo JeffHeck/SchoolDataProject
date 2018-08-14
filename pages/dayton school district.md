@@ -5,28 +5,27 @@ permalink: dayton school district
 ---
 
 
-Dayton School District Historical Demographics
-![Dayton School District Image](pages/Dayton School District Historical Demographics.png "Dayton School District Historical Demographics")
+[Dayton School District Historical Demographics](pages/Dayton School District Historical Demographics.png "Dayton School District Historical Demographics")
 
 ___
 
-Dayton High School
-![Dayton High School Image](pages/Dayton School District Dayton High SchoolDual Credit BarChart.png "Dayton High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Dayton High School](pages/Dayton School District Dayton High SchoolDual Credit BarChart.png "Dayton High School Dual Credit Participation")
+
 
 ___
 
-Dayton School District Secondary Teachers' Median Total Compensation
-![Dayton School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Dayton Highlighted.png "Dayton School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Dayton School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Dayton Highlighted.png "Dayton School District Secondary Teachers Median Total Compensation")
+
+[Dayton School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Dayton Highlighted.png "Dayton School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Dayton School District Elem. Homeroom Teachers' Median Total Compensation
-![Dayton School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Dayton Highlighted.png "Dayton School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Dayton School District Superintendent Compensation History
-![Dayton School District Image](pages/WA School District Compensation History for Dayton Superintendent ConstantDollars.png "Dayton School District Superintendent Compensation History")
-
-___
+[Dayton School District Superintendent Compensation History](pages/Historical Compensation for the Dayton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Dayton School District Superintendent Compensation History")
 

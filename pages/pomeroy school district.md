@@ -5,28 +5,27 @@ permalink: pomeroy school district
 ---
 
 
-Pomeroy School District Historical Demographics
-![Pomeroy School District Image](pages/Pomeroy School District Historical Demographics.png "Pomeroy School District Historical Demographics")
+[Pomeroy School District Historical Demographics](pages/Pomeroy School District Historical Demographics.png "Pomeroy School District Historical Demographics")
 
 ___
 
-Pomeroy Jr Sr High School
-![Pomeroy Jr Sr High School Image](pages/Pomeroy School District Pomeroy Jr Sr High SchoolDual Credit BarChart.png "Pomeroy Jr Sr High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Pomeroy Jr Sr High School](pages/Pomeroy School District Pomeroy Jr Sr High SchoolDual Credit BarChart.png "Pomeroy Jr Sr High School Dual Credit Participation")
+
 
 ___
 
-Pomeroy School District Secondary Teachers' Median Total Compensation
-![Pomeroy School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Pomeroy Highlighted.png "Pomeroy School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Pomeroy School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Pomeroy Highlighted.png "Pomeroy School District Secondary Teachers Median Total Compensation")
+
+[Pomeroy School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Pomeroy Highlighted.png "Pomeroy School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Pomeroy School District Elem. Homeroom Teachers' Median Total Compensation
-![Pomeroy School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Pomeroy Highlighted.png "Pomeroy School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Pomeroy School District Superintendent Compensation History
-![Pomeroy School District Image](pages/WA School District Compensation History for Pomeroy Superintendent ConstantDollars.png "Pomeroy School District Superintendent Compensation History")
-
-___
+[Pomeroy School District Superintendent Compensation History](pages/Historical Compensation for the Pomeroy SD in Constant 2017 DollarsDuty Title = Superintendent.png "Pomeroy School District Superintendent Compensation History")
 

@@ -5,28 +5,27 @@ permalink: eatonville school district
 ---
 
 
-Eatonville School District Historical Demographics
-![Eatonville School District Image](pages/Eatonville School District Historical Demographics.png "Eatonville School District Historical Demographics")
+[Eatonville School District Historical Demographics](pages/Eatonville School District Historical Demographics.png "Eatonville School District Historical Demographics")
 
 ___
 
-Eatonville High School
-![Eatonville High School Image](pages/Eatonville School District Eatonville High SchoolDual Credit BarChart.png "Eatonville High School Dual Credit Participation")
+## Dual Credit Participation
+
+[Eatonville High School](pages/Eatonville School District Eatonville High SchoolDual Credit BarChart.png "Eatonville High School Dual Credit Participation")
+
 
 ___
 
-Eatonville School District Secondary Teachers' Median Total Compensation
-![Eatonville School District Image](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Eatonville Highlighted.png "Eatonville School District Secondary Teachers Median Total Compensation")
+## Teacher Compensation Comparisons
+
+[Eatonville School District Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Eatonville Highlighted.png "Eatonville School District Secondary Teachers Median Total Compensation")
+
+[Eatonville School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Eatonville Highlighted.png "Eatonville School District Elem Homeroom Teachers Median Total Compensation")
+
 
 ___
 
-Eatonville School District Elem. Homeroom Teachers' Median Total Compensation
-![Eatonville School District Image](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Eatonville Highlighted.png "Eatonville School District Elem Homeroom Teachers Median Total Compensation")
+## Superintendent Compensation History
 
-___
-
-Eatonville School District Superintendent Compensation History
-![Eatonville School District Image](pages/WA School District Compensation History for Eatonville Superintendent ConstantDollars.png "Eatonville School District Superintendent Compensation History")
-
-___
+[Eatonville School District Superintendent Compensation History](pages/Historical Compensation for the Eatonville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Eatonville School District Superintendent Compensation History")
 
