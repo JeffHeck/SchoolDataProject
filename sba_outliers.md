@@ -6,7 +6,6 @@ permalink:
 
 ELA Grade 3
 ![ELA Grade 3 Image](pagesManual/SBAOutliers/Washington State Schools SBA Results Outliers ELA Grade 3.png "ELA Grade 3")
-[test](pagesManual/SBAOutliers/Washington State Schools SBA Results Outliers ELA Grade 3.png)
 
 ___
 
