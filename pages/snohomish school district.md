@@ -35,6 +35,8 @@ ___
 
 [Snohomish School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Snohomish School DistrictDuty Title = Secondary Teacher.png "Snohomish School District All Secondary Teachers Compensation")
 
+[Snohomish School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Snohomish School DistrictDuty Title = Elem. Homeroom Teacher.png "Snohomish School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -27,6 +27,8 @@ ___
 
 [Trout Lake School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Trout Lake School DistrictDuty Title = Secondary Teacher.png "Trout Lake School District All Secondary Teachers Compensation")
 
+[Trout Lake School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Trout Lake School DistrictDuty Title = Elem. Homeroom Teacher.png "Trout Lake School District All Elementary Teachers Compensation")
+
 
 ___
 

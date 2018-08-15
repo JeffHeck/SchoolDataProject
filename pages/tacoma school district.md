@@ -51,6 +51,8 @@ ___
 
 [Tacoma School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Tacoma School DistrictDuty Title = Secondary Teacher.png "Tacoma School District All Secondary Teachers Compensation")
 
+[Tacoma School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tacoma School DistrictDuty Title = Elem. Homeroom Teacher.png "Tacoma School District All Elementary Teachers Compensation")
+
 
 ___
 

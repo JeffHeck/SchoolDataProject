@@ -27,6 +27,8 @@ ___
 
 [Asotin-Anatone School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Asotin-Anatone School DistrictDuty Title = Secondary Teacher.png "Asotin-Anatone School District All Secondary Teachers Compensation")
 
+[Asotin-Anatone School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Asotin-Anatone School DistrictDuty Title = Elem. Homeroom Teacher.png "Asotin-Anatone School District All Elementary Teachers Compensation")
+
 
 ___
 

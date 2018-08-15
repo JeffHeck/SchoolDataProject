@@ -20,6 +20,8 @@ ___
 
 [Brinnon School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Brinnon School DistrictDuty Title = Secondary Teacher.png "Brinnon School District All Secondary Teachers Compensation")
 
+[Brinnon School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Brinnon School DistrictDuty Title = Elem. Homeroom Teacher.png "Brinnon School District All Elementary Teachers Compensation")
+
 
 ___
 

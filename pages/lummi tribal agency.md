@@ -27,3 +27,5 @@ ___
 
 [Lummi Tribal Agency Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Lummi Tribal Agency School DistrictDuty Title = Secondary Teacher.png "Lummi Tribal Agency All Secondary Teachers Compensation")
 
+[Lummi Tribal Agency Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lummi Tribal Agency School DistrictDuty Title = Elem. Homeroom Teacher.png "Lummi Tribal Agency All Elementary Teachers Compensation")
+

@@ -20,6 +20,8 @@ ___
 
 [Summit Valley School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Summit Valley School DistrictDuty Title = Secondary Teacher.png "Summit Valley School District All Secondary Teachers Compensation")
 
+[Summit Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Summit Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Summit Valley School District All Elementary Teachers Compensation")
+
 
 ___
 

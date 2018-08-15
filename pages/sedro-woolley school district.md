@@ -29,6 +29,8 @@ ___
 
 [Sedro-Woolley School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Sedro-Woolley School DistrictDuty Title = Secondary Teacher.png "Sedro-Woolley School District All Secondary Teachers Compensation")
 
+[Sedro-Woolley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Sedro-Woolley School DistrictDuty Title = Elem. Homeroom Teacher.png "Sedro-Woolley School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -20,6 +20,8 @@ ___
 
 [Orondo School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Orondo School DistrictDuty Title = Secondary Teacher.png "Orondo School District All Secondary Teachers Compensation")
 
+[Orondo School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Orondo School DistrictDuty Title = Elem. Homeroom Teacher.png "Orondo School District All Elementary Teachers Compensation")
+
 
 ___
 

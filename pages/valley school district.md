@@ -27,6 +27,8 @@ ___
 
 [Valley School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Valley School DistrictDuty Title = Secondary Teacher.png "Valley School District All Secondary Teachers Compensation")
 
+[Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Valley School District All Elementary Teachers Compensation")
+
 
 ___
 

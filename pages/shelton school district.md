@@ -31,6 +31,8 @@ ___
 
 [Shelton School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Shelton School DistrictDuty Title = Secondary Teacher.png "Shelton School District All Secondary Teachers Compensation")
 
+[Shelton School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Shelton School DistrictDuty Title = Elem. Homeroom Teacher.png "Shelton School District All Elementary Teachers Compensation")
+
 
 ___
 

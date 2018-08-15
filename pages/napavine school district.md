@@ -27,6 +27,8 @@ ___
 
 [Napavine School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Napavine School DistrictDuty Title = Secondary Teacher.png "Napavine School District All Secondary Teachers Compensation")
 
+[Napavine School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Napavine School DistrictDuty Title = Elem. Homeroom Teacher.png "Napavine School District All Elementary Teachers Compensation")
+
 
 ___
 

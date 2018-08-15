@@ -31,6 +31,8 @@ ___
 
 [Sequim School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Sequim School DistrictDuty Title = Secondary Teacher.png "Sequim School District All Secondary Teachers Compensation")
 
+[Sequim School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Sequim School DistrictDuty Title = Elem. Homeroom Teacher.png "Sequim School District All Elementary Teachers Compensation")
+
 
 ___
 

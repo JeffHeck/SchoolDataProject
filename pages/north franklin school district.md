@@ -29,6 +29,8 @@ ___
 
 [North Franklin School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the North Franklin School DistrictDuty Title = Secondary Teacher.png "North Franklin School District All Secondary Teachers Compensation")
 
+[North Franklin School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the North Franklin School DistrictDuty Title = Elem. Homeroom Teacher.png "North Franklin School District All Elementary Teachers Compensation")
+
 
 ___
 

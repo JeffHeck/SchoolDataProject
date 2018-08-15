@@ -27,6 +27,8 @@ ___
 
 [Wishram School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Wishram School DistrictDuty Title = Secondary Teacher.png "Wishram School District All Secondary Teachers Compensation")
 
+[Wishram School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Wishram School DistrictDuty Title = Elem. Homeroom Teacher.png "Wishram School District All Elementary Teachers Compensation")
+
 
 ___
 

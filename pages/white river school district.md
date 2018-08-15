@@ -29,6 +29,8 @@ ___
 
 [White River School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the White River School DistrictDuty Title = Secondary Teacher.png "White River School District All Secondary Teachers Compensation")
 
+[White River School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the White River School DistrictDuty Title = Elem. Homeroom Teacher.png "White River School District All Elementary Teachers Compensation")
+
 
 ___
 

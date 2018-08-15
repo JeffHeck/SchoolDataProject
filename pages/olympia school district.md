@@ -33,6 +33,8 @@ ___
 
 [Olympia School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Olympia School DistrictDuty Title = Secondary Teacher.png "Olympia School District All Secondary Teachers Compensation")
 
+[Olympia School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Olympia School DistrictDuty Title = Elem. Homeroom Teacher.png "Olympia School District All Elementary Teachers Compensation")
+
 
 ___
 

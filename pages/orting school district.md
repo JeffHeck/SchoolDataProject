@@ -27,6 +27,8 @@ ___
 
 [Orting School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Orting School DistrictDuty Title = Secondary Teacher.png "Orting School District All Secondary Teachers Compensation")
 
+[Orting School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Orting School DistrictDuty Title = Elem. Homeroom Teacher.png "Orting School District All Elementary Teachers Compensation")
+
 
 ___
 

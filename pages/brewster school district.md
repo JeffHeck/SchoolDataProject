@@ -29,6 +29,8 @@ ___
 
 [Brewster School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Brewster School DistrictDuty Title = Secondary Teacher.png "Brewster School District All Secondary Teachers Compensation")
 
+[Brewster School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Brewster School DistrictDuty Title = Elem. Homeroom Teacher.png "Brewster School District All Elementary Teachers Compensation")
+
 
 ___
 

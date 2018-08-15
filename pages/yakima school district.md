@@ -37,6 +37,8 @@ ___
 
 [Yakima School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Yakima School DistrictDuty Title = Secondary Teacher.png "Yakima School District All Secondary Teachers Compensation")
 
+[Yakima School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Yakima School DistrictDuty Title = Elem. Homeroom Teacher.png "Yakima School District All Elementary Teachers Compensation")
+
 
 ___
 

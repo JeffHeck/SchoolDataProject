@@ -31,6 +31,8 @@ ___
 
 [Peninsula School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Peninsula School DistrictDuty Title = Secondary Teacher.png "Peninsula School District All Secondary Teachers Compensation")
 
+[Peninsula School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Peninsula School DistrictDuty Title = Elem. Homeroom Teacher.png "Peninsula School District All Elementary Teachers Compensation")
+
 
 ___
 

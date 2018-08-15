@@ -18,6 +18,8 @@ ___
 
 [Mill A School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Mill A Highlighted.png "Mill A School District Teachers Average Total Salary")
 
+[Mill A School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mill A School DistrictDuty Title = Elem. Homeroom Teacher.png "Mill A School District All Elementary Teachers Compensation")
+
 
 ___
 

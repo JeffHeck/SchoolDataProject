@@ -20,6 +20,8 @@ ___
 
 [Steptoe School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Steptoe School DistrictDuty Title = Secondary Teacher.png "Steptoe School District All Secondary Teachers Compensation")
 
+[Steptoe School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Steptoe School DistrictDuty Title = Elem. Homeroom Teacher.png "Steptoe School District All Elementary Teachers Compensation")
+
 
 ___
 

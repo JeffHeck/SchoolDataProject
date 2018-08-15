@@ -41,6 +41,8 @@ ___
 
 [Renton School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Renton School DistrictDuty Title = Secondary Teacher.png "Renton School District All Secondary Teachers Compensation")
 
+[Renton School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Renton School DistrictDuty Title = Elem. Homeroom Teacher.png "Renton School District All Elementary Teachers Compensation")
+
 
 ___
 

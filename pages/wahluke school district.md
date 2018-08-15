@@ -29,6 +29,8 @@ ___
 
 [Wahluke School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Wahluke School DistrictDuty Title = Secondary Teacher.png "Wahluke School District All Secondary Teachers Compensation")
 
+[Wahluke School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Wahluke School DistrictDuty Title = Elem. Homeroom Teacher.png "Wahluke School District All Elementary Teachers Compensation")
+
 
 ___
 

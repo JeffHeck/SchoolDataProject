@@ -27,6 +27,8 @@ ___
 
 [Pullman School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Pullman School DistrictDuty Title = Secondary Teacher.png "Pullman School District All Secondary Teachers Compensation")
 
+[Pullman School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Pullman School DistrictDuty Title = Elem. Homeroom Teacher.png "Pullman School District All Elementary Teachers Compensation")
+
 
 ___
 

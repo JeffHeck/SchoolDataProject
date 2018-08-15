@@ -29,6 +29,8 @@ ___
 
 [Medical Lake School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Medical Lake School DistrictDuty Title = Secondary Teacher.png "Medical Lake School District All Secondary Teachers Compensation")
 
+[Medical Lake School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Medical Lake School DistrictDuty Title = Elem. Homeroom Teacher.png "Medical Lake School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -29,6 +29,8 @@ ___
 
 [Lynden School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Lynden School DistrictDuty Title = Secondary Teacher.png "Lynden School District All Secondary Teachers Compensation")
 
+[Lynden School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lynden School DistrictDuty Title = Elem. Homeroom Teacher.png "Lynden School District All Elementary Teachers Compensation")
+
 
 ___
 

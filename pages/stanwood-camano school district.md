@@ -31,6 +31,8 @@ ___
 
 [Stanwood-Camano School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Stanwood-Camano School DistrictDuty Title = Secondary Teacher.png "Stanwood-Camano School District All Secondary Teachers Compensation")
 
+[Stanwood-Camano School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Stanwood-Camano School DistrictDuty Title = Elem. Homeroom Teacher.png "Stanwood-Camano School District All Elementary Teachers Compensation")
+
 
 ___
 

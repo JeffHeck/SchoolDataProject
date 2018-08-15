@@ -45,6 +45,8 @@ ___
 
 [Marysville School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Marysville School DistrictDuty Title = Secondary Teacher.png "Marysville School District All Secondary Teachers Compensation")
 
+[Marysville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Marysville School DistrictDuty Title = Elem. Homeroom Teacher.png "Marysville School District All Elementary Teachers Compensation")
+
 
 ___
 

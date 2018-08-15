@@ -27,6 +27,8 @@ ___
 
 [Entiat School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Entiat School DistrictDuty Title = Secondary Teacher.png "Entiat School District All Secondary Teachers Compensation")
 
+[Entiat School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Entiat School DistrictDuty Title = Elem. Homeroom Teacher.png "Entiat School District All Elementary Teachers Compensation")
+
 
 ___
 

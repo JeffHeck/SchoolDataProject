@@ -45,6 +45,8 @@ ___
 
 [Spokane School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Spokane School DistrictDuty Title = Secondary Teacher.png "Spokane School District All Secondary Teachers Compensation")
 
+[Spokane School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Spokane School DistrictDuty Title = Elem. Homeroom Teacher.png "Spokane School District All Elementary Teachers Compensation")
+
 
 ___
 

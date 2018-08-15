@@ -31,6 +31,8 @@ ___
 
 [Arlington School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Arlington School DistrictDuty Title = Secondary Teacher.png "Arlington School District All Secondary Teachers Compensation")
 
+[Arlington School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Arlington School DistrictDuty Title = Elem. Homeroom Teacher.png "Arlington School District All Elementary Teachers Compensation")
+
 
 ___
 

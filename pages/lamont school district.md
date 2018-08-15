@@ -20,6 +20,8 @@ ___
 
 [Lamont School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Lamont School DistrictDuty Title = Secondary Teacher.png "Lamont School District All Secondary Teachers Compensation")
 
+[Lamont School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lamont School DistrictDuty Title = Elem. Homeroom Teacher.png "Lamont School District All Elementary Teachers Compensation")
+
 
 ___
 

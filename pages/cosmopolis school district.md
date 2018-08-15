@@ -18,6 +18,8 @@ ___
 
 [Cosmopolis School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Cosmopolis Highlighted.png "Cosmopolis School District Teachers Average Total Salary")
 
+[Cosmopolis School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cosmopolis School DistrictDuty Title = Elem. Homeroom Teacher.png "Cosmopolis School District All Elementary Teachers Compensation")
+
 
 ___
 

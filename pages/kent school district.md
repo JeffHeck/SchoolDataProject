@@ -41,6 +41,8 @@ ___
 
 [Kent School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Kent School DistrictDuty Title = Secondary Teacher.png "Kent School District All Secondary Teachers Compensation")
 
+[Kent School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kent School DistrictDuty Title = Elem. Homeroom Teacher.png "Kent School District All Elementary Teachers Compensation")
+
 
 ___
 

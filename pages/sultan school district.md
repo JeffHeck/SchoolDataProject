@@ -29,6 +29,8 @@ ___
 
 [Sultan School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Sultan School DistrictDuty Title = Secondary Teacher.png "Sultan School District All Secondary Teachers Compensation")
 
+[Sultan School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Sultan School DistrictDuty Title = Elem. Homeroom Teacher.png "Sultan School District All Elementary Teachers Compensation")
+
 
 ___
 

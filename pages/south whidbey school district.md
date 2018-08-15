@@ -29,6 +29,8 @@ ___
 
 [South Whidbey School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the South Whidbey School DistrictDuty Title = Secondary Teacher.png "South Whidbey School District All Secondary Teachers Compensation")
 
+[South Whidbey School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the South Whidbey School DistrictDuty Title = Elem. Homeroom Teacher.png "South Whidbey School District All Elementary Teachers Compensation")
+
 
 ___
 

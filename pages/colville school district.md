@@ -29,6 +29,8 @@ ___
 
 [Colville School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Colville School DistrictDuty Title = Secondary Teacher.png "Colville School District All Secondary Teachers Compensation")
 
+[Colville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Colville School DistrictDuty Title = Elem. Homeroom Teacher.png "Colville School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -27,6 +27,8 @@ ___
 
 [Sunnyside School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Sunnyside School DistrictDuty Title = Secondary Teacher.png "Sunnyside School District All Secondary Teachers Compensation")
 
+[Sunnyside School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Sunnyside School DistrictDuty Title = Elem. Homeroom Teacher.png "Sunnyside School District All Elementary Teachers Compensation")
+
 
 ___
 

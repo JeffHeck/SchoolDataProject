@@ -29,6 +29,8 @@ ___
 
 [East Valley School District (Yakima) Secondary Teachers' Compensation](pages/2016-2017 Compensation for the East Valley (Yakima) School DistrictDuty Title = Secondary Teacher.png "East Valley School District (Yakima) All Secondary Teachers Compensation")
 
+[East Valley School District (Yakima) Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the East Valley (Yakima) School DistrictDuty Title = Elem. Homeroom Teacher.png "East Valley School District (Yakima) All Elementary Teachers Compensation")
+
 
 ___
 

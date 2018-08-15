@@ -33,6 +33,8 @@ ___
 
 [Snoqualmie Valley School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Snoqualmie Valley School DistrictDuty Title = Secondary Teacher.png "Snoqualmie Valley School District All Secondary Teachers Compensation")
 
+[Snoqualmie Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Snoqualmie Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Snoqualmie Valley School District All Elementary Teachers Compensation")
+
 
 ___
 

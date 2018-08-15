@@ -33,6 +33,8 @@ ___
 
 [West Valley School District (Spokane) Secondary Teachers' Compensation](pages/2016-2017 Compensation for the West Valley (Spokane) School DistrictDuty Title = Secondary Teacher.png "West Valley School District (Spokane) All Secondary Teachers Compensation")
 
+[West Valley School District (Spokane) Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the West Valley (Spokane) School DistrictDuty Title = Elem. Homeroom Teacher.png "West Valley School District (Spokane) All Elementary Teachers Compensation")
+
 
 ___
 

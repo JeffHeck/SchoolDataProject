@@ -29,6 +29,8 @@ ___
 
 [Onalaska School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Onalaska School DistrictDuty Title = Secondary Teacher.png "Onalaska School District All Secondary Teachers Compensation")
 
+[Onalaska School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Onalaska School DistrictDuty Title = Elem. Homeroom Teacher.png "Onalaska School District All Elementary Teachers Compensation")
+
 
 ___
 

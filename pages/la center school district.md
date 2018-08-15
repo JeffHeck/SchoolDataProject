@@ -29,6 +29,8 @@ ___
 
 [La Center School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the La Center School DistrictDuty Title = Secondary Teacher.png "La Center School District All Secondary Teachers Compensation")
 
+[La Center School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the La Center School DistrictDuty Title = Elem. Homeroom Teacher.png "La Center School District All Elementary Teachers Compensation")
+
 
 ___
 

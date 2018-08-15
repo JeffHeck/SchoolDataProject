@@ -27,6 +27,8 @@ ___
 
 [Kiona-Benton City School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Kiona-Benton City School DistrictDuty Title = Secondary Teacher.png "Kiona-Benton City School District All Secondary Teachers Compensation")
 
+[Kiona-Benton City School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kiona-Benton City School DistrictDuty Title = Elem. Homeroom Teacher.png "Kiona-Benton City School District All Elementary Teachers Compensation")
+
 
 ___
 

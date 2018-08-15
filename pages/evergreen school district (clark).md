@@ -41,6 +41,8 @@ ___
 
 [Evergreen School District (Clark) Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Evergreen (Clark) School DistrictDuty Title = Secondary Teacher.png "Evergreen School District (Clark) All Secondary Teachers Compensation")
 
+[Evergreen School District (Clark) Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Evergreen (Clark) School DistrictDuty Title = Elem. Homeroom Teacher.png "Evergreen School District (Clark) All Elementary Teachers Compensation")
+
 
 ___
 

@@ -27,6 +27,8 @@ ___
 
 [Touchet School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Touchet School DistrictDuty Title = Secondary Teacher.png "Touchet School District All Secondary Teachers Compensation")
 
+[Touchet School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Touchet School DistrictDuty Title = Elem. Homeroom Teacher.png "Touchet School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -29,6 +29,8 @@ ___
 
 [Rochester School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Rochester School DistrictDuty Title = Secondary Teacher.png "Rochester School District All Secondary Teachers Compensation")
 
+[Rochester School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Rochester School DistrictDuty Title = Elem. Homeroom Teacher.png "Rochester School District All Elementary Teachers Compensation")
+
 
 ___
 

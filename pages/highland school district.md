@@ -27,6 +27,8 @@ ___
 
 [Highland School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Highland School DistrictDuty Title = Secondary Teacher.png "Highland School District All Secondary Teachers Compensation")
 
+[Highland School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Highland School DistrictDuty Title = Elem. Homeroom Teacher.png "Highland School District All Elementary Teachers Compensation")
+
 
 ___
 

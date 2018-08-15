@@ -29,6 +29,8 @@ ___
 
 [Hoquiam School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Hoquiam School DistrictDuty Title = Secondary Teacher.png "Hoquiam School District All Secondary Teachers Compensation")
 
+[Hoquiam School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Hoquiam School DistrictDuty Title = Elem. Homeroom Teacher.png "Hoquiam School District All Elementary Teachers Compensation")
+
 
 ___
 

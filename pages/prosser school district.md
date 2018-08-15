@@ -29,6 +29,8 @@ ___
 
 [Prosser School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Prosser School DistrictDuty Title = Secondary Teacher.png "Prosser School District All Secondary Teachers Compensation")
 
+[Prosser School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Prosser School DistrictDuty Title = Elem. Homeroom Teacher.png "Prosser School District All Elementary Teachers Compensation")
+
 
 ___
 

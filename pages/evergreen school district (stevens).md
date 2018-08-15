@@ -18,6 +18,8 @@ ___
 
 [Evergreen School District (Stevens) Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Evergreen (Stevens) Highlighted.png "Evergreen School District (Stevens) Teachers Average Total Salary")
 
+[Evergreen School District (Stevens) Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Evergreen (Stevens) School DistrictDuty Title = Elem. Homeroom Teacher.png "Evergreen School District (Stevens) All Elementary Teachers Compensation")
+
 
 ___
 

@@ -39,6 +39,8 @@ ___
 
 [Bellingham School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Bellingham School DistrictDuty Title = Secondary Teacher.png "Bellingham School District All Secondary Teachers Compensation")
 
+[Bellingham School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Bellingham School DistrictDuty Title = Elem. Homeroom Teacher.png "Bellingham School District All Elementary Teachers Compensation")
+
 
 ___
 

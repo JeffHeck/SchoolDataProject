@@ -27,6 +27,8 @@ ___
 
 [Oakville School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Oakville School DistrictDuty Title = Secondary Teacher.png "Oakville School District All Secondary Teachers Compensation")
 
+[Oakville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Oakville School DistrictDuty Title = Elem. Homeroom Teacher.png "Oakville School District All Elementary Teachers Compensation")
+
 
 ___
 

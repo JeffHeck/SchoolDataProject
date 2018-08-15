@@ -27,6 +27,8 @@ ___
 
 [Ritzville School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Ritzville School DistrictDuty Title = Secondary Teacher.png "Ritzville School District All Secondary Teachers Compensation")
 
+[Ritzville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ritzville School DistrictDuty Title = Elem. Homeroom Teacher.png "Ritzville School District All Elementary Teachers Compensation")
+
 
 ___
 

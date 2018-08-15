@@ -55,6 +55,8 @@ ___
 
 [Highline School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Highline School DistrictDuty Title = Secondary Teacher.png "Highline School District All Secondary Teachers Compensation")
 
+[Highline School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Highline School DistrictDuty Title = Elem. Homeroom Teacher.png "Highline School District All Elementary Teachers Compensation")
+
 
 ___
 

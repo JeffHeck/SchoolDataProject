@@ -31,6 +31,8 @@ ___
 
 [Omak School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Omak School DistrictDuty Title = Secondary Teacher.png "Omak School District All Secondary Teachers Compensation")
 
+[Omak School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Omak School DistrictDuty Title = Elem. Homeroom Teacher.png "Omak School District All Elementary Teachers Compensation")
+
 
 ___
 

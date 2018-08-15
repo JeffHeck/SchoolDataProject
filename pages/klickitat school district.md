@@ -27,6 +27,8 @@ ___
 
 [Klickitat School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Klickitat School DistrictDuty Title = Secondary Teacher.png "Klickitat School District All Secondary Teachers Compensation")
 
+[Klickitat School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Klickitat School DistrictDuty Title = Elem. Homeroom Teacher.png "Klickitat School District All Elementary Teachers Compensation")
+
 
 ___
 

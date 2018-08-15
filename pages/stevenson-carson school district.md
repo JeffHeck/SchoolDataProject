@@ -27,6 +27,8 @@ ___
 
 [Stevenson-Carson School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Stevenson-Carson School DistrictDuty Title = Secondary Teacher.png "Stevenson-Carson School District All Secondary Teachers Compensation")
 
+[Stevenson-Carson School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Stevenson-Carson School DistrictDuty Title = Elem. Homeroom Teacher.png "Stevenson-Carson School District All Elementary Teachers Compensation")
+
 
 ___
 

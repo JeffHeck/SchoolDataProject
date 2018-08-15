@@ -31,6 +31,8 @@ ___
 
 [South Bend School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the South Bend School DistrictDuty Title = Secondary Teacher.png "South Bend School District All Secondary Teachers Compensation")
 
+[South Bend School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the South Bend School DistrictDuty Title = Elem. Homeroom Teacher.png "South Bend School District All Elementary Teachers Compensation")
+
 
 ___
 

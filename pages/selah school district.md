@@ -29,6 +29,8 @@ ___
 
 [Selah School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Selah School DistrictDuty Title = Secondary Teacher.png "Selah School District All Secondary Teachers Compensation")
 
+[Selah School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Selah School DistrictDuty Title = Elem. Homeroom Teacher.png "Selah School District All Elementary Teachers Compensation")
+
 
 ___
 

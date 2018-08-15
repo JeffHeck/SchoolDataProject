@@ -18,6 +18,8 @@ ___
 
 [Orchard Prairie School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Orchard Prairie Highlighted.png "Orchard Prairie School District Teachers Average Total Salary")
 
+[Orchard Prairie School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Orchard Prairie School DistrictDuty Title = Elem. Homeroom Teacher.png "Orchard Prairie School District All Elementary Teachers Compensation")
+
 
 ___
 

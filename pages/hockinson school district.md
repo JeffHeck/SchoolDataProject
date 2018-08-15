@@ -27,6 +27,8 @@ ___
 
 [Hockinson School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Hockinson School DistrictDuty Title = Secondary Teacher.png "Hockinson School District All Secondary Teachers Compensation")
 
+[Hockinson School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Hockinson School DistrictDuty Title = Elem. Homeroom Teacher.png "Hockinson School District All Elementary Teachers Compensation")
+
 
 ___
 

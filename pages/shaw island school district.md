@@ -18,6 +18,8 @@ ___
 
 [Shaw Island School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Shaw Island Highlighted.png "Shaw Island School District Teachers Average Total Salary")
 
+[Shaw Island School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Shaw Island School DistrictDuty Title = Elem. Homeroom Teacher.png "Shaw Island School District All Elementary Teachers Compensation")
+
 
 ___
 

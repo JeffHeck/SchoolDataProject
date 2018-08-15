@@ -27,6 +27,8 @@ ___
 
 [Inchelium School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Inchelium School DistrictDuty Title = Secondary Teacher.png "Inchelium School District All Secondary Teachers Compensation")
 
+[Inchelium School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Inchelium School DistrictDuty Title = Elem. Homeroom Teacher.png "Inchelium School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -29,6 +29,8 @@ ___
 
 [Centralia School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Centralia School DistrictDuty Title = Secondary Teacher.png "Centralia School District All Secondary Teachers Compensation")
 
+[Centralia School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Centralia School DistrictDuty Title = Elem. Homeroom Teacher.png "Centralia School District All Elementary Teachers Compensation")
+
 
 ___
 

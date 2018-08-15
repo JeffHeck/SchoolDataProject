@@ -33,6 +33,8 @@ ___
 
 [Walla Walla Public Schools Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Walla Walla School DistrictDuty Title = Secondary Teacher.png "Walla Walla Public Schools All Secondary Teachers Compensation")
 
+[Walla Walla Public Schools Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Walla Walla School DistrictDuty Title = Elem. Homeroom Teacher.png "Walla Walla Public Schools All Elementary Teachers Compensation")
+
 
 ___
 

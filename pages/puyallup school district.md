@@ -51,6 +51,8 @@ ___
 
 [Puyallup School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Puyallup School DistrictDuty Title = Secondary Teacher.png "Puyallup School District All Secondary Teachers Compensation")
 
+[Puyallup School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Puyallup School DistrictDuty Title = Elem. Homeroom Teacher.png "Puyallup School District All Elementary Teachers Compensation")
+
 
 ___
 

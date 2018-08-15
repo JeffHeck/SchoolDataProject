@@ -27,6 +27,8 @@ ___
 
 [Pateros School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Pateros School DistrictDuty Title = Secondary Teacher.png "Pateros School District All Secondary Teachers Compensation")
 
+[Pateros School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Pateros School DistrictDuty Title = Elem. Homeroom Teacher.png "Pateros School District All Elementary Teachers Compensation")
+
 
 ___
 

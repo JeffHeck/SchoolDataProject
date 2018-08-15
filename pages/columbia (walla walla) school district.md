@@ -27,6 +27,8 @@ ___
 
 [Columbia (Walla Walla) School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Columbia (Walla Walla) School DistrictDuty Title = Secondary Teacher.png "Columbia (Walla Walla) School District All Secondary Teachers Compensation")
 
+[Columbia (Walla Walla) School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Columbia (Walla Walla) School DistrictDuty Title = Elem. Homeroom Teacher.png "Columbia (Walla Walla) School District All Elementary Teachers Compensation")
+
 
 ___
 

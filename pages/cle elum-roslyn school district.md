@@ -29,6 +29,8 @@ ___
 
 [Cle Elum-Roslyn School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Cle Elum-Roslyn School DistrictDuty Title = Secondary Teacher.png "Cle Elum-Roslyn School District All Secondary Teachers Compensation")
 
+[Cle Elum-Roslyn School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cle Elum-Roslyn School DistrictDuty Title = Elem. Homeroom Teacher.png "Cle Elum-Roslyn School District All Elementary Teachers Compensation")
+
 
 ___
 

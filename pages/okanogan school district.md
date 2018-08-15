@@ -31,6 +31,8 @@ ___
 
 [Okanogan School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Okanogan School DistrictDuty Title = Secondary Teacher.png "Okanogan School District All Secondary Teachers Compensation")
 
+[Okanogan School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Okanogan School DistrictDuty Title = Elem. Homeroom Teacher.png "Okanogan School District All Elementary Teachers Compensation")
+
 
 ___
 

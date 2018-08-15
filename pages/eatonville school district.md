@@ -27,6 +27,8 @@ ___
 
 [Eatonville School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Eatonville School DistrictDuty Title = Secondary Teacher.png "Eatonville School District All Secondary Teachers Compensation")
 
+[Eatonville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Eatonville School DistrictDuty Title = Elem. Homeroom Teacher.png "Eatonville School District All Elementary Teachers Compensation")
+
 
 ___
 

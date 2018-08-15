@@ -27,6 +27,8 @@ ___
 
 [Tenino School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Tenino School DistrictDuty Title = Secondary Teacher.png "Tenino School District All Secondary Teachers Compensation")
 
+[Tenino School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tenino School DistrictDuty Title = Elem. Homeroom Teacher.png "Tenino School District All Elementary Teachers Compensation")
+
 
 ___
 

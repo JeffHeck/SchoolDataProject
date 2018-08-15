@@ -33,6 +33,8 @@ ___
 
 [Ferndale School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Ferndale School DistrictDuty Title = Secondary Teacher.png "Ferndale School District All Secondary Teachers Compensation")
 
+[Ferndale School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ferndale School DistrictDuty Title = Elem. Homeroom Teacher.png "Ferndale School District All Elementary Teachers Compensation")
+
 
 ___
 

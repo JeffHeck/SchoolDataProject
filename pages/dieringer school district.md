@@ -20,6 +20,8 @@ ___
 
 [Dieringer School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Dieringer School DistrictDuty Title = Secondary Teacher.png "Dieringer School District All Secondary Teachers Compensation")
 
+[Dieringer School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Dieringer School DistrictDuty Title = Elem. Homeroom Teacher.png "Dieringer School District All Elementary Teachers Compensation")
+
 
 ___
 

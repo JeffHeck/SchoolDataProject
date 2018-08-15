@@ -31,6 +31,8 @@ ___
 
 [Vashon Island School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Vashon Island School DistrictDuty Title = Secondary Teacher.png "Vashon Island School District All Secondary Teachers Compensation")
 
+[Vashon Island School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Vashon Island School DistrictDuty Title = Elem. Homeroom Teacher.png "Vashon Island School District All Elementary Teachers Compensation")
+
 
 ___
 

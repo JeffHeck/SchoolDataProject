@@ -31,6 +31,8 @@ ___
 
 [Cheney School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Cheney School DistrictDuty Title = Secondary Teacher.png "Cheney School District All Secondary Teachers Compensation")
 
+[Cheney School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cheney School DistrictDuty Title = Elem. Homeroom Teacher.png "Cheney School District All Elementary Teachers Compensation")
+
 
 ___
 

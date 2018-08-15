@@ -27,6 +27,8 @@ ___
 
 [Goldendale School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Goldendale School DistrictDuty Title = Secondary Teacher.png "Goldendale School District All Secondary Teachers Compensation")
 
+[Goldendale School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Goldendale School DistrictDuty Title = Elem. Homeroom Teacher.png "Goldendale School District All Elementary Teachers Compensation")
+
 
 ___
 

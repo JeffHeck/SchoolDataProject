@@ -29,6 +29,8 @@ ___
 
 [Ellensburg School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Ellensburg School DistrictDuty Title = Secondary Teacher.png "Ellensburg School District All Secondary Teachers Compensation")
 
+[Ellensburg School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ellensburg School DistrictDuty Title = Elem. Homeroom Teacher.png "Ellensburg School District All Elementary Teachers Compensation")
+
 
 ___
 

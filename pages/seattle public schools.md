@@ -67,6 +67,8 @@ ___
 
 [Seattle Public Schools Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Seattle School DistrictDuty Title = Secondary Teacher.png "Seattle Public Schools All Secondary Teachers Compensation")
 
+[Seattle Public Schools Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Seattle School DistrictDuty Title = Elem. Homeroom Teacher.png "Seattle Public Schools All Elementary Teachers Compensation")
+
 
 ___
 

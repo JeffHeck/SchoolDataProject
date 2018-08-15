@@ -27,6 +27,8 @@ ___
 
 [Cusick School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Cusick School DistrictDuty Title = Secondary Teacher.png "Cusick School District All Secondary Teachers Compensation")
 
+[Cusick School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cusick School DistrictDuty Title = Elem. Homeroom Teacher.png "Cusick School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -18,6 +18,8 @@ ___
 
 [Great Northern School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Great Northern Highlighted.png "Great Northern School District Teachers Average Total Salary")
 
+[Great Northern School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Great Northern School DistrictDuty Title = Elem. Homeroom Teacher.png "Great Northern School District All Elementary Teachers Compensation")
+
 
 ___
 

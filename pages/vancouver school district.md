@@ -51,6 +51,8 @@ ___
 
 [Vancouver School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Vancouver School DistrictDuty Title = Secondary Teacher.png "Vancouver School District All Secondary Teachers Compensation")
 
+[Vancouver School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Vancouver School DistrictDuty Title = Elem. Homeroom Teacher.png "Vancouver School District All Elementary Teachers Compensation")
+
 
 ___
 

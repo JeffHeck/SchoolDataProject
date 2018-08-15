@@ -29,6 +29,8 @@ ___
 
 [Coupeville School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Coupeville School DistrictDuty Title = Secondary Teacher.png "Coupeville School District All Secondary Teachers Compensation")
 
+[Coupeville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Coupeville School DistrictDuty Title = Elem. Homeroom Teacher.png "Coupeville School District All Elementary Teachers Compensation")
+
 
 ___
 

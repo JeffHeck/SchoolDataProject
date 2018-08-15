@@ -27,6 +27,8 @@ ___
 
 [Darrington School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Darrington School DistrictDuty Title = Secondary Teacher.png "Darrington School District All Secondary Teachers Compensation")
 
+[Darrington School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Darrington School DistrictDuty Title = Elem. Homeroom Teacher.png "Darrington School District All Elementary Teachers Compensation")
+
 
 ___
 

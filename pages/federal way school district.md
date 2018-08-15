@@ -49,6 +49,8 @@ ___
 
 [Federal Way School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Federal Way School DistrictDuty Title = Secondary Teacher.png "Federal Way School District All Secondary Teachers Compensation")
 
+[Federal Way School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Federal Way School DistrictDuty Title = Elem. Homeroom Teacher.png "Federal Way School District All Elementary Teachers Compensation")
+
 
 ___
 

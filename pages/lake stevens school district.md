@@ -31,6 +31,8 @@ ___
 
 [Lake Stevens School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Lake Stevens School DistrictDuty Title = Secondary Teacher.png "Lake Stevens School District All Secondary Teachers Compensation")
 
+[Lake Stevens School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lake Stevens School DistrictDuty Title = Elem. Homeroom Teacher.png "Lake Stevens School District All Elementary Teachers Compensation")
+
 
 ___
 

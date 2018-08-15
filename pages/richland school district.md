@@ -33,6 +33,8 @@ ___
 
 [Richland School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Richland School DistrictDuty Title = Secondary Teacher.png "Richland School District All Secondary Teachers Compensation")
 
+[Richland School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Richland School DistrictDuty Title = Elem. Homeroom Teacher.png "Richland School District All Elementary Teachers Compensation")
+
 
 ___
 

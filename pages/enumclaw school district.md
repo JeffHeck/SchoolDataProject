@@ -31,6 +31,8 @@ ___
 
 [Enumclaw School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Enumclaw School DistrictDuty Title = Secondary Teacher.png "Enumclaw School District All Secondary Teachers Compensation")
 
+[Enumclaw School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Enumclaw School DistrictDuty Title = Elem. Homeroom Teacher.png "Enumclaw School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -27,6 +27,8 @@ ___
 
 [Kittitas School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Kittitas School DistrictDuty Title = Secondary Teacher.png "Kittitas School District All Secondary Teachers Compensation")
 
+[Kittitas School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kittitas School DistrictDuty Title = Elem. Homeroom Teacher.png "Kittitas School District All Elementary Teachers Compensation")
+
 
 ___
 

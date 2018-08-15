@@ -18,6 +18,8 @@ ___
 
 [Roosevelt School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Roosevelt Highlighted.png "Roosevelt School District Teachers Average Total Salary")
 
+[Roosevelt School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Roosevelt School DistrictDuty Title = Elem. Homeroom Teacher.png "Roosevelt School District All Elementary Teachers Compensation")
+
 
 ___
 

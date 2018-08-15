@@ -26,6 +26,8 @@ ___
 
 [St John School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the St John School DistrictDuty Title = Secondary Teacher.png "St John School District All Secondary Teachers Compensation")
 
+[St John School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the St John School DistrictDuty Title = Elem. Homeroom Teacher.png "St John School District All Elementary Teachers Compensation")
+
 
 ___
 

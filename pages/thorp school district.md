@@ -27,6 +27,8 @@ ___
 
 [Thorp School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Thorp School DistrictDuty Title = Secondary Teacher.png "Thorp School District All Secondary Teachers Compensation")
 
+[Thorp School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Thorp School DistrictDuty Title = Elem. Homeroom Teacher.png "Thorp School District All Elementary Teachers Compensation")
+
 
 ___
 

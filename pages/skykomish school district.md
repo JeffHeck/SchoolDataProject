@@ -27,6 +27,8 @@ ___
 
 [Skykomish School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Skykomish School DistrictDuty Title = Secondary Teacher.png "Skykomish School District All Secondary Teachers Compensation")
 
+[Skykomish School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Skykomish School DistrictDuty Title = Elem. Homeroom Teacher.png "Skykomish School District All Elementary Teachers Compensation")
+
 
 ___
 

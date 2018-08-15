@@ -29,6 +29,8 @@ ___
 
 [Ephrata School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Ephrata School DistrictDuty Title = Secondary Teacher.png "Ephrata School District All Secondary Teachers Compensation")
 
+[Ephrata School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ephrata School DistrictDuty Title = Elem. Homeroom Teacher.png "Ephrata School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -33,6 +33,8 @@ ___
 
 [Riverview School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Riverview School DistrictDuty Title = Secondary Teacher.png "Riverview School District All Secondary Teachers Compensation")
 
+[Riverview School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Riverview School DistrictDuty Title = Elem. Homeroom Teacher.png "Riverview School District All Elementary Teachers Compensation")
+
 
 ___
 

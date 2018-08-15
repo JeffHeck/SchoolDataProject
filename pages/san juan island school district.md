@@ -29,6 +29,8 @@ ___
 
 [San Juan Island School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the San Juan Island School DistrictDuty Title = Secondary Teacher.png "San Juan Island School District All Secondary Teachers Compensation")
 
+[San Juan Island School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the San Juan Island School DistrictDuty Title = Elem. Homeroom Teacher.png "San Juan Island School District All Elementary Teachers Compensation")
+
 
 ___
 

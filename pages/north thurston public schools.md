@@ -33,6 +33,8 @@ ___
 
 [North Thurston Public Schools Secondary Teachers' Compensation](pages/2016-2017 Compensation for the North Thurston School DistrictDuty Title = Secondary Teacher.png "North Thurston Public Schools All Secondary Teachers Compensation")
 
+[North Thurston Public Schools Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the North Thurston School DistrictDuty Title = Elem. Homeroom Teacher.png "North Thurston Public Schools All Elementary Teachers Compensation")
+
 
 ___
 

@@ -29,6 +29,8 @@ ___
 
 [Mount Vernon School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Mount Vernon School DistrictDuty Title = Secondary Teacher.png "Mount Vernon School District All Secondary Teachers Compensation")
 
+[Mount Vernon School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mount Vernon School DistrictDuty Title = Elem. Homeroom Teacher.png "Mount Vernon School District All Elementary Teachers Compensation")
+
 
 ___
 

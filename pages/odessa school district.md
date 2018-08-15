@@ -27,6 +27,8 @@ ___
 
 [Odessa School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Odessa School DistrictDuty Title = Secondary Teacher.png "Odessa School District All Secondary Teachers Compensation")
 
+[Odessa School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Odessa School DistrictDuty Title = Elem. Homeroom Teacher.png "Odessa School District All Elementary Teachers Compensation")
+
 
 ___
 

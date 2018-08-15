@@ -29,6 +29,8 @@ ___
 
 [Othello School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Othello School DistrictDuty Title = Secondary Teacher.png "Othello School District All Secondary Teachers Compensation")
 
+[Othello School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Othello School DistrictDuty Title = Elem. Homeroom Teacher.png "Othello School District All Elementary Teachers Compensation")
+
 
 ___
 

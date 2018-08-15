@@ -29,6 +29,8 @@ ___
 
 [Washougal School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Washougal School DistrictDuty Title = Secondary Teacher.png "Washougal School District All Secondary Teachers Compensation")
 
+[Washougal School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Washougal School DistrictDuty Title = Elem. Homeroom Teacher.png "Washougal School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -29,6 +29,8 @@ ___
 
 [Mount Baker School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Mount Baker School DistrictDuty Title = Secondary Teacher.png "Mount Baker School District All Secondary Teachers Compensation")
 
+[Mount Baker School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mount Baker School DistrictDuty Title = Elem. Homeroom Teacher.png "Mount Baker School District All Elementary Teachers Compensation")
+
 
 ___
 

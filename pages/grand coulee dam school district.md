@@ -27,6 +27,8 @@ ___
 
 [Grand Coulee Dam School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Grand Coulee Dam School DistrictDuty Title = Secondary Teacher.png "Grand Coulee Dam School District All Secondary Teachers Compensation")
 
+[Grand Coulee Dam School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Grand Coulee Dam School DistrictDuty Title = Elem. Homeroom Teacher.png "Grand Coulee Dam School District All Elementary Teachers Compensation")
+
 
 ___
 

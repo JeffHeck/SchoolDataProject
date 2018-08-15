@@ -31,6 +31,8 @@ ___
 
 [Elma School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Elma School DistrictDuty Title = Secondary Teacher.png "Elma School District All Secondary Teachers Compensation")
 
+[Elma School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Elma School DistrictDuty Title = Elem. Homeroom Teacher.png "Elma School District All Elementary Teachers Compensation")
+
 
 ___
 

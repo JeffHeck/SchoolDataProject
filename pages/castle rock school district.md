@@ -27,6 +27,8 @@ ___
 
 [Castle Rock School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Castle Rock School DistrictDuty Title = Secondary Teacher.png "Castle Rock School District All Secondary Teachers Compensation")
 
+[Castle Rock School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Castle Rock School DistrictDuty Title = Elem. Homeroom Teacher.png "Castle Rock School District All Elementary Teachers Compensation")
+
 
 ___
 

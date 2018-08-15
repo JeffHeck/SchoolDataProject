@@ -39,6 +39,8 @@ ___
 
 [Bethel School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Bethel School DistrictDuty Title = Secondary Teacher.png "Bethel School District All Secondary Teachers Compensation")
 
+[Bethel School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Bethel School DistrictDuty Title = Elem. Homeroom Teacher.png "Bethel School District All Elementary Teachers Compensation")
+
 
 ___
 

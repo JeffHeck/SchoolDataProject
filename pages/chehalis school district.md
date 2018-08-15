@@ -29,6 +29,8 @@ ___
 
 [Chehalis School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Chehalis School DistrictDuty Title = Secondary Teacher.png "Chehalis School District All Secondary Teachers Compensation")
 
+[Chehalis School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Chehalis School DistrictDuty Title = Elem. Homeroom Teacher.png "Chehalis School District All Elementary Teachers Compensation")
+
 
 ___
 

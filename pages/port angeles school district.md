@@ -29,6 +29,8 @@ ___
 
 [Port Angeles School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Port Angeles School DistrictDuty Title = Secondary Teacher.png "Port Angeles School District All Secondary Teachers Compensation")
 
+[Port Angeles School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Port Angeles School DistrictDuty Title = Elem. Homeroom Teacher.png "Port Angeles School District All Elementary Teachers Compensation")
+
 
 ___
 

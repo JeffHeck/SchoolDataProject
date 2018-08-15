@@ -18,6 +18,8 @@ ___
 
 [Damman School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Damman Highlighted.png "Damman School District Teachers Average Total Salary")
 
+[Damman School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Damman School DistrictDuty Title = Elem. Homeroom Teacher.png "Damman School District All Elementary Teachers Compensation")
+
 
 ___
 

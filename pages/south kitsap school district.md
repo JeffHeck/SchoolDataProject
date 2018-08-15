@@ -37,6 +37,8 @@ ___
 
 [South Kitsap School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the South Kitsap School DistrictDuty Title = Secondary Teacher.png "South Kitsap School District All Secondary Teachers Compensation")
 
+[South Kitsap School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the South Kitsap School DistrictDuty Title = Elem. Homeroom Teacher.png "South Kitsap School District All Elementary Teachers Compensation")
+
 
 ___
 

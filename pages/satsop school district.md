@@ -18,3 +18,5 @@ ___
 
 [Satsop School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Satsop Highlighted.png "Satsop School District Teachers Average Total Salary")
 
+[Satsop School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Satsop School DistrictDuty Title = Elem. Homeroom Teacher.png "Satsop School District All Elementary Teachers Compensation")
+

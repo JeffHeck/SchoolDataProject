@@ -20,6 +20,8 @@ ___
 
 [Spokane International Academy Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Spokane International Academy School DistrictDuty Title = Secondary Teacher.png "Spokane International Academy All Secondary Teachers Compensation")
 
+[Spokane International Academy Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Spokane International Academy School DistrictDuty Title = Elem. Homeroom Teacher.png "Spokane International Academy All Elementary Teachers Compensation")
+
 
 ___
 

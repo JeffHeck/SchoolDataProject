@@ -33,6 +33,8 @@ ___
 
 [Auburn School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Auburn School DistrictDuty Title = Secondary Teacher.png "Auburn School District All Secondary Teachers Compensation")
 
+[Auburn School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Auburn School DistrictDuty Title = Elem. Homeroom Teacher.png "Auburn School District All Elementary Teachers Compensation")
+
 
 ___
 

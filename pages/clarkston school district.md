@@ -31,6 +31,8 @@ ___
 
 [Clarkston School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Clarkston School DistrictDuty Title = Secondary Teacher.png "Clarkston School District All Secondary Teachers Compensation")
 
+[Clarkston School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Clarkston School DistrictDuty Title = Elem. Homeroom Teacher.png "Clarkston School District All Elementary Teachers Compensation")
+
 
 ___
 

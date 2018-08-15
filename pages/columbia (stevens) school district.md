@@ -29,6 +29,8 @@ ___
 
 [Columbia (Stevens) School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Columbia (Stevens) School DistrictDuty Title = Secondary Teacher.png "Columbia (Stevens) School District All Secondary Teachers Compensation")
 
+[Columbia (Stevens) School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Columbia (Stevens) School DistrictDuty Title = Elem. Homeroom Teacher.png "Columbia (Stevens) School District All Elementary Teachers Compensation")
+
 
 ___
 

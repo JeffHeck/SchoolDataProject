@@ -31,6 +31,8 @@ ___
 
 [Oak Harbor School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Oak Harbor School DistrictDuty Title = Secondary Teacher.png "Oak Harbor School District All Secondary Teachers Compensation")
 
+[Oak Harbor School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Oak Harbor School DistrictDuty Title = Elem. Homeroom Teacher.png "Oak Harbor School District All Elementary Teachers Compensation")
+
 
 ___
 

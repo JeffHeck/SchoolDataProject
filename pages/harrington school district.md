@@ -27,6 +27,8 @@ ___
 
 [Harrington School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Harrington School DistrictDuty Title = Secondary Teacher.png "Harrington School District All Secondary Teachers Compensation")
 
+[Harrington School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Harrington School DistrictDuty Title = Elem. Homeroom Teacher.png "Harrington School District All Elementary Teachers Compensation")
+
 
 ___
 

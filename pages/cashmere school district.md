@@ -26,6 +26,8 @@ ___
 
 [Cashmere School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Cashmere School DistrictDuty Title = Secondary Teacher.png "Cashmere School District All Secondary Teachers Compensation")
 
+[Cashmere School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cashmere School DistrictDuty Title = Elem. Homeroom Teacher.png "Cashmere School District All Elementary Teachers Compensation")
+
 
 ___
 

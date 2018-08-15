@@ -20,6 +20,8 @@ ___
 
 [Pioneer School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Pioneer School DistrictDuty Title = Secondary Teacher.png "Pioneer School District All Secondary Teachers Compensation")
 
+[Pioneer School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Pioneer School DistrictDuty Title = Elem. Homeroom Teacher.png "Pioneer School District All Elementary Teachers Compensation")
+
 
 ___
 

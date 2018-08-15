@@ -27,6 +27,8 @@ ___
 
 [LaCrosse School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the LaCrosse School DistrictDuty Title = Secondary Teacher.png "LaCrosse School District All Secondary Teachers Compensation")
 
+[LaCrosse School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the LaCrosse School DistrictDuty Title = Elem. Homeroom Teacher.png "LaCrosse School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -20,6 +20,8 @@ ___
 
 [Union Gap School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Union Gap School DistrictDuty Title = Secondary Teacher.png "Union Gap School District All Secondary Teachers Compensation")
 
+[Union Gap School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Union Gap School DistrictDuty Title = Elem. Homeroom Teacher.png "Union Gap School District All Elementary Teachers Compensation")
+
 
 ___
 

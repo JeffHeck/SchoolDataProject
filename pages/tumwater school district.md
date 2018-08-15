@@ -33,6 +33,8 @@ ___
 
 [Tumwater School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Tumwater School DistrictDuty Title = Secondary Teacher.png "Tumwater School District All Secondary Teachers Compensation")
 
+[Tumwater School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tumwater School DistrictDuty Title = Elem. Homeroom Teacher.png "Tumwater School District All Elementary Teachers Compensation")
+
 
 ___
 

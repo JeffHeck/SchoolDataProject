@@ -29,6 +29,8 @@ ___
 
 [University Place School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the University Place School DistrictDuty Title = Secondary Teacher.png "University Place School District All Secondary Teachers Compensation")
 
+[University Place School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the University Place School DistrictDuty Title = Elem. Homeroom Teacher.png "University Place School District All Elementary Teachers Compensation")
+
 
 ___
 

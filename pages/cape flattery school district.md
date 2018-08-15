@@ -29,6 +29,8 @@ ___
 
 [Cape Flattery School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Cape Flattery School DistrictDuty Title = Secondary Teacher.png "Cape Flattery School District All Secondary Teachers Compensation")
 
+[Cape Flattery School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cape Flattery School DistrictDuty Title = Elem. Homeroom Teacher.png "Cape Flattery School District All Elementary Teachers Compensation")
+
 
 ___
 

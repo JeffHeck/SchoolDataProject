@@ -37,6 +37,8 @@ ___
 
 [Kennewick School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Kennewick School DistrictDuty Title = Secondary Teacher.png "Kennewick School District All Secondary Teachers Compensation")
 
+[Kennewick School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kennewick School DistrictDuty Title = Elem. Homeroom Teacher.png "Kennewick School District All Elementary Teachers Compensation")
+
 
 ___
 

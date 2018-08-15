@@ -27,6 +27,8 @@ ___
 
 [Bickleton School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Bickleton School DistrictDuty Title = Secondary Teacher.png "Bickleton School District All Secondary Teachers Compensation")
 
+[Bickleton School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Bickleton School DistrictDuty Title = Elem. Homeroom Teacher.png "Bickleton School District All Elementary Teachers Compensation")
+
 
 ___
 

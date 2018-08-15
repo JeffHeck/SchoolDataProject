@@ -29,6 +29,8 @@ ___
 
 [Camas School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Camas School DistrictDuty Title = Secondary Teacher.png "Camas School District All Secondary Teachers Compensation")
 
+[Camas School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Camas School DistrictDuty Title = Elem. Homeroom Teacher.png "Camas School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -27,6 +27,8 @@ ___
 
 [Prescott School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Prescott School DistrictDuty Title = Secondary Teacher.png "Prescott School District All Secondary Teachers Compensation")
 
+[Prescott School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Prescott School DistrictDuty Title = Elem. Homeroom Teacher.png "Prescott School District All Elementary Teachers Compensation")
+
 
 ___
 

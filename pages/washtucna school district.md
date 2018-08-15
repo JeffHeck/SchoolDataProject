@@ -27,6 +27,8 @@ ___
 
 [Washtucna School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Washtucna School DistrictDuty Title = Secondary Teacher.png "Washtucna School District All Secondary Teachers Compensation")
 
+[Washtucna School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Washtucna School DistrictDuty Title = Elem. Homeroom Teacher.png "Washtucna School District All Elementary Teachers Compensation")
+
 
 ___
 

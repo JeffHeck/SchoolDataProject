@@ -29,6 +29,8 @@ ___
 
 [Riverside School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Riverside School DistrictDuty Title = Secondary Teacher.png "Riverside School District All Secondary Teachers Compensation")
 
+[Riverside School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Riverside School DistrictDuty Title = Elem. Homeroom Teacher.png "Riverside School District All Elementary Teachers Compensation")
+
 
 ___
 

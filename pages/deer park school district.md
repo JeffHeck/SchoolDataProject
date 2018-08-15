@@ -27,6 +27,8 @@ ___
 
 [Deer Park School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Deer Park School DistrictDuty Title = Secondary Teacher.png "Deer Park School District All Secondary Teachers Compensation")
 
+[Deer Park School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Deer Park School DistrictDuty Title = Elem. Homeroom Teacher.png "Deer Park School District All Elementary Teachers Compensation")
+
 
 ___
 

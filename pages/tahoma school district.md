@@ -29,6 +29,8 @@ ___
 
 [Tahoma School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Tahoma School DistrictDuty Title = Secondary Teacher.png "Tahoma School District All Secondary Teachers Compensation")
 
+[Tahoma School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tahoma School DistrictDuty Title = Elem. Homeroom Teacher.png "Tahoma School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -18,6 +18,8 @@ ___
 
 [Index School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Index Highlighted.png "Index School District Teachers Average Total Salary")
 
+[Index School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Index School DistrictDuty Title = Elem. Homeroom Teacher.png "Index School District All Elementary Teachers Compensation")
+
 
 ___
 

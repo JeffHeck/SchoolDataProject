@@ -31,6 +31,8 @@ ___
 
 [Kelso School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Kelso School DistrictDuty Title = Secondary Teacher.png "Kelso School District All Secondary Teachers Compensation")
 
+[Kelso School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kelso School DistrictDuty Title = Elem. Homeroom Teacher.png "Kelso School District All Elementary Teachers Compensation")
+
 
 ___
 

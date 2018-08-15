@@ -29,6 +29,8 @@ ___
 
 [Newport School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Newport School DistrictDuty Title = Secondary Teacher.png "Newport School District All Secondary Teachers Compensation")
 
+[Newport School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Newport School DistrictDuty Title = Elem. Homeroom Teacher.png "Newport School District All Elementary Teachers Compensation")
+
 
 ___
 

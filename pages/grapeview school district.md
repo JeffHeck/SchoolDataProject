@@ -20,6 +20,8 @@ ___
 
 [Grapeview School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Grapeview School DistrictDuty Title = Secondary Teacher.png "Grapeview School District All Secondary Teachers Compensation")
 
+[Grapeview School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Grapeview School DistrictDuty Title = Elem. Homeroom Teacher.png "Grapeview School District All Elementary Teachers Compensation")
+
 
 ___
 

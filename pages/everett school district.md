@@ -39,6 +39,8 @@ ___
 
 [Everett School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Everett School DistrictDuty Title = Secondary Teacher.png "Everett School District All Secondary Teachers Compensation")
 
+[Everett School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Everett School DistrictDuty Title = Elem. Homeroom Teacher.png "Everett School District All Elementary Teachers Compensation")
+
 
 ___
 

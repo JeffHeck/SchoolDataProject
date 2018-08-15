@@ -29,6 +29,8 @@ ___
 
 [Bridgeport School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Bridgeport School DistrictDuty Title = Secondary Teacher.png "Bridgeport School District All Secondary Teachers Compensation")
 
+[Bridgeport School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Bridgeport School DistrictDuty Title = Elem. Homeroom Teacher.png "Bridgeport School District All Elementary Teachers Compensation")
+
 
 ___
 

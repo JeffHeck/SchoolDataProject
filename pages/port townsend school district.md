@@ -29,6 +29,8 @@ ___
 
 [Port Townsend School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Port Townsend School DistrictDuty Title = Secondary Teacher.png "Port Townsend School District All Secondary Teachers Compensation")
 
+[Port Townsend School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Port Townsend School DistrictDuty Title = Elem. Homeroom Teacher.png "Port Townsend School District All Elementary Teachers Compensation")
+
 
 ___
 

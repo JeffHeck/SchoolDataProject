@@ -27,6 +27,8 @@ ___
 
 [Zillah School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Zillah School DistrictDuty Title = Secondary Teacher.png "Zillah School District All Secondary Teachers Compensation")
 
+[Zillah School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Zillah School DistrictDuty Title = Elem. Homeroom Teacher.png "Zillah School District All Elementary Teachers Compensation")
+
 
 ___
 

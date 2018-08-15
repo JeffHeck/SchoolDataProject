@@ -29,6 +29,8 @@ ___
 
 [Winlock School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Winlock School DistrictDuty Title = Secondary Teacher.png "Winlock School District All Secondary Teachers Compensation")
 
+[Winlock School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Winlock School DistrictDuty Title = Elem. Homeroom Teacher.png "Winlock School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -31,6 +31,8 @@ ___
 
 [Quillayute Valley School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Quillayute Valley School DistrictDuty Title = Secondary Teacher.png "Quillayute Valley School District All Secondary Teachers Compensation")
 
+[Quillayute Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Quillayute Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Quillayute Valley School District All Elementary Teachers Compensation")
+
 
 ___
 

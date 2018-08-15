@@ -27,6 +27,8 @@ ___
 
 [Manson School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Manson School DistrictDuty Title = Secondary Teacher.png "Manson School District All Secondary Teachers Compensation")
 
+[Manson School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Manson School DistrictDuty Title = Elem. Homeroom Teacher.png "Manson School District All Elementary Teachers Compensation")
+
 
 ___
 

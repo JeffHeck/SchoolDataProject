@@ -27,6 +27,8 @@ ___
 
 [Tekoa School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Tekoa School DistrictDuty Title = Secondary Teacher.png "Tekoa School District All Secondary Teachers Compensation")
 
+[Tekoa School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tekoa School DistrictDuty Title = Elem. Homeroom Teacher.png "Tekoa School District All Elementary Teachers Compensation")
+
 
 ___
 

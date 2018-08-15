@@ -31,6 +31,8 @@ ___
 
 [Chewelah School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Chewelah School DistrictDuty Title = Secondary Teacher.png "Chewelah School District All Secondary Teachers Compensation")
 
+[Chewelah School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Chewelah School DistrictDuty Title = Elem. Homeroom Teacher.png "Chewelah School District All Elementary Teachers Compensation")
+
 
 ___
 

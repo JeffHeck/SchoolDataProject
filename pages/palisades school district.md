@@ -18,6 +18,8 @@ ___
 
 [Palisades School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Palisades Highlighted.png "Palisades School District Teachers Average Total Salary")
 
+[Palisades School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Palisades School DistrictDuty Title = Elem. Homeroom Teacher.png "Palisades School District All Elementary Teachers Compensation")
+
 
 ___
 

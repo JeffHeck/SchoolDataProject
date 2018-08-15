@@ -20,6 +20,8 @@ ___
 
 [Skamania School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Skamania School DistrictDuty Title = Secondary Teacher.png "Skamania School District All Secondary Teachers Compensation")
 
+[Skamania School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Skamania School DistrictDuty Title = Elem. Homeroom Teacher.png "Skamania School District All Elementary Teachers Compensation")
+
 
 ___
 

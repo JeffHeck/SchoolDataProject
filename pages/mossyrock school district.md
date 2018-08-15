@@ -29,6 +29,8 @@ ___
 
 [Mossyrock School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Mossyrock School DistrictDuty Title = Secondary Teacher.png "Mossyrock School District All Secondary Teachers Compensation")
 
+[Mossyrock School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mossyrock School DistrictDuty Title = Elem. Homeroom Teacher.png "Mossyrock School District All Elementary Teachers Compensation")
+
 
 ___
 

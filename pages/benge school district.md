@@ -18,6 +18,8 @@ ___
 
 [Benge School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Benge Highlighted.png "Benge School District Teachers Average Total Salary")
 
+[Benge School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Benge School DistrictDuty Title = Elem. Homeroom Teacher.png "Benge School District All Elementary Teachers Compensation")
+
 
 ___
 

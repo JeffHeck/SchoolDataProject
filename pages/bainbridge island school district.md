@@ -29,6 +29,8 @@ ___
 
 [Bainbridge Island School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Bainbridge Island School DistrictDuty Title = Secondary Teacher.png "Bainbridge Island School District All Secondary Teachers Compensation")
 
+[Bainbridge Island School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Bainbridge Island School DistrictDuty Title = Elem. Homeroom Teacher.png "Bainbridge Island School District All Elementary Teachers Compensation")
+
 
 ___
 

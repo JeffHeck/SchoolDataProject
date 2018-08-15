@@ -31,6 +31,8 @@ ___
 
 [Franklin Pierce School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Franklin Pierce School DistrictDuty Title = Secondary Teacher.png "Franklin Pierce School District All Secondary Teachers Compensation")
 
+[Franklin Pierce School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Franklin Pierce School DistrictDuty Title = Elem. Homeroom Teacher.png "Franklin Pierce School District All Elementary Teachers Compensation")
+
 
 ___
 

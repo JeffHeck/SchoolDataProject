@@ -33,6 +33,8 @@ ___
 
 [Yelm School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Yelm School DistrictDuty Title = Secondary Teacher.png "Yelm School District All Secondary Teachers Compensation")
 
+[Yelm School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Yelm School DistrictDuty Title = Elem. Homeroom Teacher.png "Yelm School District All Elementary Teachers Compensation")
+
 
 ___
 

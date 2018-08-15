@@ -29,6 +29,8 @@ ___
 
 [Quilcene School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Quilcene School DistrictDuty Title = Secondary Teacher.png "Quilcene School District All Secondary Teachers Compensation")
 
+[Quilcene School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Quilcene School DistrictDuty Title = Elem. Homeroom Teacher.png "Quilcene School District All Elementary Teachers Compensation")
+
 
 ___
 

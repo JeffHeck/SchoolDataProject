@@ -27,6 +27,8 @@ ___
 
 [Sprague School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Sprague School DistrictDuty Title = Secondary Teacher.png "Sprague School District All Secondary Teachers Compensation")
 
+[Sprague School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Sprague School DistrictDuty Title = Elem. Homeroom Teacher.png "Sprague School District All Elementary Teachers Compensation")
+
 
 ___
 

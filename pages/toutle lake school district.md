@@ -27,6 +27,8 @@ ___
 
 [Toutle Lake School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Toutle Lake School DistrictDuty Title = Secondary Teacher.png "Toutle Lake School District All Secondary Teachers Compensation")
 
+[Toutle Lake School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Toutle Lake School DistrictDuty Title = Elem. Homeroom Teacher.png "Toutle Lake School District All Elementary Teachers Compensation")
+
 
 ___
 

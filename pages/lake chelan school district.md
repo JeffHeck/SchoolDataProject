@@ -31,6 +31,8 @@ ___
 
 [Lake Chelan School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Lake Chelan School DistrictDuty Title = Secondary Teacher.png "Lake Chelan School District All Secondary Teachers Compensation")
 
+[Lake Chelan School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lake Chelan School DistrictDuty Title = Elem. Homeroom Teacher.png "Lake Chelan School District All Elementary Teachers Compensation")
+
 
 ___
 

@@ -49,6 +49,8 @@ ___
 
 [Northshore School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Northshore School DistrictDuty Title = Secondary Teacher.png "Northshore School District All Secondary Teachers Compensation")
 
+[Northshore School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Northshore School DistrictDuty Title = Elem. Homeroom Teacher.png "Northshore School District All Elementary Teachers Compensation")
+
 
 ___
 

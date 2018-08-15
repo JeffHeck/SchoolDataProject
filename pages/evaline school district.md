@@ -18,6 +18,8 @@ ___
 
 [Evaline School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Evaline Highlighted.png "Evaline School District Teachers Average Total Salary")
 
+[Evaline School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Evaline School DistrictDuty Title = Elem. Homeroom Teacher.png "Evaline School District All Elementary Teachers Compensation")
+
 
 ___
 

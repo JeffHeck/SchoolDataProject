@@ -27,6 +27,8 @@ ___
 
 [Curlew School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Curlew School DistrictDuty Title = Secondary Teacher.png "Curlew School District All Secondary Teachers Compensation")
 
+[Curlew School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Curlew School DistrictDuty Title = Elem. Homeroom Teacher.png "Curlew School District All Elementary Teachers Compensation")
+
 
 ___
 

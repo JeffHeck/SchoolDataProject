@@ -29,6 +29,8 @@ ___
 
 [Pe Ell School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Pe Ell School DistrictDuty Title = Secondary Teacher.png "Pe Ell School District All Secondary Teachers Compensation")
 
+[Pe Ell School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Pe Ell School DistrictDuty Title = Elem. Homeroom Teacher.png "Pe Ell School District All Elementary Teachers Compensation")
+
 
 ___
 

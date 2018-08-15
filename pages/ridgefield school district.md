@@ -27,6 +27,8 @@ ___
 
 [Ridgefield School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Ridgefield School DistrictDuty Title = Secondary Teacher.png "Ridgefield School District All Secondary Teachers Compensation")
 
+[Ridgefield School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ridgefield School DistrictDuty Title = Elem. Homeroom Teacher.png "Ridgefield School District All Elementary Teachers Compensation")
+
 
 ___
 
