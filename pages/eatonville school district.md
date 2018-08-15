@@ -29,6 +29,8 @@ ___
 
 [Eatonville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Eatonville School DistrictDuty Title = Elem. Homeroom Teacher.png "Eatonville School District All Elementary Teachers Compensation")
 
+[Eatonville School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Eatonville SD in Current DollarsDuty Title = Secondary Teacher.png "Eatonville School District Secondary Teachers Historical Compensation")
+
 [Eatonville School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Eatonville SD in Current DollarsDuty Title = Elementary Teacher.png "Eatonville School District Elementary Teachers Historical Compensation")
 
 

@@ -29,6 +29,8 @@ ___
 
 [Glenwood School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Glenwood School DistrictDuty Title = Elem. Homeroom Teacher.png "Glenwood School District All Elementary Teachers Compensation")
 
+[Glenwood School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Glenwood SD in Current DollarsDuty Title = Secondary Teacher.png "Glenwood School District Secondary Teachers Historical Compensation")
+
 [Glenwood School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Glenwood SD in Current DollarsDuty Title = Elementary Teacher.png "Glenwood School District Elementary Teachers Historical Compensation")
 
 

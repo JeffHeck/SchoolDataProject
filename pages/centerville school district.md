@@ -22,6 +22,8 @@ ___
 
 [Centerville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Centerville School DistrictDuty Title = Elem. Homeroom Teacher.png "Centerville School District All Elementary Teachers Compensation")
 
+[Centerville School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Centerville SD in Current DollarsDuty Title = Secondary Teacher.png "Centerville School District Secondary Teachers Historical Compensation")
+
 [Centerville School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Centerville SD in Current DollarsDuty Title = Elementary Teacher.png "Centerville School District Elementary Teachers Historical Compensation")
 
 

@@ -31,6 +31,8 @@ ___
 
 [Naselle-Grays River Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Naselle-Grays River Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Naselle-Grays River Valley School District All Elementary Teachers Compensation")
 
+[Naselle-Grays River Valley School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Naselle-Grays River Valley SD in Current DollarsDuty Title = Secondary Teacher.png "Naselle-Grays River Valley School District Secondary Teachers Historical Compensation")
+
 [Naselle-Grays River Valley School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Naselle-Grays River Valley SD in Current DollarsDuty Title = Elementary Teacher.png "Naselle-Grays River Valley School District Elementary Teachers Historical Compensation")
 
 

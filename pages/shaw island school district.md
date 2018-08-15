@@ -20,6 +20,8 @@ ___
 
 [Shaw Island School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Shaw Island School DistrictDuty Title = Elem. Homeroom Teacher.png "Shaw Island School District All Elementary Teachers Compensation")
 
+[Shaw Island School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Shaw Island SD in Current DollarsDuty Title = Secondary Teacher.png "Shaw Island School District Secondary Teachers Historical Compensation")
+
 [Shaw Island School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Shaw Island SD in Current DollarsDuty Title = Elementary Teacher.png "Shaw Island School District Elementary Teachers Historical Compensation")
 
 

@@ -31,6 +31,8 @@ ___
 
 [Mount Baker School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mount Baker School DistrictDuty Title = Elem. Homeroom Teacher.png "Mount Baker School District All Elementary Teachers Compensation")
 
+[Mount Baker School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mount Baker SD in Current DollarsDuty Title = Secondary Teacher.png "Mount Baker School District Secondary Teachers Historical Compensation")
+
 [Mount Baker School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mount Baker SD in Current DollarsDuty Title = Elementary Teacher.png "Mount Baker School District Elementary Teachers Historical Compensation")
 
 

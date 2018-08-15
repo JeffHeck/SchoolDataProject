@@ -31,6 +31,8 @@ ___
 
 [Bridgeport School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Bridgeport School DistrictDuty Title = Elem. Homeroom Teacher.png "Bridgeport School District All Elementary Teachers Compensation")
 
+[Bridgeport School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Bridgeport SD in Current DollarsDuty Title = Secondary Teacher.png "Bridgeport School District Secondary Teachers Historical Compensation")
+
 [Bridgeport School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Bridgeport SD in Current DollarsDuty Title = Elementary Teacher.png "Bridgeport School District Elementary Teachers Historical Compensation")
 
 

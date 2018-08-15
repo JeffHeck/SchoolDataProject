@@ -33,6 +33,8 @@ ___
 
 [Sequim School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Sequim School DistrictDuty Title = Elem. Homeroom Teacher.png "Sequim School District All Elementary Teachers Compensation")
 
+[Sequim School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Sequim SD in Current DollarsDuty Title = Secondary Teacher.png "Sequim School District Secondary Teachers Historical Compensation")
+
 [Sequim School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Sequim SD in Current DollarsDuty Title = Elementary Teacher.png "Sequim School District Elementary Teachers Historical Compensation")
 
 

@@ -31,6 +31,8 @@ ___
 
 [Northport School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Northport School DistrictDuty Title = Elem. Homeroom Teacher.png "Northport School District All Elementary Teachers Compensation")
 
+[Northport School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Northport SD in Current DollarsDuty Title = Secondary Teacher.png "Northport School District Secondary Teachers Historical Compensation")
+
 [Northport School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Northport SD in Current DollarsDuty Title = Elementary Teacher.png "Northport School District Elementary Teachers Historical Compensation")
 
 

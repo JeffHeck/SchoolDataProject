@@ -29,6 +29,8 @@ ___
 
 [Ocosta School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ocosta School DistrictDuty Title = Elem. Homeroom Teacher.png "Ocosta School District All Elementary Teachers Compensation")
 
+[Ocosta School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Ocosta SD in Current DollarsDuty Title = Secondary Teacher.png "Ocosta School District Secondary Teachers Historical Compensation")
+
 [Ocosta School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Ocosta SD in Current DollarsDuty Title = Elementary Teacher.png "Ocosta School District Elementary Teachers Historical Compensation")
 
 

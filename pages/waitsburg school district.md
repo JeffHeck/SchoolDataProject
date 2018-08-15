@@ -29,6 +29,8 @@ ___
 
 [Waitsburg School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Waitsburg School DistrictDuty Title = Elem. Homeroom Teacher.png "Waitsburg School District All Elementary Teachers Compensation")
 
+[Waitsburg School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Waitsburg SD in Current DollarsDuty Title = Secondary Teacher.png "Waitsburg School District Secondary Teachers Historical Compensation")
+
 [Waitsburg School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Waitsburg SD in Current DollarsDuty Title = Elementary Teacher.png "Waitsburg School District Elementary Teachers Historical Compensation")
 
 

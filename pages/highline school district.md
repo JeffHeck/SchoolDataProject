@@ -57,6 +57,8 @@ ___
 
 [Highline School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Highline School DistrictDuty Title = Elem. Homeroom Teacher.png "Highline School District All Elementary Teachers Compensation")
 
+[Highline School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Highline SD in Current DollarsDuty Title = Secondary Teacher.png "Highline School District Secondary Teachers Historical Compensation")
+
 [Highline School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Highline SD in Current DollarsDuty Title = Elementary Teacher.png "Highline School District Elementary Teachers Historical Compensation")
 
 

@@ -29,6 +29,8 @@ ___
 
 [Stevenson-Carson School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Stevenson-Carson School DistrictDuty Title = Elem. Homeroom Teacher.png "Stevenson-Carson School District All Elementary Teachers Compensation")
 
+[Stevenson-Carson School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stevenson-Carson SD in Current DollarsDuty Title = Secondary Teacher.png "Stevenson-Carson School District Secondary Teachers Historical Compensation")
+
 [Stevenson-Carson School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stevenson-Carson SD in Current DollarsDuty Title = Elementary Teacher.png "Stevenson-Carson School District Elementary Teachers Historical Compensation")
 
 

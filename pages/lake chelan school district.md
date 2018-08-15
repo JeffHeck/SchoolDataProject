@@ -33,6 +33,8 @@ ___
 
 [Lake Chelan School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lake Chelan School DistrictDuty Title = Elem. Homeroom Teacher.png "Lake Chelan School District All Elementary Teachers Compensation")
 
+[Lake Chelan School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lake Chelan SD in Current DollarsDuty Title = Secondary Teacher.png "Lake Chelan School District Secondary Teachers Historical Compensation")
+
 [Lake Chelan School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lake Chelan SD in Current DollarsDuty Title = Elementary Teacher.png "Lake Chelan School District Elementary Teachers Historical Compensation")
 
 

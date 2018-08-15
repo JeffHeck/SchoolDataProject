@@ -33,6 +33,8 @@ ___
 
 [Okanogan School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Okanogan School DistrictDuty Title = Elem. Homeroom Teacher.png "Okanogan School District All Elementary Teachers Compensation")
 
+[Okanogan School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Okanogan SD in Current DollarsDuty Title = Secondary Teacher.png "Okanogan School District Secondary Teachers Historical Compensation")
+
 [Okanogan School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Okanogan SD in Current DollarsDuty Title = Elementary Teacher.png "Okanogan School District Elementary Teachers Historical Compensation")
 
 

@@ -31,6 +31,8 @@ ___
 
 [Tahoma School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tahoma School DistrictDuty Title = Elem. Homeroom Teacher.png "Tahoma School District All Elementary Teachers Compensation")
 
+[Tahoma School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Tahoma SD in Current DollarsDuty Title = Secondary Teacher.png "Tahoma School District Secondary Teachers Historical Compensation")
+
 [Tahoma School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Tahoma SD in Current DollarsDuty Title = Elementary Teacher.png "Tahoma School District Elementary Teachers Historical Compensation")
 
 

@@ -29,6 +29,8 @@ ___
 
 [Harrington School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Harrington School DistrictDuty Title = Elem. Homeroom Teacher.png "Harrington School District All Elementary Teachers Compensation")
 
+[Harrington School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Harrington SD in Current DollarsDuty Title = Secondary Teacher.png "Harrington School District Secondary Teachers Historical Compensation")
+
 [Harrington School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Harrington SD in Current DollarsDuty Title = Elementary Teacher.png "Harrington School District Elementary Teachers Historical Compensation")
 
 

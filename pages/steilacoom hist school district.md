@@ -30,6 +30,8 @@ ___
 
 [Steilacoom Hist School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Steilacoom Hist School DistrictDuty Title = Elem. Homeroom Teacher.png "Steilacoom Hist School District All Elementary Teachers Compensation")
 
+[Steilacoom Hist School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Steilacoom Hist SD in Current DollarsDuty Title = Secondary Teacher.png "Steilacoom Hist School District Secondary Teachers Historical Compensation")
+
 [Steilacoom Hist School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Steilacoom Hist SD in Current DollarsDuty Title = Elementary Teacher.png "Steilacoom Hist School District Elementary Teachers Historical Compensation")
 
 

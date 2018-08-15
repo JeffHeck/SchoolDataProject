@@ -39,6 +39,8 @@ ___
 
 [Mead School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mead School DistrictDuty Title = Elem. Homeroom Teacher.png "Mead School District All Elementary Teachers Compensation")
 
+[Mead School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mead SD in Current DollarsDuty Title = Secondary Teacher.png "Mead School District Secondary Teachers Historical Compensation")
+
 [Mead School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mead SD in Current DollarsDuty Title = Elementary Teacher.png "Mead School District Elementary Teachers Historical Compensation")
 
 

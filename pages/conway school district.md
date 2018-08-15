@@ -22,6 +22,8 @@ ___
 
 [Conway School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Conway School DistrictDuty Title = Elem. Homeroom Teacher.png "Conway School District All Elementary Teachers Compensation")
 
+[Conway School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Conway SD in Current DollarsDuty Title = Secondary Teacher.png "Conway School District Secondary Teachers Historical Compensation")
+
 [Conway School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Conway SD in Current DollarsDuty Title = Elementary Teacher.png "Conway School District Elementary Teachers Historical Compensation")
 
 

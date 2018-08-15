@@ -31,6 +31,8 @@ ___
 
 [Eastmont School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Eastmont School DistrictDuty Title = Elem. Homeroom Teacher.png "Eastmont School District All Elementary Teachers Compensation")
 
+[Eastmont School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Eastmont SD in Current DollarsDuty Title = Secondary Teacher.png "Eastmont School District Secondary Teachers Historical Compensation")
+
 [Eastmont School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Eastmont SD in Current DollarsDuty Title = Elementary Teacher.png "Eastmont School District Elementary Teachers Historical Compensation")
 
 

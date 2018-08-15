@@ -22,6 +22,8 @@ ___
 
 [Loon Lake School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Loon Lake School DistrictDuty Title = Elem. Homeroom Teacher.png "Loon Lake School District All Elementary Teachers Compensation")
 
+[Loon Lake School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Loon Lake SD in Current DollarsDuty Title = Secondary Teacher.png "Loon Lake School District Secondary Teachers Historical Compensation")
+
 [Loon Lake School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Loon Lake SD in Current DollarsDuty Title = Elementary Teacher.png "Loon Lake School District Elementary Teachers Historical Compensation")
 
 

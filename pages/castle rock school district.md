@@ -29,6 +29,8 @@ ___
 
 [Castle Rock School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Castle Rock School DistrictDuty Title = Elem. Homeroom Teacher.png "Castle Rock School District All Elementary Teachers Compensation")
 
+[Castle Rock School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Castle Rock SD in Current DollarsDuty Title = Secondary Teacher.png "Castle Rock School District Secondary Teachers Historical Compensation")
+
 [Castle Rock School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Castle Rock SD in Current DollarsDuty Title = Elementary Teacher.png "Castle Rock School District Elementary Teachers Historical Compensation")
 
 

@@ -29,6 +29,8 @@ ___
 
 [Kittitas School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kittitas School DistrictDuty Title = Elem. Homeroom Teacher.png "Kittitas School District All Elementary Teachers Compensation")
 
+[Kittitas School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kittitas SD in Current DollarsDuty Title = Secondary Teacher.png "Kittitas School District Secondary Teachers Historical Compensation")
+
 [Kittitas School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kittitas SD in Current DollarsDuty Title = Elementary Teacher.png "Kittitas School District Elementary Teachers Historical Compensation")
 
 

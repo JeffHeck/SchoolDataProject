@@ -22,6 +22,8 @@ ___
 
 [Lamont School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lamont School DistrictDuty Title = Elem. Homeroom Teacher.png "Lamont School District All Elementary Teachers Compensation")
 
+[Lamont School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lamont SD in Current DollarsDuty Title = Secondary Teacher.png "Lamont School District Secondary Teachers Historical Compensation")
+
 [Lamont School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lamont SD in Current DollarsDuty Title = Elementary Teacher.png "Lamont School District Elementary Teachers Historical Compensation")
 
 

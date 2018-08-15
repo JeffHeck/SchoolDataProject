@@ -29,6 +29,8 @@ ___
 
 [Wishkah Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Wishkah Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Wishkah Valley School District All Elementary Teachers Compensation")
 
+[Wishkah Valley School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Wishkah Valley SD in Current DollarsDuty Title = Secondary Teacher.png "Wishkah Valley School District Secondary Teachers Historical Compensation")
+
 [Wishkah Valley School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Wishkah Valley SD in Current DollarsDuty Title = Elementary Teacher.png "Wishkah Valley School District Elementary Teachers Historical Compensation")
 
 

@@ -33,6 +33,8 @@ ___
 
 [Quincy School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Quincy School DistrictDuty Title = Elem. Homeroom Teacher.png "Quincy School District All Elementary Teachers Compensation")
 
+[Quincy School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Quincy SD in Current DollarsDuty Title = Secondary Teacher.png "Quincy School District Secondary Teachers Historical Compensation")
+
 [Quincy School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Quincy SD in Current DollarsDuty Title = Elementary Teacher.png "Quincy School District Elementary Teachers Historical Compensation")
 
 

@@ -29,6 +29,8 @@ ___
 
 [Skykomish School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Skykomish School DistrictDuty Title = Elem. Homeroom Teacher.png "Skykomish School District All Elementary Teachers Compensation")
 
+[Skykomish School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Skykomish SD in Current DollarsDuty Title = Secondary Teacher.png "Skykomish School District Secondary Teachers Historical Compensation")
+
 [Skykomish School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Skykomish SD in Current DollarsDuty Title = Elementary Teacher.png "Skykomish School District Elementary Teachers Historical Compensation")
 
 

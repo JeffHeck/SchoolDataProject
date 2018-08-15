@@ -33,6 +33,8 @@ ___
 
 [Stanwood-Camano School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Stanwood-Camano School DistrictDuty Title = Elem. Homeroom Teacher.png "Stanwood-Camano School District All Elementary Teachers Compensation")
 
+[Stanwood-Camano School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Secondary Teacher.png "Stanwood-Camano School District Secondary Teachers Historical Compensation")
+
 [Stanwood-Camano School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Elementary Teacher.png "Stanwood-Camano School District Elementary Teachers Historical Compensation")
 
 

@@ -33,6 +33,8 @@ ___
 
 [Lake Stevens School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lake Stevens School DistrictDuty Title = Elem. Homeroom Teacher.png "Lake Stevens School District All Elementary Teachers Compensation")
 
+[Lake Stevens School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lake Stevens SD in Current DollarsDuty Title = Secondary Teacher.png "Lake Stevens School District Secondary Teachers Historical Compensation")
+
 [Lake Stevens School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lake Stevens SD in Current DollarsDuty Title = Elementary Teacher.png "Lake Stevens School District Elementary Teachers Historical Compensation")
 
 

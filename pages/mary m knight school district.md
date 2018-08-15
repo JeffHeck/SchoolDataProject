@@ -29,6 +29,8 @@ ___
 
 [Mary M Knight School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mary M Knight School DistrictDuty Title = Elem. Homeroom Teacher.png "Mary M Knight School District All Elementary Teachers Compensation")
 
+[Mary M Knight School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mary M Knight SD in Current DollarsDuty Title = Secondary Teacher.png "Mary M Knight School District Secondary Teachers Historical Compensation")
+
 [Mary M Knight School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mary M Knight SD in Current DollarsDuty Title = Elementary Teacher.png "Mary M Knight School District Elementary Teachers Historical Compensation")
 
 

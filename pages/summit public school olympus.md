@@ -26,3 +26,5 @@ ___
 
 [Summit Public School Olympus Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Summit Public School Olympus School DistrictDuty Title = Secondary Teacher.png "Summit Public School Olympus All Secondary Teachers Compensation")
 
+[Summit Public School Olympus Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Summit Public School Olympus SD in Current DollarsDuty Title = Secondary Teacher.png "Summit Public School Olympus Secondary Teachers Historical Compensation")
+

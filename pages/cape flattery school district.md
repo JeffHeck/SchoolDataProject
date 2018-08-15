@@ -31,6 +31,8 @@ ___
 
 [Cape Flattery School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cape Flattery School DistrictDuty Title = Elem. Homeroom Teacher.png "Cape Flattery School District All Elementary Teachers Compensation")
 
+[Cape Flattery School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Cape Flattery SD in Current DollarsDuty Title = Secondary Teacher.png "Cape Flattery School District Secondary Teachers Historical Compensation")
+
 [Cape Flattery School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Cape Flattery SD in Current DollarsDuty Title = Elementary Teacher.png "Cape Flattery School District Elementary Teachers Historical Compensation")
 
 

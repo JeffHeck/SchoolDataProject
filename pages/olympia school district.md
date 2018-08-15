@@ -35,6 +35,8 @@ ___
 
 [Olympia School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Olympia School DistrictDuty Title = Elem. Homeroom Teacher.png "Olympia School District All Elementary Teachers Compensation")
 
+[Olympia School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Olympia SD in Current DollarsDuty Title = Secondary Teacher.png "Olympia School District Secondary Teachers Historical Compensation")
+
 [Olympia School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Olympia SD in Current DollarsDuty Title = Elementary Teacher.png "Olympia School District Elementary Teachers Historical Compensation")
 
 

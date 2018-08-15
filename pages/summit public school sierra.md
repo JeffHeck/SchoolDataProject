@@ -26,3 +26,5 @@ ___
 
 [Summit Public School Sierra Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Summit Public School Sierra School DistrictDuty Title = Secondary Teacher.png "Summit Public School Sierra All Secondary Teachers Compensation")
 
+[Summit Public School Sierra Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Summit Public School Sierra SD in Current DollarsDuty Title = Secondary Teacher.png "Summit Public School Sierra Secondary Teachers Historical Compensation")
+

@@ -33,6 +33,8 @@ ___
 
 [South Bend School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the South Bend School DistrictDuty Title = Elem. Homeroom Teacher.png "South Bend School District All Elementary Teachers Compensation")
 
+[South Bend School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the South Bend SD in Current DollarsDuty Title = Secondary Teacher.png "South Bend School District Secondary Teachers Historical Compensation")
+
 [South Bend School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the South Bend SD in Current DollarsDuty Title = Elementary Teacher.png "South Bend School District Elementary Teachers Historical Compensation")
 
 

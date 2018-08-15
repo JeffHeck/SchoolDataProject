@@ -31,6 +31,8 @@ ___
 
 [Winlock School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Winlock School DistrictDuty Title = Elem. Homeroom Teacher.png "Winlock School District All Elementary Teachers Compensation")
 
+[Winlock School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Winlock SD in Current DollarsDuty Title = Secondary Teacher.png "Winlock School District Secondary Teachers Historical Compensation")
+
 [Winlock School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Winlock SD in Current DollarsDuty Title = Elementary Teacher.png "Winlock School District Elementary Teachers Historical Compensation")
 
 

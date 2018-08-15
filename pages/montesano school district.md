@@ -29,6 +29,8 @@ ___
 
 [Montesano School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Montesano School DistrictDuty Title = Elem. Homeroom Teacher.png "Montesano School District All Elementary Teachers Compensation")
 
+[Montesano School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Montesano SD in Current DollarsDuty Title = Secondary Teacher.png "Montesano School District Secondary Teachers Historical Compensation")
+
 [Montesano School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Montesano SD in Current DollarsDuty Title = Elementary Teacher.png "Montesano School District Elementary Teachers Historical Compensation")
 
 

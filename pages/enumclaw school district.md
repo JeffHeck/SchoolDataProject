@@ -33,6 +33,8 @@ ___
 
 [Enumclaw School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Enumclaw School DistrictDuty Title = Elem. Homeroom Teacher.png "Enumclaw School District All Elementary Teachers Compensation")
 
+[Enumclaw School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Enumclaw SD in Current DollarsDuty Title = Secondary Teacher.png "Enumclaw School District Secondary Teachers Historical Compensation")
+
 [Enumclaw School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Enumclaw SD in Current DollarsDuty Title = Elementary Teacher.png "Enumclaw School District Elementary Teachers Historical Compensation")
 
 

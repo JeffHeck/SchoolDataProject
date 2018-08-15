@@ -31,6 +31,8 @@ ___
 
 [North Franklin School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the North Franklin School DistrictDuty Title = Elem. Homeroom Teacher.png "North Franklin School District All Elementary Teachers Compensation")
 
+[North Franklin School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the North Franklin SD in Current DollarsDuty Title = Secondary Teacher.png "North Franklin School District Secondary Teachers Historical Compensation")
+
 [North Franklin School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the North Franklin SD in Current DollarsDuty Title = Elementary Teacher.png "North Franklin School District Elementary Teachers Historical Compensation")
 
 

@@ -31,6 +31,8 @@ ___
 
 [Chehalis School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Chehalis School DistrictDuty Title = Elem. Homeroom Teacher.png "Chehalis School District All Elementary Teachers Compensation")
 
+[Chehalis School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Chehalis SD in Current DollarsDuty Title = Secondary Teacher.png "Chehalis School District Secondary Teachers Historical Compensation")
+
 [Chehalis School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Chehalis SD in Current DollarsDuty Title = Elementary Teacher.png "Chehalis School District Elementary Teachers Historical Compensation")
 
 

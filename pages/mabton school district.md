@@ -29,6 +29,8 @@ ___
 
 [Mabton School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mabton School DistrictDuty Title = Elem. Homeroom Teacher.png "Mabton School District All Elementary Teachers Compensation")
 
+[Mabton School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mabton SD in Current DollarsDuty Title = Secondary Teacher.png "Mabton School District Secondary Teachers Historical Compensation")
+
 [Mabton School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mabton SD in Current DollarsDuty Title = Elementary Teacher.png "Mabton School District Elementary Teachers Historical Compensation")
 
 

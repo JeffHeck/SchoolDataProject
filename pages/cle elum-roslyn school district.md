@@ -31,6 +31,8 @@ ___
 
 [Cle Elum-Roslyn School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cle Elum-Roslyn School DistrictDuty Title = Elem. Homeroom Teacher.png "Cle Elum-Roslyn School District All Elementary Teachers Compensation")
 
+[Cle Elum-Roslyn School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Cle Elum-Roslyn SD in Current DollarsDuty Title = Secondary Teacher.png "Cle Elum-Roslyn School District Secondary Teachers Historical Compensation")
+
 [Cle Elum-Roslyn School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Cle Elum-Roslyn SD in Current DollarsDuty Title = Elementary Teacher.png "Cle Elum-Roslyn School District Elementary Teachers Historical Compensation")
 
 

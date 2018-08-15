@@ -53,6 +53,8 @@ ___
 
 [Tacoma School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tacoma School DistrictDuty Title = Elem. Homeroom Teacher.png "Tacoma School District All Elementary Teachers Compensation")
 
+[Tacoma School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Tacoma SD in Current DollarsDuty Title = Secondary Teacher.png "Tacoma School District Secondary Teachers Historical Compensation")
+
 [Tacoma School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Tacoma SD in Current DollarsDuty Title = Elementary Teacher.png "Tacoma School District Elementary Teachers Historical Compensation")
 
 

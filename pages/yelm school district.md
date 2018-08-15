@@ -35,6 +35,8 @@ ___
 
 [Yelm School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Yelm School DistrictDuty Title = Elem. Homeroom Teacher.png "Yelm School District All Elementary Teachers Compensation")
 
+[Yelm School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Yelm SD in Current DollarsDuty Title = Secondary Teacher.png "Yelm School District Secondary Teachers Historical Compensation")
+
 [Yelm School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Yelm SD in Current DollarsDuty Title = Elementary Teacher.png "Yelm School District Elementary Teachers Historical Compensation")
 
 

@@ -29,6 +29,8 @@ ___
 
 [Entiat School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Entiat School DistrictDuty Title = Elem. Homeroom Teacher.png "Entiat School District All Elementary Teachers Compensation")
 
+[Entiat School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Entiat SD in Current DollarsDuty Title = Secondary Teacher.png "Entiat School District Secondary Teachers Historical Compensation")
+
 [Entiat School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Entiat SD in Current DollarsDuty Title = Elementary Teacher.png "Entiat School District Elementary Teachers Historical Compensation")
 
 

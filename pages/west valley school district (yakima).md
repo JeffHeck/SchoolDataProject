@@ -31,6 +31,8 @@ ___
 
 [West Valley School District (Yakima) Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the West Valley (Yakima) School DistrictDuty Title = Elem. Homeroom Teacher.png "West Valley School District (Yakima) All Elementary Teachers Compensation")
 
+[West Valley School District (Yakima) Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the West Valley (Yakima) SD in Current DollarsDuty Title = Secondary Teacher.png "West Valley School District (Yakima) Secondary Teachers Historical Compensation")
+
 [West Valley School District (Yakima) Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the West Valley (Yakima) SD in Current DollarsDuty Title = Elementary Teacher.png "West Valley School District (Yakima) Elementary Teachers Historical Compensation")
 
 

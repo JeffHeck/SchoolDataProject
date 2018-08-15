@@ -29,6 +29,8 @@ ___
 
 [Willapa Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Willapa Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Willapa Valley School District All Elementary Teachers Compensation")
 
+[Willapa Valley School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Willapa Valley SD in Current DollarsDuty Title = Secondary Teacher.png "Willapa Valley School District Secondary Teachers Historical Compensation")
+
 [Willapa Valley School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Willapa Valley SD in Current DollarsDuty Title = Elementary Teacher.png "Willapa Valley School District Elementary Teachers Historical Compensation")
 
 

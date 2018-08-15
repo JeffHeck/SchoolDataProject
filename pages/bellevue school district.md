@@ -41,6 +41,8 @@ ___
 
 [Bellevue School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Bellevue School DistrictDuty Title = Elem. Homeroom Teacher.png "Bellevue School District All Elementary Teachers Compensation")
 
+[Bellevue School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Bellevue SD in Current DollarsDuty Title = Secondary Teacher.png "Bellevue School District Secondary Teachers Historical Compensation")
+
 [Bellevue School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Bellevue SD in Current DollarsDuty Title = Elementary Teacher.png "Bellevue School District Elementary Teachers Historical Compensation")
 
 

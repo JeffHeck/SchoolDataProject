@@ -29,6 +29,8 @@ ___
 
 [Kalama School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kalama School DistrictDuty Title = Elem. Homeroom Teacher.png "Kalama School District All Elementary Teachers Compensation")
 
+[Kalama School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kalama SD in Current DollarsDuty Title = Secondary Teacher.png "Kalama School District Secondary Teachers Historical Compensation")
+
 [Kalama School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kalama SD in Current DollarsDuty Title = Elementary Teacher.png "Kalama School District Elementary Teachers Historical Compensation")
 
 

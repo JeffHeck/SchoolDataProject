@@ -31,6 +31,8 @@ ___
 
 [Anacortes School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Anacortes School DistrictDuty Title = Elem. Homeroom Teacher.png "Anacortes School District All Elementary Teachers Compensation")
 
+[Anacortes School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Anacortes SD in Current DollarsDuty Title = Secondary Teacher.png "Anacortes School District Secondary Teachers Historical Compensation")
+
 [Anacortes School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Anacortes SD in Current DollarsDuty Title = Elementary Teacher.png "Anacortes School District Elementary Teachers Historical Compensation")
 
 

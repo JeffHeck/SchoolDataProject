@@ -27,3 +27,5 @@ ___
 
 [Suquamish Tribal Education Department Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Suquamish Tribal Education Department School DistrictDuty Title = Secondary Teacher.png "Suquamish Tribal Education Department All Secondary Teachers Compensation")
 
+[Suquamish Tribal Education Department Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Suquamish Tribal Education Department SD in Current DollarsDuty Title = Secondary Teacher.png "Suquamish Tribal Education Department Secondary Teachers Historical Compensation")
+

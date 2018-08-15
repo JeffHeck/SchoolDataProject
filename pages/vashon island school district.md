@@ -33,6 +33,8 @@ ___
 
 [Vashon Island School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Vashon Island School DistrictDuty Title = Elem. Homeroom Teacher.png "Vashon Island School District All Elementary Teachers Compensation")
 
+[Vashon Island School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Vashon Island SD in Current DollarsDuty Title = Secondary Teacher.png "Vashon Island School District Secondary Teachers Historical Compensation")
+
 [Vashon Island School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Vashon Island SD in Current DollarsDuty Title = Elementary Teacher.png "Vashon Island School District Elementary Teachers Historical Compensation")
 
 

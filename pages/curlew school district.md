@@ -29,6 +29,8 @@ ___
 
 [Curlew School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Curlew School DistrictDuty Title = Elem. Homeroom Teacher.png "Curlew School District All Elementary Teachers Compensation")
 
+[Curlew School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Curlew SD in Current DollarsDuty Title = Secondary Teacher.png "Curlew School District Secondary Teachers Historical Compensation")
+
 [Curlew School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Curlew SD in Current DollarsDuty Title = Elementary Teacher.png "Curlew School District Elementary Teachers Historical Compensation")
 
 

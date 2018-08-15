@@ -29,6 +29,8 @@ ___
 
 [Inchelium School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Inchelium School DistrictDuty Title = Elem. Homeroom Teacher.png "Inchelium School District All Elementary Teachers Compensation")
 
+[Inchelium School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Inchelium SD in Current DollarsDuty Title = Secondary Teacher.png "Inchelium School District Secondary Teachers Historical Compensation")
+
 [Inchelium School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Inchelium SD in Current DollarsDuty Title = Elementary Teacher.png "Inchelium School District Elementary Teachers Historical Compensation")
 
 

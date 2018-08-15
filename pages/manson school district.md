@@ -29,6 +29,8 @@ ___
 
 [Manson School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Manson School DistrictDuty Title = Elem. Homeroom Teacher.png "Manson School District All Elementary Teachers Compensation")
 
+[Manson School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Manson SD in Current DollarsDuty Title = Secondary Teacher.png "Manson School District Secondary Teachers Historical Compensation")
+
 [Manson School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Manson SD in Current DollarsDuty Title = Elementary Teacher.png "Manson School District Elementary Teachers Historical Compensation")
 
 

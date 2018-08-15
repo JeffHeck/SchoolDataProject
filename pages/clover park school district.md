@@ -39,6 +39,8 @@ ___
 
 [Clover Park School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Clover Park School DistrictDuty Title = Elem. Homeroom Teacher.png "Clover Park School District All Elementary Teachers Compensation")
 
+[Clover Park School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Clover Park SD in Current DollarsDuty Title = Secondary Teacher.png "Clover Park School District Secondary Teachers Historical Compensation")
+
 [Clover Park School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Clover Park SD in Current DollarsDuty Title = Elementary Teacher.png "Clover Park School District Elementary Teachers Historical Compensation")
 
 

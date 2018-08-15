@@ -33,6 +33,8 @@ ___
 
 [East Valley School District (Spokane) Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the East Valley (Spokane) School DistrictDuty Title = Elem. Homeroom Teacher.png "East Valley School District (Spokane) All Elementary Teachers Compensation")
 
+[East Valley School District (Spokane) Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the East Valley (Spokane) SD in Current DollarsDuty Title = Secondary Teacher.png "East Valley School District (Spokane) Secondary Teachers Historical Compensation")
+
 [East Valley School District (Spokane) Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the East Valley (Spokane) SD in Current DollarsDuty Title = Elementary Teacher.png "East Valley School District (Spokane) Elementary Teachers Historical Compensation")
 
 

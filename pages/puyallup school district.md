@@ -53,6 +53,8 @@ ___
 
 [Puyallup School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Puyallup School DistrictDuty Title = Elem. Homeroom Teacher.png "Puyallup School District All Elementary Teachers Compensation")
 
+[Puyallup School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Puyallup SD in Current DollarsDuty Title = Secondary Teacher.png "Puyallup School District Secondary Teachers Historical Compensation")
+
 [Puyallup School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Puyallup SD in Current DollarsDuty Title = Elementary Teacher.png "Puyallup School District Elementary Teachers Historical Compensation")
 
 

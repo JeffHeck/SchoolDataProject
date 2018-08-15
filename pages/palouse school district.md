@@ -29,6 +29,8 @@ ___
 
 [Palouse School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Palouse School DistrictDuty Title = Elem. Homeroom Teacher.png "Palouse School District All Elementary Teachers Compensation")
 
+[Palouse School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Palouse SD in Current DollarsDuty Title = Secondary Teacher.png "Palouse School District Secondary Teachers Historical Compensation")
+
 [Palouse School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Palouse SD in Current DollarsDuty Title = Elementary Teacher.png "Palouse School District Elementary Teachers Historical Compensation")
 
 

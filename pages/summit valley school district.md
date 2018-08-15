@@ -22,6 +22,8 @@ ___
 
 [Summit Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Summit Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Summit Valley School District All Elementary Teachers Compensation")
 
+[Summit Valley School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Summit Valley SD in Current DollarsDuty Title = Secondary Teacher.png "Summit Valley School District Secondary Teachers Historical Compensation")
+
 [Summit Valley School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Summit Valley SD in Current DollarsDuty Title = Elementary Teacher.png "Summit Valley School District Elementary Teachers Historical Compensation")
 
 

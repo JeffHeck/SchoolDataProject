@@ -29,6 +29,8 @@ ___
 
 [College Place School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the College Place School DistrictDuty Title = Elem. Homeroom Teacher.png "College Place School District All Elementary Teachers Compensation")
 
+[College Place School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the College Place SD in Current DollarsDuty Title = Secondary Teacher.png "College Place School District Secondary Teachers Historical Compensation")
+
 [College Place School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the College Place SD in Current DollarsDuty Title = Elementary Teacher.png "College Place School District Elementary Teachers Historical Compensation")
 
 

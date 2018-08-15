@@ -35,6 +35,8 @@ ___
 
 [Richland School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Richland School DistrictDuty Title = Elem. Homeroom Teacher.png "Richland School District All Elementary Teachers Compensation")
 
+[Richland School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Richland SD in Current DollarsDuty Title = Secondary Teacher.png "Richland School District Secondary Teachers Historical Compensation")
+
 [Richland School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Richland SD in Current DollarsDuty Title = Elementary Teacher.png "Richland School District Elementary Teachers Historical Compensation")
 
 

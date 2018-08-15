@@ -39,6 +39,8 @@ ___
 
 [South Kitsap School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the South Kitsap School DistrictDuty Title = Elem. Homeroom Teacher.png "South Kitsap School District All Elementary Teachers Compensation")
 
+[South Kitsap School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the South Kitsap SD in Current DollarsDuty Title = Secondary Teacher.png "South Kitsap School District Secondary Teachers Historical Compensation")
+
 [South Kitsap School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the South Kitsap SD in Current DollarsDuty Title = Elementary Teacher.png "South Kitsap School District Elementary Teachers Historical Compensation")
 
 

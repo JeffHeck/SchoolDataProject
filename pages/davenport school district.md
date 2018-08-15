@@ -29,6 +29,8 @@ ___
 
 [Davenport School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Davenport School DistrictDuty Title = Elem. Homeroom Teacher.png "Davenport School District All Elementary Teachers Compensation")
 
+[Davenport School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Davenport SD in Current DollarsDuty Title = Secondary Teacher.png "Davenport School District Secondary Teachers Historical Compensation")
+
 [Davenport School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Davenport SD in Current DollarsDuty Title = Elementary Teacher.png "Davenport School District Elementary Teachers Historical Compensation")
 
 

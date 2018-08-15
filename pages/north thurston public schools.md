@@ -35,6 +35,8 @@ ___
 
 [North Thurston Public Schools Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the North Thurston School DistrictDuty Title = Elem. Homeroom Teacher.png "North Thurston Public Schools All Elementary Teachers Compensation")
 
+[North Thurston Public Schools Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the North Thurston SD in Current DollarsDuty Title = Secondary Teacher.png "North Thurston Public Schools Secondary Teachers Historical Compensation")
+
 [North Thurston Public Schools Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the North Thurston SD in Current DollarsDuty Title = Elementary Teacher.png "North Thurston Public Schools Elementary Teachers Historical Compensation")
 
 

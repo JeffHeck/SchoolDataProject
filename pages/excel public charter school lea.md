@@ -20,3 +20,5 @@ ___
 
 [Excel Public Charter School LEA Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Excel Public Charter School LEA School DistrictDuty Title = Secondary Teacher.png "Excel Public Charter School LEA All Secondary Teachers Compensation")
 
+[Excel Public Charter School LEA Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Excel Public Charter School LEA SD in Current DollarsDuty Title = Secondary Teacher.png "Excel Public Charter School LEA Secondary Teachers Historical Compensation")
+

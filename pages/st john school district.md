@@ -28,6 +28,8 @@ ___
 
 [St John School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the St John School DistrictDuty Title = Elem. Homeroom Teacher.png "St John School District All Elementary Teachers Compensation")
 
+[St John School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the St John SD in Current DollarsDuty Title = Secondary Teacher.png "St John School District Secondary Teachers Historical Compensation")
+
 [St John School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the St John SD in Current DollarsDuty Title = Elementary Teacher.png "St John School District Elementary Teachers Historical Compensation")
 
 

@@ -22,6 +22,8 @@ ___
 
 [Boistfort School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Boistfort School DistrictDuty Title = Elem. Homeroom Teacher.png "Boistfort School District All Elementary Teachers Compensation")
 
+[Boistfort School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Boistfort SD in Current DollarsDuty Title = Secondary Teacher.png "Boistfort School District Secondary Teachers Historical Compensation")
+
 [Boistfort School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Boistfort SD in Current DollarsDuty Title = Elementary Teacher.png "Boistfort School District Elementary Teachers Historical Compensation")
 
 

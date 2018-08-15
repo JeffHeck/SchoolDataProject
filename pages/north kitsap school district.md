@@ -35,6 +35,8 @@ ___
 
 [North Kitsap School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the North Kitsap School DistrictDuty Title = Elem. Homeroom Teacher.png "North Kitsap School District All Elementary Teachers Compensation")
 
+[North Kitsap School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the North Kitsap SD in Current DollarsDuty Title = Secondary Teacher.png "North Kitsap School District Secondary Teachers Historical Compensation")
+
 [North Kitsap School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the North Kitsap SD in Current DollarsDuty Title = Elementary Teacher.png "North Kitsap School District Elementary Teachers Historical Compensation")
 
 

@@ -22,6 +22,8 @@ ___
 
 [Spokane International Academy Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Spokane International Academy School DistrictDuty Title = Elem. Homeroom Teacher.png "Spokane International Academy All Elementary Teachers Compensation")
 
+[Spokane International Academy Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Spokane International Academy SD in Current DollarsDuty Title = Secondary Teacher.png "Spokane International Academy Secondary Teachers Historical Compensation")
+
 [Spokane International Academy Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Spokane International Academy SD in Current DollarsDuty Title = Elementary Teacher.png "Spokane International Academy Elementary Teachers Historical Compensation")
 
 

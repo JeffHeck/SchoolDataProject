@@ -31,6 +31,8 @@ ___
 
 [Raymond School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Raymond School DistrictDuty Title = Elem. Homeroom Teacher.png "Raymond School District All Elementary Teachers Compensation")
 
+[Raymond School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Raymond SD in Current DollarsDuty Title = Secondary Teacher.png "Raymond School District Secondary Teachers Historical Compensation")
+
 [Raymond School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Raymond SD in Current DollarsDuty Title = Elementary Teacher.png "Raymond School District Elementary Teachers Historical Compensation")
 
 

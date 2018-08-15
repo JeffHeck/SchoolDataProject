@@ -35,6 +35,8 @@ ___
 
 [Walla Walla Public Schools Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Walla Walla School DistrictDuty Title = Elem. Homeroom Teacher.png "Walla Walla Public Schools All Elementary Teachers Compensation")
 
+[Walla Walla Public Schools Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Walla Walla SD in Current DollarsDuty Title = Secondary Teacher.png "Walla Walla Public Schools Secondary Teachers Historical Compensation")
+
 [Walla Walla Public Schools Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Walla Walla SD in Current DollarsDuty Title = Elementary Teacher.png "Walla Walla Public Schools Elementary Teachers Historical Compensation")
 
 

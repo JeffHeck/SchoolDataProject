@@ -22,6 +22,8 @@ ___
 
 [Starbuck School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Starbuck School DistrictDuty Title = Elem. Homeroom Teacher.png "Starbuck School District All Elementary Teachers Compensation")
 
+[Starbuck School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Starbuck SD in Current DollarsDuty Title = Secondary Teacher.png "Starbuck School District Secondary Teachers Historical Compensation")
+
 [Starbuck School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Starbuck SD in Current DollarsDuty Title = Elementary Teacher.png "Starbuck School District Elementary Teachers Historical Compensation")
 
 

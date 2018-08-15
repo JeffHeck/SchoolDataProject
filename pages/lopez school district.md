@@ -31,6 +31,8 @@ ___
 
 [Lopez School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lopez School DistrictDuty Title = Elem. Homeroom Teacher.png "Lopez School District All Elementary Teachers Compensation")
 
+[Lopez School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lopez SD in Current DollarsDuty Title = Secondary Teacher.png "Lopez School District Secondary Teachers Historical Compensation")
+
 [Lopez School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lopez SD in Current DollarsDuty Title = Elementary Teacher.png "Lopez School District Elementary Teachers Historical Compensation")
 
 

@@ -33,6 +33,8 @@ ___
 
 [Bremerton School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Bremerton School DistrictDuty Title = Elem. Homeroom Teacher.png "Bremerton School District All Elementary Teachers Compensation")
 
+[Bremerton School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Bremerton SD in Current DollarsDuty Title = Secondary Teacher.png "Bremerton School District Secondary Teachers Historical Compensation")
+
 [Bremerton School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Bremerton SD in Current DollarsDuty Title = Elementary Teacher.png "Bremerton School District Elementary Teachers Historical Compensation")
 
 

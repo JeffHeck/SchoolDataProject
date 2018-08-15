@@ -31,6 +31,8 @@ ___
 
 [Rochester School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Rochester School DistrictDuty Title = Elem. Homeroom Teacher.png "Rochester School District All Elementary Teachers Compensation")
 
+[Rochester School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Rochester SD in Current DollarsDuty Title = Secondary Teacher.png "Rochester School District Secondary Teachers Historical Compensation")
+
 [Rochester School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Rochester SD in Current DollarsDuty Title = Elementary Teacher.png "Rochester School District Elementary Teachers Historical Compensation")
 
 

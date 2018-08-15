@@ -29,6 +29,8 @@ ___
 
 [Kahlotus School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kahlotus School DistrictDuty Title = Elem. Homeroom Teacher.png "Kahlotus School District All Elementary Teachers Compensation")
 
+[Kahlotus School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kahlotus SD in Current DollarsDuty Title = Secondary Teacher.png "Kahlotus School District Secondary Teachers Historical Compensation")
+
 [Kahlotus School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kahlotus SD in Current DollarsDuty Title = Elementary Teacher.png "Kahlotus School District Elementary Teachers Historical Compensation")
 
 

@@ -29,6 +29,8 @@ ___
 
 [Tonasket School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tonasket School DistrictDuty Title = Elem. Homeroom Teacher.png "Tonasket School District All Elementary Teachers Compensation")
 
+[Tonasket School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Tonasket SD in Current DollarsDuty Title = Secondary Teacher.png "Tonasket School District Secondary Teachers Historical Compensation")
+
 [Tonasket School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Tonasket SD in Current DollarsDuty Title = Elementary Teacher.png "Tonasket School District Elementary Teachers Historical Compensation")
 
 

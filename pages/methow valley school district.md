@@ -31,6 +31,8 @@ ___
 
 [Methow Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Methow Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Methow Valley School District All Elementary Teachers Compensation")
 
+[Methow Valley School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Methow Valley SD in Current DollarsDuty Title = Secondary Teacher.png "Methow Valley School District Secondary Teachers Historical Compensation")
+
 [Methow Valley School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Methow Valley SD in Current DollarsDuty Title = Elementary Teacher.png "Methow Valley School District Elementary Teachers Historical Compensation")
 
 

@@ -20,6 +20,8 @@ ___
 
 [Mill A School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mill A School DistrictDuty Title = Elem. Homeroom Teacher.png "Mill A School District All Elementary Teachers Compensation")
 
+[Mill A School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mill A SD in Current DollarsDuty Title = Secondary Teacher.png "Mill A School District Secondary Teachers Historical Compensation")
+
 [Mill A School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mill A SD in Current DollarsDuty Title = Elementary Teacher.png "Mill A School District Elementary Teachers Historical Compensation")
 
 

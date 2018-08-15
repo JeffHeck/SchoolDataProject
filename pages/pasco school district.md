@@ -33,6 +33,8 @@ ___
 
 [Pasco School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Pasco School DistrictDuty Title = Elem. Homeroom Teacher.png "Pasco School District All Elementary Teachers Compensation")
 
+[Pasco School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Pasco SD in Current DollarsDuty Title = Secondary Teacher.png "Pasco School District Secondary Teachers Historical Compensation")
+
 [Pasco School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Pasco SD in Current DollarsDuty Title = Elementary Teacher.png "Pasco School District Elementary Teachers Historical Compensation")
 
 

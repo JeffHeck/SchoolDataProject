@@ -33,6 +33,8 @@ ___
 
 [Franklin Pierce School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Franklin Pierce School DistrictDuty Title = Elem. Homeroom Teacher.png "Franklin Pierce School District All Elementary Teachers Compensation")
 
+[Franklin Pierce School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Franklin Pierce SD in Current DollarsDuty Title = Secondary Teacher.png "Franklin Pierce School District Secondary Teachers Historical Compensation")
+
 [Franklin Pierce School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Franklin Pierce SD in Current DollarsDuty Title = Elementary Teacher.png "Franklin Pierce School District Elementary Teachers Historical Compensation")
 
 

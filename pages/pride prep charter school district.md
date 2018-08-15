@@ -20,6 +20,8 @@ ___
 
 [PRIDE Prep Charter School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the PRIDE Prep Charter School DistrictDuty Title = Secondary Teacher.png "PRIDE Prep Charter School District All Secondary Teachers Compensation")
 
+[PRIDE Prep Charter School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the PRIDE Prep Charter SD in Current DollarsDuty Title = Secondary Teacher.png "PRIDE Prep Charter School District Secondary Teachers Historical Compensation")
+
 
 ___
 

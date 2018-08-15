@@ -29,6 +29,8 @@ ___
 
 [Morton School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Morton School DistrictDuty Title = Elem. Homeroom Teacher.png "Morton School District All Elementary Teachers Compensation")
 
+[Morton School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Morton SD in Current DollarsDuty Title = Secondary Teacher.png "Morton School District Secondary Teachers Historical Compensation")
+
 [Morton School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Morton SD in Current DollarsDuty Title = Elementary Teacher.png "Morton School District Elementary Teachers Historical Compensation")
 
 

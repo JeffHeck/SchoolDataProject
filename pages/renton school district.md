@@ -43,6 +43,8 @@ ___
 
 [Renton School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Renton School DistrictDuty Title = Elem. Homeroom Teacher.png "Renton School District All Elementary Teachers Compensation")
 
+[Renton School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Renton SD in Current DollarsDuty Title = Secondary Teacher.png "Renton School District Secondary Teachers Historical Compensation")
+
 [Renton School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Renton SD in Current DollarsDuty Title = Elementary Teacher.png "Renton School District Elementary Teachers Historical Compensation")
 
 

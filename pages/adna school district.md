@@ -29,6 +29,8 @@ ___
 
 [Adna School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Adna School DistrictDuty Title = Elem. Homeroom Teacher.png "Adna School District All Elementary Teachers Compensation")
 
+[Adna School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Adna SD in Current DollarsDuty Title = Secondary Teacher.png "Adna School District Secondary Teachers Historical Compensation")
+
 [Adna School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Adna SD in Current DollarsDuty Title = Elementary Teacher.png "Adna School District Elementary Teachers Historical Compensation")
 
 

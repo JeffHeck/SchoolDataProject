@@ -33,6 +33,8 @@ ___
 
 [Issaquah School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Issaquah School DistrictDuty Title = Elem. Homeroom Teacher.png "Issaquah School District All Elementary Teachers Compensation")
 
+[Issaquah School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Issaquah SD in Current DollarsDuty Title = Secondary Teacher.png "Issaquah School District Secondary Teachers Historical Compensation")
+
 [Issaquah School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Issaquah SD in Current DollarsDuty Title = Elementary Teacher.png "Issaquah School District Elementary Teachers Historical Compensation")
 
 
