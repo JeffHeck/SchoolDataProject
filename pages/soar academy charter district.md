@@ -20,3 +20,5 @@ ___
 
 [SOAR Academy Charter District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the SOAR Academy Charter District School DistrictDuty Title = Elem. Homeroom Teacher.png "SOAR Academy Charter District All Elementary Teachers Compensation")
 
+[SOAR Academy Charter District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the SOAR Academy Charter District SD in Current DollarsDuty Title = Elementary Teacher.png "SOAR Academy Charter District Elementary Teachers Historical Compensation")
+

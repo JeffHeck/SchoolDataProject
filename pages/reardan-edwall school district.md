@@ -29,6 +29,8 @@ ___
 
 [Reardan-Edwall School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Reardan-Edwall School DistrictDuty Title = Elem. Homeroom Teacher.png "Reardan-Edwall School District All Elementary Teachers Compensation")
 
+[Reardan-Edwall School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Reardan-Edwall SD in Current DollarsDuty Title = Elementary Teacher.png "Reardan-Edwall School District Elementary Teachers Historical Compensation")
+
 
 ___
 

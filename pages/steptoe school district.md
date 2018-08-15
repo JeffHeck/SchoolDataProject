@@ -22,6 +22,8 @@ ___
 
 [Steptoe School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Steptoe School DistrictDuty Title = Elem. Homeroom Teacher.png "Steptoe School District All Elementary Teachers Compensation")
 
+[Steptoe School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Steptoe SD in Current DollarsDuty Title = Elementary Teacher.png "Steptoe School District Elementary Teachers Historical Compensation")
+
 
 ___
 

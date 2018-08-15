@@ -37,6 +37,8 @@ ___
 
 [Battle Ground School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Battle Ground School DistrictDuty Title = Elem. Homeroom Teacher.png "Battle Ground School District All Elementary Teachers Compensation")
 
+[Battle Ground School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Battle Ground SD in Current DollarsDuty Title = Elementary Teacher.png "Battle Ground School District Elementary Teachers Historical Compensation")
+
 
 ___
 

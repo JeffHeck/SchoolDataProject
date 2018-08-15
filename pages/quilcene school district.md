@@ -31,6 +31,8 @@ ___
 
 [Quilcene School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Quilcene School DistrictDuty Title = Elem. Homeroom Teacher.png "Quilcene School District All Elementary Teachers Compensation")
 
+[Quilcene School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Quilcene SD in Current DollarsDuty Title = Elementary Teacher.png "Quilcene School District Elementary Teachers Historical Compensation")
+
 
 ___
 

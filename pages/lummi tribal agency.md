@@ -29,3 +29,5 @@ ___
 
 [Lummi Tribal Agency Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lummi Tribal Agency School DistrictDuty Title = Elem. Homeroom Teacher.png "Lummi Tribal Agency All Elementary Teachers Compensation")
 
+[Lummi Tribal Agency Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lummi Tribal Agency SD in Current DollarsDuty Title = Elementary Teacher.png "Lummi Tribal Agency Elementary Teachers Historical Compensation")
+

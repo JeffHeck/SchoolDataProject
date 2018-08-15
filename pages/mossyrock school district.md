@@ -31,6 +31,8 @@ ___
 
 [Mossyrock School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mossyrock School DistrictDuty Title = Elem. Homeroom Teacher.png "Mossyrock School District All Elementary Teachers Compensation")
 
+[Mossyrock School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mossyrock SD in Current DollarsDuty Title = Elementary Teacher.png "Mossyrock School District Elementary Teachers Historical Compensation")
+
 
 ___
 

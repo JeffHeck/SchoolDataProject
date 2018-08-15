@@ -51,6 +51,8 @@ ___
 
 [Northshore School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Northshore School DistrictDuty Title = Elem. Homeroom Teacher.png "Northshore School District All Elementary Teachers Compensation")
 
+[Northshore School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Northshore SD in Current DollarsDuty Title = Elementary Teacher.png "Northshore School District Elementary Teachers Historical Compensation")
+
 
 ___
 

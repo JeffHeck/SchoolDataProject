@@ -22,6 +22,8 @@ ___
 
 [Pioneer School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Pioneer School DistrictDuty Title = Elem. Homeroom Teacher.png "Pioneer School District All Elementary Teachers Compensation")
 
+[Pioneer School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Pioneer SD in Current DollarsDuty Title = Elementary Teacher.png "Pioneer School District Elementary Teachers Historical Compensation")
+
 
 ___
 

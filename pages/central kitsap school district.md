@@ -43,6 +43,8 @@ ___
 
 [Central Kitsap School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Central Kitsap School DistrictDuty Title = Elem. Homeroom Teacher.png "Central Kitsap School District All Elementary Teachers Compensation")
 
+[Central Kitsap School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Central Kitsap SD in Current DollarsDuty Title = Elementary Teacher.png "Central Kitsap School District Elementary Teachers Historical Compensation")
+
 
 ___
 

@@ -20,6 +20,8 @@ ___
 
 [Benge School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Benge School DistrictDuty Title = Elem. Homeroom Teacher.png "Benge School District All Elementary Teachers Compensation")
 
+[Benge School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Benge SD in Current DollarsDuty Title = Elementary Teacher.png "Benge School District Elementary Teachers Historical Compensation")
+
 
 ___
 

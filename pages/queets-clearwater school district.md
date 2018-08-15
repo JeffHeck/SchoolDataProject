@@ -20,6 +20,8 @@ ___
 
 [Queets-Clearwater School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Queets-Clearwater School DistrictDuty Title = Elem. Homeroom Teacher.png "Queets-Clearwater School District All Elementary Teachers Compensation")
 
+[Queets-Clearwater School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Queets-Clearwater SD in Current DollarsDuty Title = Elementary Teacher.png "Queets-Clearwater School District Elementary Teachers Historical Compensation")
+
 
 ___
 

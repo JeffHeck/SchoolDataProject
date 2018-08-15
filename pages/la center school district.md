@@ -31,6 +31,8 @@ ___
 
 [La Center School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the La Center School DistrictDuty Title = Elem. Homeroom Teacher.png "La Center School District All Elementary Teachers Compensation")
 
+[La Center School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the La Center SD in Current DollarsDuty Title = Elementary Teacher.png "La Center School District Elementary Teachers Historical Compensation")
+
 
 ___
 

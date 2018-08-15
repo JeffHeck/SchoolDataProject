@@ -31,6 +31,8 @@ ___
 
 [Prosser School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Prosser School DistrictDuty Title = Elem. Homeroom Teacher.png "Prosser School District All Elementary Teachers Compensation")
 
+[Prosser School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Prosser SD in Current DollarsDuty Title = Elementary Teacher.png "Prosser School District Elementary Teachers Historical Compensation")
+
 
 ___
 

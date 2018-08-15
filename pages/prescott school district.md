@@ -29,6 +29,8 @@ ___
 
 [Prescott School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Prescott School DistrictDuty Title = Elem. Homeroom Teacher.png "Prescott School District All Elementary Teachers Compensation")
 
+[Prescott School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Prescott SD in Current DollarsDuty Title = Elementary Teacher.png "Prescott School District Elementary Teachers Historical Compensation")
+
 
 ___
 

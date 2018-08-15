@@ -22,6 +22,8 @@ ___
 
 [Southside School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Southside School DistrictDuty Title = Elem. Homeroom Teacher.png "Southside School District All Elementary Teachers Compensation")
 
+[Southside School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Southside SD in Current DollarsDuty Title = Elementary Teacher.png "Southside School District Elementary Teachers Historical Compensation")
+
 
 ___
 

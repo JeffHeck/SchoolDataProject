@@ -20,3 +20,5 @@ ___
 
 [Satsop School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Satsop School DistrictDuty Title = Elem. Homeroom Teacher.png "Satsop School District All Elementary Teachers Compensation")
 
+[Satsop School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Satsop SD in Current DollarsDuty Title = Elementary Teacher.png "Satsop School District Elementary Teachers Historical Compensation")
+

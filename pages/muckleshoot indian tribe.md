@@ -29,6 +29,8 @@ ___
 
 [Muckleshoot Indian Tribe Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Muckleshoot Indian Tribe School DistrictDuty Title = Elem. Homeroom Teacher.png "Muckleshoot Indian Tribe All Elementary Teachers Compensation")
 
+[Muckleshoot Indian Tribe Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Muckleshoot Indian Tribe SD in Current DollarsDuty Title = Elementary Teacher.png "Muckleshoot Indian Tribe Elementary Teachers Historical Compensation")
+
 
 ___
 

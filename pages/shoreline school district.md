@@ -31,6 +31,8 @@ ___
 
 [Shoreline School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Shoreline School DistrictDuty Title = Elem. Homeroom Teacher.png "Shoreline School District All Elementary Teachers Compensation")
 
+[Shoreline School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Shoreline SD in Current DollarsDuty Title = Elementary Teacher.png "Shoreline School District Elementary Teachers Historical Compensation")
+
 
 ___
 

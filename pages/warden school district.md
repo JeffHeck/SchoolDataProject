@@ -29,6 +29,8 @@ ___
 
 [Warden School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Warden School DistrictDuty Title = Elem. Homeroom Teacher.png "Warden School District All Elementary Teachers Compensation")
 
+[Warden School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Warden SD in Current DollarsDuty Title = Elementary Teacher.png "Warden School District Elementary Teachers Historical Compensation")
+
 
 ___
 

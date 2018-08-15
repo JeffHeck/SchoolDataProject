@@ -33,6 +33,8 @@ ___
 
 [Elma School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Elma School DistrictDuty Title = Elem. Homeroom Teacher.png "Elma School District All Elementary Teachers Compensation")
 
+[Elma School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Elma SD in Current DollarsDuty Title = Elementary Teacher.png "Elma School District Elementary Teachers Historical Compensation")
+
 
 ___
 

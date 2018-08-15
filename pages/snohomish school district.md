@@ -37,6 +37,8 @@ ___
 
 [Snohomish School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Snohomish School DistrictDuty Title = Elem. Homeroom Teacher.png "Snohomish School District All Elementary Teachers Compensation")
 
+[Snohomish School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Snohomish SD in Current DollarsDuty Title = Elementary Teacher.png "Snohomish School District Elementary Teachers Historical Compensation")
+
 
 ___
 

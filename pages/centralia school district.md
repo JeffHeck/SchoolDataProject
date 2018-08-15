@@ -31,6 +31,8 @@ ___
 
 [Centralia School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Centralia School DistrictDuty Title = Elem. Homeroom Teacher.png "Centralia School District All Elementary Teachers Compensation")
 
+[Centralia School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Centralia SD in Current DollarsDuty Title = Elementary Teacher.png "Centralia School District Elementary Teachers Historical Compensation")
+
 
 ___
 

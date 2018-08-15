@@ -35,6 +35,8 @@ ___
 
 [Auburn School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Auburn School DistrictDuty Title = Elem. Homeroom Teacher.png "Auburn School District All Elementary Teachers Compensation")
 
+[Auburn School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Auburn SD in Current DollarsDuty Title = Elementary Teacher.png "Auburn School District Elementary Teachers Historical Compensation")
+
 
 ___
 

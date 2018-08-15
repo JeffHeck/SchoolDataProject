@@ -33,6 +33,8 @@ ___
 
 [Concrete School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Concrete School DistrictDuty Title = Elem. Homeroom Teacher.png "Concrete School District All Elementary Teachers Compensation")
 
+[Concrete School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Concrete SD in Current DollarsDuty Title = Elementary Teacher.png "Concrete School District Elementary Teachers Historical Compensation")
+
 
 ___
 

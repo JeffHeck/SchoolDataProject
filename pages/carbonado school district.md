@@ -22,6 +22,8 @@ ___
 
 [Carbonado School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Carbonado School DistrictDuty Title = Elem. Homeroom Teacher.png "Carbonado School District All Elementary Teachers Compensation")
 
+[Carbonado School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Carbonado SD in Current DollarsDuty Title = Elementary Teacher.png "Carbonado School District Elementary Teachers Historical Compensation")
+
 
 ___
 

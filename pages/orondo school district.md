@@ -22,6 +22,8 @@ ___
 
 [Orondo School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Orondo School DistrictDuty Title = Elem. Homeroom Teacher.png "Orondo School District All Elementary Teachers Compensation")
 
+[Orondo School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Orondo SD in Current DollarsDuty Title = Elementary Teacher.png "Orondo School District Elementary Teachers Historical Compensation")
+
 
 ___
 

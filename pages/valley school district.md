@@ -29,6 +29,8 @@ ___
 
 [Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Valley School District All Elementary Teachers Compensation")
 
+[Valley School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Valley SD in Current DollarsDuty Title = Elementary Teacher.png "Valley School District Elementary Teachers Historical Compensation")
+
 
 ___
 

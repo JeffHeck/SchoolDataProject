@@ -31,6 +31,8 @@ ___
 
 [Colville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Colville School DistrictDuty Title = Elem. Homeroom Teacher.png "Colville School District All Elementary Teachers Compensation")
 
+[Colville School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Colville SD in Current DollarsDuty Title = Elementary Teacher.png "Colville School District Elementary Teachers Historical Compensation")
+
 
 ___
 

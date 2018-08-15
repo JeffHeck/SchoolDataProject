@@ -20,6 +20,8 @@ ___
 
 [Stehekin School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Stehekin School DistrictDuty Title = Secondary Teacher.png "Stehekin School District All Secondary Teachers Compensation")
 
+[Stehekin School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stehekin SD in Current DollarsDuty Title = Elementary Teacher.png "Stehekin School District Elementary Teachers Historical Compensation")
+
 
 ___
 

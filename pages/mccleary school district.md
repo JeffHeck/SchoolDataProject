@@ -22,6 +22,8 @@ ___
 
 [McCleary School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the McCleary School DistrictDuty Title = Elem. Homeroom Teacher.png "McCleary School District All Elementary Teachers Compensation")
 
+[McCleary School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the McCleary SD in Current DollarsDuty Title = Elementary Teacher.png "McCleary School District Elementary Teachers Historical Compensation")
+
 
 ___
 

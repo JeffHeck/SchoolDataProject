@@ -29,6 +29,8 @@ ___
 
 [Sunnyside School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Sunnyside School DistrictDuty Title = Elem. Homeroom Teacher.png "Sunnyside School District All Elementary Teachers Compensation")
 
+[Sunnyside School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Sunnyside SD in Current DollarsDuty Title = Elementary Teacher.png "Sunnyside School District Elementary Teachers Historical Compensation")
+
 
 ___
 

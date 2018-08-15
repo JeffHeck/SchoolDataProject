@@ -33,6 +33,8 @@ ___
 
 [Oak Harbor School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Oak Harbor School DistrictDuty Title = Elem. Homeroom Teacher.png "Oak Harbor School District All Elementary Teachers Compensation")
 
+[Oak Harbor School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Oak Harbor SD in Current DollarsDuty Title = Elementary Teacher.png "Oak Harbor School District Elementary Teachers Historical Compensation")
+
 
 ___
 

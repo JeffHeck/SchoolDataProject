@@ -29,6 +29,8 @@ ___
 
 [Highland School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Highland School DistrictDuty Title = Elem. Homeroom Teacher.png "Highland School District All Elementary Teachers Compensation")
 
+[Highland School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Highland SD in Current DollarsDuty Title = Elementary Teacher.png "Highland School District Elementary Teachers Historical Compensation")
+
 
 ___
 

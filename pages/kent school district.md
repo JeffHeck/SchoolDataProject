@@ -43,6 +43,8 @@ ___
 
 [Kent School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kent School DistrictDuty Title = Elem. Homeroom Teacher.png "Kent School District All Elementary Teachers Compensation")
 
+[Kent School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kent SD in Current DollarsDuty Title = Elementary Teacher.png "Kent School District Elementary Teachers Historical Compensation")
+
 
 ___
 

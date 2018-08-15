@@ -29,6 +29,8 @@ ___
 
 [Coulee-Hartline School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Coulee-Hartline School DistrictDuty Title = Elem. Homeroom Teacher.png "Coulee-Hartline School District All Elementary Teachers Compensation")
 
+[Coulee-Hartline School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Coulee-Hartline SD in Current DollarsDuty Title = Elementary Teacher.png "Coulee-Hartline School District Elementary Teachers Historical Compensation")
+
 
 ___
 

@@ -29,6 +29,8 @@ ___
 
 [Toutle Lake School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Toutle Lake School DistrictDuty Title = Elem. Homeroom Teacher.png "Toutle Lake School District All Elementary Teachers Compensation")
 
+[Toutle Lake School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Toutle Lake SD in Current DollarsDuty Title = Elementary Teacher.png "Toutle Lake School District Elementary Teachers Historical Compensation")
+
 
 ___
 

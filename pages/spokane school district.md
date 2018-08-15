@@ -47,6 +47,8 @@ ___
 
 [Spokane School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Spokane School DistrictDuty Title = Elem. Homeroom Teacher.png "Spokane School District All Elementary Teachers Compensation")
 
+[Spokane School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Spokane SD in Current DollarsDuty Title = Elementary Teacher.png "Spokane School District Elementary Teachers Historical Compensation")
+
 
 ___
 

@@ -69,6 +69,8 @@ ___
 
 [Seattle Public Schools Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Seattle School DistrictDuty Title = Elem. Homeroom Teacher.png "Seattle Public Schools All Elementary Teachers Compensation")
 
+[Seattle Public Schools Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Seattle SD in Current DollarsDuty Title = Elementary Teacher.png "Seattle Public Schools Elementary Teachers Historical Compensation")
+
 
 ___
 

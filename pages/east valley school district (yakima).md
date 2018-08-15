@@ -31,6 +31,8 @@ ___
 
 [East Valley School District (Yakima) Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the East Valley (Yakima) School DistrictDuty Title = Elem. Homeroom Teacher.png "East Valley School District (Yakima) All Elementary Teachers Compensation")
 
+[East Valley School District (Yakima) Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the East Valley (Yakima) SD in Current DollarsDuty Title = Elementary Teacher.png "East Valley School District (Yakima) Elementary Teachers Historical Compensation")
+
 
 ___
 

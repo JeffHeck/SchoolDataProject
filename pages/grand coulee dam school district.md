@@ -29,6 +29,8 @@ ___
 
 [Grand Coulee Dam School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Grand Coulee Dam School DistrictDuty Title = Elem. Homeroom Teacher.png "Grand Coulee Dam School District All Elementary Teachers Compensation")
 
+[Grand Coulee Dam School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Grand Coulee Dam SD in Current DollarsDuty Title = Elementary Teacher.png "Grand Coulee Dam School District Elementary Teachers Historical Compensation")
+
 
 ___
 

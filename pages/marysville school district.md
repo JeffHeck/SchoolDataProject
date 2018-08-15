@@ -47,6 +47,8 @@ ___
 
 [Marysville School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Marysville School DistrictDuty Title = Elem. Homeroom Teacher.png "Marysville School District All Elementary Teachers Compensation")
 
+[Marysville School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Marysville SD in Current DollarsDuty Title = Elementary Teacher.png "Marysville School District Elementary Teachers Historical Compensation")
+
 
 ___
 

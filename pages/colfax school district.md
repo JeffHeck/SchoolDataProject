@@ -29,6 +29,8 @@ ___
 
 [Colfax School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Colfax School DistrictDuty Title = Elem. Homeroom Teacher.png "Colfax School District All Elementary Teachers Compensation")
 
+[Colfax School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Colfax SD in Current DollarsDuty Title = Elementary Teacher.png "Colfax School District Elementary Teachers Historical Compensation")
+
 
 ___
 

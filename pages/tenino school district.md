@@ -29,6 +29,8 @@ ___
 
 [Tenino School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Tenino School DistrictDuty Title = Elem. Homeroom Teacher.png "Tenino School District All Elementary Teachers Compensation")
 
+[Tenino School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Tenino SD in Current DollarsDuty Title = Elementary Teacher.png "Tenino School District Elementary Teachers Historical Compensation")
+
 
 ___
 

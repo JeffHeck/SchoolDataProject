@@ -29,6 +29,8 @@ ___
 
 [North River School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the North River School DistrictDuty Title = Elem. Homeroom Teacher.png "North River School District All Elementary Teachers Compensation")
 
+[North River School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the North River SD in Current DollarsDuty Title = Elementary Teacher.png "North River School District Elementary Teachers Historical Compensation")
+
 
 ___
 

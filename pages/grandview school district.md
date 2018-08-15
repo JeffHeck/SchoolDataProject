@@ -33,6 +33,8 @@ ___
 
 [Grandview School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Grandview School DistrictDuty Title = Elem. Homeroom Teacher.png "Grandview School District All Elementary Teachers Compensation")
 
+[Grandview School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Grandview SD in Current DollarsDuty Title = Elementary Teacher.png "Grandview School District Elementary Teachers Historical Compensation")
+
 
 ___
 

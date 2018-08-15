@@ -33,6 +33,8 @@ ___
 
 [Quillayute Valley School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Quillayute Valley School DistrictDuty Title = Elem. Homeroom Teacher.png "Quillayute Valley School District All Elementary Teachers Compensation")
 
+[Quillayute Valley School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Quillayute Valley SD in Current DollarsDuty Title = Elementary Teacher.png "Quillayute Valley School District Elementary Teachers Historical Compensation")
+
 
 ___
 

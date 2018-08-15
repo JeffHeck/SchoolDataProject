@@ -28,6 +28,8 @@ ___
 
 [Cashmere School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Cashmere School DistrictDuty Title = Elem. Homeroom Teacher.png "Cashmere School District All Elementary Teachers Compensation")
 
+[Cashmere School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Cashmere SD in Current DollarsDuty Title = Elementary Teacher.png "Cashmere School District Elementary Teachers Historical Compensation")
+
 
 ___
 

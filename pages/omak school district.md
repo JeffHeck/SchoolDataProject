@@ -33,6 +33,8 @@ ___
 
 [Omak School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Omak School DistrictDuty Title = Elem. Homeroom Teacher.png "Omak School District All Elementary Teachers Compensation")
 
+[Omak School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Omak SD in Current DollarsDuty Title = Elementary Teacher.png "Omak School District Elementary Teachers Historical Compensation")
+
 
 ___
 

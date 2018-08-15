@@ -22,6 +22,8 @@ ___
 
 [Brinnon School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Brinnon School DistrictDuty Title = Elem. Homeroom Teacher.png "Brinnon School District All Elementary Teachers Compensation")
 
+[Brinnon School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Brinnon SD in Current DollarsDuty Title = Elementary Teacher.png "Brinnon School District Elementary Teachers Historical Compensation")
+
 
 ___
 

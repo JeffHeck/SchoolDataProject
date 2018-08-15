@@ -29,6 +29,8 @@ ___
 
 [Columbia (Walla Walla) School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Columbia (Walla Walla) School DistrictDuty Title = Elem. Homeroom Teacher.png "Columbia (Walla Walla) School District All Elementary Teachers Compensation")
 
+[Columbia (Walla Walla) School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Columbia (Walla Walla) SD in Current DollarsDuty Title = Elementary Teacher.png "Columbia (Walla Walla) School District Elementary Teachers Historical Compensation")
+
 
 ___
 

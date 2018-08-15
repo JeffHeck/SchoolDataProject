@@ -35,6 +35,8 @@ ___
 
 [Riverview School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Riverview School DistrictDuty Title = Elem. Homeroom Teacher.png "Riverview School District All Elementary Teachers Compensation")
 
+[Riverview School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Riverview SD in Current DollarsDuty Title = Elementary Teacher.png "Riverview School District Elementary Teachers Historical Compensation")
+
 
 ___
 

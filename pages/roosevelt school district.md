@@ -20,6 +20,8 @@ ___
 
 [Roosevelt School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Roosevelt School DistrictDuty Title = Elem. Homeroom Teacher.png "Roosevelt School District All Elementary Teachers Compensation")
 
+[Roosevelt School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Roosevelt SD in Current DollarsDuty Title = Elementary Teacher.png "Roosevelt School District Elementary Teachers Historical Compensation")
+
 
 ___
 

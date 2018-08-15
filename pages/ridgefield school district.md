@@ -29,6 +29,8 @@ ___
 
 [Ridgefield School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ridgefield School DistrictDuty Title = Elem. Homeroom Teacher.png "Ridgefield School District All Elementary Teachers Compensation")
 
+[Ridgefield School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Ridgefield SD in Current DollarsDuty Title = Elementary Teacher.png "Ridgefield School District Elementary Teachers Historical Compensation")
+
 
 ___
 

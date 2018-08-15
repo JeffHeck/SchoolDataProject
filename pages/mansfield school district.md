@@ -29,6 +29,8 @@ ___
 
 [Mansfield School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mansfield School DistrictDuty Title = Elem. Homeroom Teacher.png "Mansfield School District All Elementary Teachers Compensation")
 
+[Mansfield School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mansfield SD in Current DollarsDuty Title = Elementary Teacher.png "Mansfield School District Elementary Teachers Historical Compensation")
+
 
 ___
 

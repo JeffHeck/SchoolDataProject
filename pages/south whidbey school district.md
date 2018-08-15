@@ -31,6 +31,8 @@ ___
 
 [South Whidbey School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the South Whidbey School DistrictDuty Title = Elem. Homeroom Teacher.png "South Whidbey School District All Elementary Teachers Compensation")
 
+[South Whidbey School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the South Whidbey SD in Current DollarsDuty Title = Elementary Teacher.png "South Whidbey School District Elementary Teachers Historical Compensation")
+
 
 ___
 

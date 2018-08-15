@@ -20,3 +20,5 @@ ___
 
 [Rainier Prep Charter School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Rainier Prep Charter School DistrictDuty Title = Secondary Teacher.png "Rainier Prep Charter School District All Secondary Teachers Compensation")
 
+[Rainier Prep Charter School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Rainier Prep Charter SD in Current DollarsDuty Title = Elementary Teacher.png "Rainier Prep Charter School District Elementary Teachers Historical Compensation")
+

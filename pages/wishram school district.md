@@ -29,6 +29,8 @@ ___
 
 [Wishram School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Wishram School DistrictDuty Title = Elem. Homeroom Teacher.png "Wishram School District All Elementary Teachers Compensation")
 
+[Wishram School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Wishram SD in Current DollarsDuty Title = Elementary Teacher.png "Wishram School District Elementary Teachers Historical Compensation")
+
 
 ___
 

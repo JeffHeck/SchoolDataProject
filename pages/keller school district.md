@@ -20,6 +20,8 @@ ___
 
 [Keller School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Keller School DistrictDuty Title = Elem. Homeroom Teacher.png "Keller School District All Elementary Teachers Compensation")
 
+[Keller School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Keller SD in Current DollarsDuty Title = Elementary Teacher.png "Keller School District Elementary Teachers Historical Compensation")
+
 
 ___
 

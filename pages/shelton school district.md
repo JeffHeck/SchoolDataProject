@@ -33,6 +33,8 @@ ___
 
 [Shelton School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Shelton School DistrictDuty Title = Elem. Homeroom Teacher.png "Shelton School District All Elementary Teachers Compensation")
 
+[Shelton School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Shelton SD in Current DollarsDuty Title = Elementary Teacher.png "Shelton School District Elementary Teachers Historical Compensation")
+
 
 ___
 

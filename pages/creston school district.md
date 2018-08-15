@@ -29,6 +29,8 @@ ___
 
 [Creston School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Creston School DistrictDuty Title = Elem. Homeroom Teacher.png "Creston School District All Elementary Teachers Compensation")
 
+[Creston School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Creston SD in Current DollarsDuty Title = Elementary Teacher.png "Creston School District Elementary Teachers Historical Compensation")
+
 
 ___
 

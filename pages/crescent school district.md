@@ -29,6 +29,8 @@ ___
 
 [Crescent School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Crescent School DistrictDuty Title = Elem. Homeroom Teacher.png "Crescent School District All Elementary Teachers Compensation")
 
+[Crescent School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Crescent SD in Current DollarsDuty Title = Elementary Teacher.png "Crescent School District Elementary Teachers Historical Compensation")
+
 
 ___
 

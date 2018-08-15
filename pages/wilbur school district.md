@@ -29,6 +29,8 @@ ___
 
 [Wilbur School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Wilbur School DistrictDuty Title = Elem. Homeroom Teacher.png "Wilbur School District All Elementary Teachers Compensation")
 
+[Wilbur School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Wilbur SD in Current DollarsDuty Title = Elementary Teacher.png "Wilbur School District Elementary Teachers Historical Compensation")
+
 
 ___
 

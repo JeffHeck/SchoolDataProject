@@ -22,6 +22,8 @@ ___
 
 [Dieringer School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Dieringer School DistrictDuty Title = Elem. Homeroom Teacher.png "Dieringer School District All Elementary Teachers Compensation")
 
+[Dieringer School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Dieringer SD in Current DollarsDuty Title = Elementary Teacher.png "Dieringer School District Elementary Teachers Historical Compensation")
+
 
 ___
 

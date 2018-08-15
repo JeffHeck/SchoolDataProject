@@ -29,6 +29,8 @@ ___
 
 [Touchet School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Touchet School DistrictDuty Title = Elem. Homeroom Teacher.png "Touchet School District All Elementary Teachers Compensation")
 
+[Touchet School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Touchet SD in Current DollarsDuty Title = Elementary Teacher.png "Touchet School District Elementary Teachers Historical Compensation")
+
 
 ___
 

@@ -31,6 +31,8 @@ ___
 
 [Columbia (Stevens) School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Columbia (Stevens) School DistrictDuty Title = Elem. Homeroom Teacher.png "Columbia (Stevens) School District All Elementary Teachers Compensation")
 
+[Columbia (Stevens) School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Columbia (Stevens) SD in Current DollarsDuty Title = Elementary Teacher.png "Columbia (Stevens) School District Elementary Teachers Historical Compensation")
+
 
 ___
 

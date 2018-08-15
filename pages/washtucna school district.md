@@ -29,6 +29,8 @@ ___
 
 [Washtucna School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Washtucna School DistrictDuty Title = Elem. Homeroom Teacher.png "Washtucna School District All Elementary Teachers Compensation")
 
+[Washtucna School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Washtucna SD in Current DollarsDuty Title = Elementary Teacher.png "Washtucna School District Elementary Teachers Historical Compensation")
+
 
 ___
 

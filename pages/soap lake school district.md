@@ -31,6 +31,8 @@ ___
 
 [Soap Lake School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Soap Lake School DistrictDuty Title = Elem. Homeroom Teacher.png "Soap Lake School District All Elementary Teachers Compensation")
 
+[Soap Lake School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Soap Lake SD in Current DollarsDuty Title = Elementary Teacher.png "Soap Lake School District Elementary Teachers Historical Compensation")
+
 
 ___
 

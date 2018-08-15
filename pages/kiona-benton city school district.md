@@ -29,6 +29,8 @@ ___
 
 [Kiona-Benton City School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kiona-Benton City School DistrictDuty Title = Elem. Homeroom Teacher.png "Kiona-Benton City School District All Elementary Teachers Compensation")
 
+[Kiona-Benton City School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kiona-Benton City SD in Current DollarsDuty Title = Elementary Teacher.png "Kiona-Benton City School District Elementary Teachers Historical Compensation")
+
 
 ___
 

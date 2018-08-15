@@ -29,6 +29,8 @@ ___
 
 [Oakesdale School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Oakesdale School DistrictDuty Title = Elem. Homeroom Teacher.png "Oakesdale School District All Elementary Teachers Compensation")
 
+[Oakesdale School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Oakesdale SD in Current DollarsDuty Title = Elementary Teacher.png "Oakesdale School District Elementary Teachers Historical Compensation")
+
 
 ___
 

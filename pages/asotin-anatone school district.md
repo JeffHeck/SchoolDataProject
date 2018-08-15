@@ -29,6 +29,8 @@ ___
 
 [Asotin-Anatone School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Asotin-Anatone School DistrictDuty Title = Elem. Homeroom Teacher.png "Asotin-Anatone School District All Elementary Teachers Compensation")
 
+[Asotin-Anatone School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Asotin-Anatone SD in Current DollarsDuty Title = Elementary Teacher.png "Asotin-Anatone School District Elementary Teachers Historical Compensation")
+
 
 ___
 

@@ -29,6 +29,8 @@ ___
 
 [Odessa School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Odessa School DistrictDuty Title = Elem. Homeroom Teacher.png "Odessa School District All Elementary Teachers Compensation")
 
+[Odessa School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Odessa SD in Current DollarsDuty Title = Elementary Teacher.png "Odessa School District Elementary Teachers Historical Compensation")
+
 
 ___
 

@@ -31,6 +31,8 @@ ___
 
 [White River School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the White River School DistrictDuty Title = Elem. Homeroom Teacher.png "White River School District All Elementary Teachers Compensation")
 
+[White River School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the White River SD in Current DollarsDuty Title = Elementary Teacher.png "White River School District Elementary Teachers Historical Compensation")
+
 
 ___
 
