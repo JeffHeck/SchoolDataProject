@@ -9,11 +9,14 @@ permalink: spokane international academy
 
 ___
 
-## Teacher Compensation Comparisons
+## Teachers' Total Salary Comparisons
+### Note:
+- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Total Salary = Base Salary + Supplemental Salary
+- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
+- Mandatory Benefits include pension funding and payroll taxes
 
-[Spokane International Academy Secondary Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Secondary TeachersAll WA School Districts With Spokane International Academy Highlighted.png "Spokane International Academy Secondary Teachers Median Total Compensation")
-
-[Spokane International Academy Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Spokane International Academy Highlighted.png "Spokane International Academy Elem Homeroom Teachers Median Total Compensation")
+[Spokane International Academy Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Spokane International Academy Highlighted.png "Spokane International Academy Teachers Average Total Salary")
 
 
 ___

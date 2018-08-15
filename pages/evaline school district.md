@@ -6,7 +6,17 @@ permalink: evaline school district
 
 
 [Evaline School District Historical Demographics](pages/Evaline School District Historical Demographics.png "Evaline School District Historical Demographics")
-[Evaline School District Elem. Homeroom Teachers' Median Total Compensation](pages/2016-2017Median Total Compensation for Elem. Homeroom TeacherAll WA School Districts With Evaline Highlighted.png "Evaline School District Elem Homeroom Teachers Median Total Compensation")
+
+___
+
+## Teachers' Total Salary Comparisons
+### Note:
+- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Total Salary = Base Salary + Supplemental Salary
+- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
+- Mandatory Benefits include pension funding and payroll taxes
+
+[Evaline School District Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Evaline Highlighted.png "Evaline School District Teachers Average Total Salary")
 
 
 ___
