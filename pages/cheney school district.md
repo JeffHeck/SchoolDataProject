@@ -20,14 +20,16 @@ ___
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Cheney School District Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Cheney Highlighted.png "Cheney School District Teachers Average Total Salary")
+[Cheney School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Cheney Highlighted.png "Cheney School District Teachers Average Total Salary")
+
+[Cheney School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Cheney School DistrictDuty Title = Secondary Teacher.png "Cheney School District All Secondary Teachers Compensation")
 
 
 ___

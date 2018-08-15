@@ -9,14 +9,14 @@ permalink: queets-clearwater school district
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Queets-Clearwater School District Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Queets-Clearwater Highlighted.png "Queets-Clearwater School District Teachers Average Total Salary")
+[Queets-Clearwater School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Queets-Clearwater Highlighted.png "Queets-Clearwater School District Teachers Average Total Salary")
 
 
 ___

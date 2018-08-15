@@ -18,14 +18,16 @@ ___
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[West Valley School District (Yakima) Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With West Valley (Yakima) Highlighted.png "West Valley School District (Yakima) Teachers Average Total Salary")
+[West Valley School District (Yakima) Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With West Valley (Yakima) Highlighted.png "West Valley School District (Yakima) Teachers Average Total Salary")
+
+[West Valley School District (Yakima) Secondary Teachers' Compensation](pages/2016-2017 Compensation for the West Valley (Yakima) School DistrictDuty Title = Secondary Teacher.png "West Valley School District (Yakima) All Secondary Teachers Compensation")
 
 
 ___

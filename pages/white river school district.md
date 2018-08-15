@@ -18,14 +18,16 @@ ___
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[White River School District Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With White River Highlighted.png "White River School District Teachers Average Total Salary")
+[White River School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With White River Highlighted.png "White River School District Teachers Average Total Salary")
+
+[White River School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the White River School DistrictDuty Title = Secondary Teacher.png "White River School District All Secondary Teachers Compensation")
 
 
 ___

@@ -18,14 +18,18 @@ ___
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Aberdeen School District Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Aberdeen Highlighted.png "Aberdeen School District Teachers Average Total Salary")
+[Aberdeen School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Aberdeen Highlighted.png "Aberdeen School District Teachers Average Total Salary")
+
+[Aberdeen School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Aberdeen School DistrictDuty Title = Secondary Teacher.png "Aberdeen School District All Secondary Teachers Compensation")
+
+[Aberdeen School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Aberdeen School DistrictDuty Title = Elem. Homeroom Teacher.png "Aberdeen School District All Elementary Teachers Compensation")
 
 
 ___

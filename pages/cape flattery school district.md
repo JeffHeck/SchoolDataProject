@@ -18,14 +18,16 @@ ___
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Cape Flattery School District Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Cape Flattery Highlighted.png "Cape Flattery School District Teachers Average Total Salary")
+[Cape Flattery School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Cape Flattery Highlighted.png "Cape Flattery School District Teachers Average Total Salary")
+
+[Cape Flattery School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Cape Flattery School DistrictDuty Title = Secondary Teacher.png "Cape Flattery School District All Secondary Teachers Compensation")
 
 
 ___

@@ -9,14 +9,18 @@ permalink: almira school district
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Almira School District Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Almira Highlighted.png "Almira School District Teachers Average Total Salary")
+[Almira School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Almira Highlighted.png "Almira School District Teachers Average Total Salary")
+
+[Almira School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Almira School DistrictDuty Title = Secondary Teacher.png "Almira School District All Secondary Teachers Compensation")
+
+[Almira School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Almira School DistrictDuty Title = Elem. Homeroom Teacher.png "Almira School District All Elementary Teachers Compensation")
 
 
 ___

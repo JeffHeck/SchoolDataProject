@@ -16,14 +16,16 @@ ___
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Muckleshoot Indian Tribe Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Muckleshoot Indian Tribe Highlighted.png "Muckleshoot Indian Tribe Teachers Average Total Salary")
+[Muckleshoot Indian Tribe Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Muckleshoot Indian Tribe Highlighted.png "Muckleshoot Indian Tribe Teachers Average Total Salary")
+
+[Muckleshoot Indian Tribe Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Muckleshoot Indian Tribe School DistrictDuty Title = Secondary Teacher.png "Muckleshoot Indian Tribe All Secondary Teachers Compensation")
 
 
 ___

@@ -22,14 +22,16 @@ ___
 
 ___
 
-## Teachers' Total Salary Comparisons
+## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[North Thurston Public Schools Teachers' Average Total Salary](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With North Thurston Highlighted.png "North Thurston Public Schools Teachers Average Total Salary")
+[North Thurston Public Schools Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With North Thurston Highlighted.png "North Thurston Public Schools Teachers Average Total Salary")
+
+[North Thurston Public Schools Secondary Teachers' Compensation](pages/2016-2017 Compensation for the North Thurston School DistrictDuty Title = Secondary Teacher.png "North Thurston Public Schools All Secondary Teachers Compensation")
 
 
 ___
