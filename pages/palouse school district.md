@@ -9,6 +9,34 @@ permalink: palouse school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAPalouse School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAPalouse School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAPalouse School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAPalouse School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Palouse High School](pages/Palouse School District Palouse High SchoolDual Credit BarChart.png "Palouse High School Dual Credit Participation")

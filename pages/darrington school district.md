@@ -9,6 +9,20 @@ permalink: darrington school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBADarrington School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBADarrington School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Darrington Sr High School](pages/Darrington School District Darrington Sr High SchoolDual Credit BarChart.png "Darrington Sr High School Dual Credit Participation")

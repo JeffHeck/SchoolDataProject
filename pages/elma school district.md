@@ -9,6 +9,34 @@ permalink: elma school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAElma School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAElma School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAElma School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAElma School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [East Grays Harbor High School](pages/Elma School District East Grays Harbor High SchoolDual Credit BarChart.png "East Grays Harbor High School Dual Credit Participation")

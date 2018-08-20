@@ -9,6 +9,34 @@ permalink: lakewood school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBALakewood School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBALakewood School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBALakewood School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBALakewood School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Lakewood High School](pages/Lakewood School District Lakewood High SchoolDual Credit BarChart.png "Lakewood High School Dual Credit Participation")

@@ -9,6 +9,20 @@ permalink: excel public charter school lea
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAExcel Public Charter School LEA8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAExcel Public Charter School LEA8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher

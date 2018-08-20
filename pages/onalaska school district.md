@@ -9,6 +9,20 @@ permalink: onalaska school district
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAOnalaska School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAOnalaska School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [CVA - Onalaska](pages/Onalaska School District CVA - OnalaskaDual Credit BarChart.png "CVA - Onalaska Dual Credit Participation")

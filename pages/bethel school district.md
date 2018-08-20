@@ -9,6 +9,34 @@ permalink: bethel school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBABethel School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBABethel School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBABethel School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBABethel School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Acceleration Academy](pages/Bethel School District Acceleration AcademyDual Credit BarChart.png "Acceleration Academy Dual Credit Participation")

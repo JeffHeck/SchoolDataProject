@@ -9,6 +9,20 @@ permalink: medical lake school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAMedical Lake School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAMedical Lake School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Medical Lake Alternative High School](pages/Medical Lake School District Medical Lake Alternative High SchoolDual Credit BarChart.png "Medical Lake Alternative High School Dual Credit Participation")

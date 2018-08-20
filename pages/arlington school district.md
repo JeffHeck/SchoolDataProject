@@ -9,6 +9,34 @@ permalink: arlington school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAArlington School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAArlington School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAArlington School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAArlington School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Arlington High School](pages/Arlington School District Arlington High SchoolDual Credit BarChart.png "Arlington High School Dual Credit Participation")

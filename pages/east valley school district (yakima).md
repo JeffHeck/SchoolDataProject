@@ -9,6 +9,34 @@ permalink: east valley school district (yakima)
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Yakima)4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Yakima)4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Yakima)8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Yakima)8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [East Valley Central Middle School](pages/East Valley School District (Yakima) East Valley Central Middle SchoolDual Credit BarChart.png "East Valley Central Middle School Dual Credit Participation")

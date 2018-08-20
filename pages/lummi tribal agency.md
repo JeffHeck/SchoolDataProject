@@ -9,6 +9,27 @@ permalink: lummi tribal agency
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBALummi Tribal Agency4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBALummi Tribal Agency4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBALummi Tribal Agency8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
 ## Dual Credit Participation
 
 [Lummi Nation School](pages/Lummi Tribal Agency Lummi Nation SchoolDual Credit BarChart.png "Lummi Nation School Dual Credit Participation")

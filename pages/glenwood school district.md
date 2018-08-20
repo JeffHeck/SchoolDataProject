@@ -9,6 +9,20 @@ permalink: glenwood school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAGlenwood School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAGlenwood School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Glenwood Secondary](pages/Glenwood School District Glenwood SecondaryDual Credit BarChart.png "Glenwood Secondary Dual Credit Participation")

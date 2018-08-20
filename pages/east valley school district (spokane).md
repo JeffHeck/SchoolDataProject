@@ -9,6 +9,34 @@ permalink: east valley school district (spokane)
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Spokane)4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Spokane)4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Spokane)8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Spokane)8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [EV Online](pages/East Valley School District (Spokane) EV OnlineDual Credit BarChart.png "EV Online Dual Credit Participation")

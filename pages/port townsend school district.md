@@ -9,6 +9,20 @@ permalink: port townsend school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAPort Townsend School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAPort Townsend School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [OCEAN](pages/Port Townsend School District OCEANDual Credit BarChart.png "OCEAN Dual Credit Participation")

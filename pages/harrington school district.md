@@ -9,6 +9,20 @@ permalink: harrington school district
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAHarrington School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAHarrington School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Harrington High School](pages/Harrington School District Harrington High SchoolDual Credit BarChart.png "Harrington High School Dual Credit Participation")

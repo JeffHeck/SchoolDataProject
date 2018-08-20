@@ -9,6 +9,20 @@ permalink: lake stevens school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBALake Stevens School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBALake Stevens School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Cavelero Mid High School](pages/Lake Stevens School District Cavelero Mid High SchoolDual Credit BarChart.png "Cavelero Mid High School Dual Credit Participation")

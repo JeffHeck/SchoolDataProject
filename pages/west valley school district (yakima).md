@@ -9,6 +9,20 @@ permalink: west valley school district (yakima)
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAWest Valley School District (Yakima)4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAWest Valley School District (Yakima)4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [West Valley High School Freshman Campus](pages/West Valley School District (Yakima) West Valley High School Freshman CampusDual Credit BarChart.png "West Valley High School Freshman Campus Dual Credit Participation")

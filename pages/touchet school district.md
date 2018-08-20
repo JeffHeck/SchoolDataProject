@@ -9,6 +9,20 @@ permalink: touchet school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBATouchet School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBATouchet School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Touchet Elem   High School](pages/Touchet School District Touchet Elem   High SchoolDual Credit BarChart.png "Touchet Elem   High School Dual Credit Participation")

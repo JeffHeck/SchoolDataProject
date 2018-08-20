@@ -9,6 +9,34 @@ permalink: evergreen school district (clark)
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAEvergreen School District (Clark)4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAEvergreen School District (Clark)4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAEvergreen School District (Clark)8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAEvergreen School District (Clark)8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [49th Street Academy](pages/Evergreen School District (Clark) 49th Street AcademyDual Credit BarChart.png "49th Street Academy Dual Credit Participation")

@@ -9,6 +9,20 @@ permalink: oakesdale school district
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAOakesdale School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAOakesdale School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Oakesdale High School](pages/Oakesdale School District Oakesdale High SchoolDual Credit BarChart.png "Oakesdale High School Dual Credit Participation")

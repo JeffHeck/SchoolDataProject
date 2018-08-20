@@ -9,6 +9,20 @@ permalink: columbia (stevens) school district
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAColumbia (Stevens) School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAColumbia (Stevens) School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Columbia Alternative School](pages/Columbia (Stevens) School District Columbia Alternative SchoolDual Credit BarChart.png "Columbia Alternative School Dual Credit Participation")

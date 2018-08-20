@@ -9,6 +9,20 @@ permalink: oroville school district
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAOroville School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAOroville School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Oroville Middle-High School](pages/Oroville School District Oroville Middle-High SchoolDual Credit BarChart.png "Oroville Middle-High School Dual Credit Participation")

@@ -9,6 +9,20 @@ permalink: lake chelan school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBALake Chelan School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBALake Chelan School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Chelan High School](pages/Lake Chelan School District Chelan High SchoolDual Credit BarChart.png "Chelan High School Dual Credit Participation")

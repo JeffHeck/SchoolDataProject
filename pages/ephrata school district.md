@@ -9,6 +9,20 @@ permalink: ephrata school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAEphrata School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAEphrata School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Ephrata High School](pages/Ephrata School District Ephrata High SchoolDual Credit BarChart.png "Ephrata High School Dual Credit Participation")

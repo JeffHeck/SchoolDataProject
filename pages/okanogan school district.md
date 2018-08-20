@@ -9,6 +9,20 @@ permalink: okanogan school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAOkanogan School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAOkanogan School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Okanogan Alternative High School](pages/Okanogan School District Okanogan Alternative High SchoolDual Credit BarChart.png "Okanogan Alternative High School Dual Credit Participation")

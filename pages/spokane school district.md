@@ -9,6 +9,38 @@ permalink: spokane school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 2](pages/SBASpokane School District4THELA (1 of 2).png "Chart 1 of 2 SBA 4th Grade ELA")
+
+[Chart 2 of 2](pages/SBASpokane School District4THELA (2 of 2).png "Chart 2 of 2 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 2](pages/SBASpokane School District4THMATH (1 of 2).png "Chart 1 of 2 SBA 4th Grade MATH")
+
+[Chart 2 of 2](pages/SBASpokane School District4THMATH (2 of 2).png "Chart 2 of 2 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBASpokane School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBASpokane School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Bryant Center](pages/Spokane School District Bryant CenterDual Credit BarChart.png "Bryant Center Dual Credit Participation")

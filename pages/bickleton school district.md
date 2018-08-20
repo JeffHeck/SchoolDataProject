@@ -9,6 +9,20 @@ permalink: bickleton school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBABickleton School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBABickleton School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Bickleton Elementary   High Schl](pages/Bickleton School District Bickleton Elementary   High SchlDual Credit BarChart.png "Bickleton Elementary   High Schl Dual Credit Participation")

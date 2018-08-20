@@ -9,6 +9,20 @@ permalink: sedro-woolley school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBASedro-Woolley School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBASedro-Woolley School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Sedro Woolley Senior High School](pages/Sedro-Woolley School District Sedro Woolley Senior High SchoolDual Credit BarChart.png "Sedro Woolley Senior High School Dual Credit Participation")

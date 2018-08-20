@@ -9,6 +9,20 @@ permalink: almira school district
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAAlmira School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAAlmira School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher

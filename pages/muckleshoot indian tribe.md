@@ -9,6 +9,27 @@ permalink: muckleshoot indian tribe
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAMuckleshoot Indian Tribe4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAMuckleshoot Indian Tribe4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAMuckleshoot Indian Tribe8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
 ## Dual Credit Participation
 
 [Muckleshoot Tribal School](pages/Muckleshoot Indian Tribe Muckleshoot Tribal SchoolDual Credit BarChart.png "Muckleshoot Tribal School Dual Credit Participation")

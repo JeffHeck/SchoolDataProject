@@ -9,6 +9,20 @@ permalink: pullman school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAPullman School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAPullman School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Pullman High School](pages/Pullman School District Pullman High SchoolDual Credit BarChart.png "Pullman High School Dual Credit Participation")

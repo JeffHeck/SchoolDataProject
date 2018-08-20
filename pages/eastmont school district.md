@@ -9,6 +9,20 @@ permalink: eastmont school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAEastmont School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAEastmont School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Eastmont Junior High](pages/Eastmont School District Eastmont Junior HighDual Credit BarChart.png "Eastmont Junior High Dual Credit Participation")
