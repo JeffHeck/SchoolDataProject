@@ -9,6 +9,13 @@ permalink: orient school district
 
 ___
 
+## Budget Information
+
+[Expense History In Dollars Per Student](pages/Expense History for the Orient School DistrictDollars Per Student.png " Dollars Per Student")
+
+
+___
+
 ## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher

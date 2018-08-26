@@ -9,6 +9,13 @@ permalink: spokane international academy
 
 ___
 
+## Budget Information
+
+[Expense History In Dollars Per Student](pages/Expense History for the Spokane International AcademyDollars Per Student.png " Dollars Per Student")
+
+
+___
+
 ## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher

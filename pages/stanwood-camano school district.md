@@ -48,6 +48,13 @@ ___
 
 ___
 
+## Budget Information
+
+[Expense History In Dollars Per Student](pages/Expense History for the Stanwood-Camano School DistrictDollars Per Student.png " Dollars Per Student")
+
+
+___
+
 ## Teachers' Compensation Information
 ### Note:
 - Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher

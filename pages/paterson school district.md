@@ -34,3 +34,10 @@ ___
 
 [Chart 1 of 1](pages/SBAPaterson School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
 
+
+___
+
+## Budget Information
+
+[Expense History In Dollars Per Student](pages/Expense History for the Paterson School DistrictDollars Per Student.png " Dollars Per Student")
+
