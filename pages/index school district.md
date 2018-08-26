@@ -10,8 +10,12 @@ permalink: index school district
 ___
 
 ## Budget Information
+### Note:
+- The OSPI groups expenses into categories called Objects
 
-[Expense History In Dollars Per Student](pages/Expense History for the Index School DistrictDollars Per Student.png " Dollars Per Student")
+[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Index School DistrictDollars Per Student.png " Dollars Per Student")
+
+[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Index School DistrictDollars Per StudentLine.png " Dollars Per Student")
 
 
 ___
