@@ -23,6 +23,20 @@ ___
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAWest Valley School District (Yakima)8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAWest Valley School District (Yakima)8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [West Valley High School Freshman Campus](pages/West Valley School District (Yakima) West Valley High School Freshman CampusDual Credit BarChart.png "West Valley High School Freshman Campus Dual Credit Participation")

@@ -9,6 +9,20 @@ permalink: spokane international academy
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBASpokane International Academy8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBASpokane International Academy8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Budget Information
 ### Note:
 - The OSPI groups expenses into categories called Objects

@@ -23,20 +23,6 @@ ___
 
 ___
 
-## SBA 8th Grade ELA
-
-[Chart 1 of 1](pages/SBALa Center School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
-
-
-___
-
-## SBA 8th Grade MATH
-
-[Chart 1 of 1](pages/SBALa Center School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
-
-
-___
-
 ## Dual Credit Participation
 
 [La Center High School](pages/La Center School District La Center High SchoolDual Credit BarChart.png "La Center High School Dual Credit Participation")

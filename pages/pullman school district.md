@@ -23,6 +23,20 @@ ___
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAPullman School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAPullman School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Pullman High School](pages/Pullman School District Pullman High SchoolDual Credit BarChart.png "Pullman High School Dual Credit Participation")

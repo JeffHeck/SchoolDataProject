@@ -23,6 +23,20 @@ ___
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAEastmont School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAEastmont School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Eastmont Junior High](pages/Eastmont School District Eastmont Junior HighDual Credit BarChart.png "Eastmont Junior High Dual Credit Participation")

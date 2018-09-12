@@ -9,6 +9,20 @@ permalink: orchard prairie school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAOrchard Prairie School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAOrchard Prairie School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Budget Information
 ### Note:
 - The OSPI groups expenses into categories called Objects

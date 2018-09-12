@@ -23,6 +23,20 @@ ___
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAWhite River School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBAWhite River School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [White River High School](pages/White River School District White River High SchoolDual Credit BarChart.png "White River High School Dual Credit Participation")

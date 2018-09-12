@@ -9,20 +9,6 @@ permalink: methow valley school district
 
 ___
 
-## SBA 8th Grade ELA
-
-[Chart 1 of 1](pages/SBAMethow Valley School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
-
-
-___
-
-## SBA 8th Grade MATH
-
-[Chart 1 of 1](pages/SBAMethow Valley School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
-
-
-___
-
 ## Dual Credit Participation
 
 [Alternative School](pages/Methow Valley School District Alternative SchoolDual Credit BarChart.png "Alternative School Dual Credit Participation")

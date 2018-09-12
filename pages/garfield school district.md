@@ -9,6 +9,20 @@ permalink: garfield school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAGarfield School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAGarfield School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Garfield at Palouse High School](pages/Garfield School District Garfield at Palouse High SchoolDual Credit BarChart.png "Garfield at Palouse High School Dual Credit Participation")

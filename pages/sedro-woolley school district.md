@@ -23,6 +23,20 @@ ___
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBASedro-Woolley School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBASedro-Woolley School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Sedro Woolley Senior High School](pages/Sedro-Woolley School District Sedro Woolley Senior High SchoolDual Credit BarChart.png "Sedro Woolley Senior High School Dual Credit Participation")

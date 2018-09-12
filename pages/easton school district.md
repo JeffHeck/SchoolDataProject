@@ -9,6 +9,13 @@ permalink: easton school district
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAEaston School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
 ## Dual Credit Participation
 
 [Easton School](pages/Easton School District Easton SchoolDual Credit BarChart.png "Easton School Dual Credit Participation")

@@ -96,8 +96,6 @@ permalink:
 
 [Colville School District](colville school district)
 
-[Community Colleges of Spokane](community colleges of spokane)
-
 [Concrete School District](concrete school district)
 
 [Conway School District](conway school district)
@@ -170,8 +168,6 @@ permalink:
 
 [Evergreen School District (Stevens)](evergreen school district (stevens))
 
-[Excel Public Charter School LEA](excel public charter school lea)
-
 [Federal Way School District](federal way school district)
 
 [Ferndale School District](ferndale school district)
@@ -202,9 +198,11 @@ permalink:
 
 [Great Northern School District](great northern school district)
 
-[Green Dot Public Schools Seattle](green dot public schools seattle)
+[Green Dot Public Schools Destiny](green dot public schools destiny)
 
-[Green Dot Public Schools Tacoma](green dot public schools tacoma)
+[Green Dot Public Schools Excel](green dot public schools excel)
+
+[Green Dot Public Schools Rainier Valley](green dot public schools rainier valley)
 
 [Green Mountain School District](green mountain school district)
 
@@ -342,7 +340,7 @@ permalink:
 
 [Naselle-Grays River Valley School District](naselle-grays river valley school district)
 
-[Nespelem School District](nespelem school district)
+[Nespelem School District #14](nespelem school district #14)
 
 [Newport School District](newport school district)
 
@@ -514,8 +512,6 @@ permalink:
 
 [South Kitsap School District](south kitsap school district)
 
-[South Seattle Community College (CC Dist #6)](south seattle community college (cc dist #6))
-
 [South Whidbey School District](south whidbey school district)
 
 [Southside School District](southside school district)
@@ -543,6 +539,8 @@ permalink:
 [Stevenson-Carson School District](stevenson-carson school district)
 
 [Sultan School District](sultan school district)
+
+[Summit Public School Atlas](summit public school atlas)
 
 [Summit Public School Olympus](summit public school olympus)
 
@@ -584,8 +582,6 @@ permalink:
 
 [Tumwater School District](tumwater school district)
 
-[Unaffiliated Colleges Universities](unaffiliated colleges universities)
-
 [Unaffiliated Tribal Schools](unaffiliated tribal schools)
 
 [Union Gap School District](union gap school district)
@@ -597,6 +593,8 @@ permalink:
 [Vancouver School District](vancouver school district)
 
 [Vashon Island School District](vashon island school district)
+
+[WA HE LUT Indian School Agency](wa he lut indian school agency)
 
 [Wahkiakum School District](wahkiakum school district)
 

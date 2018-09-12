@@ -9,6 +9,13 @@ permalink: suquamish tribal education department
 
 ___
 
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBASuquamish Tribal Education Department8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
 ## SBA 8th Grade MATH
 
 [Chart 1 of 1](pages/SBASuquamish Tribal Education Department8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")

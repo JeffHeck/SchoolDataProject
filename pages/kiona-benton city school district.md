@@ -23,20 +23,6 @@ ___
 
 ___
 
-## SBA 8th Grade ELA
-
-[Chart 1 of 1](pages/SBAKiona-Benton City School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
-
-
-___
-
-## SBA 8th Grade MATH
-
-[Chart 1 of 1](pages/SBAKiona-Benton City School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
-
-
-___
-
 ## Dual Credit Participation
 
 [Kiona-Benton City High School](pages/Kiona-Benton City School District Kiona-Benton City High SchoolDual Credit BarChart.png "Kiona-Benton City High School Dual Credit Participation")
