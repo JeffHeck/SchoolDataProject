@@ -87,5 +87,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Clover Park School District Superintendent Compensation History](pages/Historical Compensation for the Clover Park SD in Constant 2017 DollarsDuty Title = Superintendent.png "Clover Park School District Superintendent Compensation History")
+[Clover Park School District Superintendent Compensation History](pages/Historical Compensation for the Clover Park SD in Current DollarsDuty Title = Superintendent.png "Clover Park School District Superintendent Compensation History")
 

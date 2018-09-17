@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[North River School District Superintendent Compensation History](pages/Historical Compensation for the North River SD in Constant 2017 DollarsDuty Title = Superintendent.png "North River School District Superintendent Compensation History")
+[North River School District Superintendent Compensation History](pages/Historical Compensation for the North River SD in Current DollarsDuty Title = Superintendent.png "North River School District Superintendent Compensation History")
 

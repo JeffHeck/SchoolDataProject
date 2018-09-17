@@ -87,5 +87,5 @@ ___
 
 ## Superintendent Compensation History
 
-[South Kitsap School District Superintendent Compensation History](pages/Historical Compensation for the South Kitsap SD in Constant 2017 DollarsDuty Title = Superintendent.png "South Kitsap School District Superintendent Compensation History")
+[South Kitsap School District Superintendent Compensation History](pages/Historical Compensation for the South Kitsap SD in Current DollarsDuty Title = Superintendent.png "South Kitsap School District Superintendent Compensation History")
 

@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Colville School District Superintendent Compensation History](pages/Historical Compensation for the Colville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Colville School District Superintendent Compensation History")
+[Colville School District Superintendent Compensation History](pages/Historical Compensation for the Colville SD in Current DollarsDuty Title = Superintendent.png "Colville School District Superintendent Compensation History")
 

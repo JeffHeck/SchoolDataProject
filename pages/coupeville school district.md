@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Coupeville School District Superintendent Compensation History](pages/Historical Compensation for the Coupeville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Coupeville School District Superintendent Compensation History")
+[Coupeville School District Superintendent Compensation History](pages/Historical Compensation for the Coupeville SD in Current DollarsDuty Title = Superintendent.png "Coupeville School District Superintendent Compensation History")
 

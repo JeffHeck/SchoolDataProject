@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Sultan School District Superintendent Compensation History](pages/Historical Compensation for the Sultan SD in Constant 2017 DollarsDuty Title = Superintendent.png "Sultan School District Superintendent Compensation History")
+[Sultan School District Superintendent Compensation History](pages/Historical Compensation for the Sultan SD in Current DollarsDuty Title = Superintendent.png "Sultan School District Superintendent Compensation History")
 

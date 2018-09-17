@@ -53,5 +53,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Quillayute Valley School District Superintendent Compensation History](pages/Historical Compensation for the Quillayute Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Quillayute Valley School District Superintendent Compensation History")
+[Quillayute Valley School District Superintendent Compensation History](pages/Historical Compensation for the Quillayute Valley SD in Current DollarsDuty Title = Superintendent.png "Quillayute Valley School District Superintendent Compensation History")
 

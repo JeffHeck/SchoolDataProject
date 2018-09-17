@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Fife School District Superintendent Compensation History](pages/Historical Compensation for the Fife SD in Constant 2017 DollarsDuty Title = Superintendent.png "Fife School District Superintendent Compensation History")
+[Fife School District Superintendent Compensation History](pages/Historical Compensation for the Fife SD in Current DollarsDuty Title = Superintendent.png "Fife School District Superintendent Compensation History")
 

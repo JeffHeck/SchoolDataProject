@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Manson School District Superintendent Compensation History](pages/Historical Compensation for the Manson SD in Constant 2017 DollarsDuty Title = Superintendent.png "Manson School District Superintendent Compensation History")
+[Manson School District Superintendent Compensation History](pages/Historical Compensation for the Manson SD in Current DollarsDuty Title = Superintendent.png "Manson School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Prescott School District Superintendent Compensation History](pages/Historical Compensation for the Prescott SD in Constant 2017 DollarsDuty Title = Superintendent.png "Prescott School District Superintendent Compensation History")
+[Prescott School District Superintendent Compensation History](pages/Historical Compensation for the Prescott SD in Current DollarsDuty Title = Superintendent.png "Prescott School District Superintendent Compensation History")
 

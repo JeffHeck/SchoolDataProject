@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Pateros School District Superintendent Compensation History](pages/Historical Compensation for the Pateros SD in Constant 2017 DollarsDuty Title = Superintendent.png "Pateros School District Superintendent Compensation History")
+[Pateros School District Superintendent Compensation History](pages/Historical Compensation for the Pateros SD in Current DollarsDuty Title = Superintendent.png "Pateros School District Superintendent Compensation History")
 

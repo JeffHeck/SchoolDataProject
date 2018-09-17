@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Palouse School District Superintendent Compensation History](pages/Historical Compensation for the Palouse SD in Constant 2017 DollarsDuty Title = Superintendent.png "Palouse School District Superintendent Compensation History")
+[Palouse School District Superintendent Compensation History](pages/Historical Compensation for the Palouse SD in Current DollarsDuty Title = Superintendent.png "Palouse School District Superintendent Compensation History")
 

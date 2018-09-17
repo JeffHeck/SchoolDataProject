@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[West Valley School District (Yakima) Superintendent Compensation History](pages/Historical Compensation for the West Valley (Yakima) SD in Constant 2017 DollarsDuty Title = Superintendent.png "West Valley School District (Yakima) Superintendent Compensation History")
+[West Valley School District (Yakima) Superintendent Compensation History](pages/Historical Compensation for the West Valley (Yakima) SD in Current DollarsDuty Title = Superintendent.png "West Valley School District (Yakima) Superintendent Compensation History")
 

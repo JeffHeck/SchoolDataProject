@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Naselle-Grays River Valley School District Superintendent Compensation History](pages/Historical Compensation for the Naselle-Grays River Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Naselle-Grays River Valley School District Superintendent Compensation History")
+[Naselle-Grays River Valley School District Superintendent Compensation History](pages/Historical Compensation for the Naselle-Grays River Valley SD in Current DollarsDuty Title = Superintendent.png "Naselle-Grays River Valley School District Superintendent Compensation History")
 

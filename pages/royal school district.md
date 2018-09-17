@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Royal School District Superintendent Compensation History](pages/Historical Compensation for the Royal SD in Constant 2017 DollarsDuty Title = Superintendent.png "Royal School District Superintendent Compensation History")
+[Royal School District Superintendent Compensation History](pages/Historical Compensation for the Royal SD in Current DollarsDuty Title = Superintendent.png "Royal School District Superintendent Compensation History")
 

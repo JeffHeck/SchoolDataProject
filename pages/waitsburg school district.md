@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Waitsburg School District Superintendent Compensation History](pages/Historical Compensation for the Waitsburg SD in Constant 2017 DollarsDuty Title = Superintendent.png "Waitsburg School District Superintendent Compensation History")
+[Waitsburg School District Superintendent Compensation History](pages/Historical Compensation for the Waitsburg SD in Current DollarsDuty Title = Superintendent.png "Waitsburg School District Superintendent Compensation History")
 

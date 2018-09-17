@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[McCleary School District Superintendent Compensation History](pages/Historical Compensation for the McCleary SD in Constant 2017 DollarsDuty Title = Superintendent.png "McCleary School District Superintendent Compensation History")
+[McCleary School District Superintendent Compensation History](pages/Historical Compensation for the McCleary SD in Current DollarsDuty Title = Superintendent.png "McCleary School District Superintendent Compensation History")
 

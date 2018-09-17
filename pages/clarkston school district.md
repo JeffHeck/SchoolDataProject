@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Clarkston School District Superintendent Compensation History](pages/Historical Compensation for the Clarkston SD in Constant 2017 DollarsDuty Title = Superintendent.png "Clarkston School District Superintendent Compensation History")
+[Clarkston School District Superintendent Compensation History](pages/Historical Compensation for the Clarkston SD in Current DollarsDuty Title = Superintendent.png "Clarkston School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Republic School District Superintendent Compensation History](pages/Historical Compensation for the Republic SD in Constant 2017 DollarsDuty Title = Superintendent.png "Republic School District Superintendent Compensation History")
+[Republic School District Superintendent Compensation History](pages/Historical Compensation for the Republic SD in Current DollarsDuty Title = Superintendent.png "Republic School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Tekoa School District Superintendent Compensation History](pages/Historical Compensation for the Tekoa SD in Constant 2017 DollarsDuty Title = Superintendent.png "Tekoa School District Superintendent Compensation History")
+[Tekoa School District Superintendent Compensation History](pages/Historical Compensation for the Tekoa SD in Current DollarsDuty Title = Superintendent.png "Tekoa School District Superintendent Compensation History")
 

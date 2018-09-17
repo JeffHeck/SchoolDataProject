@@ -56,5 +56,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Spokane International Academy Superintendent Compensation History](pages/Historical Compensation for the Spokane International Academy SD in Constant 2017 DollarsDuty Title = Superintendent.png "Spokane International Academy Superintendent Compensation History")
+[Spokane International Academy Superintendent Compensation History](pages/Historical Compensation for the Spokane International Academy SD in Current DollarsDuty Title = Superintendent.png "Spokane International Academy Superintendent Compensation History")
 

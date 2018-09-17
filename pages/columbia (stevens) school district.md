@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Columbia (Stevens) School District Superintendent Compensation History](pages/Historical Compensation for the Columbia (Stevens) SD in Constant 2017 DollarsDuty Title = Superintendent.png "Columbia (Stevens) School District Superintendent Compensation History")
+[Columbia (Stevens) School District Superintendent Compensation History](pages/Historical Compensation for the Columbia (Stevens) SD in Current DollarsDuty Title = Superintendent.png "Columbia (Stevens) School District Superintendent Compensation History")
 

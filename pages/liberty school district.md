@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Liberty School District Superintendent Compensation History](pages/Historical Compensation for the Liberty SD in Constant 2017 DollarsDuty Title = Superintendent.png "Liberty School District Superintendent Compensation History")
+[Liberty School District Superintendent Compensation History](pages/Historical Compensation for the Liberty SD in Current DollarsDuty Title = Superintendent.png "Liberty School District Superintendent Compensation History")
 

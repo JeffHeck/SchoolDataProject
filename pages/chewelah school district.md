@@ -53,5 +53,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Chewelah School District Superintendent Compensation History](pages/Historical Compensation for the Chewelah SD in Constant 2017 DollarsDuty Title = Superintendent.png "Chewelah School District Superintendent Compensation History")
+[Chewelah School District Superintendent Compensation History](pages/Historical Compensation for the Chewelah SD in Current DollarsDuty Title = Superintendent.png "Chewelah School District Superintendent Compensation History")
 

@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Cashmere School District Superintendent Compensation History](pages/Historical Compensation for the Cashmere SD in Constant 2017 DollarsDuty Title = Superintendent.png "Cashmere School District Superintendent Compensation History")
+[Cashmere School District Superintendent Compensation History](pages/Historical Compensation for the Cashmere SD in Current DollarsDuty Title = Superintendent.png "Cashmere School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Wapato School District Superintendent Compensation History](pages/Historical Compensation for the Wapato SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wapato School District Superintendent Compensation History")
+[Wapato School District Superintendent Compensation History](pages/Historical Compensation for the Wapato SD in Current DollarsDuty Title = Superintendent.png "Wapato School District Superintendent Compensation History")
 

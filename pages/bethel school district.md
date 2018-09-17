@@ -89,5 +89,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Bethel School District Superintendent Compensation History](pages/Historical Compensation for the Bethel SD in Constant 2017 DollarsDuty Title = Superintendent.png "Bethel School District Superintendent Compensation History")
+[Bethel School District Superintendent Compensation History](pages/Historical Compensation for the Bethel SD in Current DollarsDuty Title = Superintendent.png "Bethel School District Superintendent Compensation History")
 

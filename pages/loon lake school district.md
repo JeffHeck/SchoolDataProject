@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Loon Lake School District Superintendent Compensation History](pages/Historical Compensation for the Loon Lake SD in Constant 2017 DollarsDuty Title = Superintendent.png "Loon Lake School District Superintendent Compensation History")
+[Loon Lake School District Superintendent Compensation History](pages/Historical Compensation for the Loon Lake SD in Current DollarsDuty Title = Superintendent.png "Loon Lake School District Superintendent Compensation History")
 

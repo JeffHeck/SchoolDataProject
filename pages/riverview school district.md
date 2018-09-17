@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Riverview School District Superintendent Compensation History](pages/Historical Compensation for the Riverview SD in Constant 2017 DollarsDuty Title = Superintendent.png "Riverview School District Superintendent Compensation History")
+[Riverview School District Superintendent Compensation History](pages/Historical Compensation for the Riverview SD in Current DollarsDuty Title = Superintendent.png "Riverview School District Superintendent Compensation History")
 

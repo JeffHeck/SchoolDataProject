@@ -101,5 +101,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Puyallup School District Superintendent Compensation History](pages/Historical Compensation for the Puyallup SD in Constant 2017 DollarsDuty Title = Superintendent.png "Puyallup School District Superintendent Compensation History")
+[Puyallup School District Superintendent Compensation History](pages/Historical Compensation for the Puyallup SD in Current DollarsDuty Title = Superintendent.png "Puyallup School District Superintendent Compensation History")
 

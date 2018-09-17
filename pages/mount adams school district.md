@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mount Adams School District Superintendent Compensation History](pages/Historical Compensation for the Mount Adams SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mount Adams School District Superintendent Compensation History")
+[Mount Adams School District Superintendent Compensation History](pages/Historical Compensation for the Mount Adams SD in Current DollarsDuty Title = Superintendent.png "Mount Adams School District Superintendent Compensation History")
 

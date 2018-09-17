@@ -52,5 +52,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Cosmopolis School District Superintendent Compensation History](pages/Historical Compensation for the Cosmopolis SD in Constant 2017 DollarsDuty Title = Superintendent.png "Cosmopolis School District Superintendent Compensation History")
+[Cosmopolis School District Superintendent Compensation History](pages/Historical Compensation for the Cosmopolis SD in Current DollarsDuty Title = Superintendent.png "Cosmopolis School District Superintendent Compensation History")
 

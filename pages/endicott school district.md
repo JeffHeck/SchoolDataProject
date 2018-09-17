@@ -56,5 +56,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Endicott School District Superintendent Compensation History](pages/Historical Compensation for the Endicott SD in Constant 2017 DollarsDuty Title = Superintendent.png "Endicott School District Superintendent Compensation History")
+[Endicott School District Superintendent Compensation History](pages/Historical Compensation for the Endicott SD in Current DollarsDuty Title = Superintendent.png "Endicott School District Superintendent Compensation History")
 

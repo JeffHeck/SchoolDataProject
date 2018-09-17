@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Thorp School District Superintendent Compensation History](pages/Historical Compensation for the Thorp SD in Constant 2017 DollarsDuty Title = Superintendent.png "Thorp School District Superintendent Compensation History")
+[Thorp School District Superintendent Compensation History](pages/Historical Compensation for the Thorp SD in Current DollarsDuty Title = Superintendent.png "Thorp School District Superintendent Compensation History")
 

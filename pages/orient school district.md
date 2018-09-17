@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Orient School District Superintendent Compensation History](pages/Historical Compensation for the Orient SD in Constant 2017 DollarsDuty Title = Superintendent.png "Orient School District Superintendent Compensation History")
+[Orient School District Superintendent Compensation History](pages/Historical Compensation for the Orient SD in Current DollarsDuty Title = Superintendent.png "Orient School District Superintendent Compensation History")
 

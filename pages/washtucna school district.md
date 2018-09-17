@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Washtucna School District Superintendent Compensation History](pages/Historical Compensation for the Washtucna SD in Constant 2017 DollarsDuty Title = Superintendent.png "Washtucna School District Superintendent Compensation History")
+[Washtucna School District Superintendent Compensation History](pages/Historical Compensation for the Washtucna SD in Current DollarsDuty Title = Superintendent.png "Washtucna School District Superintendent Compensation History")
 

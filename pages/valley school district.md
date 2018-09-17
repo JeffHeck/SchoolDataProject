@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Valley School District Superintendent Compensation History](pages/Historical Compensation for the Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Valley School District Superintendent Compensation History")
+[Valley School District Superintendent Compensation History](pages/Historical Compensation for the Valley SD in Current DollarsDuty Title = Superintendent.png "Valley School District Superintendent Compensation History")
 

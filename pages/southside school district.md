@@ -56,5 +56,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Southside School District Superintendent Compensation History](pages/Historical Compensation for the Southside SD in Constant 2017 DollarsDuty Title = Superintendent.png "Southside School District Superintendent Compensation History")
+[Southside School District Superintendent Compensation History](pages/Historical Compensation for the Southside SD in Current DollarsDuty Title = Superintendent.png "Southside School District Superintendent Compensation History")
 

@@ -56,5 +56,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lamont School District Superintendent Compensation History](pages/Historical Compensation for the Lamont SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lamont School District Superintendent Compensation History")
+[Lamont School District Superintendent Compensation History](pages/Historical Compensation for the Lamont SD in Current DollarsDuty Title = Superintendent.png "Lamont School District Superintendent Compensation History")
 

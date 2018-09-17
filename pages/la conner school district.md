@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[La Conner School District Superintendent Compensation History](pages/Historical Compensation for the La Conner SD in Constant 2017 DollarsDuty Title = Superintendent.png "La Conner School District Superintendent Compensation History")
+[La Conner School District Superintendent Compensation History](pages/Historical Compensation for the La Conner SD in Current DollarsDuty Title = Superintendent.png "La Conner School District Superintendent Compensation History")
 

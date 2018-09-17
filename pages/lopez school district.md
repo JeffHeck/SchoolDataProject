@@ -51,5 +51,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lopez School District Superintendent Compensation History](pages/Historical Compensation for the Lopez SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lopez School District Superintendent Compensation History")
+[Lopez School District Superintendent Compensation History](pages/Historical Compensation for the Lopez SD in Current DollarsDuty Title = Superintendent.png "Lopez School District Superintendent Compensation History")
 

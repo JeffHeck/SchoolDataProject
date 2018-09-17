@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Union Gap School District Superintendent Compensation History](pages/Historical Compensation for the Union Gap SD in Constant 2017 DollarsDuty Title = Superintendent.png "Union Gap School District Superintendent Compensation History")
+[Union Gap School District Superintendent Compensation History](pages/Historical Compensation for the Union Gap SD in Current DollarsDuty Title = Superintendent.png "Union Gap School District Superintendent Compensation History")
 

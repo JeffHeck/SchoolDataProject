@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Tahoma School District Superintendent Compensation History](pages/Historical Compensation for the Tahoma SD in Constant 2017 DollarsDuty Title = Superintendent.png "Tahoma School District Superintendent Compensation History")
+[Tahoma School District Superintendent Compensation History](pages/Historical Compensation for the Tahoma SD in Current DollarsDuty Title = Superintendent.png "Tahoma School District Superintendent Compensation History")
 

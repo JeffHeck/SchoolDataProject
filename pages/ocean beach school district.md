@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Ocean Beach School District Superintendent Compensation History](pages/Historical Compensation for the Ocean Beach SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ocean Beach School District Superintendent Compensation History")
+[Ocean Beach School District Superintendent Compensation History](pages/Historical Compensation for the Ocean Beach SD in Current DollarsDuty Title = Superintendent.png "Ocean Beach School District Superintendent Compensation History")
 

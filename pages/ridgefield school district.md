@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Ridgefield School District Superintendent Compensation History](pages/Historical Compensation for the Ridgefield SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ridgefield School District Superintendent Compensation History")
+[Ridgefield School District Superintendent Compensation History](pages/Historical Compensation for the Ridgefield SD in Current DollarsDuty Title = Superintendent.png "Ridgefield School District Superintendent Compensation History")
 

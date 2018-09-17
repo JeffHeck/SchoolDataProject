@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Ocosta School District Superintendent Compensation History](pages/Historical Compensation for the Ocosta SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ocosta School District Superintendent Compensation History")
+[Ocosta School District Superintendent Compensation History](pages/Historical Compensation for the Ocosta SD in Current DollarsDuty Title = Superintendent.png "Ocosta School District Superintendent Compensation History")
 

@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[LaCrosse School District Superintendent Compensation History](pages/Historical Compensation for the LaCrosse SD in Constant 2017 DollarsDuty Title = Superintendent.png "LaCrosse School District Superintendent Compensation History")
+[LaCrosse School District Superintendent Compensation History](pages/Historical Compensation for the LaCrosse SD in Current DollarsDuty Title = Superintendent.png "LaCrosse School District Superintendent Compensation History")
 

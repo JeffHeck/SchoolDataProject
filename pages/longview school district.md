@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Longview School District Superintendent Compensation History](pages/Historical Compensation for the Longview SD in Constant 2017 DollarsDuty Title = Superintendent.png "Longview School District Superintendent Compensation History")
+[Longview School District Superintendent Compensation History](pages/Historical Compensation for the Longview SD in Current DollarsDuty Title = Superintendent.png "Longview School District Superintendent Compensation History")
 

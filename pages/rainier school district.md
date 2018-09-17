@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Rainier School District Superintendent Compensation History](pages/Historical Compensation for the Rainier SD in Constant 2017 DollarsDuty Title = Superintendent.png "Rainier School District Superintendent Compensation History")
+[Rainier School District Superintendent Compensation History](pages/Historical Compensation for the Rainier SD in Current DollarsDuty Title = Superintendent.png "Rainier School District Superintendent Compensation History")
 

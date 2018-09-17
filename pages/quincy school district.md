@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Quincy School District Superintendent Compensation History](pages/Historical Compensation for the Quincy SD in Constant 2017 DollarsDuty Title = Superintendent.png "Quincy School District Superintendent Compensation History")
+[Quincy School District Superintendent Compensation History](pages/Historical Compensation for the Quincy SD in Current DollarsDuty Title = Superintendent.png "Quincy School District Superintendent Compensation History")
 

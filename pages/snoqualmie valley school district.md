@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Snoqualmie Valley School District Superintendent Compensation History](pages/Historical Compensation for the Snoqualmie Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Snoqualmie Valley School District Superintendent Compensation History")
+[Snoqualmie Valley School District Superintendent Compensation History](pages/Historical Compensation for the Snoqualmie Valley SD in Current DollarsDuty Title = Superintendent.png "Snoqualmie Valley School District Superintendent Compensation History")
 

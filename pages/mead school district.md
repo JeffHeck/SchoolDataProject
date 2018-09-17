@@ -87,5 +87,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mead School District Superintendent Compensation History](pages/Historical Compensation for the Mead SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mead School District Superintendent Compensation History")
+[Mead School District Superintendent Compensation History](pages/Historical Compensation for the Mead SD in Current DollarsDuty Title = Superintendent.png "Mead School District Superintendent Compensation History")
 

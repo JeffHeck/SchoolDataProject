@@ -40,5 +40,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Index School District Superintendent Compensation History](pages/Historical Compensation for the Index SD in Constant 2017 DollarsDuty Title = Superintendent.png "Index School District Superintendent Compensation History")
+[Index School District Superintendent Compensation History](pages/Historical Compensation for the Index SD in Current DollarsDuty Title = Superintendent.png "Index School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Selkirk School District Superintendent Compensation History](pages/Historical Compensation for the Selkirk SD in Constant 2017 DollarsDuty Title = Superintendent.png "Selkirk School District Superintendent Compensation History")
+[Selkirk School District Superintendent Compensation History](pages/Historical Compensation for the Selkirk SD in Current DollarsDuty Title = Superintendent.png "Selkirk School District Superintendent Compensation History")
 

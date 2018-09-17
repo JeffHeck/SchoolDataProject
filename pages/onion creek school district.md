@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Onion Creek School District Superintendent Compensation History](pages/Historical Compensation for the Onion Creek SD in Constant 2017 DollarsDuty Title = Superintendent.png "Onion Creek School District Superintendent Compensation History")
+[Onion Creek School District Superintendent Compensation History](pages/Historical Compensation for the Onion Creek SD in Current DollarsDuty Title = Superintendent.png "Onion Creek School District Superintendent Compensation History")
 

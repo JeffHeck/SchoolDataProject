@@ -101,5 +101,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Vancouver School District Superintendent Compensation History](pages/Historical Compensation for the Vancouver SD in Constant 2017 DollarsDuty Title = Superintendent.png "Vancouver School District Superintendent Compensation History")
+[Vancouver School District Superintendent Compensation History](pages/Historical Compensation for the Vancouver SD in Current DollarsDuty Title = Superintendent.png "Vancouver School District Superintendent Compensation History")
 

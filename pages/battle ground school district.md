@@ -85,5 +85,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Battle Ground School District Superintendent Compensation History](pages/Historical Compensation for the Battle Ground SD in Constant 2017 DollarsDuty Title = Superintendent.png "Battle Ground School District Superintendent Compensation History")
+[Battle Ground School District Superintendent Compensation History](pages/Historical Compensation for the Battle Ground SD in Current DollarsDuty Title = Superintendent.png "Battle Ground School District Superintendent Compensation History")
 

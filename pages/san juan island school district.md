@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[San Juan Island School District Superintendent Compensation History](pages/Historical Compensation for the San Juan Island SD in Constant 2017 DollarsDuty Title = Superintendent.png "San Juan Island School District Superintendent Compensation History")
+[San Juan Island School District Superintendent Compensation History](pages/Historical Compensation for the San Juan Island SD in Current DollarsDuty Title = Superintendent.png "San Juan Island School District Superintendent Compensation History")
 

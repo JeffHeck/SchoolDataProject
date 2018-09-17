@@ -91,5 +91,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Evergreen School District (Clark) Superintendent Compensation History](pages/Historical Compensation for the Evergreen (Clark) SD in Constant 2017 DollarsDuty Title = Superintendent.png "Evergreen School District (Clark) Superintendent Compensation History")
+[Evergreen School District (Clark) Superintendent Compensation History](pages/Historical Compensation for the Evergreen (Clark) SD in Current DollarsDuty Title = Superintendent.png "Evergreen School District (Clark) Superintendent Compensation History")
 

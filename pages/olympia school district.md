@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Olympia School District Superintendent Compensation History](pages/Historical Compensation for the Olympia SD in Constant 2017 DollarsDuty Title = Superintendent.png "Olympia School District Superintendent Compensation History")
+[Olympia School District Superintendent Compensation History](pages/Historical Compensation for the Olympia SD in Current DollarsDuty Title = Superintendent.png "Olympia School District Superintendent Compensation History")
 

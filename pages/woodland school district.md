@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Woodland School District Superintendent Compensation History](pages/Historical Compensation for the Woodland SD in Constant 2017 DollarsDuty Title = Superintendent.png "Woodland School District Superintendent Compensation History")
+[Woodland School District Superintendent Compensation History](pages/Historical Compensation for the Woodland SD in Current DollarsDuty Title = Superintendent.png "Woodland School District Superintendent Compensation History")
 

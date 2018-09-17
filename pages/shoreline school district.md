@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Shoreline School District Superintendent Compensation History](pages/Historical Compensation for the Shoreline SD in Constant 2017 DollarsDuty Title = Superintendent.png "Shoreline School District Superintendent Compensation History")
+[Shoreline School District Superintendent Compensation History](pages/Historical Compensation for the Shoreline SD in Current DollarsDuty Title = Superintendent.png "Shoreline School District Superintendent Compensation History")
 

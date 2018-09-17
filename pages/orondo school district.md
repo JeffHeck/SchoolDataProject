@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Orondo School District Superintendent Compensation History](pages/Historical Compensation for the Orondo SD in Constant 2017 DollarsDuty Title = Superintendent.png "Orondo School District Superintendent Compensation History")
+[Orondo School District Superintendent Compensation History](pages/Historical Compensation for the Orondo SD in Current DollarsDuty Title = Superintendent.png "Orondo School District Superintendent Compensation History")
 

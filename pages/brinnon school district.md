@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Brinnon School District Superintendent Compensation History](pages/Historical Compensation for the Brinnon SD in Constant 2017 DollarsDuty Title = Superintendent.png "Brinnon School District Superintendent Compensation History")
+[Brinnon School District Superintendent Compensation History](pages/Historical Compensation for the Brinnon SD in Current DollarsDuty Title = Superintendent.png "Brinnon School District Superintendent Compensation History")
 

@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Griffin School District Superintendent Compensation History](pages/Historical Compensation for the Griffin SD in Constant 2017 DollarsDuty Title = Superintendent.png "Griffin School District Superintendent Compensation History")
+[Griffin School District Superintendent Compensation History](pages/Historical Compensation for the Griffin SD in Current DollarsDuty Title = Superintendent.png "Griffin School District Superintendent Compensation History")
 

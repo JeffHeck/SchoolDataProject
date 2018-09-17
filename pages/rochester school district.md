@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Rochester School District Superintendent Compensation History](pages/Historical Compensation for the Rochester SD in Constant 2017 DollarsDuty Title = Superintendent.png "Rochester School District Superintendent Compensation History")
+[Rochester School District Superintendent Compensation History](pages/Historical Compensation for the Rochester SD in Current DollarsDuty Title = Superintendent.png "Rochester School District Superintendent Compensation History")
 

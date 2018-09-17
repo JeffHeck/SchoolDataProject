@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[West Valley School District (Spokane) Superintendent Compensation History](pages/Historical Compensation for the West Valley (Spokane) SD in Constant 2017 DollarsDuty Title = Superintendent.png "West Valley School District (Spokane) Superintendent Compensation History")
+[West Valley School District (Spokane) Superintendent Compensation History](pages/Historical Compensation for the West Valley (Spokane) SD in Current DollarsDuty Title = Superintendent.png "West Valley School District (Spokane) Superintendent Compensation History")
 

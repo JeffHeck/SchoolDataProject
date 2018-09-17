@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Touchet School District Superintendent Compensation History](pages/Historical Compensation for the Touchet SD in Constant 2017 DollarsDuty Title = Superintendent.png "Touchet School District Superintendent Compensation History")
+[Touchet School District Superintendent Compensation History](pages/Historical Compensation for the Touchet SD in Current DollarsDuty Title = Superintendent.png "Touchet School District Superintendent Compensation History")
 

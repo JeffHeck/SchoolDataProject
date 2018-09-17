@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Washougal School District Superintendent Compensation History](pages/Historical Compensation for the Washougal SD in Constant 2017 DollarsDuty Title = Superintendent.png "Washougal School District Superintendent Compensation History")
+[Washougal School District Superintendent Compensation History](pages/Historical Compensation for the Washougal SD in Current DollarsDuty Title = Superintendent.png "Washougal School District Superintendent Compensation History")
 

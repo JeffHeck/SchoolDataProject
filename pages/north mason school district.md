@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[North Mason School District Superintendent Compensation History](pages/Historical Compensation for the North Mason SD in Constant 2017 DollarsDuty Title = Superintendent.png "North Mason School District Superintendent Compensation History")
+[North Mason School District Superintendent Compensation History](pages/Historical Compensation for the North Mason SD in Current DollarsDuty Title = Superintendent.png "North Mason School District Superintendent Compensation History")
 

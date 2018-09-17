@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Orcas Island School District Superintendent Compensation History](pages/Historical Compensation for the Orcas Island SD in Constant 2017 DollarsDuty Title = Superintendent.png "Orcas Island School District Superintendent Compensation History")
+[Orcas Island School District Superintendent Compensation History](pages/Historical Compensation for the Orcas Island SD in Current DollarsDuty Title = Superintendent.png "Orcas Island School District Superintendent Compensation History")
 

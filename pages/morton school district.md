@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Morton School District Superintendent Compensation History](pages/Historical Compensation for the Morton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Morton School District Superintendent Compensation History")
+[Morton School District Superintendent Compensation History](pages/Historical Compensation for the Morton SD in Current DollarsDuty Title = Superintendent.png "Morton School District Superintendent Compensation History")
 

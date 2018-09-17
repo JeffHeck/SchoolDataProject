@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Ferndale School District Superintendent Compensation History](pages/Historical Compensation for the Ferndale SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ferndale School District Superintendent Compensation History")
+[Ferndale School District Superintendent Compensation History](pages/Historical Compensation for the Ferndale SD in Current DollarsDuty Title = Superintendent.png "Ferndale School District Superintendent Compensation History")
 

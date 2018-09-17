@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Bickleton School District Superintendent Compensation History](pages/Historical Compensation for the Bickleton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Bickleton School District Superintendent Compensation History")
+[Bickleton School District Superintendent Compensation History](pages/Historical Compensation for the Bickleton SD in Current DollarsDuty Title = Superintendent.png "Bickleton School District Superintendent Compensation History")
 

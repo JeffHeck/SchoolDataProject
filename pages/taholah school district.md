@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Taholah School District Superintendent Compensation History](pages/Historical Compensation for the Taholah SD in Constant 2017 DollarsDuty Title = Superintendent.png "Taholah School District Superintendent Compensation History")
+[Taholah School District Superintendent Compensation History](pages/Historical Compensation for the Taholah SD in Current DollarsDuty Title = Superintendent.png "Taholah School District Superintendent Compensation History")
 

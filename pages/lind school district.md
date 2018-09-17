@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lind School District Superintendent Compensation History](pages/Historical Compensation for the Lind SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lind School District Superintendent Compensation History")
+[Lind School District Superintendent Compensation History](pages/Historical Compensation for the Lind SD in Current DollarsDuty Title = Superintendent.png "Lind School District Superintendent Compensation History")
 

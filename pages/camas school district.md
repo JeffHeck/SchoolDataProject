@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Camas School District Superintendent Compensation History](pages/Historical Compensation for the Camas SD in Constant 2017 DollarsDuty Title = Superintendent.png "Camas School District Superintendent Compensation History")
+[Camas School District Superintendent Compensation History](pages/Historical Compensation for the Camas SD in Current DollarsDuty Title = Superintendent.png "Camas School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Stevenson-Carson School District Superintendent Compensation History](pages/Historical Compensation for the Stevenson-Carson SD in Constant 2017 DollarsDuty Title = Superintendent.png "Stevenson-Carson School District Superintendent Compensation History")
+[Stevenson-Carson School District Superintendent Compensation History](pages/Historical Compensation for the Stevenson-Carson SD in Current DollarsDuty Title = Superintendent.png "Stevenson-Carson School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mount Vernon School District Superintendent Compensation History](pages/Historical Compensation for the Mount Vernon SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mount Vernon School District Superintendent Compensation History")
+[Mount Vernon School District Superintendent Compensation History](pages/Historical Compensation for the Mount Vernon SD in Current DollarsDuty Title = Superintendent.png "Mount Vernon School District Superintendent Compensation History")
 

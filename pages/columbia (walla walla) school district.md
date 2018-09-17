@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Columbia (Walla Walla) School District Superintendent Compensation History](pages/Historical Compensation for the Columbia (Walla Walla) SD in Constant 2017 DollarsDuty Title = Superintendent.png "Columbia (Walla Walla) School District Superintendent Compensation History")
+[Columbia (Walla Walla) School District Superintendent Compensation History](pages/Historical Compensation for the Columbia (Walla Walla) SD in Current DollarsDuty Title = Superintendent.png "Columbia (Walla Walla) School District Superintendent Compensation History")
 

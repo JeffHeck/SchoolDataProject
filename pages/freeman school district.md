@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Freeman School District Superintendent Compensation History](pages/Historical Compensation for the Freeman SD in Constant 2017 DollarsDuty Title = Superintendent.png "Freeman School District Superintendent Compensation History")
+[Freeman School District Superintendent Compensation History](pages/Historical Compensation for the Freeman SD in Current DollarsDuty Title = Superintendent.png "Freeman School District Superintendent Compensation History")
 

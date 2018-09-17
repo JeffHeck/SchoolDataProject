@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Creston School District Superintendent Compensation History](pages/Historical Compensation for the Creston SD in Constant 2017 DollarsDuty Title = Superintendent.png "Creston School District Superintendent Compensation History")
+[Creston School District Superintendent Compensation History](pages/Historical Compensation for the Creston SD in Current DollarsDuty Title = Superintendent.png "Creston School District Superintendent Compensation History")
 

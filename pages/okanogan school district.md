@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Okanogan School District Superintendent Compensation History](pages/Historical Compensation for the Okanogan SD in Constant 2017 DollarsDuty Title = Superintendent.png "Okanogan School District Superintendent Compensation History")
+[Okanogan School District Superintendent Compensation History](pages/Historical Compensation for the Okanogan SD in Current DollarsDuty Title = Superintendent.png "Okanogan School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Newport School District Superintendent Compensation History](pages/Historical Compensation for the Newport SD in Constant 2017 DollarsDuty Title = Superintendent.png "Newport School District Superintendent Compensation History")
+[Newport School District Superintendent Compensation History](pages/Historical Compensation for the Newport SD in Current DollarsDuty Title = Superintendent.png "Newport School District Superintendent Compensation History")
 

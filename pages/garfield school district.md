@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Garfield School District Superintendent Compensation History](pages/Historical Compensation for the Garfield SD in Constant 2017 DollarsDuty Title = Superintendent.png "Garfield School District Superintendent Compensation History")
+[Garfield School District Superintendent Compensation History](pages/Historical Compensation for the Garfield SD in Current DollarsDuty Title = Superintendent.png "Garfield School District Superintendent Compensation History")
 

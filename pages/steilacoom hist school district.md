@@ -53,5 +53,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Steilacoom Hist School District Superintendent Compensation History](pages/Historical Compensation for the Steilacoom Hist SD in Constant 2017 DollarsDuty Title = Superintendent.png "Steilacoom Hist School District Superintendent Compensation History")
+[Steilacoom Hist School District Superintendent Compensation History](pages/Historical Compensation for the Steilacoom Hist SD in Current DollarsDuty Title = Superintendent.png "Steilacoom Hist School District Superintendent Compensation History")
 

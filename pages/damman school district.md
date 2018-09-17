@@ -38,5 +38,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Damman School District Superintendent Compensation History](pages/Historical Compensation for the Damman SD in Constant 2017 DollarsDuty Title = Superintendent.png "Damman School District Superintendent Compensation History")
+[Damman School District Superintendent Compensation History](pages/Historical Compensation for the Damman SD in Current DollarsDuty Title = Superintendent.png "Damman School District Superintendent Compensation History")
 

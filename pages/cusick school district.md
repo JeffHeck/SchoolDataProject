@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Cusick School District Superintendent Compensation History](pages/Historical Compensation for the Cusick SD in Constant 2017 DollarsDuty Title = Superintendent.png "Cusick School District Superintendent Compensation History")
+[Cusick School District Superintendent Compensation History](pages/Historical Compensation for the Cusick SD in Current DollarsDuty Title = Superintendent.png "Cusick School District Superintendent Compensation History")
 

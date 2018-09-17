@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Glenwood School District Superintendent Compensation History](pages/Historical Compensation for the Glenwood SD in Constant 2017 DollarsDuty Title = Superintendent.png "Glenwood School District Superintendent Compensation History")
+[Glenwood School District Superintendent Compensation History](pages/Historical Compensation for the Glenwood SD in Current DollarsDuty Title = Superintendent.png "Glenwood School District Superintendent Compensation History")
 

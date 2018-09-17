@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Warden School District Superintendent Compensation History](pages/Historical Compensation for the Warden SD in Constant 2017 DollarsDuty Title = Superintendent.png "Warden School District Superintendent Compensation History")
+[Warden School District Superintendent Compensation History](pages/Historical Compensation for the Warden SD in Current DollarsDuty Title = Superintendent.png "Warden School District Superintendent Compensation History")
 

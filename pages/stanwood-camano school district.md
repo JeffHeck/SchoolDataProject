@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Stanwood-Camano School District Superintendent Compensation History](pages/Historical Compensation for the Stanwood-Camano SD in Constant 2017 DollarsDuty Title = Superintendent.png "Stanwood-Camano School District Superintendent Compensation History")
+[Stanwood-Camano School District Superintendent Compensation History](pages/Historical Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Superintendent.png "Stanwood-Camano School District Superintendent Compensation History")
 

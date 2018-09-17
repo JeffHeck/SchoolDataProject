@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Napavine School District Superintendent Compensation History](pages/Historical Compensation for the Napavine SD in Constant 2017 DollarsDuty Title = Superintendent.png "Napavine School District Superintendent Compensation History")
+[Napavine School District Superintendent Compensation History](pages/Historical Compensation for the Napavine SD in Current DollarsDuty Title = Superintendent.png "Napavine School District Superintendent Compensation History")
 

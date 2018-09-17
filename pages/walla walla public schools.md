@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Walla Walla Public Schools Superintendent Compensation History](pages/Historical Compensation for the Walla Walla SD in Constant 2017 DollarsDuty Title = Superintendent.png "Walla Walla Public Schools Superintendent Compensation History")
+[Walla Walla Public Schools Superintendent Compensation History](pages/Historical Compensation for the Walla Walla SD in Current DollarsDuty Title = Superintendent.png "Walla Walla Public Schools Superintendent Compensation History")
 

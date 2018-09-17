@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Port Angeles School District Superintendent Compensation History](pages/Historical Compensation for the Port Angeles SD in Constant 2017 DollarsDuty Title = Superintendent.png "Port Angeles School District Superintendent Compensation History")
+[Port Angeles School District Superintendent Compensation History](pages/Historical Compensation for the Port Angeles SD in Current DollarsDuty Title = Superintendent.png "Port Angeles School District Superintendent Compensation History")
 

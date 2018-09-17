@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Bremerton School District Superintendent Compensation History](pages/Historical Compensation for the Bremerton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Bremerton School District Superintendent Compensation History")
+[Bremerton School District Superintendent Compensation History](pages/Historical Compensation for the Bremerton SD in Current DollarsDuty Title = Superintendent.png "Bremerton School District Superintendent Compensation History")
 

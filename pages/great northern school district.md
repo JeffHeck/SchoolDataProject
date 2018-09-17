@@ -38,5 +38,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Great Northern School District Superintendent Compensation History](pages/Historical Compensation for the Great Northern SD in Constant 2017 DollarsDuty Title = Superintendent.png "Great Northern School District Superintendent Compensation History")
+[Great Northern School District Superintendent Compensation History](pages/Historical Compensation for the Great Northern SD in Current DollarsDuty Title = Superintendent.png "Great Northern School District Superintendent Compensation History")
 

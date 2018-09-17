@@ -56,5 +56,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Easton School District Superintendent Compensation History](pages/Historical Compensation for the Easton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Easton School District Superintendent Compensation History")
+[Easton School District Superintendent Compensation History](pages/Historical Compensation for the Easton SD in Current DollarsDuty Title = Superintendent.png "Easton School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Eatonville School District Superintendent Compensation History](pages/Historical Compensation for the Eatonville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Eatonville School District Superintendent Compensation History")
+[Eatonville School District Superintendent Compensation History](pages/Historical Compensation for the Eatonville SD in Current DollarsDuty Title = Superintendent.png "Eatonville School District Superintendent Compensation History")
 

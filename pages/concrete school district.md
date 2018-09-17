@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Concrete School District Superintendent Compensation History](pages/Historical Compensation for the Concrete SD in Constant 2017 DollarsDuty Title = Superintendent.png "Concrete School District Superintendent Compensation History")
+[Concrete School District Superintendent Compensation History](pages/Historical Compensation for the Concrete SD in Current DollarsDuty Title = Superintendent.png "Concrete School District Superintendent Compensation History")
 

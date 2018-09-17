@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Willapa Valley School District Superintendent Compensation History](pages/Historical Compensation for the Willapa Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Willapa Valley School District Superintendent Compensation History")
+[Willapa Valley School District Superintendent Compensation History](pages/Historical Compensation for the Willapa Valley SD in Current DollarsDuty Title = Superintendent.png "Willapa Valley School District Superintendent Compensation History")
 

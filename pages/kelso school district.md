@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Kelso School District Superintendent Compensation History](pages/Historical Compensation for the Kelso SD in Constant 2017 DollarsDuty Title = Superintendent.png "Kelso School District Superintendent Compensation History")
+[Kelso School District Superintendent Compensation History](pages/Historical Compensation for the Kelso SD in Current DollarsDuty Title = Superintendent.png "Kelso School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Raymond School District Superintendent Compensation History](pages/Historical Compensation for the Raymond SD in Constant 2017 DollarsDuty Title = Superintendent.png "Raymond School District Superintendent Compensation History")
+[Raymond School District Superintendent Compensation History](pages/Historical Compensation for the Raymond SD in Current DollarsDuty Title = Superintendent.png "Raymond School District Superintendent Compensation History")
 

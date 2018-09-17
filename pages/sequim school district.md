@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Sequim School District Superintendent Compensation History](pages/Historical Compensation for the Sequim SD in Constant 2017 DollarsDuty Title = Superintendent.png "Sequim School District Superintendent Compensation History")
+[Sequim School District Superintendent Compensation History](pages/Historical Compensation for the Sequim SD in Current DollarsDuty Title = Superintendent.png "Sequim School District Superintendent Compensation History")
 

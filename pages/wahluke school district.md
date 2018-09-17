@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Wahluke School District Superintendent Compensation History](pages/Historical Compensation for the Wahluke SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wahluke School District Superintendent Compensation History")
+[Wahluke School District Superintendent Compensation History](pages/Historical Compensation for the Wahluke SD in Current DollarsDuty Title = Superintendent.png "Wahluke School District Superintendent Compensation History")
 

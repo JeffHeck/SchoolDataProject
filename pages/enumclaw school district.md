@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Enumclaw School District Superintendent Compensation History](pages/Historical Compensation for the Enumclaw SD in Constant 2017 DollarsDuty Title = Superintendent.png "Enumclaw School District Superintendent Compensation History")
+[Enumclaw School District Superintendent Compensation History](pages/Historical Compensation for the Enumclaw SD in Current DollarsDuty Title = Superintendent.png "Enumclaw School District Superintendent Compensation History")
 

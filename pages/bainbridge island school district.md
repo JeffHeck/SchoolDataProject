@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Bainbridge Island School District Superintendent Compensation History](pages/Historical Compensation for the Bainbridge Island SD in Constant 2017 DollarsDuty Title = Superintendent.png "Bainbridge Island School District Superintendent Compensation History")
+[Bainbridge Island School District Superintendent Compensation History](pages/Historical Compensation for the Bainbridge Island SD in Current DollarsDuty Title = Superintendent.png "Bainbridge Island School District Superintendent Compensation History")
 

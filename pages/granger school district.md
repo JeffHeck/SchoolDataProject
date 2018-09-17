@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Granger School District Superintendent Compensation History](pages/Historical Compensation for the Granger SD in Constant 2017 DollarsDuty Title = Superintendent.png "Granger School District Superintendent Compensation History")
+[Granger School District Superintendent Compensation History](pages/Historical Compensation for the Granger SD in Current DollarsDuty Title = Superintendent.png "Granger School District Superintendent Compensation History")
 

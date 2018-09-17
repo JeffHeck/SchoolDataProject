@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Asotin-Anatone School District Superintendent Compensation History](pages/Historical Compensation for the Asotin-Anatone SD in Constant 2017 DollarsDuty Title = Superintendent.png "Asotin-Anatone School District Superintendent Compensation History")
+[Asotin-Anatone School District Superintendent Compensation History](pages/Historical Compensation for the Asotin-Anatone SD in Current DollarsDuty Title = Superintendent.png "Asotin-Anatone School District Superintendent Compensation History")
 

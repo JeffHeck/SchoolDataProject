@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Coulee-Hartline School District Superintendent Compensation History](pages/Historical Compensation for the Coulee-Hartline SD in Constant 2017 DollarsDuty Title = Superintendent.png "Coulee-Hartline School District Superintendent Compensation History")
+[Coulee-Hartline School District Superintendent Compensation History](pages/Historical Compensation for the Coulee-Hartline SD in Current DollarsDuty Title = Superintendent.png "Coulee-Hartline School District Superintendent Compensation History")
 

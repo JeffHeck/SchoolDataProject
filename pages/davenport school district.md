@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Davenport School District Superintendent Compensation History](pages/Historical Compensation for the Davenport SD in Constant 2017 DollarsDuty Title = Superintendent.png "Davenport School District Superintendent Compensation History")
+[Davenport School District Superintendent Compensation History](pages/Historical Compensation for the Davenport SD in Current DollarsDuty Title = Superintendent.png "Davenport School District Superintendent Compensation History")
 

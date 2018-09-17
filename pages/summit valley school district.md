@@ -56,5 +56,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Summit Valley School District Superintendent Compensation History](pages/Historical Compensation for the Summit Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Summit Valley School District Superintendent Compensation History")
+[Summit Valley School District Superintendent Compensation History](pages/Historical Compensation for the Summit Valley SD in Current DollarsDuty Title = Superintendent.png "Summit Valley School District Superintendent Compensation History")
 

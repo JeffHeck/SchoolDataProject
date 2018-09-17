@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[La Center School District Superintendent Compensation History](pages/Historical Compensation for the La Center SD in Constant 2017 DollarsDuty Title = Superintendent.png "La Center School District Superintendent Compensation History")
+[La Center School District Superintendent Compensation History](pages/Historical Compensation for the La Center SD in Current DollarsDuty Title = Superintendent.png "La Center School District Superintendent Compensation History")
 

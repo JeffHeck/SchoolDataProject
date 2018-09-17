@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Dieringer School District Superintendent Compensation History](pages/Historical Compensation for the Dieringer SD in Constant 2017 DollarsDuty Title = Superintendent.png "Dieringer School District Superintendent Compensation History")
+[Dieringer School District Superintendent Compensation History](pages/Historical Compensation for the Dieringer SD in Current DollarsDuty Title = Superintendent.png "Dieringer School District Superintendent Compensation History")
 

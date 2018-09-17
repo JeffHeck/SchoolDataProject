@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Montesano School District Superintendent Compensation History](pages/Historical Compensation for the Montesano SD in Constant 2017 DollarsDuty Title = Superintendent.png "Montesano School District Superintendent Compensation History")
+[Montesano School District Superintendent Compensation History](pages/Historical Compensation for the Montesano SD in Current DollarsDuty Title = Superintendent.png "Montesano School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Inchelium School District Superintendent Compensation History](pages/Historical Compensation for the Inchelium SD in Constant 2017 DollarsDuty Title = Superintendent.png "Inchelium School District Superintendent Compensation History")
+[Inchelium School District Superintendent Compensation History](pages/Historical Compensation for the Inchelium SD in Current DollarsDuty Title = Superintendent.png "Inchelium School District Superintendent Compensation History")
 

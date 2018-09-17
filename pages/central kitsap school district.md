@@ -91,5 +91,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Central Kitsap School District Superintendent Compensation History](pages/Historical Compensation for the Central Kitsap SD in Constant 2017 DollarsDuty Title = Superintendent.png "Central Kitsap School District Superintendent Compensation History")
+[Central Kitsap School District Superintendent Compensation History](pages/Historical Compensation for the Central Kitsap SD in Current DollarsDuty Title = Superintendent.png "Central Kitsap School District Superintendent Compensation History")
 

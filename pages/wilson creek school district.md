@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Wilson Creek School District Superintendent Compensation History](pages/Historical Compensation for the Wilson Creek SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wilson Creek School District Superintendent Compensation History")
+[Wilson Creek School District Superintendent Compensation History](pages/Historical Compensation for the Wilson Creek SD in Current DollarsDuty Title = Superintendent.png "Wilson Creek School District Superintendent Compensation History")
 

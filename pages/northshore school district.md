@@ -99,5 +99,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Northshore School District Superintendent Compensation History](pages/Historical Compensation for the Northshore SD in Constant 2017 DollarsDuty Title = Superintendent.png "Northshore School District Superintendent Compensation History")
+[Northshore School District Superintendent Compensation History](pages/Historical Compensation for the Northshore SD in Current DollarsDuty Title = Superintendent.png "Northshore School District Superintendent Compensation History")
 

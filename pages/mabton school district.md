@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mabton School District Superintendent Compensation History](pages/Historical Compensation for the Mabton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mabton School District Superintendent Compensation History")
+[Mabton School District Superintendent Compensation History](pages/Historical Compensation for the Mabton SD in Current DollarsDuty Title = Superintendent.png "Mabton School District Superintendent Compensation History")
 

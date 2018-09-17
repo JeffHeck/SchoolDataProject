@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Wahkiakum School District Superintendent Compensation History](pages/Historical Compensation for the Wahkiakum SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wahkiakum School District Superintendent Compensation History")
+[Wahkiakum School District Superintendent Compensation History](pages/Historical Compensation for the Wahkiakum SD in Current DollarsDuty Title = Superintendent.png "Wahkiakum School District Superintendent Compensation History")
 

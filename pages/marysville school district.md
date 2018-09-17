@@ -95,5 +95,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Marysville School District Superintendent Compensation History](pages/Historical Compensation for the Marysville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Marysville School District Superintendent Compensation History")
+[Marysville School District Superintendent Compensation History](pages/Historical Compensation for the Marysville SD in Current DollarsDuty Title = Superintendent.png "Marysville School District Superintendent Compensation History")
 

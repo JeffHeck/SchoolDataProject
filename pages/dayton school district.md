@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Dayton School District Superintendent Compensation History](pages/Historical Compensation for the Dayton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Dayton School District Superintendent Compensation History")
+[Dayton School District Superintendent Compensation History](pages/Historical Compensation for the Dayton SD in Current DollarsDuty Title = Superintendent.png "Dayton School District Superintendent Compensation History")
 

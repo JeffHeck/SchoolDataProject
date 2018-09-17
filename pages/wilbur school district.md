@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Wilbur School District Superintendent Compensation History](pages/Historical Compensation for the Wilbur SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wilbur School District Superintendent Compensation History")
+[Wilbur School District Superintendent Compensation History](pages/Historical Compensation for the Wilbur SD in Current DollarsDuty Title = Superintendent.png "Wilbur School District Superintendent Compensation History")
 

@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Monroe School District Superintendent Compensation History](pages/Historical Compensation for the Monroe SD in Constant 2017 DollarsDuty Title = Superintendent.png "Monroe School District Superintendent Compensation History")
+[Monroe School District Superintendent Compensation History](pages/Historical Compensation for the Monroe SD in Current DollarsDuty Title = Superintendent.png "Monroe School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Grand Coulee Dam School District Superintendent Compensation History](pages/Historical Compensation for the Grand Coulee Dam SD in Constant 2017 DollarsDuty Title = Superintendent.png "Grand Coulee Dam School District Superintendent Compensation History")
+[Grand Coulee Dam School District Superintendent Compensation History](pages/Historical Compensation for the Grand Coulee Dam SD in Current DollarsDuty Title = Superintendent.png "Grand Coulee Dam School District Superintendent Compensation History")
 

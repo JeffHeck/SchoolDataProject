@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mukilteo School District Superintendent Compensation History](pages/Historical Compensation for the Mukilteo SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mukilteo School District Superintendent Compensation History")
+[Mukilteo School District Superintendent Compensation History](pages/Historical Compensation for the Mukilteo SD in Current DollarsDuty Title = Superintendent.png "Mukilteo School District Superintendent Compensation History")
 

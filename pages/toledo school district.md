@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Toledo School District Superintendent Compensation History](pages/Historical Compensation for the Toledo SD in Constant 2017 DollarsDuty Title = Superintendent.png "Toledo School District Superintendent Compensation History")
+[Toledo School District Superintendent Compensation History](pages/Historical Compensation for the Toledo SD in Current DollarsDuty Title = Superintendent.png "Toledo School District Superintendent Compensation History")
 

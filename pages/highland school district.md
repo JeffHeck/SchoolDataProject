@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Highland School District Superintendent Compensation History](pages/Historical Compensation for the Highland SD in Constant 2017 DollarsDuty Title = Superintendent.png "Highland School District Superintendent Compensation History")
+[Highland School District Superintendent Compensation History](pages/Historical Compensation for the Highland SD in Current DollarsDuty Title = Superintendent.png "Highland School District Superintendent Compensation History")
 

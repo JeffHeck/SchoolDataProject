@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[North Franklin School District Superintendent Compensation History](pages/Historical Compensation for the North Franklin SD in Constant 2017 DollarsDuty Title = Superintendent.png "North Franklin School District Superintendent Compensation History")
+[North Franklin School District Superintendent Compensation History](pages/Historical Compensation for the North Franklin SD in Current DollarsDuty Title = Superintendent.png "North Franklin School District Superintendent Compensation History")
 

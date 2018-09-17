@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[North Beach School District Superintendent Compensation History](pages/Historical Compensation for the North Beach SD in Constant 2017 DollarsDuty Title = Superintendent.png "North Beach School District Superintendent Compensation History")
+[North Beach School District Superintendent Compensation History](pages/Historical Compensation for the North Beach SD in Current DollarsDuty Title = Superintendent.png "North Beach School District Superintendent Compensation History")
 

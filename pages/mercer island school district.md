@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mercer Island School District Superintendent Compensation History](pages/Historical Compensation for the Mercer Island SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mercer Island School District Superintendent Compensation History")
+[Mercer Island School District Superintendent Compensation History](pages/Historical Compensation for the Mercer Island SD in Current DollarsDuty Title = Superintendent.png "Mercer Island School District Superintendent Compensation History")
 

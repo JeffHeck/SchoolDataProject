@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mossyrock School District Superintendent Compensation History](pages/Historical Compensation for the Mossyrock SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mossyrock School District Superintendent Compensation History")
+[Mossyrock School District Superintendent Compensation History](pages/Historical Compensation for the Mossyrock SD in Current DollarsDuty Title = Superintendent.png "Mossyrock School District Superintendent Compensation History")
 

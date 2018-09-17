@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Adna School District Superintendent Compensation History](pages/Historical Compensation for the Adna SD in Constant 2017 DollarsDuty Title = Superintendent.png "Adna School District Superintendent Compensation History")
+[Adna School District Superintendent Compensation History](pages/Historical Compensation for the Adna SD in Current DollarsDuty Title = Superintendent.png "Adna School District Superintendent Compensation History")
 

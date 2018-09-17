@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Oakesdale School District Superintendent Compensation History](pages/Historical Compensation for the Oakesdale SD in Constant 2017 DollarsDuty Title = Superintendent.png "Oakesdale School District Superintendent Compensation History")
+[Oakesdale School District Superintendent Compensation History](pages/Historical Compensation for the Oakesdale SD in Current DollarsDuty Title = Superintendent.png "Oakesdale School District Superintendent Compensation History")
 

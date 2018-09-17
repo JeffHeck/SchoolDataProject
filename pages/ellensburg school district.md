@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Ellensburg School District Superintendent Compensation History](pages/Historical Compensation for the Ellensburg SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ellensburg School District Superintendent Compensation History")
+[Ellensburg School District Superintendent Compensation History](pages/Historical Compensation for the Ellensburg SD in Current DollarsDuty Title = Superintendent.png "Ellensburg School District Superintendent Compensation History")
 

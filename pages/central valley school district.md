@@ -89,5 +89,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Central Valley School District Superintendent Compensation History](pages/Historical Compensation for the Central Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Central Valley School District Superintendent Compensation History")
+[Central Valley School District Superintendent Compensation History](pages/Historical Compensation for the Central Valley SD in Current DollarsDuty Title = Superintendent.png "Central Valley School District Superintendent Compensation History")
 

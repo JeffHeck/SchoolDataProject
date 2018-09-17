@@ -99,5 +99,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Spokane School District Superintendent Compensation History](pages/Historical Compensation for the Spokane SD in Constant 2017 DollarsDuty Title = Superintendent.png "Spokane School District Superintendent Compensation History")
+[Spokane School District Superintendent Compensation History](pages/Historical Compensation for the Spokane SD in Current DollarsDuty Title = Superintendent.png "Spokane School District Superintendent Compensation History")
 

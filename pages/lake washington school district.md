@@ -93,5 +93,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lake Washington School District Superintendent Compensation History](pages/Historical Compensation for the Lake Washington SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lake Washington School District Superintendent Compensation History")
+[Lake Washington School District Superintendent Compensation History](pages/Historical Compensation for the Lake Washington SD in Current DollarsDuty Title = Superintendent.png "Lake Washington School District Superintendent Compensation History")
 

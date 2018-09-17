@@ -89,5 +89,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Everett School District Superintendent Compensation History](pages/Historical Compensation for the Everett SD in Constant 2017 DollarsDuty Title = Superintendent.png "Everett School District Superintendent Compensation History")
+[Everett School District Superintendent Compensation History](pages/Historical Compensation for the Everett SD in Current DollarsDuty Title = Superintendent.png "Everett School District Superintendent Compensation History")
 

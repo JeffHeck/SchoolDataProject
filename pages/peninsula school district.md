@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Peninsula School District Superintendent Compensation History](pages/Historical Compensation for the Peninsula SD in Constant 2017 DollarsDuty Title = Superintendent.png "Peninsula School District Superintendent Compensation History")
+[Peninsula School District Superintendent Compensation History](pages/Historical Compensation for the Peninsula SD in Current DollarsDuty Title = Superintendent.png "Peninsula School District Superintendent Compensation History")
 

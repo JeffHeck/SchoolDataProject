@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Aberdeen School District Superintendent Compensation History](pages/Historical Compensation for the Aberdeen SD in Constant 2017 DollarsDuty Title = Superintendent.png "Aberdeen School District Superintendent Compensation History")
+[Aberdeen School District Superintendent Compensation History](pages/Historical Compensation for the Aberdeen SD in Current DollarsDuty Title = Superintendent.png "Aberdeen School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Tukwila School District Superintendent Compensation History](pages/Historical Compensation for the Tukwila SD in Constant 2017 DollarsDuty Title = Superintendent.png "Tukwila School District Superintendent Compensation History")
+[Tukwila School District Superintendent Compensation History](pages/Historical Compensation for the Tukwila SD in Current DollarsDuty Title = Superintendent.png "Tukwila School District Superintendent Compensation History")
 

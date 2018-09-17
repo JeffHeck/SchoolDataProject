@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Shelton School District Superintendent Compensation History](pages/Historical Compensation for the Shelton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Shelton School District Superintendent Compensation History")
+[Shelton School District Superintendent Compensation History](pages/Historical Compensation for the Shelton SD in Current DollarsDuty Title = Superintendent.png "Shelton School District Superintendent Compensation History")
 

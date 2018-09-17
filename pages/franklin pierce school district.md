@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Franklin Pierce School District Superintendent Compensation History](pages/Historical Compensation for the Franklin Pierce SD in Constant 2017 DollarsDuty Title = Superintendent.png "Franklin Pierce School District Superintendent Compensation History")
+[Franklin Pierce School District Superintendent Compensation History](pages/Historical Compensation for the Franklin Pierce SD in Current DollarsDuty Title = Superintendent.png "Franklin Pierce School District Superintendent Compensation History")
 

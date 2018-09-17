@@ -93,5 +93,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Edmonds School District Superintendent Compensation History](pages/Historical Compensation for the Edmonds SD in Constant 2017 DollarsDuty Title = Superintendent.png "Edmonds School District Superintendent Compensation History")
+[Edmonds School District Superintendent Compensation History](pages/Historical Compensation for the Edmonds SD in Current DollarsDuty Title = Superintendent.png "Edmonds School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Rosalia School District Superintendent Compensation History](pages/Historical Compensation for the Rosalia SD in Constant 2017 DollarsDuty Title = Superintendent.png "Rosalia School District Superintendent Compensation History")
+[Rosalia School District Superintendent Compensation History](pages/Historical Compensation for the Rosalia SD in Current DollarsDuty Title = Superintendent.png "Rosalia School District Superintendent Compensation History")
 

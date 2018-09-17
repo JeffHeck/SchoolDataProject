@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Cheney School District Superintendent Compensation History](pages/Historical Compensation for the Cheney SD in Constant 2017 DollarsDuty Title = Superintendent.png "Cheney School District Superintendent Compensation History")
+[Cheney School District Superintendent Compensation History](pages/Historical Compensation for the Cheney SD in Current DollarsDuty Title = Superintendent.png "Cheney School District Superintendent Compensation History")
 

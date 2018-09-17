@@ -40,5 +40,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Shaw Island School District Superintendent Compensation History](pages/Historical Compensation for the Shaw Island SD in Constant 2017 DollarsDuty Title = Superintendent.png "Shaw Island School District Superintendent Compensation History")
+[Shaw Island School District Superintendent Compensation History](pages/Historical Compensation for the Shaw Island SD in Current DollarsDuty Title = Superintendent.png "Shaw Island School District Superintendent Compensation History")
 

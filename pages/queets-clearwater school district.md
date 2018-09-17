@@ -40,5 +40,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Queets-Clearwater School District Superintendent Compensation History](pages/Historical Compensation for the Queets-Clearwater SD in Constant 2017 DollarsDuty Title = Superintendent.png "Queets-Clearwater School District Superintendent Compensation History")
+[Queets-Clearwater School District Superintendent Compensation History](pages/Historical Compensation for the Queets-Clearwater SD in Current DollarsDuty Title = Superintendent.png "Queets-Clearwater School District Superintendent Compensation History")
 

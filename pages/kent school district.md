@@ -91,5 +91,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Kent School District Superintendent Compensation History](pages/Historical Compensation for the Kent SD in Constant 2017 DollarsDuty Title = Superintendent.png "Kent School District Superintendent Compensation History")
+[Kent School District Superintendent Compensation History](pages/Historical Compensation for the Kent SD in Current DollarsDuty Title = Superintendent.png "Kent School District Superintendent Compensation History")
 

@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Tumwater School District Superintendent Compensation History](pages/Historical Compensation for the Tumwater SD in Constant 2017 DollarsDuty Title = Superintendent.png "Tumwater School District Superintendent Compensation History")
+[Tumwater School District Superintendent Compensation History](pages/Historical Compensation for the Tumwater SD in Current DollarsDuty Title = Superintendent.png "Tumwater School District Superintendent Compensation History")
 

@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Klickitat School District Superintendent Compensation History](pages/Historical Compensation for the Klickitat SD in Constant 2017 DollarsDuty Title = Superintendent.png "Klickitat School District Superintendent Compensation History")
+[Klickitat School District Superintendent Compensation History](pages/Historical Compensation for the Klickitat SD in Current DollarsDuty Title = Superintendent.png "Klickitat School District Superintendent Compensation History")
 

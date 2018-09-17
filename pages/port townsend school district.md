@@ -51,5 +51,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Port Townsend School District Superintendent Compensation History](pages/Historical Compensation for the Port Townsend SD in Constant 2017 DollarsDuty Title = Superintendent.png "Port Townsend School District Superintendent Compensation History")
+[Port Townsend School District Superintendent Compensation History](pages/Historical Compensation for the Port Townsend SD in Current DollarsDuty Title = Superintendent.png "Port Townsend School District Superintendent Compensation History")
 

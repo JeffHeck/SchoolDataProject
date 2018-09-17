@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lake Stevens School District Superintendent Compensation History](pages/Historical Compensation for the Lake Stevens SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lake Stevens School District Superintendent Compensation History")
+[Lake Stevens School District Superintendent Compensation History](pages/Historical Compensation for the Lake Stevens SD in Current DollarsDuty Title = Superintendent.png "Lake Stevens School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Hoquiam School District Superintendent Compensation History](pages/Historical Compensation for the Hoquiam SD in Constant 2017 DollarsDuty Title = Superintendent.png "Hoquiam School District Superintendent Compensation History")
+[Hoquiam School District Superintendent Compensation History](pages/Historical Compensation for the Hoquiam SD in Current DollarsDuty Title = Superintendent.png "Hoquiam School District Superintendent Compensation History")
 

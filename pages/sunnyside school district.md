@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Sunnyside School District Superintendent Compensation History](pages/Historical Compensation for the Sunnyside SD in Constant 2017 DollarsDuty Title = Superintendent.png "Sunnyside School District Superintendent Compensation History")
+[Sunnyside School District Superintendent Compensation History](pages/Historical Compensation for the Sunnyside SD in Current DollarsDuty Title = Superintendent.png "Sunnyside School District Superintendent Compensation History")
 

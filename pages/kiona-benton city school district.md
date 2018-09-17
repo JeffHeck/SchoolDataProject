@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Kiona-Benton City School District Superintendent Compensation History](pages/Historical Compensation for the Kiona-Benton City SD in Constant 2017 DollarsDuty Title = Superintendent.png "Kiona-Benton City School District Superintendent Compensation History")
+[Kiona-Benton City School District Superintendent Compensation History](pages/Historical Compensation for the Kiona-Benton City SD in Current DollarsDuty Title = Superintendent.png "Kiona-Benton City School District Superintendent Compensation History")
 

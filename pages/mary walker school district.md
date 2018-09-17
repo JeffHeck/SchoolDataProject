@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mary Walker School District Superintendent Compensation History](pages/Historical Compensation for the Mary Walker SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mary Walker School District Superintendent Compensation History")
+[Mary Walker School District Superintendent Compensation History](pages/Historical Compensation for the Mary Walker SD in Current DollarsDuty Title = Superintendent.png "Mary Walker School District Superintendent Compensation History")
 

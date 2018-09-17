@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mount Pleasant School District Superintendent Compensation History](pages/Historical Compensation for the Mount Pleasant SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mount Pleasant School District Superintendent Compensation History")
+[Mount Pleasant School District Superintendent Compensation History](pages/Historical Compensation for the Mount Pleasant SD in Current DollarsDuty Title = Superintendent.png "Mount Pleasant School District Superintendent Compensation History")
 

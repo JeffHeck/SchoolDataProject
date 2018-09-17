@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[South Bend School District Superintendent Compensation History](pages/Historical Compensation for the South Bend SD in Constant 2017 DollarsDuty Title = Superintendent.png "South Bend School District Superintendent Compensation History")
+[South Bend School District Superintendent Compensation History](pages/Historical Compensation for the South Bend SD in Current DollarsDuty Title = Superintendent.png "South Bend School District Superintendent Compensation History")
 

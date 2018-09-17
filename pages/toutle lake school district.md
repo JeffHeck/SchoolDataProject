@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Toutle Lake School District Superintendent Compensation History](pages/Historical Compensation for the Toutle Lake SD in Constant 2017 DollarsDuty Title = Superintendent.png "Toutle Lake School District Superintendent Compensation History")
+[Toutle Lake School District Superintendent Compensation History](pages/Historical Compensation for the Toutle Lake SD in Current DollarsDuty Title = Superintendent.png "Toutle Lake School District Superintendent Compensation History")
 

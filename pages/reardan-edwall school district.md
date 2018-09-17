@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Reardan-Edwall School District Superintendent Compensation History](pages/Historical Compensation for the Reardan-Edwall SD in Constant 2017 DollarsDuty Title = Superintendent.png "Reardan-Edwall School District Superintendent Compensation History")
+[Reardan-Edwall School District Superintendent Compensation History](pages/Historical Compensation for the Reardan-Edwall SD in Current DollarsDuty Title = Superintendent.png "Reardan-Edwall School District Superintendent Compensation History")
 

@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Toppenish School District Superintendent Compensation History](pages/Historical Compensation for the Toppenish SD in Constant 2017 DollarsDuty Title = Superintendent.png "Toppenish School District Superintendent Compensation History")
+[Toppenish School District Superintendent Compensation History](pages/Historical Compensation for the Toppenish SD in Current DollarsDuty Title = Superintendent.png "Toppenish School District Superintendent Compensation History")
 

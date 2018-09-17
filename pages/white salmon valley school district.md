@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[White Salmon Valley School District Superintendent Compensation History](pages/Historical Compensation for the White Salmon Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "White Salmon Valley School District Superintendent Compensation History")
+[White Salmon Valley School District Superintendent Compensation History](pages/Historical Compensation for the White Salmon Valley SD in Current DollarsDuty Title = Superintendent.png "White Salmon Valley School District Superintendent Compensation History")
 

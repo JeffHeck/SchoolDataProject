@@ -51,5 +51,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Selah School District Superintendent Compensation History](pages/Historical Compensation for the Selah SD in Constant 2017 DollarsDuty Title = Superintendent.png "Selah School District Superintendent Compensation History")
+[Selah School District Superintendent Compensation History](pages/Historical Compensation for the Selah SD in Current DollarsDuty Title = Superintendent.png "Selah School District Superintendent Compensation History")
 

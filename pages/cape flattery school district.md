@@ -51,5 +51,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Cape Flattery School District Superintendent Compensation History](pages/Historical Compensation for the Cape Flattery SD in Constant 2017 DollarsDuty Title = Superintendent.png "Cape Flattery School District Superintendent Compensation History")
+[Cape Flattery School District Superintendent Compensation History](pages/Historical Compensation for the Cape Flattery SD in Current DollarsDuty Title = Superintendent.png "Cape Flattery School District Superintendent Compensation History")
 

@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Grandview School District Superintendent Compensation History](pages/Historical Compensation for the Grandview SD in Constant 2017 DollarsDuty Title = Superintendent.png "Grandview School District Superintendent Compensation History")
+[Grandview School District Superintendent Compensation History](pages/Historical Compensation for the Grandview SD in Current DollarsDuty Title = Superintendent.png "Grandview School District Superintendent Compensation History")
 

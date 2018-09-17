@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Tonasket School District Superintendent Compensation History](pages/Historical Compensation for the Tonasket SD in Constant 2017 DollarsDuty Title = Superintendent.png "Tonasket School District Superintendent Compensation History")
+[Tonasket School District Superintendent Compensation History](pages/Historical Compensation for the Tonasket SD in Current DollarsDuty Title = Superintendent.png "Tonasket School District Superintendent Compensation History")
 

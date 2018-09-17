@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Sedro-Woolley School District Superintendent Compensation History](pages/Historical Compensation for the Sedro-Woolley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Sedro-Woolley School District Superintendent Compensation History")
+[Sedro-Woolley School District Superintendent Compensation History](pages/Historical Compensation for the Sedro-Woolley SD in Current DollarsDuty Title = Superintendent.png "Sedro-Woolley School District Superintendent Compensation History")
 

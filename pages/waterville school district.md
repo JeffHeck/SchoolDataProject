@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Waterville School District Superintendent Compensation History](pages/Historical Compensation for the Waterville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Waterville School District Superintendent Compensation History")
+[Waterville School District Superintendent Compensation History](pages/Historical Compensation for the Waterville SD in Current DollarsDuty Title = Superintendent.png "Waterville School District Superintendent Compensation History")
 

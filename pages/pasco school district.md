@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Pasco School District Superintendent Compensation History](pages/Historical Compensation for the Pasco SD in Constant 2017 DollarsDuty Title = Superintendent.png "Pasco School District Superintendent Compensation History")
+[Pasco School District Superintendent Compensation History](pages/Historical Compensation for the Pasco SD in Current DollarsDuty Title = Superintendent.png "Pasco School District Superintendent Compensation History")
 

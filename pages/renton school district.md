@@ -91,5 +91,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Renton School District Superintendent Compensation History](pages/Historical Compensation for the Renton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Renton School District Superintendent Compensation History")
+[Renton School District Superintendent Compensation History](pages/Historical Compensation for the Renton SD in Current DollarsDuty Title = Superintendent.png "Renton School District Superintendent Compensation History")
 

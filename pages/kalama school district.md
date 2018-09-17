@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Kalama School District Superintendent Compensation History](pages/Historical Compensation for the Kalama SD in Constant 2017 DollarsDuty Title = Superintendent.png "Kalama School District Superintendent Compensation History")
+[Kalama School District Superintendent Compensation History](pages/Historical Compensation for the Kalama SD in Current DollarsDuty Title = Superintendent.png "Kalama School District Superintendent Compensation History")
 

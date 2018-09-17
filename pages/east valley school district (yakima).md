@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[East Valley School District (Yakima) Superintendent Compensation History](pages/Historical Compensation for the East Valley (Yakima) SD in Constant 2017 DollarsDuty Title = Superintendent.png "East Valley School District (Yakima) Superintendent Compensation History")
+[East Valley School District (Yakima) Superintendent Compensation History](pages/Historical Compensation for the East Valley (Yakima) SD in Current DollarsDuty Title = Superintendent.png "East Valley School District (Yakima) Superintendent Compensation History")
 

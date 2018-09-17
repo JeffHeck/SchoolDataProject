@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Medical Lake School District Superintendent Compensation History](pages/Historical Compensation for the Medical Lake SD in Constant 2017 DollarsDuty Title = Superintendent.png "Medical Lake School District Superintendent Compensation History")
+[Medical Lake School District Superintendent Compensation History](pages/Historical Compensation for the Medical Lake SD in Current DollarsDuty Title = Superintendent.png "Medical Lake School District Superintendent Compensation History")
 

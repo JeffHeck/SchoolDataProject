@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Eastmont School District Superintendent Compensation History](pages/Historical Compensation for the Eastmont SD in Constant 2017 DollarsDuty Title = Superintendent.png "Eastmont School District Superintendent Compensation History")
+[Eastmont School District Superintendent Compensation History](pages/Historical Compensation for the Eastmont SD in Current DollarsDuty Title = Superintendent.png "Eastmont School District Superintendent Compensation History")
 

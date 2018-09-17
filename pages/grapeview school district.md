@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Grapeview School District Superintendent Compensation History](pages/Historical Compensation for the Grapeview SD in Constant 2017 DollarsDuty Title = Superintendent.png "Grapeview School District Superintendent Compensation History")
+[Grapeview School District Superintendent Compensation History](pages/Historical Compensation for the Grapeview SD in Current DollarsDuty Title = Superintendent.png "Grapeview School District Superintendent Compensation History")
 

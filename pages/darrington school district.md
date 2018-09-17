@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Darrington School District Superintendent Compensation History](pages/Historical Compensation for the Darrington SD in Constant 2017 DollarsDuty Title = Superintendent.png "Darrington School District Superintendent Compensation History")
+[Darrington School District Superintendent Compensation History](pages/Historical Compensation for the Darrington SD in Current DollarsDuty Title = Superintendent.png "Darrington School District Superintendent Compensation History")
 

@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Ephrata School District Superintendent Compensation History](pages/Historical Compensation for the Ephrata SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ephrata School District Superintendent Compensation History")
+[Ephrata School District Superintendent Compensation History](pages/Historical Compensation for the Ephrata SD in Current DollarsDuty Title = Superintendent.png "Ephrata School District Superintendent Compensation History")
 

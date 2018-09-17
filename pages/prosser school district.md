@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Prosser School District Superintendent Compensation History](pages/Historical Compensation for the Prosser SD in Constant 2017 DollarsDuty Title = Superintendent.png "Prosser School District Superintendent Compensation History")
+[Prosser School District Superintendent Compensation History](pages/Historical Compensation for the Prosser SD in Current DollarsDuty Title = Superintendent.png "Prosser School District Superintendent Compensation History")
 

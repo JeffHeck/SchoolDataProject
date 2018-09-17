@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Soap Lake School District Superintendent Compensation History](pages/Historical Compensation for the Soap Lake SD in Constant 2017 DollarsDuty Title = Superintendent.png "Soap Lake School District Superintendent Compensation History")
+[Soap Lake School District Superintendent Compensation History](pages/Historical Compensation for the Soap Lake SD in Current DollarsDuty Title = Superintendent.png "Soap Lake School District Superintendent Compensation History")
 

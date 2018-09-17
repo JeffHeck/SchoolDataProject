@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Harrington School District Superintendent Compensation History](pages/Historical Compensation for the Harrington SD in Constant 2017 DollarsDuty Title = Superintendent.png "Harrington School District Superintendent Compensation History")
+[Harrington School District Superintendent Compensation History](pages/Historical Compensation for the Harrington SD in Current DollarsDuty Title = Superintendent.png "Harrington School District Superintendent Compensation History")
 

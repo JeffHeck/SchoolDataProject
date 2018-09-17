@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Bridgeport School District Superintendent Compensation History](pages/Historical Compensation for the Bridgeport SD in Constant 2017 DollarsDuty Title = Superintendent.png "Bridgeport School District Superintendent Compensation History")
+[Bridgeport School District Superintendent Compensation History](pages/Historical Compensation for the Bridgeport SD in Current DollarsDuty Title = Superintendent.png "Bridgeport School District Superintendent Compensation History")
 

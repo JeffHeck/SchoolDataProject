@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Blaine School District Superintendent Compensation History](pages/Historical Compensation for the Blaine SD in Constant 2017 DollarsDuty Title = Superintendent.png "Blaine School District Superintendent Compensation History")
+[Blaine School District Superintendent Compensation History](pages/Historical Compensation for the Blaine SD in Current DollarsDuty Title = Superintendent.png "Blaine School District Superintendent Compensation History")
 

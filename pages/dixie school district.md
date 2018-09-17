@@ -38,5 +38,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Dixie School District Superintendent Compensation History](pages/Historical Compensation for the Dixie SD in Constant 2017 DollarsDuty Title = Superintendent.png "Dixie School District Superintendent Compensation History")
+[Dixie School District Superintendent Compensation History](pages/Historical Compensation for the Dixie SD in Current DollarsDuty Title = Superintendent.png "Dixie School District Superintendent Compensation History")
 

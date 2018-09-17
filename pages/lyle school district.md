@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lyle School District Superintendent Compensation History](pages/Historical Compensation for the Lyle SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lyle School District Superintendent Compensation History")
+[Lyle School District Superintendent Compensation History](pages/Historical Compensation for the Lyle SD in Current DollarsDuty Title = Superintendent.png "Lyle School District Superintendent Compensation History")
 

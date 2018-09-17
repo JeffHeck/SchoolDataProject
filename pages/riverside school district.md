@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Riverside School District Superintendent Compensation History](pages/Historical Compensation for the Riverside SD in Constant 2017 DollarsDuty Title = Superintendent.png "Riverside School District Superintendent Compensation History")
+[Riverside School District Superintendent Compensation History](pages/Historical Compensation for the Riverside SD in Current DollarsDuty Title = Superintendent.png "Riverside School District Superintendent Compensation History")
 

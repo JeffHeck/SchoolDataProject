@@ -85,5 +85,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Snohomish School District Superintendent Compensation History](pages/Historical Compensation for the Snohomish SD in Constant 2017 DollarsDuty Title = Superintendent.png "Snohomish School District Superintendent Compensation History")
+[Snohomish School District Superintendent Compensation History](pages/Historical Compensation for the Snohomish SD in Current DollarsDuty Title = Superintendent.png "Snohomish School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Quilcene School District Superintendent Compensation History](pages/Historical Compensation for the Quilcene SD in Constant 2017 DollarsDuty Title = Superintendent.png "Quilcene School District Superintendent Compensation History")
+[Quilcene School District Superintendent Compensation History](pages/Historical Compensation for the Quilcene SD in Current DollarsDuty Title = Superintendent.png "Quilcene School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Colfax School District Superintendent Compensation History](pages/Historical Compensation for the Colfax SD in Constant 2017 DollarsDuty Title = Superintendent.png "Colfax School District Superintendent Compensation History")
+[Colfax School District Superintendent Compensation History](pages/Historical Compensation for the Colfax SD in Current DollarsDuty Title = Superintendent.png "Colfax School District Superintendent Compensation History")
 

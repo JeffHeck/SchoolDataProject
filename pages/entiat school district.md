@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Entiat School District Superintendent Compensation History](pages/Historical Compensation for the Entiat SD in Constant 2017 DollarsDuty Title = Superintendent.png "Entiat School District Superintendent Compensation History")
+[Entiat School District Superintendent Compensation History](pages/Historical Compensation for the Entiat SD in Current DollarsDuty Title = Superintendent.png "Entiat School District Superintendent Compensation History")
 

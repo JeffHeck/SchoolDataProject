@@ -38,5 +38,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Palisades School District Superintendent Compensation History](pages/Historical Compensation for the Palisades SD in Constant 2017 DollarsDuty Title = Superintendent.png "Palisades School District Superintendent Compensation History")
+[Palisades School District Superintendent Compensation History](pages/Historical Compensation for the Palisades SD in Current DollarsDuty Title = Superintendent.png "Palisades School District Superintendent Compensation History")
 

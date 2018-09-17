@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Yelm School District Superintendent Compensation History](pages/Historical Compensation for the Yelm SD in Constant 2017 DollarsDuty Title = Superintendent.png "Yelm School District Superintendent Compensation History")
+[Yelm School District Superintendent Compensation History](pages/Historical Compensation for the Yelm SD in Current DollarsDuty Title = Superintendent.png "Yelm School District Superintendent Compensation History")
 

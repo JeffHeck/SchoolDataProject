@@ -67,5 +67,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lake Chelan School District Superintendent Compensation History](pages/Historical Compensation for the Lake Chelan SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lake Chelan School District Superintendent Compensation History")
+[Lake Chelan School District Superintendent Compensation History](pages/Historical Compensation for the Lake Chelan SD in Current DollarsDuty Title = Superintendent.png "Lake Chelan School District Superintendent Compensation History")
 

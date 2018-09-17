@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Centralia School District Superintendent Compensation History](pages/Historical Compensation for the Centralia SD in Constant 2017 DollarsDuty Title = Superintendent.png "Centralia School District Superintendent Compensation History")
+[Centralia School District Superintendent Compensation History](pages/Historical Compensation for the Centralia SD in Current DollarsDuty Title = Superintendent.png "Centralia School District Superintendent Compensation History")
 

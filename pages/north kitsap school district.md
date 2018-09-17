@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[North Kitsap School District Superintendent Compensation History](pages/Historical Compensation for the North Kitsap SD in Constant 2017 DollarsDuty Title = Superintendent.png "North Kitsap School District Superintendent Compensation History")
+[North Kitsap School District Superintendent Compensation History](pages/Historical Compensation for the North Kitsap SD in Current DollarsDuty Title = Superintendent.png "North Kitsap School District Superintendent Compensation History")
 

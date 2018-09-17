@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Goldendale School District Superintendent Compensation History](pages/Historical Compensation for the Goldendale SD in Constant 2017 DollarsDuty Title = Superintendent.png "Goldendale School District Superintendent Compensation History")
+[Goldendale School District Superintendent Compensation History](pages/Historical Compensation for the Goldendale SD in Current DollarsDuty Title = Superintendent.png "Goldendale School District Superintendent Compensation History")
 

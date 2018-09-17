@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Cle Elum-Roslyn School District Superintendent Compensation History](pages/Historical Compensation for the Cle Elum-Roslyn SD in Constant 2017 DollarsDuty Title = Superintendent.png "Cle Elum-Roslyn School District Superintendent Compensation History")
+[Cle Elum-Roslyn School District Superintendent Compensation History](pages/Historical Compensation for the Cle Elum-Roslyn SD in Current DollarsDuty Title = Superintendent.png "Cle Elum-Roslyn School District Superintendent Compensation History")
 

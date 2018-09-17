@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Wishram School District Superintendent Compensation History](pages/Historical Compensation for the Wishram SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wishram School District Superintendent Compensation History")
+[Wishram School District Superintendent Compensation History](pages/Historical Compensation for the Wishram SD in Current DollarsDuty Title = Superintendent.png "Wishram School District Superintendent Compensation History")
 

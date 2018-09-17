@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Pomeroy School District Superintendent Compensation History](pages/Historical Compensation for the Pomeroy SD in Constant 2017 DollarsDuty Title = Superintendent.png "Pomeroy School District Superintendent Compensation History")
+[Pomeroy School District Superintendent Compensation History](pages/Historical Compensation for the Pomeroy SD in Current DollarsDuty Title = Superintendent.png "Pomeroy School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Moses Lake School District Superintendent Compensation History](pages/Historical Compensation for the Moses Lake SD in Constant 2017 DollarsDuty Title = Superintendent.png "Moses Lake School District Superintendent Compensation History")
+[Moses Lake School District Superintendent Compensation History](pages/Historical Compensation for the Moses Lake SD in Current DollarsDuty Title = Superintendent.png "Moses Lake School District Superintendent Compensation History")
 

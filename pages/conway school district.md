@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Conway School District Superintendent Compensation History](pages/Historical Compensation for the Conway SD in Constant 2017 DollarsDuty Title = Superintendent.png "Conway School District Superintendent Compensation History")
+[Conway School District Superintendent Compensation History](pages/Historical Compensation for the Conway SD in Current DollarsDuty Title = Superintendent.png "Conway School District Superintendent Compensation History")
 

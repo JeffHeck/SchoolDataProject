@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Oakville School District Superintendent Compensation History](pages/Historical Compensation for the Oakville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Oakville School District Superintendent Compensation History")
+[Oakville School District Superintendent Compensation History](pages/Historical Compensation for the Oakville SD in Current DollarsDuty Title = Superintendent.png "Oakville School District Superintendent Compensation History")
 

@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Cascade School District Superintendent Compensation History](pages/Historical Compensation for the Cascade SD in Constant 2017 DollarsDuty Title = Superintendent.png "Cascade School District Superintendent Compensation History")
+[Cascade School District Superintendent Compensation History](pages/Historical Compensation for the Cascade SD in Current DollarsDuty Title = Superintendent.png "Cascade School District Superintendent Compensation History")
 

@@ -56,5 +56,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Centerville School District Superintendent Compensation History](pages/Historical Compensation for the Centerville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Centerville School District Superintendent Compensation History")
+[Centerville School District Superintendent Compensation History](pages/Historical Compensation for the Centerville SD in Current DollarsDuty Title = Superintendent.png "Centerville School District Superintendent Compensation History")
 

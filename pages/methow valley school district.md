@@ -51,5 +51,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Methow Valley School District Superintendent Compensation History](pages/Historical Compensation for the Methow Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Methow Valley School District Superintendent Compensation History")
+[Methow Valley School District Superintendent Compensation History](pages/Historical Compensation for the Methow Valley SD in Current DollarsDuty Title = Superintendent.png "Methow Valley School District Superintendent Compensation History")
 

@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Kahlotus School District Superintendent Compensation History](pages/Historical Compensation for the Kahlotus SD in Constant 2017 DollarsDuty Title = Superintendent.png "Kahlotus School District Superintendent Compensation History")
+[Kahlotus School District Superintendent Compensation History](pages/Historical Compensation for the Kahlotus SD in Current DollarsDuty Title = Superintendent.png "Kahlotus School District Superintendent Compensation History")
 

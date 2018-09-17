@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Trout Lake School District Superintendent Compensation History](pages/Historical Compensation for the Trout Lake SD in Constant 2017 DollarsDuty Title = Superintendent.png "Trout Lake School District Superintendent Compensation History")
+[Trout Lake School District Superintendent Compensation History](pages/Historical Compensation for the Trout Lake SD in Current DollarsDuty Title = Superintendent.png "Trout Lake School District Superintendent Compensation History")
 

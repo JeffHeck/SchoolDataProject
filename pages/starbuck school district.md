@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Starbuck School District Superintendent Compensation History](pages/Historical Compensation for the Starbuck SD in Constant 2017 DollarsDuty Title = Superintendent.png "Starbuck School District Superintendent Compensation History")
+[Starbuck School District Superintendent Compensation History](pages/Historical Compensation for the Starbuck SD in Current DollarsDuty Title = Superintendent.png "Starbuck School District Superintendent Compensation History")
 

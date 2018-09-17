@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Othello School District Superintendent Compensation History](pages/Historical Compensation for the Othello SD in Constant 2017 DollarsDuty Title = Superintendent.png "Othello School District Superintendent Compensation History")
+[Othello School District Superintendent Compensation History](pages/Historical Compensation for the Othello SD in Current DollarsDuty Title = Superintendent.png "Othello School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Burlington-Edison School District Superintendent Compensation History](pages/Historical Compensation for the Burlington-Edison SD in Constant 2017 DollarsDuty Title = Superintendent.png "Burlington-Edison School District Superintendent Compensation History")
+[Burlington-Edison School District Superintendent Compensation History](pages/Historical Compensation for the Burlington-Edison SD in Current DollarsDuty Title = Superintendent.png "Burlington-Edison School District Superintendent Compensation History")
 

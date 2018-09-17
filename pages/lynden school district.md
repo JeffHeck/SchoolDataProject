@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lynden School District Superintendent Compensation History](pages/Historical Compensation for the Lynden SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lynden School District Superintendent Compensation History")
+[Lynden School District Superintendent Compensation History](pages/Historical Compensation for the Lynden SD in Current DollarsDuty Title = Superintendent.png "Lynden School District Superintendent Compensation History")
 

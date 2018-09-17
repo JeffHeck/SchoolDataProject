@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Issaquah School District Superintendent Compensation History](pages/Historical Compensation for the Issaquah SD in Constant 2017 DollarsDuty Title = Superintendent.png "Issaquah School District Superintendent Compensation History")
+[Issaquah School District Superintendent Compensation History](pages/Historical Compensation for the Issaquah SD in Current DollarsDuty Title = Superintendent.png "Issaquah School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Castle Rock School District Superintendent Compensation History](pages/Historical Compensation for the Castle Rock SD in Constant 2017 DollarsDuty Title = Superintendent.png "Castle Rock School District Superintendent Compensation History")
+[Castle Rock School District Superintendent Compensation History](pages/Historical Compensation for the Castle Rock SD in Current DollarsDuty Title = Superintendent.png "Castle Rock School District Superintendent Compensation History")
 

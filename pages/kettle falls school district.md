@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Kettle Falls School District Superintendent Compensation History](pages/Historical Compensation for the Kettle Falls SD in Constant 2017 DollarsDuty Title = Superintendent.png "Kettle Falls School District Superintendent Compensation History")
+[Kettle Falls School District Superintendent Compensation History](pages/Historical Compensation for the Kettle Falls SD in Current DollarsDuty Title = Superintendent.png "Kettle Falls School District Superintendent Compensation History")
 

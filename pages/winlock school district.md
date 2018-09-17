@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Winlock School District Superintendent Compensation History](pages/Historical Compensation for the Winlock SD in Constant 2017 DollarsDuty Title = Superintendent.png "Winlock School District Superintendent Compensation History")
+[Winlock School District Superintendent Compensation History](pages/Historical Compensation for the Winlock SD in Current DollarsDuty Title = Superintendent.png "Winlock School District Superintendent Compensation History")
 

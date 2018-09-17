@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Odessa School District Superintendent Compensation History](pages/Historical Compensation for the Odessa SD in Constant 2017 DollarsDuty Title = Superintendent.png "Odessa School District Superintendent Compensation History")
+[Odessa School District Superintendent Compensation History](pages/Historical Compensation for the Odessa SD in Current DollarsDuty Title = Superintendent.png "Odessa School District Superintendent Compensation History")
 

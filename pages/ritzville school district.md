@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Ritzville School District Superintendent Compensation History](pages/Historical Compensation for the Ritzville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Ritzville School District Superintendent Compensation History")
+[Ritzville School District Superintendent Compensation History](pages/Historical Compensation for the Ritzville SD in Current DollarsDuty Title = Superintendent.png "Ritzville School District Superintendent Compensation History")
 

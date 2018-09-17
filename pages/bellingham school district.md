@@ -89,5 +89,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Bellingham School District Superintendent Compensation History](pages/Historical Compensation for the Bellingham SD in Constant 2017 DollarsDuty Title = Superintendent.png "Bellingham School District Superintendent Compensation History")
+[Bellingham School District Superintendent Compensation History](pages/Historical Compensation for the Bellingham SD in Current DollarsDuty Title = Superintendent.png "Bellingham School District Superintendent Compensation History")
 

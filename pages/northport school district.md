@@ -51,5 +51,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Northport School District Superintendent Compensation History](pages/Historical Compensation for the Northport SD in Constant 2017 DollarsDuty Title = Superintendent.png "Northport School District Superintendent Compensation History")
+[Northport School District Superintendent Compensation History](pages/Historical Compensation for the Northport SD in Current DollarsDuty Title = Superintendent.png "Northport School District Superintendent Compensation History")
 

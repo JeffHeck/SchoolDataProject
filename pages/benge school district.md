@@ -38,5 +38,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Benge School District Superintendent Compensation History](pages/Historical Compensation for the Benge SD in Constant 2017 DollarsDuty Title = Superintendent.png "Benge School District Superintendent Compensation History")
+[Benge School District Superintendent Compensation History](pages/Historical Compensation for the Benge SD in Current DollarsDuty Title = Superintendent.png "Benge School District Superintendent Compensation History")
 

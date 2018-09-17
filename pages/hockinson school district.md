@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Hockinson School District Superintendent Compensation History](pages/Historical Compensation for the Hockinson SD in Constant 2017 DollarsDuty Title = Superintendent.png "Hockinson School District Superintendent Compensation History")
+[Hockinson School District Superintendent Compensation History](pages/Historical Compensation for the Hockinson SD in Current DollarsDuty Title = Superintendent.png "Hockinson School District Superintendent Compensation History")
 

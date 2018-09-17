@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Curlew School District Superintendent Compensation History](pages/Historical Compensation for the Curlew SD in Constant 2017 DollarsDuty Title = Superintendent.png "Curlew School District Superintendent Compensation History")
+[Curlew School District Superintendent Compensation History](pages/Historical Compensation for the Curlew SD in Current DollarsDuty Title = Superintendent.png "Curlew School District Superintendent Compensation History")
 

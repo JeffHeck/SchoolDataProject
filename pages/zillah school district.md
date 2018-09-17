@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Zillah School District Superintendent Compensation History](pages/Historical Compensation for the Zillah SD in Constant 2017 DollarsDuty Title = Superintendent.png "Zillah School District Superintendent Compensation History")
+[Zillah School District Superintendent Compensation History](pages/Historical Compensation for the Zillah SD in Current DollarsDuty Title = Superintendent.png "Zillah School District Superintendent Compensation History")
 

@@ -53,5 +53,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Vashon Island School District Superintendent Compensation History](pages/Historical Compensation for the Vashon Island SD in Constant 2017 DollarsDuty Title = Superintendent.png "Vashon Island School District Superintendent Compensation History")
+[Vashon Island School District Superintendent Compensation History](pages/Historical Compensation for the Vashon Island SD in Current DollarsDuty Title = Superintendent.png "Vashon Island School District Superintendent Compensation History")
 

@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Richland School District Superintendent Compensation History](pages/Historical Compensation for the Richland SD in Constant 2017 DollarsDuty Title = Superintendent.png "Richland School District Superintendent Compensation History")
+[Richland School District Superintendent Compensation History](pages/Historical Compensation for the Richland SD in Current DollarsDuty Title = Superintendent.png "Richland School District Superintendent Compensation History")
 

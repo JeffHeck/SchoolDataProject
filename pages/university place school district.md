@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[University Place School District Superintendent Compensation History](pages/Historical Compensation for the University Place SD in Constant 2017 DollarsDuty Title = Superintendent.png "University Place School District Superintendent Compensation History")
+[University Place School District Superintendent Compensation History](pages/Historical Compensation for the University Place SD in Current DollarsDuty Title = Superintendent.png "University Place School District Superintendent Compensation History")
 

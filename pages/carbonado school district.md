@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Carbonado School District Superintendent Compensation History](pages/Historical Compensation for the Carbonado SD in Constant 2017 DollarsDuty Title = Superintendent.png "Carbonado School District Superintendent Compensation History")
+[Carbonado School District Superintendent Compensation History](pages/Historical Compensation for the Carbonado SD in Current DollarsDuty Title = Superintendent.png "Carbonado School District Superintendent Compensation History")
 

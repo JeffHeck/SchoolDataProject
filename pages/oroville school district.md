@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Oroville School District Superintendent Compensation History](pages/Historical Compensation for the Oroville SD in Constant 2017 DollarsDuty Title = Superintendent.png "Oroville School District Superintendent Compensation History")
+[Oroville School District Superintendent Compensation History](pages/Historical Compensation for the Oroville SD in Current DollarsDuty Title = Superintendent.png "Oroville School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Lakewood School District Superintendent Compensation History](pages/Historical Compensation for the Lakewood SD in Constant 2017 DollarsDuty Title = Superintendent.png "Lakewood School District Superintendent Compensation History")
+[Lakewood School District Superintendent Compensation History](pages/Historical Compensation for the Lakewood SD in Current DollarsDuty Title = Superintendent.png "Lakewood School District Superintendent Compensation History")
 

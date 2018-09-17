@@ -99,5 +99,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Federal Way School District Superintendent Compensation History](pages/Historical Compensation for the Federal Way SD in Constant 2017 DollarsDuty Title = Superintendent.png "Federal Way School District Superintendent Compensation History")
+[Federal Way School District Superintendent Compensation History](pages/Historical Compensation for the Federal Way SD in Current DollarsDuty Title = Superintendent.png "Federal Way School District Superintendent Compensation History")
 

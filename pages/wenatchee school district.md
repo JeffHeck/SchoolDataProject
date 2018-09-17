@@ -85,5 +85,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Wenatchee School District Superintendent Compensation History](pages/Historical Compensation for the Wenatchee SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wenatchee School District Superintendent Compensation History")
+[Wenatchee School District Superintendent Compensation History](pages/Historical Compensation for the Wenatchee SD in Current DollarsDuty Title = Superintendent.png "Wenatchee School District Superintendent Compensation History")
 

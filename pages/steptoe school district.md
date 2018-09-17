@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Steptoe School District Superintendent Compensation History](pages/Historical Compensation for the Steptoe SD in Constant 2017 DollarsDuty Title = Superintendent.png "Steptoe School District Superintendent Compensation History")
+[Steptoe School District Superintendent Compensation History](pages/Historical Compensation for the Steptoe SD in Current DollarsDuty Title = Superintendent.png "Steptoe School District Superintendent Compensation History")
 

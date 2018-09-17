@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Sprague School District Superintendent Compensation History](pages/Historical Compensation for the Sprague SD in Constant 2017 DollarsDuty Title = Superintendent.png "Sprague School District Superintendent Compensation History")
+[Sprague School District Superintendent Compensation History](pages/Historical Compensation for the Sprague SD in Current DollarsDuty Title = Superintendent.png "Sprague School District Superintendent Compensation History")
 

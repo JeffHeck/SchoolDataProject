@@ -22,5 +22,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Northwest Educational Service District 189 Superintendent Compensation History](pages/Historical Compensation for the Northwest Educational Service District 189 SD in Constant 2017 DollarsDuty Title = Superintendent.png "Northwest Educational Service District 189 Superintendent Compensation History")
+[Northwest Educational Service District 189 Superintendent Compensation History](pages/Historical Compensation for the Northwest Educational Service District 189 SD in Current DollarsDuty Title = Superintendent.png "Northwest Educational Service District 189 Superintendent Compensation History")
 

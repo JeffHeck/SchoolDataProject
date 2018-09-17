@@ -105,5 +105,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Highline School District Superintendent Compensation History](pages/Historical Compensation for the Highline SD in Constant 2017 DollarsDuty Title = Superintendent.png "Highline School District Superintendent Compensation History")
+[Highline School District Superintendent Compensation History](pages/Historical Compensation for the Highline SD in Current DollarsDuty Title = Superintendent.png "Highline School District Superintendent Compensation History")
 

@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Anacortes School District Superintendent Compensation History](pages/Historical Compensation for the Anacortes SD in Constant 2017 DollarsDuty Title = Superintendent.png "Anacortes School District Superintendent Compensation History")
+[Anacortes School District Superintendent Compensation History](pages/Historical Compensation for the Anacortes SD in Current DollarsDuty Title = Superintendent.png "Anacortes School District Superintendent Compensation History")
 

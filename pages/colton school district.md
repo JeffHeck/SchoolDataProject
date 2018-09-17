@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Colton School District Superintendent Compensation History](pages/Historical Compensation for the Colton SD in Constant 2017 DollarsDuty Title = Superintendent.png "Colton School District Superintendent Compensation History")
+[Colton School District Superintendent Compensation History](pages/Historical Compensation for the Colton SD in Current DollarsDuty Title = Superintendent.png "Colton School District Superintendent Compensation History")
 

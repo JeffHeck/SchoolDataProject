@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Tenino School District Superintendent Compensation History](pages/Historical Compensation for the Tenino SD in Constant 2017 DollarsDuty Title = Superintendent.png "Tenino School District Superintendent Compensation History")
+[Tenino School District Superintendent Compensation History](pages/Historical Compensation for the Tenino SD in Current DollarsDuty Title = Superintendent.png "Tenino School District Superintendent Compensation History")
 

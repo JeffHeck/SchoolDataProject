@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Hood Canal School District Superintendent Compensation History](pages/Historical Compensation for the Hood Canal SD in Constant 2017 DollarsDuty Title = Superintendent.png "Hood Canal School District Superintendent Compensation History")
+[Hood Canal School District Superintendent Compensation History](pages/Historical Compensation for the Hood Canal SD in Current DollarsDuty Title = Superintendent.png "Hood Canal School District Superintendent Compensation History")
 

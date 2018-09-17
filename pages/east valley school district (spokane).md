@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[East Valley School District (Spokane) Superintendent Compensation History](pages/Historical Compensation for the East Valley (Spokane) SD in Constant 2017 DollarsDuty Title = Superintendent.png "East Valley School District (Spokane) Superintendent Compensation History")
+[East Valley School District (Spokane) Superintendent Compensation History](pages/Historical Compensation for the East Valley (Spokane) SD in Current DollarsDuty Title = Superintendent.png "East Valley School District (Spokane) Superintendent Compensation History")
 

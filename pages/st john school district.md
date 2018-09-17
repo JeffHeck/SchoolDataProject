@@ -51,5 +51,5 @@ ___
 
 ## Superintendent Compensation History
 
-[St John School District Superintendent Compensation History](pages/Historical Compensation for the St John SD in Constant 2017 DollarsDuty Title = Superintendent.png "St John School District Superintendent Compensation History")
+[St John School District Superintendent Compensation History](pages/Historical Compensation for the St John SD in Current DollarsDuty Title = Superintendent.png "St John School District Superintendent Compensation History")
 

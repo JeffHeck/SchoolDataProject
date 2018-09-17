@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Oak Harbor School District Superintendent Compensation History](pages/Historical Compensation for the Oak Harbor SD in Constant 2017 DollarsDuty Title = Superintendent.png "Oak Harbor School District Superintendent Compensation History")
+[Oak Harbor School District Superintendent Compensation History](pages/Historical Compensation for the Oak Harbor SD in Current DollarsDuty Title = Superintendent.png "Oak Harbor School District Superintendent Compensation History")
 

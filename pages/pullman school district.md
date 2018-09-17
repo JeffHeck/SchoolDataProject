@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Pullman School District Superintendent Compensation History](pages/Historical Compensation for the Pullman SD in Constant 2017 DollarsDuty Title = Superintendent.png "Pullman School District Superintendent Compensation History")
+[Pullman School District Superintendent Compensation History](pages/Historical Compensation for the Pullman SD in Current DollarsDuty Title = Superintendent.png "Pullman School District Superintendent Compensation History")
 

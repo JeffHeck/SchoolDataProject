@@ -24,3 +24,10 @@ ___
 
 [Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Paterson School DistrictDollars Per StudentLine.png " Dollars Per Student")
 
+
+___
+
+## Superintendent Compensation History
+
+[Paterson School District Superintendent Compensation History](pages/Historical Compensation for the Paterson SD in Current DollarsDuty Title = Superintendent.png "Paterson School District Superintendent Compensation History")
+

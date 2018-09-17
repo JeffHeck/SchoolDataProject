@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Granite Falls School District Superintendent Compensation History](pages/Historical Compensation for the Granite Falls SD in Constant 2017 DollarsDuty Title = Superintendent.png "Granite Falls School District Superintendent Compensation History")
+[Granite Falls School District Superintendent Compensation History](pages/Historical Compensation for the Granite Falls SD in Current DollarsDuty Title = Superintendent.png "Granite Falls School District Superintendent Compensation History")
 

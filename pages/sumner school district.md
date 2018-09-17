@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Sumner School District Superintendent Compensation History](pages/Historical Compensation for the Sumner SD in Constant 2017 DollarsDuty Title = Superintendent.png "Sumner School District Superintendent Compensation History")
+[Sumner School District Superintendent Compensation History](pages/Historical Compensation for the Sumner SD in Current DollarsDuty Title = Superintendent.png "Sumner School District Superintendent Compensation History")
 

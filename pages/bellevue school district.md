@@ -89,5 +89,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Bellevue School District Superintendent Compensation History](pages/Historical Compensation for the Bellevue SD in Constant 2017 DollarsDuty Title = Superintendent.png "Bellevue School District Superintendent Compensation History")
+[Bellevue School District Superintendent Compensation History](pages/Historical Compensation for the Bellevue SD in Current DollarsDuty Title = Superintendent.png "Bellevue School District Superintendent Compensation History")
 

@@ -101,5 +101,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Tacoma School District Superintendent Compensation History](pages/Historical Compensation for the Tacoma SD in Constant 2017 DollarsDuty Title = Superintendent.png "Tacoma School District Superintendent Compensation History")
+[Tacoma School District Superintendent Compensation History](pages/Historical Compensation for the Tacoma SD in Current DollarsDuty Title = Superintendent.png "Tacoma School District Superintendent Compensation History")
 

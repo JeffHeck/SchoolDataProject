@@ -40,5 +40,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mill A School District Superintendent Compensation History](pages/Historical Compensation for the Mill A SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mill A School District Superintendent Compensation History")
+[Mill A School District Superintendent Compensation History](pages/Historical Compensation for the Mill A SD in Current DollarsDuty Title = Superintendent.png "Mill A School District Superintendent Compensation History")
 

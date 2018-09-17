@@ -56,5 +56,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Almira School District Superintendent Compensation History](pages/Historical Compensation for the Almira SD in Constant 2017 DollarsDuty Title = Superintendent.png "Almira School District Superintendent Compensation History")
+[Almira School District Superintendent Compensation History](pages/Historical Compensation for the Almira SD in Current DollarsDuty Title = Superintendent.png "Almira School District Superintendent Compensation History")
 

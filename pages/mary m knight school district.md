@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mary M Knight School District Superintendent Compensation History](pages/Historical Compensation for the Mary M Knight SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mary M Knight School District Superintendent Compensation History")
+[Mary M Knight School District Superintendent Compensation History](pages/Historical Compensation for the Mary M Knight SD in Current DollarsDuty Title = Superintendent.png "Mary M Knight School District Superintendent Compensation History")
 

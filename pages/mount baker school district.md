@@ -65,5 +65,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mount Baker School District Superintendent Compensation History](pages/Historical Compensation for the Mount Baker SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mount Baker School District Superintendent Compensation History")
+[Mount Baker School District Superintendent Compensation History](pages/Historical Compensation for the Mount Baker SD in Current DollarsDuty Title = Superintendent.png "Mount Baker School District Superintendent Compensation History")
 

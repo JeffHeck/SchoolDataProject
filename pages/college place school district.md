@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[College Place School District Superintendent Compensation History](pages/Historical Compensation for the College Place SD in Constant 2017 DollarsDuty Title = Superintendent.png "College Place School District Superintendent Compensation History")
+[College Place School District Superintendent Compensation History](pages/Historical Compensation for the College Place SD in Current DollarsDuty Title = Superintendent.png "College Place School District Superintendent Compensation History")
 

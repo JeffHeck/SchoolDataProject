@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Pe Ell School District Superintendent Compensation History](pages/Historical Compensation for the Pe Ell SD in Constant 2017 DollarsDuty Title = Superintendent.png "Pe Ell School District Superintendent Compensation History")
+[Pe Ell School District Superintendent Compensation History](pages/Historical Compensation for the Pe Ell SD in Current DollarsDuty Title = Superintendent.png "Pe Ell School District Superintendent Compensation History")
 

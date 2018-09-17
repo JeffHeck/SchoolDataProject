@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Orting School District Superintendent Compensation History](pages/Historical Compensation for the Orting SD in Constant 2017 DollarsDuty Title = Superintendent.png "Orting School District Superintendent Compensation History")
+[Orting School District Superintendent Compensation History](pages/Historical Compensation for the Orting SD in Current DollarsDuty Title = Superintendent.png "Orting School District Superintendent Compensation History")
 

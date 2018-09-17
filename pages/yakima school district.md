@@ -87,5 +87,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Yakima School District Superintendent Compensation History](pages/Historical Compensation for the Yakima SD in Constant 2017 DollarsDuty Title = Superintendent.png "Yakima School District Superintendent Compensation History")
+[Yakima School District Superintendent Compensation History](pages/Historical Compensation for the Yakima SD in Current DollarsDuty Title = Superintendent.png "Yakima School District Superintendent Compensation History")
 

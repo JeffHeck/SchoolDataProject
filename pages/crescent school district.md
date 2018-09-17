@@ -63,5 +63,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Crescent School District Superintendent Compensation History](pages/Historical Compensation for the Crescent SD in Constant 2017 DollarsDuty Title = Superintendent.png "Crescent School District Superintendent Compensation History")
+[Crescent School District Superintendent Compensation History](pages/Historical Compensation for the Crescent SD in Current DollarsDuty Title = Superintendent.png "Crescent School District Superintendent Compensation History")
 

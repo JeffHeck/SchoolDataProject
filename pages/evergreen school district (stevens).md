@@ -38,5 +38,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Evergreen School District (Stevens) Superintendent Compensation History](pages/Historical Compensation for the Evergreen (Stevens) SD in Constant 2017 DollarsDuty Title = Superintendent.png "Evergreen School District (Stevens) Superintendent Compensation History")
+[Evergreen School District (Stevens) Superintendent Compensation History](pages/Historical Compensation for the Evergreen (Stevens) SD in Current DollarsDuty Title = Superintendent.png "Evergreen School District (Stevens) Superintendent Compensation History")
 

@@ -125,5 +125,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Seattle Public Schools Superintendent Compensation History](pages/Historical Compensation for the Seattle SD in Constant 2017 DollarsDuty Title = Superintendent.png "Seattle Public Schools Superintendent Compensation History")
+[Seattle Public Schools Superintendent Compensation History](pages/Historical Compensation for the Seattle SD in Current DollarsDuty Title = Superintendent.png "Seattle Public Schools Superintendent Compensation History")
 

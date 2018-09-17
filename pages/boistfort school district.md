@@ -42,5 +42,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Boistfort School District Superintendent Compensation History](pages/Historical Compensation for the Boistfort SD in Constant 2017 DollarsDuty Title = Superintendent.png "Boistfort School District Superintendent Compensation History")
+[Boistfort School District Superintendent Compensation History](pages/Historical Compensation for the Boistfort SD in Current DollarsDuty Title = Superintendent.png "Boistfort School District Superintendent Compensation History")
 

@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Omak School District Superintendent Compensation History](pages/Historical Compensation for the Omak SD in Constant 2017 DollarsDuty Title = Superintendent.png "Omak School District Superintendent Compensation History")
+[Omak School District Superintendent Compensation History](pages/Historical Compensation for the Omak SD in Current DollarsDuty Title = Superintendent.png "Omak School District Superintendent Compensation History")
 

@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Wishkah Valley School District Superintendent Compensation History](pages/Historical Compensation for the Wishkah Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Wishkah Valley School District Superintendent Compensation History")
+[Wishkah Valley School District Superintendent Compensation History](pages/Historical Compensation for the Wishkah Valley SD in Current DollarsDuty Title = Superintendent.png "Wishkah Valley School District Superintendent Compensation History")
 

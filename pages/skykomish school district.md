@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Skykomish School District Superintendent Compensation History](pages/Historical Compensation for the Skykomish SD in Constant 2017 DollarsDuty Title = Superintendent.png "Skykomish School District Superintendent Compensation History")
+[Skykomish School District Superintendent Compensation History](pages/Historical Compensation for the Skykomish SD in Current DollarsDuty Title = Superintendent.png "Skykomish School District Superintendent Compensation History")
 

@@ -52,5 +52,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Orchard Prairie School District Superintendent Compensation History](pages/Historical Compensation for the Orchard Prairie SD in Constant 2017 DollarsDuty Title = Superintendent.png "Orchard Prairie School District Superintendent Compensation History")
+[Orchard Prairie School District Superintendent Compensation History](pages/Historical Compensation for the Orchard Prairie SD in Current DollarsDuty Title = Superintendent.png "Orchard Prairie School District Superintendent Compensation History")
 

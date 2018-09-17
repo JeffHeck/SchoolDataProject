@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Elma School District Superintendent Compensation History](pages/Historical Compensation for the Elma SD in Constant 2017 DollarsDuty Title = Superintendent.png "Elma School District Superintendent Compensation History")
+[Elma School District Superintendent Compensation History](pages/Historical Compensation for the Elma SD in Current DollarsDuty Title = Superintendent.png "Elma School District Superintendent Compensation History")
 

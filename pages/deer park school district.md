@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Deer Park School District Superintendent Compensation History](pages/Historical Compensation for the Deer Park SD in Constant 2017 DollarsDuty Title = Superintendent.png "Deer Park School District Superintendent Compensation History")
+[Deer Park School District Superintendent Compensation History](pages/Historical Compensation for the Deer Park SD in Current DollarsDuty Title = Superintendent.png "Deer Park School District Superintendent Compensation History")
 

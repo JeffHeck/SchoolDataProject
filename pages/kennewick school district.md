@@ -87,5 +87,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Kennewick School District Superintendent Compensation History](pages/Historical Compensation for the Kennewick SD in Constant 2017 DollarsDuty Title = Superintendent.png "Kennewick School District Superintendent Compensation History")
+[Kennewick School District Superintendent Compensation History](pages/Historical Compensation for the Kennewick SD in Current DollarsDuty Title = Superintendent.png "Kennewick School District Superintendent Compensation History")
 

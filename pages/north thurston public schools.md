@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[North Thurston Public Schools Superintendent Compensation History](pages/Historical Compensation for the North Thurston SD in Constant 2017 DollarsDuty Title = Superintendent.png "North Thurston Public Schools Superintendent Compensation History")
+[North Thurston Public Schools Superintendent Compensation History](pages/Historical Compensation for the North Thurston SD in Current DollarsDuty Title = Superintendent.png "North Thurston Public Schools Superintendent Compensation History")
 

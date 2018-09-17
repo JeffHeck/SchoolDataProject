@@ -81,5 +81,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Arlington School District Superintendent Compensation History](pages/Historical Compensation for the Arlington SD in Constant 2017 DollarsDuty Title = Superintendent.png "Arlington School District Superintendent Compensation History")
+[Arlington School District Superintendent Compensation History](pages/Historical Compensation for the Arlington SD in Current DollarsDuty Title = Superintendent.png "Arlington School District Superintendent Compensation History")
 

@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Muckleshoot Indian Tribe Superintendent Compensation History](pages/Historical Compensation for the Muckleshoot Indian Tribe SD in Constant 2017 DollarsDuty Title = Superintendent.png "Muckleshoot Indian Tribe Superintendent Compensation History")
+[Muckleshoot Indian Tribe Superintendent Compensation History](pages/Historical Compensation for the Muckleshoot Indian Tribe SD in Current DollarsDuty Title = Superintendent.png "Muckleshoot Indian Tribe Superintendent Compensation History")
 

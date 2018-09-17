@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[White River School District Superintendent Compensation History](pages/Historical Compensation for the White River SD in Constant 2017 DollarsDuty Title = Superintendent.png "White River School District Superintendent Compensation History")
+[White River School District Superintendent Compensation History](pages/Historical Compensation for the White River SD in Current DollarsDuty Title = Superintendent.png "White River School District Superintendent Compensation History")
 

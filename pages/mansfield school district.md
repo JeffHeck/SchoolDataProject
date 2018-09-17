@@ -49,5 +49,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Mansfield School District Superintendent Compensation History](pages/Historical Compensation for the Mansfield SD in Constant 2017 DollarsDuty Title = Superintendent.png "Mansfield School District Superintendent Compensation History")
+[Mansfield School District Superintendent Compensation History](pages/Historical Compensation for the Mansfield SD in Current DollarsDuty Title = Superintendent.png "Mansfield School District Superintendent Compensation History")
 

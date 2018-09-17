@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Nine Mile Falls School District Superintendent Compensation History](pages/Historical Compensation for the Nine Mile Falls SD in Constant 2017 DollarsDuty Title = Superintendent.png "Nine Mile Falls School District Superintendent Compensation History")
+[Nine Mile Falls School District Superintendent Compensation History](pages/Historical Compensation for the Nine Mile Falls SD in Current DollarsDuty Title = Superintendent.png "Nine Mile Falls School District Superintendent Compensation History")
 

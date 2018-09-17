@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Brewster School District Superintendent Compensation History](pages/Historical Compensation for the Brewster SD in Constant 2017 DollarsDuty Title = Superintendent.png "Brewster School District Superintendent Compensation History")
+[Brewster School District Superintendent Compensation History](pages/Historical Compensation for the Brewster SD in Current DollarsDuty Title = Superintendent.png "Brewster School District Superintendent Compensation History")
 

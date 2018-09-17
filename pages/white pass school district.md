@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[White Pass School District Superintendent Compensation History](pages/Historical Compensation for the White Pass SD in Constant 2017 DollarsDuty Title = Superintendent.png "White Pass School District Superintendent Compensation History")
+[White Pass School District Superintendent Compensation History](pages/Historical Compensation for the White Pass SD in Current DollarsDuty Title = Superintendent.png "White Pass School District Superintendent Compensation History")
 

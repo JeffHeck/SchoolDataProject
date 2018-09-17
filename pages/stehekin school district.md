@@ -40,5 +40,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Stehekin School District Superintendent Compensation History](pages/Historical Compensation for the Stehekin SD in Constant 2017 DollarsDuty Title = Superintendent.png "Stehekin School District Superintendent Compensation History")
+[Stehekin School District Superintendent Compensation History](pages/Historical Compensation for the Stehekin SD in Current DollarsDuty Title = Superintendent.png "Stehekin School District Superintendent Compensation History")
 

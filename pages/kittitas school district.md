@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Kittitas School District Superintendent Compensation History](pages/Historical Compensation for the Kittitas SD in Constant 2017 DollarsDuty Title = Superintendent.png "Kittitas School District Superintendent Compensation History")
+[Kittitas School District Superintendent Compensation History](pages/Historical Compensation for the Kittitas SD in Current DollarsDuty Title = Superintendent.png "Kittitas School District Superintendent Compensation History")
 

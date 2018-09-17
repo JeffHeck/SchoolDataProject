@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Meridian School District Superintendent Compensation History](pages/Historical Compensation for the Meridian SD in Constant 2017 DollarsDuty Title = Superintendent.png "Meridian School District Superintendent Compensation History")
+[Meridian School District Superintendent Compensation History](pages/Historical Compensation for the Meridian SD in Current DollarsDuty Title = Superintendent.png "Meridian School District Superintendent Compensation History")
 

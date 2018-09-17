@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Green Mountain School District Superintendent Compensation History](pages/Historical Compensation for the Green Mountain SD in Constant 2017 DollarsDuty Title = Superintendent.png "Green Mountain School District Superintendent Compensation History")
+[Green Mountain School District Superintendent Compensation History](pages/Historical Compensation for the Green Mountain SD in Current DollarsDuty Title = Superintendent.png "Green Mountain School District Superintendent Compensation History")
 

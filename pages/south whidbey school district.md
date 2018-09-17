@@ -79,5 +79,5 @@ ___
 
 ## Superintendent Compensation History
 
-[South Whidbey School District Superintendent Compensation History](pages/Historical Compensation for the South Whidbey SD in Constant 2017 DollarsDuty Title = Superintendent.png "South Whidbey School District Superintendent Compensation History")
+[South Whidbey School District Superintendent Compensation History](pages/Historical Compensation for the South Whidbey SD in Current DollarsDuty Title = Superintendent.png "South Whidbey School District Superintendent Compensation History")
 

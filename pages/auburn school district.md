@@ -83,5 +83,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Auburn School District Superintendent Compensation History](pages/Historical Compensation for the Auburn SD in Constant 2017 DollarsDuty Title = Superintendent.png "Auburn School District Superintendent Compensation History")
+[Auburn School District Superintendent Compensation History](pages/Historical Compensation for the Auburn SD in Current DollarsDuty Title = Superintendent.png "Auburn School District Superintendent Compensation History")
 

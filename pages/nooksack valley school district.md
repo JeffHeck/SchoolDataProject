@@ -77,5 +77,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Nooksack Valley School District Superintendent Compensation History](pages/Historical Compensation for the Nooksack Valley SD in Constant 2017 DollarsDuty Title = Superintendent.png "Nooksack Valley School District Superintendent Compensation History")
+[Nooksack Valley School District Superintendent Compensation History](pages/Historical Compensation for the Nooksack Valley SD in Current DollarsDuty Title = Superintendent.png "Nooksack Valley School District Superintendent Compensation History")
 

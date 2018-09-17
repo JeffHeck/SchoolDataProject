@@ -38,5 +38,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Roosevelt School District Superintendent Compensation History](pages/Historical Compensation for the Roosevelt SD in Constant 2017 DollarsDuty Title = Superintendent.png "Roosevelt School District Superintendent Compensation History")
+[Roosevelt School District Superintendent Compensation History](pages/Historical Compensation for the Roosevelt SD in Current DollarsDuty Title = Superintendent.png "Roosevelt School District Superintendent Compensation History")
 

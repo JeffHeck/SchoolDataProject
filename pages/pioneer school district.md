@@ -70,5 +70,5 @@ ___
 
 ## Superintendent Compensation History
 
-[Pioneer School District Superintendent Compensation History](pages/Historical Compensation for the Pioneer SD in Constant 2017 DollarsDuty Title = Superintendent.png "Pioneer School District Superintendent Compensation History")
+[Pioneer School District Superintendent Compensation History](pages/Historical Compensation for the Pioneer SD in Current DollarsDuty Title = Superintendent.png "Pioneer School District Superintendent Compensation History")
 
