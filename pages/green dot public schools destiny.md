@@ -5,6 +5,7 @@ permalink: green dot public schools destiny
 ---
 
 
+[Green Dot Public Schools Destiny Historical Demographics](pages/Historical Demographics for the Green Dot Public Schools Destiny.png "Green Dot Public Schools Destiny Historical Demographics")
 
 ___
 

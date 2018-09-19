@@ -20,8 +20,6 @@ permalink:
 
 [Bainbridge Island School District](bainbridge island school district)
 
-[Bates Technical College](bates technical college)
-
 [Battle Ground School District](battle ground school district)
 
 [Bellevue School District](bellevue school district)
@@ -51,8 +49,6 @@ permalink:
 [Camas School District](camas school district)
 
 [Cape Flattery School District](cape flattery school district)
-
-[Capital Region ESD 113](capital region esd 113)
 
 [Carbonado School District](carbonado school district)
 
@@ -142,12 +138,6 @@ permalink:
 
 [Edmonds School District](edmonds school district)
 
-[Educational Service District 101](educational service district 101)
-
-[Educational Service District 112](educational service district 112)
-
-[Educational Service District 123](educational service district 123)
-
 [Ellensburg School District](ellensburg school district)
 
 [Elma School District](elma school district)
@@ -224,11 +214,7 @@ permalink:
 
 [Index School District](index school district)
 
-[Institutions](institutions)
-
 [Issaquah School District](issaquah school district)
-
-[Juvenile Detention Centers](juvenile detention centers)
 
 [Kahlotus School District](kahlotus school district)
 
@@ -261,8 +247,6 @@ permalink:
 [Lake Quinault School District](lake quinault school district)
 
 [Lake Stevens School District](lake stevens school district)
-
-[Lake Washington Institute of Technology](lake washington institute of technology)
 
 [Lake Washington School District](lake washington school district)
 
@@ -363,8 +347,6 @@ permalink:
 [Northport School District](northport school district)
 
 [Northshore School District](northshore school district)
-
-[Northwest Educational Service District 189](northwest educational service district 189)
 
 [Oak Harbor School District](oak harbor school district)
 
@@ -498,8 +480,6 @@ permalink:
 
 [Skamania School District](skamania school district)
 
-[Skills Centers](skills centers)
-
 [Skykomish School District](skykomish school district)
 
 [Snohomish School District](snohomish school district)
@@ -581,8 +561,6 @@ permalink:
 [Tukwila School District](tukwila school district)
 
 [Tumwater School District](tumwater school district)
-
-[Unaffiliated Tribal Schools](unaffiliated tribal schools)
 
 [Union Gap School District](union gap school district)
 

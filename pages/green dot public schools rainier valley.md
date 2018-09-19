@@ -5,3 +5,4 @@ permalink: green dot public schools rainier valley
 ---
 
 
+[Green Dot Public Schools Rainier Valley Historical Demographics](pages/Historical Demographics for the Green Dot Public Schools Rainier Valley.png "Green Dot Public Schools Rainier Valley Historical Demographics")

@@ -5,6 +5,7 @@ permalink: steilacoom hist school district
 ---
 
 
+[Steilacoom Hist School District Historical Demographics](pages/Historical Demographics for the Steilacoom Hist School District.png "Steilacoom Hist School District Historical Demographics")
 
 ___
 

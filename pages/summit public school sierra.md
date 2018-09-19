@@ -5,6 +5,7 @@ permalink: summit public school sierra
 ---
 
 
+[Summit Public School Sierra Historical Demographics](pages/Historical Demographics for the Summit Public School Sierra.png "Summit Public School Sierra Historical Demographics")
 
 ___
 

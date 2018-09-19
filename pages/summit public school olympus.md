@@ -5,6 +5,7 @@ permalink: summit public school olympus
 ---
 
 
+[Summit Public School Olympus Historical Demographics](pages/Historical Demographics for the Summit Public School Olympus.png "Summit Public School Olympus Historical Demographics")
 
 ___
 

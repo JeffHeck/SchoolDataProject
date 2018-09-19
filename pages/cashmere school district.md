@@ -5,6 +5,7 @@ permalink: cashmere school district
 ---
 
 
+[Cashmere School District Historical Demographics](pages/Historical Demographics for the Cashmere School District.png "Cashmere School District Historical Demographics")
 
 ___
 
