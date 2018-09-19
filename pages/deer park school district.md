@@ -5,7 +5,7 @@ permalink: deer park school district
 ---
 
 
-[Deer Park School District Historical Demographics](pages/Deer Park School District Historical Demographics.png "Deer Park School District Historical Demographics")
+[Deer Park School District Historical Demographics](pages/Historical Demographics for the Deer Park School District.png "Deer Park School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Deer Park High School](pages/Deer Park School District Deer Park High SchoolDual Credit BarChart.png "Deer Park High School Dual Credit Participation")
+[Deer Park High School](pages/Dual Credit BarChartDeer Park School District Deer Park High School.png "Deer Park High School Dual Credit Participation")
 
 
 ___

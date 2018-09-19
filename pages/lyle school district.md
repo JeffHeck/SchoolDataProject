@@ -5,7 +5,7 @@ permalink: lyle school district
 ---
 
 
-[Lyle School District Historical Demographics](pages/Lyle School District Historical Demographics.png "Lyle School District Historical Demographics")
+[Lyle School District Historical Demographics](pages/Historical Demographics for the Lyle School District.png "Lyle School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lyle High School](pages/Lyle School District Lyle High SchoolDual Credit BarChart.png "Lyle High School Dual Credit Participation")
+[Lyle High School](pages/Dual Credit BarChartLyle School District Lyle High School.png "Lyle High School Dual Credit Participation")
 
 
 ___

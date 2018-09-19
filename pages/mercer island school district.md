@@ -5,7 +5,7 @@ permalink: mercer island school district
 ---
 
 
-[Mercer Island School District Historical Demographics](pages/Mercer Island School District Historical Demographics.png "Mercer Island School District Historical Demographics")
+[Mercer Island School District Historical Demographics](pages/Historical Demographics for the Mercer Island School District.png "Mercer Island School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Islander Middle School](pages/Mercer Island School District Islander Middle SchoolDual Credit BarChart.png "Islander Middle School Dual Credit Participation")
+[Islander Middle School](pages/Dual Credit BarChartMercer Island School District Islander Middle School.png "Islander Middle School Dual Credit Participation")
 
-[Mercer Island High School](pages/Mercer Island School District Mercer Island High SchoolDual Credit BarChart.png "Mercer Island High School Dual Credit Participation")
+[Mercer Island High School](pages/Dual Credit BarChartMercer Island School District Mercer Island High School.png "Mercer Island High School Dual Credit Participation")
 
 
 ___

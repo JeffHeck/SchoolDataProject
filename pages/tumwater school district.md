@@ -5,7 +5,7 @@ permalink: tumwater school district
 ---
 
 
-[Tumwater School District Historical Demographics](pages/Tumwater School District Historical Demographics.png "Tumwater School District Historical Demographics")
+[Tumwater School District Historical Demographics](pages/Historical Demographics for the Tumwater School District.png "Tumwater School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[A G West Black Hills High School](pages/Tumwater School District A G West Black Hills High SchoolDual Credit BarChart.png "A G West Black Hills High School Dual Credit Participation")
+[A G West Black Hills High School](pages/Dual Credit BarChartTumwater School District A G West Black Hills High School.png "A G West Black Hills High School Dual Credit Participation")
 
-[New Market High School](pages/Tumwater School District New Market High SchoolDual Credit BarChart.png "New Market High School Dual Credit Participation")
+[New Market High School](pages/Dual Credit BarChartTumwater School District New Market High School.png "New Market High School Dual Credit Participation")
 
-[Secondary Options](pages/Tumwater School District Secondary OptionsDual Credit BarChart.png "Secondary Options Dual Credit Participation")
+[Secondary Options](pages/Dual Credit BarChartTumwater School District Secondary Options.png "Secondary Options Dual Credit Participation")
 
-[Tumwater High School](pages/Tumwater School District Tumwater High SchoolDual Credit BarChart.png "Tumwater High School Dual Credit Participation")
+[Tumwater High School](pages/Dual Credit BarChartTumwater School District Tumwater High School.png "Tumwater High School Dual Credit Participation")
 
 
 ___

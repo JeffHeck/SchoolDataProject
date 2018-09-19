@@ -5,17 +5,17 @@ permalink: chimacum school district
 ---
 
 
-[Chimacum School District Historical Demographics](pages/Chimacum School District Historical Demographics.png "Chimacum School District Historical Demographics")
+[Chimacum School District Historical Demographics](pages/Historical Demographics for the Chimacum School District.png "Chimacum School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Chimacum High School](pages/Chimacum School District Chimacum High SchoolDual Credit BarChart.png "Chimacum High School Dual Credit Participation")
+[Chimacum High School](pages/Dual Credit BarChartChimacum School District Chimacum High School.png "Chimacum High School Dual Credit Participation")
 
-[Open Doors Reengagement Program](pages/Chimacum School District Open Doors Reengagement ProgramDual Credit BarChart.png "Open Doors Reengagement Program Dual Credit Participation")
+[Open Doors Reengagement Program](pages/Dual Credit BarChartChimacum School District Open Doors Reengagement Program.png "Open Doors Reengagement Program Dual Credit Participation")
 
-[PI Program](pages/Chimacum School District PI ProgramDual Credit BarChart.png "PI Program Dual Credit Participation")
+[PI Program](pages/Dual Credit BarChartChimacum School District PI Program.png "PI Program Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: centralia school district
 ---
 
 
-[Centralia School District Historical Demographics](pages/Centralia School District Historical Demographics.png "Centralia School District Historical Demographics")
+[Centralia School District Historical Demographics](pages/Historical Demographics for the Centralia School District.png "Centralia School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Centralia High School](pages/Centralia School District Centralia High SchoolDual Credit BarChart.png "Centralia High School Dual Credit Participation")
+[Centralia High School](pages/Dual Credit BarChartCentralia School District Centralia High School.png "Centralia High School Dual Credit Participation")
 
-[Futurus High School](pages/Centralia School District Futurus High SchoolDual Credit BarChart.png "Futurus High School Dual Credit Participation")
+[Futurus High School](pages/Dual Credit BarChartCentralia School District Futurus High School.png "Futurus High School Dual Credit Participation")
 
 
 ___

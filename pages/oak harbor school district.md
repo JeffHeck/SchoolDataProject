@@ -5,7 +5,7 @@ permalink: oak harbor school district
 ---
 
 
-[Oak Harbor School District Historical Demographics](pages/Oak Harbor School District Historical Demographics.png "Oak Harbor School District Historical Demographics")
+[Oak Harbor School District Historical Demographics](pages/Historical Demographics for the Oak Harbor School District.png "Oak Harbor School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Homeconnection](pages/Oak Harbor School District HomeconnectionDual Credit BarChart.png "Homeconnection Dual Credit Participation")
+[Homeconnection](pages/Dual Credit BarChartOak Harbor School District Homeconnection.png "Homeconnection Dual Credit Participation")
 
-[Oak Harbor High School](pages/Oak Harbor School District Oak Harbor High SchoolDual Credit BarChart.png "Oak Harbor High School Dual Credit Participation")
+[Oak Harbor High School](pages/Dual Credit BarChartOak Harbor School District Oak Harbor High School.png "Oak Harbor High School Dual Credit Participation")
 
-[iGrad Academy](pages/Oak Harbor School District iGrad AcademyDual Credit BarChart.png "iGrad Academy Dual Credit Participation")
+[iGrad Academy](pages/Dual Credit BarChartOak Harbor School District iGrad Academy.png "iGrad Academy Dual Credit Participation")
 
 
 ___

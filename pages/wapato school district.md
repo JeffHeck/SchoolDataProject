@@ -5,7 +5,7 @@ permalink: wapato school district
 ---
 
 
-[Wapato School District Historical Demographics](pages/Wapato School District Historical Demographics.png "Wapato School District Historical Demographics")
+[Wapato School District Historical Demographics](pages/Historical Demographics for the Wapato School District.png "Wapato School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Pace Alternative High School](pages/Wapato School District Pace Alternative High SchoolDual Credit BarChart.png "Pace Alternative High School Dual Credit Participation")
+[Pace Alternative High School](pages/Dual Credit BarChartWapato School District Pace Alternative High School.png "Pace Alternative High School Dual Credit Participation")
 
-[Wapato High School](pages/Wapato School District Wapato High SchoolDual Credit BarChart.png "Wapato High School Dual Credit Participation")
+[Wapato High School](pages/Dual Credit BarChartWapato School District Wapato High School.png "Wapato High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: waterville school district
 ---
 
 
-[Waterville School District Historical Demographics](pages/Waterville School District Historical Demographics.png "Waterville School District Historical Demographics")
+[Waterville School District Historical Demographics](pages/Historical Demographics for the Waterville School District.png "Waterville School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Waterville High School](pages/Waterville School District Waterville High SchoolDual Credit BarChart.png "Waterville High School Dual Credit Participation")
+[Waterville High School](pages/Dual Credit BarChartWaterville School District Waterville High School.png "Waterville High School Dual Credit Participation")
 
 
 ___

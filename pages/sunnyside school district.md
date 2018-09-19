@@ -5,7 +5,7 @@ permalink: sunnyside school district
 ---
 
 
-[Sunnyside School District Historical Demographics](pages/Sunnyside School District Historical Demographics.png "Sunnyside School District Historical Demographics")
+[Sunnyside School District Historical Demographics](pages/Historical Demographics for the Sunnyside School District.png "Sunnyside School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Sunnyside High School](pages/Sunnyside School District Sunnyside High SchoolDual Credit BarChart.png "Sunnyside High School Dual Credit Participation")
+[Sunnyside High School](pages/Dual Credit BarChartSunnyside School District Sunnyside High School.png "Sunnyside High School Dual Credit Participation")
 
 
 ___

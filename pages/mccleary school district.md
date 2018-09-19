@@ -5,7 +5,7 @@ permalink: mccleary school district
 ---
 
 
-[McCleary School District Historical Demographics](pages/McCleary School District Historical Demographics.png "McCleary School District Historical Demographics")
+[McCleary School District Historical Demographics](pages/Historical Demographics for the McCleary School District.png "McCleary School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: wenatchee school district
 ---
 
 
-[Wenatchee School District Historical Demographics](pages/Wenatchee School District Historical Demographics.png "Wenatchee School District Historical Demographics")
+[Wenatchee School District Historical Demographics](pages/Historical Demographics for the Wenatchee School District.png "Wenatchee School District Historical Demographics")
 
 ___
 
@@ -39,15 +39,15 @@ ___
 
 ## Dual Credit Participation
 
-[Open Doors  Re-Engagement Wenatchee](pages/Wenatchee School District Open Doors  Re-Engagement WenatcheeDual Credit BarChart.png "Open Doors  Re-Engagement Wenatchee Dual Credit Participation")
+[Open Doors  Re-Engagement Wenatchee](pages/Dual Credit BarChartWenatchee School District Open Doors  Re-Engagement Wenatchee.png "Open Doors  Re-Engagement Wenatchee Dual Credit Participation")
 
-[Skill Source](pages/Wenatchee School District Skill SourceDual Credit BarChart.png "Skill Source Dual Credit Participation")
+[Skill Source](pages/Dual Credit BarChartWenatchee School District Skill Source.png "Skill Source Dual Credit Participation")
 
-[Valley Academy Of Learning](pages/Wenatchee School District Valley Academy Of LearningDual Credit BarChart.png "Valley Academy Of Learning Dual Credit Participation")
+[Valley Academy Of Learning](pages/Dual Credit BarChartWenatchee School District Valley Academy Of Learning.png "Valley Academy Of Learning Dual Credit Participation")
 
-[Wenatchee High School](pages/Wenatchee School District Wenatchee High SchoolDual Credit BarChart.png "Wenatchee High School Dual Credit Participation")
+[Wenatchee High School](pages/Dual Credit BarChartWenatchee School District Wenatchee High School.png "Wenatchee High School Dual Credit Participation")
 
-[Westside High School](pages/Wenatchee School District Westside High SchoolDual Credit BarChart.png "Westside High School Dual Credit Participation")
+[Westside High School](pages/Dual Credit BarChartWenatchee School District Westside High School.png "Westside High School Dual Credit Participation")
 
 
 ___

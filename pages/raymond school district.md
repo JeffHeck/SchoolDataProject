@@ -5,7 +5,7 @@ permalink: raymond school district
 ---
 
 
-[Raymond School District Historical Demographics](pages/Raymond School District Historical Demographics.png "Raymond School District Historical Demographics")
+[Raymond School District Historical Demographics](pages/Historical Demographics for the Raymond School District.png "Raymond School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Raymond Home Link School](pages/Raymond School District Raymond Home Link SchoolDual Credit BarChart.png "Raymond Home Link School Dual Credit Participation")
+[Raymond Home Link School](pages/Dual Credit BarChartRaymond School District Raymond Home Link School.png "Raymond Home Link School Dual Credit Participation")
 
-[Raymond Jr Sr High School](pages/Raymond School District Raymond Jr Sr High SchoolDual Credit BarChart.png "Raymond Jr Sr High School Dual Credit Participation")
+[Raymond Jr Sr High School](pages/Dual Credit BarChartRaymond School District Raymond Jr Sr High School.png "Raymond Jr Sr High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: ellensburg school district
 ---
 
 
-[Ellensburg School District Historical Demographics](pages/Ellensburg School District Historical Demographics.png "Ellensburg School District Historical Demographics")
+[Ellensburg School District Historical Demographics](pages/Historical Demographics for the Ellensburg School District.png "Ellensburg School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Ellensburg High School](pages/Ellensburg School District Ellensburg High SchoolDual Credit BarChart.png "Ellensburg High School Dual Credit Participation")
+[Ellensburg High School](pages/Dual Credit BarChartEllensburg School District Ellensburg High School.png "Ellensburg High School Dual Credit Participation")
 
-[K-12 Ellensburg Learning Center](pages/Ellensburg School District K-12 Ellensburg Learning CenterDual Credit BarChart.png "K-12 Ellensburg Learning Center Dual Credit Participation")
+[K-12 Ellensburg Learning Center](pages/Dual Credit BarChartEllensburg School District K-12 Ellensburg Learning Center.png "K-12 Ellensburg Learning Center Dual Credit Participation")
 
 
 ___

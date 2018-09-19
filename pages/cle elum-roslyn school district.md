@@ -5,7 +5,7 @@ permalink: cle elum-roslyn school district
 ---
 
 
-[Cle Elum-Roslyn School District Historical Demographics](pages/Cle Elum-Roslyn School District Historical Demographics.png "Cle Elum-Roslyn School District Historical Demographics")
+[Cle Elum-Roslyn School District Historical Demographics](pages/Historical Demographics for the Cle Elum-Roslyn School District.png "Cle Elum-Roslyn School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Cle Elum Roslyn High School](pages/Cle Elum-Roslyn School District Cle Elum Roslyn High SchoolDual Credit BarChart.png "Cle Elum Roslyn High School Dual Credit Participation")
+[Cle Elum Roslyn High School](pages/Dual Credit BarChartCle Elum-Roslyn School District Cle Elum Roslyn High School.png "Cle Elum Roslyn High School Dual Credit Participation")
 
-[Swiftwater Learning Center](pages/Cle Elum-Roslyn School District Swiftwater Learning CenterDual Credit BarChart.png "Swiftwater Learning Center Dual Credit Participation")
+[Swiftwater Learning Center](pages/Dual Credit BarChartCle Elum-Roslyn School District Swiftwater Learning Center.png "Swiftwater Learning Center Dual Credit Participation")
 
 
 ___

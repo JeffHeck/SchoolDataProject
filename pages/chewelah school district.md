@@ -5,17 +5,17 @@ permalink: chewelah school district
 ---
 
 
-[Chewelah School District Historical Demographics](pages/Chewelah School District Historical Demographics.png "Chewelah School District Historical Demographics")
+[Chewelah School District Historical Demographics](pages/Historical Demographics for the Chewelah School District.png "Chewelah School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Chewelah Alternative](pages/Chewelah School District Chewelah AlternativeDual Credit BarChart.png "Chewelah Alternative Dual Credit Participation")
+[Chewelah Alternative](pages/Dual Credit BarChartChewelah School District Chewelah Alternative.png "Chewelah Alternative Dual Credit Participation")
 
-[Home Link Alternative](pages/Chewelah School District Home Link AlternativeDual Credit BarChart.png "Home Link Alternative Dual Credit Participation")
+[Home Link Alternative](pages/Dual Credit BarChartChewelah School District Home Link Alternative.png "Home Link Alternative Dual Credit Participation")
 
-[Jenkins Junior Senior High](pages/Chewelah School District Jenkins Junior Senior HighDual Credit BarChart.png "Jenkins Junior Senior High Dual Credit Participation")
+[Jenkins Junior Senior High](pages/Dual Credit BarChartChewelah School District Jenkins Junior Senior High.png "Jenkins Junior Senior High Dual Credit Participation")
 
 
 ___

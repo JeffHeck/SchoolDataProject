@@ -5,7 +5,7 @@ permalink: crescent school district
 ---
 
 
-[Crescent School District Historical Demographics](pages/Crescent School District Historical Demographics.png "Crescent School District Historical Demographics")
+[Crescent School District Historical Demographics](pages/Historical Demographics for the Crescent School District.png "Crescent School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Crescent School](pages/Crescent School District Crescent SchoolDual Credit BarChart.png "Crescent School Dual Credit Participation")
+[Crescent School](pages/Dual Credit BarChartCrescent School District Crescent School.png "Crescent School Dual Credit Participation")
 
 
 ___

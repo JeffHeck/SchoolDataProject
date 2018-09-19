@@ -5,7 +5,7 @@ permalink: cusick school district
 ---
 
 
-[Cusick School District Historical Demographics](pages/Cusick School District Historical Demographics.png "Cusick School District Historical Demographics")
+[Cusick School District Historical Demographics](pages/Historical Demographics for the Cusick School District.png "Cusick School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Cusick Jr Sr High School](pages/Cusick School District Cusick Jr Sr High SchoolDual Credit BarChart.png "Cusick Jr Sr High School Dual Credit Participation")
+[Cusick Jr Sr High School](pages/Dual Credit BarChartCusick School District Cusick Jr Sr High School.png "Cusick Jr Sr High School Dual Credit Participation")
 
 
 ___

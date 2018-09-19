@@ -5,7 +5,7 @@ permalink: clarkston school district
 ---
 
 
-[Clarkston School District Historical Demographics](pages/Clarkston School District Historical Demographics.png "Clarkston School District Historical Demographics")
+[Clarkston School District Historical Demographics](pages/Historical Demographics for the Clarkston School District.png "Clarkston School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Charles Francis Adams High School](pages/Clarkston School District Charles Francis Adams High SchoolDual Credit BarChart.png "Charles Francis Adams High School Dual Credit Participation")
+[Charles Francis Adams High School](pages/Dual Credit BarChartClarkston School District Charles Francis Adams High School.png "Charles Francis Adams High School Dual Credit Participation")
 
-[Educational Opportunity Center Reengagement](pages/Clarkston School District Educational Opportunity Center ReengagementDual Credit BarChart.png "Educational Opportunity Center Reengagement Dual Credit Participation")
+[Educational Opportunity Center Reengagement](pages/Dual Credit BarChartClarkston School District Educational Opportunity Center Reengagement.png "Educational Opportunity Center Reengagement Dual Credit Participation")
 
-[Educational Opportunity Center](pages/Clarkston School District Educational Opportunity CenterDual Credit BarChart.png "Educational Opportunity Center Dual Credit Participation")
+[Educational Opportunity Center](pages/Dual Credit BarChartClarkston School District Educational Opportunity Center.png "Educational Opportunity Center Dual Credit Participation")
 
 
 ___

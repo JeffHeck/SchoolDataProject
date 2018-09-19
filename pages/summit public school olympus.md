@@ -10,7 +10,7 @@ ___
 
 ## Dual Credit Participation
 
-[Summit Public School Olympus](pages/Summit Public School Olympus Summit Public School OlympusDual Credit BarChart.png "Summit Public School Olympus Dual Credit Participation")
+[Summit Public School Olympus](pages/Dual Credit BarChartSummit Public School Olympus Summit Public School Olympus.png "Summit Public School Olympus Dual Credit Participation")
 
 
 ___

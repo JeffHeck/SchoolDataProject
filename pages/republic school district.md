@@ -5,7 +5,7 @@ permalink: republic school district
 ---
 
 
-[Republic School District Historical Demographics](pages/Republic School District Historical Demographics.png "Republic School District Historical Demographics")
+[Republic School District Historical Demographics](pages/Historical Demographics for the Republic School District.png "Republic School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Republic Parent Partner](pages/Republic School District Republic Parent PartnerDual Credit BarChart.png "Republic Parent Partner Dual Credit Participation")
+[Republic Parent Partner](pages/Dual Credit BarChartRepublic School District Republic Parent Partner.png "Republic Parent Partner Dual Credit Participation")
 
-[Republic Senior High School](pages/Republic School District Republic Senior High SchoolDual Credit BarChart.png "Republic Senior High School Dual Credit Participation")
+[Republic Senior High School](pages/Dual Credit BarChartRepublic School District Republic Senior High School.png "Republic Senior High School Dual Credit Participation")
 
 
 ___

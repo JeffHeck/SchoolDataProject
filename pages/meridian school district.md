@@ -5,7 +5,7 @@ permalink: meridian school district
 ---
 
 
-[Meridian School District Historical Demographics](pages/Meridian School District Historical Demographics.png "Meridian School District Historical Demographics")
+[Meridian School District Historical Demographics](pages/Historical Demographics for the Meridian School District.png "Meridian School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Meridian High School](pages/Meridian School District Meridian High SchoolDual Credit BarChart.png "Meridian High School Dual Credit Participation")
+[Meridian High School](pages/Dual Credit BarChartMeridian School District Meridian High School.png "Meridian High School Dual Credit Participation")
 
-[Meridian Middle School](pages/Meridian School District Meridian Middle SchoolDual Credit BarChart.png "Meridian Middle School Dual Credit Participation")
+[Meridian Middle School](pages/Dual Credit BarChartMeridian School District Meridian Middle School.png "Meridian Middle School Dual Credit Participation")
 
 
 ___

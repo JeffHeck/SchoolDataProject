@@ -5,7 +5,7 @@ permalink: bainbridge island school district
 ---
 
 
-[Bainbridge Island School District Historical Demographics](pages/Bainbridge Island School District Historical Demographics.png "Bainbridge Island School District Historical Demographics")
+[Bainbridge Island School District Historical Demographics](pages/Historical Demographics for the Bainbridge Island School District.png "Bainbridge Island School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Bainbridge High School](pages/Bainbridge Island School District Bainbridge High SchoolDual Credit BarChart.png "Bainbridge High School Dual Credit Participation")
+[Bainbridge High School](pages/Dual Credit BarChartBainbridge Island School District Bainbridge High School.png "Bainbridge High School Dual Credit Participation")
 
-[Eagle Harbor High School](pages/Bainbridge Island School District Eagle Harbor High SchoolDual Credit BarChart.png "Eagle Harbor High School Dual Credit Participation")
+[Eagle Harbor High School](pages/Dual Credit BarChartBainbridge Island School District Eagle Harbor High School.png "Eagle Harbor High School Dual Credit Participation")
 
 
 ___

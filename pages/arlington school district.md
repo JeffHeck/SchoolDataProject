@@ -5,7 +5,7 @@ permalink: arlington school district
 ---
 
 
-[Arlington School District Historical Demographics](pages/Arlington School District Historical Demographics.png "Arlington School District Historical Demographics")
+[Arlington School District Historical Demographics](pages/Historical Demographics for the Arlington School District.png "Arlington School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Arlington High School](pages/Arlington School District Arlington High SchoolDual Credit BarChart.png "Arlington High School Dual Credit Participation")
+[Arlington High School](pages/Dual Credit BarChartArlington School District Arlington High School.png "Arlington High School Dual Credit Participation")
 
-[Stillaguamish School](pages/Arlington School District Stillaguamish SchoolDual Credit BarChart.png "Stillaguamish School Dual Credit Participation")
+[Stillaguamish School](pages/Dual Credit BarChartArlington School District Stillaguamish School.png "Stillaguamish School Dual Credit Participation")
 
-[Weston High School](pages/Arlington School District Weston High SchoolDual Credit BarChart.png "Weston High School Dual Credit Participation")
+[Weston High School](pages/Dual Credit BarChartArlington School District Weston High School.png "Weston High School Dual Credit Participation")
 
 
 ___

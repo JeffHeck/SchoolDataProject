@@ -5,7 +5,7 @@ permalink: bethel school district
 ---
 
 
-[Bethel School District Historical Demographics](pages/Bethel School District Historical Demographics.png "Bethel School District Historical Demographics")
+[Bethel School District Historical Demographics](pages/Historical Demographics for the Bethel School District.png "Bethel School District Historical Demographics")
 
 ___
 
@@ -39,19 +39,19 @@ ___
 
 ## Dual Credit Participation
 
-[Acceleration Academy](pages/Bethel School District Acceleration AcademyDual Credit BarChart.png "Acceleration Academy Dual Credit Participation")
+[Acceleration Academy](pages/Dual Credit BarChartBethel School District Acceleration Academy.png "Acceleration Academy Dual Credit Participation")
 
-[Bethel High School](pages/Bethel School District Bethel High SchoolDual Credit BarChart.png "Bethel High School Dual Credit Participation")
+[Bethel High School](pages/Dual Credit BarChartBethel School District Bethel High School.png "Bethel High School Dual Credit Participation")
 
-[Cedarcrest Middle School](pages/Bethel School District Cedarcrest Middle SchoolDual Credit BarChart.png "Cedarcrest Middle School Dual Credit Participation")
+[Cedarcrest Middle School](pages/Dual Credit BarChartBethel School District Cedarcrest Middle School.png "Cedarcrest Middle School Dual Credit Participation")
 
-[Challenger High School](pages/Bethel School District Challenger High SchoolDual Credit BarChart.png "Challenger High School Dual Credit Participation")
+[Challenger High School](pages/Dual Credit BarChartBethel School District Challenger High School.png "Challenger High School Dual Credit Participation")
 
-[Graham Kapowsin High School](pages/Bethel School District Graham Kapowsin High SchoolDual Credit BarChart.png "Graham Kapowsin High School Dual Credit Participation")
+[Graham Kapowsin High School](pages/Dual Credit BarChartBethel School District Graham Kapowsin High School.png "Graham Kapowsin High School Dual Credit Participation")
 
-[Spanaway Lake High School](pages/Bethel School District Spanaway Lake High SchoolDual Credit BarChart.png "Spanaway Lake High School Dual Credit Participation")
+[Spanaway Lake High School](pages/Dual Credit BarChartBethel School District Spanaway Lake High School.png "Spanaway Lake High School Dual Credit Participation")
 
-[Spanaway Middle School](pages/Bethel School District Spanaway Middle SchoolDual Credit BarChart.png "Spanaway Middle School Dual Credit Participation")
+[Spanaway Middle School](pages/Dual Credit BarChartBethel School District Spanaway Middle School.png "Spanaway Middle School Dual Credit Participation")
 
 
 ___

@@ -10,5 +10,5 @@ ___
 
 ## Dual Credit Participation
 
-[Lake Washington Technical Academy](pages/Lake Washington Institute of Technology Lake Washington Technical AcademyDual Credit BarChart.png "Lake Washington Technical Academy Dual Credit Participation")
+[Lake Washington Technical Academy](pages/Dual Credit BarChartLake Washington Institute of Technology Lake Washington Technical Academy.png "Lake Washington Technical Academy Dual Credit Participation")
 

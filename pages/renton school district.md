@@ -5,7 +5,7 @@ permalink: renton school district
 ---
 
 
-[Renton School District Historical Demographics](pages/Renton School District Historical Demographics.png "Renton School District Historical Demographics")
+[Renton School District Historical Demographics](pages/Historical Demographics for the Renton School District.png "Renton School District Historical Demographics")
 
 ___
 
@@ -39,21 +39,21 @@ ___
 
 ## Dual Credit Participation
 
-[Griffin Home](pages/Renton School District Griffin HomeDual Credit BarChart.png "Griffin Home Dual Credit Participation")
+[Griffin Home](pages/Dual Credit BarChartRenton School District Griffin Home.png "Griffin Home Dual Credit Participation")
 
-[HOME Program](pages/Renton School District HOME ProgramDual Credit BarChart.png "HOME Program Dual Credit Participation")
+[HOME Program](pages/Dual Credit BarChartRenton School District HOME Program.png "HOME Program Dual Credit Participation")
 
-[Hazen Senior High School](pages/Renton School District Hazen Senior High SchoolDual Credit BarChart.png "Hazen Senior High School Dual Credit Participation")
+[Hazen Senior High School](pages/Dual Credit BarChartRenton School District Hazen Senior High School.png "Hazen Senior High School Dual Credit Participation")
 
-[Lindbergh Senior High School](pages/Renton School District Lindbergh Senior High SchoolDual Credit BarChart.png "Lindbergh Senior High School Dual Credit Participation")
+[Lindbergh Senior High School](pages/Dual Credit BarChartRenton School District Lindbergh Senior High School.png "Lindbergh Senior High School Dual Credit Participation")
 
-[Renton Academy](pages/Renton School District Renton AcademyDual Credit BarChart.png "Renton Academy Dual Credit Participation")
+[Renton Academy](pages/Dual Credit BarChartRenton School District Renton Academy.png "Renton Academy Dual Credit Participation")
 
-[Renton Senior High School](pages/Renton School District Renton Senior High SchoolDual Credit BarChart.png "Renton Senior High School Dual Credit Participation")
+[Renton Senior High School](pages/Dual Credit BarChartRenton School District Renton Senior High School.png "Renton Senior High School Dual Credit Participation")
 
-[Sartori Education Center](pages/Renton School District Sartori Education CenterDual Credit BarChart.png "Sartori Education Center Dual Credit Participation")
+[Sartori Education Center](pages/Dual Credit BarChartRenton School District Sartori Education Center.png "Sartori Education Center Dual Credit Participation")
 
-[Talley High School](pages/Renton School District Talley High SchoolDual Credit BarChart.png "Talley High School Dual Credit Participation")
+[Talley High School](pages/Dual Credit BarChartRenton School District Talley High School.png "Talley High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: palisades school district
 ---
 
 
-[Palisades School District Historical Demographics](pages/Palisades School District Historical Demographics.png "Palisades School District Historical Demographics")
+[Palisades School District Historical Demographics](pages/Historical Demographics for the Palisades School District.png "Palisades School District Historical Demographics")
 
 ___
 

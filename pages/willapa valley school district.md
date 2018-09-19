@@ -5,7 +5,7 @@ permalink: willapa valley school district
 ---
 
 
-[Willapa Valley School District Historical Demographics](pages/Willapa Valley School District Historical Demographics.png "Willapa Valley School District Historical Demographics")
+[Willapa Valley School District Historical Demographics](pages/Historical Demographics for the Willapa Valley School District.png "Willapa Valley School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Willapa Valley Middle-High](pages/Willapa Valley School District Willapa Valley Middle-HighDual Credit BarChart.png "Willapa Valley Middle-High Dual Credit Participation")
+[Willapa Valley Middle-High](pages/Dual Credit BarChartWillapa Valley School District Willapa Valley Middle-High.png "Willapa Valley Middle-High Dual Credit Participation")
 
 
 ___

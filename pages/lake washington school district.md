@@ -5,7 +5,7 @@ permalink: lake washington school district
 ---
 
 
-[Lake Washington School District Historical Demographics](pages/Lake Washington School District Historical Demographics.png "Lake Washington School District Historical Demographics")
+[Lake Washington School District Historical Demographics](pages/Historical Demographics for the Lake Washington School District.png "Lake Washington School District Historical Demographics")
 
 ___
 
@@ -39,23 +39,23 @@ ___
 
 ## Dual Credit Participation
 
-[Eastlake High School](pages/Lake Washington School District Eastlake High SchoolDual Credit BarChart.png "Eastlake High School Dual Credit Participation")
+[Eastlake High School](pages/Dual Credit BarChartLake Washington School District Eastlake High School.png "Eastlake High School Dual Credit Participation")
 
-[Emerson High School](pages/Lake Washington School District Emerson High SchoolDual Credit BarChart.png "Emerson High School Dual Credit Participation")
+[Emerson High School](pages/Dual Credit BarChartLake Washington School District Emerson High School.png "Emerson High School Dual Credit Participation")
 
-[Emerson K-12](pages/Lake Washington School District Emerson K-12Dual Credit BarChart.png "Emerson K-12 Dual Credit Participation")
+[Emerson K-12](pages/Dual Credit BarChartLake Washington School District Emerson K-12.png "Emerson K-12 Dual Credit Participation")
 
-[Futures School](pages/Lake Washington School District Futures SchoolDual Credit BarChart.png "Futures School Dual Credit Participation")
+[Futures School](pages/Dual Credit BarChartLake Washington School District Futures School.png "Futures School Dual Credit Participation")
 
-[International Community School](pages/Lake Washington School District International Community SchoolDual Credit BarChart.png "International Community School Dual Credit Participation")
+[International Community School](pages/Dual Credit BarChartLake Washington School District International Community School.png "International Community School Dual Credit Participation")
 
-[Juanita High](pages/Lake Washington School District Juanita HighDual Credit BarChart.png "Juanita High Dual Credit Participation")
+[Juanita High](pages/Dual Credit BarChartLake Washington School District Juanita High.png "Juanita High Dual Credit Participation")
 
-[Lake Washington High](pages/Lake Washington School District Lake Washington HighDual Credit BarChart.png "Lake Washington High Dual Credit Participation")
+[Lake Washington High](pages/Dual Credit BarChartLake Washington School District Lake Washington High.png "Lake Washington High Dual Credit Participation")
 
-[Redmond High](pages/Lake Washington School District Redmond HighDual Credit BarChart.png "Redmond High Dual Credit Participation")
+[Redmond High](pages/Dual Credit BarChartLake Washington School District Redmond High.png "Redmond High Dual Credit Participation")
 
-[Tesla STEM High School](pages/Lake Washington School District Tesla STEM High SchoolDual Credit BarChart.png "Tesla STEM High School Dual Credit Participation")
+[Tesla STEM High School](pages/Dual Credit BarChartLake Washington School District Tesla STEM High School.png "Tesla STEM High School Dual Credit Participation")
 
 
 ___

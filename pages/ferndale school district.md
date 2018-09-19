@@ -5,7 +5,7 @@ permalink: ferndale school district
 ---
 
 
-[Ferndale School District Historical Demographics](pages/Ferndale School District Historical Demographics.png "Ferndale School District Historical Demographics")
+[Ferndale School District Historical Demographics](pages/Historical Demographics for the Ferndale School District.png "Ferndale School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[FERNDALE RE-ENGAGEMENT](pages/Ferndale School District FERNDALE RE-ENGAGEMENTDual Credit BarChart.png "FERNDALE RE-ENGAGEMENT Dual Credit Participation")
+[FERNDALE RE-ENGAGEMENT](pages/Dual Credit BarChartFerndale School District FERNDALE RE-ENGAGEMENT.png "FERNDALE RE-ENGAGEMENT Dual Credit Participation")
 
-[Ferndale High School](pages/Ferndale School District Ferndale High SchoolDual Credit BarChart.png "Ferndale High School Dual Credit Participation")
+[Ferndale High School](pages/Dual Credit BarChartFerndale School District Ferndale High School.png "Ferndale High School Dual Credit Participation")
 
-[Vista Middle School](pages/Ferndale School District Vista Middle SchoolDual Credit BarChart.png "Vista Middle School Dual Credit Participation")
+[Vista Middle School](pages/Dual Credit BarChartFerndale School District Vista Middle School.png "Vista Middle School Dual Credit Participation")
 
-[WINDWARD HIGH SCHOOL](pages/Ferndale School District WINDWARD HIGH SCHOOLDual Credit BarChart.png "WINDWARD HIGH SCHOOL Dual Credit Participation")
+[WINDWARD HIGH SCHOOL](pages/Dual Credit BarChartFerndale School District WINDWARD HIGH SCHOOL.png "WINDWARD HIGH SCHOOL Dual Credit Participation")
 
 
 ___

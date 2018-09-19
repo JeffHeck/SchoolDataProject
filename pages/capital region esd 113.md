@@ -10,5 +10,5 @@ ___
 
 ## Dual Credit Participation
 
-[GRAVITY High School](pages/Capital Region ESD 113 GRAVITY High SchoolDual Credit BarChart.png "GRAVITY High School Dual Credit Participation")
+[GRAVITY High School](pages/Dual Credit BarChartCapital Region ESD 113 GRAVITY High School.png "GRAVITY High School Dual Credit Participation")
 

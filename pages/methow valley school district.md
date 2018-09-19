@@ -5,15 +5,15 @@ permalink: methow valley school district
 ---
 
 
-[Methow Valley School District Historical Demographics](pages/Methow Valley School District Historical Demographics.png "Methow Valley School District Historical Demographics")
+[Methow Valley School District Historical Demographics](pages/Historical Demographics for the Methow Valley School District.png "Methow Valley School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Alternative School](pages/Methow Valley School District Alternative SchoolDual Credit BarChart.png "Alternative School Dual Credit Participation")
+[Alternative School](pages/Dual Credit BarChartMethow Valley School District Alternative School.png "Alternative School Dual Credit Participation")
 
-[Liberty Bell Jr Sr High](pages/Methow Valley School District Liberty Bell Jr Sr HighDual Credit BarChart.png "Liberty Bell Jr Sr High Dual Credit Participation")
+[Liberty Bell Jr Sr High](pages/Dual Credit BarChartMethow Valley School District Liberty Bell Jr Sr High.png "Liberty Bell Jr Sr High Dual Credit Participation")
 
 
 ___

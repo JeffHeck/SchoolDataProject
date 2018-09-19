@@ -5,7 +5,7 @@ permalink: starbuck school district
 ---
 
 
-[Starbuck School District Historical Demographics](pages/Starbuck School District Historical Demographics.png "Starbuck School District Historical Demographics")
+[Starbuck School District Historical Demographics](pages/Historical Demographics for the Starbuck School District.png "Starbuck School District Historical Demographics")
 
 ___
 

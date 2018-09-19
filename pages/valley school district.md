@@ -5,7 +5,7 @@ permalink: valley school district
 ---
 
 
-[Valley School District Historical Demographics](pages/Valley School District Historical Demographics.png "Valley School District Historical Demographics")
+[Valley School District Historical Demographics](pages/Historical Demographics for the Valley School District.png "Valley School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Paideia High School](pages/Valley School District Paideia High SchoolDual Credit BarChart.png "Paideia High School Dual Credit Participation")
+[Paideia High School](pages/Dual Credit BarChartValley School District Paideia High School.png "Paideia High School Dual Credit Participation")
 
 
 ___

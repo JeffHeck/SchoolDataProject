@@ -5,7 +5,7 @@ permalink: monroe school district
 ---
 
 
-[Monroe School District Historical Demographics](pages/Monroe School District Historical Demographics.png "Monroe School District Historical Demographics")
+[Monroe School District Historical Demographics](pages/Historical Demographics for the Monroe School District.png "Monroe School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Leaders In Learning](pages/Monroe School District Leaders In LearningDual Credit BarChart.png "Leaders In Learning Dual Credit Participation")
+[Leaders In Learning](pages/Dual Credit BarChartMonroe School District Leaders In Learning.png "Leaders In Learning Dual Credit Participation")
 
-[Monroe High School](pages/Monroe School District Monroe High SchoolDual Credit BarChart.png "Monroe High School Dual Credit Participation")
+[Monroe High School](pages/Dual Credit BarChartMonroe School District Monroe High School.png "Monroe High School Dual Credit Participation")
 
-[Shoreline-Monroe High School](pages/Monroe School District Shoreline-Monroe High SchoolDual Credit BarChart.png "Shoreline-Monroe High School Dual Credit Participation")
+[Shoreline-Monroe High School](pages/Dual Credit BarChartMonroe School District Shoreline-Monroe High School.png "Shoreline-Monroe High School Dual Credit Participation")
 
-[Sky Valley Education Center](pages/Monroe School District Sky Valley Education CenterDual Credit BarChart.png "Sky Valley Education Center Dual Credit Participation")
+[Sky Valley Education Center](pages/Dual Credit BarChartMonroe School District Sky Valley Education Center.png "Sky Valley Education Center Dual Credit Participation")
 
 
 ___

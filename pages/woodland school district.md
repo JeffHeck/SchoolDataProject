@@ -5,7 +5,7 @@ permalink: woodland school district
 ---
 
 
-[Woodland School District Historical Demographics](pages/Woodland School District Historical Demographics.png "Woodland School District Historical Demographics")
+[Woodland School District Historical Demographics](pages/Historical Demographics for the Woodland School District.png "Woodland School District Historical Demographics")
 
 ___
 
@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[Lewis River Academy](pages/Woodland School District Lewis River AcademyDual Credit BarChart.png "Lewis River Academy Dual Credit Participation")
+[Lewis River Academy](pages/Dual Credit BarChartWoodland School District Lewis River Academy.png "Lewis River Academy Dual Credit Participation")
 
-[TEAM High School](pages/Woodland School District TEAM High SchoolDual Credit BarChart.png "TEAM High School Dual Credit Participation")
+[TEAM High School](pages/Dual Credit BarChartWoodland School District TEAM High School.png "TEAM High School Dual Credit Participation")
 
-[Woodland High School](pages/Woodland School District Woodland High SchoolDual Credit BarChart.png "Woodland High School Dual Credit Participation")
+[Woodland High School](pages/Dual Credit BarChartWoodland School District Woodland High School.png "Woodland High School Dual Credit Participation")
 
 
 ___

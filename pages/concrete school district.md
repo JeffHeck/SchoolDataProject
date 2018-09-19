@@ -5,7 +5,7 @@ permalink: concrete school district
 ---
 
 
-[Concrete School District Historical Demographics](pages/Concrete School District Historical Demographics.png "Concrete School District Historical Demographics")
+[Concrete School District Historical Demographics](pages/Historical Demographics for the Concrete School District.png "Concrete School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Concrete High School](pages/Concrete School District Concrete High SchoolDual Credit BarChart.png "Concrete High School Dual Credit Participation")
+[Concrete High School](pages/Dual Credit BarChartConcrete School District Concrete High School.png "Concrete High School Dual Credit Participation")
 
-[Skagit River School House](pages/Concrete School District Skagit River School HouseDual Credit BarChart.png "Skagit River School House Dual Credit Participation")
+[Skagit River School House](pages/Dual Credit BarChartConcrete School District Skagit River School House.png "Skagit River School House Dual Credit Participation")
 
-[Twin Cedars High School](pages/Concrete School District Twin Cedars High SchoolDual Credit BarChart.png "Twin Cedars High School Dual Credit Participation")
+[Twin Cedars High School](pages/Dual Credit BarChartConcrete School District Twin Cedars High School.png "Twin Cedars High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: washtucna school district
 ---
 
 
-[Washtucna School District Historical Demographics](pages/Washtucna School District Historical Demographics.png "Washtucna School District Historical Demographics")
+[Washtucna School District Historical Demographics](pages/Historical Demographics for the Washtucna School District.png "Washtucna School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Washtucna Elementary High School](pages/Washtucna School District Washtucna Elementary High SchoolDual Credit BarChart.png "Washtucna Elementary High School Dual Credit Participation")
+[Washtucna Elementary High School](pages/Dual Credit BarChartWashtucna School District Washtucna Elementary High School.png "Washtucna Elementary High School Dual Credit Participation")
 
 
 ___

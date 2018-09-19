@@ -10,7 +10,7 @@ ___
 
 ## Dual Credit Participation
 
-[Summit Public School Sierra](pages/Summit Public School Sierra Summit Public School SierraDual Credit BarChart.png "Summit Public School Sierra Dual Credit Participation")
+[Summit Public School Sierra](pages/Dual Credit BarChartSummit Public School Sierra Summit Public School Sierra.png "Summit Public School Sierra Dual Credit Participation")
 
 
 ___

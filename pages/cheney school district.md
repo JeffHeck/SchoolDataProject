@@ -5,7 +5,7 @@ permalink: cheney school district
 ---
 
 
-[Cheney School District Historical Demographics](pages/Cheney School District Historical Demographics.png "Cheney School District Historical Demographics")
+[Cheney School District Historical Demographics](pages/Historical Demographics for the Cheney School District.png "Cheney School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Cheney High School](pages/Cheney School District Cheney High SchoolDual Credit BarChart.png "Cheney High School Dual Credit Participation")
+[Cheney High School](pages/Dual Credit BarChartCheney School District Cheney High School.png "Cheney High School Dual Credit Participation")
 
-[Cheney Open Doors](pages/Cheney School District Cheney Open DoorsDual Credit BarChart.png "Cheney Open Doors Dual Credit Participation")
+[Cheney Open Doors](pages/Dual Credit BarChartCheney School District Cheney Open Doors.png "Cheney Open Doors Dual Credit Participation")
 
-[Three Springs High School](pages/Cheney School District Three Springs High SchoolDual Credit BarChart.png "Three Springs High School Dual Credit Participation")
+[Three Springs High School](pages/Dual Credit BarChartCheney School District Three Springs High School.png "Three Springs High School Dual Credit Participation")
 
 
 ___

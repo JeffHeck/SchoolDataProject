@@ -5,7 +5,7 @@ permalink: auburn school district
 ---
 
 
-[Auburn School District Historical Demographics](pages/Auburn School District Historical Demographics.png "Auburn School District Historical Demographics")
+[Auburn School District Historical Demographics](pages/Historical Demographics for the Auburn School District.png "Auburn School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Auburn Mountainview High School](pages/Auburn School District Auburn Mountainview High SchoolDual Credit BarChart.png "Auburn Mountainview High School Dual Credit Participation")
+[Auburn Mountainview High School](pages/Dual Credit BarChartAuburn School District Auburn Mountainview High School.png "Auburn Mountainview High School Dual Credit Participation")
 
-[Auburn Riverside High School](pages/Auburn School District Auburn Riverside High SchoolDual Credit BarChart.png "Auburn Riverside High School Dual Credit Participation")
+[Auburn Riverside High School](pages/Dual Credit BarChartAuburn School District Auburn Riverside High School.png "Auburn Riverside High School Dual Credit Participation")
 
-[Auburn Senior High School](pages/Auburn School District Auburn Senior High SchoolDual Credit BarChart.png "Auburn Senior High School Dual Credit Participation")
+[Auburn Senior High School](pages/Dual Credit BarChartAuburn School District Auburn Senior High School.png "Auburn Senior High School Dual Credit Participation")
 
-[West Auburn Senior High School](pages/Auburn School District West Auburn Senior High SchoolDual Credit BarChart.png "West Auburn Senior High School Dual Credit Participation")
+[West Auburn Senior High School](pages/Dual Credit BarChartAuburn School District West Auburn Senior High School.png "West Auburn Senior High School Dual Credit Participation")
 
 
 ___

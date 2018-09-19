@@ -5,7 +5,7 @@ permalink: loon lake school district
 ---
 
 
-[Loon Lake School District Historical Demographics](pages/Loon Lake School District Historical Demographics.png "Loon Lake School District Historical Demographics")
+[Loon Lake School District Historical Demographics](pages/Historical Demographics for the Loon Lake School District.png "Loon Lake School District Historical Demographics")
 
 ___
 

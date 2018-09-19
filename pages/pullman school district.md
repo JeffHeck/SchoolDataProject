@@ -5,7 +5,7 @@ permalink: pullman school district
 ---
 
 
-[Pullman School District Historical Demographics](pages/Pullman School District Historical Demographics.png "Pullman School District Historical Demographics")
+[Pullman School District Historical Demographics](pages/Historical Demographics for the Pullman School District.png "Pullman School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pullman High School](pages/Pullman School District Pullman High SchoolDual Credit BarChart.png "Pullman High School Dual Credit Participation")
+[Pullman High School](pages/Dual Credit BarChartPullman School District Pullman High School.png "Pullman High School Dual Credit Participation")
 
 
 ___

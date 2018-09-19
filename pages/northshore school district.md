@@ -5,7 +5,7 @@ permalink: northshore school district
 ---
 
 
-[Northshore School District Historical Demographics](pages/Northshore School District Historical Demographics.png "Northshore School District Historical Demographics")
+[Northshore School District Historical Demographics](pages/Historical Demographics for the Northshore School District.png "Northshore School District Historical Demographics")
 
 ___
 
@@ -39,29 +39,29 @@ ___
 
 ## Dual Credit Participation
 
-[Bothell High School](pages/Northshore School District Bothell High SchoolDual Credit BarChart.png "Bothell High School Dual Credit Participation")
+[Bothell High School](pages/Dual Credit BarChartNorthshore School District Bothell High School.png "Bothell High School Dual Credit Participation")
 
-[Canyon Park Middle School](pages/Northshore School District Canyon Park Middle SchoolDual Credit BarChart.png "Canyon Park Middle School Dual Credit Participation")
+[Canyon Park Middle School](pages/Dual Credit BarChartNorthshore School District Canyon Park Middle School.png "Canyon Park Middle School Dual Credit Participation")
 
-[Inglemoor HS](pages/Northshore School District Inglemoor HSDual Credit BarChart.png "Inglemoor HS Dual Credit Participation")
+[Inglemoor HS](pages/Dual Credit BarChartNorthshore School District Inglemoor HS.png "Inglemoor HS Dual Credit Participation")
 
-[Kenmore Middle School](pages/Northshore School District Kenmore Middle SchoolDual Credit BarChart.png "Kenmore Middle School Dual Credit Participation")
+[Kenmore Middle School](pages/Dual Credit BarChartNorthshore School District Kenmore Middle School.png "Kenmore Middle School Dual Credit Participation")
 
-[Leota Middle School](pages/Northshore School District Leota Middle SchoolDual Credit BarChart.png "Leota Middle School Dual Credit Participation")
+[Leota Middle School](pages/Dual Credit BarChartNorthshore School District Leota Middle School.png "Leota Middle School Dual Credit Participation")
 
-[Northshore Middle School](pages/Northshore School District Northshore Middle SchoolDual Credit BarChart.png "Northshore Middle School Dual Credit Participation")
+[Northshore Middle School](pages/Dual Credit BarChartNorthshore School District Northshore Middle School.png "Northshore Middle School Dual Credit Participation")
 
-[Northshore Networks](pages/Northshore School District Northshore NetworksDual Credit BarChart.png "Northshore Networks Dual Credit Participation")
+[Northshore Networks](pages/Dual Credit BarChartNorthshore School District Northshore Networks.png "Northshore Networks Dual Credit Participation")
 
-[Northshore Online School](pages/Northshore School District Northshore Online SchoolDual Credit BarChart.png "Northshore Online School Dual Credit Participation")
+[Northshore Online School](pages/Dual Credit BarChartNorthshore School District Northshore Online School.png "Northshore Online School Dual Credit Participation")
 
-[Secondary Academy for Success](pages/Northshore School District Secondary Academy for SuccessDual Credit BarChart.png "Secondary Academy for Success Dual Credit Participation")
+[Secondary Academy for Success](pages/Dual Credit BarChartNorthshore School District Secondary Academy for Success.png "Secondary Academy for Success Dual Credit Participation")
 
-[Skyview Middle School](pages/Northshore School District Skyview Middle SchoolDual Credit BarChart.png "Skyview Middle School Dual Credit Participation")
+[Skyview Middle School](pages/Dual Credit BarChartNorthshore School District Skyview Middle School.png "Skyview Middle School Dual Credit Participation")
 
-[Timbercrest Middle School](pages/Northshore School District Timbercrest Middle SchoolDual Credit BarChart.png "Timbercrest Middle School Dual Credit Participation")
+[Timbercrest Middle School](pages/Dual Credit BarChartNorthshore School District Timbercrest Middle School.png "Timbercrest Middle School Dual Credit Participation")
 
-[Woodinville HS](pages/Northshore School District Woodinville HSDual Credit BarChart.png "Woodinville HS Dual Credit Participation")
+[Woodinville HS](pages/Dual Credit BarChartNorthshore School District Woodinville HS.png "Woodinville HS Dual Credit Participation")
 
 
 ___

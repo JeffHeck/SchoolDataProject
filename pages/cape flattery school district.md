@@ -5,15 +5,15 @@ permalink: cape flattery school district
 ---
 
 
-[Cape Flattery School District Historical Demographics](pages/Cape Flattery School District Historical Demographics.png "Cape Flattery School District Historical Demographics")
+[Cape Flattery School District Historical Demographics](pages/Historical Demographics for the Cape Flattery School District.png "Cape Flattery School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Clallam Bay High   Elementary](pages/Cape Flattery School District Clallam Bay High   ElementaryDual Credit BarChart.png "Clallam Bay High   Elementary Dual Credit Participation")
+[Clallam Bay High   Elementary](pages/Dual Credit BarChartCape Flattery School District Clallam Bay High   Elementary.png "Clallam Bay High   Elementary Dual Credit Participation")
 
-[Neah Bay Junior  Senior High School](pages/Cape Flattery School District Neah Bay Junior  Senior High SchoolDual Credit BarChart.png "Neah Bay Junior  Senior High School Dual Credit Participation")
+[Neah Bay Junior  Senior High School](pages/Dual Credit BarChartCape Flattery School District Neah Bay Junior  Senior High School.png "Neah Bay Junior  Senior High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: sequim school district
 ---
 
 
-[Sequim School District Historical Demographics](pages/Sequim School District Historical Demographics.png "Sequim School District Historical Demographics")
+[Sequim School District Historical Demographics](pages/Historical Demographics for the Sequim School District.png "Sequim School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Sequim Community School](pages/Sequim School District Sequim Community SchoolDual Credit BarChart.png "Sequim Community School Dual Credit Participation")
+[Sequim Community School](pages/Dual Credit BarChartSequim School District Sequim Community School.png "Sequim Community School Dual Credit Participation")
 
-[Sequim Middle School](pages/Sequim School District Sequim Middle SchoolDual Credit BarChart.png "Sequim Middle School Dual Credit Participation")
+[Sequim Middle School](pages/Dual Credit BarChartSequim School District Sequim Middle School.png "Sequim Middle School Dual Credit Participation")
 
-[Sequim Senior High](pages/Sequim School District Sequim Senior HighDual Credit BarChart.png "Sequim Senior High Dual Credit Participation")
+[Sequim Senior High](pages/Dual Credit BarChartSequim School District Sequim Senior High.png "Sequim Senior High Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: warden school district
 ---
 
 
-[Warden School District Historical Demographics](pages/Warden School District Historical Demographics.png "Warden School District Historical Demographics")
+[Warden School District Historical Demographics](pages/Historical Demographics for the Warden School District.png "Warden School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Warden High School](pages/Warden School District Warden High SchoolDual Credit BarChart.png "Warden High School Dual Credit Participation")
+[Warden High School](pages/Dual Credit BarChartWarden School District Warden High School.png "Warden High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: mabton school district
 ---
 
 
-[Mabton School District Historical Demographics](pages/Mabton School District Historical Demographics.png "Mabton School District Historical Demographics")
+[Mabton School District Historical Demographics](pages/Historical Demographics for the Mabton School District.png "Mabton School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Mabton Jr Sr High](pages/Mabton School District Mabton Jr Sr HighDual Credit BarChart.png "Mabton Jr Sr High Dual Credit Participation")
+[Mabton Jr Sr High](pages/Dual Credit BarChartMabton School District Mabton Jr Sr High.png "Mabton Jr Sr High Dual Credit Participation")
 
 
 ___

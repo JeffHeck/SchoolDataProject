@@ -5,7 +5,7 @@ permalink: omak school district
 ---
 
 
-[Omak School District Historical Demographics](pages/Omak School District Historical Demographics.png "Omak School District Historical Demographics")
+[Omak School District Historical Demographics](pages/Historical Demographics for the Omak School District.png "Omak School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Highlands High School](pages/Omak School District Highlands High SchoolDual Credit BarChart.png "Highlands High School Dual Credit Participation")
+[Highlands High School](pages/Dual Credit BarChartOmak School District Highlands High School.png "Highlands High School Dual Credit Participation")
 
-[Omak High School](pages/Omak School District Omak High SchoolDual Credit BarChart.png "Omak High School Dual Credit Participation")
+[Omak High School](pages/Dual Credit BarChartOmak School District Omak High School.png "Omak High School Dual Credit Participation")
 
-[Washington Virtual Academy Omak High School](pages/Omak School District Washington Virtual Academy Omak High SchoolDual Credit BarChart.png "Washington Virtual Academy Omak High School Dual Credit Participation")
+[Washington Virtual Academy Omak High School](pages/Dual Credit BarChartOmak School District Washington Virtual Academy Omak High School.png "Washington Virtual Academy Omak High School Dual Credit Participation")
 
 
 ___

@@ -5,13 +5,13 @@ permalink: glenwood school district
 ---
 
 
-[Glenwood School District Historical Demographics](pages/Glenwood School District Historical Demographics.png "Glenwood School District Historical Demographics")
+[Glenwood School District Historical Demographics](pages/Historical Demographics for the Glenwood School District.png "Glenwood School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Glenwood Secondary](pages/Glenwood School District Glenwood SecondaryDual Credit BarChart.png "Glenwood Secondary Dual Credit Participation")
+[Glenwood Secondary](pages/Dual Credit BarChartGlenwood School District Glenwood Secondary.png "Glenwood Secondary Dual Credit Participation")
 
 
 ___

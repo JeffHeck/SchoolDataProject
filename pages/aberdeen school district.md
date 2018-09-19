@@ -5,7 +5,7 @@ permalink: aberdeen school district
 ---
 
 
-[Aberdeen School District Historical Demographics](pages/Aberdeen School District Historical Demographics.png "Aberdeen School District Historical Demographics")
+[Aberdeen School District Historical Demographics](pages/Historical Demographics for the Aberdeen School District.png "Aberdeen School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Harbor High School](pages/Aberdeen School District Harbor High SchoolDual Credit BarChart.png "Harbor High School Dual Credit Participation")
+[Harbor High School](pages/Dual Credit BarChartAberdeen School District Harbor High School.png "Harbor High School Dual Credit Participation")
 
-[J M Weatherwax High School](pages/Aberdeen School District J M Weatherwax High SchoolDual Credit BarChart.png "J M Weatherwax High School Dual Credit Participation")
+[J M Weatherwax High School](pages/Dual Credit BarChartAberdeen School District J M Weatherwax High School.png "J M Weatherwax High School Dual Credit Participation")
 
 
 ___

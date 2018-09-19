@@ -5,7 +5,7 @@ permalink: sedro-woolley school district
 ---
 
 
-[Sedro-Woolley School District Historical Demographics](pages/Sedro-Woolley School District Historical Demographics.png "Sedro-Woolley School District Historical Demographics")
+[Sedro-Woolley School District Historical Demographics](pages/Historical Demographics for the Sedro-Woolley School District.png "Sedro-Woolley School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Sedro Woolley Senior High School](pages/Sedro-Woolley School District Sedro Woolley Senior High SchoolDual Credit BarChart.png "Sedro Woolley Senior High School Dual Credit Participation")
+[Sedro Woolley Senior High School](pages/Dual Credit BarChartSedro-Woolley School District Sedro Woolley Senior High School.png "Sedro Woolley Senior High School Dual Credit Participation")
 
-[State Street High School](pages/Sedro-Woolley School District State Street High SchoolDual Credit BarChart.png "State Street High School Dual Credit Participation")
+[State Street High School](pages/Dual Credit BarChartSedro-Woolley School District State Street High School.png "State Street High School Dual Credit Participation")
 
 
 ___

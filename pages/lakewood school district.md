@@ -5,7 +5,7 @@ permalink: lakewood school district
 ---
 
 
-[Lakewood School District Historical Demographics](pages/Lakewood School District Historical Demographics.png "Lakewood School District Historical Demographics")
+[Lakewood School District Historical Demographics](pages/Historical Demographics for the Lakewood School District.png "Lakewood School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lakewood High School](pages/Lakewood School District Lakewood High SchoolDual Credit BarChart.png "Lakewood High School Dual Credit Participation")
+[Lakewood High School](pages/Dual Credit BarChartLakewood School District Lakewood High School.png "Lakewood High School Dual Credit Participation")
 
 
 ___

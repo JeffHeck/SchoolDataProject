@@ -5,7 +5,7 @@ permalink: snohomish school district
 ---
 
 
-[Snohomish School District Historical Demographics](pages/Snohomish School District Historical Demographics.png "Snohomish School District Historical Demographics")
+[Snohomish School District Historical Demographics](pages/Historical Demographics for the Snohomish School District.png "Snohomish School District Historical Demographics")
 
 ___
 
@@ -39,15 +39,15 @@ ___
 
 ## Dual Credit Participation
 
-[AIM High School](pages/Snohomish School District AIM High SchoolDual Credit BarChart.png "AIM High School Dual Credit Participation")
+[AIM High School](pages/Dual Credit BarChartSnohomish School District AIM High School.png "AIM High School Dual Credit Participation")
 
-[Glacier Peak High School](pages/Snohomish School District Glacier Peak High SchoolDual Credit BarChart.png "Glacier Peak High School Dual Credit Participation")
+[Glacier Peak High School](pages/Dual Credit BarChartSnohomish School District Glacier Peak High School.png "Glacier Peak High School Dual Credit Participation")
 
-[High School Re Entry](pages/Snohomish School District High School Re EntryDual Credit BarChart.png "High School Re Entry Dual Credit Participation")
+[High School Re Entry](pages/Dual Credit BarChartSnohomish School District High School Re Entry.png "High School Re Entry Dual Credit Participation")
 
-[Parent Partnerhip](pages/Snohomish School District Parent PartnerhipDual Credit BarChart.png "Parent Partnerhip Dual Credit Participation")
+[Parent Partnerhip](pages/Dual Credit BarChartSnohomish School District Parent Partnerhip.png "Parent Partnerhip Dual Credit Participation")
 
-[Snohomish High School](pages/Snohomish School District Snohomish High SchoolDual Credit BarChart.png "Snohomish High School Dual Credit Participation")
+[Snohomish High School](pages/Dual Credit BarChartSnohomish School District Snohomish High School.png "Snohomish High School Dual Credit Participation")
 
 
 ___

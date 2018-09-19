@@ -5,7 +5,7 @@ permalink: green mountain school district
 ---
 
 
-[Green Mountain School District Historical Demographics](pages/Green Mountain School District Historical Demographics.png "Green Mountain School District Historical Demographics")
+[Green Mountain School District Historical Demographics](pages/Historical Demographics for the Green Mountain School District.png "Green Mountain School District Historical Demographics")
 
 ___
 

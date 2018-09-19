@@ -5,7 +5,7 @@ permalink: onalaska school district
 ---
 
 
-[Onalaska School District Historical Demographics](pages/Onalaska School District Historical Demographics.png "Onalaska School District Historical Demographics")
+[Onalaska School District Historical Demographics](pages/Historical Demographics for the Onalaska School District.png "Onalaska School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[CVA - Onalaska](pages/Onalaska School District CVA - OnalaskaDual Credit BarChart.png "CVA - Onalaska Dual Credit Participation")
+[CVA - Onalaska](pages/Dual Credit BarChartOnalaska School District CVA - Onalaska.png "CVA - Onalaska Dual Credit Participation")
 
-[Onalaska High School](pages/Onalaska School District Onalaska High SchoolDual Credit BarChart.png "Onalaska High School Dual Credit Participation")
+[Onalaska High School](pages/Dual Credit BarChartOnalaska School District Onalaska High School.png "Onalaska High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: lake stevens school district
 ---
 
 
-[Lake Stevens School District Historical Demographics](pages/Lake Stevens School District Historical Demographics.png "Lake Stevens School District Historical Demographics")
+[Lake Stevens School District Historical Demographics](pages/Historical Demographics for the Lake Stevens School District.png "Lake Stevens School District Historical Demographics")
 
 ___
 
@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[Cavelero Mid High School](pages/Lake Stevens School District Cavelero Mid High SchoolDual Credit BarChart.png "Cavelero Mid High School Dual Credit Participation")
+[Cavelero Mid High School](pages/Dual Credit BarChartLake Stevens School District Cavelero Mid High School.png "Cavelero Mid High School Dual Credit Participation")
 
-[Homelink](pages/Lake Stevens School District HomelinkDual Credit BarChart.png "Homelink Dual Credit Participation")
+[Homelink](pages/Dual Credit BarChartLake Stevens School District Homelink.png "Homelink Dual Credit Participation")
 
-[Lake Stevens Sr High School](pages/Lake Stevens School District Lake Stevens Sr High SchoolDual Credit BarChart.png "Lake Stevens Sr High School Dual Credit Participation")
+[Lake Stevens Sr High School](pages/Dual Credit BarChartLake Stevens School District Lake Stevens Sr High School.png "Lake Stevens Sr High School Dual Credit Participation")
 
 
 ___

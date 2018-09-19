@@ -5,7 +5,7 @@ permalink: south kitsap school district
 ---
 
 
-[South Kitsap School District Historical Demographics](pages/South Kitsap School District Historical Demographics.png "South Kitsap School District Historical Demographics")
+[South Kitsap School District Historical Demographics](pages/Historical Demographics for the South Kitsap School District.png "South Kitsap School District Historical Demographics")
 
 ___
 
@@ -39,17 +39,17 @@ ___
 
 ## Dual Credit Participation
 
-[Cedar Heights Middle School](pages/South Kitsap School District Cedar Heights Middle SchoolDual Credit BarChart.png "Cedar Heights Middle School Dual Credit Participation")
+[Cedar Heights Middle School](pages/Dual Credit BarChartSouth Kitsap School District Cedar Heights Middle School.png "Cedar Heights Middle School Dual Credit Participation")
 
-[Discovery](pages/South Kitsap School District DiscoveryDual Credit BarChart.png "Discovery Dual Credit Participation")
+[Discovery](pages/Dual Credit BarChartSouth Kitsap School District Discovery.png "Discovery Dual Credit Participation")
 
-[Explorer Academy](pages/South Kitsap School District Explorer AcademyDual Credit BarChart.png "Explorer Academy Dual Credit Participation")
+[Explorer Academy](pages/Dual Credit BarChartSouth Kitsap School District Explorer Academy.png "Explorer Academy Dual Credit Participation")
 
-[John Sedgwick Junior High](pages/South Kitsap School District John Sedgwick Junior HighDual Credit BarChart.png "John Sedgwick Junior High Dual Credit Participation")
+[John Sedgwick Junior High](pages/Dual Credit BarChartSouth Kitsap School District John Sedgwick Junior High.png "John Sedgwick Junior High Dual Credit Participation")
 
-[Marcus Whitman Junior High](pages/South Kitsap School District Marcus Whitman Junior HighDual Credit BarChart.png "Marcus Whitman Junior High Dual Credit Participation")
+[Marcus Whitman Junior High](pages/Dual Credit BarChartSouth Kitsap School District Marcus Whitman Junior High.png "Marcus Whitman Junior High Dual Credit Participation")
 
-[South Kitsap High School](pages/South Kitsap School District South Kitsap High SchoolDual Credit BarChart.png "South Kitsap High School Dual Credit Participation")
+[South Kitsap High School](pages/Dual Credit BarChartSouth Kitsap School District South Kitsap High School.png "South Kitsap High School Dual Credit Participation")
 
 
 ___

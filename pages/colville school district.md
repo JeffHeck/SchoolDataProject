@@ -5,7 +5,7 @@ permalink: colville school district
 ---
 
 
-[Colville School District Historical Demographics](pages/Colville School District Historical Demographics.png "Colville School District Historical Demographics")
+[Colville School District Historical Demographics](pages/Historical Demographics for the Colville School District.png "Colville School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Colville Senior High School](pages/Colville School District Colville Senior High SchoolDual Credit BarChart.png "Colville Senior High School Dual Credit Participation")
+[Colville Senior High School](pages/Dual Credit BarChartColville School District Colville Senior High School.png "Colville Senior High School Dual Credit Participation")
 
-[Panorama School](pages/Colville School District Panorama SchoolDual Credit BarChart.png "Panorama School Dual Credit Participation")
+[Panorama School](pages/Dual Credit BarChartColville School District Panorama School.png "Panorama School Dual Credit Participation")
 
 
 ___

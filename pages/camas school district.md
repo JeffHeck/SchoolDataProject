@@ -5,7 +5,7 @@ permalink: camas school district
 ---
 
 
-[Camas School District Historical Demographics](pages/Camas School District Historical Demographics.png "Camas School District Historical Demographics")
+[Camas School District Historical Demographics](pages/Historical Demographics for the Camas School District.png "Camas School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Camas High School](pages/Camas School District Camas High SchoolDual Credit BarChart.png "Camas High School Dual Credit Participation")
+[Camas High School](pages/Dual Credit BarChartCamas School District Camas High School.png "Camas High School Dual Credit Participation")
 
-[Hayes Freedom High School](pages/Camas School District Hayes Freedom High SchoolDual Credit BarChart.png "Hayes Freedom High School Dual Credit Participation")
+[Hayes Freedom High School](pages/Dual Credit BarChartCamas School District Hayes Freedom High School.png "Hayes Freedom High School Dual Credit Participation")
 
 
 ___

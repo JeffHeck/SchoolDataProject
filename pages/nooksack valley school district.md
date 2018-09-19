@@ -5,7 +5,7 @@ permalink: nooksack valley school district
 ---
 
 
-[Nooksack Valley School District Historical Demographics](pages/Nooksack Valley School District Historical Demographics.png "Nooksack Valley School District Historical Demographics")
+[Nooksack Valley School District Historical Demographics](pages/Historical Demographics for the Nooksack Valley School District.png "Nooksack Valley School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Nooksack Valley High School](pages/Nooksack Valley School District Nooksack Valley High SchoolDual Credit BarChart.png "Nooksack Valley High School Dual Credit Participation")
+[Nooksack Valley High School](pages/Dual Credit BarChartNooksack Valley School District Nooksack Valley High School.png "Nooksack Valley High School Dual Credit Participation")
 
 
 ___

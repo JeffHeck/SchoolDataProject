@@ -5,7 +5,7 @@ permalink: soar academy charter district
 ---
 
 
-[SOAR Academy Charter District Historical Demographics](pages/SOAR Academy Charter District Historical Demographics.png "SOAR Academy Charter District Historical Demographics")
+[SOAR Academy Charter District Historical Demographics](pages/Historical Demographics for the SOAR Academy Charter District.png "SOAR Academy Charter District Historical Demographics")
 
 ___
 

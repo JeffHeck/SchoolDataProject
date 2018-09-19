@@ -5,7 +5,7 @@ permalink: summit valley school district
 ---
 
 
-[Summit Valley School District Historical Demographics](pages/Summit Valley School District Historical Demographics.png "Summit Valley School District Historical Demographics")
+[Summit Valley School District Historical Demographics](pages/Historical Demographics for the Summit Valley School District.png "Summit Valley School District Historical Demographics")
 
 ___
 

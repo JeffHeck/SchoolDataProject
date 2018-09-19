@@ -5,7 +5,7 @@ permalink: griffin school district
 ---
 
 
-[Griffin School District Historical Demographics](pages/Griffin School District Historical Demographics.png "Griffin School District Historical Demographics")
+[Griffin School District Historical Demographics](pages/Historical Demographics for the Griffin School District.png "Griffin School District Historical Demographics")
 
 ___
 

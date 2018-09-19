@@ -5,7 +5,7 @@ permalink: skamania school district
 ---
 
 
-[Skamania School District Historical Demographics](pages/Skamania School District Historical Demographics.png "Skamania School District Historical Demographics")
+[Skamania School District Historical Demographics](pages/Historical Demographics for the Skamania School District.png "Skamania School District Historical Demographics")
 
 ___
 

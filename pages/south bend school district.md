@@ -5,7 +5,7 @@ permalink: south bend school district
 ---
 
 
-[South Bend School District Historical Demographics](pages/South Bend School District Historical Demographics.png "South Bend School District Historical Demographics")
+[South Bend School District Historical Demographics](pages/Historical Demographics for the South Bend School District.png "South Bend School District Historical Demographics")
 
 ___
 
@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[Pacific County Jail](pages/South Bend School District Pacific County JailDual Credit BarChart.png "Pacific County Jail Dual Credit Participation")
+[Pacific County Jail](pages/Dual Credit BarChartSouth Bend School District Pacific County Jail.png "Pacific County Jail Dual Credit Participation")
 
-[South Bend High School](pages/South Bend School District South Bend High SchoolDual Credit BarChart.png "South Bend High School Dual Credit Participation")
+[South Bend High School](pages/Dual Credit BarChartSouth Bend School District South Bend High School.png "South Bend High School Dual Credit Participation")
 
-[South Bend Home Link](pages/South Bend School District South Bend Home LinkDual Credit BarChart.png "South Bend Home Link Dual Credit Participation")
+[South Bend Home Link](pages/Dual Credit BarChartSouth Bend School District South Bend Home Link.png "South Bend Home Link Dual Credit Participation")
 
 
 ___

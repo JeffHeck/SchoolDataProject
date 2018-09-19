@@ -5,7 +5,7 @@ permalink: ritzville school district
 ---
 
 
-[Ritzville School District Historical Demographics](pages/Ritzville School District Historical Demographics.png "Ritzville School District Historical Demographics")
+[Ritzville School District Historical Demographics](pages/Historical Demographics for the Ritzville School District.png "Ritzville School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Ritzville High School](pages/Ritzville School District Ritzville High SchoolDual Credit BarChart.png "Ritzville High School Dual Credit Participation")
+[Ritzville High School](pages/Dual Credit BarChartRitzville School District Ritzville High School.png "Ritzville High School Dual Credit Participation")
 
 
 ___

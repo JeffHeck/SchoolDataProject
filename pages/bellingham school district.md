@@ -5,7 +5,7 @@ permalink: bellingham school district
 ---
 
 
-[Bellingham School District Historical Demographics](pages/Bellingham School District Historical Demographics.png "Bellingham School District Historical Demographics")
+[Bellingham School District Historical Demographics](pages/Historical Demographics for the Bellingham School District.png "Bellingham School District Historical Demographics")
 
 ___
 
@@ -39,19 +39,19 @@ ___
 
 ## Dual Credit Participation
 
-[Bellingham High School](pages/Bellingham School District Bellingham High SchoolDual Credit BarChart.png "Bellingham High School Dual Credit Participation")
+[Bellingham High School](pages/Dual Credit BarChartBellingham School District Bellingham High School.png "Bellingham High School Dual Credit Participation")
 
-[Bellingham Re-Engagement Program](pages/Bellingham School District Bellingham Re-Engagement ProgramDual Credit BarChart.png "Bellingham Re-Engagement Program Dual Credit Participation")
+[Bellingham Re-Engagement Program](pages/Dual Credit BarChartBellingham School District Bellingham Re-Engagement Program.png "Bellingham Re-Engagement Program Dual Credit Participation")
 
-[Fairhaven Middle School](pages/Bellingham School District Fairhaven Middle SchoolDual Credit BarChart.png "Fairhaven Middle School Dual Credit Participation")
+[Fairhaven Middle School](pages/Dual Credit BarChartBellingham School District Fairhaven Middle School.png "Fairhaven Middle School Dual Credit Participation")
 
-[Options High School](pages/Bellingham School District Options High SchoolDual Credit BarChart.png "Options High School Dual Credit Participation")
+[Options High School](pages/Dual Credit BarChartBellingham School District Options High School.png "Options High School Dual Credit Participation")
 
-[Sehome High School](pages/Bellingham School District Sehome High SchoolDual Credit BarChart.png "Sehome High School Dual Credit Participation")
+[Sehome High School](pages/Dual Credit BarChartBellingham School District Sehome High School.png "Sehome High School Dual Credit Participation")
 
-[Squalicum High School](pages/Bellingham School District Squalicum High SchoolDual Credit BarChart.png "Squalicum High School Dual Credit Participation")
+[Squalicum High School](pages/Dual Credit BarChartBellingham School District Squalicum High School.png "Squalicum High School Dual Credit Participation")
 
-[Visions (Seamar Youth Center)](pages/Bellingham School District Visions (Seamar Youth Center)Dual Credit BarChart.png "Visions (Seamar Youth Center) Dual Credit Participation")
+[Visions (Seamar Youth Center)](pages/Dual Credit BarChartBellingham School District Visions (Seamar Youth Center).png "Visions (Seamar Youth Center) Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: orting school district
 ---
 
 
-[Orting School District Historical Demographics](pages/Orting School District Historical Demographics.png "Orting School District Historical Demographics")
+[Orting School District Historical Demographics](pages/Historical Demographics for the Orting School District.png "Orting School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Orting High School](pages/Orting School District Orting High SchoolDual Credit BarChart.png "Orting High School Dual Credit Participation")
+[Orting High School](pages/Dual Credit BarChartOrting School District Orting High School.png "Orting High School Dual Credit Participation")
 
 
 ___

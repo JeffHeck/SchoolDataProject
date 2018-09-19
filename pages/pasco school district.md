@@ -5,7 +5,7 @@ permalink: pasco school district
 ---
 
 
-[Pasco School District Historical Demographics](pages/Pasco School District Historical Demographics.png "Pasco School District Historical Demographics")
+[Pasco School District Historical Demographics](pages/Historical Demographics for the Pasco School District.png "Pasco School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Chiawana High School](pages/Pasco School District Chiawana High SchoolDual Credit BarChart.png "Chiawana High School Dual Credit Participation")
+[Chiawana High School](pages/Dual Credit BarChartPasco School District Chiawana High School.png "Chiawana High School Dual Credit Participation")
 
-[New Horizons High School](pages/Pasco School District New Horizons High SchoolDual Credit BarChart.png "New Horizons High School Dual Credit Participation")
+[New Horizons High School](pages/Dual Credit BarChartPasco School District New Horizons High School.png "New Horizons High School Dual Credit Participation")
 
-[Pasco Senior High School](pages/Pasco School District Pasco Senior High SchoolDual Credit BarChart.png "Pasco Senior High School Dual Credit Participation")
+[Pasco Senior High School](pages/Dual Credit BarChartPasco School District Pasco Senior High School.png "Pasco Senior High School Dual Credit Participation")
 
 
 ___

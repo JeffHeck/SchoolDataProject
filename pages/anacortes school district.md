@@ -5,7 +5,7 @@ permalink: anacortes school district
 ---
 
 
-[Anacortes School District Historical Demographics](pages/Anacortes School District Historical Demographics.png "Anacortes School District Historical Demographics")
+[Anacortes School District Historical Demographics](pages/Historical Demographics for the Anacortes School District.png "Anacortes School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Anacortes High School](pages/Anacortes School District Anacortes High SchoolDual Credit BarChart.png "Anacortes High School Dual Credit Participation")
+[Anacortes High School](pages/Dual Credit BarChartAnacortes School District Anacortes High School.png "Anacortes High School Dual Credit Participation")
 
-[Cap Sante High School](pages/Anacortes School District Cap Sante High SchoolDual Credit BarChart.png "Cap Sante High School Dual Credit Participation")
+[Cap Sante High School](pages/Dual Credit BarChartAnacortes School District Cap Sante High School.png "Cap Sante High School Dual Credit Participation")
 
 
 ___

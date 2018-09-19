@@ -5,7 +5,7 @@ permalink: naches valley school district
 ---
 
 
-[Naches Valley School District Historical Demographics](pages/Naches Valley School District Historical Demographics.png "Naches Valley School District Historical Demographics")
+[Naches Valley School District Historical Demographics](pages/Historical Demographics for the Naches Valley School District.png "Naches Valley School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Naches Valley High School](pages/Naches Valley School District Naches Valley High SchoolDual Credit BarChart.png "Naches Valley High School Dual Credit Participation")
+[Naches Valley High School](pages/Dual Credit BarChartNaches Valley School District Naches Valley High School.png "Naches Valley High School Dual Credit Participation")
 
 
 ___

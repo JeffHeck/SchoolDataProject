@@ -5,7 +5,7 @@ permalink: union gap school district
 ---
 
 
-[Union Gap School District Historical Demographics](pages/Union Gap School District Historical Demographics.png "Union Gap School District Historical Demographics")
+[Union Gap School District Historical Demographics](pages/Historical Demographics for the Union Gap School District.png "Union Gap School District Historical Demographics")
 
 ___
 

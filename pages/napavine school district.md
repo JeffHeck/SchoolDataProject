@@ -5,7 +5,7 @@ permalink: napavine school district
 ---
 
 
-[Napavine School District Historical Demographics](pages/Napavine School District Historical Demographics.png "Napavine School District Historical Demographics")
+[Napavine School District Historical Demographics](pages/Historical Demographics for the Napavine School District.png "Napavine School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Napavine Jr Sr High School](pages/Napavine School District Napavine Jr Sr High SchoolDual Credit BarChart.png "Napavine Jr Sr High School Dual Credit Participation")
+[Napavine Jr Sr High School](pages/Dual Credit BarChartNapavine School District Napavine Jr Sr High School.png "Napavine Jr Sr High School Dual Credit Participation")
 
 
 ___

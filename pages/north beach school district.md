@@ -5,7 +5,7 @@ permalink: north beach school district
 ---
 
 
-[North Beach School District Historical Demographics](pages/North Beach School District Historical Demographics.png "North Beach School District Historical Demographics")
+[North Beach School District Historical Demographics](pages/Historical Demographics for the North Beach School District.png "North Beach School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[North Beach Senior High School](pages/North Beach School District North Beach Senior High SchoolDual Credit BarChart.png "North Beach Senior High School Dual Credit Participation")
+[North Beach Senior High School](pages/Dual Credit BarChartNorth Beach School District North Beach Senior High School.png "North Beach Senior High School Dual Credit Participation")
 
 
 ___

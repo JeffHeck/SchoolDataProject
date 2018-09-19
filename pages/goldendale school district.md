@@ -5,7 +5,7 @@ permalink: goldendale school district
 ---
 
 
-[Goldendale School District Historical Demographics](pages/Goldendale School District Historical Demographics.png "Goldendale School District Historical Demographics")
+[Goldendale School District Historical Demographics](pages/Historical Demographics for the Goldendale School District.png "Goldendale School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Goldendale High School](pages/Goldendale School District Goldendale High SchoolDual Credit BarChart.png "Goldendale High School Dual Credit Participation")
+[Goldendale High School](pages/Dual Credit BarChartGoldendale School District Goldendale High School.png "Goldendale High School Dual Credit Participation")
 
 
 ___

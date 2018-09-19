@@ -5,7 +5,7 @@ permalink: lynden school district
 ---
 
 
-[Lynden School District Historical Demographics](pages/Lynden School District Historical Demographics.png "Lynden School District Historical Demographics")
+[Lynden School District Historical Demographics](pages/Historical Demographics for the Lynden School District.png "Lynden School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Lynden Academy](pages/Lynden School District Lynden AcademyDual Credit BarChart.png "Lynden Academy Dual Credit Participation")
+[Lynden Academy](pages/Dual Credit BarChartLynden School District Lynden Academy.png "Lynden Academy Dual Credit Participation")
 
-[Lynden High School](pages/Lynden School District Lynden High SchoolDual Credit BarChart.png "Lynden High School Dual Credit Participation")
+[Lynden High School](pages/Dual Credit BarChartLynden School District Lynden High School.png "Lynden High School Dual Credit Participation")
 
 
 ___

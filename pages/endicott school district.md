@@ -5,7 +5,7 @@ permalink: endicott school district
 ---
 
 
-[Endicott School District Historical Demographics](pages/Endicott School District Historical Demographics.png "Endicott School District Historical Demographics")
+[Endicott School District Historical Demographics](pages/Historical Demographics for the Endicott School District.png "Endicott School District Historical Demographics")
 
 ___
 

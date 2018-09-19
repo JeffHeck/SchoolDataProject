@@ -5,7 +5,7 @@ permalink: centerville school district
 ---
 
 
-[Centerville School District Historical Demographics](pages/Centerville School District Historical Demographics.png "Centerville School District Historical Demographics")
+[Centerville School District Historical Demographics](pages/Historical Demographics for the Centerville School District.png "Centerville School District Historical Demographics")
 
 ___
 

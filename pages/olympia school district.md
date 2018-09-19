@@ -5,7 +5,7 @@ permalink: olympia school district
 ---
 
 
-[Olympia School District Historical Demographics](pages/Olympia School District Historical Demographics.png "Olympia School District Historical Demographics")
+[Olympia School District Historical Demographics](pages/Historical Demographics for the Olympia School District.png "Olympia School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Avanti High School](pages/Olympia School District Avanti High SchoolDual Credit BarChart.png "Avanti High School Dual Credit Participation")
+[Avanti High School](pages/Dual Credit BarChartOlympia School District Avanti High School.png "Avanti High School Dual Credit Participation")
 
-[Capital High School](pages/Olympia School District Capital High SchoolDual Credit BarChart.png "Capital High School Dual Credit Participation")
+[Capital High School](pages/Dual Credit BarChartOlympia School District Capital High School.png "Capital High School Dual Credit Participation")
 
-[Olympia High School](pages/Olympia School District Olympia High SchoolDual Credit BarChart.png "Olympia High School Dual Credit Participation")
+[Olympia High School](pages/Dual Credit BarChartOlympia School District Olympia High School.png "Olympia High School Dual Credit Participation")
 
-[Olympia Regional Learning Academy](pages/Olympia School District Olympia Regional Learning AcademyDual Credit BarChart.png "Olympia Regional Learning Academy Dual Credit Participation")
+[Olympia Regional Learning Academy](pages/Dual Credit BarChartOlympia School District Olympia Regional Learning Academy.png "Olympia Regional Learning Academy Dual Credit Participation")
 
 
 ___

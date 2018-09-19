@@ -5,7 +5,7 @@ permalink: chehalis school district
 ---
 
 
-[Chehalis School District Historical Demographics](pages/Chehalis School District Historical Demographics.png "Chehalis School District Historical Demographics")
+[Chehalis School District Historical Demographics](pages/Historical Demographics for the Chehalis School District.png "Chehalis School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Lewis County Alternative School](pages/Chehalis School District Lewis County Alternative SchoolDual Credit BarChart.png "Lewis County Alternative School Dual Credit Participation")
+[Lewis County Alternative School](pages/Dual Credit BarChartChehalis School District Lewis County Alternative School.png "Lewis County Alternative School Dual Credit Participation")
 
-[W F West High School](pages/Chehalis School District W F West High SchoolDual Credit BarChart.png "W F West High School Dual Credit Participation")
+[W F West High School](pages/Dual Credit BarChartChehalis School District W F West High School.png "W F West High School Dual Credit Participation")
 
 
 ___

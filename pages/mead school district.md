@@ -5,7 +5,7 @@ permalink: mead school district
 ---
 
 
-[Mead School District Historical Demographics](pages/Mead School District Historical Demographics.png "Mead School District Historical Demographics")
+[Mead School District Historical Demographics](pages/Historical Demographics for the Mead School District.png "Mead School District Historical Demographics")
 
 ___
 
@@ -39,17 +39,17 @@ ___
 
 ## Dual Credit Participation
 
-[Mead Alternative High School](pages/Mead School District Mead Alternative High SchoolDual Credit BarChart.png "Mead Alternative High School Dual Credit Participation")
+[Mead Alternative High School](pages/Dual Credit BarChartMead School District Mead Alternative High School.png "Mead Alternative High School Dual Credit Participation")
 
-[Mead Education Partnership Prog](pages/Mead School District Mead Education Partnership ProgDual Credit BarChart.png "Mead Education Partnership Prog Dual Credit Participation")
+[Mead Education Partnership Prog](pages/Dual Credit BarChartMead School District Mead Education Partnership Prog.png "Mead Education Partnership Prog Dual Credit Participation")
 
-[Mead Open Doors](pages/Mead School District Mead Open DoorsDual Credit BarChart.png "Mead Open Doors Dual Credit Participation")
+[Mead Open Doors](pages/Dual Credit BarChartMead School District Mead Open Doors.png "Mead Open Doors Dual Credit Participation")
 
-[Mead Senior High School](pages/Mead School District Mead Senior High SchoolDual Credit BarChart.png "Mead Senior High School Dual Credit Participation")
+[Mead Senior High School](pages/Dual Credit BarChartMead School District Mead Senior High School.png "Mead Senior High School Dual Credit Participation")
 
-[Mt Spokane High School](pages/Mead School District Mt Spokane High SchoolDual Credit BarChart.png "Mt Spokane High School Dual Credit Participation")
+[Mt Spokane High School](pages/Dual Credit BarChartMead School District Mt Spokane High School.png "Mt Spokane High School Dual Credit Participation")
 
-[Riverpoint Academy](pages/Mead School District Riverpoint AcademyDual Credit BarChart.png "Riverpoint Academy Dual Credit Participation")
+[Riverpoint Academy](pages/Dual Credit BarChartMead School District Riverpoint Academy.png "Riverpoint Academy Dual Credit Participation")
 
 
 ___

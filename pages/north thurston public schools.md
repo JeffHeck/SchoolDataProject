@@ -5,7 +5,7 @@ permalink: north thurston public schools
 ---
 
 
-[North Thurston Public Schools Historical Demographics](pages/North Thurston Public Schools Historical Demographics.png "North Thurston Public Schools Historical Demographics")
+[North Thurston Public Schools Historical Demographics](pages/Historical Demographics for the North Thurston Public Schools.png "North Thurston Public Schools Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[North Thurston High School](pages/North Thurston Public Schools North Thurston High SchoolDual Credit BarChart.png "North Thurston High School Dual Credit Participation")
+[North Thurston High School](pages/Dual Credit BarChartNorth Thurston Public Schools North Thurston High School.png "North Thurston High School Dual Credit Participation")
 
-[River Ridge High School](pages/North Thurston Public Schools River Ridge High SchoolDual Credit BarChart.png "River Ridge High School Dual Credit Participation")
+[River Ridge High School](pages/Dual Credit BarChartNorth Thurston Public Schools River Ridge High School.png "River Ridge High School Dual Credit Participation")
 
-[South Sound High School](pages/North Thurston Public Schools South Sound High SchoolDual Credit BarChart.png "South Sound High School Dual Credit Participation")
+[South Sound High School](pages/Dual Credit BarChartNorth Thurston Public Schools South Sound High School.png "South Sound High School Dual Credit Participation")
 
-[Timberline High School](pages/North Thurston Public Schools Timberline High SchoolDual Credit BarChart.png "Timberline High School Dual Credit Participation")
+[Timberline High School](pages/Dual Credit BarChartNorth Thurston Public Schools Timberline High School.png "Timberline High School Dual Credit Participation")
 
 
 ___

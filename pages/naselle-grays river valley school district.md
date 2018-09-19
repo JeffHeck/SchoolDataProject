@@ -5,7 +5,7 @@ permalink: naselle-grays river valley school district
 ---
 
 
-[Naselle-Grays River Valley School District Historical Demographics](pages/Naselle-Grays River Valley School District Historical Demographics.png "Naselle-Grays River Valley School District Historical Demographics")
+[Naselle-Grays River Valley School District Historical Demographics](pages/Historical Demographics for the Naselle-Grays River Valley School District.png "Naselle-Grays River Valley School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Naselle Homelink](pages/Naselle-Grays River Valley School District Naselle HomelinkDual Credit BarChart.png "Naselle Homelink Dual Credit Participation")
+[Naselle Homelink](pages/Dual Credit BarChartNaselle-Grays River Valley School District Naselle Homelink.png "Naselle Homelink Dual Credit Participation")
 
-[Naselle Jr Sr High Schools](pages/Naselle-Grays River Valley School District Naselle Jr Sr High SchoolsDual Credit BarChart.png "Naselle Jr Sr High Schools Dual Credit Participation")
+[Naselle Jr Sr High Schools](pages/Dual Credit BarChartNaselle-Grays River Valley School District Naselle Jr Sr High Schools.png "Naselle Jr Sr High Schools Dual Credit Participation")
 
 
 ___

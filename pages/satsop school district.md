@@ -5,7 +5,7 @@ permalink: satsop school district
 ---
 
 
-[Satsop School District Historical Demographics](pages/Satsop School District Historical Demographics.png "Satsop School District Historical Demographics")
+[Satsop School District Historical Demographics](pages/Historical Demographics for the Satsop School District.png "Satsop School District Historical Demographics")
 
 ___
 

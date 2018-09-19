@@ -5,7 +5,7 @@ permalink: bickleton school district
 ---
 
 
-[Bickleton School District Historical Demographics](pages/Bickleton School District Historical Demographics.png "Bickleton School District Historical Demographics")
+[Bickleton School District Historical Demographics](pages/Historical Demographics for the Bickleton School District.png "Bickleton School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Bickleton Elementary   High Schl](pages/Bickleton School District Bickleton Elementary   High SchlDual Credit BarChart.png "Bickleton Elementary   High Schl Dual Credit Participation")
+[Bickleton Elementary   High Schl](pages/Dual Credit BarChartBickleton School District Bickleton Elementary   High Schl.png "Bickleton Elementary   High Schl Dual Credit Participation")
 
 
 ___

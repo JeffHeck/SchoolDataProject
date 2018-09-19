@@ -5,7 +5,7 @@ permalink: quincy school district
 ---
 
 
-[Quincy School District Historical Demographics](pages/Quincy School District Historical Demographics.png "Quincy School District Historical Demographics")
+[Quincy School District Historical Demographics](pages/Historical Demographics for the Quincy School District.png "Quincy School District Historical Demographics")
 
 ___
 
@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[Quincy High School](pages/Quincy School District Quincy High SchoolDual Credit BarChart.png "Quincy High School Dual Credit Participation")
+[Quincy High School](pages/Dual Credit BarChartQuincy School District Quincy High School.png "Quincy High School Dual Credit Participation")
 
-[Quincy High Tech High](pages/Quincy School District Quincy High Tech HighDual Credit BarChart.png "Quincy High Tech High Dual Credit Participation")
+[Quincy High Tech High](pages/Dual Credit BarChartQuincy School District Quincy High Tech High.png "Quincy High Tech High Dual Credit Participation")
 
-[Quincy Junior High](pages/Quincy School District Quincy Junior HighDual Credit BarChart.png "Quincy Junior High Dual Credit Participation")
+[Quincy Junior High](pages/Dual Credit BarChartQuincy School District Quincy Junior High.png "Quincy Junior High Dual Credit Participation")
 
 
 ___

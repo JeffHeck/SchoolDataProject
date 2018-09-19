@@ -5,7 +5,7 @@ permalink: winlock school district
 ---
 
 
-[Winlock School District Historical Demographics](pages/Winlock School District Historical Demographics.png "Winlock School District Historical Demographics")
+[Winlock School District Historical Demographics](pages/Historical Demographics for the Winlock School District.png "Winlock School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Winlock Senior High](pages/Winlock School District Winlock Senior HighDual Credit BarChart.png "Winlock Senior High Dual Credit Participation")
+[Winlock Senior High](pages/Dual Credit BarChartWinlock School District Winlock Senior High.png "Winlock Senior High Dual Credit Participation")
 
-[Winolequa Learning Academy](pages/Winlock School District Winolequa Learning AcademyDual Credit BarChart.png "Winolequa Learning Academy Dual Credit Participation")
+[Winolequa Learning Academy](pages/Dual Credit BarChartWinlock School District Winolequa Learning Academy.png "Winolequa Learning Academy Dual Credit Participation")
 
 
 ___

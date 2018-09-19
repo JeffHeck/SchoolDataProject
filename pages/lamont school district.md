@@ -5,7 +5,7 @@ permalink: lamont school district
 ---
 
 
-[Lamont School District Historical Demographics](pages/Lamont School District Historical Demographics.png "Lamont School District Historical Demographics")
+[Lamont School District Historical Demographics](pages/Historical Demographics for the Lamont School District.png "Lamont School District Historical Demographics")
 
 ___
 

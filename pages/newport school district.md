@@ -5,7 +5,7 @@ permalink: newport school district
 ---
 
 
-[Newport School District Historical Demographics](pages/Newport School District Historical Demographics.png "Newport School District Historical Demographics")
+[Newport School District Historical Demographics](pages/Historical Demographics for the Newport School District.png "Newport School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Newport High School](pages/Newport School District Newport High SchoolDual Credit BarChart.png "Newport High School Dual Credit Participation")
+[Newport High School](pages/Dual Credit BarChartNewport School District Newport High School.png "Newport High School Dual Credit Participation")
 
-[Pend Oreille River School](pages/Newport School District Pend Oreille River SchoolDual Credit BarChart.png "Pend Oreille River School Dual Credit Participation")
+[Pend Oreille River School](pages/Dual Credit BarChartNewport School District Pend Oreille River School.png "Pend Oreille River School Dual Credit Participation")
 
 
 ___

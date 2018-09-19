@@ -5,7 +5,7 @@ permalink: onion creek school district
 ---
 
 
-[Onion Creek School District Historical Demographics](pages/Onion Creek School District Historical Demographics.png "Onion Creek School District Historical Demographics")
+[Onion Creek School District Historical Demographics](pages/Historical Demographics for the Onion Creek School District.png "Onion Creek School District Historical Demographics")
 
 ___
 

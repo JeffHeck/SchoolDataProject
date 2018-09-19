@@ -5,7 +5,7 @@ permalink: great northern school district
 ---
 
 
-[Great Northern School District Historical Demographics](pages/Great Northern School District Historical Demographics.png "Great Northern School District Historical Demographics")
+[Great Northern School District Historical Demographics](pages/Historical Demographics for the Great Northern School District.png "Great Northern School District Historical Demographics")
 
 ___
 

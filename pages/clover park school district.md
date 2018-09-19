@@ -5,7 +5,7 @@ permalink: clover park school district
 ---
 
 
-[Clover Park School District Historical Demographics](pages/Clover Park School District Historical Demographics.png "Clover Park School District Historical Demographics")
+[Clover Park School District Historical Demographics](pages/Historical Demographics for the Clover Park School District.png "Clover Park School District Historical Demographics")
 
 ___
 
@@ -39,17 +39,17 @@ ___
 
 ## Dual Credit Participation
 
-[Alfaretta House](pages/Clover Park School District Alfaretta HouseDual Credit BarChart.png "Alfaretta House Dual Credit Participation")
+[Alfaretta House](pages/Dual Credit BarChartClover Park School District Alfaretta House.png "Alfaretta House Dual Credit Participation")
 
-[CPSD Open Doors Program](pages/Clover Park School District CPSD Open Doors ProgramDual Credit BarChart.png "CPSD Open Doors Program Dual Credit Participation")
+[CPSD Open Doors Program](pages/Dual Credit BarChartClover Park School District CPSD Open Doors Program.png "CPSD Open Doors Program Dual Credit Participation")
 
-[Clover Park High School](pages/Clover Park School District Clover Park High SchoolDual Credit BarChart.png "Clover Park High School Dual Credit Participation")
+[Clover Park High School](pages/Dual Credit BarChartClover Park School District Clover Park High School.png "Clover Park High School Dual Credit Participation")
 
-[Harrison Prep School](pages/Clover Park School District Harrison Prep SchoolDual Credit BarChart.png "Harrison Prep School Dual Credit Participation")
+[Harrison Prep School](pages/Dual Credit BarChartClover Park School District Harrison Prep School.png "Harrison Prep School Dual Credit Participation")
 
-[Lakes High School](pages/Clover Park School District Lakes High SchoolDual Credit BarChart.png "Lakes High School Dual Credit Participation")
+[Lakes High School](pages/Dual Credit BarChartClover Park School District Lakes High School.png "Lakes High School Dual Credit Participation")
 
-[Re-Entry High School](pages/Clover Park School District Re-Entry High SchoolDual Credit BarChart.png "Re-Entry High School Dual Credit Participation")
+[Re-Entry High School](pages/Dual Credit BarChartClover Park School District Re-Entry High School.png "Re-Entry High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: almira school district
 ---
 
 
-[Almira School District Historical Demographics](pages/Almira School District Historical Demographics.png "Almira School District Historical Demographics")
+[Almira School District Historical Demographics](pages/Historical Demographics for the Almira School District.png "Almira School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: index school district
 ---
 
 
-[Index School District Historical Demographics](pages/Index School District Historical Demographics.png "Index School District Historical Demographics")
+[Index School District Historical Demographics](pages/Historical Demographics for the Index School District.png "Index School District Historical Demographics")
 
 ___
 

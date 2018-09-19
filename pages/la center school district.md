@@ -5,7 +5,7 @@ permalink: la center school district
 ---
 
 
-[La Center School District Historical Demographics](pages/La Center School District Historical Demographics.png "La Center School District Historical Demographics")
+[La Center School District Historical Demographics](pages/Historical Demographics for the La Center School District.png "La Center School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[La Center High School](pages/La Center School District La Center High SchoolDual Credit BarChart.png "La Center High School Dual Credit Participation")
+[La Center High School](pages/Dual Credit BarChartLa Center School District La Center High School.png "La Center High School Dual Credit Participation")
 
-[La Center Home School Academy](pages/La Center School District La Center Home School AcademyDual Credit BarChart.png "La Center Home School Academy Dual Credit Participation")
+[La Center Home School Academy](pages/Dual Credit BarChartLa Center School District La Center Home School Academy.png "La Center Home School Academy Dual Credit Participation")
 
 
 ___

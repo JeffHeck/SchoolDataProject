@@ -5,7 +5,7 @@ permalink: cosmopolis school district
 ---
 
 
-[Cosmopolis School District Historical Demographics](pages/Cosmopolis School District Historical Demographics.png "Cosmopolis School District Historical Demographics")
+[Cosmopolis School District Historical Demographics](pages/Historical Demographics for the Cosmopolis School District.png "Cosmopolis School District Historical Demographics")
 
 ___
 

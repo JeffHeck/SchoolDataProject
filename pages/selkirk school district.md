@@ -5,7 +5,7 @@ permalink: selkirk school district
 ---
 
 
-[Selkirk School District Historical Demographics](pages/Selkirk School District Historical Demographics.png "Selkirk School District Historical Demographics")
+[Selkirk School District Historical Demographics](pages/Historical Demographics for the Selkirk School District.png "Selkirk School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Selkirk High School](pages/Selkirk School District Selkirk High SchoolDual Credit BarChart.png "Selkirk High School Dual Credit Participation")
+[Selkirk High School](pages/Dual Credit BarChartSelkirk School District Selkirk High School.png "Selkirk High School Dual Credit Participation")
 
 
 ___

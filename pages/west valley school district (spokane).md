@@ -5,7 +5,7 @@ permalink: west valley school district (spokane)
 ---
 
 
-[West Valley School District (Spokane) Historical Demographics](pages/West Valley School District (Spokane) Historical Demographics.png "West Valley School District (Spokane) Historical Demographics")
+[West Valley School District (Spokane) Historical Demographics](pages/Historical Demographics for the West Valley School District (Spokane).png "West Valley School District (Spokane) Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Dishman Hills High School](pages/West Valley School District (Spokane) Dishman Hills High SchoolDual Credit BarChart.png "Dishman Hills High School Dual Credit Participation")
+[Dishman Hills High School](pages/Dual Credit BarChartWest Valley School District (Spokane) Dishman Hills High School.png "Dishman Hills High School Dual Credit Participation")
 
-[Spokane Valley High School](pages/West Valley School District (Spokane) Spokane Valley High SchoolDual Credit BarChart.png "Spokane Valley High School Dual Credit Participation")
+[Spokane Valley High School](pages/Dual Credit BarChartWest Valley School District (Spokane) Spokane Valley High School.png "Spokane Valley High School Dual Credit Participation")
 
-[Spokane Valley Transition School](pages/West Valley School District (Spokane) Spokane Valley Transition SchoolDual Credit BarChart.png "Spokane Valley Transition School Dual Credit Participation")
+[Spokane Valley Transition School](pages/Dual Credit BarChartWest Valley School District (Spokane) Spokane Valley Transition School.png "Spokane Valley Transition School Dual Credit Participation")
 
-[West Valley High School](pages/West Valley School District (Spokane) West Valley High SchoolDual Credit BarChart.png "West Valley High School Dual Credit Participation")
+[West Valley High School](pages/Dual Credit BarChartWest Valley School District (Spokane) West Valley High School.png "West Valley High School Dual Credit Participation")
 
 
 ___

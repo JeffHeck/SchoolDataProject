@@ -5,7 +5,7 @@ permalink: grapeview school district
 ---
 
 
-[Grapeview School District Historical Demographics](pages/Grapeview School District Historical Demographics.png "Grapeview School District Historical Demographics")
+[Grapeview School District Historical Demographics](pages/Historical Demographics for the Grapeview School District.png "Grapeview School District Historical Demographics")
 
 ___
 

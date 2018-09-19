@@ -5,7 +5,7 @@ permalink: garfield school district
 ---
 
 
-[Garfield School District Historical Demographics](pages/Garfield School District Historical Demographics.png "Garfield School District Historical Demographics")
+[Garfield School District Historical Demographics](pages/Historical Demographics for the Garfield School District.png "Garfield School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Garfield at Palouse High School](pages/Garfield School District Garfield at Palouse High SchoolDual Credit BarChart.png "Garfield at Palouse High School Dual Credit Participation")
+[Garfield at Palouse High School](pages/Dual Credit BarChartGarfield School District Garfield at Palouse High School.png "Garfield at Palouse High School Dual Credit Participation")
 
 
 ___

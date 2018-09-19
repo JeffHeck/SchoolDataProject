@@ -5,7 +5,7 @@ permalink: east valley school district (yakima)
 ---
 
 
-[East Valley School District (Yakima) Historical Demographics](pages/East Valley School District (Yakima) Historical Demographics.png "East Valley School District (Yakima) Historical Demographics")
+[East Valley School District (Yakima) Historical Demographics](pages/Historical Demographics for the East Valley School District (Yakima).png "East Valley School District (Yakima) Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[East Valley Central Middle School](pages/East Valley School District (Yakima) East Valley Central Middle SchoolDual Credit BarChart.png "East Valley Central Middle School Dual Credit Participation")
+[East Valley Central Middle School](pages/Dual Credit BarChartEast Valley School District (Yakima) East Valley Central Middle School.png "East Valley Central Middle School Dual Credit Participation")
 
-[East Valley High School](pages/East Valley School District (Yakima) East Valley High SchoolDual Credit BarChart.png "East Valley High School Dual Credit Participation")
+[East Valley High School](pages/Dual Credit BarChartEast Valley School District (Yakima) East Valley High School.png "East Valley High School Dual Credit Participation")
 
 
 ___

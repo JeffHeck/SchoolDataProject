@@ -5,7 +5,7 @@ permalink: okanogan school district
 ---
 
 
-[Okanogan School District Historical Demographics](pages/Okanogan School District Historical Demographics.png "Okanogan School District Historical Demographics")
+[Okanogan School District Historical Demographics](pages/Historical Demographics for the Okanogan School District.png "Okanogan School District Historical Demographics")
 
 ___
 
@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[Okanogan Alternative High School](pages/Okanogan School District Okanogan Alternative High SchoolDual Credit BarChart.png "Okanogan Alternative High School Dual Credit Participation")
+[Okanogan Alternative High School](pages/Dual Credit BarChartOkanogan School District Okanogan Alternative High School.png "Okanogan Alternative High School Dual Credit Participation")
 
-[Okanogan High School](pages/Okanogan School District Okanogan High SchoolDual Credit BarChart.png "Okanogan High School Dual Credit Participation")
+[Okanogan High School](pages/Dual Credit BarChartOkanogan School District Okanogan High School.png "Okanogan High School Dual Credit Participation")
 
-[Okanogan Outreach Alternative School](pages/Okanogan School District Okanogan Outreach Alternative SchoolDual Credit BarChart.png "Okanogan Outreach Alternative School Dual Credit Participation")
+[Okanogan Outreach Alternative School](pages/Dual Credit BarChartOkanogan School District Okanogan Outreach Alternative School.png "Okanogan Outreach Alternative School Dual Credit Participation")
 
 
 ___

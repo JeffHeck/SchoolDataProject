@@ -5,7 +5,7 @@ permalink: enumclaw school district
 ---
 
 
-[Enumclaw School District Historical Demographics](pages/Enumclaw School District Historical Demographics.png "Enumclaw School District Historical Demographics")
+[Enumclaw School District Historical Demographics](pages/Historical Demographics for the Enumclaw School District.png "Enumclaw School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Enumclaw Middle School](pages/Enumclaw School District Enumclaw Middle SchoolDual Credit BarChart.png "Enumclaw Middle School Dual Credit Participation")
+[Enumclaw Middle School](pages/Dual Credit BarChartEnumclaw School District Enumclaw Middle School.png "Enumclaw Middle School Dual Credit Participation")
 
-[Enumclaw Sr High School](pages/Enumclaw School District Enumclaw Sr High SchoolDual Credit BarChart.png "Enumclaw Sr High School Dual Credit Participation")
+[Enumclaw Sr High School](pages/Dual Credit BarChartEnumclaw School District Enumclaw Sr High School.png "Enumclaw Sr High School Dual Credit Participation")
 
-[Thunder Mountain Middle School](pages/Enumclaw School District Thunder Mountain Middle SchoolDual Credit BarChart.png "Thunder Mountain Middle School Dual Credit Participation")
+[Thunder Mountain Middle School](pages/Dual Credit BarChartEnumclaw School District Thunder Mountain Middle School.png "Thunder Mountain Middle School Dual Credit Participation")
 
 
 ___

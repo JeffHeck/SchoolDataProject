@@ -5,7 +5,7 @@ permalink: wilbur school district
 ---
 
 
-[Wilbur School District Historical Demographics](pages/Wilbur School District Historical Demographics.png "Wilbur School District Historical Demographics")
+[Wilbur School District Historical Demographics](pages/Historical Demographics for the Wilbur School District.png "Wilbur School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Wilbur Secondary School](pages/Wilbur School District Wilbur Secondary SchoolDual Credit BarChart.png "Wilbur Secondary School Dual Credit Participation")
+[Wilbur Secondary School](pages/Dual Credit BarChartWilbur School District Wilbur Secondary School.png "Wilbur Secondary School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: zillah school district
 ---
 
 
-[Zillah School District Historical Demographics](pages/Zillah School District Historical Demographics.png "Zillah School District Historical Demographics")
+[Zillah School District Historical Demographics](pages/Historical Demographics for the Zillah School District.png "Zillah School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Zillah High School](pages/Zillah School District Zillah High SchoolDual Credit BarChart.png "Zillah High School Dual Credit Participation")
+[Zillah High School](pages/Dual Credit BarChartZillah School District Zillah High School.png "Zillah High School Dual Credit Participation")
 
 
 ___

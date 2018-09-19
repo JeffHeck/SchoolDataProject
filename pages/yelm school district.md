@@ -5,7 +5,7 @@ permalink: yelm school district
 ---
 
 
-[Yelm School District Historical Demographics](pages/Yelm School District Historical Demographics.png "Yelm School District Historical Demographics")
+[Yelm School District Historical Demographics](pages/Historical Demographics for the Yelm School District.png "Yelm School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Ridgeline Middle School](pages/Yelm School District Ridgeline Middle SchoolDual Credit BarChart.png "Ridgeline Middle School Dual Credit Participation")
+[Ridgeline Middle School](pages/Dual Credit BarChartYelm School District Ridgeline Middle School.png "Ridgeline Middle School Dual Credit Participation")
 
-[Yelm Extension School](pages/Yelm School District Yelm Extension SchoolDual Credit BarChart.png "Yelm Extension School Dual Credit Participation")
+[Yelm Extension School](pages/Dual Credit BarChartYelm School District Yelm Extension School.png "Yelm Extension School Dual Credit Participation")
 
-[Yelm High School 12](pages/Yelm School District Yelm High School 12Dual Credit BarChart.png "Yelm High School 12 Dual Credit Participation")
+[Yelm High School 12](pages/Dual Credit BarChartYelm School District Yelm High School 12.png "Yelm High School 12 Dual Credit Participation")
 
-[Yelm Middle School](pages/Yelm School District Yelm Middle SchoolDual Credit BarChart.png "Yelm Middle School Dual Credit Participation")
+[Yelm Middle School](pages/Dual Credit BarChartYelm School District Yelm Middle School.png "Yelm Middle School Dual Credit Participation")
 
 
 ___

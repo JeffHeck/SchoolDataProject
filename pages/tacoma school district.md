@@ -5,7 +5,7 @@ permalink: tacoma school district
 ---
 
 
-[Tacoma School District Historical Demographics](pages/Tacoma School District Historical Demographics.png "Tacoma School District Historical Demographics")
+[Tacoma School District Historical Demographics](pages/Historical Demographics for the Tacoma School District.png "Tacoma School District Historical Demographics")
 
 ___
 
@@ -39,31 +39,31 @@ ___
 
 ## Dual Credit Participation
 
-[Comm Based Trans Program](pages/Tacoma School District Comm Based Trans ProgramDual Credit BarChart.png "Comm Based Trans Program Dual Credit Participation")
+[Comm Based Trans Program](pages/Dual Credit BarChartTacoma School District Comm Based Trans Program.png "Comm Based Trans Program Dual Credit Participation")
 
-[Day Reporting School](pages/Tacoma School District Day Reporting SchoolDual Credit BarChart.png "Day Reporting School Dual Credit Participation")
+[Day Reporting School](pages/Dual Credit BarChartTacoma School District Day Reporting School.png "Day Reporting School Dual Credit Participation")
 
-[Foss](pages/Tacoma School District FossDual Credit BarChart.png "Foss Dual Credit Participation")
+[Foss](pages/Dual Credit BarChartTacoma School District Foss.png "Foss Dual Credit Participation")
 
-[Fresh Start](pages/Tacoma School District Fresh StartDual Credit BarChart.png "Fresh Start Dual Credit Participation")
+[Fresh Start](pages/Dual Credit BarChartTacoma School District Fresh Start.png "Fresh Start Dual Credit Participation")
 
-[Industrial Design Engineering and Art](pages/Tacoma School District Industrial Design Engineering and ArtDual Credit BarChart.png "Industrial Design Engineering and Art Dual Credit Participation")
+[Industrial Design Engineering and Art](pages/Dual Credit BarChartTacoma School District Industrial Design Engineering and Art.png "Industrial Design Engineering and Art Dual Credit Participation")
 
-[Lincoln](pages/Tacoma School District LincolnDual Credit BarChart.png "Lincoln Dual Credit Participation")
+[Lincoln](pages/Dual Credit BarChartTacoma School District Lincoln.png "Lincoln Dual Credit Participation")
 
-[Mt Tahoma](pages/Tacoma School District Mt TahomaDual Credit BarChart.png "Mt Tahoma Dual Credit Participation")
+[Mt Tahoma](pages/Dual Credit BarChartTacoma School District Mt Tahoma.png "Mt Tahoma Dual Credit Participation")
 
-[Oakland High School](pages/Tacoma School District Oakland High SchoolDual Credit BarChart.png "Oakland High School Dual Credit Participation")
+[Oakland High School](pages/Dual Credit BarChartTacoma School District Oakland High School.png "Oakland High School Dual Credit Participation")
 
-[Pearl Street Center](pages/Tacoma School District Pearl Street CenterDual Credit BarChart.png "Pearl Street Center Dual Credit Participation")
+[Pearl Street Center](pages/Dual Credit BarChartTacoma School District Pearl Street Center.png "Pearl Street Center Dual Credit Participation")
 
-[Science and Math Institute](pages/Tacoma School District Science and Math InstituteDual Credit BarChart.png "Science and Math Institute Dual Credit Participation")
+[Science and Math Institute](pages/Dual Credit BarChartTacoma School District Science and Math Institute.png "Science and Math Institute Dual Credit Participation")
 
-[Stadium](pages/Tacoma School District StadiumDual Credit BarChart.png "Stadium Dual Credit Participation")
+[Stadium](pages/Dual Credit BarChartTacoma School District Stadium.png "Stadium Dual Credit Participation")
 
-[Tacoma School of the Arts](pages/Tacoma School District Tacoma School of the ArtsDual Credit BarChart.png "Tacoma School of the Arts Dual Credit Participation")
+[Tacoma School of the Arts](pages/Dual Credit BarChartTacoma School District Tacoma School of the Arts.png "Tacoma School of the Arts Dual Credit Participation")
 
-[Wilson](pages/Tacoma School District WilsonDual Credit BarChart.png "Wilson Dual Credit Participation")
+[Wilson](pages/Dual Credit BarChartTacoma School District Wilson.png "Wilson Dual Credit Participation")
 
 
 ___

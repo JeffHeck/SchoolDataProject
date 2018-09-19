@@ -5,7 +5,7 @@ permalink: issaquah school district
 ---
 
 
-[Issaquah School District Historical Demographics](pages/Issaquah School District Historical Demographics.png "Issaquah School District Historical Demographics")
+[Issaquah School District Historical Demographics](pages/Historical Demographics for the Issaquah School District.png "Issaquah School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Issaquah High School](pages/Issaquah School District Issaquah High SchoolDual Credit BarChart.png "Issaquah High School Dual Credit Participation")
+[Issaquah High School](pages/Dual Credit BarChartIssaquah School District Issaquah High School.png "Issaquah High School Dual Credit Participation")
 
-[Liberty Sr High School](pages/Issaquah School District Liberty Sr High SchoolDual Credit BarChart.png "Liberty Sr High School Dual Credit Participation")
+[Liberty Sr High School](pages/Dual Credit BarChartIssaquah School District Liberty Sr High School.png "Liberty Sr High School Dual Credit Participation")
 
-[Skyline High School](pages/Issaquah School District Skyline High SchoolDual Credit BarChart.png "Skyline High School Dual Credit Participation")
+[Skyline High School](pages/Dual Credit BarChartIssaquah School District Skyline High School.png "Skyline High School Dual Credit Participation")
 
 
 ___

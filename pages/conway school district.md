@@ -5,7 +5,7 @@ permalink: conway school district
 ---
 
 
-[Conway School District Historical Demographics](pages/Conway School District Historical Demographics.png "Conway School District Historical Demographics")
+[Conway School District Historical Demographics](pages/Historical Demographics for the Conway School District.png "Conway School District Historical Demographics")
 
 ___
 

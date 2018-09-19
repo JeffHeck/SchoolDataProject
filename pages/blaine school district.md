@@ -5,7 +5,7 @@ permalink: blaine school district
 ---
 
 
-[Blaine School District Historical Demographics](pages/Blaine School District Historical Demographics.png "Blaine School District Historical Demographics")
+[Blaine School District Historical Demographics](pages/Historical Demographics for the Blaine School District.png "Blaine School District Historical Demographics")
 
 ___
 
@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[Blaine High School](pages/Blaine School District Blaine High SchoolDual Credit BarChart.png "Blaine High School Dual Credit Participation")
+[Blaine High School](pages/Dual Credit BarChartBlaine School District Blaine High School.png "Blaine High School Dual Credit Participation")
 
-[Blaine Home Connections](pages/Blaine School District Blaine Home ConnectionsDual Credit BarChart.png "Blaine Home Connections Dual Credit Participation")
+[Blaine Home Connections](pages/Dual Credit BarChartBlaine School District Blaine Home Connections.png "Blaine Home Connections Dual Credit Participation")
 
-[Blaine Re-Engagement](pages/Blaine School District Blaine Re-EngagementDual Credit BarChart.png "Blaine Re-Engagement Dual Credit Participation")
+[Blaine Re-Engagement](pages/Dual Credit BarChartBlaine School District Blaine Re-Engagement.png "Blaine Re-Engagement Dual Credit Participation")
 
 
 ___

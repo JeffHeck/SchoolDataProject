@@ -5,7 +5,7 @@ permalink: wellpinit school district
 ---
 
 
-[Wellpinit School District Historical Demographics](pages/Wellpinit School District Historical Demographics.png "Wellpinit School District Historical Demographics")
+[Wellpinit School District Historical Demographics](pages/Historical Demographics for the Wellpinit School District.png "Wellpinit School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Wellpinit Alliance High School](pages/Wellpinit School District Wellpinit Alliance High SchoolDual Credit BarChart.png "Wellpinit Alliance High School Dual Credit Participation")
+[Wellpinit Alliance High School](pages/Dual Credit BarChartWellpinit School District Wellpinit Alliance High School.png "Wellpinit Alliance High School Dual Credit Participation")
 
-[Wellpinit Fort Simcoe SEA](pages/Wellpinit School District Wellpinit Fort Simcoe SEADual Credit BarChart.png "Wellpinit Fort Simcoe SEA Dual Credit Participation")
+[Wellpinit Fort Simcoe SEA](pages/Dual Credit BarChartWellpinit School District Wellpinit Fort Simcoe SEA.png "Wellpinit Fort Simcoe SEA Dual Credit Participation")
 
-[Wellpinit High School](pages/Wellpinit School District Wellpinit High SchoolDual Credit BarChart.png "Wellpinit High School Dual Credit Participation")
+[Wellpinit High School](pages/Dual Credit BarChartWellpinit School District Wellpinit High School.png "Wellpinit High School Dual Credit Participation")
 
-[Wellpinit-Fort Simcoe High School](pages/Wellpinit School District Wellpinit-Fort Simcoe High SchoolDual Credit BarChart.png "Wellpinit-Fort Simcoe High School Dual Credit Participation")
+[Wellpinit-Fort Simcoe High School](pages/Dual Credit BarChartWellpinit School District Wellpinit-Fort Simcoe High School.png "Wellpinit-Fort Simcoe High School Dual Credit Participation")
 
 
 ___

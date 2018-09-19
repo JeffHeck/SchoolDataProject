@@ -5,7 +5,7 @@ permalink: highland school district
 ---
 
 
-[Highland School District Historical Demographics](pages/Highland School District Historical Demographics.png "Highland School District Historical Demographics")
+[Highland School District Historical Demographics](pages/Historical Demographics for the Highland School District.png "Highland School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Highland High School](pages/Highland School District Highland High SchoolDual Credit BarChart.png "Highland High School Dual Credit Participation")
+[Highland High School](pages/Dual Credit BarChartHighland School District Highland High School.png "Highland High School Dual Credit Participation")
 
 
 ___

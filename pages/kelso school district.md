@@ -5,7 +5,7 @@ permalink: kelso school district
 ---
 
 
-[Kelso School District Historical Demographics](pages/Kelso School District Historical Demographics.png "Kelso School District Historical Demographics")
+[Kelso School District Historical Demographics](pages/Historical Demographics for the Kelso School District.png "Kelso School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Kelso High School](pages/Kelso School District Kelso High SchoolDual Credit BarChart.png "Kelso High School Dual Credit Participation")
+[Kelso High School](pages/Dual Credit BarChartKelso School District Kelso High School.png "Kelso High School Dual Credit Participation")
 
-[Kelso Virtual Academy](pages/Kelso School District Kelso Virtual AcademyDual Credit BarChart.png "Kelso Virtual Academy Dual Credit Participation")
+[Kelso Virtual Academy](pages/Dual Credit BarChartKelso School District Kelso Virtual Academy.png "Kelso Virtual Academy Dual Credit Participation")
 
-[Loowit High School](pages/Kelso School District Loowit High SchoolDual Credit BarChart.png "Loowit High School Dual Credit Participation")
+[Loowit High School](pages/Dual Credit BarChartKelso School District Loowit High School.png "Loowit High School Dual Credit Participation")
 
 
 ___

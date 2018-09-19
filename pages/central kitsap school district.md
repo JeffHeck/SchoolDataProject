@@ -5,7 +5,7 @@ permalink: central kitsap school district
 ---
 
 
-[Central Kitsap School District Historical Demographics](pages/Central Kitsap School District Historical Demographics.png "Central Kitsap School District Historical Demographics")
+[Central Kitsap School District Historical Demographics](pages/Historical Demographics for the Central Kitsap School District.png "Central Kitsap School District Historical Demographics")
 
 ___
 
@@ -39,21 +39,21 @@ ___
 
 ## Dual Credit Participation
 
-[Alternative High School](pages/Central Kitsap School District Alternative High SchoolDual Credit BarChart.png "Alternative High School Dual Credit Participation")
+[Alternative High School](pages/Dual Credit BarChartCentral Kitsap School District Alternative High School.png "Alternative High School Dual Credit Participation")
 
-[Central Kitsap High School](pages/Central Kitsap School District Central Kitsap High SchoolDual Credit BarChart.png "Central Kitsap High School Dual Credit Participation")
+[Central Kitsap High School](pages/Dual Credit BarChartCentral Kitsap School District Central Kitsap High School.png "Central Kitsap High School Dual Credit Participation")
 
-[Central Kitsap Middle School](pages/Central Kitsap School District Central Kitsap Middle SchoolDual Credit BarChart.png "Central Kitsap Middle School Dual Credit Participation")
+[Central Kitsap Middle School](pages/Dual Credit BarChartCentral Kitsap School District Central Kitsap Middle School.png "Central Kitsap Middle School Dual Credit Participation")
 
-[Fairview Middle School](pages/Central Kitsap School District Fairview Middle SchoolDual Credit BarChart.png "Fairview Middle School Dual Credit Participation")
+[Fairview Middle School](pages/Dual Credit BarChartCentral Kitsap School District Fairview Middle School.png "Fairview Middle School Dual Credit Participation")
 
-[Klahowya Secondary](pages/Central Kitsap School District Klahowya SecondaryDual Credit BarChart.png "Klahowya Secondary Dual Credit Participation")
+[Klahowya Secondary](pages/Dual Credit BarChartCentral Kitsap School District Klahowya Secondary.png "Klahowya Secondary Dual Credit Participation")
 
-[Off Campus](pages/Central Kitsap School District Off CampusDual Credit BarChart.png "Off Campus Dual Credit Participation")
+[Off Campus](pages/Dual Credit BarChartCentral Kitsap School District Off Campus.png "Off Campus Dual Credit Participation")
 
-[Olympic High School](pages/Central Kitsap School District Olympic High SchoolDual Credit BarChart.png "Olympic High School Dual Credit Participation")
+[Olympic High School](pages/Dual Credit BarChartCentral Kitsap School District Olympic High School.png "Olympic High School Dual Credit Participation")
 
-[Ridgetop Middle School](pages/Central Kitsap School District Ridgetop Middle SchoolDual Credit BarChart.png "Ridgetop Middle School Dual Credit Participation")
+[Ridgetop Middle School](pages/Dual Credit BarChartCentral Kitsap School District Ridgetop Middle School.png "Ridgetop Middle School Dual Credit Participation")
 
 
 ___

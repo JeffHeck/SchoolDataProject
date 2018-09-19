@@ -5,7 +5,7 @@ permalink: central valley school district
 ---
 
 
-[Central Valley School District Historical Demographics](pages/Central Valley School District Historical Demographics.png "Central Valley School District Historical Demographics")
+[Central Valley School District Historical Demographics](pages/Historical Demographics for the Central Valley School District.png "Central Valley School District Historical Demographics")
 
 ___
 
@@ -39,19 +39,19 @@ ___
 
 ## Dual Credit Participation
 
-[CVSD Open Doors Programs](pages/Central Valley School District CVSD Open Doors ProgramsDual Credit BarChart.png "CVSD Open Doors Programs Dual Credit Participation")
+[CVSD Open Doors Programs](pages/Dual Credit BarChartCentral Valley School District CVSD Open Doors Programs.png "CVSD Open Doors Programs Dual Credit Participation")
 
-[Central Valley High School](pages/Central Valley School District Central Valley High SchoolDual Credit BarChart.png "Central Valley High School Dual Credit Participation")
+[Central Valley High School](pages/Dual Credit BarChartCentral Valley School District Central Valley High School.png "Central Valley High School Dual Credit Participation")
 
-[I-TRACC](pages/Central Valley School District I-TRACCDual Credit BarChart.png "I-TRACC Dual Credit Participation")
+[I-TRACC](pages/Dual Credit BarChartCentral Valley School District I-TRACC.png "I-TRACC Dual Credit Participation")
 
-[Mica Peak High School](pages/Central Valley School District Mica Peak High SchoolDual Credit BarChart.png "Mica Peak High School Dual Credit Participation")
+[Mica Peak High School](pages/Dual Credit BarChartCentral Valley School District Mica Peak High School.png "Mica Peak High School Dual Credit Participation")
 
-[School to Life](pages/Central Valley School District School to LifeDual Credit BarChart.png "School to Life Dual Credit Participation")
+[School to Life](pages/Dual Credit BarChartCentral Valley School District School to Life.png "School to Life Dual Credit Participation")
 
-[Spokane Valley Learning Academy](pages/Central Valley School District Spokane Valley Learning AcademyDual Credit BarChart.png "Spokane Valley Learning Academy Dual Credit Participation")
+[Spokane Valley Learning Academy](pages/Dual Credit BarChartCentral Valley School District Spokane Valley Learning Academy.png "Spokane Valley Learning Academy Dual Credit Participation")
 
-[University High School](pages/Central Valley School District University High SchoolDual Credit BarChart.png "University High School Dual Credit Participation")
+[University High School](pages/Dual Credit BarChartCentral Valley School District University High School.png "University High School Dual Credit Participation")
 
 
 ___

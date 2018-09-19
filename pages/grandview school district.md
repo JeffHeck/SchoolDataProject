@@ -5,7 +5,7 @@ permalink: grandview school district
 ---
 
 
-[Grandview School District Historical Demographics](pages/Grandview School District Historical Demographics.png "Grandview School District Historical Demographics")
+[Grandview School District Historical Demographics](pages/Historical Demographics for the Grandview School District.png "Grandview School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Compass High School](pages/Grandview School District Compass High SchoolDual Credit BarChart.png "Compass High School Dual Credit Participation")
+[Compass High School](pages/Dual Credit BarChartGrandview School District Compass High School.png "Compass High School Dual Credit Participation")
 
-[Contract Learning Center](pages/Grandview School District Contract Learning CenterDual Credit BarChart.png "Contract Learning Center Dual Credit Participation")
+[Contract Learning Center](pages/Dual Credit BarChartGrandview School District Contract Learning Center.png "Contract Learning Center Dual Credit Participation")
 
-[Grandview High School](pages/Grandview School District Grandview High SchoolDual Credit BarChart.png "Grandview High School Dual Credit Participation")
+[Grandview High School](pages/Dual Credit BarChartGrandview School District Grandview High School.png "Grandview High School Dual Credit Participation")
 
 
 ___

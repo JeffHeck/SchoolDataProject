@@ -5,7 +5,7 @@ permalink: marysville school district
 ---
 
 
-[Marysville School District Historical Demographics](pages/Marysville School District Historical Demographics.png "Marysville School District Historical Demographics")
+[Marysville School District Historical Demographics](pages/Historical Demographics for the Marysville School District.png "Marysville School District Historical Demographics")
 
 ___
 
@@ -39,25 +39,25 @@ ___
 
 ## Dual Credit Participation
 
-[Academy of Const and Engineering](pages/Marysville School District Academy of Const and EngineeringDual Credit BarChart.png "Academy of Const and Engineering Dual Credit Participation")
+[Academy of Const and Engineering](pages/Dual Credit BarChartMarysville School District Academy of Const and Engineering.png "Academy of Const and Engineering Dual Credit Participation")
 
-[Bio Med Academy](pages/Marysville School District Bio Med AcademyDual Credit BarChart.png "Bio Med Academy Dual Credit Participation")
+[Bio Med Academy](pages/Dual Credit BarChartMarysville School District Bio Med Academy.png "Bio Med Academy Dual Credit Participation")
 
-[Heritage School](pages/Marysville School District Heritage SchoolDual Credit BarChart.png "Heritage School Dual Credit Participation")
+[Heritage School](pages/Dual Credit BarChartMarysville School District Heritage School.png "Heritage School Dual Credit Participation")
 
-[Intl Sch of Communications](pages/Marysville School District Intl Sch of CommunicationsDual Credit BarChart.png "Intl Sch of Communications Dual Credit Participation")
+[Intl Sch of Communications](pages/Dual Credit BarChartMarysville School District Intl Sch of Communications.png "Intl Sch of Communications Dual Credit Participation")
 
-[Marysville Arts and Technology High School](pages/Marysville School District Marysville Arts and Technology High SchoolDual Credit BarChart.png "Marysville Arts and Technology High School Dual Credit Participation")
+[Marysville Arts and Technology High School](pages/Dual Credit BarChartMarysville School District Marysville Arts and Technology High School.png "Marysville Arts and Technology High School Dual Credit Participation")
 
-[Marysville Mountain View High School](pages/Marysville School District Marysville Mountain View High SchoolDual Credit BarChart.png "Marysville Mountain View High School Dual Credit Participation")
+[Marysville Mountain View High School](pages/Dual Credit BarChartMarysville School District Marysville Mountain View High School.png "Marysville Mountain View High School Dual Credit Participation")
 
-[Marysville NWESD 189 Youth Engagement](pages/Marysville School District Marysville NWESD 189 Youth EngagementDual Credit BarChart.png "Marysville NWESD 189 Youth Engagement Dual Credit Participation")
+[Marysville NWESD 189 Youth Engagement](pages/Dual Credit BarChartMarysville School District Marysville NWESD 189 Youth Engagement.png "Marysville NWESD 189 Youth Engagement Dual Credit Participation")
 
-[Marysville Pilchuck High School](pages/Marysville School District Marysville Pilchuck High SchoolDual Credit BarChart.png "Marysville Pilchuck High School Dual Credit Participation")
+[Marysville Pilchuck High School](pages/Dual Credit BarChartMarysville School District Marysville Pilchuck High School.png "Marysville Pilchuck High School Dual Credit Participation")
 
-[School Home Partnership Program](pages/Marysville School District School Home Partnership ProgramDual Credit BarChart.png "School Home Partnership Program Dual Credit Participation")
+[School Home Partnership Program](pages/Dual Credit BarChartMarysville School District School Home Partnership Program.png "School Home Partnership Program Dual Credit Participation")
 
-[School for the Entrepreneur](pages/Marysville School District School for the EntrepreneurDual Credit BarChart.png "School for the Entrepreneur Dual Credit Participation")
+[School for the Entrepreneur](pages/Dual Credit BarChartMarysville School District School for the Entrepreneur.png "School for the Entrepreneur Dual Credit Participation")
 
 
 ___

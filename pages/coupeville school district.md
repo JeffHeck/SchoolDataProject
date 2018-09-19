@@ -5,7 +5,7 @@ permalink: coupeville school district
 ---
 
 
-[Coupeville School District Historical Demographics](pages/Coupeville School District Historical Demographics.png "Coupeville School District Historical Demographics")
+[Coupeville School District Historical Demographics](pages/Historical Demographics for the Coupeville School District.png "Coupeville School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Coupeville High School](pages/Coupeville School District Coupeville High SchoolDual Credit BarChart.png "Coupeville High School Dual Credit Participation")
+[Coupeville High School](pages/Dual Credit BarChartCoupeville School District Coupeville High School.png "Coupeville High School Dual Credit Participation")
 
-[Open Den](pages/Coupeville School District Open DenDual Credit BarChart.png "Open Den Dual Credit Participation")
+[Open Den](pages/Dual Credit BarChartCoupeville School District Open Den.png "Open Den Dual Credit Participation")
 
 
 ___

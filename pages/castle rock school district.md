@@ -5,7 +5,7 @@ permalink: castle rock school district
 ---
 
 
-[Castle Rock School District Historical Demographics](pages/Castle Rock School District Historical Demographics.png "Castle Rock School District Historical Demographics")
+[Castle Rock School District Historical Demographics](pages/Historical Demographics for the Castle Rock School District.png "Castle Rock School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Castle Rock High School](pages/Castle Rock School District Castle Rock High SchoolDual Credit BarChart.png "Castle Rock High School Dual Credit Participation")
+[Castle Rock High School](pages/Dual Credit BarChartCastle Rock School District Castle Rock High School.png "Castle Rock High School Dual Credit Participation")
 
 
 ___

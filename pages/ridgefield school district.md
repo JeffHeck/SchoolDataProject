@@ -5,7 +5,7 @@ permalink: ridgefield school district
 ---
 
 
-[Ridgefield School District Historical Demographics](pages/Ridgefield School District Historical Demographics.png "Ridgefield School District Historical Demographics")
+[Ridgefield School District Historical Demographics](pages/Historical Demographics for the Ridgefield School District.png "Ridgefield School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Ridgefield High School](pages/Ridgefield School District Ridgefield High SchoolDual Credit BarChart.png "Ridgefield High School Dual Credit Participation")
+[Ridgefield High School](pages/Dual Credit BarChartRidgefield School District Ridgefield High School.png "Ridgefield High School Dual Credit Participation")
 
 
 ___

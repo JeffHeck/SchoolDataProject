@@ -5,13 +5,13 @@ permalink: sprague school district
 ---
 
 
-[Sprague School District Historical Demographics](pages/Sprague School District Historical Demographics.png "Sprague School District Historical Demographics")
+[Sprague School District Historical Demographics](pages/Historical Demographics for the Sprague School District.png "Sprague School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Sprague High School](pages/Sprague School District Sprague High SchoolDual Credit BarChart.png "Sprague High School Dual Credit Participation")
+[Sprague High School](pages/Dual Credit BarChartSprague School District Sprague High School.png "Sprague High School Dual Credit Participation")
 
 
 ___

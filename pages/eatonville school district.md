@@ -5,7 +5,7 @@ permalink: eatonville school district
 ---
 
 
-[Eatonville School District Historical Demographics](pages/Eatonville School District Historical Demographics.png "Eatonville School District Historical Demographics")
+[Eatonville School District Historical Demographics](pages/Historical Demographics for the Eatonville School District.png "Eatonville School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Eatonville High School](pages/Eatonville School District Eatonville High SchoolDual Credit BarChart.png "Eatonville High School Dual Credit Participation")
+[Eatonville High School](pages/Dual Credit BarChartEatonville School District Eatonville High School.png "Eatonville High School Dual Credit Participation")
 
 
 ___

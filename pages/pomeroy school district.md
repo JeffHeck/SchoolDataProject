@@ -5,7 +5,7 @@ permalink: pomeroy school district
 ---
 
 
-[Pomeroy School District Historical Demographics](pages/Pomeroy School District Historical Demographics.png "Pomeroy School District Historical Demographics")
+[Pomeroy School District Historical Demographics](pages/Historical Demographics for the Pomeroy School District.png "Pomeroy School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pomeroy Jr Sr High School](pages/Pomeroy School District Pomeroy Jr Sr High SchoolDual Credit BarChart.png "Pomeroy Jr Sr High School Dual Credit Participation")
+[Pomeroy Jr Sr High School](pages/Dual Credit BarChartPomeroy School District Pomeroy Jr Sr High School.png "Pomeroy Jr Sr High School Dual Credit Participation")
 
 
 ___

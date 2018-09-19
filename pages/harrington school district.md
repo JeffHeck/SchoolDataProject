@@ -5,7 +5,7 @@ permalink: harrington school district
 ---
 
 
-[Harrington School District Historical Demographics](pages/Harrington School District Historical Demographics.png "Harrington School District Historical Demographics")
+[Harrington School District Historical Demographics](pages/Historical Demographics for the Harrington School District.png "Harrington School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Harrington High School](pages/Harrington School District Harrington High SchoolDual Credit BarChart.png "Harrington High School Dual Credit Participation")
+[Harrington High School](pages/Dual Credit BarChartHarrington School District Harrington High School.png "Harrington High School Dual Credit Participation")
 
 
 ___

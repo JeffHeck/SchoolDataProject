@@ -5,7 +5,7 @@ permalink: soap lake school district
 ---
 
 
-[Soap Lake School District Historical Demographics](pages/Soap Lake School District Historical Demographics.png "Soap Lake School District Historical Demographics")
+[Soap Lake School District Historical Demographics](pages/Historical Demographics for the Soap Lake School District.png "Soap Lake School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Smokiam Alternative High School](pages/Soap Lake School District Smokiam Alternative High SchoolDual Credit BarChart.png "Smokiam Alternative High School Dual Credit Participation")
+[Smokiam Alternative High School](pages/Dual Credit BarChartSoap Lake School District Smokiam Alternative High School.png "Smokiam Alternative High School Dual Credit Participation")
 
-[Soap Lake Middle   High School](pages/Soap Lake School District Soap Lake Middle   High SchoolDual Credit BarChart.png "Soap Lake Middle   High School Dual Credit Participation")
+[Soap Lake Middle   High School](pages/Dual Credit BarChartSoap Lake School District Soap Lake Middle   High School.png "Soap Lake Middle   High School Dual Credit Participation")
 
 
 ___

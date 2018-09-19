@@ -5,7 +5,7 @@ permalink: colton school district
 ---
 
 
-[Colton School District Historical Demographics](pages/Colton School District Historical Demographics.png "Colton School District Historical Demographics")
+[Colton School District Historical Demographics](pages/Historical Demographics for the Colton School District.png "Colton School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Colton School](pages/Colton School District Colton SchoolDual Credit BarChart.png "Colton School Dual Credit Participation")
+[Colton School](pages/Dual Credit BarChartColton School District Colton School.png "Colton School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: ocosta school district
 ---
 
 
-[Ocosta School District Historical Demographics](pages/Ocosta School District Historical Demographics.png "Ocosta School District Historical Demographics")
+[Ocosta School District Historical Demographics](pages/Historical Demographics for the Ocosta School District.png "Ocosta School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Ocosta Junior - Senior High](pages/Ocosta School District Ocosta Junior - Senior HighDual Credit BarChart.png "Ocosta Junior - Senior High Dual Credit Participation")
+[Ocosta Junior - Senior High](pages/Dual Credit BarChartOcosta School District Ocosta Junior - Senior High.png "Ocosta Junior - Senior High Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: washougal school district
 ---
 
 
-[Washougal School District Historical Demographics](pages/Washougal School District Historical Demographics.png "Washougal School District Historical Demographics")
+[Washougal School District Historical Demographics](pages/Historical Demographics for the Washougal School District.png "Washougal School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Excelsior High School](pages/Washougal School District Excelsior High SchoolDual Credit BarChart.png "Excelsior High School Dual Credit Participation")
+[Excelsior High School](pages/Dual Credit BarChartWashougal School District Excelsior High School.png "Excelsior High School Dual Credit Participation")
 
-[Washougal High School](pages/Washougal School District Washougal High SchoolDual Credit BarChart.png "Washougal High School Dual Credit Participation")
+[Washougal High School](pages/Dual Credit BarChartWashougal School District Washougal High School.png "Washougal High School Dual Credit Participation")
 
 
 ___

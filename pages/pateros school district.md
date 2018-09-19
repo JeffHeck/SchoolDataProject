@@ -5,7 +5,7 @@ permalink: pateros school district
 ---
 
 
-[Pateros School District Historical Demographics](pages/Pateros School District Historical Demographics.png "Pateros School District Historical Demographics")
+[Pateros School District Historical Demographics](pages/Historical Demographics for the Pateros School District.png "Pateros School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pateros High School](pages/Pateros School District Pateros High SchoolDual Credit BarChart.png "Pateros High School Dual Credit Participation")
+[Pateros High School](pages/Dual Credit BarChartPateros School District Pateros High School.png "Pateros High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: morton school district
 ---
 
 
-[Morton School District Historical Demographics](pages/Morton School District Historical Demographics.png "Morton School District Historical Demographics")
+[Morton School District Historical Demographics](pages/Historical Demographics for the Morton School District.png "Morton School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Morton Junior-Senior High](pages/Morton School District Morton Junior-Senior HighDual Credit BarChart.png "Morton Junior-Senior High Dual Credit Participation")
+[Morton Junior-Senior High](pages/Dual Credit BarChartMorton School District Morton Junior-Senior High.png "Morton Junior-Senior High Dual Credit Participation")
 
 
 ___

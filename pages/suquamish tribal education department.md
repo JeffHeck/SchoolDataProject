@@ -5,7 +5,7 @@ permalink: suquamish tribal education department
 ---
 
 
-[Suquamish Tribal Education Department Historical Demographics](pages/Suquamish Tribal Education Department Historical Demographics.png "Suquamish Tribal Education Department Historical Demographics")
+[Suquamish Tribal Education Department Historical Demographics](pages/Historical Demographics for the Suquamish Tribal Education Department.png "Suquamish Tribal Education Department Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Chief Kitsap Academy](pages/Suquamish Tribal Education Department Chief Kitsap AcademyDual Credit BarChart.png "Chief Kitsap Academy Dual Credit Participation")
+[Chief Kitsap Academy](pages/Dual Credit BarChartSuquamish Tribal Education Department Chief Kitsap Academy.png "Chief Kitsap Academy Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: toppenish school district
 ---
 
 
-[Toppenish School District Historical Demographics](pages/Toppenish School District Historical Demographics.png "Toppenish School District Historical Demographics")
+[Toppenish School District Historical Demographics](pages/Historical Demographics for the Toppenish School District.png "Toppenish School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Computer Academy Toppenish High School](pages/Toppenish School District Computer Academy Toppenish High SchoolDual Credit BarChart.png "Computer Academy Toppenish High School Dual Credit Participation")
+[Computer Academy Toppenish High School](pages/Dual Credit BarChartToppenish School District Computer Academy Toppenish High School.png "Computer Academy Toppenish High School Dual Credit Participation")
 
-[NW Allprep](pages/Toppenish School District NW AllprepDual Credit BarChart.png "NW Allprep Dual Credit Participation")
+[NW Allprep](pages/Dual Credit BarChartToppenish School District NW Allprep.png "NW Allprep Dual Credit Participation")
 
-[Toppenish High School](pages/Toppenish School District Toppenish High SchoolDual Credit BarChart.png "Toppenish High School Dual Credit Participation")
+[Toppenish High School](pages/Dual Credit BarChartToppenish School District Toppenish High School.png "Toppenish High School Dual Credit Participation")
 
-[Toppenish Middle School](pages/Toppenish School District Toppenish Middle SchoolDual Credit BarChart.png "Toppenish Middle School Dual Credit Participation")
+[Toppenish Middle School](pages/Dual Credit BarChartToppenish School District Toppenish Middle School.png "Toppenish Middle School Dual Credit Participation")
 
 
 ___

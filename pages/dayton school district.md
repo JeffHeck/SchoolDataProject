@@ -5,7 +5,7 @@ permalink: dayton school district
 ---
 
 
-[Dayton School District Historical Demographics](pages/Dayton School District Historical Demographics.png "Dayton School District Historical Demographics")
+[Dayton School District Historical Demographics](pages/Historical Demographics for the Dayton School District.png "Dayton School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Dayton High School](pages/Dayton School District Dayton High SchoolDual Credit BarChart.png "Dayton High School Dual Credit Participation")
+[Dayton High School](pages/Dual Credit BarChartDayton School District Dayton High School.png "Dayton High School Dual Credit Participation")
 
 
 ___

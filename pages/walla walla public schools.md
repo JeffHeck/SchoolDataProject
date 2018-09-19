@@ -5,7 +5,7 @@ permalink: walla walla public schools
 ---
 
 
-[Walla Walla Public Schools Historical Demographics](pages/Walla Walla Public Schools Historical Demographics.png "Walla Walla Public Schools Historical Demographics")
+[Walla Walla Public Schools Historical Demographics](pages/Historical Demographics for the Walla Walla Public Schools.png "Walla Walla Public Schools Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Alternative Education Program](pages/Walla Walla Public Schools Alternative Education ProgramDual Credit BarChart.png "Alternative Education Program Dual Credit Participation")
+[Alternative Education Program](pages/Dual Credit BarChartWalla Walla Public Schools Alternative Education Program.png "Alternative Education Program Dual Credit Participation")
 
-[Lincoln High School](pages/Walla Walla Public Schools Lincoln High SchoolDual Credit BarChart.png "Lincoln High School Dual Credit Participation")
+[Lincoln High School](pages/Dual Credit BarChartWalla Walla Public Schools Lincoln High School.png "Lincoln High School Dual Credit Participation")
 
-[Opportunity Youth Reengagement](pages/Walla Walla Public Schools Opportunity Youth ReengagementDual Credit BarChart.png "Opportunity Youth Reengagement Dual Credit Participation")
+[Opportunity Youth Reengagement](pages/Dual Credit BarChartWalla Walla Public Schools Opportunity Youth Reengagement.png "Opportunity Youth Reengagement Dual Credit Participation")
 
-[Walla Walla High School](pages/Walla Walla Public Schools Walla Walla High SchoolDual Credit BarChart.png "Walla Walla High School Dual Credit Participation")
+[Walla Walla High School](pages/Dual Credit BarChartWalla Walla Public Schools Walla Walla High School.png "Walla Walla High School Dual Credit Participation")
 
 
 ___

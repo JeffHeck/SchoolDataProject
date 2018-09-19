@@ -5,7 +5,7 @@ permalink: entiat school district
 ---
 
 
-[Entiat School District Historical Demographics](pages/Entiat School District Historical Demographics.png "Entiat School District Historical Demographics")
+[Entiat School District Historical Demographics](pages/Historical Demographics for the Entiat School District.png "Entiat School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Entiat Middle and High School](pages/Entiat School District Entiat Middle and High SchoolDual Credit BarChart.png "Entiat Middle and High School Dual Credit Participation")
+[Entiat Middle and High School](pages/Dual Credit BarChartEntiat School District Entiat Middle and High School.png "Entiat Middle and High School Dual Credit Participation")
 
 
 ___

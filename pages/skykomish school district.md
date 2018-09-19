@@ -5,13 +5,13 @@ permalink: skykomish school district
 ---
 
 
-[Skykomish School District Historical Demographics](pages/Skykomish School District Historical Demographics.png "Skykomish School District Historical Demographics")
+[Skykomish School District Historical Demographics](pages/Historical Demographics for the Skykomish School District.png "Skykomish School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Skykomish High School](pages/Skykomish School District Skykomish High SchoolDual Credit BarChart.png "Skykomish High School Dual Credit Participation")
+[Skykomish High School](pages/Dual Credit BarChartSkykomish School District Skykomish High School.png "Skykomish High School Dual Credit Participation")
 
 
 ___

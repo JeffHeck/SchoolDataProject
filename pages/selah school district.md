@@ -5,15 +5,15 @@ permalink: selah school district
 ---
 
 
-[Selah School District Historical Demographics](pages/Selah School District Historical Demographics.png "Selah School District Historical Demographics")
+[Selah School District Historical Demographics](pages/Historical Demographics for the Selah School District.png "Selah School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Selah Academy](pages/Selah School District Selah AcademyDual Credit BarChart.png "Selah Academy Dual Credit Participation")
+[Selah Academy](pages/Dual Credit BarChartSelah School District Selah Academy.png "Selah Academy Dual Credit Participation")
 
-[Selah High School](pages/Selah School District Selah High SchoolDual Credit BarChart.png "Selah High School Dual Credit Participation")
+[Selah High School](pages/Dual Credit BarChartSelah School District Selah High School.png "Selah High School Dual Credit Participation")
 
 
 ___

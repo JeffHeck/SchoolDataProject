@@ -5,7 +5,7 @@ permalink: san juan island school district
 ---
 
 
-[San Juan Island School District Historical Demographics](pages/San Juan Island School District Historical Demographics.png "San Juan Island School District Historical Demographics")
+[San Juan Island School District Historical Demographics](pages/Historical Demographics for the San Juan Island School District.png "San Juan Island School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Friday Harbor High School](pages/San Juan Island School District Friday Harbor High SchoolDual Credit BarChart.png "Friday Harbor High School Dual Credit Participation")
+[Friday Harbor High School](pages/Dual Credit BarChartSan Juan Island School District Friday Harbor High School.png "Friday Harbor High School Dual Credit Participation")
 
-[Griffin Bay School](pages/San Juan Island School District Griffin Bay SchoolDual Credit BarChart.png "Griffin Bay School Dual Credit Participation")
+[Griffin Bay School](pages/Dual Credit BarChartSan Juan Island School District Griffin Bay School.png "Griffin Bay School Dual Credit Participation")
 
 
 ___

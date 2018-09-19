@@ -5,7 +5,7 @@ permalink: orient school district
 ---
 
 
-[Orient School District Historical Demographics](pages/Orient School District Historical Demographics.png "Orient School District Historical Demographics")
+[Orient School District Historical Demographics](pages/Historical Demographics for the Orient School District.png "Orient School District Historical Demographics")
 
 ___
 

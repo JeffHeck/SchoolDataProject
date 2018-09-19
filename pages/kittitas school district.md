@@ -5,7 +5,7 @@ permalink: kittitas school district
 ---
 
 
-[Kittitas School District Historical Demographics](pages/Kittitas School District Historical Demographics.png "Kittitas School District Historical Demographics")
+[Kittitas School District Historical Demographics](pages/Historical Demographics for the Kittitas School District.png "Kittitas School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Kittitas High School](pages/Kittitas School District Kittitas High SchoolDual Credit BarChart.png "Kittitas High School Dual Credit Participation")
+[Kittitas High School](pages/Dual Credit BarChartKittitas School District Kittitas High School.png "Kittitas High School Dual Credit Participation")
 
 
 ___

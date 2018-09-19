@@ -5,7 +5,7 @@ permalink: kent school district
 ---
 
 
-[Kent School District Historical Demographics](pages/Kent School District Historical Demographics.png "Kent School District Historical Demographics")
+[Kent School District Historical Demographics](pages/Historical Demographics for the Kent School District.png "Kent School District Historical Demographics")
 
 ___
 
@@ -39,21 +39,21 @@ ___
 
 ## Dual Credit Participation
 
-[Kent Mountain View Academy](pages/Kent School District Kent Mountain View AcademyDual Credit BarChart.png "Kent Mountain View Academy Dual Credit Participation")
+[Kent Mountain View Academy](pages/Dual Credit BarChartKent School District Kent Mountain View Academy.png "Kent Mountain View Academy Dual Credit Participation")
 
-[Kent Phoenix Academy](pages/Kent School District Kent Phoenix AcademyDual Credit BarChart.png "Kent Phoenix Academy Dual Credit Participation")
+[Kent Phoenix Academy](pages/Dual Credit BarChartKent School District Kent Phoenix Academy.png "Kent Phoenix Academy Dual Credit Participation")
 
-[Kent-Meridian High School](pages/Kent School District Kent-Meridian High SchoolDual Credit BarChart.png "Kent-Meridian High School Dual Credit Participation")
+[Kent-Meridian High School](pages/Dual Credit BarChartKent School District Kent-Meridian High School.png "Kent-Meridian High School Dual Credit Participation")
 
-[Kentlake High School](pages/Kent School District Kentlake High SchoolDual Credit BarChart.png "Kentlake High School Dual Credit Participation")
+[Kentlake High School](pages/Dual Credit BarChartKent School District Kentlake High School.png "Kentlake High School Dual Credit Participation")
 
-[Kentridge High School](pages/Kent School District Kentridge High SchoolDual Credit BarChart.png "Kentridge High School Dual Credit Participation")
+[Kentridge High School](pages/Dual Credit BarChartKent School District Kentridge High School.png "Kentridge High School Dual Credit Participation")
 
-[Kentwood High School](pages/Kent School District Kentwood High SchoolDual Credit BarChart.png "Kentwood High School Dual Credit Participation")
+[Kentwood High School](pages/Dual Credit BarChartKent School District Kentwood High School.png "Kentwood High School Dual Credit Participation")
 
-[Regional Justice Center](pages/Kent School District Regional Justice CenterDual Credit BarChart.png "Regional Justice Center Dual Credit Participation")
+[Regional Justice Center](pages/Dual Credit BarChartKent School District Regional Justice Center.png "Regional Justice Center Dual Credit Participation")
 
-[iGrad](pages/Kent School District iGradDual Credit BarChart.png "iGrad Dual Credit Participation")
+[iGrad](pages/Dual Credit BarChartKent School District iGrad.png "iGrad Dual Credit Participation")
 
 
 ___

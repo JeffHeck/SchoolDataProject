@@ -5,13 +5,13 @@ permalink: klickitat school district
 ---
 
 
-[Klickitat School District Historical Demographics](pages/Klickitat School District Historical Demographics.png "Klickitat School District Historical Demographics")
+[Klickitat School District Historical Demographics](pages/Historical Demographics for the Klickitat School District.png "Klickitat School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Klickitat Elem   High](pages/Klickitat School District Klickitat Elem   HighDual Credit BarChart.png "Klickitat Elem   High Dual Credit Participation")
+[Klickitat Elem   High](pages/Dual Credit BarChartKlickitat School District Klickitat Elem   High.png "Klickitat Elem   High Dual Credit Participation")
 
 
 ___

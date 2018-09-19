@@ -5,7 +5,7 @@ permalink: pride prep charter school district
 ---
 
 
-[PRIDE Prep Charter School District Historical Demographics](pages/PRIDE Prep Charter School District Historical Demographics.png "PRIDE Prep Charter School District Historical Demographics")
+[PRIDE Prep Charter School District Historical Demographics](pages/Historical Demographics for the PRIDE Prep Charter School District.png "PRIDE Prep Charter School District Historical Demographics")
 
 ___
 

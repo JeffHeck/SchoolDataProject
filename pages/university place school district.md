@@ -5,7 +5,7 @@ permalink: university place school district
 ---
 
 
-[University Place School District Historical Demographics](pages/University Place School District Historical Demographics.png "University Place School District Historical Demographics")
+[University Place School District Historical Demographics](pages/Historical Demographics for the University Place School District.png "University Place School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Curtis Junior High](pages/University Place School District Curtis Junior HighDual Credit BarChart.png "Curtis Junior High Dual Credit Participation")
+[Curtis Junior High](pages/Dual Credit BarChartUniversity Place School District Curtis Junior High.png "Curtis Junior High Dual Credit Participation")
 
-[Curtis Senior High](pages/University Place School District Curtis Senior HighDual Credit BarChart.png "Curtis Senior High Dual Credit Participation")
+[Curtis Senior High](pages/Dual Credit BarChartUniversity Place School District Curtis Senior High.png "Curtis Senior High Dual Credit Participation")
 
 
 ___

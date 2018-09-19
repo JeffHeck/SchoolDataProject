@@ -5,7 +5,7 @@ permalink: brinnon school district
 ---
 
 
-[Brinnon School District Historical Demographics](pages/Brinnon School District Historical Demographics.png "Brinnon School District Historical Demographics")
+[Brinnon School District Historical Demographics](pages/Historical Demographics for the Brinnon School District.png "Brinnon School District Historical Demographics")
 
 ___
 

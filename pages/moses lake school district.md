@@ -5,7 +5,7 @@ permalink: moses lake school district
 ---
 
 
-[Moses Lake School District Historical Demographics](pages/Moses Lake School District Historical Demographics.png "Moses Lake School District Historical Demographics")
+[Moses Lake School District Historical Demographics](pages/Historical Demographics for the Moses Lake School District.png "Moses Lake School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Moses Lake High School](pages/Moses Lake School District Moses Lake High SchoolDual Credit BarChart.png "Moses Lake High School Dual Credit Participation")
+[Moses Lake High School](pages/Dual Credit BarChartMoses Lake School District Moses Lake High School.png "Moses Lake High School Dual Credit Participation")
 
-[Skill Source Learning Center](pages/Moses Lake School District Skill Source Learning CenterDual Credit BarChart.png "Skill Source Learning Center Dual Credit Participation")
+[Skill Source Learning Center](pages/Dual Credit BarChartMoses Lake School District Skill Source Learning Center.png "Skill Source Learning Center Dual Credit Participation")
 
 
 ___

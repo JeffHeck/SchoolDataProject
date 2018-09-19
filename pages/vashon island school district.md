@@ -5,17 +5,17 @@ permalink: vashon island school district
 ---
 
 
-[Vashon Island School District Historical Demographics](pages/Vashon Island School District Historical Demographics.png "Vashon Island School District Historical Demographics")
+[Vashon Island School District Historical Demographics](pages/Historical Demographics for the Vashon Island School District.png "Vashon Island School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Family Link](pages/Vashon Island School District Family LinkDual Credit BarChart.png "Family Link Dual Credit Participation")
+[Family Link](pages/Dual Credit BarChartVashon Island School District Family Link.png "Family Link Dual Credit Participation")
 
-[Student Link](pages/Vashon Island School District Student LinkDual Credit BarChart.png "Student Link Dual Credit Participation")
+[Student Link](pages/Dual Credit BarChartVashon Island School District Student Link.png "Student Link Dual Credit Participation")
 
-[Vashon Island High School](pages/Vashon Island School District Vashon Island High SchoolDual Credit BarChart.png "Vashon Island High School Dual Credit Participation")
+[Vashon Island High School](pages/Dual Credit BarChartVashon Island School District Vashon Island High School.png "Vashon Island High School Dual Credit Participation")
 
 
 ___

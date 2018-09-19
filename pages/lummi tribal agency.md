@@ -5,7 +5,7 @@ permalink: lummi tribal agency
 ---
 
 
-[Lummi Tribal Agency Historical Demographics](pages/Lummi Tribal Agency Historical Demographics.png "Lummi Tribal Agency Historical Demographics")
+[Lummi Tribal Agency Historical Demographics](pages/Historical Demographics for the Lummi Tribal Agency.png "Lummi Tribal Agency Historical Demographics")
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lummi Nation School](pages/Lummi Tribal Agency Lummi Nation SchoolDual Credit BarChart.png "Lummi Nation School Dual Credit Participation")
+[Lummi Nation School](pages/Dual Credit BarChartLummi Tribal Agency Lummi Nation School.png "Lummi Nation School Dual Credit Participation")
 
 
 ___

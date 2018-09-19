@@ -5,7 +5,7 @@ permalink: hood canal school district
 ---
 
 
-[Hood Canal School District Historical Demographics](pages/Hood Canal School District Historical Demographics.png "Hood Canal School District Historical Demographics")
+[Hood Canal School District Historical Demographics](pages/Historical Demographics for the Hood Canal School District.png "Hood Canal School District Historical Demographics")
 
 ___
 

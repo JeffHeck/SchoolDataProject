@@ -10,5 +10,5 @@ ___
 
 ## Dual Credit Participation
 
-[Ugrad ESD123 Re-Engagement Program](pages/Educational Service District 123 Ugrad ESD123 Re-Engagement ProgramDual Credit BarChart.png "Ugrad ESD123 Re-Engagement Program Dual Credit Participation")
+[Ugrad ESD123 Re-Engagement Program](pages/Dual Credit BarChartEducational Service District 123 Ugrad ESD123 Re-Engagement Program.png "Ugrad ESD123 Re-Engagement Program Dual Credit Participation")
 

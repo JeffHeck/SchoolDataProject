@@ -5,7 +5,7 @@ permalink: battle ground school district
 ---
 
 
-[Battle Ground School District Historical Demographics](pages/Battle Ground School District Historical Demographics.png "Battle Ground School District Historical Demographics")
+[Battle Ground School District Historical Demographics](pages/Historical Demographics for the Battle Ground School District.png "Battle Ground School District Historical Demographics")
 
 ___
 
@@ -39,15 +39,15 @@ ___
 
 ## Dual Credit Participation
 
-[Battle Ground High School](pages/Battle Ground School District Battle Ground High SchoolDual Credit BarChart.png "Battle Ground High School Dual Credit Participation")
+[Battle Ground High School](pages/Dual Credit BarChartBattle Ground School District Battle Ground High School.png "Battle Ground High School Dual Credit Participation")
 
-[CAM Academy](pages/Battle Ground School District CAM AcademyDual Credit BarChart.png "CAM Academy Dual Credit Participation")
+[CAM Academy](pages/Dual Credit BarChartBattle Ground School District CAM Academy.png "CAM Academy Dual Credit Participation")
 
-[Homelink River](pages/Battle Ground School District Homelink RiverDual Credit BarChart.png "Homelink River Dual Credit Participation")
+[Homelink River](pages/Dual Credit BarChartBattle Ground School District Homelink River.png "Homelink River Dual Credit Participation")
 
-[Prairie High School](pages/Battle Ground School District Prairie High SchoolDual Credit BarChart.png "Prairie High School Dual Credit Participation")
+[Prairie High School](pages/Dual Credit BarChartBattle Ground School District Prairie High School.png "Prairie High School Dual Credit Participation")
 
-[Summit View High School](pages/Battle Ground School District Summit View High SchoolDual Credit BarChart.png "Summit View High School Dual Credit Participation")
+[Summit View High School](pages/Dual Credit BarChartBattle Ground School District Summit View High School.png "Summit View High School Dual Credit Participation")
 
 
 ___

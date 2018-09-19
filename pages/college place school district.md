@@ -5,7 +5,7 @@ permalink: college place school district
 ---
 
 
-[College Place School District Historical Demographics](pages/College Place School District Historical Demographics.png "College Place School District Historical Demographics")
+[College Place School District Historical Demographics](pages/Historical Demographics for the College Place School District.png "College Place School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[College Place High School](pages/College Place School District College Place High SchoolDual Credit BarChart.png "College Place High School Dual Credit Participation")
+[College Place High School](pages/Dual Credit BarChartCollege Place School District College Place High School.png "College Place High School Dual Credit Participation")
 
 
 ___

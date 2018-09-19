@@ -5,7 +5,7 @@ permalink: north franklin school district
 ---
 
 
-[North Franklin School District Historical Demographics](pages/North Franklin School District Historical Demographics.png "North Franklin School District Historical Demographics")
+[North Franklin School District Historical Demographics](pages/Historical Demographics for the North Franklin School District.png "North Franklin School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Connell High School](pages/North Franklin School District Connell High SchoolDual Credit BarChart.png "Connell High School Dual Credit Participation")
+[Connell High School](pages/Dual Credit BarChartNorth Franklin School District Connell High School.png "Connell High School Dual Credit Participation")
 
-[Palouse Junction High School](pages/North Franklin School District Palouse Junction High SchoolDual Credit BarChart.png "Palouse Junction High School Dual Credit Participation")
+[Palouse Junction High School](pages/Dual Credit BarChartNorth Franklin School District Palouse Junction High School.png "Palouse Junction High School Dual Credit Participation")
 
 
 ___

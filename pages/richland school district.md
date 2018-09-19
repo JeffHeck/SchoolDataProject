@@ -5,7 +5,7 @@ permalink: richland school district
 ---
 
 
-[Richland School District Historical Demographics](pages/Richland School District Historical Demographics.png "Richland School District Historical Demographics")
+[Richland School District Historical Demographics](pages/Historical Demographics for the Richland School District.png "Richland School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Hanford High School](pages/Richland School District Hanford High SchoolDual Credit BarChart.png "Hanford High School Dual Credit Participation")
+[Hanford High School](pages/Dual Credit BarChartRichland School District Hanford High School.png "Hanford High School Dual Credit Participation")
 
-[Richland High School](pages/Richland School District Richland High SchoolDual Credit BarChart.png "Richland High School Dual Credit Participation")
+[Richland High School](pages/Dual Credit BarChartRichland School District Richland High School.png "Richland High School Dual Credit Participation")
 
-[Rivers Edge High School](pages/Richland School District Rivers Edge High SchoolDual Credit BarChart.png "Rivers Edge High School Dual Credit Participation")
+[Rivers Edge High School](pages/Dual Credit BarChartRichland School District Rivers Edge High School.png "Rivers Edge High School Dual Credit Participation")
 
-[Three Rivers Home Link](pages/Richland School District Three Rivers Home LinkDual Credit BarChart.png "Three Rivers Home Link Dual Credit Participation")
+[Three Rivers Home Link](pages/Dual Credit BarChartRichland School District Three Rivers Home Link.png "Three Rivers Home Link Dual Credit Participation")
 
 
 ___

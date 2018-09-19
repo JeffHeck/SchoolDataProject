@@ -5,7 +5,7 @@ permalink: columbia (walla walla) school district
 ---
 
 
-[Columbia (Walla Walla) School District Historical Demographics](pages/Columbia (Walla Walla) School District Historical Demographics.png "Columbia (Walla Walla) School District Historical Demographics")
+[Columbia (Walla Walla) School District Historical Demographics](pages/Historical Demographics for the Columbia (Walla Walla) School District.png "Columbia (Walla Walla) School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Columbia High School](pages/Columbia (Walla Walla) School District Columbia High SchoolDual Credit BarChart.png "Columbia High School Dual Credit Participation")
+[Columbia High School](pages/Dual Credit BarChartColumbia (Walla Walla) School District Columbia High School.png "Columbia High School Dual Credit Participation")
 
 
 ___

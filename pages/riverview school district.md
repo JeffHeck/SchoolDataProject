@@ -5,7 +5,7 @@ permalink: riverview school district
 ---
 
 
-[Riverview School District Historical Demographics](pages/Riverview School District Historical Demographics.png "Riverview School District Historical Demographics")
+[Riverview School District Historical Demographics](pages/Historical Demographics for the Riverview School District.png "Riverview School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[CLIP](pages/Riverview School District CLIPDual Credit BarChart.png "CLIP Dual Credit Participation")
+[CLIP](pages/Dual Credit BarChartRiverview School District CLIP.png "CLIP Dual Credit Participation")
 
-[Cedarcrest High School](pages/Riverview School District Cedarcrest High SchoolDual Credit BarChart.png "Cedarcrest High School Dual Credit Participation")
+[Cedarcrest High School](pages/Dual Credit BarChartRiverview School District Cedarcrest High School.png "Cedarcrest High School Dual Credit Participation")
 
-[Choice](pages/Riverview School District ChoiceDual Credit BarChart.png "Choice Dual Credit Participation")
+[Choice](pages/Dual Credit BarChartRiverview School District Choice.png "Choice Dual Credit Participation")
 
-[PARADE](pages/Riverview School District PARADEDual Credit BarChart.png "PARADE Dual Credit Participation")
+[PARADE](pages/Dual Credit BarChartRiverview School District PARADE.png "PARADE Dual Credit Participation")
 
 
 ___

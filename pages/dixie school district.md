@@ -5,7 +5,7 @@ permalink: dixie school district
 ---
 
 
-[Dixie School District Historical Demographics](pages/Dixie School District Historical Demographics.png "Dixie School District Historical Demographics")
+[Dixie School District Historical Demographics](pages/Historical Demographics for the Dixie School District.png "Dixie School District Historical Demographics")
 
 ___
 

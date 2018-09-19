@@ -5,7 +5,7 @@ permalink: south whidbey school district
 ---
 
 
-[South Whidbey School District Historical Demographics](pages/South Whidbey School District Historical Demographics.png "South Whidbey School District Historical Demographics")
+[South Whidbey School District Historical Demographics](pages/Historical Demographics for the South Whidbey School District.png "South Whidbey School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[South Whidbey Academy](pages/South Whidbey School District South Whidbey AcademyDual Credit BarChart.png "South Whidbey Academy Dual Credit Participation")
+[South Whidbey Academy](pages/Dual Credit BarChartSouth Whidbey School District South Whidbey Academy.png "South Whidbey Academy Dual Credit Participation")
 
-[South Whidbey High School](pages/South Whidbey School District South Whidbey High SchoolDual Credit BarChart.png "South Whidbey High School Dual Credit Participation")
+[South Whidbey High School](pages/Dual Credit BarChartSouth Whidbey School District South Whidbey High School.png "South Whidbey High School Dual Credit Participation")
 
 
 ___

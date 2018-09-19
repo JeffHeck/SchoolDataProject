@@ -5,7 +5,7 @@ permalink: kettle falls school district
 ---
 
 
-[Kettle Falls School District Historical Demographics](pages/Kettle Falls School District Historical Demographics.png "Kettle Falls School District Historical Demographics")
+[Kettle Falls School District Historical Demographics](pages/Historical Demographics for the Kettle Falls School District.png "Kettle Falls School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Columbia Virtual Academy - Kettle Falls](pages/Kettle Falls School District Columbia Virtual Academy - Kettle FallsDual Credit BarChart.png "Columbia Virtual Academy - Kettle Falls Dual Credit Participation")
+[Columbia Virtual Academy - Kettle Falls](pages/Dual Credit BarChartKettle Falls School District Columbia Virtual Academy - Kettle Falls.png "Columbia Virtual Academy - Kettle Falls Dual Credit Participation")
 
-[Kettle Falls High School](pages/Kettle Falls School District Kettle Falls High SchoolDual Credit BarChart.png "Kettle Falls High School Dual Credit Participation")
+[Kettle Falls High School](pages/Dual Credit BarChartKettle Falls School District Kettle Falls High School.png "Kettle Falls High School Dual Credit Participation")
 
 
 ___

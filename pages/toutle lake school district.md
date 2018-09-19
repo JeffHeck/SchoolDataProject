@@ -5,7 +5,7 @@ permalink: toutle lake school district
 ---
 
 
-[Toutle Lake School District Historical Demographics](pages/Toutle Lake School District Historical Demographics.png "Toutle Lake School District Historical Demographics")
+[Toutle Lake School District Historical Demographics](pages/Historical Demographics for the Toutle Lake School District.png "Toutle Lake School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Toutle Lake High School](pages/Toutle Lake School District Toutle Lake High SchoolDual Credit BarChart.png "Toutle Lake High School Dual Credit Participation")
+[Toutle Lake High School](pages/Dual Credit BarChartToutle Lake School District Toutle Lake High School.png "Toutle Lake High School Dual Credit Participation")
 
 
 ___

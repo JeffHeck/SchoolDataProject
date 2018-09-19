@@ -5,7 +5,7 @@ permalink: paterson school district
 ---
 
 
-[Paterson School District Historical Demographics](pages/Paterson School District Historical Demographics.png "Paterson School District Historical Demographics")
+[Paterson School District Historical Demographics](pages/Historical Demographics for the Paterson School District.png "Paterson School District Historical Demographics")
 
 ___
 

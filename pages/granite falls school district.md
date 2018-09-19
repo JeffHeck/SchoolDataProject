@@ -5,7 +5,7 @@ permalink: granite falls school district
 ---
 
 
-[Granite Falls School District Historical Demographics](pages/Granite Falls School District Historical Demographics.png "Granite Falls School District Historical Demographics")
+[Granite Falls School District Historical Demographics](pages/Historical Demographics for the Granite Falls School District.png "Granite Falls School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Crossroads High School](pages/Granite Falls School District Crossroads High SchoolDual Credit BarChart.png "Crossroads High School Dual Credit Participation")
+[Crossroads High School](pages/Dual Credit BarChartGranite Falls School District Crossroads High School.png "Crossroads High School Dual Credit Participation")
 
-[Granite Falls High School](pages/Granite Falls School District Granite Falls High SchoolDual Credit BarChart.png "Granite Falls High School Dual Credit Participation")
+[Granite Falls High School](pages/Dual Credit BarChartGranite Falls School District Granite Falls High School.png "Granite Falls High School Dual Credit Participation")
 
-[Granite Falls Open Doors](pages/Granite Falls School District Granite Falls Open DoorsDual Credit BarChart.png "Granite Falls Open Doors Dual Credit Participation")
+[Granite Falls Open Doors](pages/Dual Credit BarChartGranite Falls School District Granite Falls Open Doors.png "Granite Falls Open Doors Dual Credit Participation")
 
 
 ___

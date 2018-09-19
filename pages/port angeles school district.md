@@ -5,7 +5,7 @@ permalink: port angeles school district
 ---
 
 
-[Port Angeles School District Historical Demographics](pages/Port Angeles School District Historical Demographics.png "Port Angeles School District Historical Demographics")
+[Port Angeles School District Historical Demographics](pages/Historical Demographics for the Port Angeles School District.png "Port Angeles School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Lincoln High School](pages/Port Angeles School District Lincoln High SchoolDual Credit BarChart.png "Lincoln High School Dual Credit Participation")
+[Lincoln High School](pages/Dual Credit BarChartPort Angeles School District Lincoln High School.png "Lincoln High School Dual Credit Participation")
 
-[Port Angeles High School](pages/Port Angeles School District Port Angeles High SchoolDual Credit BarChart.png "Port Angeles High School Dual Credit Participation")
+[Port Angeles High School](pages/Dual Credit BarChartPort Angeles School District Port Angeles High School.png "Port Angeles High School Dual Credit Participation")
 
 
 ___

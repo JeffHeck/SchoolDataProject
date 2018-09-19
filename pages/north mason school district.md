@@ -5,7 +5,7 @@ permalink: north mason school district
 ---
 
 
-[North Mason School District Historical Demographics](pages/North Mason School District Historical Demographics.png "North Mason School District Historical Demographics")
+[North Mason School District Historical Demographics](pages/Historical Demographics for the North Mason School District.png "North Mason School District Historical Demographics")
 
 ___
 
@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[James A Taylor High School](pages/North Mason School District James A Taylor High SchoolDual Credit BarChart.png "James A Taylor High School Dual Credit Participation")
+[James A Taylor High School](pages/Dual Credit BarChartNorth Mason School District James A Taylor High School.png "James A Taylor High School Dual Credit Participation")
 
-[North Mason Homelink Program](pages/North Mason School District North Mason Homelink ProgramDual Credit BarChart.png "North Mason Homelink Program Dual Credit Participation")
+[North Mason Homelink Program](pages/Dual Credit BarChartNorth Mason School District North Mason Homelink Program.png "North Mason Homelink Program Dual Credit Participation")
 
-[North Mason Senior High School](pages/North Mason School District North Mason Senior High SchoolDual Credit BarChart.png "North Mason Senior High School Dual Credit Participation")
+[North Mason Senior High School](pages/Dual Credit BarChartNorth Mason School District North Mason Senior High School.png "North Mason Senior High School Dual Credit Participation")
 
 
 ___

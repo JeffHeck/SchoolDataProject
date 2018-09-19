@@ -5,15 +5,15 @@ permalink: lopez school district
 ---
 
 
-[Lopez School District Historical Demographics](pages/Lopez School District Historical Demographics.png "Lopez School District Historical Demographics")
+[Lopez School District Historical Demographics](pages/Historical Demographics for the Lopez School District.png "Lopez School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[CVA-Lopez Island](pages/Lopez School District CVA-Lopez IslandDual Credit BarChart.png "CVA-Lopez Island Dual Credit Participation")
+[CVA-Lopez Island](pages/Dual Credit BarChartLopez School District CVA-Lopez Island.png "CVA-Lopez Island Dual Credit Participation")
 
-[Lopez Middle High School](pages/Lopez School District Lopez Middle High SchoolDual Credit BarChart.png "Lopez Middle High School Dual Credit Participation")
+[Lopez Middle High School](pages/Dual Credit BarChartLopez School District Lopez Middle High School.png "Lopez Middle High School Dual Credit Participation")
 
 
 ___

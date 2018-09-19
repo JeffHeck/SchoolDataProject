@@ -5,7 +5,7 @@ permalink: tukwila school district
 ---
 
 
-[Tukwila School District Historical Demographics](pages/Tukwila School District Historical Demographics.png "Tukwila School District Historical Demographics")
+[Tukwila School District Historical Demographics](pages/Historical Demographics for the Tukwila School District.png "Tukwila School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Foster Senior High School](pages/Tukwila School District Foster Senior High SchoolDual Credit BarChart.png "Foster Senior High School Dual Credit Participation")
+[Foster Senior High School](pages/Dual Credit BarChartTukwila School District Foster Senior High School.png "Foster Senior High School Dual Credit Participation")
 
 
 ___

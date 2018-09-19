@@ -5,7 +5,7 @@ permalink: shoreline school district
 ---
 
 
-[Shoreline School District Historical Demographics](pages/Shoreline School District Historical Demographics.png "Shoreline School District Historical Demographics")
+[Shoreline School District Historical Demographics](pages/Historical Demographics for the Shoreline School District.png "Shoreline School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Shorecrest High School](pages/Shoreline School District Shorecrest High SchoolDual Credit BarChart.png "Shorecrest High School Dual Credit Participation")
+[Shorecrest High School](pages/Dual Credit BarChartShoreline School District Shorecrest High School.png "Shorecrest High School Dual Credit Participation")
 
-[Shorewood High School](pages/Shoreline School District Shorewood High SchoolDual Credit BarChart.png "Shorewood High School Dual Credit Participation")
+[Shorewood High School](pages/Dual Credit BarChartShoreline School District Shorewood High School.png "Shorewood High School Dual Credit Participation")
 
 
 ___

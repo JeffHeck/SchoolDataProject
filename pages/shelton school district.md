@@ -5,7 +5,7 @@ permalink: shelton school district
 ---
 
 
-[Shelton School District Historical Demographics](pages/Shelton School District Historical Demographics.png "Shelton School District Historical Demographics")
+[Shelton School District Historical Demographics](pages/Historical Demographics for the Shelton School District.png "Shelton School District Historical Demographics")
 
 ___
 
@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[Choice Alternative School](pages/Shelton School District Choice Alternative SchoolDual Credit BarChart.png "Choice Alternative School Dual Credit Participation")
+[Choice Alternative School](pages/Dual Credit BarChartShelton School District Choice Alternative School.png "Choice Alternative School Dual Credit Participation")
 
-[Oakland Bay Junior High School](pages/Shelton School District Oakland Bay Junior High SchoolDual Credit BarChart.png "Oakland Bay Junior High School Dual Credit Participation")
+[Oakland Bay Junior High School](pages/Dual Credit BarChartShelton School District Oakland Bay Junior High School.png "Oakland Bay Junior High School Dual Credit Participation")
 
-[Shelton High School](pages/Shelton School District Shelton High SchoolDual Credit BarChart.png "Shelton High School Dual Credit Participation")
+[Shelton High School](pages/Dual Credit BarChartShelton School District Shelton High School.png "Shelton High School Dual Credit Participation")
 
 
 ___

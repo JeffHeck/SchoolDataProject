@@ -5,7 +5,7 @@ permalink: white pass school district
 ---
 
 
-[White Pass School District Historical Demographics](pages/White Pass School District Historical Demographics.png "White Pass School District Historical Demographics")
+[White Pass School District Historical Demographics](pages/Historical Demographics for the White Pass School District.png "White Pass School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[White Pass Jr Sr High School](pages/White Pass School District White Pass Jr Sr High SchoolDual Credit BarChart.png "White Pass Jr Sr High School Dual Credit Participation")
+[White Pass Jr Sr High School](pages/Dual Credit BarChartWhite Pass School District White Pass Jr Sr High School.png "White Pass Jr Sr High School Dual Credit Participation")
 
 
 ___

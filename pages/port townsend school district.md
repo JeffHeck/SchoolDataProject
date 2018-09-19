@@ -5,15 +5,15 @@ permalink: port townsend school district
 ---
 
 
-[Port Townsend School District Historical Demographics](pages/Port Townsend School District Historical Demographics.png "Port Townsend School District Historical Demographics")
+[Port Townsend School District Historical Demographics](pages/Historical Demographics for the Port Townsend School District.png "Port Townsend School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[OCEAN](pages/Port Townsend School District OCEANDual Credit BarChart.png "OCEAN Dual Credit Participation")
+[OCEAN](pages/Dual Credit BarChartPort Townsend School District OCEAN.png "OCEAN Dual Credit Participation")
 
-[Port Townsend High School](pages/Port Townsend School District Port Townsend High SchoolDual Credit BarChart.png "Port Townsend High School Dual Credit Participation")
+[Port Townsend High School](pages/Dual Credit BarChartPort Townsend School District Port Townsend High School.png "Port Townsend High School Dual Credit Participation")
 
 
 ___

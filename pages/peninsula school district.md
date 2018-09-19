@@ -5,7 +5,7 @@ permalink: peninsula school district
 ---
 
 
-[Peninsula School District Historical Demographics](pages/Peninsula School District Historical Demographics.png "Peninsula School District Historical Demographics")
+[Peninsula School District Historical Demographics](pages/Historical Demographics for the Peninsula School District.png "Peninsula School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Gig Harbor High](pages/Peninsula School District Gig Harbor HighDual Credit BarChart.png "Gig Harbor High Dual Credit Participation")
+[Gig Harbor High](pages/Dual Credit BarChartPeninsula School District Gig Harbor High.png "Gig Harbor High Dual Credit Participation")
 
-[Henderson Bay Alt High School](pages/Peninsula School District Henderson Bay Alt High SchoolDual Credit BarChart.png "Henderson Bay Alt High School Dual Credit Participation")
+[Henderson Bay Alt High School](pages/Dual Credit BarChartPeninsula School District Henderson Bay Alt High School.png "Henderson Bay Alt High School Dual Credit Participation")
 
-[Peninsula High School](pages/Peninsula School District Peninsula High SchoolDual Credit BarChart.png "Peninsula High School Dual Credit Participation")
+[Peninsula High School](pages/Dual Credit BarChartPeninsula School District Peninsula High School.png "Peninsula High School Dual Credit Participation")
 
 
 ___

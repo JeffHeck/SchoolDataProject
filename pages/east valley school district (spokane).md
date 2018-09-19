@@ -5,7 +5,7 @@ permalink: east valley school district (spokane)
 ---
 
 
-[East Valley School District (Spokane) Historical Demographics](pages/East Valley School District (Spokane) Historical Demographics.png "East Valley School District (Spokane) Historical Demographics")
+[East Valley School District (Spokane) Historical Demographics](pages/Historical Demographics for the East Valley School District (Spokane).png "East Valley School District (Spokane) Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[EV Online](pages/East Valley School District (Spokane) EV OnlineDual Credit BarChart.png "EV Online Dual Credit Participation")
+[EV Online](pages/Dual Credit BarChartEast Valley School District (Spokane) EV Online.png "EV Online Dual Credit Participation")
 
-[EV Parent Partnership](pages/East Valley School District (Spokane) EV Parent PartnershipDual Credit BarChart.png "EV Parent Partnership Dual Credit Participation")
+[EV Parent Partnership](pages/Dual Credit BarChartEast Valley School District (Spokane) EV Parent Partnership.png "EV Parent Partnership Dual Credit Participation")
 
-[East Valley High School](pages/East Valley School District (Spokane) East Valley High SchoolDual Credit BarChart.png "East Valley High School Dual Credit Participation")
+[East Valley High School](pages/Dual Credit BarChartEast Valley School District (Spokane) East Valley High School.png "East Valley High School Dual Credit Participation")
 
 
 ___

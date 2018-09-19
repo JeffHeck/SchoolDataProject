@@ -5,7 +5,7 @@ permalink: benge school district
 ---
 
 
-[Benge School District Historical Demographics](pages/Benge School District Historical Demographics.png "Benge School District Historical Demographics")
+[Benge School District Historical Demographics](pages/Historical Demographics for the Benge School District.png "Benge School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: seattle public schools
 ---
 
 
-[Seattle Public Schools Historical Demographics](pages/Seattle Public Schools Historical Demographics.png "Seattle Public Schools Historical Demographics")
+[Seattle Public Schools Historical Demographics](pages/Historical Demographics for the Seattle Public Schools.png "Seattle Public Schools Historical Demographics")
 
 ___
 
@@ -47,47 +47,47 @@ ___
 
 ## Dual Credit Participation
 
-[Ballard High School](pages/Seattle Public Schools Ballard High SchoolDual Credit BarChart.png "Ballard High School Dual Credit Participation")
+[Ballard High School](pages/Dual Credit BarChartSeattle Public Schools Ballard High School.png "Ballard High School Dual Credit Participation")
 
-[Bridges Transition](pages/Seattle Public Schools Bridges TransitionDual Credit BarChart.png "Bridges Transition Dual Credit Participation")
+[Bridges Transition](pages/Dual Credit BarChartSeattle Public Schools Bridges Transition.png "Bridges Transition Dual Credit Participation")
 
-[Cascade Parent Partnership Program](pages/Seattle Public Schools Cascade Parent Partnership ProgramDual Credit BarChart.png "Cascade Parent Partnership Program Dual Credit Participation")
+[Cascade Parent Partnership Program](pages/Dual Credit BarChartSeattle Public Schools Cascade Parent Partnership Program.png "Cascade Parent Partnership Program Dual Credit Participation")
 
-[Chief Sealth International High School](pages/Seattle Public Schools Chief Sealth International High SchoolDual Credit BarChart.png "Chief Sealth International High School Dual Credit Participation")
+[Chief Sealth International High School](pages/Dual Credit BarChartSeattle Public Schools Chief Sealth International High School.png "Chief Sealth International High School Dual Credit Participation")
 
-[Cleveland High School STEM](pages/Seattle Public Schools Cleveland High School STEMDual Credit BarChart.png "Cleveland High School STEM Dual Credit Participation")
+[Cleveland High School STEM](pages/Dual Credit BarChartSeattle Public Schools Cleveland High School STEM.png "Cleveland High School STEM Dual Credit Participation")
 
-[Education Service Centers](pages/Seattle Public Schools Education Service CentersDual Credit BarChart.png "Education Service Centers Dual Credit Participation")
+[Education Service Centers](pages/Dual Credit BarChartSeattle Public Schools Education Service Centers.png "Education Service Centers Dual Credit Participation")
 
-[Franklin High School](pages/Seattle Public Schools Franklin High SchoolDual Credit BarChart.png "Franklin High School Dual Credit Participation")
+[Franklin High School](pages/Dual Credit BarChartSeattle Public Schools Franklin High School.png "Franklin High School Dual Credit Participation")
 
-[Garfield High School](pages/Seattle Public Schools Garfield High SchoolDual Credit BarChart.png "Garfield High School Dual Credit Participation")
+[Garfield High School](pages/Dual Credit BarChartSeattle Public Schools Garfield High School.png "Garfield High School Dual Credit Participation")
 
-[Ingraham High School](pages/Seattle Public Schools Ingraham High SchoolDual Credit BarChart.png "Ingraham High School Dual Credit Participation")
+[Ingraham High School](pages/Dual Credit BarChartSeattle Public Schools Ingraham High School.png "Ingraham High School Dual Credit Participation")
 
-[Interagency Open Doors](pages/Seattle Public Schools Interagency Open DoorsDual Credit BarChart.png "Interagency Open Doors Dual Credit Participation")
+[Interagency Open Doors](pages/Dual Credit BarChartSeattle Public Schools Interagency Open Doors.png "Interagency Open Doors Dual Credit Participation")
 
-[Interagency Programs](pages/Seattle Public Schools Interagency ProgramsDual Credit BarChart.png "Interagency Programs Dual Credit Participation")
+[Interagency Programs](pages/Dual Credit BarChartSeattle Public Schools Interagency Programs.png "Interagency Programs Dual Credit Participation")
 
-[Middle College High School](pages/Seattle Public Schools Middle College High SchoolDual Credit BarChart.png "Middle College High School Dual Credit Participation")
+[Middle College High School](pages/Dual Credit BarChartSeattle Public Schools Middle College High School.png "Middle College High School Dual Credit Participation")
 
-[Nathan Hale High School](pages/Seattle Public Schools Nathan Hale High SchoolDual Credit BarChart.png "Nathan Hale High School Dual Credit Participation")
+[Nathan Hale High School](pages/Dual Credit BarChartSeattle Public Schools Nathan Hale High School.png "Nathan Hale High School Dual Credit Participation")
 
-[Nova High School](pages/Seattle Public Schools Nova High SchoolDual Credit BarChart.png "Nova High School Dual Credit Participation")
+[Nova High School](pages/Dual Credit BarChartSeattle Public Schools Nova High School.png "Nova High School Dual Credit Participation")
 
-[Rainier Beach High School](pages/Seattle Public Schools Rainier Beach High SchoolDual Credit BarChart.png "Rainier Beach High School Dual Credit Participation")
+[Rainier Beach High School](pages/Dual Credit BarChartSeattle Public Schools Rainier Beach High School.png "Rainier Beach High School Dual Credit Participation")
 
-[Residential Consortium](pages/Seattle Public Schools Residential ConsortiumDual Credit BarChart.png "Residential Consortium Dual Credit Participation")
+[Residential Consortium](pages/Dual Credit BarChartSeattle Public Schools Residential Consortium.png "Residential Consortium Dual Credit Participation")
 
-[Roosevelt High School](pages/Seattle Public Schools Roosevelt High SchoolDual Credit BarChart.png "Roosevelt High School Dual Credit Participation")
+[Roosevelt High School](pages/Dual Credit BarChartSeattle Public Schools Roosevelt High School.png "Roosevelt High School Dual Credit Participation")
 
-[Seattle World School](pages/Seattle Public Schools Seattle World SchoolDual Credit BarChart.png "Seattle World School Dual Credit Participation")
+[Seattle World School](pages/Dual Credit BarChartSeattle Public Schools Seattle World School.png "Seattle World School Dual Credit Participation")
 
-[South Lake High School](pages/Seattle Public Schools South Lake High SchoolDual Credit BarChart.png "South Lake High School Dual Credit Participation")
+[South Lake High School](pages/Dual Credit BarChartSeattle Public Schools South Lake High School.png "South Lake High School Dual Credit Participation")
 
-[The Center School](pages/Seattle Public Schools The Center SchoolDual Credit BarChart.png "The Center School Dual Credit Participation")
+[The Center School](pages/Dual Credit BarChartSeattle Public Schools The Center School.png "The Center School Dual Credit Participation")
 
-[West Seattle High School](pages/Seattle Public Schools West Seattle High SchoolDual Credit BarChart.png "West Seattle High School Dual Credit Participation")
+[West Seattle High School](pages/Dual Credit BarChartSeattle Public Schools West Seattle High School.png "West Seattle High School Dual Credit Participation")
 
 
 ___

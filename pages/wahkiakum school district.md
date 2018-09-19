@@ -5,7 +5,7 @@ permalink: wahkiakum school district
 ---
 
 
-[Wahkiakum School District Historical Demographics](pages/Wahkiakum School District Historical Demographics.png "Wahkiakum School District Historical Demographics")
+[Wahkiakum School District Historical Demographics](pages/Historical Demographics for the Wahkiakum School District.png "Wahkiakum School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Wahkiakum High School](pages/Wahkiakum School District Wahkiakum High SchoolDual Credit BarChart.png "Wahkiakum High School Dual Credit Participation")
+[Wahkiakum High School](pages/Dual Credit BarChartWahkiakum School District Wahkiakum High School.png "Wahkiakum High School Dual Credit Participation")
 
 
 ___

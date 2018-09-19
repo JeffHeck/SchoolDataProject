@@ -5,7 +5,7 @@ permalink: prosser school district
 ---
 
 
-[Prosser School District Historical Demographics](pages/Prosser School District Historical Demographics.png "Prosser School District Historical Demographics")
+[Prosser School District Historical Demographics](pages/Historical Demographics for the Prosser School District.png "Prosser School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Prosser Falls Education Center](pages/Prosser School District Prosser Falls Education CenterDual Credit BarChart.png "Prosser Falls Education Center Dual Credit Participation")
+[Prosser Falls Education Center](pages/Dual Credit BarChartProsser School District Prosser Falls Education Center.png "Prosser Falls Education Center Dual Credit Participation")
 
-[Prosser High School](pages/Prosser School District Prosser High SchoolDual Credit BarChart.png "Prosser High School Dual Credit Participation")
+[Prosser High School](pages/Dual Credit BarChartProsser School District Prosser High School.png "Prosser High School Dual Credit Participation")
 
 
 ___

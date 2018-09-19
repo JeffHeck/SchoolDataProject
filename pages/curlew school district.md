@@ -5,7 +5,7 @@ permalink: curlew school district
 ---
 
 
-[Curlew School District Historical Demographics](pages/Curlew School District Historical Demographics.png "Curlew School District Historical Demographics")
+[Curlew School District Historical Demographics](pages/Historical Demographics for the Curlew School District.png "Curlew School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Curlew Elem   High School](pages/Curlew School District Curlew Elem   High SchoolDual Credit BarChart.png "Curlew Elem   High School Dual Credit Participation")
+[Curlew Elem   High School](pages/Dual Credit BarChartCurlew School District Curlew Elem   High School.png "Curlew Elem   High School Dual Credit Participation")
 
 
 ___

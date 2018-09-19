@@ -5,7 +5,7 @@ permalink: dieringer school district
 ---
 
 
-[Dieringer School District Historical Demographics](pages/Dieringer School District Historical Demographics.png "Dieringer School District Historical Demographics")
+[Dieringer School District Historical Demographics](pages/Historical Demographics for the Dieringer School District.png "Dieringer School District Historical Demographics")
 
 ___
 

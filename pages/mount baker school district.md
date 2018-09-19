@@ -5,7 +5,7 @@ permalink: mount baker school district
 ---
 
 
-[Mount Baker School District Historical Demographics](pages/Mount Baker School District Historical Demographics.png "Mount Baker School District Historical Demographics")
+[Mount Baker School District Historical Demographics](pages/Historical Demographics for the Mount Baker School District.png "Mount Baker School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Mount Baker Academy](pages/Mount Baker School District Mount Baker AcademyDual Credit BarChart.png "Mount Baker Academy Dual Credit Participation")
+[Mount Baker Academy](pages/Dual Credit BarChartMount Baker School District Mount Baker Academy.png "Mount Baker Academy Dual Credit Participation")
 
-[Mount Baker Senior High](pages/Mount Baker School District Mount Baker Senior HighDual Credit BarChart.png "Mount Baker Senior High Dual Credit Participation")
+[Mount Baker Senior High](pages/Dual Credit BarChartMount Baker School District Mount Baker Senior High.png "Mount Baker Senior High Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: darrington school district
 ---
 
 
-[Darrington School District Historical Demographics](pages/Darrington School District Historical Demographics.png "Darrington School District Historical Demographics")
+[Darrington School District Historical Demographics](pages/Historical Demographics for the Darrington School District.png "Darrington School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Darrington Sr High School](pages/Darrington School District Darrington Sr High SchoolDual Credit BarChart.png "Darrington Sr High School Dual Credit Participation")
+[Darrington Sr High School](pages/Dual Credit BarChartDarrington School District Darrington Sr High School.png "Darrington Sr High School Dual Credit Participation")
 
 
 ___

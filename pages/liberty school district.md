@@ -5,7 +5,7 @@ permalink: liberty school district
 ---
 
 
-[Liberty School District Historical Demographics](pages/Liberty School District Historical Demographics.png "Liberty School District Historical Demographics")
+[Liberty School District Historical Demographics](pages/Historical Demographics for the Liberty School District.png "Liberty School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Liberty High School](pages/Liberty School District Liberty High SchoolDual Credit BarChart.png "Liberty High School Dual Credit Participation")
+[Liberty High School](pages/Dual Credit BarChartLiberty School District Liberty High School.png "Liberty High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: ephrata school district
 ---
 
 
-[Ephrata School District Historical Demographics](pages/Ephrata School District Historical Demographics.png "Ephrata School District Historical Demographics")
+[Ephrata School District Historical Demographics](pages/Historical Demographics for the Ephrata School District.png "Ephrata School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Ephrata High School](pages/Ephrata School District Ephrata High SchoolDual Credit BarChart.png "Ephrata High School Dual Credit Participation")
+[Ephrata High School](pages/Dual Credit BarChartEphrata School District Ephrata High School.png "Ephrata High School Dual Credit Participation")
 
-[Sage Hills High School](pages/Ephrata School District Sage Hills High SchoolDual Credit BarChart.png "Sage Hills High School Dual Credit Participation")
+[Sage Hills High School](pages/Dual Credit BarChartEphrata School District Sage Hills High School.png "Sage Hills High School Dual Credit Participation")
 
 
 ___

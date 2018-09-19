@@ -5,7 +5,7 @@ permalink: thorp school district
 ---
 
 
-[Thorp School District Historical Demographics](pages/Thorp School District Historical Demographics.png "Thorp School District Historical Demographics")
+[Thorp School District Historical Demographics](pages/Historical Demographics for the Thorp School District.png "Thorp School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Thorp Elem   Jr Sr High](pages/Thorp School District Thorp Elem   Jr Sr HighDual Credit BarChart.png "Thorp Elem   Jr Sr High Dual Credit Participation")
+[Thorp Elem   Jr Sr High](pages/Dual Credit BarChartThorp School District Thorp Elem   Jr Sr High.png "Thorp Elem   Jr Sr High Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: nine mile falls school district
 ---
 
 
-[Nine Mile Falls School District Historical Demographics](pages/Nine Mile Falls School District Historical Demographics.png "Nine Mile Falls School District Historical Demographics")
+[Nine Mile Falls School District Historical Demographics](pages/Historical Demographics for the Nine Mile Falls School District.png "Nine Mile Falls School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lakeside High School](pages/Nine Mile Falls School District Lakeside High SchoolDual Credit BarChart.png "Lakeside High School Dual Credit Participation")
+[Lakeside High School](pages/Dual Credit BarChartNine Mile Falls School District Lakeside High School.png "Lakeside High School Dual Credit Participation")
 
 
 ___

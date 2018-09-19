@@ -5,7 +5,7 @@ permalink: wilson creek school district
 ---
 
 
-[Wilson Creek School District Historical Demographics](pages/Wilson Creek School District Historical Demographics.png "Wilson Creek School District Historical Demographics")
+[Wilson Creek School District Historical Demographics](pages/Historical Demographics for the Wilson Creek School District.png "Wilson Creek School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Wilson Creek High](pages/Wilson Creek School District Wilson Creek HighDual Credit BarChart.png "Wilson Creek High Dual Credit Participation")
+[Wilson Creek High](pages/Dual Credit BarChartWilson Creek School District Wilson Creek High.png "Wilson Creek High Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: wishkah valley school district
 ---
 
 
-[Wishkah Valley School District Historical Demographics](pages/Wishkah Valley School District Historical Demographics.png "Wishkah Valley School District Historical Demographics")
+[Wishkah Valley School District Historical Demographics](pages/Historical Demographics for the Wishkah Valley School District.png "Wishkah Valley School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Wishkah Valley Elementary High School](pages/Wishkah Valley School District Wishkah Valley Elementary High SchoolDual Credit BarChart.png "Wishkah Valley Elementary High School Dual Credit Participation")
+[Wishkah Valley Elementary High School](pages/Dual Credit BarChartWishkah Valley School District Wishkah Valley Elementary High School.png "Wishkah Valley Elementary High School Dual Credit Participation")
 
 
 ___

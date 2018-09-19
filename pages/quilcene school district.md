@@ -5,7 +5,7 @@ permalink: quilcene school district
 ---
 
 
-[Quilcene School District Historical Demographics](pages/Quilcene School District Historical Demographics.png "Quilcene School District Historical Demographics")
+[Quilcene School District Historical Demographics](pages/Historical Demographics for the Quilcene School District.png "Quilcene School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Crossroads Community School](pages/Quilcene School District Crossroads Community SchoolDual Credit BarChart.png "Crossroads Community School Dual Credit Participation")
+[Crossroads Community School](pages/Dual Credit BarChartQuilcene School District Crossroads Community School.png "Crossroads Community School Dual Credit Participation")
 
-[Quilcene High And Elementary](pages/Quilcene School District Quilcene High And ElementaryDual Credit BarChart.png "Quilcene High And Elementary Dual Credit Participation")
+[Quilcene High And Elementary](pages/Dual Credit BarChartQuilcene School District Quilcene High And Elementary.png "Quilcene High And Elementary Dual Credit Participation")
 
 
 ___

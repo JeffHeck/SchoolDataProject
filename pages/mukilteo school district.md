@@ -5,7 +5,7 @@ permalink: mukilteo school district
 ---
 
 
-[Mukilteo School District Historical Demographics](pages/Mukilteo School District Historical Demographics.png "Mukilteo School District Historical Demographics")
+[Mukilteo School District Historical Demographics](pages/Historical Demographics for the Mukilteo School District.png "Mukilteo School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[ACES High School](pages/Mukilteo School District ACES High SchoolDual Credit BarChart.png "ACES High School Dual Credit Participation")
+[ACES High School](pages/Dual Credit BarChartMukilteo School District ACES High School.png "ACES High School Dual Credit Participation")
 
-[Kamiak High School](pages/Mukilteo School District Kamiak High SchoolDual Credit BarChart.png "Kamiak High School Dual Credit Participation")
+[Kamiak High School](pages/Dual Credit BarChartMukilteo School District Kamiak High School.png "Kamiak High School Dual Credit Participation")
 
-[Mariner High School](pages/Mukilteo School District Mariner High SchoolDual Credit BarChart.png "Mariner High School Dual Credit Participation")
+[Mariner High School](pages/Dual Credit BarChartMukilteo School District Mariner High School.png "Mariner High School Dual Credit Participation")
 
-[Special Services](pages/Mukilteo School District Special ServicesDual Credit BarChart.png "Special Services Dual Credit Participation")
+[Special Services](pages/Dual Credit BarChartMukilteo School District Special Services.png "Special Services Dual Credit Participation")
 
 
 ___

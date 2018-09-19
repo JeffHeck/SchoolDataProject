@@ -5,7 +5,7 @@ permalink: odessa school district
 ---
 
 
-[Odessa School District Historical Demographics](pages/Odessa School District Historical Demographics.png "Odessa School District Historical Demographics")
+[Odessa School District Historical Demographics](pages/Historical Demographics for the Odessa School District.png "Odessa School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Odessa High School](pages/Odessa School District Odessa High SchoolDual Credit BarChart.png "Odessa High School Dual Credit Participation")
+[Odessa High School](pages/Dual Credit BarChartOdessa School District Odessa High School.png "Odessa High School Dual Credit Participation")
 
 
 ___

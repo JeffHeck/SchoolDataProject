@@ -5,7 +5,7 @@ permalink: ocean beach school district
 ---
 
 
-[Ocean Beach School District Historical Demographics](pages/Ocean Beach School District Historical Demographics.png "Ocean Beach School District Historical Demographics")
+[Ocean Beach School District Historical Demographics](pages/Historical Demographics for the Ocean Beach School District.png "Ocean Beach School District Historical Demographics")
 
 ___
 
@@ -25,9 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Ilwaco High School](pages/Ocean Beach School District Ilwaco High SchoolDual Credit BarChart.png "Ilwaco High School Dual Credit Participation")
+[Ilwaco High School](pages/Dual Credit BarChartOcean Beach School District Ilwaco High School.png "Ilwaco High School Dual Credit Participation")
 
-[Ocean Beach Alternative School](pages/Ocean Beach School District Ocean Beach Alternative SchoolDual Credit BarChart.png "Ocean Beach Alternative School Dual Credit Participation")
+[Ocean Beach Alternative School](pages/Dual Credit BarChartOcean Beach School District Ocean Beach Alternative School.png "Ocean Beach Alternative School Dual Credit Participation")
 
 
 ___

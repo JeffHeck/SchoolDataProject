@@ -5,7 +5,7 @@ permalink: snoqualmie valley school district
 ---
 
 
-[Snoqualmie Valley School District Historical Demographics](pages/Snoqualmie Valley School District Historical Demographics.png "Snoqualmie Valley School District Historical Demographics")
+[Snoqualmie Valley School District Historical Demographics](pages/Historical Demographics for the Snoqualmie Valley School District.png "Snoqualmie Valley School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Mount Si High School](pages/Snoqualmie Valley School District Mount Si High SchoolDual Credit BarChart.png "Mount Si High School Dual Credit Participation")
+[Mount Si High School](pages/Dual Credit BarChartSnoqualmie Valley School District Mount Si High School.png "Mount Si High School Dual Credit Participation")
 
-[SVSD OPEN DOORS](pages/Snoqualmie Valley School District SVSD OPEN DOORSDual Credit BarChart.png "SVSD OPEN DOORS Dual Credit Participation")
+[SVSD OPEN DOORS](pages/Dual Credit BarChartSnoqualmie Valley School District SVSD OPEN DOORS.png "SVSD OPEN DOORS Dual Credit Participation")
 
-[Snoqualmie Parent Partnership Program](pages/Snoqualmie Valley School District Snoqualmie Parent Partnership ProgramDual Credit BarChart.png "Snoqualmie Parent Partnership Program Dual Credit Participation")
+[Snoqualmie Parent Partnership Program](pages/Dual Credit BarChartSnoqualmie Valley School District Snoqualmie Parent Partnership Program.png "Snoqualmie Parent Partnership Program Dual Credit Participation")
 
-[Two Rivers School](pages/Snoqualmie Valley School District Two Rivers SchoolDual Credit BarChart.png "Two Rivers School Dual Credit Participation")
+[Two Rivers School](pages/Dual Credit BarChartSnoqualmie Valley School District Two Rivers School.png "Two Rivers School Dual Credit Participation")
 
 
 ___

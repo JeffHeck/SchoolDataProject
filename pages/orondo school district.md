@@ -5,7 +5,7 @@ permalink: orondo school district
 ---
 
 
-[Orondo School District Historical Demographics](pages/Orondo School District Historical Demographics.png "Orondo School District Historical Demographics")
+[Orondo School District Historical Demographics](pages/Historical Demographics for the Orondo School District.png "Orondo School District Historical Demographics")
 
 ___
 

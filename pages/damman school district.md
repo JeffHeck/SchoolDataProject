@@ -5,7 +5,7 @@ permalink: damman school district
 ---
 
 
-[Damman School District Historical Demographics](pages/Damman School District Historical Demographics.png "Damman School District Historical Demographics")
+[Damman School District Historical Demographics](pages/Historical Demographics for the Damman School District.png "Damman School District Historical Demographics")
 
 ___
 

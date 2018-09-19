@@ -5,7 +5,7 @@ permalink: yakima school district
 ---
 
 
-[Yakima School District Historical Demographics](pages/Yakima School District Historical Demographics.png "Yakima School District Historical Demographics")
+[Yakima School District Historical Demographics](pages/Historical Demographics for the Yakima School District.png "Yakima School District Historical Demographics")
 
 ___
 
@@ -39,17 +39,17 @@ ___
 
 ## Dual Credit Participation
 
-[Davis High School](pages/Yakima School District Davis High SchoolDual Credit BarChart.png "Davis High School Dual Credit Participation")
+[Davis High School](pages/Dual Credit BarChartYakima School District Davis High School.png "Davis High School Dual Credit Participation")
 
-[Eisenhower High School](pages/Yakima School District Eisenhower High SchoolDual Credit BarChart.png "Eisenhower High School Dual Credit Participation")
+[Eisenhower High School](pages/Dual Credit BarChartYakima School District Eisenhower High School.png "Eisenhower High School Dual Credit Participation")
 
-[Stanton Academy](pages/Yakima School District Stanton AcademyDual Credit BarChart.png "Stanton Academy Dual Credit Participation")
+[Stanton Academy](pages/Dual Credit BarChartYakima School District Stanton Academy.png "Stanton Academy Dual Credit Participation")
 
-[Yakima Online](pages/Yakima School District Yakima OnlineDual Credit BarChart.png "Yakima Online Dual Credit Participation")
+[Yakima Online](pages/Dual Credit BarChartYakima School District Yakima Online.png "Yakima Online Dual Credit Participation")
 
-[Yakima Open Doors](pages/Yakima School District Yakima Open DoorsDual Credit BarChart.png "Yakima Open Doors Dual Credit Participation")
+[Yakima Open Doors](pages/Dual Credit BarChartYakima School District Yakima Open Doors.png "Yakima Open Doors Dual Credit Participation")
 
-[Yakima Satellite Alternative Programs](pages/Yakima School District Yakima Satellite Alternative ProgramsDual Credit BarChart.png "Yakima Satellite Alternative Programs Dual Credit Participation")
+[Yakima Satellite Alternative Programs](pages/Dual Credit BarChartYakima School District Yakima Satellite Alternative Programs.png "Yakima Satellite Alternative Programs Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: kennewick school district
 ---
 
 
-[Kennewick School District Historical Demographics](pages/Kennewick School District Historical Demographics.png "Kennewick School District Historical Demographics")
+[Kennewick School District Historical Demographics](pages/Historical Demographics for the Kennewick School District.png "Kennewick School District Historical Demographics")
 
 ___
 
@@ -39,17 +39,17 @@ ___
 
 ## Dual Credit Participation
 
-[Kamiakin High School](pages/Kennewick School District Kamiakin High SchoolDual Credit BarChart.png "Kamiakin High School Dual Credit Participation")
+[Kamiakin High School](pages/Dual Credit BarChartKennewick School District Kamiakin High School.png "Kamiakin High School Dual Credit Participation")
 
-[Kennewick High School](pages/Kennewick School District Kennewick High SchoolDual Credit BarChart.png "Kennewick High School Dual Credit Participation")
+[Kennewick High School](pages/Dual Credit BarChartKennewick School District Kennewick High School.png "Kennewick High School Dual Credit Participation")
 
-[Legacy High School](pages/Kennewick School District Legacy High SchoolDual Credit BarChart.png "Legacy High School Dual Credit Participation")
+[Legacy High School](pages/Dual Credit BarChartKennewick School District Legacy High School.png "Legacy High School Dual Credit Participation")
 
-[Mid-Columbia Parent Partnership](pages/Kennewick School District Mid-Columbia Parent PartnershipDual Credit BarChart.png "Mid-Columbia Parent Partnership Dual Credit Participation")
+[Mid-Columbia Parent Partnership](pages/Dual Credit BarChartKennewick School District Mid-Columbia Parent Partnership.png "Mid-Columbia Parent Partnership Dual Credit Participation")
 
-[Phoenix High School](pages/Kennewick School District Phoenix High SchoolDual Credit BarChart.png "Phoenix High School Dual Credit Participation")
+[Phoenix High School](pages/Dual Credit BarChartKennewick School District Phoenix High School.png "Phoenix High School Dual Credit Participation")
 
-[Southridge High School](pages/Kennewick School District Southridge High SchoolDual Credit BarChart.png "Southridge High School Dual Credit Participation")
+[Southridge High School](pages/Dual Credit BarChartKennewick School District Southridge High School.png "Southridge High School Dual Credit Participation")
 
 
 ___

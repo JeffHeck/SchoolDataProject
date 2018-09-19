@@ -5,7 +5,7 @@ permalink: prescott school district
 ---
 
 
-[Prescott School District Historical Demographics](pages/Prescott School District Historical Demographics.png "Prescott School District Historical Demographics")
+[Prescott School District Historical Demographics](pages/Historical Demographics for the Prescott School District.png "Prescott School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Prescott Jr Sr High](pages/Prescott School District Prescott Jr Sr HighDual Credit BarChart.png "Prescott Jr Sr High Dual Credit Participation")
+[Prescott Jr Sr High](pages/Dual Credit BarChartPrescott School District Prescott Jr Sr High.png "Prescott Jr Sr High Dual Credit Participation")
 
 
 ___

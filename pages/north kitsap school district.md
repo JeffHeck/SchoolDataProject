@@ -5,7 +5,7 @@ permalink: north kitsap school district
 ---
 
 
-[North Kitsap School District Historical Demographics](pages/North Kitsap School District Historical Demographics.png "North Kitsap School District Historical Demographics")
+[North Kitsap School District Historical Demographics](pages/Historical Demographics for the North Kitsap School District.png "North Kitsap School District Historical Demographics")
 
 ___
 
@@ -39,13 +39,13 @@ ___
 
 ## Dual Credit Participation
 
-[Chief Kitsap Academy](pages/North Kitsap School District Chief Kitsap AcademyDual Credit BarChart.png "Chief Kitsap Academy Dual Credit Participation")
+[Chief Kitsap Academy](pages/Dual Credit BarChartNorth Kitsap School District Chief Kitsap Academy.png "Chief Kitsap Academy Dual Credit Participation")
 
-[Kingston High School](pages/North Kitsap School District Kingston High SchoolDual Credit BarChart.png "Kingston High School Dual Credit Participation")
+[Kingston High School](pages/Dual Credit BarChartNorth Kitsap School District Kingston High School.png "Kingston High School Dual Credit Participation")
 
-[North Kitsap High School](pages/North Kitsap School District North Kitsap High SchoolDual Credit BarChart.png "North Kitsap High School Dual Credit Participation")
+[North Kitsap High School](pages/Dual Credit BarChartNorth Kitsap School District North Kitsap High School.png "North Kitsap High School Dual Credit Participation")
 
-[Pal Program](pages/North Kitsap School District Pal ProgramDual Credit BarChart.png "Pal Program Dual Credit Participation")
+[Pal Program](pages/Dual Credit BarChartNorth Kitsap School District Pal Program.png "Pal Program Dual Credit Participation")
 
 
 ___

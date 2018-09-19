@@ -5,7 +5,7 @@ permalink: pe ell school district
 ---
 
 
-[Pe Ell School District Historical Demographics](pages/Pe Ell School District Historical Demographics.png "Pe Ell School District Historical Demographics")
+[Pe Ell School District Historical Demographics](pages/Historical Demographics for the Pe Ell School District.png "Pe Ell School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Pe Ell School](pages/Pe Ell School District Pe Ell SchoolDual Credit BarChart.png "Pe Ell School Dual Credit Participation")
+[Pe Ell School](pages/Dual Credit BarChartPe Ell School District Pe Ell School.png "Pe Ell School Dual Credit Participation")
 
-[Trojan Alternative School](pages/Pe Ell School District Trojan Alternative SchoolDual Credit BarChart.png "Trojan Alternative School Dual Credit Participation")
+[Trojan Alternative School](pages/Dual Credit BarChartPe Ell School District Trojan Alternative School.png "Trojan Alternative School Dual Credit Participation")
 
 
 ___

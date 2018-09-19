@@ -5,13 +5,13 @@ permalink: lacrosse school district
 ---
 
 
-[LaCrosse School District Historical Demographics](pages/LaCrosse School District Historical Demographics.png "LaCrosse School District Historical Demographics")
+[LaCrosse School District Historical Demographics](pages/Historical Demographics for the LaCrosse School District.png "LaCrosse School District Historical Demographics")
 
 ___
 
 ## Dual Credit Participation
 
-[Lacrosse High School](pages/LaCrosse School District Lacrosse High SchoolDual Credit BarChart.png "Lacrosse High School Dual Credit Participation")
+[Lacrosse High School](pages/Dual Credit BarChartLaCrosse School District Lacrosse High School.png "Lacrosse High School Dual Credit Participation")
 
 
 ___

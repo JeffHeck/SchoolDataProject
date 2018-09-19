@@ -17,5 +17,5 @@ ___
 
 ## Dual Credit Participation
 
-[Chief Leschi Schools](pages/Unaffiliated Tribal Schools Chief Leschi SchoolsDual Credit BarChart.png "Chief Leschi Schools Dual Credit Participation")
+[Chief Leschi Schools](pages/Dual Credit BarChartUnaffiliated Tribal Schools Chief Leschi Schools.png "Chief Leschi Schools Dual Credit Participation")
 

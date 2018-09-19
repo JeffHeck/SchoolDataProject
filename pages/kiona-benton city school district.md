@@ -5,7 +5,7 @@ permalink: kiona-benton city school district
 ---
 
 
-[Kiona-Benton City School District Historical Demographics](pages/Kiona-Benton City School District Historical Demographics.png "Kiona-Benton City School District Historical Demographics")
+[Kiona-Benton City School District Historical Demographics](pages/Historical Demographics for the Kiona-Benton City School District.png "Kiona-Benton City School District Historical Demographics")
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Kiona-Benton City High School](pages/Kiona-Benton City School District Kiona-Benton City High SchoolDual Credit BarChart.png "Kiona-Benton City High School Dual Credit Participation")
+[Kiona-Benton City High School](pages/Dual Credit BarChartKiona-Benton City School District Kiona-Benton City High School.png "Kiona-Benton City High School Dual Credit Participation")
 
 
 ___

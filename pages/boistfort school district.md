@@ -5,7 +5,7 @@ permalink: boistfort school district
 ---
 
 
-[Boistfort School District Historical Demographics](pages/Boistfort School District Historical Demographics.png "Boistfort School District Historical Demographics")
+[Boistfort School District Historical Demographics](pages/Historical Demographics for the Boistfort School District.png "Boistfort School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: highline school district
 ---
 
 
-[Highline School District Historical Demographics](pages/Highline School District Historical Demographics.png "Highline School District Historical Demographics")
+[Highline School District Historical Demographics](pages/Historical Demographics for the Highline School District.png "Highline School District Historical Demographics")
 
 ___
 
@@ -39,35 +39,35 @@ ___
 
 ## Dual Credit Participation
 
-[Academy of Citizenship and Empowerment](pages/Highline School District Academy of Citizenship and EmpowermentDual Credit BarChart.png "Academy of Citizenship and Empowerment Dual Credit Participation")
+[Academy of Citizenship and Empowerment](pages/Dual Credit BarChartHighline School District Academy of Citizenship and Empowerment.png "Academy of Citizenship and Empowerment Dual Credit Participation")
 
-[Arts   Academics Academy](pages/Highline School District Arts   Academics AcademyDual Credit BarChart.png "Arts   Academics Academy Dual Credit Participation")
+[Arts   Academics Academy](pages/Dual Credit BarChartHighline School District Arts   Academics Academy.png "Arts   Academics Academy Dual Credit Participation")
 
-[Big Picture School](pages/Highline School District Big Picture SchoolDual Credit BarChart.png "Big Picture School Dual Credit Participation")
+[Big Picture School](pages/Dual Credit BarChartHighline School District Big Picture School.png "Big Picture School Dual Credit Participation")
 
-[CHOICE Academy](pages/Highline School District CHOICE AcademyDual Credit BarChart.png "CHOICE Academy Dual Credit Participation")
+[CHOICE Academy](pages/Dual Credit BarChartHighline School District CHOICE Academy.png "CHOICE Academy Dual Credit Participation")
 
-[Global Connections High School](pages/Highline School District Global Connections High SchoolDual Credit BarChart.png "Global Connections High School Dual Credit Participation")
+[Global Connections High School](pages/Dual Credit BarChartHighline School District Global Connections High School.png "Global Connections High School Dual Credit Participation")
 
-[Health Sciences   Human Services](pages/Highline School District Health Sciences   Human ServicesDual Credit BarChart.png "Health Sciences   Human Services Dual Credit Participation")
+[Health Sciences   Human Services](pages/Dual Credit BarChartHighline School District Health Sciences   Human Services.png "Health Sciences   Human Services Dual Credit Participation")
 
-[Highline High School](pages/Highline School District Highline High SchoolDual Credit BarChart.png "Highline High School Dual Credit Participation")
+[Highline High School](pages/Dual Credit BarChartHighline School District Highline High School.png "Highline High School Dual Credit Participation")
 
-[Highline Home School Center](pages/Highline School District Highline Home School CenterDual Credit BarChart.png "Highline Home School Center Dual Credit Participation")
+[Highline Home School Center](pages/Dual Credit BarChartHighline School District Highline Home School Center.png "Highline Home School Center Dual Credit Participation")
 
-[Highline Open Doors 1418](pages/Highline School District Highline Open Doors 1418Dual Credit BarChart.png "Highline Open Doors 1418 Dual Credit Participation")
+[Highline Open Doors 1418](pages/Dual Credit BarChartHighline School District Highline Open Doors 1418.png "Highline Open Doors 1418 Dual Credit Participation")
 
-[Mount Rainier High School](pages/Highline School District Mount Rainier High SchoolDual Credit BarChart.png "Mount Rainier High School Dual Credit Participation")
+[Mount Rainier High School](pages/Dual Credit BarChartHighline School District Mount Rainier High School.png "Mount Rainier High School Dual Credit Participation")
 
-[New Start](pages/Highline School District New StartDual Credit BarChart.png "New Start Dual Credit Participation")
+[New Start](pages/Dual Credit BarChartHighline School District New Start.png "New Start Dual Credit Participation")
 
-[Puget Sound High School](pages/Highline School District Puget Sound High SchoolDual Credit BarChart.png "Puget Sound High School Dual Credit Participation")
+[Puget Sound High School](pages/Dual Credit BarChartHighline School District Puget Sound High School.png "Puget Sound High School Dual Credit Participation")
 
-[Raisbeck Aviation High School](pages/Highline School District Raisbeck Aviation High SchoolDual Credit BarChart.png "Raisbeck Aviation High School Dual Credit Participation")
+[Raisbeck Aviation High School](pages/Dual Credit BarChartHighline School District Raisbeck Aviation High School.png "Raisbeck Aviation High School Dual Credit Participation")
 
-[Satellite High School](pages/Highline School District Satellite High SchoolDual Credit BarChart.png "Satellite High School Dual Credit Participation")
+[Satellite High School](pages/Dual Credit BarChartHighline School District Satellite High School.png "Satellite High School Dual Credit Participation")
 
-[Technology - Engineering   Communications](pages/Highline School District Technology - Engineering   CommunicationsDual Credit BarChart.png "Technology - Engineering   Communications Dual Credit Participation")
+[Technology - Engineering   Communications](pages/Dual Credit BarChartHighline School District Technology - Engineering   Communications.png "Technology - Engineering   Communications Dual Credit Participation")
 
 
 ___

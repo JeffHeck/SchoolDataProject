@@ -5,7 +5,7 @@ permalink: mount pleasant school district
 ---
 
 
-[Mount Pleasant School District Historical Demographics](pages/Mount Pleasant School District Historical Demographics.png "Mount Pleasant School District Historical Demographics")
+[Mount Pleasant School District Historical Demographics](pages/Historical Demographics for the Mount Pleasant School District.png "Mount Pleasant School District Historical Demographics")
 
 ___
 

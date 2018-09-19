@@ -5,7 +5,7 @@ permalink: roosevelt school district
 ---
 
 
-[Roosevelt School District Historical Demographics](pages/Roosevelt School District Historical Demographics.png "Roosevelt School District Historical Demographics")
+[Roosevelt School District Historical Demographics](pages/Historical Demographics for the Roosevelt School District.png "Roosevelt School District Historical Demographics")
 
 ___
 

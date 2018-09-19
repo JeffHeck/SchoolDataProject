@@ -5,7 +5,7 @@ permalink: rosalia school district
 ---
 
 
-[Rosalia School District Historical Demographics](pages/Rosalia School District Historical Demographics.png "Rosalia School District Historical Demographics")
+[Rosalia School District Historical Demographics](pages/Historical Demographics for the Rosalia School District.png "Rosalia School District Historical Demographics")
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Rosalia Elementary   Secondary School](pages/Rosalia School District Rosalia Elementary   Secondary SchoolDual Credit BarChart.png "Rosalia Elementary   Secondary School Dual Credit Participation")
+[Rosalia Elementary   Secondary School](pages/Dual Credit BarChartRosalia School District Rosalia Elementary   Secondary School.png "Rosalia Elementary   Secondary School Dual Credit Participation")
 
 
 ___

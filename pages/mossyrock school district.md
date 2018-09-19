@@ -5,7 +5,7 @@ permalink: mossyrock school district
 ---
 
 
-[Mossyrock School District Historical Demographics](pages/Mossyrock School District Historical Demographics.png "Mossyrock School District Historical Demographics")
+[Mossyrock School District Historical Demographics](pages/Historical Demographics for the Mossyrock School District.png "Mossyrock School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Mossyrock Academy](pages/Mossyrock School District Mossyrock AcademyDual Credit BarChart.png "Mossyrock Academy Dual Credit Participation")
+[Mossyrock Academy](pages/Dual Credit BarChartMossyrock School District Mossyrock Academy.png "Mossyrock Academy Dual Credit Participation")
 
-[Mossyrock Jr Sr High School](pages/Mossyrock School District Mossyrock Jr Sr High SchoolDual Credit BarChart.png "Mossyrock Jr Sr High School Dual Credit Participation")
+[Mossyrock Jr Sr High School](pages/Dual Credit BarChartMossyrock School District Mossyrock Jr Sr High School.png "Mossyrock Jr Sr High School Dual Credit Participation")
 
 
 ___

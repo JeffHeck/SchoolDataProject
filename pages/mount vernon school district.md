@@ -5,7 +5,7 @@ permalink: mount vernon school district
 ---
 
 
-[Mount Vernon School District Historical Demographics](pages/Mount Vernon School District Historical Demographics.png "Mount Vernon School District Historical Demographics")
+[Mount Vernon School District Historical Demographics](pages/Historical Demographics for the Mount Vernon School District.png "Mount Vernon School District Historical Demographics")
 
 ___
 
@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Mount Vernon High School](pages/Mount Vernon School District Mount Vernon High SchoolDual Credit BarChart.png "Mount Vernon High School Dual Credit Participation")
+[Mount Vernon High School](pages/Dual Credit BarChartMount Vernon School District Mount Vernon High School.png "Mount Vernon High School Dual Credit Participation")
 
-[Skagit Family Learning Center MVSD](pages/Mount Vernon School District Skagit Family Learning Center MVSDDual Credit BarChart.png "Skagit Family Learning Center MVSD Dual Credit Participation")
+[Skagit Family Learning Center MVSD](pages/Dual Credit BarChartMount Vernon School District Skagit Family Learning Center MVSD.png "Skagit Family Learning Center MVSD Dual Credit Participation")
 
 
 ___

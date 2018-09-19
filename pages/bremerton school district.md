@@ -5,7 +5,7 @@ permalink: bremerton school district
 ---
 
 
-[Bremerton School District Historical Demographics](pages/Bremerton School District Historical Demographics.png "Bremerton School District Historical Demographics")
+[Bremerton School District Historical Demographics](pages/Historical Demographics for the Bremerton School District.png "Bremerton School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Bremerton High School](pages/Bremerton School District Bremerton High SchoolDual Credit BarChart.png "Bremerton High School Dual Credit Participation")
+[Bremerton High School](pages/Dual Credit BarChartBremerton School District Bremerton High School.png "Bremerton High School Dual Credit Participation")
 
-[Career   Academic Re-engagement Center](pages/Bremerton School District Career   Academic Re-engagement CenterDual Credit BarChart.png "Career   Academic Re-engagement Center Dual Credit Participation")
+[Career   Academic Re-engagement Center](pages/Dual Credit BarChartBremerton School District Career   Academic Re-engagement Center.png "Career   Academic Re-engagement Center Dual Credit Participation")
 
-[Renaissance Alternative High School](pages/Bremerton School District Renaissance Alternative High SchoolDual Credit BarChart.png "Renaissance Alternative High School Dual Credit Participation")
+[Renaissance Alternative High School](pages/Dual Credit BarChartBremerton School District Renaissance Alternative High School.png "Renaissance Alternative High School Dual Credit Participation")
 
 
 ___

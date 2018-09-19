@@ -5,7 +5,7 @@ permalink: franklin pierce school district
 ---
 
 
-[Franklin Pierce School District Historical Demographics](pages/Franklin Pierce School District Historical Demographics.png "Franklin Pierce School District Historical Demographics")
+[Franklin Pierce School District Historical Demographics](pages/Historical Demographics for the Franklin Pierce School District.png "Franklin Pierce School District Historical Demographics")
 
 ___
 
@@ -39,11 +39,11 @@ ___
 
 ## Dual Credit Participation
 
-[Franklin Pierce High School](pages/Franklin Pierce School District Franklin Pierce High SchoolDual Credit BarChart.png "Franklin Pierce High School Dual Credit Participation")
+[Franklin Pierce High School](pages/Dual Credit BarChartFranklin Pierce School District Franklin Pierce High School.png "Franklin Pierce High School Dual Credit Participation")
 
-[Gates Secondary School](pages/Franklin Pierce School District Gates Secondary SchoolDual Credit BarChart.png "Gates Secondary School Dual Credit Participation")
+[Gates Secondary School](pages/Dual Credit BarChartFranklin Pierce School District Gates Secondary School.png "Gates Secondary School Dual Credit Participation")
 
-[Washington High School](pages/Franklin Pierce School District Washington High SchoolDual Credit BarChart.png "Washington High School Dual Credit Participation")
+[Washington High School](pages/Dual Credit BarChartFranklin Pierce School District Washington High School.png "Washington High School Dual Credit Participation")
 
 
 ___

@@ -5,7 +5,7 @@ permalink: stehekin school district
 ---
 
 
-[Stehekin School District Historical Demographics](pages/Stehekin School District Historical Demographics.png "Stehekin School District Historical Demographics")
+[Stehekin School District Historical Demographics](pages/Historical Demographics for the Stehekin School District.png "Stehekin School District Historical Demographics")
 
 ___
 
