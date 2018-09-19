@@ -9,6 +9,20 @@ permalink: quillayute valley school district
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAQuillayute Valley School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAQuillayute Valley School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Forks Alternative School](pages/Dual Credit BarChartQuillayute Valley School District Forks Alternative School.png "Forks Alternative School Dual Credit Participation")

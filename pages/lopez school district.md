@@ -9,6 +9,20 @@ permalink: lopez school district
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBALopez School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBALopez School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [CVA-Lopez Island](pages/Dual Credit BarChartLopez School District CVA-Lopez Island.png "CVA-Lopez Island Dual Credit Participation")

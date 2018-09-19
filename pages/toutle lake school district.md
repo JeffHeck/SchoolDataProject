@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAToutle Lake School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAToutle Lake School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Toutle Lake High School](pages/Dual Credit BarChartToutle Lake School District Toutle Lake High School.png "Toutle Lake High School Dual Credit Participation")

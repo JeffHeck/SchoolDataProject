@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAOakville School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAOakville School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Oakville High School](pages/Dual Credit BarChartOakville School District Oakville High School.png "Oakville High School Dual Credit Participation")

@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAFranklin Pierce School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAFranklin Pierce School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Franklin Pierce High School](pages/Dual Credit BarChartFranklin Pierce School District Franklin Pierce High School.png "Franklin Pierce High School Dual Credit Participation")

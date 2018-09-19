@@ -23,6 +23,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBALake Chelan School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBALake Chelan School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Chelan High School](pages/Dual Credit BarChartLake Chelan School District Chelan High School.png "Chelan High School Dual Credit Participation")

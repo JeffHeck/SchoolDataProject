@@ -23,6 +23,13 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBASuquamish Tribal Education Department10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
 ## Dual Credit Participation
 
 [Chief Kitsap Academy](pages/Dual Credit BarChartSuquamish Tribal Education Department Chief Kitsap Academy.png "Chief Kitsap Academy Dual Credit Participation")

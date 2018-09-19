@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAKalama School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAKalama School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Kalama Jr Sr High](pages/Dual Credit BarChartKalama School District Kalama Jr Sr High.png "Kalama Jr Sr High Dual Credit Participation")

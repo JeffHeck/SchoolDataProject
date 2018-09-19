@@ -8,6 +8,20 @@ permalink: juvenile detention centers
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAJuvenile Detention Centers10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAJuvenile Detention Centers10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Benton Franklin Juvenile Justice Center](pages/Dual Credit BarChartJuvenile Detention Centers Benton Franklin Juvenile Justice Center.png "Benton Franklin Juvenile Justice Center Dual Credit Participation")

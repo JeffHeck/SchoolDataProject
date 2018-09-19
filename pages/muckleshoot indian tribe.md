@@ -30,6 +30,13 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAMuckleshoot Indian Tribe10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
 ## Dual Credit Participation
 
 [Muckleshoot Tribal School](pages/Dual Credit BarChartMuckleshoot Indian Tribe Muckleshoot Tribal School.png "Muckleshoot Tribal School Dual Credit Participation")

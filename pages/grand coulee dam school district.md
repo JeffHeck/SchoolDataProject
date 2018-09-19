@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAGrand Coulee Dam School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAGrand Coulee Dam School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Lake Roosevelt Jr Sr High School](pages/Dual Credit BarChartGrand Coulee Dam School District Lake Roosevelt Jr Sr High School.png "Lake Roosevelt Jr Sr High School Dual Credit Participation")

@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAKettle Falls School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAKettle Falls School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Columbia Virtual Academy - Kettle Falls](pages/Dual Credit BarChartKettle Falls School District Columbia Virtual Academy - Kettle Falls.png "Columbia Virtual Academy - Kettle Falls Dual Credit Participation")

@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAWenatchee School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAWenatchee School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Open Doors  Re-Engagement Wenatchee](pages/Dual Credit BarChartWenatchee School District Open Doors  Re-Engagement Wenatchee.png "Open Doors  Re-Engagement Wenatchee Dual Credit Participation")

@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAEvergreen School District (Clark)10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAEvergreen School District (Clark)10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [49th Street Academy](pages/Dual Credit BarChartEvergreen School District (Clark) 49th Street Academy.png "49th Street Academy Dual Credit Participation")

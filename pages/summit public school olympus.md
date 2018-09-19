@@ -9,6 +9,20 @@ permalink: summit public school olympus
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBASummit Public School Olympus10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBASummit Public School Olympus10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Summit Public School Olympus](pages/Dual Credit BarChartSummit Public School Olympus Summit Public School Olympus.png "Summit Public School Olympus Dual Credit Participation")

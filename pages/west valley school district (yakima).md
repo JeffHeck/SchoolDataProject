@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAWest Valley School District (Yakima)10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAWest Valley School District (Yakima)10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [West Valley High School Freshman Campus](pages/Dual Credit BarChartWest Valley School District (Yakima) West Valley High School Freshman Campus.png "West Valley High School Freshman Campus Dual Credit Participation")

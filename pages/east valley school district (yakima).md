@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Yakima)10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAEast Valley School District (Yakima)10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [East Valley Central Middle School](pages/Dual Credit BarChartEast Valley School District (Yakima) East Valley Central Middle School.png "East Valley Central Middle School Dual Credit Participation")

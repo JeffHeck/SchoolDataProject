@@ -9,6 +9,20 @@ permalink: summit public school sierra
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBASummit Public School Sierra10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBASummit Public School Sierra10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Summit Public School Sierra](pages/Dual Credit BarChartSummit Public School Sierra Summit Public School Sierra.png "Summit Public School Sierra Dual Credit Participation")

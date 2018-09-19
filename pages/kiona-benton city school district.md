@@ -23,6 +23,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAKiona-Benton City School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAKiona-Benton City School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Kiona-Benton City High School](pages/Dual Credit BarChartKiona-Benton City School District Kiona-Benton City High School.png "Kiona-Benton City High School Dual Credit Participation")

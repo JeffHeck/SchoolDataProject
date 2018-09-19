@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBASedro-Woolley School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBASedro-Woolley School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Sedro Woolley Senior High School](pages/Dual Credit BarChartSedro-Woolley School District Sedro Woolley Senior High School.png "Sedro Woolley Senior High School Dual Credit Participation")

@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAFerndale School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAFerndale School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [FERNDALE RE-ENGAGEMENT](pages/Dual Credit BarChartFerndale School District FERNDALE RE-ENGAGEMENT.png "FERNDALE RE-ENGAGEMENT Dual Credit Participation")

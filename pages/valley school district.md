@@ -23,6 +23,13 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAValley School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
 ## Dual Credit Participation
 
 [Paideia High School](pages/Dual Credit BarChartValley School District Paideia High School.png "Paideia High School Dual Credit Participation")

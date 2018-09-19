@@ -37,6 +37,13 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAMount Adams School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
 ## Dual Credit Participation
 
 [White Swan High School](pages/Dual Credit BarChartMount Adams School District White Swan High School.png "White Swan High School Dual Credit Participation")

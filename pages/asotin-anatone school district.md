@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAAsotin-Anatone School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAAsotin-Anatone School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Asotin Jr Sr High](pages/Dual Credit BarChartAsotin-Anatone School District Asotin Jr Sr High.png "Asotin Jr Sr High Dual Credit Participation")

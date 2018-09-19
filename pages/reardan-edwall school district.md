@@ -23,6 +23,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBAReardan-Edwall School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBAReardan-Edwall School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Reardan Middle-Senior High School](pages/Dual Credit BarChartReardan-Edwall School District Reardan Middle-Senior High School.png "Reardan Middle-Senior High School Dual Credit Participation")

@@ -9,6 +9,20 @@ permalink: sprague school district
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBASprague School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBASprague School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Sprague High School](pages/Dual Credit BarChartSprague School District Sprague High School.png "Sprague High School Dual Credit Participation")
