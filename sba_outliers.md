@@ -76,3 +76,14 @@ Grade 8
 
 [Math Level 4 Grade 8](pagesManual/SBAOutliers/Washington State Schools SBA Results Outliers Math Level 4 Grade 8.png "Math Level 4 Grade 8")
 
+___
+
+Grade 10
+
+[ELA Grade 10](pagesManual/SBAOutliers/Washington State Schools SBA Results Outliers ELA Grade 10.png "ELA Grade 10")
+
+[Math Grade 10](pagesManual/SBAOutliers/Washington State Schools SBA Results Outliers Math Grade 10.png "Math Grade 10")
+
+[ELA Level 4 Grade 10](pagesManual/SBAOutliers/Washington State Schools SBA Results Outliers ELA Level 4 Grade 10.png "ELA Level 4 Grade 10")
+
+[Math Level 4 Grade 10](pagesManual/SBAOutliers/Washington State Schools SBA Results Outliers Math Level 4 Grade 10.png "Math Level 4 Grade 10")
