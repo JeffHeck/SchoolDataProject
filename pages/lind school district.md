@@ -86,7 +86,7 @@ ___
 
 ### Note:
 - Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pryamid shape to highlight possible concentrations of excess.
+- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
 
 [ District Level Administrators' Compensation](pages/2017-2018 Compensation for the Lind School DistrictDuty Title = District Level Administrators.png "Lind School District District Level Administrators Compensation")
 
