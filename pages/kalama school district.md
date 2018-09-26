@@ -5,7 +5,7 @@ permalink: kalama school district
 ---
 
 
-[Kalama School District Historical Demographics](pages/Historical Demographics for the Kalama School District.png "Kalama School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Kalama School District.png "Kalama School District Historical Demographics")
 
 ___
 
@@ -71,25 +71,36 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Kalama School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Kalama Highlighted.png "Kalama School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Kalama Highlighted.png "Kalama School District Teachers Average Total Salary")
 
-[Kalama School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Kalama School DistrictDuty Title = Secondary Teacher.png "Kalama School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Kalama School DistrictDuty Title = Secondary Teacher.png "Kalama School District All Secondary Teachers Compensation")
 
-[Kalama School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kalama School DistrictDuty Title = Elem. Homeroom Teacher.png "Kalama School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Kalama School DistrictDuty Title = Elem. Homeroom Teacher.png "Kalama School District All Elementary Teachers Compensation")
 
-[Kalama School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kalama SD in Current DollarsDuty Title = Secondary Teacher.png "Kalama School District Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kalama SD in Current DollarsDuty Title = Secondary Teacher.png "Kalama School District Secondary Teachers Historical Compensation")
 
-[Kalama School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kalama SD in Current DollarsDuty Title = Elementary Teacher.png "Kalama School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Kalama SD in Current DollarsDuty Title = Elementary Teacher.png "Kalama School District Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## District Level Administrators' Compensation
 
-[Kalama School District Superintendent Compensation History](pages/Historical Compensation for the Kalama SD in Current DollarsDuty Title = Superintendent.png "Kalama School District Superintendent Compensation History")
+### Note:
+- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Sorted in pryamid shape to highlight possible concentrations of excess.
+
+[ District Level Administrators' Compensation](pages/2017-2018 Compensation for the Kalama School DistrictDuty Title = District Level Administrators.png "Kalama School District District Level Administrators Compensation")
+
+
+___
+
+## Superintendents' Compensation History
+
+[ Superintendents' Compensation History](pages/Historical Compensation for the Kalama SD in Current DollarsDuty Title = Superintendent.png "Kalama School District Superintendent Compensation History")
 

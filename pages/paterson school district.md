@@ -5,7 +5,7 @@ permalink: paterson school district
 ---
 
 
-[Paterson School District Historical Demographics](pages/Historical Demographics for the Paterson School District.png "Paterson School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Paterson School District.png "Paterson School District Historical Demographics")
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 ___
 
-## Superintendent Compensation History
+## Superintendents' Compensation History
 
-[Paterson School District Superintendent Compensation History](pages/Historical Compensation for the Paterson SD in Current DollarsDuty Title = Superintendent.png "Paterson School District Superintendent Compensation History")
+[ Superintendents' Compensation History](pages/Historical Compensation for the Paterson SD in Current DollarsDuty Title = Superintendent.png "Paterson School District Superintendent Compensation History")
 

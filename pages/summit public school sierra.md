@@ -5,7 +5,7 @@ permalink: summit public school sierra
 ---
 
 
-[Summit Public School Sierra Historical Demographics](pages/Historical Demographics for the Summit Public School Sierra.png "Summit Public School Sierra Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Summit Public School Sierra.png "Summit Public School Sierra Historical Demographics")
 
 ___
 
@@ -32,14 +32,14 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Summit Public School Sierra Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Summit Public School Sierra Highlighted.png "Summit Public School Sierra Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Summit Public School Sierra Highlighted.png "Summit Public School Sierra Teachers Average Total Salary")
 
-[Summit Public School Sierra Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Summit Public School Sierra School DistrictDuty Title = Secondary Teacher.png "Summit Public School Sierra All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Summit Public School Sierra School DistrictDuty Title = Secondary Teacher.png "Summit Public School Sierra All Secondary Teachers Compensation")
 
-[Summit Public School Sierra Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Summit Public School Sierra SD in Current DollarsDuty Title = Secondary Teacher.png "Summit Public School Sierra Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Summit Public School Sierra SD in Current DollarsDuty Title = Secondary Teacher.png "Summit Public School Sierra Secondary Teachers Historical Compensation")
 

@@ -5,7 +5,7 @@ permalink: thorp school district
 ---
 
 
-[Thorp School District Historical Demographics](pages/Historical Demographics for the Thorp School District.png "Thorp School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Thorp School District.png "Thorp School District Historical Demographics")
 
 ___
 
@@ -71,25 +71,25 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Thorp School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Thorp Highlighted.png "Thorp School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Thorp Highlighted.png "Thorp School District Teachers Average Total Salary")
 
-[Thorp School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Thorp School DistrictDuty Title = Secondary Teacher.png "Thorp School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Thorp School DistrictDuty Title = Secondary Teacher.png "Thorp School District All Secondary Teachers Compensation")
 
-[Thorp School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Thorp School DistrictDuty Title = Elem. Homeroom Teacher.png "Thorp School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Thorp School DistrictDuty Title = Elem. Homeroom Teacher.png "Thorp School District All Elementary Teachers Compensation")
 
-[Thorp School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Thorp SD in Current DollarsDuty Title = Secondary Teacher.png "Thorp School District Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Thorp SD in Current DollarsDuty Title = Secondary Teacher.png "Thorp School District Secondary Teachers Historical Compensation")
 
-[Thorp School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Thorp SD in Current DollarsDuty Title = Elementary Teacher.png "Thorp School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Thorp SD in Current DollarsDuty Title = Elementary Teacher.png "Thorp School District Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## Superintendents' Compensation History
 
-[Thorp School District Superintendent Compensation History](pages/Historical Compensation for the Thorp SD in Current DollarsDuty Title = Superintendent.png "Thorp School District Superintendent Compensation History")
+[ Superintendents' Compensation History](pages/Historical Compensation for the Thorp SD in Current DollarsDuty Title = Superintendent.png "Thorp School District Superintendent Compensation History")
 

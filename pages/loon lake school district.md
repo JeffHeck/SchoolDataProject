@@ -5,7 +5,7 @@ permalink: loon lake school district
 ---
 
 
-[Loon Lake School District Historical Demographics](pages/Historical Demographics for the Loon Lake School District.png "Loon Lake School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Loon Lake School District.png "Loon Lake School District Historical Demographics")
 
 ___
 
@@ -22,25 +22,25 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Loon Lake School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Loon Lake Highlighted.png "Loon Lake School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Loon Lake Highlighted.png "Loon Lake School District Teachers Average Total Salary")
 
-[Loon Lake School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Loon Lake School DistrictDuty Title = Secondary Teacher.png "Loon Lake School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Loon Lake School DistrictDuty Title = Secondary Teacher.png "Loon Lake School District All Secondary Teachers Compensation")
 
-[Loon Lake School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Loon Lake School DistrictDuty Title = Elem. Homeroom Teacher.png "Loon Lake School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Loon Lake School DistrictDuty Title = Elem. Homeroom Teacher.png "Loon Lake School District All Elementary Teachers Compensation")
 
-[Loon Lake School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Loon Lake SD in Current DollarsDuty Title = Secondary Teacher.png "Loon Lake School District Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Loon Lake SD in Current DollarsDuty Title = Secondary Teacher.png "Loon Lake School District Secondary Teachers Historical Compensation")
 
-[Loon Lake School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Loon Lake SD in Current DollarsDuty Title = Elementary Teacher.png "Loon Lake School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Loon Lake SD in Current DollarsDuty Title = Elementary Teacher.png "Loon Lake School District Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## Superintendents' Compensation History
 
-[Loon Lake School District Superintendent Compensation History](pages/Historical Compensation for the Loon Lake SD in Current DollarsDuty Title = Superintendent.png "Loon Lake School District Superintendent Compensation History")
+[ Superintendents' Compensation History](pages/Historical Compensation for the Loon Lake SD in Current DollarsDuty Title = Superintendent.png "Loon Lake School District Superintendent Compensation History")
 

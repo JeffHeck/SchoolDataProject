@@ -5,7 +5,7 @@ permalink: seattle public schools
 ---
 
 
-[Seattle Public Schools Historical Demographics](pages/Historical Demographics for the Seattle Public Schools.png "Seattle Public Schools Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Seattle Public Schools.png "Seattle Public Schools Historical Demographics")
 
 ___
 
@@ -119,25 +119,36 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Seattle Public Schools Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Seattle Highlighted.png "Seattle Public Schools Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Seattle Highlighted.png "Seattle Public Schools Teachers Average Total Salary")
 
-[Seattle Public Schools Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Seattle School DistrictDuty Title = Secondary Teacher.png "Seattle Public Schools All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Seattle School DistrictDuty Title = Secondary Teacher.png "Seattle Public Schools All Secondary Teachers Compensation")
 
-[Seattle Public Schools Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Seattle School DistrictDuty Title = Elem. Homeroom Teacher.png "Seattle Public Schools All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Seattle School DistrictDuty Title = Elem. Homeroom Teacher.png "Seattle Public Schools All Elementary Teachers Compensation")
 
-[Seattle Public Schools Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Seattle SD in Current DollarsDuty Title = Secondary Teacher.png "Seattle Public Schools Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Seattle SD in Current DollarsDuty Title = Secondary Teacher.png "Seattle Public Schools Secondary Teachers Historical Compensation")
 
-[Seattle Public Schools Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Seattle SD in Current DollarsDuty Title = Elementary Teacher.png "Seattle Public Schools Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Seattle SD in Current DollarsDuty Title = Elementary Teacher.png "Seattle Public Schools Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## District Level Administrators' Compensation
 
-[Seattle Public Schools Superintendent Compensation History](pages/Historical Compensation for the Seattle SD in Current DollarsDuty Title = Superintendent.png "Seattle Public Schools Superintendent Compensation History")
+### Note:
+- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Sorted in pryamid shape to highlight possible concentrations of excess.
+
+[ District Level Administrators' Compensation](pages/2017-2018 Compensation for the Seattle School DistrictDuty Title = District Level Administrators.png "Seattle Public Schools District Level Administrators Compensation")
+
+
+___
+
+## Superintendents' Compensation History
+
+[ Superintendents' Compensation History](pages/Historical Compensation for the Seattle SD in Current DollarsDuty Title = Superintendent.png "Seattle Public Schools Superintendent Compensation History")
 

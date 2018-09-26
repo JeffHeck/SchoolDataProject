@@ -5,7 +5,7 @@ permalink: suquamish tribal education department
 ---
 
 
-[Suquamish Tribal Education Department Historical Demographics](pages/Historical Demographics for the Suquamish Tribal Education Department.png "Suquamish Tribal Education Department Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Suquamish Tribal Education Department.png "Suquamish Tribal Education Department Historical Demographics")
 
 ___
 
@@ -50,14 +50,25 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Suquamish Tribal Education Department Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Suquamish Tribal Education Department Highlighted.png "Suquamish Tribal Education Department Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Suquamish Tribal Education Department Highlighted.png "Suquamish Tribal Education Department Teachers Average Total Salary")
 
-[Suquamish Tribal Education Department Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Suquamish Tribal Education Department School DistrictDuty Title = Secondary Teacher.png "Suquamish Tribal Education Department All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Suquamish Tribal Education Department School DistrictDuty Title = Secondary Teacher.png "Suquamish Tribal Education Department All Secondary Teachers Compensation")
 
-[Suquamish Tribal Education Department Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Suquamish Tribal Education Department SD in Current DollarsDuty Title = Secondary Teacher.png "Suquamish Tribal Education Department Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Suquamish Tribal Education Department SD in Current DollarsDuty Title = Secondary Teacher.png "Suquamish Tribal Education Department Secondary Teachers Historical Compensation")
+
+
+___
+
+## District Level Administrators' Compensation
+
+### Note:
+- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Sorted in pryamid shape to highlight possible concentrations of excess.
+
+[ District Level Administrators' Compensation](pages/2017-2018 Compensation for the Suquamish Tribal Education Department School DistrictDuty Title = District Level Administrators.png "Suquamish Tribal Education Department District Level Administrators Compensation")
 

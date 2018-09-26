@@ -5,7 +5,7 @@ permalink: stanwood-camano school district
 ---
 
 
-[Stanwood-Camano School District Historical Demographics](pages/Historical Demographics for the Stanwood-Camano School District.png "Stanwood-Camano School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Stanwood-Camano School District.png "Stanwood-Camano School District Historical Demographics")
 
 ___
 
@@ -75,25 +75,36 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Stanwood-Camano School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Stanwood-Camano Highlighted.png "Stanwood-Camano School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Stanwood-Camano Highlighted.png "Stanwood-Camano School District Teachers Average Total Salary")
 
-[Stanwood-Camano School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Stanwood-Camano School DistrictDuty Title = Secondary Teacher.png "Stanwood-Camano School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Stanwood-Camano School DistrictDuty Title = Secondary Teacher.png "Stanwood-Camano School District All Secondary Teachers Compensation")
 
-[Stanwood-Camano School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Stanwood-Camano School DistrictDuty Title = Elem. Homeroom Teacher.png "Stanwood-Camano School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Stanwood-Camano School DistrictDuty Title = Elem. Homeroom Teacher.png "Stanwood-Camano School District All Elementary Teachers Compensation")
 
-[Stanwood-Camano School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Secondary Teacher.png "Stanwood-Camano School District Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Secondary Teacher.png "Stanwood-Camano School District Secondary Teachers Historical Compensation")
 
-[Stanwood-Camano School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Elementary Teacher.png "Stanwood-Camano School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Elementary Teacher.png "Stanwood-Camano School District Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## District Level Administrators' Compensation
 
-[Stanwood-Camano School District Superintendent Compensation History](pages/Historical Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Superintendent.png "Stanwood-Camano School District Superintendent Compensation History")
+### Note:
+- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Sorted in pryamid shape to highlight possible concentrations of excess.
+
+[ District Level Administrators' Compensation](pages/2017-2018 Compensation for the Stanwood-Camano School DistrictDuty Title = District Level Administrators.png "Stanwood-Camano School District District Level Administrators Compensation")
+
+
+___
+
+## Superintendents' Compensation History
+
+[ Superintendents' Compensation History](pages/Historical Compensation for the Stanwood-Camano SD in Current DollarsDuty Title = Superintendent.png "Stanwood-Camano School District Superintendent Compensation History")
 

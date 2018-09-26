@@ -5,7 +5,7 @@ permalink: palisades school district
 ---
 
 
-[Palisades School District Historical Demographics](pages/Historical Demographics for the Palisades School District.png "Palisades School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Palisades School District.png "Palisades School District Historical Demographics")
 
 ___
 
@@ -22,21 +22,21 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Palisades School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Palisades Highlighted.png "Palisades School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Palisades Highlighted.png "Palisades School District Teachers Average Total Salary")
 
-[Palisades School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Palisades School DistrictDuty Title = Elem. Homeroom Teacher.png "Palisades School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Palisades School DistrictDuty Title = Elem. Homeroom Teacher.png "Palisades School District All Elementary Teachers Compensation")
 
-[Palisades School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Palisades SD in Current DollarsDuty Title = Elementary Teacher.png "Palisades School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Palisades SD in Current DollarsDuty Title = Elementary Teacher.png "Palisades School District Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## Superintendents' Compensation History
 
-[Palisades School District Superintendent Compensation History](pages/Historical Compensation for the Palisades SD in Current DollarsDuty Title = Superintendent.png "Palisades School District Superintendent Compensation History")
+[ Superintendents' Compensation History](pages/Historical Compensation for the Palisades SD in Current DollarsDuty Title = Superintendent.png "Palisades School District Superintendent Compensation History")
 

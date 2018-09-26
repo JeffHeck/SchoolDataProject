@@ -5,7 +5,7 @@ permalink: west valley school district (spokane)
 ---
 
 
-[West Valley School District (Spokane) Historical Demographics](pages/Historical Demographics for the West Valley School District (Spokane).png "West Valley School District (Spokane) Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the West Valley School District (Spokane).png "West Valley School District (Spokane) Historical Demographics")
 
 ___
 
@@ -77,25 +77,36 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[West Valley School District (Spokane) Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With West Valley (Spokane) Highlighted.png "West Valley School District (Spokane) Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With West Valley (Spokane) Highlighted.png "West Valley School District (Spokane) Teachers Average Total Salary")
 
-[West Valley School District (Spokane) Secondary Teachers' Compensation](pages/2016-2017 Compensation for the West Valley (Spokane) School DistrictDuty Title = Secondary Teacher.png "West Valley School District (Spokane) All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the West Valley (Spokane) School DistrictDuty Title = Secondary Teacher.png "West Valley School District (Spokane) All Secondary Teachers Compensation")
 
-[West Valley School District (Spokane) Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the West Valley (Spokane) School DistrictDuty Title = Elem. Homeroom Teacher.png "West Valley School District (Spokane) All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the West Valley (Spokane) School DistrictDuty Title = Elem. Homeroom Teacher.png "West Valley School District (Spokane) All Elementary Teachers Compensation")
 
-[West Valley School District (Spokane) Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the West Valley (Spokane) SD in Current DollarsDuty Title = Secondary Teacher.png "West Valley School District (Spokane) Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the West Valley (Spokane) SD in Current DollarsDuty Title = Secondary Teacher.png "West Valley School District (Spokane) Secondary Teachers Historical Compensation")
 
-[West Valley School District (Spokane) Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the West Valley (Spokane) SD in Current DollarsDuty Title = Elementary Teacher.png "West Valley School District (Spokane) Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the West Valley (Spokane) SD in Current DollarsDuty Title = Elementary Teacher.png "West Valley School District (Spokane) Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## District Level Administrators' Compensation
 
-[West Valley School District (Spokane) Superintendent Compensation History](pages/Historical Compensation for the West Valley (Spokane) SD in Current DollarsDuty Title = Superintendent.png "West Valley School District (Spokane) Superintendent Compensation History")
+### Note:
+- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Sorted in pryamid shape to highlight possible concentrations of excess.
+
+[ District Level Administrators' Compensation](pages/2017-2018 Compensation for the West Valley (Spokane) School DistrictDuty Title = District Level Administrators.png "West Valley School District (Spokane) District Level Administrators Compensation")
+
+
+___
+
+## Superintendents' Compensation History
+
+[ Superintendents' Compensation History](pages/Historical Compensation for the West Valley (Spokane) SD in Current DollarsDuty Title = Superintendent.png "West Valley School District (Spokane) Superintendent Compensation History")
 

@@ -5,7 +5,7 @@ permalink: lummi tribal agency
 ---
 
 
-[Lummi Tribal Agency Historical Demographics](pages/Historical Demographics for the Lummi Tribal Agency.png "Lummi Tribal Agency Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Lummi Tribal Agency.png "Lummi Tribal Agency Historical Demographics")
 
 ___
 
@@ -57,18 +57,18 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Lummi Tribal Agency Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Lummi Tribal Agency Highlighted.png "Lummi Tribal Agency Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Lummi Tribal Agency Highlighted.png "Lummi Tribal Agency Teachers Average Total Salary")
 
-[Lummi Tribal Agency Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Lummi Tribal Agency School DistrictDuty Title = Secondary Teacher.png "Lummi Tribal Agency All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Lummi Tribal Agency School DistrictDuty Title = Secondary Teacher.png "Lummi Tribal Agency All Secondary Teachers Compensation")
 
-[Lummi Tribal Agency Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lummi Tribal Agency School DistrictDuty Title = Elem. Homeroom Teacher.png "Lummi Tribal Agency All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lummi Tribal Agency School DistrictDuty Title = Elem. Homeroom Teacher.png "Lummi Tribal Agency All Elementary Teachers Compensation")
 
-[Lummi Tribal Agency Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lummi Tribal Agency SD in Current DollarsDuty Title = Secondary Teacher.png "Lummi Tribal Agency Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lummi Tribal Agency SD in Current DollarsDuty Title = Secondary Teacher.png "Lummi Tribal Agency Secondary Teachers Historical Compensation")
 
-[Lummi Tribal Agency Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lummi Tribal Agency SD in Current DollarsDuty Title = Elementary Teacher.png "Lummi Tribal Agency Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lummi Tribal Agency SD in Current DollarsDuty Title = Elementary Teacher.png "Lummi Tribal Agency Elementary Teachers Historical Compensation")
 

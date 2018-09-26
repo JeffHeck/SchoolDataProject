@@ -5,7 +5,7 @@ permalink: st john school district
 ---
 
 
-[St John School District Historical Demographics](pages/Historical Demographics for the St John School District.png "St John School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the St John School District.png "St John School District Historical Demographics")
 
 ___
 
@@ -46,25 +46,36 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[St John School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With St John Highlighted.png "St John School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With St John Highlighted.png "St John School District Teachers Average Total Salary")
 
-[St John School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the St John School DistrictDuty Title = Secondary Teacher.png "St John School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the St John School DistrictDuty Title = Secondary Teacher.png "St John School District All Secondary Teachers Compensation")
 
-[St John School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the St John School DistrictDuty Title = Elem. Homeroom Teacher.png "St John School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the St John School DistrictDuty Title = Elem. Homeroom Teacher.png "St John School District All Elementary Teachers Compensation")
 
-[St John School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the St John SD in Current DollarsDuty Title = Secondary Teacher.png "St John School District Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the St John SD in Current DollarsDuty Title = Secondary Teacher.png "St John School District Secondary Teachers Historical Compensation")
 
-[St John School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the St John SD in Current DollarsDuty Title = Elementary Teacher.png "St John School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the St John SD in Current DollarsDuty Title = Elementary Teacher.png "St John School District Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## District Level Administrators' Compensation
 
-[St John School District Superintendent Compensation History](pages/Historical Compensation for the St John SD in Current DollarsDuty Title = Superintendent.png "St John School District Superintendent Compensation History")
+### Note:
+- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Sorted in pryamid shape to highlight possible concentrations of excess.
+
+[ District Level Administrators' Compensation](pages/2017-2018 Compensation for the St John School DistrictDuty Title = District Level Administrators.png "St John School District District Level Administrators Compensation")
+
+
+___
+
+## Superintendents' Compensation History
+
+[ Superintendents' Compensation History](pages/Historical Compensation for the St John SD in Current DollarsDuty Title = Superintendent.png "St John School District Superintendent Compensation History")
 

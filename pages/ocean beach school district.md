@@ -5,7 +5,7 @@ permalink: ocean beach school district
 ---
 
 
-[Ocean Beach School District Historical Demographics](pages/Historical Demographics for the Ocean Beach School District.png "Ocean Beach School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Ocean Beach School District.png "Ocean Beach School District Historical Demographics")
 
 ___
 
@@ -45,25 +45,36 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Ocean Beach School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Ocean Beach Highlighted.png "Ocean Beach School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Ocean Beach Highlighted.png "Ocean Beach School District Teachers Average Total Salary")
 
-[Ocean Beach School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Ocean Beach School DistrictDuty Title = Secondary Teacher.png "Ocean Beach School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Ocean Beach School DistrictDuty Title = Secondary Teacher.png "Ocean Beach School District All Secondary Teachers Compensation")
 
-[Ocean Beach School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ocean Beach School DistrictDuty Title = Elem. Homeroom Teacher.png "Ocean Beach School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Ocean Beach School DistrictDuty Title = Elem. Homeroom Teacher.png "Ocean Beach School District All Elementary Teachers Compensation")
 
-[Ocean Beach School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Ocean Beach SD in Current DollarsDuty Title = Secondary Teacher.png "Ocean Beach School District Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Ocean Beach SD in Current DollarsDuty Title = Secondary Teacher.png "Ocean Beach School District Secondary Teachers Historical Compensation")
 
-[Ocean Beach School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Ocean Beach SD in Current DollarsDuty Title = Elementary Teacher.png "Ocean Beach School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Ocean Beach SD in Current DollarsDuty Title = Elementary Teacher.png "Ocean Beach School District Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## District Level Administrators' Compensation
 
-[Ocean Beach School District Superintendent Compensation History](pages/Historical Compensation for the Ocean Beach SD in Current DollarsDuty Title = Superintendent.png "Ocean Beach School District Superintendent Compensation History")
+### Note:
+- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Sorted in pryamid shape to highlight possible concentrations of excess.
+
+[ District Level Administrators' Compensation](pages/2017-2018 Compensation for the Ocean Beach School DistrictDuty Title = District Level Administrators.png "Ocean Beach School District District Level Administrators Compensation")
+
+
+___
+
+## Superintendents' Compensation History
+
+[ Superintendents' Compensation History](pages/Historical Compensation for the Ocean Beach SD in Current DollarsDuty Title = Superintendent.png "Ocean Beach School District Superintendent Compensation History")
 

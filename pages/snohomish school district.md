@@ -5,7 +5,7 @@ permalink: snohomish school district
 ---
 
 
-[Snohomish School District Historical Demographics](pages/Historical Demographics for the Snohomish School District.png "Snohomish School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Snohomish School District.png "Snohomish School District Historical Demographics")
 
 ___
 
@@ -79,25 +79,36 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Snohomish School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Snohomish Highlighted.png "Snohomish School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Snohomish Highlighted.png "Snohomish School District Teachers Average Total Salary")
 
-[Snohomish School District Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Snohomish School DistrictDuty Title = Secondary Teacher.png "Snohomish School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Snohomish School DistrictDuty Title = Secondary Teacher.png "Snohomish School District All Secondary Teachers Compensation")
 
-[Snohomish School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Snohomish School DistrictDuty Title = Elem. Homeroom Teacher.png "Snohomish School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Snohomish School DistrictDuty Title = Elem. Homeroom Teacher.png "Snohomish School District All Elementary Teachers Compensation")
 
-[Snohomish School District Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Snohomish SD in Current DollarsDuty Title = Secondary Teacher.png "Snohomish School District Secondary Teachers Historical Compensation")
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Snohomish SD in Current DollarsDuty Title = Secondary Teacher.png "Snohomish School District Secondary Teachers Historical Compensation")
 
-[Snohomish School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Snohomish SD in Current DollarsDuty Title = Elementary Teacher.png "Snohomish School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Snohomish SD in Current DollarsDuty Title = Elementary Teacher.png "Snohomish School District Elementary Teachers Historical Compensation")
 
 
 ___
 
-## Superintendent Compensation History
+## District Level Administrators' Compensation
 
-[Snohomish School District Superintendent Compensation History](pages/Historical Compensation for the Snohomish SD in Current DollarsDuty Title = Superintendent.png "Snohomish School District Superintendent Compensation History")
+### Note:
+- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Sorted in pryamid shape to highlight possible concentrations of excess.
+
+[ District Level Administrators' Compensation](pages/2017-2018 Compensation for the Snohomish School DistrictDuty Title = District Level Administrators.png "Snohomish School District District Level Administrators Compensation")
+
+
+___
+
+## Superintendents' Compensation History
+
+[ Superintendents' Compensation History](pages/Historical Compensation for the Snohomish SD in Current DollarsDuty Title = Superintendent.png "Snohomish School District Superintendent Compensation History")
 

@@ -5,7 +5,7 @@ permalink: satsop school district
 ---
 
 
-[Satsop School District Historical Demographics](pages/Historical Demographics for the Satsop School District.png "Satsop School District Historical Demographics")
+[Historical Demographics](pages/Historical Demographics for the Satsop School District.png "Satsop School District Historical Demographics")
 
 ___
 
@@ -22,14 +22,14 @@ ___
 
 ## Teachers' Compensation Information
 ### Note:
-- Teachers include duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[Satsop School District Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Satsop Highlighted.png "Satsop School District Teachers Average Total Salary")
+[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Satsop Highlighted.png "Satsop School District Teachers Average Total Salary")
 
-[Satsop School District Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Satsop School DistrictDuty Title = Elem. Homeroom Teacher.png "Satsop School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Satsop School DistrictDuty Title = Elem. Homeroom Teacher.png "Satsop School District All Elementary Teachers Compensation")
 
-[Satsop School District Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Satsop SD in Current DollarsDuty Title = Elementary Teacher.png "Satsop School District Elementary Teachers Historical Compensation")
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Satsop SD in Current DollarsDuty Title = Elementary Teacher.png "Satsop School District Elementary Teachers Historical Compensation")
 

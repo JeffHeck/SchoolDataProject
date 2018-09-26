@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A school data analysis project initiated by Jeff Heckathorn.
+A school data analysis project.
 
 Pertinent statistics and charts are presented on K-12 schools in Washington State. This site is devoted to analyzing school data to inform and assist parents, taxpayers and policy makers with their school related decisions. The current emphasis is analyzing school districts' finances including teacher and administrator total compensation packages. 
 
