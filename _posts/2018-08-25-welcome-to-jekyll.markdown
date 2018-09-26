@@ -7,6 +7,6 @@ categories: washington schools data analysis
 This site is devoted to analyzing school data to inform and assist parents, taxpayers and policy makers with their school related decisions.
 Currently, Washington State's K-12 schools are covered.
 
-Latest addition: Updated the SBA charts including the outlier report with the 2017-2018 data.
+Latest addition: Updated demographic charts for each district.
 
-In progress: Updating demographic charts for each district.
+In progress: Adding district level administrators' compensation info.
