@@ -27,9 +27,11 @@ ___
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Mill A Highlighted.png "Mill A School District Teachers Average Total Salary")
+[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Mill A Highlighted.png "Mill A School District Teachers Average Total Salary")
 
-[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Mill A School DistrictDuty Title = Elem. Homeroom Teacher.png "Mill A School District All Elementary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/Compensation for the Mill A School DistrictDuty Title = Secondary Teacher.png "Mill A School District All Secondary Teachers Compensation")
+
+[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Mill A School DistrictDuty Title = Elem. Homeroom Teacher.png "Mill A School District All Elementary Teachers Compensation")
 
 [ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Mill A SD in Current DollarsDuty Title = Secondary Teacher.png "Mill A School District Secondary Teachers Historical Compensation")
 

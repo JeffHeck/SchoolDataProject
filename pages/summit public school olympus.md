@@ -37,9 +37,9 @@ ___
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Summit Public School Olympus Highlighted.png "Summit Public School Olympus Teachers Average Total Salary")
+[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Summit Public School Olympus Highlighted.png "Summit Public School Olympus Teachers Average Total Salary")
 
-[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Summit Public School Olympus School DistrictDuty Title = Secondary Teacher.png "Summit Public School Olympus All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/Compensation for the Summit Public School Olympus School DistrictDuty Title = Secondary Teacher.png "Summit Public School Olympus All Secondary Teachers Compensation")
 
 [ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Summit Public School Olympus SD in Current DollarsDuty Title = Secondary Teacher.png "Summit Public School Olympus Secondary Teachers Historical Compensation")
 

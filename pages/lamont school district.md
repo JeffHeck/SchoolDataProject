@@ -41,11 +41,11 @@ ___
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Lamont Highlighted.png "Lamont School District Teachers Average Total Salary")
+[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Lamont Highlighted.png "Lamont School District Teachers Average Total Salary")
 
-[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the Lamont School DistrictDuty Title = Secondary Teacher.png "Lamont School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/Compensation for the Lamont School DistrictDuty Title = Secondary Teacher.png "Lamont School District All Secondary Teachers Compensation")
 
-[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Lamont School DistrictDuty Title = Elem. Homeroom Teacher.png "Lamont School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Lamont School DistrictDuty Title = Elem. Homeroom Teacher.png "Lamont School District All Elementary Teachers Compensation")
 
 [ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lamont SD in Current DollarsDuty Title = Secondary Teacher.png "Lamont School District Secondary Teachers Historical Compensation")
 

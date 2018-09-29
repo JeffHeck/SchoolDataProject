@@ -41,9 +41,9 @@ ___
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With PRIDE Prep Charter Highlighted.png "PRIDE Prep Charter School District Teachers Average Total Salary")
+[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With PRIDE Prep Charter Highlighted.png "PRIDE Prep Charter School District Teachers Average Total Salary")
 
-[ Secondary Teachers' Compensation](pages/2016-2017 Compensation for the PRIDE Prep Charter School DistrictDuty Title = Secondary Teacher.png "PRIDE Prep Charter School District All Secondary Teachers Compensation")
+[ Secondary Teachers' Compensation](pages/Compensation for the PRIDE Prep Charter School DistrictDuty Title = Secondary Teacher.png "PRIDE Prep Charter School District All Secondary Teachers Compensation")
 
 [ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the PRIDE Prep Charter SD in Current DollarsDuty Title = Secondary Teacher.png "PRIDE Prep Charter School District Secondary Teachers Historical Compensation")
 

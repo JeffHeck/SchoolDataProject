@@ -24,6 +24,10 @@ ___
 
 [Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Paterson School DistrictDollars Per StudentLine.png " Dollars Per Student")
 
+[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Paterson SD in Current DollarsDuty Title = Secondary Teacher.png "Paterson School District Secondary Teachers Historical Compensation")
+
+[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Paterson SD in Current DollarsDuty Title = Elementary Teacher.png "Paterson School District Elementary Teachers Historical Compensation")
+
 
 ___
 

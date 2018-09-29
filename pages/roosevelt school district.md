@@ -27,9 +27,9 @@ ___
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Total Salary Comparison](pages/2016-2017Average Total Salary for TeachersAll WA School Districts With Roosevelt Highlighted.png "Roosevelt School District Teachers Average Total Salary")
+[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Roosevelt Highlighted.png "Roosevelt School District Teachers Average Total Salary")
 
-[ Elem. Homeroom Teachers' Compensation](pages/2016-2017 Compensation for the Roosevelt School DistrictDuty Title = Elem. Homeroom Teacher.png "Roosevelt School District All Elementary Teachers Compensation")
+[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Roosevelt School DistrictDuty Title = Elem. Homeroom Teacher.png "Roosevelt School District All Elementary Teachers Compensation")
 
 [ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Roosevelt SD in Current DollarsDuty Title = Elementary Teacher.png "Roosevelt School District Elementary Teachers Historical Compensation")
 
