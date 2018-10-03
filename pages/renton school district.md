@@ -5,7 +5,7 @@ permalink: renton school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Renton School District.png "Renton School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Renton School District.png "Renton School District Historical Demographics")
 
 ___
 

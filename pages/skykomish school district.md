@@ -5,7 +5,7 @@ permalink: skykomish school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Skykomish School District.png "Skykomish School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Skykomish School District.png "Skykomish School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: east valley school district (yakima)
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the East Valley School District (Yakima).png "East Valley School District (Yakima) Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the East Valley School District (Yakima).png "East Valley School District (Yakima) Historical Demographics")
 
 ___
 

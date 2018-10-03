@@ -5,7 +5,7 @@ permalink: thorp school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Thorp School District.png "Thorp School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Thorp School District.png "Thorp School District Historical Demographics")
 
 ___
 

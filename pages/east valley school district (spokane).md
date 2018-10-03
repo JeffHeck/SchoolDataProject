@@ -5,7 +5,7 @@ permalink: east valley school district (spokane)
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the East Valley School District (Spokane).png "East Valley School District (Spokane) Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the East Valley School District (Spokane).png "East Valley School District (Spokane) Historical Demographics")
 
 ___
 

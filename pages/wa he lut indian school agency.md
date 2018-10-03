@@ -5,7 +5,7 @@ permalink: wa he lut indian school agency
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the WA HE LUT Indian School Agency.png "WA HE LUT Indian School Agency Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the WA HE LUT Indian School Agency.png "WA HE LUT Indian School Agency Historical Demographics")
 
 ___
 

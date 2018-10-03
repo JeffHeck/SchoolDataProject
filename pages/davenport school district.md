@@ -5,7 +5,7 @@ permalink: davenport school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Davenport School District.png "Davenport School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Davenport School District.png "Davenport School District Historical Demographics")
 
 ___
 

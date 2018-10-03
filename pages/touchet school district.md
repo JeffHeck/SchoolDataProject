@@ -5,7 +5,7 @@ permalink: touchet school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Touchet School District.png "Touchet School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Touchet School District.png "Touchet School District Historical Demographics")
 
 ___
 

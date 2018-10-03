@@ -5,7 +5,7 @@ permalink: issaquah school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Issaquah School District.png "Issaquah School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Issaquah School District.png "Issaquah School District Historical Demographics")
 
 ___
 

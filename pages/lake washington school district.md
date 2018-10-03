@@ -5,7 +5,7 @@ permalink: lake washington school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Lake Washington School District.png "Lake Washington School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Lake Washington School District.png "Lake Washington School District Historical Demographics")
 
 ___
 

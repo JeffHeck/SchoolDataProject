@@ -5,7 +5,7 @@ permalink: north thurston public schools
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the North Thurston Public Schools.png "North Thurston Public Schools Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the North Thurston Public Schools.png "North Thurston Public Schools Historical Demographics")
 
 ___
 

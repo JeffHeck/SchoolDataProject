@@ -5,7 +5,7 @@ permalink: white pass school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the White Pass School District.png "White Pass School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the White Pass School District.png "White Pass School District Historical Demographics")
 
 ___
 

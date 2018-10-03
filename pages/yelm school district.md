@@ -5,7 +5,7 @@ permalink: yelm school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Yelm School District.png "Yelm School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Yelm School District.png "Yelm School District Historical Demographics")
 
 ___
 

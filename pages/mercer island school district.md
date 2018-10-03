@@ -5,7 +5,7 @@ permalink: mercer island school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Mercer Island School District.png "Mercer Island School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Mercer Island School District.png "Mercer Island School District Historical Demographics")
 
 ___
 

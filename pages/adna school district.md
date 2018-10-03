@@ -5,7 +5,7 @@ permalink: adna school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Adna School District.png "Adna School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Adna School District.png "Adna School District Historical Demographics")
 
 ___
 

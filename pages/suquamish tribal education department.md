@@ -5,7 +5,7 @@ permalink: suquamish tribal education department
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Suquamish Tribal Education Department.png "Suquamish Tribal Education Department Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Suquamish Tribal Education Department.png "Suquamish Tribal Education Department Historical Demographics")
 
 ___
 

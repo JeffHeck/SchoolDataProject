@@ -5,7 +5,7 @@ permalink: arlington school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Arlington School District.png "Arlington School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Arlington School District.png "Arlington School District Historical Demographics")
 
 ___
 

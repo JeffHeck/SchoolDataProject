@@ -5,7 +5,7 @@ permalink: okanogan school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Okanogan School District.png "Okanogan School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Okanogan School District.png "Okanogan School District Historical Demographics")
 
 ___
 

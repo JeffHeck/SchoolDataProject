@@ -5,7 +5,7 @@ permalink: darrington school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Darrington School District.png "Darrington School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Darrington School District.png "Darrington School District Historical Demographics")
 
 ___
 

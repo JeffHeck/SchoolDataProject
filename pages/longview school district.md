@@ -5,7 +5,7 @@ permalink: longview school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Longview School District.png "Longview School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Longview School District.png "Longview School District Historical Demographics")
 
 ___
 

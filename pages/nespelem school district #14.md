@@ -5,7 +5,7 @@ permalink: nespelem school district #14
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Nespelem School District #14.png "Nespelem School District #14 Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Nespelem School District #14.png "Nespelem School District #14 Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: wilson creek school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Wilson Creek School District.png "Wilson Creek School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Wilson Creek School District.png "Wilson Creek School District Historical Demographics")
 
 ___
 

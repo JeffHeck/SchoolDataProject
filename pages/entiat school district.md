@@ -5,7 +5,7 @@ permalink: entiat school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Entiat School District.png "Entiat School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Entiat School District.png "Entiat School District Historical Demographics")
 
 ___
 

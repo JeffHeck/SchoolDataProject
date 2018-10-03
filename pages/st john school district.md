@@ -5,7 +5,7 @@ permalink: st john school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the St John School District.png "St John School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the St John School District.png "St John School District Historical Demographics")
 
 ___
 

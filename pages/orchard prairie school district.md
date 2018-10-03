@@ -5,7 +5,7 @@ permalink: orchard prairie school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Orchard Prairie School District.png "Orchard Prairie School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Orchard Prairie School District.png "Orchard Prairie School District Historical Demographics")
 
 ___
 

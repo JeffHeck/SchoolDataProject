@@ -5,7 +5,7 @@ permalink: hoquiam school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Hoquiam School District.png "Hoquiam School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Hoquiam School District.png "Hoquiam School District Historical Demographics")
 
 ___
 

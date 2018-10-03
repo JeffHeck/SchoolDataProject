@@ -5,7 +5,7 @@ permalink: stanwood-camano school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Stanwood-Camano School District.png "Stanwood-Camano School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Stanwood-Camano School District.png "Stanwood-Camano School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: lopez school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Lopez School District.png "Lopez School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Lopez School District.png "Lopez School District Historical Demographics")
 
 ___
 

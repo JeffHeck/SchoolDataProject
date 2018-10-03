@@ -5,7 +5,7 @@ permalink: port townsend school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Port Townsend School District.png "Port Townsend School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Port Townsend School District.png "Port Townsend School District Historical Demographics")
 
 ___
 

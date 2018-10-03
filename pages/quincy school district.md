@@ -5,7 +5,7 @@ permalink: quincy school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Quincy School District.png "Quincy School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Quincy School District.png "Quincy School District Historical Demographics")
 
 ___
 

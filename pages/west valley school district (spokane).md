@@ -5,7 +5,7 @@ permalink: west valley school district (spokane)
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the West Valley School District (Spokane).png "West Valley School District (Spokane) Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the West Valley School District (Spokane).png "West Valley School District (Spokane) Historical Demographics")
 
 ___
 

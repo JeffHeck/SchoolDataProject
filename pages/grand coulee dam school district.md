@@ -5,7 +5,7 @@ permalink: grand coulee dam school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Grand Coulee Dam School District.png "Grand Coulee Dam School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Grand Coulee Dam School District.png "Grand Coulee Dam School District Historical Demographics")
 
 ___
 

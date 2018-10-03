@@ -5,7 +5,7 @@ permalink: central kitsap school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Central Kitsap School District.png "Central Kitsap School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Central Kitsap School District.png "Central Kitsap School District Historical Demographics")
 
 ___
 

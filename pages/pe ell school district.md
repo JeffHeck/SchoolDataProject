@@ -5,7 +5,7 @@ permalink: pe ell school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Pe Ell School District.png "Pe Ell School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Pe Ell School District.png "Pe Ell School District Historical Demographics")
 
 ___
 

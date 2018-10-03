@@ -5,7 +5,7 @@ permalink: wahluke school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Wahluke School District.png "Wahluke School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Wahluke School District.png "Wahluke School District Historical Demographics")
 
 ___
 

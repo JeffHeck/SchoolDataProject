@@ -5,7 +5,7 @@ permalink: stevenson-carson school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Stevenson-Carson School District.png "Stevenson-Carson School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Stevenson-Carson School District.png "Stevenson-Carson School District Historical Demographics")
 
 ___
 

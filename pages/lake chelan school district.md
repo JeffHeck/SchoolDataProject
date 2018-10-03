@@ -5,7 +5,7 @@ permalink: lake chelan school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Lake Chelan School District.png "Lake Chelan School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Lake Chelan School District.png "Lake Chelan School District Historical Demographics")
 
 ___
 

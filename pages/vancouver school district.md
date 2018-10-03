@@ -5,7 +5,7 @@ permalink: vancouver school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Vancouver School District.png "Vancouver School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Vancouver School District.png "Vancouver School District Historical Demographics")
 
 ___
 

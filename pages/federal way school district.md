@@ -5,7 +5,7 @@ permalink: federal way school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Federal Way School District.png "Federal Way School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Federal Way School District.png "Federal Way School District Historical Demographics")
 
 ___
 

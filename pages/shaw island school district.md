@@ -5,7 +5,7 @@ permalink: shaw island school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Shaw Island School District.png "Shaw Island School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Shaw Island School District.png "Shaw Island School District Historical Demographics")
 
 ___
 

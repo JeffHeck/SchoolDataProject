@@ -5,7 +5,7 @@ permalink: manson school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Manson School District.png "Manson School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Manson School District.png "Manson School District Historical Demographics")
 
 ___
 

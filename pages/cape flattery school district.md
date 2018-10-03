@@ -5,7 +5,7 @@ permalink: cape flattery school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Cape Flattery School District.png "Cape Flattery School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Cape Flattery School District.png "Cape Flattery School District Historical Demographics")
 
 ___
 

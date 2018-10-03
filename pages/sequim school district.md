@@ -5,7 +5,7 @@ permalink: sequim school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Sequim School District.png "Sequim School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Sequim School District.png "Sequim School District Historical Demographics")
 
 ___
 

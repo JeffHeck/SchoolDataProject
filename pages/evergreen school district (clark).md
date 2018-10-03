@@ -5,7 +5,7 @@ permalink: evergreen school district (clark)
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Evergreen School District (Clark).png "Evergreen School District (Clark) Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Evergreen School District (Clark).png "Evergreen School District (Clark) Historical Demographics")
 
 ___
 

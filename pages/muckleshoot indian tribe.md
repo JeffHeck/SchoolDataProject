@@ -5,7 +5,7 @@ permalink: muckleshoot indian tribe
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Muckleshoot Indian Tribe.png "Muckleshoot Indian Tribe Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Muckleshoot Indian Tribe.png "Muckleshoot Indian Tribe Historical Demographics")
 
 ___
 

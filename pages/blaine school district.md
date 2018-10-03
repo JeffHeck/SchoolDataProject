@@ -5,7 +5,7 @@ permalink: blaine school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Blaine School District.png "Blaine School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Blaine School District.png "Blaine School District Historical Demographics")
 
 ___
 

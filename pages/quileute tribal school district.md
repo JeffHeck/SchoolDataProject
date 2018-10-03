@@ -5,7 +5,7 @@ permalink: quileute tribal school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Quileute Tribal School District.png "Quileute Tribal School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Quileute Tribal School District.png "Quileute Tribal School District Historical Demographics")
 
 ___
 

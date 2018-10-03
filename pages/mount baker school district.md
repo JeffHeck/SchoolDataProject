@@ -5,7 +5,7 @@ permalink: mount baker school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Mount Baker School District.png "Mount Baker School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Mount Baker School District.png "Mount Baker School District Historical Demographics")
 
 ___
 

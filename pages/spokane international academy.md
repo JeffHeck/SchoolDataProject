@@ -5,7 +5,7 @@ permalink: spokane international academy
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Spokane International Academy.png "Spokane International Academy Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Spokane International Academy.png "Spokane International Academy Historical Demographics")
 
 ___
 

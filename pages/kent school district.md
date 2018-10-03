@@ -5,7 +5,7 @@ permalink: kent school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Kent School District.png "Kent School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Kent School District.png "Kent School District Historical Demographics")
 
 ___
 

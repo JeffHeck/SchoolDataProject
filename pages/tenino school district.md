@@ -5,7 +5,7 @@ permalink: tenino school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Tenino School District.png "Tenino School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Tenino School District.png "Tenino School District Historical Demographics")
 
 ___
 

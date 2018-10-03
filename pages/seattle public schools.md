@@ -5,7 +5,7 @@ permalink: seattle public schools
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Seattle Public Schools.png "Seattle Public Schools Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Seattle Public Schools.png "Seattle Public Schools Historical Demographics")
 
 ___
 

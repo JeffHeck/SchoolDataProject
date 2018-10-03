@@ -5,7 +5,7 @@ permalink: woodland school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Woodland School District.png "Woodland School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Woodland School District.png "Woodland School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: pateros school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Pateros School District.png "Pateros School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Pateros School District.png "Pateros School District Historical Demographics")
 
 ___
 

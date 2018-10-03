@@ -5,7 +5,7 @@ permalink: lake quinault school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Lake Quinault School District.png "Lake Quinault School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Lake Quinault School District.png "Lake Quinault School District Historical Demographics")
 
 ___
 

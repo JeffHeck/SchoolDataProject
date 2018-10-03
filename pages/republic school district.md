@@ -5,7 +5,7 @@ permalink: republic school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Republic School District.png "Republic School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Republic School District.png "Republic School District Historical Demographics")
 
 ___
 

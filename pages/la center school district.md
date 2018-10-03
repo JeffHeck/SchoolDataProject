@@ -5,7 +5,7 @@ permalink: la center school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the La Center School District.png "La Center School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the La Center School District.png "La Center School District Historical Demographics")
 
 ___
 

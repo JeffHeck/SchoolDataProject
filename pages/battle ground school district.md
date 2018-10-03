@@ -5,7 +5,7 @@ permalink: battle ground school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Battle Ground School District.png "Battle Ground School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Battle Ground School District.png "Battle Ground School District Historical Demographics")
 
 ___
 

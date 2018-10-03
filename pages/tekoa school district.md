@@ -5,7 +5,7 @@ permalink: tekoa school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Tekoa School District.png "Tekoa School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Tekoa School District.png "Tekoa School District Historical Demographics")
 
 ___
 

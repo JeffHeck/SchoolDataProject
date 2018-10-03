@@ -5,7 +5,7 @@ permalink: queets-clearwater school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Queets-Clearwater School District.png "Queets-Clearwater School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Queets-Clearwater School District.png "Queets-Clearwater School District Historical Demographics")
 
 ___
 

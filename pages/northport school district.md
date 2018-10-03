@@ -5,7 +5,7 @@ permalink: northport school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Northport School District.png "Northport School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Northport School District.png "Northport School District Historical Demographics")
 
 ___
 

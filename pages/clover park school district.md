@@ -5,7 +5,7 @@ permalink: clover park school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Clover Park School District.png "Clover Park School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Clover Park School District.png "Clover Park School District Historical Demographics")
 
 ___
 

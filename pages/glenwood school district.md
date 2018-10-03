@@ -5,7 +5,7 @@ permalink: glenwood school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Glenwood School District.png "Glenwood School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Glenwood School District.png "Glenwood School District Historical Demographics")
 
 ___
 

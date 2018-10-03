@@ -5,7 +5,7 @@ permalink: north river school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the North River School District.png "North River School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the North River School District.png "North River School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: granite falls school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Granite Falls School District.png "Granite Falls School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Granite Falls School District.png "Granite Falls School District Historical Demographics")
 
 ___
 

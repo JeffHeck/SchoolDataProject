@@ -5,7 +5,7 @@ permalink: port angeles school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Port Angeles School District.png "Port Angeles School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Port Angeles School District.png "Port Angeles School District Historical Demographics")
 
 ___
 

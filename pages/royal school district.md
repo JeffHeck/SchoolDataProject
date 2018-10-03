@@ -5,7 +5,7 @@ permalink: royal school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Royal School District.png "Royal School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Royal School District.png "Royal School District Historical Demographics")
 
 ___
 

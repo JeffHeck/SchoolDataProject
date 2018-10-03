@@ -5,7 +5,7 @@ permalink: reardan-edwall school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Reardan-Edwall School District.png "Reardan-Edwall School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Reardan-Edwall School District.png "Reardan-Edwall School District Historical Demographics")
 
 ___
 

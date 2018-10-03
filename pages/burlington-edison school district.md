@@ -5,7 +5,7 @@ permalink: burlington-edison school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Burlington-Edison School District.png "Burlington-Edison School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Burlington-Edison School District.png "Burlington-Edison School District Historical Demographics")
 
 ___
 

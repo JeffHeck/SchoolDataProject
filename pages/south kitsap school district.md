@@ -5,7 +5,7 @@ permalink: south kitsap school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the South Kitsap School District.png "South Kitsap School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the South Kitsap School District.png "South Kitsap School District Historical Demographics")
 
 ___
 

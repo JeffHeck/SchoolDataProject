@@ -5,7 +5,7 @@ permalink: olympia school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Olympia School District.png "Olympia School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Olympia School District.png "Olympia School District Historical Demographics")
 
 ___
 

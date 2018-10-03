@@ -5,7 +5,7 @@ permalink: waterville school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Waterville School District.png "Waterville School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Waterville School District.png "Waterville School District Historical Demographics")
 
 ___
 

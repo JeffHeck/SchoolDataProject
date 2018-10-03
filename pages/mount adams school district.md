@@ -5,7 +5,7 @@ permalink: mount adams school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Mount Adams School District.png "Mount Adams School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Mount Adams School District.png "Mount Adams School District Historical Demographics")
 
 ___
 

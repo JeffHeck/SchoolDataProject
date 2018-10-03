@@ -5,7 +5,7 @@ permalink: asotin-anatone school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Asotin-Anatone School District.png "Asotin-Anatone School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Asotin-Anatone School District.png "Asotin-Anatone School District Historical Demographics")
 
 ___
 

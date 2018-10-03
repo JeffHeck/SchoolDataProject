@@ -5,4 +5,4 @@ permalink: summit public school atlas
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Summit Public School Atlas.png "Summit Public School Atlas Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Summit Public School Atlas.png "Summit Public School Atlas Historical Demographics")

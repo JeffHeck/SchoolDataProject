@@ -5,7 +5,7 @@ permalink: mansfield school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Mansfield School District.png "Mansfield School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Mansfield School District.png "Mansfield School District Historical Demographics")
 
 ___
 

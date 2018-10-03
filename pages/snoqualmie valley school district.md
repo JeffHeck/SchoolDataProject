@@ -5,7 +5,7 @@ permalink: snoqualmie valley school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Snoqualmie Valley School District.png "Snoqualmie Valley School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Snoqualmie Valley School District.png "Snoqualmie Valley School District Historical Demographics")
 
 ___
 

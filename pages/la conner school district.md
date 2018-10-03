@@ -5,7 +5,7 @@ permalink: la conner school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the La Conner School District.png "La Conner School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the La Conner School District.png "La Conner School District Historical Demographics")
 
 ___
 

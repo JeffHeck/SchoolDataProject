@@ -5,7 +5,7 @@ permalink: fife school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Fife School District.png "Fife School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Fife School District.png "Fife School District Historical Demographics")
 
 ___
 

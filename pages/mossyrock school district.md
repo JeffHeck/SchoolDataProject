@@ -5,7 +5,7 @@ permalink: mossyrock school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Mossyrock School District.png "Mossyrock School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Mossyrock School District.png "Mossyrock School District Historical Demographics")
 
 ___
 

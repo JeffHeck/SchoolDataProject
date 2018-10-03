@@ -5,7 +5,7 @@ permalink: orcas island school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Orcas Island School District.png "Orcas Island School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Orcas Island School District.png "Orcas Island School District Historical Demographics")
 
 ___
 

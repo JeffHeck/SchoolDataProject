@@ -5,7 +5,7 @@ permalink: naselle-grays river valley school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Naselle-Grays River Valley School District.png "Naselle-Grays River Valley School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Naselle-Grays River Valley School District.png "Naselle-Grays River Valley School District Historical Demographics")
 
 ___
 

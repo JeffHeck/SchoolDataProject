@@ -5,7 +5,7 @@ permalink: tacoma school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Tacoma School District.png "Tacoma School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Tacoma School District.png "Tacoma School District Historical Demographics")
 
 ___
 

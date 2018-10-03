@@ -5,7 +5,7 @@ permalink: lummi tribal agency
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Lummi Tribal Agency.png "Lummi Tribal Agency Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Lummi Tribal Agency.png "Lummi Tribal Agency Historical Demographics")
 
 ___
 

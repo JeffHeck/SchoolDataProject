@@ -5,7 +5,7 @@ permalink: bremerton school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Bremerton School District.png "Bremerton School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Bremerton School District.png "Bremerton School District Historical Demographics")
 
 ___
 

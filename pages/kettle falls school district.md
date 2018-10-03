@@ -5,7 +5,7 @@ permalink: kettle falls school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Kettle Falls School District.png "Kettle Falls School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Kettle Falls School District.png "Kettle Falls School District Historical Demographics")
 
 ___
 

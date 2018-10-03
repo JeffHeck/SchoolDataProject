@@ -5,7 +5,7 @@ permalink: coupeville school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Coupeville School District.png "Coupeville School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Coupeville School District.png "Coupeville School District Historical Demographics")
 
 ___
 

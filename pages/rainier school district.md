@@ -5,7 +5,7 @@ permalink: rainier school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Rainier School District.png "Rainier School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Rainier School District.png "Rainier School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: green dot public schools excel
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Green Dot Public Schools Excel.png "Green Dot Public Schools Excel Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Green Dot Public Schools Excel.png "Green Dot Public Schools Excel Historical Demographics")
 
 ___
 

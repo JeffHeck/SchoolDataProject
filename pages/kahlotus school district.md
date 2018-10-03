@@ -5,7 +5,7 @@ permalink: kahlotus school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Kahlotus School District.png "Kahlotus School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Kahlotus School District.png "Kahlotus School District Historical Demographics")
 
 ___
 

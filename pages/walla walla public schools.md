@@ -5,7 +5,7 @@ permalink: walla walla public schools
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Walla Walla Public Schools.png "Walla Walla Public Schools Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Walla Walla Public Schools.png "Walla Walla Public Schools Historical Demographics")
 
 ___
 

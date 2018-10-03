@@ -5,7 +5,7 @@ permalink: selkirk school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Selkirk School District.png "Selkirk School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Selkirk School District.png "Selkirk School District Historical Demographics")
 
 ___
 

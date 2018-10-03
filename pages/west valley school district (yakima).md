@@ -5,7 +5,7 @@ permalink: west valley school district (yakima)
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the West Valley School District (Yakima).png "West Valley School District (Yakima) Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the West Valley School District (Yakima).png "West Valley School District (Yakima) Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: oakesdale school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Oakesdale School District.png "Oakesdale School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Oakesdale School District.png "Oakesdale School District Historical Demographics")
 
 ___
 

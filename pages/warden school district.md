@@ -5,7 +5,7 @@ permalink: warden school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Warden School District.png "Warden School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Warden School District.png "Warden School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: rainier prep charter school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Rainier Prep Charter School District.png "Rainier Prep Charter School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Rainier Prep Charter School District.png "Rainier Prep Charter School District Historical Demographics")
 
 ___
 

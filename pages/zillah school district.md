@@ -5,7 +5,7 @@ permalink: zillah school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Zillah School District.png "Zillah School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Zillah School District.png "Zillah School District Historical Demographics")
 
 ___
 

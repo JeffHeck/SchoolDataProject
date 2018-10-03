@@ -5,7 +5,7 @@ permalink: peninsula school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Peninsula School District.png "Peninsula School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Peninsula School District.png "Peninsula School District Historical Demographics")
 
 ___
 

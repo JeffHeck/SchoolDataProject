@@ -5,7 +5,7 @@ permalink: prescott school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Prescott School District.png "Prescott School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Prescott School District.png "Prescott School District Historical Demographics")
 
 ___
 

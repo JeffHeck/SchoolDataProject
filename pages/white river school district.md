@@ -5,7 +5,7 @@ permalink: white river school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the White River School District.png "White River School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the White River School District.png "White River School District Historical Demographics")
 
 ___
 

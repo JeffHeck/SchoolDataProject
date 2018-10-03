@@ -5,7 +5,7 @@ permalink: tumwater school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Tumwater School District.png "Tumwater School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Tumwater School District.png "Tumwater School District Historical Demographics")
 
 ___
 

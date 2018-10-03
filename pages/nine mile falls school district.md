@@ -5,7 +5,7 @@ permalink: nine mile falls school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Nine Mile Falls School District.png "Nine Mile Falls School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Nine Mile Falls School District.png "Nine Mile Falls School District Historical Demographics")
 
 ___
 

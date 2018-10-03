@@ -5,7 +5,7 @@ permalink: snohomish school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Snohomish School District.png "Snohomish School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Snohomish School District.png "Snohomish School District Historical Demographics")
 
 ___
 

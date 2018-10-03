@@ -5,7 +5,7 @@ permalink: kittitas school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Kittitas School District.png "Kittitas School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Kittitas School District.png "Kittitas School District Historical Demographics")
 
 ___
 

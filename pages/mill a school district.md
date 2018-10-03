@@ -5,7 +5,7 @@ permalink: mill a school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Mill A School District.png "Mill A School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Mill A School District.png "Mill A School District Historical Demographics")
 
 ___
 

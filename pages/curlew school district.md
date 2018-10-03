@@ -5,7 +5,7 @@ permalink: curlew school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Curlew School District.png "Curlew School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Curlew School District.png "Curlew School District Historical Demographics")
 
 ___
 

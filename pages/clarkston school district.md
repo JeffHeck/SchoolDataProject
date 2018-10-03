@@ -5,7 +5,7 @@ permalink: clarkston school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Clarkston School District.png "Clarkston School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Clarkston School District.png "Clarkston School District Historical Demographics")
 
 ___
 

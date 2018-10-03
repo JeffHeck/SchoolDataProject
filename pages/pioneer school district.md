@@ -5,7 +5,7 @@ permalink: pioneer school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Pioneer School District.png "Pioneer School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Pioneer School District.png "Pioneer School District Historical Demographics")
 
 ___
 

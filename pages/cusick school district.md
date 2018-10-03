@@ -5,7 +5,7 @@ permalink: cusick school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Cusick School District.png "Cusick School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Cusick School District.png "Cusick School District Historical Demographics")
 
 ___
 

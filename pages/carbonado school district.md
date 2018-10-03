@@ -5,7 +5,7 @@ permalink: carbonado school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Carbonado School District.png "Carbonado School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Carbonado School District.png "Carbonado School District Historical Demographics")
 
 ___
 

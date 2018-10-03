@@ -5,7 +5,7 @@ permalink: sprague school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Sprague School District.png "Sprague School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Sprague School District.png "Sprague School District Historical Demographics")
 
 ___
 

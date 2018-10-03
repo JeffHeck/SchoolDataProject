@@ -5,7 +5,7 @@ permalink: sultan school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Sultan School District.png "Sultan School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Sultan School District.png "Sultan School District Historical Demographics")
 
 ___
 

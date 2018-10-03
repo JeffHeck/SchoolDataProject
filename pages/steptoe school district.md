@@ -5,7 +5,7 @@ permalink: steptoe school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Steptoe School District.png "Steptoe School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Steptoe School District.png "Steptoe School District Historical Demographics")
 
 ___
 

@@ -5,7 +5,7 @@ permalink: washougal school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Washougal School District.png "Washougal School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Washougal School District.png "Washougal School District Historical Demographics")
 
 ___
 

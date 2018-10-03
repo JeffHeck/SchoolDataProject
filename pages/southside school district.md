@@ -5,7 +5,7 @@ permalink: southside school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Southside School District.png "Southside School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Southside School District.png "Southside School District Historical Demographics")
 
 ___
 

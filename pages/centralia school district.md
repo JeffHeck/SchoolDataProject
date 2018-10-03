@@ -5,7 +5,7 @@ permalink: centralia school district
 ---
 
 
-[Historical Demographics](pages/Historical Demographics for the Centralia School District.png "Centralia School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Centralia School District.png "Centralia School District Historical Demographics")
 
 ___
 
