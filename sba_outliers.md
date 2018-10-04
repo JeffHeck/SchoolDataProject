@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SBA Outliers
+title: Smarter Balanced Assessment (SBA) Outliers
 permalink:
 ---
 
