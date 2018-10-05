@@ -16,12 +16,6 @@ Aide
 
 ___
 
-Crafts-Trades
-![Crafts-Trades Image](pagesManual/DutyTitleCompensation/Average Compensation for Crafts-TradesAll WA School Districts.png "Crafts-Trades")
-[ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for Crafts-TradesTop 20 Districts.png "Crafts-Trades Top 20 districts")
-
-___
-
 Contractor Teacher
 ![Contractor Teacher Image](pagesManual/DutyTitleCompensation/Average Compensation for Contractor TeacherAll WA School Districts.png "Contractor Teacher")
 [ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for Contractor TeacherTop 20 Districts.png "Contractor Teacher Top 20 districts")
@@ -31,6 +25,12 @@ ___
 Counselor
 ![Counselor Image](pagesManual/DutyTitleCompensation/Average Compensation for CounselorAll WA School Districts.png "Counselor")
 [ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for CounselorTop 20 Districts.png "Counselor Top 20 districts")
+
+___
+
+Crafts-Trades
+![Crafts-Trades Image](pagesManual/DutyTitleCompensation/Average Compensation for Crafts-TradesAll WA School Districts.png "Crafts-Trades")
+[ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for Crafts-TradesTop 20 Districts.png "Crafts-Trades Top 20 districts")
 
 ___
 
@@ -88,6 +88,12 @@ Library Media Specialist
 
 ___
 
+Nurse
+![Nurse Image](pagesManual/DutyTitleCompensation/Average Compensation for NurseAll WA School Districts.png "Nurse")
+[ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for NurseTop 20 Districts.png "Nurse Top 20 districts")
+
+___
+
 Occupational Therapist
 ![Occupational Therapist Image](pagesManual/DutyTitleCompensation/Average Compensation for Occupational TherapistAll WA School Districts.png "Occupational Therapist")
 [ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for Occupational TherapistTop 20 Districts.png "Occupational Therapist Top 20 districts")
@@ -130,12 +136,6 @@ Other Teacher
 
 ___
 
-Nurse
-![Nurse Image](pagesManual/DutyTitleCompensation/Average Compensation for NurseAll WA School Districts.png "Nurse")
-[ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for NurseTop 20 Districts.png "Nurse Top 20 districts")
-
-___
-
 Physical Therapist
 ![Physical Therapist Image](pagesManual/DutyTitleCompensation/Average Compensation for Physical TherapistAll WA School Districts.png "Physical Therapist")
 [ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for Physical TherapistTop 20 Districts.png "Physical Therapist Top 20 districts")
@@ -166,15 +166,15 @@ Secondary Principal
 
 ___
 
-Secondary Vice Principal
-![Secondary Vice Principal Image](pagesManual/DutyTitleCompensation/Average Compensation for Secondary Vice PrincipalAll WA School Districts.png "Secondary Vice Principal")
-[ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for Secondary Vice PrincipalTop 20 Districts.png "Secondary Vice Principal Top 20 districts")
-
-___
-
 Secondary Teacher
 ![Secondary Teacher Image](pagesManual/DutyTitleCompensation/Average Compensation for Secondary TeacherAll WA School Districts.png "Secondary Teacher")
 [ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for Secondary TeacherTop 20 Districts.png "Secondary Teacher Top 20 districts")
+
+___
+
+Secondary Vice Principal
+![Secondary Vice Principal Image](pagesManual/DutyTitleCompensation/Average Compensation for Secondary Vice PrincipalAll WA School Districts.png "Secondary Vice Principal")
+[ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for Secondary Vice PrincipalTop 20 Districts.png "Secondary Vice Principal Top 20 districts")
 
 ___
 
