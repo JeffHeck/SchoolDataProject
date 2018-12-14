@@ -13,3 +13,14 @@ ___
 
 [Chart 1 of 1](pages/SBANespelem School District #144THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
 
+
+___
+
+## Budget Information
+### Note:
+- The OSPI groups expenses into categories called Objects
+
+[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Nespelem School District #14Dollars Per Student.png " Dollars Per Student")
+
+[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Nespelem School District #14Dollars Per StudentLine.png " Dollars Per Student")
+
