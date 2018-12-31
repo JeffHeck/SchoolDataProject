@@ -6,9 +6,10 @@
     <!--<h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="row">
+        <p>{{- site.description | escape -}}</p>
+		<!--
         <ul class="contact-list">
-		  <!-- Remove footer info for now
           <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
@@ -19,20 +20,22 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
-		  -->
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <!--
-		TODO Remove social for now
-		{%- include social.html -%}
 		-->
       </div>
 
-      <div class="footer-col footer-col-3">
+      <!--
+      <div class="footer-col footer-col-2">
+        <p>{{- site.description | escape -}}</p>
+		{%- include social.html -%}
+      </div>
+      -->
+
+      <!--
+	  <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
+	  -->
     </div>
 
   </div>
