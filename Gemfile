@@ -4,4 +4,4 @@ source "https://rubygems.org"
 gemspec
 
 # Test adding theme
-gem "merlot"
+#gem "merlot"

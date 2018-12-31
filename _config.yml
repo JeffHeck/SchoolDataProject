@@ -1,8 +1,7 @@
 title: School Data Project
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A school data analysis project. 
-  Currently Washington State K-12 schools are covered.
+description:  #A school data analysis project. Currently, Washington State's public K-12 schools are covered.
+#author:  
 #baseurl: "/SchoolDataProject" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # social links
@@ -39,7 +38,6 @@ minima:
 # - about.md
 
 # Build settings
-#theme: minima
 theme: minima
 
 plugins:
