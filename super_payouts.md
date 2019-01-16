@@ -4,7 +4,8 @@ title: Top 10 Highest Single Year Payouts to Superintendents
 permalink:
 ---
 
-The top 10 single year payouts to superintendents in constant 2017 dollars.
+Constant 2018 dollars  
+School year ranges: 2000/2001 to 2017/2018
 ![Top 10 Image](pagesManual/SuperPayouts/SuperintendentMaxCompensation10.png "Top 10")
 
 ___
