@@ -40,6 +40,18 @@ ___
 
 [Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Riverside School DistrictDollars Per StudentLine.png " Dollars Per Student")
 
+
+___
+
+## Teachers' Compensation Information
+### Note:
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Total Salary = Base Salary + Supplemental Salary
+- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
+- Mandatory Benefits include pension funding and payroll taxes
+
+[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Riverside Highlighted.png "Riverside School District Teachers Average Total Salary")
+
 [ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Riverside SD in Current DollarsDuty Title = Secondary Teacher.png "Riverside School District Secondary Teachers Historical Compensation")
 
 [ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Riverside SD in Current DollarsDuty Title = Elementary Teacher.png "Riverside School District Elementary Teachers Historical Compensation")

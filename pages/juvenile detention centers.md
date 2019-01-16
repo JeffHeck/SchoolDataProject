@@ -38,3 +38,15 @@ ___
 
 [Yakima Adult Jail](pages/Dual Credit BarChartJuvenile Detention Centers Yakima Adult Jail.png "Yakima Adult Jail Dual Credit Participation")
 
+
+___
+
+## Teachers' Compensation Information
+### Note:
+- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Total Salary = Base Salary + Supplemental Salary
+- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
+- Mandatory Benefits include pension funding and payroll taxes
+
+[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Juvenile Detention Centers Highlighted.png "Juvenile Detention Centers Teachers Average Total Salary")
+
