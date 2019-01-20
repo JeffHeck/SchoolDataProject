@@ -50,6 +50,8 @@ ___
 
 [Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the St John School DistrictDollars Per Student.png " Dollars Per Student")
 
+[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the St John School DistrictDollars Per StudentLine.png " Dollars Per Student")
+
 
 ___
 

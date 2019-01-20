@@ -15,6 +15,8 @@ ___
 
 [Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Star School District No 054Dollars Per Student.png " Dollars Per Student")
 
+[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Star School District No 054Dollars Per StudentLine.png " Dollars Per Student")
+
 
 ___
 

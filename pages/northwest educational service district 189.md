@@ -5,6 +5,8 @@ permalink: northwest educational service district 189
 ---
 
 
+[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Northwest Educational Service District 189Dollars Per StudentLine.png " Dollars Per Student")
+
 
 ___
 
