@@ -46,6 +46,15 @@ ___
 
 ___
 
+## Budget Information
+### Note:
+- The OSPI groups expenses into categories called Objects
+
+[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Steilacoom Hist School DistrictDollars Per Student.png " Dollars Per Student")
+
+
+___
+
 ## Teachers' Compensation Information
 ### Note:
 - Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher

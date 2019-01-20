@@ -9,6 +9,15 @@ permalink: summit public school atlas
 
 ___
 
+## Budget Information
+### Note:
+- The OSPI groups expenses into categories called Objects
+
+[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Summit Public School AtlasDollars Per Student.png " Dollars Per Student")
+
+
+___
+
 ## Teachers' Compensation Information
 ### Note:
 - Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher

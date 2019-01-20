@@ -9,6 +9,15 @@ permalink: star school district no 054
 
 ___
 
+## Budget Information
+### Note:
+- The OSPI groups expenses into categories called Objects
+
+[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Star School District No 054Dollars Per Student.png " Dollars Per Student")
+
+
+___
+
 ## Teachers' Compensation Information
 ### Note:
 - Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
