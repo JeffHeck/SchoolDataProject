@@ -10,7 +10,7 @@ Pertinent statistics and charts are presented on K-12 schools in Washington Stat
 
 Washington is in the midst of turmoil as the McCleary decision and resulting law changes take effect. There has been a long history of unequal funding for the 300+ school districts in Washington. It is not clear yet if the McCleary related changes will help or hinder student learning while being fair to taxpayers in the Evergreen State.
 
-Data Sources:
+## Data Sources:
 
 For the SBA (Smarter Balanced Assessment), school employee compensation, and demographic data:
 
@@ -20,9 +20,13 @@ For the college going and college remediation rates:
 
 [Education Research and Data Center](https://erdc.wa.gov/)
 
-Recommended Links:
+## Recommended Links:
 
 [Salary databases for all school personnel in Washington State](http://www.k12.wa.us/safs/db.asp)
+
+## Contact Info:
+
+[Contact](mailto:info@schooldataproject.com)
 
 
 
