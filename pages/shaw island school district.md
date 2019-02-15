@@ -20,25 +20,14 @@ ___
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Shaw Island Highlighted.png "Shaw Island School District Teachers Average Total Salary")
-
-[ Secondary Teachers' Compensation](pages/Compensation for the Shaw Island School DistrictDuty Title = Secondary Teacher.png "Shaw Island School District All Secondary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Shaw Island SD in Current DollarsDuty Title = Secondary Teacher.png "Shaw Island School District Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Shaw Island SD in Current DollarsDuty Title = Elementary Teacher.png "Shaw Island School District Elementary Teachers Historical Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the Shaw Island SD in Current DollarsDuty Title = Superintendent.png "Shaw Island School District Superintendent Compensation History")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesShaw Island School District.png "Shaw Island School District Selected Duty Titles")
 

@@ -75,38 +75,14 @@ ___
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Walla Walla Highlighted.png "Walla Walla Public Schools Teachers Average Total Salary")
-
-[ Secondary Teachers' Compensation](pages/Compensation for the Walla Walla School DistrictDuty Title = Secondary Teacher.png "Walla Walla Public Schools All Secondary Teachers Compensation")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Walla Walla School DistrictDuty Title = Elem. Homeroom Teacher.png "Walla Walla Public Schools All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Walla Walla SD in Current DollarsDuty Title = Secondary Teacher.png "Walla Walla Public Schools Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Walla Walla SD in Current DollarsDuty Title = Elementary Teacher.png "Walla Walla Public Schools Elementary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the Walla Walla School DistrictDuty Title = District Level Administrators.png "Walla Walla Public Schools District Level Administrators Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the Walla Walla SD in Current DollarsDuty Title = Superintendent.png "Walla Walla Public Schools Superintendent Compensation History")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesWalla Walla School District.png "Walla Walla Public Schools Selected Duty Titles")
 

@@ -79,38 +79,14 @@ ___
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With South Kitsap Highlighted.png "South Kitsap School District Teachers Average Total Salary")
-
-[ Secondary Teachers' Compensation](pages/Compensation for the South Kitsap School DistrictDuty Title = Secondary Teacher.png "South Kitsap School District All Secondary Teachers Compensation")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the South Kitsap School DistrictDuty Title = Elem. Homeroom Teacher.png "South Kitsap School District All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the South Kitsap SD in Current DollarsDuty Title = Secondary Teacher.png "South Kitsap School District Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the South Kitsap SD in Current DollarsDuty Title = Elementary Teacher.png "South Kitsap School District Elementary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the South Kitsap School DistrictDuty Title = District Level Administrators.png "South Kitsap School District District Level Administrators Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the South Kitsap SD in Current DollarsDuty Title = Superintendent.png "South Kitsap School District Superintendent Compensation History")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesSouth Kitsap School District.png "South Kitsap School District Selected Duty Titles")
 

@@ -20,16 +20,14 @@ ___
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With SOAR Academy Charter District Highlighted.png "SOAR Academy Charter District Teachers Average Total Salary")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the SOAR Academy Charter District School DistrictDuty Title = Elem. Homeroom Teacher.png "SOAR Academy Charter District All Elementary Teachers Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the SOAR Academy Charter District SD in Current DollarsDuty Title = Elementary Teacher.png "SOAR Academy Charter District Elementary Teachers Historical Compensation")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesSOAR Academy Charter District School District.png "SOAR Academy Charter District Selected Duty Titles")
 

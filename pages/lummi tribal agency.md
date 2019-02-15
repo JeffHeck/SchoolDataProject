@@ -55,20 +55,14 @@ ___
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Lummi Tribal Agency Highlighted.png "Lummi Tribal Agency Teachers Average Total Salary")
-
-[ Secondary Teachers' Compensation](pages/Compensation for the Lummi Tribal Agency School DistrictDuty Title = Secondary Teacher.png "Lummi Tribal Agency All Secondary Teachers Compensation")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Lummi Tribal Agency School DistrictDuty Title = Elem. Homeroom Teacher.png "Lummi Tribal Agency All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lummi Tribal Agency SD in Current DollarsDuty Title = Secondary Teacher.png "Lummi Tribal Agency Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Lummi Tribal Agency SD in Current DollarsDuty Title = Elementary Teacher.png "Lummi Tribal Agency Elementary Teachers Historical Compensation")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesLummi Tribal Agency School District.png "Lummi Tribal Agency Selected Duty Titles")
 

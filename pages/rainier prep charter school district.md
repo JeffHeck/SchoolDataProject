@@ -34,20 +34,14 @@ ___
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Rainier Prep Charter Highlighted.png "Rainier Prep Charter School District Teachers Average Total Salary")
-
-[ Secondary Teachers' Compensation](pages/Compensation for the Rainier Prep Charter School DistrictDuty Title = Secondary Teacher.png "Rainier Prep Charter School District All Secondary Teachers Compensation")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Rainier Prep Charter School DistrictDuty Title = Elem. Homeroom Teacher.png "Rainier Prep Charter School District All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Rainier Prep Charter SD in Current DollarsDuty Title = Secondary Teacher.png "Rainier Prep Charter School District Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Rainier Prep Charter SD in Current DollarsDuty Title = Elementary Teacher.png "Rainier Prep Charter School District Elementary Teachers Historical Compensation")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesRainier Prep Charter School District.png "Rainier Prep Charter School District Selected Duty Titles")
 

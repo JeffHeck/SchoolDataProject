@@ -55,38 +55,14 @@ ___
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Muckleshoot Indian Tribe Highlighted.png "Muckleshoot Indian Tribe Teachers Average Total Salary")
-
-[ Secondary Teachers' Compensation](pages/Compensation for the Muckleshoot Indian Tribe School DistrictDuty Title = Secondary Teacher.png "Muckleshoot Indian Tribe All Secondary Teachers Compensation")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Muckleshoot Indian Tribe School DistrictDuty Title = Elem. Homeroom Teacher.png "Muckleshoot Indian Tribe All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Muckleshoot Indian Tribe SD in Current DollarsDuty Title = Secondary Teacher.png "Muckleshoot Indian Tribe Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Muckleshoot Indian Tribe SD in Current DollarsDuty Title = Elementary Teacher.png "Muckleshoot Indian Tribe Elementary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the Muckleshoot Indian Tribe School DistrictDuty Title = District Level Administrators.png "Muckleshoot Indian Tribe District Level Administrators Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the Muckleshoot Indian Tribe SD in Current DollarsDuty Title = Superintendent.png "Muckleshoot Indian Tribe Superintendent Compensation History")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesMuckleshoot Indian Tribe School District.png "Muckleshoot Indian Tribe Selected Duty Titles")
 
