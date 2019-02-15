@@ -1,12 +1,15 @@
 ---
 layout: page
-title: 4 Year F195 Projected Budgets
+title: General Fund 4 Year Projected Budgets
 permalink:
 ---
 As of the 2018-2019 school year, all WA school districts are now required to submit a 4 year projected budget. 
 Summary charts for the category of General Fund are listed below. 
 
 Note: All bar charts are sorted by dollar amounts, not by district enrollment.
+- General Fund 2018-2019 Projected Balance in Total Dollars for All WA School Districts
+- General Fund 2019-2020 Projected Balance in Total Dollars for All WA School Districts
+- General Fund 2020-2021 Projected Balance in Total Dollars for All WA School Districts
 - General Fund 2021-2022 Projected Balance in Total Dollars for All WA School Districts
 - General Fund 2021-2022 Projected Balance in Dollars Per Student for All WA School Districts
 - General Fund 2021-2022 Projected Balance in Total Dollars Highest 20
@@ -16,6 +19,24 @@ Note: All bar charts are sorted by dollar amounts, not by district enrollment.
 - General Fund 2021-2022 Projected Revenues in Dollars Per Student Largest School Districts
 - General Fund 2021-2022 Projected Revenues in Dollars Per Student Smallest School Districts
 - General Fund 2021-2022 Projected Revenues in Dollars Per Student Mid Sized School Districts
+
+___
+
+General Fund 2018-2019 Projected Balance in Total Dollars for All WA School Districts
+
+![2018-2019 Projected Balance](pagesManual/4YearF195ProjectedBudgets/General Fund Projected Balance For 2018-2019WA School Districts.png "2018-2019 Projected Balance")
+
+___
+
+General Fund 2019-2020 Projected Balance in Total Dollars for All WA School Districts
+
+![2019-2020 Projected Balance](pagesManual/4YearF195ProjectedBudgets/General Fund Projected Balance For 2019-2020WA School Districts.png "2019-2020 Projected Balance")
+
+___
+
+General Fund 2020-2021 Projected Balance in Total Dollars for All WA School Districts
+
+![2020-2021 Projected Balance](pagesManual/4YearF195ProjectedBudgets/General Fund Projected Balance For 2020-2021WA School Districts.png "2020-2021 Projected Balance")
 
 ___
 
