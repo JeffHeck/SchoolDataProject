@@ -44,5 +44,5 @@ ___
 
 [Yakima Valley Technical Skills Center](pages/Dual Credit BarChartSkills Centers Yakima Valley Technical Skills Center.png "Yakima Valley Technical Skills Center Dual Credit Participation")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Skills CentersDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSkills Centers.png " Historical and Projected Total Enrollment")
 

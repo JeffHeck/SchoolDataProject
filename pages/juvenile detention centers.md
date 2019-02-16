@@ -38,5 +38,5 @@ ___
 
 [Yakima Adult Jail](pages/Dual Credit BarChartJuvenile Detention Centers Yakima Adult Jail.png "Yakima Adult Jail Dual Credit Participation")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Juvenile Detention CentersDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentJuvenile Detention Centers.png " Historical and Projected Total Enrollment")
 

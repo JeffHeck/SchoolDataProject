@@ -12,5 +12,5 @@ ___
 
 [GRAVITY High School](pages/Dual Credit BarChartCapital Region ESD 113 GRAVITY High School.png "GRAVITY High School Dual Credit Participation")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Capital Region ESD 113Dollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentCapital Region ESD 113.png " Historical and Projected Total Enrollment")
 

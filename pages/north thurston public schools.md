@@ -65,12 +65,10 @@ ___
 ___
 
 ## Budget Information
-### Note:
-- The OSPI groups expenses into categories called Objects
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the North Thurston Public SchoolsDollars Per Student.png " Dollars Per Student")
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the North Thurston Public SchoolsDollars Per Student.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the North Thurston Public SchoolsDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentNorth Thurston Public Schools.png " Historical and Projected Total Enrollment")
 
 
 ___

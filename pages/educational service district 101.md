@@ -5,5 +5,5 @@ permalink: educational service district 101
 ---
 
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Educational Service District 101Dollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentEducational Service District 101.png " Historical and Projected Total Enrollment")
 

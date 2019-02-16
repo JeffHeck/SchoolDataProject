@@ -26,5 +26,5 @@ ___
 
 [Chief Leschi Schools](pages/Dual Credit BarChartUnaffiliated Tribal Schools Chief Leschi Schools.png "Chief Leschi Schools Dual Credit Participation")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Unaffiliated Tribal SchoolsDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentUnaffiliated Tribal Schools.png " Historical and Projected Total Enrollment")
 

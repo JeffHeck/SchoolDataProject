@@ -41,5 +41,5 @@ ___
 
 [Washington Youth Academy](pages/Dual Credit BarChartInstitutions Washington Youth Academy.png "Washington Youth Academy Dual Credit Participation")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the InstitutionsDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentInstitutions.png " Historical and Projected Total Enrollment")
 

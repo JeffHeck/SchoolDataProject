@@ -10,10 +10,8 @@ permalink: green dot public schools rainier valley
 ___
 
 ## Budget Information
-### Note:
-- The OSPI groups expenses into categories called Objects
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Green Dot Public Schools Rainier ValleyDollars Per Student.png " Dollars Per Student")
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Green Dot Public Schools Rainier ValleyDollars Per Student.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Green Dot Public Schools Rainier ValleyDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentGreen Dot Public Schools Rainier Valley.png " Historical and Projected Total Enrollment")
 
