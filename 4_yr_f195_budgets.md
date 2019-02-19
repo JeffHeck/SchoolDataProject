@@ -3,8 +3,8 @@ layout: page
 title: General Fund 4 Year Projected Budgets
 permalink:
 ---
-As of the 2018-2019 school year, all WA school districts are now required to submit a 4 year projected budget. 
-Summary charts for the category of General Fund are listed below. 
+As of the 2018-2019 school year, all WA school districts are now required to submit a 4 year projected budget to the OSPI. 
+Summary charts, based on those reports, for the category of General Fund are listed below. 
 
 Note: All bar charts are sorted by dollar amounts, not by district enrollment.
 - General Fund 2018-2019 Projected Balance in Total Dollars for All WA School Districts
