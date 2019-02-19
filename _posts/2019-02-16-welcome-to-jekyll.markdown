@@ -8,6 +8,6 @@ This site is devoted to analyzing school data to inform and assist parents, taxp
 Currently, Washington State's K-12 schools are covered.
 
 Latest additions: 
--added historical and projected total enrollment charts for each district.
--added a report on expenses per student grouping districts by enrollment.
+- added historical and projected total enrollment charts for each district.
+- added a report on expenses per student grouping districts by enrollment.
 
