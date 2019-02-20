@@ -11,6 +11,9 @@ Note:
 - Funds included: General Fund, Debt Service Fund, ASB Fund, Transportation Vehicle Fund
 - Fund excluded: Capital Projects Fund 
 
+Table:
+- State Wide Estimated Revenue and Expense Averages by Fund
+
 Charts:
 - 2018-2019 Estimated Expenses Per Student for All WA School Districts
 - 2018-2019 Estimated Expenses Per Student for WA School Districts with Enrollment Range 1 to 100
@@ -22,6 +25,14 @@ Charts:
 - 2018-2019 Estimated Expenses Per Student for WA School Districts with Enrollment Range 2500 to 5000
 - 2018-2019 Estimated Expenses Per Student for WA School Districts with Enrollment Range 5000 to 10000
 - 2018-2019 Estimated Expenses Per Student for WA School Districts with Enrollment Min of 10000
+
+
+___
+
+State Wide Estimated Revenue and Expense Averages by Fund
+
+![State Wide Revenue and Expense Averages by Fund](pagesManual/4YearF195ProjectedBudgets/StateWideSummary.png "State Wide Revenue and Expense Averages by Fund")
+
 
 ___
 
