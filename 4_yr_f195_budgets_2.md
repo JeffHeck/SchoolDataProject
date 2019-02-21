@@ -12,9 +12,10 @@ Note:
 - Fund excluded: Capital Projects Fund 
 
 Table:
-- State Wide Estimated Revenue and Expense Averages by Fund
+- State-Wide Historical and Projected Ave Revenues and Expenses Per Student by Fund
 
 Charts:
+- State-Wide Historical and Projected Ave Revenues and Expenses Per Student for the General Fund
 - 2018-2019 Estimated Expenses Per Student for All WA School Districts
 - 2018-2019 Estimated Expenses Per Student for WA School Districts with Enrollment Range 1 to 100
 - 2018-2019 Estimated Expenses Per Student for WA School Districts with Enrollment Range 100 to 250
@@ -29,10 +30,15 @@ Charts:
 
 ___
 
-State Wide Estimated Revenue and Expense Averages by Fund
+State-Wide Historical and Projected Ave Revenues and Expenses Per Student by Fund
 
 ![State Wide Revenue and Expense Averages by Fund](pagesManual/4YearF195ProjectedBudgets/StateWideSummary.png "State Wide Revenue and Expense Averages by Fund")
 
+___
+
+State-Wide Historical and Projected Ave Revenues and Expenses Per Student for the General Fund
+
+![State Wide Revenue and Expense Averages General Fund](pagesManual/4YearF195ProjectedBudgets/WA State-Wide Ave Revenues and Expenses Per Student General Fund.png "State Wide Revenue and Expense Averages General Fund")
 
 ___
 
