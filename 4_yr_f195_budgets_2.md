@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Projected Expenses Per Student
+title: 4 Year Projected Budgets 2 of 2
 permalink:
 ---
 As of the 2018-2019 school year, all WA school districts are now required to submit a 4 year projected budget to the OSPI. 
-Summary charts, based on those reports, for expenses per student are listed below for the school year 2018-2019. 
+Summary tables and charts, based on those reports, for revenues and expenses per student are listed below. 
 
 Note: 
 - All bar charts are sorted by dollar amounts, not by district enrollment.
 - Funds included: General Fund, Debt Service Fund, ASB Fund, Transportation Vehicle Fund
 - Fund excluded: Capital Projects Fund 
 
-Table:
+Tables:
 - State-Wide Historical and Projected Ave Revenues and Expenses Per Student by Fund
 
 Charts:
