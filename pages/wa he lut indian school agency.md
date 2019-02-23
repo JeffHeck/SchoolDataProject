@@ -34,5 +34,7 @@ ___
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the WA HE LUT Indian School AgencyDollars Per Student.png " Dollars Per Student")
 
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/WA HE LUT Indian School Agency Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentWA HE LUT Indian School Agency.png " Historical and Projected Total Enrollment")
 

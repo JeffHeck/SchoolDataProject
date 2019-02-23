@@ -50,6 +50,8 @@ ___
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Winlock School DistrictDollars Per Student.png " Dollars Per Student")
 
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Winlock School District Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentWinlock School District.png " Historical and Projected Total Enrollment")
 
 

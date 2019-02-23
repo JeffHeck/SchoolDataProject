@@ -27,5 +27,7 @@ ___
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Green Dot Public Schools ExcelDollars Per Student.png " Dollars Per Student")
 
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Green Dot Public Schools Excel Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentGreen Dot Public Schools Excel.png " Historical and Projected Total Enrollment")
 
