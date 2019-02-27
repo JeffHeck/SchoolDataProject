@@ -15,5 +15,7 @@ ___
 
 [Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Green Dot Public Schools Rainier Valley Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Green Dot Public Schools Rainier Valley Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentGreen Dot Public Schools Rainier Valley.png " Historical and Projected Total Enrollment")
 

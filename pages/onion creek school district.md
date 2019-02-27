@@ -15,6 +15,8 @@ ___
 
 [Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Onion Creek School District Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Onion Creek School District Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentOnion Creek School District.png " Historical and Projected Total Enrollment")
 
 

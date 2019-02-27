@@ -70,6 +70,8 @@ ___
 
 [Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Walla Walla Public Schools Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Walla Walla Public Schools Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentWalla Walla Public Schools.png " Historical and Projected Total Enrollment")
 
 
