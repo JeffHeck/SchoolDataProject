@@ -7,7 +7,6 @@ As of the 2018-2019 school year, all WA school districts are now required to sub
 Summary tables and charts, based on those reports, for revenues and expenses per student are listed below. 
 
 Note: 
-- All bar charts are sorted by dollar amounts, not by district enrollment.
 - Funds included: General Fund, Debt Service Fund, ASB Fund, Transportation Vehicle Fund
 - Fund excluded: Capital Projects Fund 
 
