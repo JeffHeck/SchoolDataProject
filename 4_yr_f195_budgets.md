@@ -33,5 +33,7 @@ ___
 
 Number of Districts with Positive and Negative Balances for the General Fund
 
+There are 307 school districts: 295 regular districts and 12 charter school districts
+
 ![Number of Districts with Positive and Negative Balances](pagesManual/4YearF195ProjectedBudgets/DistrictsRedBlackBalanceGeneral.png "Number of Districts with Positive and Negative Balances")
 
