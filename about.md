@@ -22,7 +22,7 @@ For the college going and college remediation rates:
 
 ## Recommended Links:
 
-[Salary databases for all school personnel in Washington State](http://www.k12.wa.us/safs/db.asp)
+[Kitsap Sun's Washington Teacher Salary Database ](https://data.kitsapsun.com/projects/wa-school/)
 
 ## Contact Info:
 
