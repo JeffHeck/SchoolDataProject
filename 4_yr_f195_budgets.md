@@ -15,6 +15,7 @@ Tables:
 Charts:
 - State-Wide Historical and Projected Budget Amounts for the General Fund
 - State-Wide Historical and Projected Budget Amounts Ave Per Student for the General Fund
+- State-Wide Historical and Projected Enrollment
 - Number of Districts with Projected Positive and Negative Balances by Fund
 
 ___
@@ -34,6 +35,12 @@ ___
 State-Wide Historical and Projected Budget Amounts Ave Per Student for the General Fund
 
 ![State Wide Revenue and Expense Averages General Fund](pagesManual/4YearF195ProjectedBudgets/WA State-Wide Budget Amounts Ave Per Student General Fund.png "State Wide Revenue and Expense Averages General Fund")
+
+___
+
+State-Wide Historical and Projected Enrollment
+
+![State Wide Enrollment](pagesManual/4YearF195ProjectedBudgets/WA State-Wide Historical and Projected Enrollment .png "State Wide Enrollment")
 
 ___
 
