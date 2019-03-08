@@ -8,7 +8,7 @@ This site is devoted to analyzing school data to inform and assist parents, taxp
 Currently, Washington State's K-12 schools are covered.
 
 Latest additions: 
-- added historical and projected total enrollment charts for each district.
-- added a report on expenses per student grouping districts by enrollment.
-- added historical and projected revenues and expenses for the gen fund charts for each district
+- added charts for each district for historical and projected total enrollments.
+- added charts for each district for historical and projected budget amounts for the general fund.
+- updated the state-wide charts (see the reports section) on general fund amounts to include revenues, expenses, net, and balance.
 
