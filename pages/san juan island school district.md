@@ -40,6 +40,10 @@ ___
 
 [Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/San Juan Island School District Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsSan Juan Island School District.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesSan Juan Island School District.png " Historical and Projected Revenue Sources")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSan Juan Island School District.png " Historical and Projected Total Enrollment")
 
 

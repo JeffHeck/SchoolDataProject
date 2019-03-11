@@ -70,6 +70,10 @@ ___
 
 [Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/East Valley School District (Spokane) Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsEast Valley School District (Spokane).png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesEast Valley School District (Spokane).png " Historical and Projected Revenue Sources")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentEast Valley School District (Spokane).png " Historical and Projected Total Enrollment")
 
 

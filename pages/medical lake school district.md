@@ -40,6 +40,10 @@ ___
 
 [Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Medical Lake School District Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsMedical Lake School District.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesMedical Lake School District.png " Historical and Projected Revenue Sources")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentMedical Lake School District.png " Historical and Projected Total Enrollment")
 
 

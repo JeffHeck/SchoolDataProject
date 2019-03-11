@@ -72,6 +72,10 @@ ___
 
 [Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Yelm School District Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsYelm School District.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesYelm School District.png " Historical and Projected Revenue Sources")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentYelm School District.png " Historical and Projected Total Enrollment")
 
 

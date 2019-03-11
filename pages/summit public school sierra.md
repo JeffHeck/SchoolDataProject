@@ -38,6 +38,10 @@ ___
 
 [Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Summit Public School Sierra Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsSummit Public School Sierra.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesSummit Public School Sierra.png " Historical and Projected Revenue Sources")
+
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSummit Public School Sierra.png " Historical and Projected Total Enrollment")
 
 
