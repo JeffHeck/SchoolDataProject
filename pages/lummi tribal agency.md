@@ -44,6 +44,13 @@ ___
 
 ___
 
+## Graduation Rates
+
+[4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Lummi Tribal Agency.png " Graduation Rates")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Lummi Tribal AgencyDollars Per Student.png " Dollars Per Student")

@@ -60,6 +60,13 @@ ___
 
 ___
 
+## Graduation Rates
+
+[4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Kettle Falls School District.png " Graduation Rates")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Kettle Falls School DistrictDollars Per Student.png " Dollars Per Student")
