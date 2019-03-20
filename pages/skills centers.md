@@ -44,5 +44,3 @@ ___
 
 [Yakima Valley Technical Skills Center](pages/Dual Credit BarChartSkills Centers Yakima Valley Technical Skills Center.png "Yakima Valley Technical Skills Center Dual Credit Participation")
 
-[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSkills Centers.png " Historical and Projected Total Enrollment")
-
