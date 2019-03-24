@@ -20,6 +20,11 @@ For the college going and college remediation rates:
 
 [Education Research and Data Center](https://erdc.wa.gov/)
 
+CPI (Consumer Price Index ) data used for inflation adjusted dollars:
+
+[CPI Calculator](https://data.bls.gov/cgi-bin/cpicalc.pl)
+
+
 ## Recommended Links:
 
 [Kitsap Sun's Washington Teacher Salary Database ](https://data.kitsapsun.com/projects/wa-school/)
