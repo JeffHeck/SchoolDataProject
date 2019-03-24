@@ -22,7 +22,7 @@ For the college going and college remediation rates:
 
 CPI (Consumer Price Index ) data used for inflation adjusted dollars:
 
-[CPI Calculator](https://data.bls.gov/cgi-bin/cpicalc.pl)
+[Bureau of Labor Statistics CPI Calculator](https://data.bls.gov/cgi-bin/cpicalc.pl)
 
 
 ## Recommended Links:
