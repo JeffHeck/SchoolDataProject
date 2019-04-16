@@ -8,7 +8,7 @@ permalink:
 
 [4 Year Projected Budgets (2018-2019 through 2021-2022)](4_yr_f195_budgets)
 
-[Examples Of Districts With Rapidly Rising Compensations (2012-2013 through 2018-2019)](districts_excessive_expenses)
+[Examples Of Districts With Rapidly Rising Expenses (2012-2013 through 2018-2019)](districts_excessive_expenses)
 
 [Top 10 Highest Single Year Payouts to WA School Superintendents](super_payouts)
 
