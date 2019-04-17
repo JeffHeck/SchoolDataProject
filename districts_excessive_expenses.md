@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Examples Of Districts With Rapidly Rising Expenses
+title: Examples Of Districts With Rapidly Increasing Spending
 permalink:
 ---
 
