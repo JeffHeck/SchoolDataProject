@@ -71,6 +71,14 @@ Total Compensation Percentiles for Duty Title of Teacher for Selected Districts
 
 ___
 
+2018-2019
+
+Districts Potentially Overstaffed (Minimum enrollment of 1000 students)
+![District Staffing Table Image](pagesManual/DistrictsWithExcessiveExpenses/LowestStudentsPerTeacher.png "District Staffing")
+
+___
+
+
 Note:
 - Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 
