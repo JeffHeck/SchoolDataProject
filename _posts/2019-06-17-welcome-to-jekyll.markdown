@@ -9,4 +9,5 @@ Currently, Washington State's K-12 schools are covered.
 
 Latest additions: 
 - updated dual credit participation charts for each high school
+- added dual credit outliers report
 
