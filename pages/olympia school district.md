@@ -53,13 +53,13 @@ ___
 
 ## Dual Credit Participation
 
-[Avanti High School](pages/Dual Credit BarChartOlympia School District Avanti High School.png "Avanti High School Dual Credit Participation")
+[Avanti High School](pages/hist_dual_credit_participation/Dual Credit BarChartOlympia School District Avanti High School.png "Avanti High School Dual Credit Participation")
 
-[Capital High School](pages/Dual Credit BarChartOlympia School District Capital High School.png "Capital High School Dual Credit Participation")
+[Capital High School](pages/hist_dual_credit_participation/Dual Credit BarChartOlympia School District Capital High School.png "Capital High School Dual Credit Participation")
 
-[Olympia High School](pages/Dual Credit BarChartOlympia School District Olympia High School.png "Olympia High School Dual Credit Participation")
+[Olympia High School](pages/hist_dual_credit_participation/Dual Credit BarChartOlympia School District Olympia High School.png "Olympia High School Dual Credit Participation")
 
-[Olympia Regional Learning Academy](pages/Dual Credit BarChartOlympia School District Olympia Regional Learning Academy.png "Olympia Regional Learning Academy Dual Credit Participation")
+[Olympia Regional Learning Academy](pages/hist_dual_credit_participation/Dual Credit BarChartOlympia School District Olympia Regional Learning Academy.png "Olympia Regional Learning Academy Dual Credit Participation")
 
 
 ___

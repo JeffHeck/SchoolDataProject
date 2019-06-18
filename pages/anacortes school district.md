@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Anacortes High School](pages/Dual Credit BarChartAnacortes School District Anacortes High School.png "Anacortes High School Dual Credit Participation")
-
-[Cap Sante High School](pages/Dual Credit BarChartAnacortes School District Cap Sante High School.png "Cap Sante High School Dual Credit Participation")
+[Anacortes High School](pages/hist_dual_credit_participation/Dual Credit BarChartAnacortes School District Anacortes High School.png "Anacortes High School Dual Credit Participation")
 
 
 ___

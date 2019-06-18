@@ -9,13 +9,6 @@ permalink: klickitat school district
 
 ___
 
-## Dual Credit Participation
-
-[Klickitat Elem   High](pages/Dual Credit BarChartKlickitat School District Klickitat Elem   High.png "Klickitat Elem   High Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Klickitat School DistrictDollars Per Student.png " Dollars Per Student")

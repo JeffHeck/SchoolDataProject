@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Montesano Jr-Sr High](pages/Dual Credit BarChartMontesano School District Montesano Jr-Sr High.png "Montesano Jr-Sr High Dual Credit Participation")
+[Montesano Jr-Sr High](pages/hist_dual_credit_participation/Dual Credit BarChartMontesano School District Montesano Jr-Sr High.png "Montesano Jr-Sr High Dual Credit Participation")
 
 
 ___

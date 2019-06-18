@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Sprague High School](pages/Dual Credit BarChartSprague School District Sprague High School.png "Sprague High School Dual Credit Participation")
+[Sprague High School](pages/hist_dual_credit_participation/Dual Credit BarChartSprague School District Sprague High School.png "Sprague High School Dual Credit Participation")
 
 
 ___

@@ -53,9 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Curtis Junior High](pages/Dual Credit BarChartUniversity Place School District Curtis Junior High.png "Curtis Junior High Dual Credit Participation")
+[Curtis Junior High](pages/hist_dual_credit_participation/Dual Credit BarChartUniversity Place School District Curtis Junior High.png "Curtis Junior High Dual Credit Participation")
 
-[Curtis Senior High](pages/Dual Credit BarChartUniversity Place School District Curtis Senior High.png "Curtis Senior High Dual Credit Participation")
+[Curtis Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartUniversity Place School District Curtis Senior High.png "Curtis Senior High Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Foster Senior High School](pages/Dual Credit BarChartTukwila School District Foster Senior High School.png "Foster Senior High School Dual Credit Participation")
+[Foster Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartTukwila School District Foster Senior High School.png "Foster Senior High School Dual Credit Participation")
 
 
 ___

@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Ephrata High School](pages/Dual Credit BarChartEphrata School District Ephrata High School.png "Ephrata High School Dual Credit Participation")
-
-[Sage Hills High School](pages/Dual Credit BarChartEphrata School District Sage Hills High School.png "Sage Hills High School Dual Credit Participation")
+[Ephrata High School](pages/hist_dual_credit_participation/Dual Credit BarChartEphrata School District Ephrata High School.png "Ephrata High School Dual Credit Participation")
 
 
 ___

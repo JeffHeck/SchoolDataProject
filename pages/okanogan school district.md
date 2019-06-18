@@ -39,11 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Okanogan Alternative High School](pages/Dual Credit BarChartOkanogan School District Okanogan Alternative High School.png "Okanogan Alternative High School Dual Credit Participation")
-
-[Okanogan High School](pages/Dual Credit BarChartOkanogan School District Okanogan High School.png "Okanogan High School Dual Credit Participation")
-
-[Okanogan Outreach Alternative School](pages/Dual Credit BarChartOkanogan School District Okanogan Outreach Alternative School.png "Okanogan Outreach Alternative School Dual Credit Participation")
+[Okanogan High School](pages/hist_dual_credit_participation/Dual Credit BarChartOkanogan School District Okanogan High School.png "Okanogan High School Dual Credit Participation")
 
 
 ___

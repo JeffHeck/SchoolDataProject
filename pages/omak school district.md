@@ -53,11 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Highlands High School](pages/Dual Credit BarChartOmak School District Highlands High School.png "Highlands High School Dual Credit Participation")
+[Omak High School](pages/hist_dual_credit_participation/Dual Credit BarChartOmak School District Omak High School.png "Omak High School Dual Credit Participation")
 
-[Omak High School](pages/Dual Credit BarChartOmak School District Omak High School.png "Omak High School Dual Credit Participation")
-
-[Washington Virtual Academy Omak High School](pages/Dual Credit BarChartOmak School District Washington Virtual Academy Omak High School.png "Washington Virtual Academy Omak High School Dual Credit Participation")
+[Washington Virtual Academy Omak High School](pages/hist_dual_credit_participation/Dual Credit BarChartOmak School District Washington Virtual Academy Omak High School.png "Washington Virtual Academy Omak High School Dual Credit Participation")
 
 
 ___

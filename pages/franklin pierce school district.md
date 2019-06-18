@@ -53,11 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Franklin Pierce High School](pages/Dual Credit BarChartFranklin Pierce School District Franklin Pierce High School.png "Franklin Pierce High School Dual Credit Participation")
+[Franklin Pierce High School](pages/hist_dual_credit_participation/Dual Credit BarChartFranklin Pierce School District Franklin Pierce High School.png "Franklin Pierce High School Dual Credit Participation")
 
-[Gates Secondary School](pages/Dual Credit BarChartFranklin Pierce School District Gates Secondary School.png "Gates Secondary School Dual Credit Participation")
+[Gates Secondary School](pages/hist_dual_credit_participation/Dual Credit BarChartFranklin Pierce School District Gates Secondary School.png "Gates Secondary School Dual Credit Participation")
 
-[Washington High School](pages/Dual Credit BarChartFranklin Pierce School District Washington High School.png "Washington High School Dual Credit Participation")
+[Washington High School](pages/hist_dual_credit_participation/Dual Credit BarChartFranklin Pierce School District Washington High School.png "Washington High School Dual Credit Participation")
 
 
 ___

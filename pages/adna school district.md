@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Adna Middle High School](pages/Dual Credit BarChartAdna School District Adna Middle High School.png "Adna Middle High School Dual Credit Participation")
+[Adna Middle High School](pages/hist_dual_credit_participation/Dual Credit BarChartAdna School District Adna Middle High School.png "Adna Middle High School Dual Credit Participation")
 
 
 ___

@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pe Ell School](pages/Dual Credit BarChartPe Ell School District Pe Ell School.png "Pe Ell School Dual Credit Participation")
-
-[Trojan Alternative School](pages/Dual Credit BarChartPe Ell School District Trojan Alternative School.png "Trojan Alternative School Dual Credit Participation")
+[Pe Ell School](pages/hist_dual_credit_participation/Dual Credit BarChartPe Ell School District Pe Ell School.png "Pe Ell School Dual Credit Participation")
 
 
 ___

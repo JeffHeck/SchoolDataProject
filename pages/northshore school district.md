@@ -53,29 +53,19 @@ ___
 
 ## Dual Credit Participation
 
-[Bothell High School](pages/Dual Credit BarChartNorthshore School District Bothell High School.png "Bothell High School Dual Credit Participation")
+[Bothell High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorthshore School District Bothell High School.png "Bothell High School Dual Credit Participation")
 
-[Canyon Park Middle School](pages/Dual Credit BarChartNorthshore School District Canyon Park Middle School.png "Canyon Park Middle School Dual Credit Participation")
+[Inglemoor HS](pages/hist_dual_credit_participation/Dual Credit BarChartNorthshore School District Inglemoor HS.png "Inglemoor HS Dual Credit Participation")
 
-[Inglemoor HS](pages/Dual Credit BarChartNorthshore School District Inglemoor HS.png "Inglemoor HS Dual Credit Participation")
+[North Creek High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorthshore School District North Creek High School.png "North Creek High School Dual Credit Participation")
 
-[Kenmore Middle School](pages/Dual Credit BarChartNorthshore School District Kenmore Middle School.png "Kenmore Middle School Dual Credit Participation")
+[Northshore Middle School](pages/hist_dual_credit_participation/Dual Credit BarChartNorthshore School District Northshore Middle School.png "Northshore Middle School Dual Credit Participation")
 
-[Leota Middle School](pages/Dual Credit BarChartNorthshore School District Leota Middle School.png "Leota Middle School Dual Credit Participation")
+[Northshore Networks](pages/hist_dual_credit_participation/Dual Credit BarChartNorthshore School District Northshore Networks.png "Northshore Networks Dual Credit Participation")
 
-[Northshore Middle School](pages/Dual Credit BarChartNorthshore School District Northshore Middle School.png "Northshore Middle School Dual Credit Participation")
+[Secondary Academy for Success](pages/hist_dual_credit_participation/Dual Credit BarChartNorthshore School District Secondary Academy for Success.png "Secondary Academy for Success Dual Credit Participation")
 
-[Northshore Networks](pages/Dual Credit BarChartNorthshore School District Northshore Networks.png "Northshore Networks Dual Credit Participation")
-
-[Northshore Online School](pages/Dual Credit BarChartNorthshore School District Northshore Online School.png "Northshore Online School Dual Credit Participation")
-
-[Secondary Academy for Success](pages/Dual Credit BarChartNorthshore School District Secondary Academy for Success.png "Secondary Academy for Success Dual Credit Participation")
-
-[Skyview Middle School](pages/Dual Credit BarChartNorthshore School District Skyview Middle School.png "Skyview Middle School Dual Credit Participation")
-
-[Timbercrest Middle School](pages/Dual Credit BarChartNorthshore School District Timbercrest Middle School.png "Timbercrest Middle School Dual Credit Participation")
-
-[Woodinville HS](pages/Dual Credit BarChartNorthshore School District Woodinville HS.png "Woodinville HS Dual Credit Participation")
+[Woodinville HS](pages/hist_dual_credit_participation/Dual Credit BarChartNorthshore School District Woodinville HS.png "Woodinville HS Dual Credit Participation")
 
 
 ___

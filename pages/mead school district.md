@@ -53,17 +53,13 @@ ___
 
 ## Dual Credit Participation
 
-[Mead Alternative High School](pages/Dual Credit BarChartMead School District Mead Alternative High School.png "Mead Alternative High School Dual Credit Participation")
+[Mead Education Partnership Prog](pages/hist_dual_credit_participation/Dual Credit BarChartMead School District Mead Education Partnership Prog.png "Mead Education Partnership Prog Dual Credit Participation")
 
-[Mead Education Partnership Prog](pages/Dual Credit BarChartMead School District Mead Education Partnership Prog.png "Mead Education Partnership Prog Dual Credit Participation")
+[Mead Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartMead School District Mead Senior High School.png "Mead Senior High School Dual Credit Participation")
 
-[Mead Open Doors](pages/Dual Credit BarChartMead School District Mead Open Doors.png "Mead Open Doors Dual Credit Participation")
+[Mt Spokane High School](pages/hist_dual_credit_participation/Dual Credit BarChartMead School District Mt Spokane High School.png "Mt Spokane High School Dual Credit Participation")
 
-[Mead Senior High School](pages/Dual Credit BarChartMead School District Mead Senior High School.png "Mead Senior High School Dual Credit Participation")
-
-[Mt Spokane High School](pages/Dual Credit BarChartMead School District Mt Spokane High School.png "Mt Spokane High School Dual Credit Participation")
-
-[Riverpoint Academy](pages/Dual Credit BarChartMead School District Riverpoint Academy.png "Riverpoint Academy Dual Credit Participation")
+[Riverpoint Academy](pages/hist_dual_credit_participation/Dual Credit BarChartMead School District Riverpoint Academy.png "Riverpoint Academy Dual Credit Participation")
 
 
 ___

@@ -53,15 +53,15 @@ ___
 
 ## Dual Credit Participation
 
-[Battle Ground High School](pages/Dual Credit BarChartBattle Ground School District Battle Ground High School.png "Battle Ground High School Dual Credit Participation")
+[Battle Ground High School](pages/hist_dual_credit_participation/Dual Credit BarChartBattle Ground School District Battle Ground High School.png "Battle Ground High School Dual Credit Participation")
 
-[CAM Academy](pages/Dual Credit BarChartBattle Ground School District CAM Academy.png "CAM Academy Dual Credit Participation")
+[CAM Academy](pages/hist_dual_credit_participation/Dual Credit BarChartBattle Ground School District CAM Academy.png "CAM Academy Dual Credit Participation")
 
-[Homelink River](pages/Dual Credit BarChartBattle Ground School District Homelink River.png "Homelink River Dual Credit Participation")
+[Homelink River](pages/hist_dual_credit_participation/Dual Credit BarChartBattle Ground School District Homelink River.png "Homelink River Dual Credit Participation")
 
-[Prairie High School](pages/Dual Credit BarChartBattle Ground School District Prairie High School.png "Prairie High School Dual Credit Participation")
+[Prairie High School](pages/hist_dual_credit_participation/Dual Credit BarChartBattle Ground School District Prairie High School.png "Prairie High School Dual Credit Participation")
 
-[Summit View High School](pages/Dual Credit BarChartBattle Ground School District Summit View High School.png "Summit View High School Dual Credit Participation")
+[Summit View High School](pages/hist_dual_credit_participation/Dual Credit BarChartBattle Ground School District Summit View High School.png "Summit View High School Dual Credit Participation")
 
 
 ___

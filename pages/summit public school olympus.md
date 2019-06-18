@@ -25,7 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Summit Public School Olympus](pages/Dual Credit BarChartSummit Public School Olympus Summit Public School Olympus.png "Summit Public School Olympus Dual Credit Participation")
+[Summit Public School Olympus](pages/hist_dual_credit_participation/Dual Credit BarChartSummit Public School Olympus Summit Public School Olympus.png "Summit Public School Olympus Dual Credit Participation")
 
 
 ___

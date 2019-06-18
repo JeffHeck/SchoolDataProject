@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Republic Parent Partner](pages/Dual Credit BarChartRepublic School District Republic Parent Partner.png "Republic Parent Partner Dual Credit Participation")
-
-[Republic Senior High School](pages/Dual Credit BarChartRepublic School District Republic Senior High School.png "Republic Senior High School Dual Credit Participation")
+[Republic Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartRepublic School District Republic Senior High School.png "Republic Senior High School Dual Credit Participation")
 
 
 ___

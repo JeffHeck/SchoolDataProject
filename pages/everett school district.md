@@ -53,19 +53,17 @@ ___
 
 ## Dual Credit Participation
 
-[Cascade High School](pages/Dual Credit BarChartEverett School District Cascade High School.png "Cascade High School Dual Credit Participation")
+[Cascade High School](pages/hist_dual_credit_participation/Dual Credit BarChartEverett School District Cascade High School.png "Cascade High School Dual Credit Participation")
 
-[Everett High School](pages/Dual Credit BarChartEverett School District Everett High School.png "Everett High School Dual Credit Participation")
+[Everett High School](pages/hist_dual_credit_participation/Dual Credit BarChartEverett School District Everett High School.png "Everett High School Dual Credit Participation")
 
-[Everett Reengagement Academy](pages/Dual Credit BarChartEverett School District Everett Reengagement Academy.png "Everett Reengagement Academy Dual Credit Participation")
+[Everett Reengagement Academy](pages/hist_dual_credit_participation/Dual Credit BarChartEverett School District Everett Reengagement Academy.png "Everett Reengagement Academy Dual Credit Participation")
 
-[Henry M Jackson High School](pages/Dual Credit BarChartEverett School District Henry M Jackson High School.png "Henry M Jackson High School Dual Credit Participation")
+[Henry M Jackson High School](pages/hist_dual_credit_participation/Dual Credit BarChartEverett School District Henry M Jackson High School.png "Henry M Jackson High School Dual Credit Participation")
 
-[Port Gardner](pages/Dual Credit BarChartEverett School District Port Gardner.png "Port Gardner Dual Credit Participation")
+[Port Gardner](pages/hist_dual_credit_participation/Dual Credit BarChartEverett School District Port Gardner.png "Port Gardner Dual Credit Participation")
 
-[Sequoia High School](pages/Dual Credit BarChartEverett School District Sequoia High School.png "Sequoia High School Dual Credit Participation")
-
-[Special Services](pages/Dual Credit BarChartEverett School District Special Services.png "Special Services Dual Credit Participation")
+[Sequoia High School](pages/hist_dual_credit_participation/Dual Credit BarChartEverett School District Sequoia High School.png "Sequoia High School Dual Credit Participation")
 
 
 ___

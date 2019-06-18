@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Mabton Jr Sr High](pages/Dual Credit BarChartMabton School District Mabton Jr Sr High.png "Mabton Jr Sr High Dual Credit Participation")
+[Mabton Jr Sr High](pages/hist_dual_credit_participation/Dual Credit BarChartMabton School District Mabton Jr Sr High.png "Mabton Jr Sr High Dual Credit Participation")
 
 
 ___

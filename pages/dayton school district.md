@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Dayton High School](pages/Dual Credit BarChartDayton School District Dayton High School.png "Dayton High School Dual Credit Participation")
+[Dayton High School](pages/hist_dual_credit_participation/Dual Credit BarChartDayton School District Dayton High School.png "Dayton High School Dual Credit Participation")
 
 
 ___

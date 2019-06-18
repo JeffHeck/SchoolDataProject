@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Willapa Valley Middle-High](pages/Dual Credit BarChartWillapa Valley School District Willapa Valley Middle-High.png "Willapa Valley Middle-High Dual Credit Participation")
+[Willapa Valley Middle-High](pages/hist_dual_credit_participation/Dual Credit BarChartWillapa Valley School District Willapa Valley Middle-High.png "Willapa Valley Middle-High Dual Credit Participation")
 
 
 ___

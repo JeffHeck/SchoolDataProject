@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Orting High School](pages/Dual Credit BarChartOrting School District Orting High School.png "Orting High School Dual Credit Participation")
+[Orting High School](pages/hist_dual_credit_participation/Dual Credit BarChartOrting School District Orting High School.png "Orting High School Dual Credit Participation")
 
 
 ___

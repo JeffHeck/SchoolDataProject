@@ -11,9 +11,7 @@ ___
 
 ## Dual Credit Participation
 
-[Alternative School](pages/Dual Credit BarChartMethow Valley School District Alternative School.png "Alternative School Dual Credit Participation")
-
-[Liberty Bell Jr Sr High](pages/Dual Credit BarChartMethow Valley School District Liberty Bell Jr Sr High.png "Liberty Bell Jr Sr High Dual Credit Participation")
+[Liberty Bell Jr Sr High](pages/hist_dual_credit_participation/Dual Credit BarChartMethow Valley School District Liberty Bell Jr Sr High.png "Liberty Bell Jr Sr High Dual Credit Participation")
 
 
 ___

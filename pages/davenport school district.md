@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Davenport Senior High School](pages/Dual Credit BarChartDavenport School District Davenport Senior High School.png "Davenport Senior High School Dual Credit Participation")
+[Davenport Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartDavenport School District Davenport Senior High School.png "Davenport Senior High School Dual Credit Participation")
 
 
 ___

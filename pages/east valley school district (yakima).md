@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[East Valley Central Middle School](pages/Dual Credit BarChartEast Valley School District (Yakima) East Valley Central Middle School.png "East Valley Central Middle School Dual Credit Participation")
-
-[East Valley High School](pages/Dual Credit BarChartEast Valley School District (Yakima) East Valley High School.png "East Valley High School Dual Credit Participation")
+[East Valley High School](pages/hist_dual_credit_participation/Dual Credit BarChartEast Valley School District (Yakima) East Valley High School.png "East Valley High School Dual Credit Participation")
 
 
 ___

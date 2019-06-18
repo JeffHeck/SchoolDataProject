@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Manson High School](pages/Dual Credit BarChartManson School District Manson High School.png "Manson High School Dual Credit Participation")
+[Manson High School](pages/hist_dual_credit_participation/Dual Credit BarChartManson School District Manson High School.png "Manson High School Dual Credit Participation")
 
 
 ___

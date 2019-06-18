@@ -51,13 +51,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Prescott Jr Sr High](pages/Dual Credit BarChartPrescott School District Prescott Jr Sr High.png "Prescott Jr Sr High Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Prescott School District.png " Graduation Rates")

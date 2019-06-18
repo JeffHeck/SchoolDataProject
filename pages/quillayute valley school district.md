@@ -25,11 +25,9 @@ ___
 
 ## Dual Credit Participation
 
-[Forks Alternative School](pages/Dual Credit BarChartQuillayute Valley School District Forks Alternative School.png "Forks Alternative School Dual Credit Participation")
+[Forks Junior-Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartQuillayute Valley School District Forks Junior-Senior High School.png "Forks Junior-Senior High School Dual Credit Participation")
 
-[Forks Junior-Senior High School](pages/Dual Credit BarChartQuillayute Valley School District Forks Junior-Senior High School.png "Forks Junior-Senior High School Dual Credit Participation")
-
-[Insight School of Washington](pages/Dual Credit BarChartQuillayute Valley School District Insight School of Washington.png "Insight School of Washington Dual Credit Participation")
+[Insight School of Washington](pages/hist_dual_credit_participation/Dual Credit BarChartQuillayute Valley School District Insight School of Washington.png "Insight School of Washington Dual Credit Participation")
 
 
 ___

@@ -39,11 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Concrete High School](pages/Dual Credit BarChartConcrete School District Concrete High School.png "Concrete High School Dual Credit Participation")
-
-[Skagit River School House](pages/Dual Credit BarChartConcrete School District Skagit River School House.png "Skagit River School House Dual Credit Participation")
-
-[Twin Cedars High School](pages/Dual Credit BarChartConcrete School District Twin Cedars High School.png "Twin Cedars High School Dual Credit Participation")
+[Concrete High School](pages/hist_dual_credit_participation/Dual Credit BarChartConcrete School District Concrete High School.png "Concrete High School Dual Credit Participation")
 
 
 ___

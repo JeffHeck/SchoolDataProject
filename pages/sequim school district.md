@@ -37,17 +37,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Sequim Community School](pages/Dual Credit BarChartSequim School District Sequim Community School.png "Sequim Community School Dual Credit Participation")
-
-[Sequim Middle School](pages/Dual Credit BarChartSequim School District Sequim Middle School.png "Sequim Middle School Dual Credit Participation")
-
-[Sequim Senior High](pages/Dual Credit BarChartSequim School District Sequim Senior High.png "Sequim Senior High Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Sequim School District.png " Graduation Rates")

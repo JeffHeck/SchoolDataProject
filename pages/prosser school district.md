@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Prosser Falls Education Center](pages/Dual Credit BarChartProsser School District Prosser Falls Education Center.png "Prosser Falls Education Center Dual Credit Participation")
-
-[Prosser High School](pages/Dual Credit BarChartProsser School District Prosser High School.png "Prosser High School Dual Credit Participation")
+[Prosser High School](pages/hist_dual_credit_participation/Dual Credit BarChartProsser School District Prosser High School.png "Prosser High School Dual Credit Participation")
 
 
 ___

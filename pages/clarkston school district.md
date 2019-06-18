@@ -53,11 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Charles Francis Adams High School](pages/Dual Credit BarChartClarkston School District Charles Francis Adams High School.png "Charles Francis Adams High School Dual Credit Participation")
-
-[Educational Opportunity Center Reengagement](pages/Dual Credit BarChartClarkston School District Educational Opportunity Center Reengagement.png "Educational Opportunity Center Reengagement Dual Credit Participation")
-
-[Educational Opportunity Center](pages/Dual Credit BarChartClarkston School District Educational Opportunity Center.png "Educational Opportunity Center Dual Credit Participation")
+[Charles Francis Adams High School](pages/hist_dual_credit_participation/Dual Credit BarChartClarkston School District Charles Francis Adams High School.png "Charles Francis Adams High School Dual Credit Participation")
 
 
 ___

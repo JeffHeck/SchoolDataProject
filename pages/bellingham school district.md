@@ -53,19 +53,13 @@ ___
 
 ## Dual Credit Participation
 
-[Bellingham High School](pages/Dual Credit BarChartBellingham School District Bellingham High School.png "Bellingham High School Dual Credit Participation")
+[Bellingham High School](pages/hist_dual_credit_participation/Dual Credit BarChartBellingham School District Bellingham High School.png "Bellingham High School Dual Credit Participation")
 
-[Bellingham Re-Engagement Program](pages/Dual Credit BarChartBellingham School District Bellingham Re-Engagement Program.png "Bellingham Re-Engagement Program Dual Credit Participation")
+[Options High School](pages/hist_dual_credit_participation/Dual Credit BarChartBellingham School District Options High School.png "Options High School Dual Credit Participation")
 
-[Fairhaven Middle School](pages/Dual Credit BarChartBellingham School District Fairhaven Middle School.png "Fairhaven Middle School Dual Credit Participation")
+[Sehome High School](pages/hist_dual_credit_participation/Dual Credit BarChartBellingham School District Sehome High School.png "Sehome High School Dual Credit Participation")
 
-[Options High School](pages/Dual Credit BarChartBellingham School District Options High School.png "Options High School Dual Credit Participation")
-
-[Sehome High School](pages/Dual Credit BarChartBellingham School District Sehome High School.png "Sehome High School Dual Credit Participation")
-
-[Squalicum High School](pages/Dual Credit BarChartBellingham School District Squalicum High School.png "Squalicum High School Dual Credit Participation")
-
-[Visions (Seamar Youth Center)](pages/Dual Credit BarChartBellingham School District Visions (Seamar Youth Center).png "Visions (Seamar Youth Center) Dual Credit Participation")
+[Squalicum High School](pages/hist_dual_credit_participation/Dual Credit BarChartBellingham School District Squalicum High School.png "Squalicum High School Dual Credit Participation")
 
 
 ___

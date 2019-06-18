@@ -39,11 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Cheney High School](pages/Dual Credit BarChartCheney School District Cheney High School.png "Cheney High School Dual Credit Participation")
+[Cheney High School](pages/hist_dual_credit_participation/Dual Credit BarChartCheney School District Cheney High School.png "Cheney High School Dual Credit Participation")
 
-[Cheney Open Doors](pages/Dual Credit BarChartCheney School District Cheney Open Doors.png "Cheney Open Doors Dual Credit Participation")
-
-[Three Springs High School](pages/Dual Credit BarChartCheney School District Three Springs High School.png "Three Springs High School Dual Credit Participation")
+[Three Springs High School](pages/hist_dual_credit_participation/Dual Credit BarChartCheney School District Three Springs High School.png "Three Springs High School Dual Credit Participation")
 
 
 ___

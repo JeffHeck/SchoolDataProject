@@ -23,13 +23,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Bickleton Elementary   High Schl](pages/Dual Credit BarChartBickleton School District Bickleton Elementary   High Schl.png "Bickleton Elementary   High Schl Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Bickleton School DistrictDollars Per Student.png " Dollars Per Student")

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Hockinson High School](pages/Dual Credit BarChartHockinson School District Hockinson High School.png "Hockinson High School Dual Credit Participation")
+[Hockinson High School](pages/hist_dual_credit_participation/Dual Credit BarChartHockinson School District Hockinson High School.png "Hockinson High School Dual Credit Participation")
 
 
 ___

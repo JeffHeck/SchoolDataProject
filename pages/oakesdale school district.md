@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Oakesdale High School](pages/Dual Credit BarChartOakesdale School District Oakesdale High School.png "Oakesdale High School Dual Credit Participation")
+[Oakesdale High School](pages/hist_dual_credit_participation/Dual Credit BarChartOakesdale School District Oakesdale High School.png "Oakesdale High School Dual Credit Participation")
 
 
 ___

@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Columbia Virtual Academy - Kettle Falls](pages/Dual Credit BarChartKettle Falls School District Columbia Virtual Academy - Kettle Falls.png "Columbia Virtual Academy - Kettle Falls Dual Credit Participation")
-
-[Kettle Falls High School](pages/Dual Credit BarChartKettle Falls School District Kettle Falls High School.png "Kettle Falls High School Dual Credit Participation")
+[Kettle Falls High School](pages/hist_dual_credit_participation/Dual Credit BarChartKettle Falls School District Kettle Falls High School.png "Kettle Falls High School Dual Credit Participation")
 
 
 ___

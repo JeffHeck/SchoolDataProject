@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Eastmont Junior High](pages/Dual Credit BarChartEastmont School District Eastmont Junior High.png "Eastmont Junior High Dual Credit Participation")
+[Eastmont Junior High](pages/hist_dual_credit_participation/Dual Credit BarChartEastmont School District Eastmont Junior High.png "Eastmont Junior High Dual Credit Participation")
 
-[Eastmont Senior High](pages/Dual Credit BarChartEastmont School District Eastmont Senior High.png "Eastmont Senior High Dual Credit Participation")
+[Eastmont Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartEastmont School District Eastmont Senior High.png "Eastmont Senior High Dual Credit Participation")
 
 
 ___

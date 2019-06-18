@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pomeroy Jr Sr High School](pages/Dual Credit BarChartPomeroy School District Pomeroy Jr Sr High School.png "Pomeroy Jr Sr High School Dual Credit Participation")
+[Pomeroy Jr Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartPomeroy School District Pomeroy Jr Sr High School.png "Pomeroy Jr Sr High School Dual Credit Participation")
 
 
 ___

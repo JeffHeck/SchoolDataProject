@@ -53,19 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[CVSD Open Doors Programs](pages/Dual Credit BarChartCentral Valley School District CVSD Open Doors Programs.png "CVSD Open Doors Programs Dual Credit Participation")
+[Central Valley High School](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Valley School District Central Valley High School.png "Central Valley High School Dual Credit Participation")
 
-[Central Valley High School](pages/Dual Credit BarChartCentral Valley School District Central Valley High School.png "Central Valley High School Dual Credit Participation")
+[Mica Peak High School](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Valley School District Mica Peak High School.png "Mica Peak High School Dual Credit Participation")
 
-[I-TRACC](pages/Dual Credit BarChartCentral Valley School District I-TRACC.png "I-TRACC Dual Credit Participation")
-
-[Mica Peak High School](pages/Dual Credit BarChartCentral Valley School District Mica Peak High School.png "Mica Peak High School Dual Credit Participation")
-
-[School to Life](pages/Dual Credit BarChartCentral Valley School District School to Life.png "School to Life Dual Credit Participation")
-
-[Spokane Valley Learning Academy](pages/Dual Credit BarChartCentral Valley School District Spokane Valley Learning Academy.png "Spokane Valley Learning Academy Dual Credit Participation")
-
-[University High School](pages/Dual Credit BarChartCentral Valley School District University High School.png "University High School Dual Credit Participation")
+[University High School](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Valley School District University High School.png "University High School Dual Credit Participation")
 
 
 ___

@@ -53,9 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Mount Vernon High School](pages/Dual Credit BarChartMount Vernon School District Mount Vernon High School.png "Mount Vernon High School Dual Credit Participation")
+[Mount Vernon High School](pages/hist_dual_credit_participation/Dual Credit BarChartMount Vernon School District Mount Vernon High School.png "Mount Vernon High School Dual Credit Participation")
 
-[Skagit Family Learning Center MVSD](pages/Dual Credit BarChartMount Vernon School District Skagit Family Learning Center MVSD.png "Skagit Family Learning Center MVSD Dual Credit Participation")
+[Skagit Academy](pages/hist_dual_credit_participation/Dual Credit BarChartMount Vernon School District Skagit Academy.png "Skagit Academy Dual Credit Participation")
 
 
 ___

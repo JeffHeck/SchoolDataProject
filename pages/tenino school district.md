@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Tenino High School](pages/Dual Credit BarChartTenino School District Tenino High School.png "Tenino High School Dual Credit Participation")
+[Tenino High School](pages/hist_dual_credit_participation/Dual Credit BarChartTenino School District Tenino High School.png "Tenino High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Ocosta Junior - Senior High](pages/Dual Credit BarChartOcosta School District Ocosta Junior - Senior High.png "Ocosta Junior - Senior High Dual Credit Participation")
+[Ocosta Junior - Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartOcosta School District Ocosta Junior - Senior High.png "Ocosta Junior - Senior High Dual Credit Participation")
 
 
 ___

@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Cowlitz Prairie Academy](pages/Dual Credit BarChartToledo School District Cowlitz Prairie Academy.png "Cowlitz Prairie Academy Dual Credit Participation")
-
-[Toledo High School](pages/Dual Credit BarChartToledo School District Toledo High School.png "Toledo High School Dual Credit Participation")
+[Toledo High School](pages/hist_dual_credit_participation/Dual Credit BarChartToledo School District Toledo High School.png "Toledo High School Dual Credit Participation")
 
 
 ___

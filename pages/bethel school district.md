@@ -53,19 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Acceleration Academy](pages/Dual Credit BarChartBethel School District Acceleration Academy.png "Acceleration Academy Dual Credit Participation")
+[Bethel High School](pages/hist_dual_credit_participation/Dual Credit BarChartBethel School District Bethel High School.png "Bethel High School Dual Credit Participation")
 
-[Bethel High School](pages/Dual Credit BarChartBethel School District Bethel High School.png "Bethel High School Dual Credit Participation")
+[Graham Kapowsin High School](pages/hist_dual_credit_participation/Dual Credit BarChartBethel School District Graham Kapowsin High School.png "Graham Kapowsin High School Dual Credit Participation")
 
-[Cedarcrest Middle School](pages/Dual Credit BarChartBethel School District Cedarcrest Middle School.png "Cedarcrest Middle School Dual Credit Participation")
-
-[Challenger High School](pages/Dual Credit BarChartBethel School District Challenger High School.png "Challenger High School Dual Credit Participation")
-
-[Graham Kapowsin High School](pages/Dual Credit BarChartBethel School District Graham Kapowsin High School.png "Graham Kapowsin High School Dual Credit Participation")
-
-[Spanaway Lake High School](pages/Dual Credit BarChartBethel School District Spanaway Lake High School.png "Spanaway Lake High School Dual Credit Participation")
-
-[Spanaway Middle School](pages/Dual Credit BarChartBethel School District Spanaway Middle School.png "Spanaway Middle School Dual Credit Participation")
+[Spanaway Lake High School](pages/hist_dual_credit_participation/Dual Credit BarChartBethel School District Spanaway Lake High School.png "Spanaway Lake High School Dual Credit Participation")
 
 
 ___

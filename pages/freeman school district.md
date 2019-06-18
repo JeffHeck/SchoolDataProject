@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Freeman High School](pages/Dual Credit BarChartFreeman School District Freeman High School.png "Freeman High School Dual Credit Participation")
+[Freeman High School](pages/hist_dual_credit_participation/Dual Credit BarChartFreeman School District Freeman High School.png "Freeman High School Dual Credit Participation")
 
 
 ___

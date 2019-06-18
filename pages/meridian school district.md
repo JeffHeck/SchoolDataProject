@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Meridian High School](pages/Dual Credit BarChartMeridian School District Meridian High School.png "Meridian High School Dual Credit Participation")
-
-[Meridian Middle School](pages/Dual Credit BarChartMeridian School District Meridian Middle School.png "Meridian Middle School Dual Credit Participation")
+[Meridian High School](pages/hist_dual_credit_participation/Dual Credit BarChartMeridian School District Meridian High School.png "Meridian High School Dual Credit Participation")
 
 
 ___

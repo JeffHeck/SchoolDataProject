@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Winlock Senior High](pages/Dual Credit BarChartWinlock School District Winlock Senior High.png "Winlock Senior High Dual Credit Participation")
-
-[Winolequa Learning Academy](pages/Dual Credit BarChartWinlock School District Winolequa Learning Academy.png "Winolequa Learning Academy Dual Credit Participation")
+[Winlock Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartWinlock School District Winlock Senior High.png "Winlock Senior High Dual Credit Participation")
 
 
 ___

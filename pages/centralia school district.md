@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Centralia High School](pages/Dual Credit BarChartCentralia School District Centralia High School.png "Centralia High School Dual Credit Participation")
-
-[Futurus High School](pages/Dual Credit BarChartCentralia School District Futurus High School.png "Futurus High School Dual Credit Participation")
+[Centralia High School](pages/hist_dual_credit_participation/Dual Credit BarChartCentralia School District Centralia High School.png "Centralia High School Dual Credit Participation")
 
 
 ___

@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pace Alternative High School](pages/Dual Credit BarChartWapato School District Pace Alternative High School.png "Pace Alternative High School Dual Credit Participation")
-
-[Wapato High School](pages/Dual Credit BarChartWapato School District Wapato High School.png "Wapato High School Dual Credit Participation")
+[Wapato High School](pages/hist_dual_credit_participation/Dual Credit BarChartWapato School District Wapato High School.png "Wapato High School Dual Credit Participation")
 
 
 ___

@@ -9,13 +9,6 @@ permalink: wishram school district
 
 ___
 
-## Dual Credit Participation
-
-[Wishram High And Elementary Schl](pages/Dual Credit BarChartWishram School District Wishram High And Elementary Schl.png "Wishram High And Elementary Schl Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Wishram School DistrictDollars Per Student.png " Dollars Per Student")

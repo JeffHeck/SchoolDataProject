@@ -25,11 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Blaine High School](pages/Dual Credit BarChartBlaine School District Blaine High School.png "Blaine High School Dual Credit Participation")
-
-[Blaine Home Connections](pages/Dual Credit BarChartBlaine School District Blaine Home Connections.png "Blaine Home Connections Dual Credit Participation")
-
-[Blaine Re-Engagement](pages/Dual Credit BarChartBlaine School District Blaine Re-Engagement.png "Blaine Re-Engagement Dual Credit Participation")
+[Blaine High School](pages/hist_dual_credit_participation/Dual Credit BarChartBlaine School District Blaine High School.png "Blaine High School Dual Credit Participation")
 
 
 ___

@@ -51,13 +51,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Ritzville High School](pages/Dual Credit BarChartRitzville School District Ritzville High School.png "Ritzville High School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Ritzville School District.png " Graduation Rates")

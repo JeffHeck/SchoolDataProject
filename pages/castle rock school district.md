@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Castle Rock High School](pages/Dual Credit BarChartCastle Rock School District Castle Rock High School.png "Castle Rock High School Dual Credit Participation")
+[Castle Rock High School](pages/hist_dual_credit_participation/Dual Credit BarChartCastle Rock School District Castle Rock High School.png "Castle Rock High School Dual Credit Participation")
 
 
 ___

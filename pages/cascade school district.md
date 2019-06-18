@@ -37,13 +37,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Cascade High School](pages/Dual Credit BarChartCascade School District Cascade High School.png "Cascade High School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Cascade School District.png " Graduation Rates")

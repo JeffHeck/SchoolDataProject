@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[River View High School](pages/Dual Credit BarChartFinley School District River View High School.png "River View High School Dual Credit Participation")
+[River View High School](pages/hist_dual_credit_participation/Dual Credit BarChartFinley School District River View High School.png "River View High School Dual Credit Participation")
 
 
 ___

@@ -53,9 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Desert Oasis High School](pages/Dual Credit BarChartOthello School District Desert Oasis High School.png "Desert Oasis High School Dual Credit Participation")
+[Desert Oasis High School](pages/hist_dual_credit_participation/Dual Credit BarChartOthello School District Desert Oasis High School.png "Desert Oasis High School Dual Credit Participation")
 
-[Othello High School](pages/Dual Credit BarChartOthello School District Othello High School.png "Othello High School Dual Credit Participation")
+[Othello High School](pages/hist_dual_credit_participation/Dual Credit BarChartOthello School District Othello High School.png "Othello High School Dual Credit Participation")
 
 
 ___

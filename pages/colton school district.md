@@ -37,13 +37,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Colton School](pages/Dual Credit BarChartColton School District Colton School.png "Colton School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Colton School District.png " Graduation Rates")

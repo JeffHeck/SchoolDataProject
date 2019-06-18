@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Connell High School](pages/Dual Credit BarChartNorth Franklin School District Connell High School.png "Connell High School Dual Credit Participation")
-
-[Palouse Junction High School](pages/Dual Credit BarChartNorth Franklin School District Palouse Junction High School.png "Palouse Junction High School Dual Credit Participation")
+[Connell High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Franklin School District Connell High School.png "Connell High School Dual Credit Participation")
 
 
 ___

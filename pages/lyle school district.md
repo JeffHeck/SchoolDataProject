@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lyle High School](pages/Dual Credit BarChartLyle School District Lyle High School.png "Lyle High School Dual Credit Participation")
+[Lyle High School](pages/hist_dual_credit_participation/Dual Credit BarChartLyle School District Lyle High School.png "Lyle High School Dual Credit Participation")
 
 
 ___

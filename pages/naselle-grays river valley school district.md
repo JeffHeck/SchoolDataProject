@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Naselle Homelink](pages/Dual Credit BarChartNaselle-Grays River Valley School District Naselle Homelink.png "Naselle Homelink Dual Credit Participation")
-
-[Naselle Jr Sr High Schools](pages/Dual Credit BarChartNaselle-Grays River Valley School District Naselle Jr Sr High Schools.png "Naselle Jr Sr High Schools Dual Credit Participation")
+[Naselle Jr Sr High Schools](pages/hist_dual_credit_participation/Dual Credit BarChartNaselle-Grays River Valley School District Naselle Jr Sr High Schools.png "Naselle Jr Sr High Schools Dual Credit Participation")
 
 
 ___

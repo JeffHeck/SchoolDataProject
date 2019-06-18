@@ -53,21 +53,13 @@ ___
 
 ## Dual Credit Participation
 
-[Alternative High School](pages/Dual Credit BarChartCentral Kitsap School District Alternative High School.png "Alternative High School Dual Credit Participation")
+[Barker Creek Community School](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Kitsap School District Barker Creek Community School.png "Barker Creek Community School Dual Credit Participation")
 
-[Central Kitsap High School](pages/Dual Credit BarChartCentral Kitsap School District Central Kitsap High School.png "Central Kitsap High School Dual Credit Participation")
+[Central Kitsap High School](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Kitsap School District Central Kitsap High School.png "Central Kitsap High School Dual Credit Participation")
 
-[Central Kitsap Middle School](pages/Dual Credit BarChartCentral Kitsap School District Central Kitsap Middle School.png "Central Kitsap Middle School Dual Credit Participation")
+[Klahowya Secondary](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Kitsap School District Klahowya Secondary.png "Klahowya Secondary Dual Credit Participation")
 
-[Fairview Middle School](pages/Dual Credit BarChartCentral Kitsap School District Fairview Middle School.png "Fairview Middle School Dual Credit Participation")
-
-[Klahowya Secondary](pages/Dual Credit BarChartCentral Kitsap School District Klahowya Secondary.png "Klahowya Secondary Dual Credit Participation")
-
-[Off Campus](pages/Dual Credit BarChartCentral Kitsap School District Off Campus.png "Off Campus Dual Credit Participation")
-
-[Olympic High School](pages/Dual Credit BarChartCentral Kitsap School District Olympic High School.png "Olympic High School Dual Credit Participation")
-
-[Ridgetop Middle School](pages/Dual Credit BarChartCentral Kitsap School District Ridgetop Middle School.png "Ridgetop Middle School Dual Credit Participation")
+[Olympic High School](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Kitsap School District Olympic High School.png "Olympic High School Dual Credit Participation")
 
 
 ___

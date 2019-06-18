@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Reardan Middle-Senior High School](pages/Dual Credit BarChartReardan-Edwall School District Reardan Middle-Senior High School.png "Reardan Middle-Senior High School Dual Credit Participation")
+[Reardan Middle-Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartReardan-Edwall School District Reardan Middle-Senior High School.png "Reardan Middle-Senior High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Highland High School](pages/Dual Credit BarChartHighland School District Highland High School.png "Highland High School Dual Credit Participation")
+[Highland High School](pages/hist_dual_credit_participation/Dual Credit BarChartHighland School District Highland High School.png "Highland High School Dual Credit Participation")
 
 
 ___

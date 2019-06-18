@@ -53,13 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Dishman Hills High School](pages/Dual Credit BarChartWest Valley School District (Spokane) Dishman Hills High School.png "Dishman Hills High School Dual Credit Participation")
+[Dishman Hills High School](pages/hist_dual_credit_participation/Dual Credit BarChartWest Valley School District (Spokane) Dishman Hills High School.png "Dishman Hills High School Dual Credit Participation")
 
-[Spokane Valley High School](pages/Dual Credit BarChartWest Valley School District (Spokane) Spokane Valley High School.png "Spokane Valley High School Dual Credit Participation")
+[Spokane Valley High School](pages/hist_dual_credit_participation/Dual Credit BarChartWest Valley School District (Spokane) Spokane Valley High School.png "Spokane Valley High School Dual Credit Participation")
 
-[Spokane Valley Transition School](pages/Dual Credit BarChartWest Valley School District (Spokane) Spokane Valley Transition School.png "Spokane Valley Transition School Dual Credit Participation")
-
-[West Valley High School](pages/Dual Credit BarChartWest Valley School District (Spokane) West Valley High School.png "West Valley High School Dual Credit Participation")
+[West Valley High School](pages/hist_dual_credit_participation/Dual Credit BarChartWest Valley School District (Spokane) West Valley High School.png "West Valley High School Dual Credit Participation")
 
 
 ___

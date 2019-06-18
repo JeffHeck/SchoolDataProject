@@ -25,11 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Chewelah Alternative](pages/Dual Credit BarChartChewelah School District Chewelah Alternative.png "Chewelah Alternative Dual Credit Participation")
-
-[Home Link Alternative](pages/Dual Credit BarChartChewelah School District Home Link Alternative.png "Home Link Alternative Dual Credit Participation")
-
-[Jenkins Junior Senior High](pages/Dual Credit BarChartChewelah School District Jenkins Junior Senior High.png "Jenkins Junior Senior High Dual Credit Participation")
+[Jenkins Junior Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartChewelah School District Jenkins Junior Senior High.png "Jenkins Junior Senior High Dual Credit Participation")
 
 
 ___

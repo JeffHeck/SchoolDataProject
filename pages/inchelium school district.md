@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Inchelium High School](pages/Dual Credit BarChartInchelium School District Inchelium High School.png "Inchelium High School Dual Credit Participation")
+[Inchelium High School](pages/hist_dual_credit_participation/Dual Credit BarChartInchelium School District Inchelium High School.png "Inchelium High School Dual Credit Participation")
 
 
 ___

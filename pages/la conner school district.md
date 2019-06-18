@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[La Conner High School](pages/Dual Credit BarChartLa Conner School District La Conner High School.png "La Conner High School Dual Credit Participation")
+[La Conner High School](pages/hist_dual_credit_participation/Dual Credit BarChartLa Conner School District La Conner High School.png "La Conner High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Napavine Jr Sr High School](pages/Dual Credit BarChartNapavine School District Napavine Jr Sr High School.png "Napavine Jr Sr High School Dual Credit Participation")
+[Napavine Jr Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartNapavine School District Napavine Jr Sr High School.png "Napavine Jr Sr High School Dual Credit Participation")
 
 
 ___

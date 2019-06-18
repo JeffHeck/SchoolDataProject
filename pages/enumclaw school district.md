@@ -39,11 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Enumclaw Middle School](pages/Dual Credit BarChartEnumclaw School District Enumclaw Middle School.png "Enumclaw Middle School Dual Credit Participation")
-
-[Enumclaw Sr High School](pages/Dual Credit BarChartEnumclaw School District Enumclaw Sr High School.png "Enumclaw Sr High School Dual Credit Participation")
-
-[Thunder Mountain Middle School](pages/Dual Credit BarChartEnumclaw School District Thunder Mountain Middle School.png "Thunder Mountain Middle School Dual Credit Participation")
+[Enumclaw Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartEnumclaw School District Enumclaw Sr High School.png "Enumclaw Sr High School Dual Credit Participation")
 
 
 ___

@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Futures Program](pages/Dual Credit BarChartSteilacoom Hist School District Futures Program.png "Futures Program Dual Credit Participation")
-
-[Steilacoom High](pages/Dual Credit BarChartSteilacoom Hist School District Steilacoom High.png "Steilacoom High Dual Credit Participation")
+[Steilacoom High](pages/hist_dual_credit_participation/Dual Credit BarChartSteilacoom Hist School District Steilacoom High.png "Steilacoom High Dual Credit Participation")
 
 
 ___

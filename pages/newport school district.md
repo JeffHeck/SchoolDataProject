@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Newport High School](pages/Dual Credit BarChartNewport School District Newport High School.png "Newport High School Dual Credit Participation")
-
-[Pend Oreille River School](pages/Dual Credit BarChartNewport School District Pend Oreille River School.png "Pend Oreille River School Dual Credit Participation")
+[Newport High School](pages/hist_dual_credit_participation/Dual Credit BarChartNewport School District Newport High School.png "Newport High School Dual Credit Participation")
 
 
 ___

@@ -53,11 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Chiawana High School](pages/Dual Credit BarChartPasco School District Chiawana High School.png "Chiawana High School Dual Credit Participation")
+[Chiawana High School](pages/hist_dual_credit_participation/Dual Credit BarChartPasco School District Chiawana High School.png "Chiawana High School Dual Credit Participation")
 
-[New Horizons High School](pages/Dual Credit BarChartPasco School District New Horizons High School.png "New Horizons High School Dual Credit Participation")
+[New Horizons High School](pages/hist_dual_credit_participation/Dual Credit BarChartPasco School District New Horizons High School.png "New Horizons High School Dual Credit Participation")
 
-[Pasco Senior High School](pages/Dual Credit BarChartPasco School District Pasco Senior High School.png "Pasco Senior High School Dual Credit Participation")
+[Pasco Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartPasco School District Pasco Senior High School.png "Pasco Senior High School Dual Credit Participation")
 
 
 ___

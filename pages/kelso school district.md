@@ -53,11 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Kelso High School](pages/Dual Credit BarChartKelso School District Kelso High School.png "Kelso High School Dual Credit Participation")
-
-[Kelso Virtual Academy](pages/Dual Credit BarChartKelso School District Kelso Virtual Academy.png "Kelso Virtual Academy Dual Credit Participation")
-
-[Loowit High School](pages/Dual Credit BarChartKelso School District Loowit High School.png "Loowit High School Dual Credit Participation")
+[Kelso High School](pages/hist_dual_credit_participation/Dual Credit BarChartKelso School District Kelso High School.png "Kelso High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[North Beach Senior High School](pages/Dual Credit BarChartNorth Beach School District North Beach Senior High School.png "North Beach Senior High School Dual Credit Participation")
+[North Beach Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Beach School District North Beach Senior High School.png "North Beach Senior High School Dual Credit Participation")
 
 
 ___

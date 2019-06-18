@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[White Pass Jr Sr High School](pages/Dual Credit BarChartWhite Pass School District White Pass Jr Sr High School.png "White Pass Jr Sr High School Dual Credit Participation")
+[White Pass Jr Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartWhite Pass School District White Pass Jr Sr High School.png "White Pass Jr Sr High School Dual Credit Participation")
 
 
 ___

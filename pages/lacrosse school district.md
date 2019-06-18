@@ -11,7 +11,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lacrosse High School](pages/Dual Credit BarChartLaCrosse School District Lacrosse High School.png "Lacrosse High School Dual Credit Participation")
+[Lacrosse High School](pages/hist_dual_credit_participation/Dual Credit BarChartLaCrosse School District Lacrosse High School.png "Lacrosse High School Dual Credit Participation")
 
 
 ___

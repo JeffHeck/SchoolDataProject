@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Royal High School](pages/Dual Credit BarChartRoyal School District Royal High School.png "Royal High School Dual Credit Participation")
+[Royal High School](pages/hist_dual_credit_participation/Dual Credit BarChartRoyal School District Royal High School.png "Royal High School Dual Credit Participation")
 
 
 ___

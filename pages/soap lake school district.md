@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Smokiam Alternative High School](pages/Dual Credit BarChartSoap Lake School District Smokiam Alternative High School.png "Smokiam Alternative High School Dual Credit Participation")
-
-[Soap Lake Middle   High School](pages/Dual Credit BarChartSoap Lake School District Soap Lake Middle   High School.png "Soap Lake Middle   High School Dual Credit Participation")
+[Soap Lake Middle   High School](pages/hist_dual_credit_participation/Dual Credit BarChartSoap Lake School District Soap Lake Middle   High School.png "Soap Lake Middle   High School Dual Credit Participation")
 
 
 ___

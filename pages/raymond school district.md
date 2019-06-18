@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Raymond Home Link School](pages/Dual Credit BarChartRaymond School District Raymond Home Link School.png "Raymond Home Link School Dual Credit Participation")
-
-[Raymond Jr Sr High School](pages/Dual Credit BarChartRaymond School District Raymond Jr Sr High School.png "Raymond Jr Sr High School Dual Credit Participation")
+[Raymond Jr Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartRaymond School District Raymond Jr Sr High School.png "Raymond Jr Sr High School Dual Credit Participation")
 
 
 ___

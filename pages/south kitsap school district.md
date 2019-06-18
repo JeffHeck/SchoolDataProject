@@ -53,17 +53,15 @@ ___
 
 ## Dual Credit Participation
 
-[Cedar Heights Middle School](pages/Dual Credit BarChartSouth Kitsap School District Cedar Heights Middle School.png "Cedar Heights Middle School Dual Credit Participation")
+[Cedar Heights Middle School](pages/hist_dual_credit_participation/Dual Credit BarChartSouth Kitsap School District Cedar Heights Middle School.png "Cedar Heights Middle School Dual Credit Participation")
 
-[Discovery](pages/Dual Credit BarChartSouth Kitsap School District Discovery.png "Discovery Dual Credit Participation")
+[Explorer Academy](pages/hist_dual_credit_participation/Dual Credit BarChartSouth Kitsap School District Explorer Academy.png "Explorer Academy Dual Credit Participation")
 
-[Explorer Academy](pages/Dual Credit BarChartSouth Kitsap School District Explorer Academy.png "Explorer Academy Dual Credit Participation")
+[John Sedgwick Middle School](pages/hist_dual_credit_participation/Dual Credit BarChartSouth Kitsap School District John Sedgwick Middle School.png "John Sedgwick Middle School Dual Credit Participation")
 
-[John Sedgwick Junior High](pages/Dual Credit BarChartSouth Kitsap School District John Sedgwick Junior High.png "John Sedgwick Junior High Dual Credit Participation")
+[Marcus Whitman Middle School](pages/hist_dual_credit_participation/Dual Credit BarChartSouth Kitsap School District Marcus Whitman Middle School.png "Marcus Whitman Middle School Dual Credit Participation")
 
-[Marcus Whitman Junior High](pages/Dual Credit BarChartSouth Kitsap School District Marcus Whitman Junior High.png "Marcus Whitman Junior High Dual Credit Participation")
-
-[South Kitsap High School](pages/Dual Credit BarChartSouth Kitsap School District South Kitsap High School.png "South Kitsap High School Dual Credit Participation")
+[South Kitsap High School](pages/hist_dual_credit_participation/Dual Credit BarChartSouth Kitsap School District South Kitsap High School.png "South Kitsap High School Dual Credit Participation")
 
 
 ___

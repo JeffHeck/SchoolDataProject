@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Nooksack Valley High School](pages/Dual Credit BarChartNooksack Valley School District Nooksack Valley High School.png "Nooksack Valley High School Dual Credit Participation")
+[Nooksack Valley High School](pages/hist_dual_credit_participation/Dual Credit BarChartNooksack Valley School District Nooksack Valley High School.png "Nooksack Valley High School Dual Credit Participation")
 
 
 ___

@@ -39,11 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Chelan High School](pages/Dual Credit BarChartLake Chelan School District Chelan High School.png "Chelan High School Dual Credit Participation")
-
-[Chelan School of Innovation](pages/Dual Credit BarChartLake Chelan School District Chelan School of Innovation.png "Chelan School of Innovation Dual Credit Participation")
-
-[Holden Village Community School](pages/Dual Credit BarChartLake Chelan School District Holden Village Community School.png "Holden Village Community School Dual Credit Participation")
+[Chelan High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Chelan School District Chelan High School.png "Chelan High School Dual Credit Participation")
 
 
 ___

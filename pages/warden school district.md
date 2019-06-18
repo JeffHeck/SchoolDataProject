@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Warden High School](pages/Dual Credit BarChartWarden School District Warden High School.png "Warden High School Dual Credit Participation")
+[Warden High School](pages/hist_dual_credit_participation/Dual Credit BarChartWarden School District Warden High School.png "Warden High School Dual Credit Participation")
 
 
 ___

@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Selah Academy](pages/Dual Credit BarChartSelah School District Selah Academy.png "Selah Academy Dual Credit Participation")
-
-[Selah High School](pages/Dual Credit BarChartSelah School District Selah High School.png "Selah High School Dual Credit Participation")
+[Selah High School](pages/hist_dual_credit_participation/Dual Credit BarChartSelah School District Selah High School.png "Selah High School Dual Credit Participation")
 
 
 ___

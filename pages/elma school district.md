@@ -39,11 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[East Grays Harbor High School](pages/Dual Credit BarChartElma School District East Grays Harbor High School.png "East Grays Harbor High School Dual Credit Participation")
-
-[East Grays Harbor Open Doors](pages/Dual Credit BarChartElma School District East Grays Harbor Open Doors.png "East Grays Harbor Open Doors Dual Credit Participation")
-
-[Elma High School](pages/Dual Credit BarChartElma School District Elma High School.png "Elma High School Dual Credit Participation")
+[Elma High School](pages/hist_dual_credit_participation/Dual Credit BarChartElma School District Elma High School.png "Elma High School Dual Credit Participation")
 
 
 ___

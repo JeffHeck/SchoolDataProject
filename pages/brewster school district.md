@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Brewster Alternative School](pages/Dual Credit BarChartBrewster School District Brewster Alternative School.png "Brewster Alternative School Dual Credit Participation")
-
-[Brewster High School](pages/Dual Credit BarChartBrewster School District Brewster High School.png "Brewster High School Dual Credit Participation")
+[Brewster High School](pages/hist_dual_credit_participation/Dual Credit BarChartBrewster School District Brewster High School.png "Brewster High School Dual Credit Participation")
 
 
 ___

@@ -11,7 +11,7 @@ ___
 
 ## Dual Credit Participation
 
-[Creston Jr-Sr High School](pages/Dual Credit BarChartCreston School District Creston Jr-Sr High School.png "Creston Jr-Sr High School Dual Credit Participation")
+[Creston Jr-Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartCreston School District Creston Jr-Sr High School.png "Creston Jr-Sr High School Dual Credit Participation")
 
 
 ___

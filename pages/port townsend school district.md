@@ -11,9 +11,7 @@ ___
 
 ## Dual Credit Participation
 
-[OCEAN](pages/Dual Credit BarChartPort Townsend School District OCEAN.png "OCEAN Dual Credit Participation")
-
-[Port Townsend High School](pages/Dual Credit BarChartPort Townsend School District Port Townsend High School.png "Port Townsend High School Dual Credit Participation")
+[Port Townsend High School](pages/hist_dual_credit_participation/Dual Credit BarChartPort Townsend School District Port Townsend High School.png "Port Townsend High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Naches Valley High School](pages/Dual Credit BarChartNaches Valley School District Naches Valley High School.png "Naches Valley High School Dual Credit Participation")
+[Naches Valley High School](pages/hist_dual_credit_participation/Dual Credit BarChartNaches Valley School District Naches Valley High School.png "Naches Valley High School Dual Credit Participation")
 
 
 ___

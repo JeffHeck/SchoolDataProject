@@ -53,23 +53,15 @@ ___
 
 ## Dual Credit Participation
 
-[Eastlake High School](pages/Dual Credit BarChartLake Washington School District Eastlake High School.png "Eastlake High School Dual Credit Participation")
+[Eastlake High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Eastlake High School.png "Eastlake High School Dual Credit Participation")
 
-[Emerson High School](pages/Dual Credit BarChartLake Washington School District Emerson High School.png "Emerson High School Dual Credit Participation")
+[Emerson High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Emerson High School.png "Emerson High School Dual Credit Participation")
 
-[Emerson K-12](pages/Dual Credit BarChartLake Washington School District Emerson K-12.png "Emerson K-12 Dual Credit Participation")
+[Juanita High](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Juanita High.png "Juanita High Dual Credit Participation")
 
-[Futures School](pages/Dual Credit BarChartLake Washington School District Futures School.png "Futures School Dual Credit Participation")
+[Lake Washington High](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Lake Washington High.png "Lake Washington High Dual Credit Participation")
 
-[International Community School](pages/Dual Credit BarChartLake Washington School District International Community School.png "International Community School Dual Credit Participation")
-
-[Juanita High](pages/Dual Credit BarChartLake Washington School District Juanita High.png "Juanita High Dual Credit Participation")
-
-[Lake Washington High](pages/Dual Credit BarChartLake Washington School District Lake Washington High.png "Lake Washington High Dual Credit Participation")
-
-[Redmond High](pages/Dual Credit BarChartLake Washington School District Redmond High.png "Redmond High Dual Credit Participation")
-
-[Tesla STEM High School](pages/Dual Credit BarChartLake Washington School District Tesla STEM High School.png "Tesla STEM High School Dual Credit Participation")
+[Redmond High](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Redmond High.png "Redmond High Dual Credit Participation")
 
 
 ___

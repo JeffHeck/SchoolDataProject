@@ -53,9 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Shorecrest High School](pages/Dual Credit BarChartShoreline School District Shorecrest High School.png "Shorecrest High School Dual Credit Participation")
+[Shorecrest High School](pages/hist_dual_credit_participation/Dual Credit BarChartShoreline School District Shorecrest High School.png "Shorecrest High School Dual Credit Participation")
 
-[Shorewood High School](pages/Dual Credit BarChartShoreline School District Shorewood High School.png "Shorewood High School Dual Credit Participation")
+[Shorewood High School](pages/hist_dual_credit_participation/Dual Credit BarChartShoreline School District Shorewood High School.png "Shorewood High School Dual Credit Participation")
 
 
 ___

@@ -46,7 +46,7 @@ ___
 
 ## Dual Credit Participation
 
-[White Swan High School](pages/Dual Credit BarChartMount Adams School District White Swan High School.png "White Swan High School Dual Credit Participation")
+[White Swan High School](pages/hist_dual_credit_participation/Dual Credit BarChartMount Adams School District White Swan High School.png "White Swan High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Trout Lake School](pages/Dual Credit BarChartTrout Lake School District Trout Lake School.png "Trout Lake School Dual Credit Participation")
+[Trout Lake School](pages/hist_dual_credit_participation/Dual Credit BarChartTrout Lake School District Trout Lake School.png "Trout Lake School Dual Credit Participation")
 
 
 ___

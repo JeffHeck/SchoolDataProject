@@ -53,15 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[AIM High School](pages/Dual Credit BarChartSnohomish School District AIM High School.png "AIM High School Dual Credit Participation")
+[Glacier Peak High School](pages/hist_dual_credit_participation/Dual Credit BarChartSnohomish School District Glacier Peak High School.png "Glacier Peak High School Dual Credit Participation")
 
-[Glacier Peak High School](pages/Dual Credit BarChartSnohomish School District Glacier Peak High School.png "Glacier Peak High School Dual Credit Participation")
-
-[High School Re Entry](pages/Dual Credit BarChartSnohomish School District High School Re Entry.png "High School Re Entry Dual Credit Participation")
-
-[Parent Partnerhip](pages/Dual Credit BarChartSnohomish School District Parent Partnerhip.png "Parent Partnerhip Dual Credit Participation")
-
-[Snohomish High School](pages/Dual Credit BarChartSnohomish School District Snohomish High School.png "Snohomish High School Dual Credit Participation")
+[Snohomish High School](pages/hist_dual_credit_participation/Dual Credit BarChartSnohomish School District Snohomish High School.png "Snohomish High School Dual Credit Participation")
 
 
 ___

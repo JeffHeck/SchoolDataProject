@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Mossyrock Academy](pages/Dual Credit BarChartMossyrock School District Mossyrock Academy.png "Mossyrock Academy Dual Credit Participation")
-
-[Mossyrock Jr Sr High School](pages/Dual Credit BarChartMossyrock School District Mossyrock Jr Sr High School.png "Mossyrock Jr Sr High School Dual Credit Participation")
+[Mossyrock Jr Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartMossyrock School District Mossyrock Jr Sr High School.png "Mossyrock Jr Sr High School Dual Credit Participation")
 
 
 ___

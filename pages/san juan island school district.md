@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Friday Harbor High School](pages/Dual Credit BarChartSan Juan Island School District Friday Harbor High School.png "Friday Harbor High School Dual Credit Participation")
-
-[Griffin Bay School](pages/Dual Credit BarChartSan Juan Island School District Griffin Bay School.png "Griffin Bay School Dual Credit Participation")
+[Friday Harbor High School](pages/hist_dual_credit_participation/Dual Credit BarChartSan Juan Island School District Friday Harbor High School.png "Friday Harbor High School Dual Credit Participation")
 
 
 ___

@@ -37,13 +37,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Kiona-Benton City High School](pages/Dual Credit BarChartKiona-Benton City School District Kiona-Benton City High School.png "Kiona-Benton City High School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Kiona-Benton City School District.png " Graduation Rates")

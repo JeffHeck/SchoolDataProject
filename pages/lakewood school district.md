@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lakewood High School](pages/Dual Credit BarChartLakewood School District Lakewood High School.png "Lakewood High School Dual Credit Participation")
+[Lakewood High School](pages/hist_dual_credit_participation/Dual Credit BarChartLakewood School District Lakewood High School.png "Lakewood High School Dual Credit Participation")
 
 
 ___

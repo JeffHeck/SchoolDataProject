@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Eatonville High School](pages/Dual Credit BarChartEatonville School District Eatonville High School.png "Eatonville High School Dual Credit Participation")
+[Eatonville High School](pages/hist_dual_credit_participation/Dual Credit BarChartEatonville School District Eatonville High School.png "Eatonville High School Dual Credit Participation")
 
 
 ___

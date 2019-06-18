@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Cle Elum Roslyn High School](pages/Dual Credit BarChartCle Elum-Roslyn School District Cle Elum Roslyn High School.png "Cle Elum Roslyn High School Dual Credit Participation")
-
-[Swiftwater Learning Center](pages/Dual Credit BarChartCle Elum-Roslyn School District Swiftwater Learning Center.png "Swiftwater Learning Center Dual Credit Participation")
+[Cle Elum Roslyn High School](pages/hist_dual_credit_participation/Dual Credit BarChartCle Elum-Roslyn School District Cle Elum Roslyn High School.png "Cle Elum Roslyn High School Dual Credit Participation")
 
 
 ___

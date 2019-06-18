@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Wilson Creek High](pages/Dual Credit BarChartWilson Creek School District Wilson Creek High.png "Wilson Creek High Dual Credit Participation")
+[Wilson Creek High](pages/hist_dual_credit_participation/Dual Credit BarChartWilson Creek School District Wilson Creek High.png "Wilson Creek High Dual Credit Participation")
 
 
 ___

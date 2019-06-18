@@ -53,13 +53,13 @@ ___
 
 ## Dual Credit Participation
 
-[Auburn Mountainview High School](pages/Dual Credit BarChartAuburn School District Auburn Mountainview High School.png "Auburn Mountainview High School Dual Credit Participation")
+[Auburn Mountainview High School](pages/hist_dual_credit_participation/Dual Credit BarChartAuburn School District Auburn Mountainview High School.png "Auburn Mountainview High School Dual Credit Participation")
 
-[Auburn Riverside High School](pages/Dual Credit BarChartAuburn School District Auburn Riverside High School.png "Auburn Riverside High School Dual Credit Participation")
+[Auburn Riverside High School](pages/hist_dual_credit_participation/Dual Credit BarChartAuburn School District Auburn Riverside High School.png "Auburn Riverside High School Dual Credit Participation")
 
-[Auburn Senior High School](pages/Dual Credit BarChartAuburn School District Auburn Senior High School.png "Auburn Senior High School Dual Credit Participation")
+[Auburn Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartAuburn School District Auburn Senior High School.png "Auburn Senior High School Dual Credit Participation")
 
-[West Auburn Senior High School](pages/Dual Credit BarChartAuburn School District West Auburn Senior High School.png "West Auburn Senior High School Dual Credit Participation")
+[West Auburn Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartAuburn School District West Auburn Senior High School.png "West Auburn Senior High School Dual Credit Participation")
 
 
 ___

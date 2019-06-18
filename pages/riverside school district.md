@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Independent Scholar](pages/Dual Credit BarChartRiverside School District Independent Scholar.png "Independent Scholar Dual Credit Participation")
-
-[Riverside High School](pages/Dual Credit BarChartRiverside School District Riverside High School.png "Riverside High School Dual Credit Participation")
+[Riverside High School](pages/hist_dual_credit_participation/Dual Credit BarChartRiverside School District Riverside High School.png "Riverside High School Dual Credit Participation")
 
 
 ___

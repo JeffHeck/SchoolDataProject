@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[CVA-Lopez Island](pages/Dual Credit BarChartLopez School District CVA-Lopez Island.png "CVA-Lopez Island Dual Credit Participation")
-
-[Lopez Middle High School](pages/Dual Credit BarChartLopez School District Lopez Middle High School.png "Lopez Middle High School Dual Credit Participation")
+[Lopez Middle High School](pages/hist_dual_credit_participation/Dual Credit BarChartLopez School District Lopez Middle High School.png "Lopez Middle High School Dual Credit Participation")
 
 
 ___

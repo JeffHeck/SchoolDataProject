@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Moses Lake High School](pages/Dual Credit BarChartMoses Lake School District Moses Lake High School.png "Moses Lake High School Dual Credit Participation")
-
-[Skill Source Learning Center](pages/Dual Credit BarChartMoses Lake School District Skill Source Learning Center.png "Skill Source Learning Center Dual Credit Participation")
+[Moses Lake High School](pages/hist_dual_credit_participation/Dual Credit BarChartMoses Lake School District Moses Lake High School.png "Moses Lake High School Dual Credit Participation")
 
 
 ___

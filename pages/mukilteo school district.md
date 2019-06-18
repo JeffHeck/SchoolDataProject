@@ -53,13 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[ACES High School](pages/Dual Credit BarChartMukilteo School District ACES High School.png "ACES High School Dual Credit Participation")
+[ACES High School](pages/hist_dual_credit_participation/Dual Credit BarChartMukilteo School District ACES High School.png "ACES High School Dual Credit Participation")
 
-[Kamiak High School](pages/Dual Credit BarChartMukilteo School District Kamiak High School.png "Kamiak High School Dual Credit Participation")
+[Kamiak High School](pages/hist_dual_credit_participation/Dual Credit BarChartMukilteo School District Kamiak High School.png "Kamiak High School Dual Credit Participation")
 
-[Mariner High School](pages/Dual Credit BarChartMukilteo School District Mariner High School.png "Mariner High School Dual Credit Participation")
-
-[Special Services](pages/Dual Credit BarChartMukilteo School District Special Services.png "Special Services Dual Credit Participation")
+[Mariner High School](pages/hist_dual_credit_participation/Dual Credit BarChartMukilteo School District Mariner High School.png "Mariner High School Dual Credit Participation")
 
 
 ___

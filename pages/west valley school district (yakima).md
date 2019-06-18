@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[West Valley High School Freshman Campus](pages/Dual Credit BarChartWest Valley School District (Yakima) West Valley High School Freshman Campus.png "West Valley High School Freshman Campus Dual Credit Participation")
-
-[West Valley High School](pages/Dual Credit BarChartWest Valley School District (Yakima) West Valley High School.png "West Valley High School Dual Credit Participation")
+[West Valley High School](pages/hist_dual_credit_participation/Dual Credit BarChartWest Valley School District (Yakima) West Valley High School.png "West Valley High School Dual Credit Participation")
 
 
 ___

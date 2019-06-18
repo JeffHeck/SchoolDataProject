@@ -53,17 +53,13 @@ ___
 
 ## Dual Credit Participation
 
-[Davis High School](pages/Dual Credit BarChartYakima School District Davis High School.png "Davis High School Dual Credit Participation")
+[Davis High School](pages/hist_dual_credit_participation/Dual Credit BarChartYakima School District Davis High School.png "Davis High School Dual Credit Participation")
 
-[Eisenhower High School](pages/Dual Credit BarChartYakima School District Eisenhower High School.png "Eisenhower High School Dual Credit Participation")
+[Eisenhower High School](pages/hist_dual_credit_participation/Dual Credit BarChartYakima School District Eisenhower High School.png "Eisenhower High School Dual Credit Participation")
 
-[Stanton Academy](pages/Dual Credit BarChartYakima School District Stanton Academy.png "Stanton Academy Dual Credit Participation")
+[Stanton Academy](pages/hist_dual_credit_participation/Dual Credit BarChartYakima School District Stanton Academy.png "Stanton Academy Dual Credit Participation")
 
-[Yakima Online](pages/Dual Credit BarChartYakima School District Yakima Online.png "Yakima Online Dual Credit Participation")
-
-[Yakima Open Doors](pages/Dual Credit BarChartYakima School District Yakima Open Doors.png "Yakima Open Doors Dual Credit Participation")
-
-[Yakima Satellite Alternative Programs](pages/Dual Credit BarChartYakima School District Yakima Satellite Alternative Programs.png "Yakima Satellite Alternative Programs Dual Credit Participation")
+[Yakima Online](pages/hist_dual_credit_participation/Dual Credit BarChartYakima School District Yakima Online.png "Yakima Online Dual Credit Participation")
 
 
 ___

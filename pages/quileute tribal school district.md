@@ -9,13 +9,6 @@ permalink: quileute tribal school district
 
 ___
 
-## Dual Credit Participation
-
-[Quileute Tribal School](pages/Dual Credit BarChartQuileute Tribal School District Quileute Tribal School.png "Quileute Tribal School Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Quileute Tribal School DistrictDollars Per Student.png " Dollars Per Student")

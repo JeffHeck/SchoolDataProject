@@ -53,13 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[FERNDALE RE-ENGAGEMENT](pages/Dual Credit BarChartFerndale School District FERNDALE RE-ENGAGEMENT.png "FERNDALE RE-ENGAGEMENT Dual Credit Participation")
+[Ferndale High School](pages/hist_dual_credit_participation/Dual Credit BarChartFerndale School District Ferndale High School.png "Ferndale High School Dual Credit Participation")
 
-[Ferndale High School](pages/Dual Credit BarChartFerndale School District Ferndale High School.png "Ferndale High School Dual Credit Participation")
-
-[Vista Middle School](pages/Dual Credit BarChartFerndale School District Vista Middle School.png "Vista Middle School Dual Credit Participation")
-
-[WINDWARD HIGH SCHOOL](pages/Dual Credit BarChartFerndale School District WINDWARD HIGH SCHOOL.png "WINDWARD HIGH SCHOOL Dual Credit Participation")
+[WINDWARD HIGH SCHOOL](pages/hist_dual_credit_participation/Dual Credit BarChartFerndale School District WINDWARD HIGH SCHOOL.png "WINDWARD HIGH SCHOOL Dual Credit Participation")
 
 
 ___

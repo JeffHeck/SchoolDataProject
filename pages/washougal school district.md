@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Excelsior High School](pages/Dual Credit BarChartWashougal School District Excelsior High School.png "Excelsior High School Dual Credit Participation")
-
-[Washougal High School](pages/Dual Credit BarChartWashougal School District Washougal High School.png "Washougal High School Dual Credit Participation")
+[Washougal High School](pages/hist_dual_credit_participation/Dual Credit BarChartWashougal School District Washougal High School.png "Washougal High School Dual Credit Participation")
 
 
 ___

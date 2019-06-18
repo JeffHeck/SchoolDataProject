@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Ilwaco High School](pages/Dual Credit BarChartOcean Beach School District Ilwaco High School.png "Ilwaco High School Dual Credit Participation")
-
-[Ocean Beach Alternative School](pages/Dual Credit BarChartOcean Beach School District Ocean Beach Alternative School.png "Ocean Beach Alternative School Dual Credit Participation")
+[Ilwaco High School](pages/hist_dual_credit_participation/Dual Credit BarChartOcean Beach School District Ilwaco High School.png "Ilwaco High School Dual Credit Participation")
 
 
 ___

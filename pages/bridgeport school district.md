@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Bridgeport Aurora High School](pages/Dual Credit BarChartBridgeport School District Bridgeport Aurora High School.png "Bridgeport Aurora High School Dual Credit Participation")
-
-[Bridgeport High School](pages/Dual Credit BarChartBridgeport School District Bridgeport High School.png "Bridgeport High School Dual Credit Participation")
+[Bridgeport High School](pages/hist_dual_credit_participation/Dual Credit BarChartBridgeport School District Bridgeport High School.png "Bridgeport High School Dual Credit Participation")
 
 
 ___

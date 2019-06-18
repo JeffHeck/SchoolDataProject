@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Entiat Middle and High School](pages/Dual Credit BarChartEntiat School District Entiat Middle and High School.png "Entiat Middle and High School Dual Credit Participation")
+[Entiat Middle and High School](pages/hist_dual_credit_participation/Dual Credit BarChartEntiat School District Entiat Middle and High School.png "Entiat Middle and High School Dual Credit Participation")
 
 
 ___

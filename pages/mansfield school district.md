@@ -11,7 +11,7 @@ ___
 
 ## Dual Credit Participation
 
-[Mansfield Elem and High School](pages/Dual Credit BarChartMansfield School District Mansfield Elem and High School.png "Mansfield Elem and High School Dual Credit Participation")
+[Mansfield Elem and High School](pages/hist_dual_credit_participation/Dual Credit BarChartMansfield School District Mansfield Elem and High School.png "Mansfield Elem and High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Sunnyside High School](pages/Dual Credit BarChartSunnyside School District Sunnyside High School.png "Sunnyside High School Dual Credit Participation")
+[Sunnyside High School](pages/hist_dual_credit_participation/Dual Credit BarChartSunnyside School District Sunnyside High School.png "Sunnyside High School Dual Credit Participation")
 
 
 ___

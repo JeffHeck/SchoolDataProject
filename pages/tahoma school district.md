@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Tahoma Jr High](pages/Dual Credit BarChartTahoma School District Tahoma Jr High.png "Tahoma Jr High Dual Credit Participation")
-
-[Tahoma Senior High School](pages/Dual Credit BarChartTahoma School District Tahoma Senior High School.png "Tahoma Senior High School Dual Credit Participation")
+[Tahoma Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartTahoma School District Tahoma Senior High School.png "Tahoma Senior High School Dual Credit Participation")
 
 
 ___

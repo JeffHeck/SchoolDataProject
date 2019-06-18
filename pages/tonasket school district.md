@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Tonasket High School](pages/Dual Credit BarChartTonasket School District Tonasket High School.png "Tonasket High School Dual Credit Participation")
+[Tonasket High School](pages/hist_dual_credit_participation/Dual Credit BarChartTonasket School District Tonasket High School.png "Tonasket High School Dual Credit Participation")
 
 
 ___

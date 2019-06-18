@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pullman High School](pages/Dual Credit BarChartPullman School District Pullman High School.png "Pullman High School Dual Credit Participation")
+[Pullman High School](pages/hist_dual_credit_participation/Dual Credit BarChartPullman School District Pullman High School.png "Pullman High School Dual Credit Participation")
 
 
 ___

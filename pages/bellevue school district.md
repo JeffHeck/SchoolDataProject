@@ -53,19 +53,17 @@ ___
 
 ## Dual Credit Participation
 
-[Bellevue Big Picture School](pages/Dual Credit BarChartBellevue School District Bellevue Big Picture School.png "Bellevue Big Picture School Dual Credit Participation")
+[Bellevue Big Picture School](pages/hist_dual_credit_participation/Dual Credit BarChartBellevue School District Bellevue Big Picture School.png "Bellevue Big Picture School Dual Credit Participation")
 
-[Bellevue High School](pages/Dual Credit BarChartBellevue School District Bellevue High School.png "Bellevue High School Dual Credit Participation")
+[Bellevue High School](pages/hist_dual_credit_participation/Dual Credit BarChartBellevue School District Bellevue High School.png "Bellevue High School Dual Credit Participation")
 
-[Grad Alliance Program](pages/Dual Credit BarChartBellevue School District Grad Alliance Program.png "Grad Alliance Program Dual Credit Participation")
+[Interlake Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartBellevue School District Interlake Senior High School.png "Interlake Senior High School Dual Credit Participation")
 
-[Interlake Senior High School](pages/Dual Credit BarChartBellevue School District Interlake Senior High School.png "Interlake Senior High School Dual Credit Participation")
+[International School](pages/hist_dual_credit_participation/Dual Credit BarChartBellevue School District International School.png "International School Dual Credit Participation")
 
-[International School](pages/Dual Credit BarChartBellevue School District International School.png "International School Dual Credit Participation")
+[Newport Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartBellevue School District Newport Senior High School.png "Newport Senior High School Dual Credit Participation")
 
-[Newport Senior High School](pages/Dual Credit BarChartBellevue School District Newport Senior High School.png "Newport Senior High School Dual Credit Participation")
-
-[Sammamish Senior High](pages/Dual Credit BarChartBellevue School District Sammamish Senior High.png "Sammamish Senior High Dual Credit Participation")
+[Sammamish Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartBellevue School District Sammamish Senior High.png "Sammamish Senior High Dual Credit Participation")
 
 
 ___

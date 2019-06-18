@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[CVA - Onalaska](pages/Dual Credit BarChartOnalaska School District CVA - Onalaska.png "CVA - Onalaska Dual Credit Participation")
-
-[Onalaska High School](pages/Dual Credit BarChartOnalaska School District Onalaska High School.png "Onalaska High School Dual Credit Participation")
+[Onalaska High School](pages/hist_dual_credit_participation/Dual Credit BarChartOnalaska School District Onalaska High School.png "Onalaska High School Dual Credit Participation")
 
 
 ___

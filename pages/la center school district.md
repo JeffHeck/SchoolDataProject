@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[La Center High School](pages/Dual Credit BarChartLa Center School District La Center High School.png "La Center High School Dual Credit Participation")
-
-[La Center Home School Academy](pages/Dual Credit BarChartLa Center School District La Center Home School Academy.png "La Center Home School Academy Dual Credit Participation")
+[La Center High School](pages/hist_dual_credit_participation/Dual Credit BarChartLa Center School District La Center High School.png "La Center High School Dual Credit Participation")
 
 
 ___

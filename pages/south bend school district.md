@@ -25,11 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pacific County Jail](pages/Dual Credit BarChartSouth Bend School District Pacific County Jail.png "Pacific County Jail Dual Credit Participation")
-
-[South Bend High School](pages/Dual Credit BarChartSouth Bend School District South Bend High School.png "South Bend High School Dual Credit Participation")
-
-[South Bend Home Link](pages/Dual Credit BarChartSouth Bend School District South Bend Home Link.png "South Bend Home Link Dual Credit Participation")
+[South Bend High School](pages/hist_dual_credit_participation/Dual Credit BarChartSouth Bend School District South Bend High School.png "South Bend High School Dual Credit Participation")
 
 
 ___

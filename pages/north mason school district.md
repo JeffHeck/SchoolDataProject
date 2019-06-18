@@ -25,11 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[James A Taylor High School](pages/Dual Credit BarChartNorth Mason School District James A Taylor High School.png "James A Taylor High School Dual Credit Participation")
-
-[North Mason Homelink Program](pages/Dual Credit BarChartNorth Mason School District North Mason Homelink Program.png "North Mason Homelink Program Dual Credit Participation")
-
-[North Mason Senior High School](pages/Dual Credit BarChartNorth Mason School District North Mason Senior High School.png "North Mason Senior High School Dual Credit Participation")
+[North Mason Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Mason School District North Mason Senior High School.png "North Mason Senior High School Dual Credit Participation")
 
 
 ___

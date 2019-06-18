@@ -32,7 +32,7 @@ ___
 
 ## Dual Credit Participation
 
-[Taholah High School](pages/Dual Credit BarChartTaholah School District Taholah High School.png "Taholah High School Dual Credit Participation")
+[Taholah High School](pages/hist_dual_credit_participation/Dual Credit BarChartTaholah School District Taholah High School.png "Taholah High School Dual Credit Participation")
 
 
 ___

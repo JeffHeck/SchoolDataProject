@@ -32,7 +32,7 @@ ___
 
 ## Dual Credit Participation
 
-[Chief Kitsap Academy](pages/Dual Credit BarChartSuquamish Tribal Education Department Chief Kitsap Academy.png "Chief Kitsap Academy Dual Credit Participation")
+[Chief Kitsap Academy](pages/hist_dual_credit_participation/Dual Credit BarChartSuquamish Tribal Education Department Chief Kitsap Academy.png "Chief Kitsap Academy Dual Credit Participation")
 
 
 ___

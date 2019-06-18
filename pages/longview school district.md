@@ -53,13 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Discovery High School-Achieve](pages/Dual Credit BarChartLongview School District Discovery High School-Achieve.png "Discovery High School-Achieve Dual Credit Participation")
+[Discovery High School](pages/hist_dual_credit_participation/Dual Credit BarChartLongview School District Discovery High School.png "Discovery High School Dual Credit Participation")
 
-[Discovery High School](pages/Dual Credit BarChartLongview School District Discovery High School.png "Discovery High School Dual Credit Participation")
+[Mark Morris High School](pages/hist_dual_credit_participation/Dual Credit BarChartLongview School District Mark Morris High School.png "Mark Morris High School Dual Credit Participation")
 
-[Mark Morris High School](pages/Dual Credit BarChartLongview School District Mark Morris High School.png "Mark Morris High School Dual Credit Participation")
-
-[R A Long High School](pages/Dual Credit BarChartLongview School District R A Long High School.png "R A Long High School Dual Credit Participation")
+[R A Long High School](pages/hist_dual_credit_participation/Dual Credit BarChartLongview School District R A Long High School.png "R A Long High School Dual Credit Participation")
 
 
 ___

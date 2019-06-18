@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lewis County Alternative School](pages/Dual Credit BarChartChehalis School District Lewis County Alternative School.png "Lewis County Alternative School Dual Credit Participation")
-
-[W F West High School](pages/Dual Credit BarChartChehalis School District W F West High School.png "W F West High School Dual Credit Participation")
+[W F West High School](pages/hist_dual_credit_participation/Dual Credit BarChartChehalis School District W F West High School.png "W F West High School Dual Credit Participation")
 
 
 ___

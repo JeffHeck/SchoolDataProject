@@ -23,13 +23,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Washtucna Elementary High School](pages/Dual Credit BarChartWashtucna School District Washtucna Elementary High School.png "Washtucna Elementary High School Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Washtucna School DistrictDollars Per Student.png " Dollars Per Student")

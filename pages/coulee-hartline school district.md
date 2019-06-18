@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Almira Coulee Hartline High School](pages/Dual Credit BarChartCoulee-Hartline School District Almira Coulee Hartline High School.png "Almira Coulee Hartline High School Dual Credit Participation")
+[Almira Coulee Hartline High School](pages/hist_dual_credit_participation/Dual Credit BarChartCoulee-Hartline School District Almira Coulee Hartline High School.png "Almira Coulee Hartline High School Dual Credit Participation")
 
 
 ___

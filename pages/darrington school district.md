@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Darrington Sr High School](pages/Dual Credit BarChartDarrington School District Darrington Sr High School.png "Darrington Sr High School Dual Credit Participation")
+[Darrington High School](pages/hist_dual_credit_participation/Dual Credit BarChartDarrington School District Darrington High School.png "Darrington High School Dual Credit Participation")
 
 
 ___

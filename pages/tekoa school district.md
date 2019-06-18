@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Tekoa High School](pages/Dual Credit BarChartTekoa School District Tekoa High School.png "Tekoa High School Dual Credit Participation")
+[Tekoa High School](pages/hist_dual_credit_participation/Dual Credit BarChartTekoa School District Tekoa High School.png "Tekoa High School Dual Credit Participation")
 
 
 ___

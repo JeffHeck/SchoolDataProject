@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Camas High School](pages/Dual Credit BarChartCamas School District Camas High School.png "Camas High School Dual Credit Participation")
-
-[Hayes Freedom High School](pages/Dual Credit BarChartCamas School District Hayes Freedom High School.png "Hayes Freedom High School Dual Credit Participation")
+[Camas High School](pages/hist_dual_credit_participation/Dual Credit BarChartCamas School District Camas High School.png "Camas High School Dual Credit Participation")
 
 
 ___

@@ -32,7 +32,7 @@ ___
 
 ## Dual Credit Participation
 
-[Paideia High School](pages/Dual Credit BarChartValley School District Paideia High School.png "Paideia High School Dual Credit Participation")
+[Paideia High School](pages/hist_dual_credit_participation/Dual Credit BarChartValley School District Paideia High School.png "Paideia High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Wahkiakum High School](pages/Dual Credit BarChartWahkiakum School District Wahkiakum High School.png "Wahkiakum High School Dual Credit Participation")
+[Wahkiakum High School](pages/hist_dual_credit_participation/Dual Credit BarChartWahkiakum School District Wahkiakum High School.png "Wahkiakum High School Dual Credit Participation")
 
 
 ___

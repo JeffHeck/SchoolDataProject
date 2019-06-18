@@ -51,13 +51,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Wilbur Secondary School](pages/Dual Credit BarChartWilbur School District Wilbur Secondary School.png "Wilbur Secondary School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Wilbur School District.png " Graduation Rates")

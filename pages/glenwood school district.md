@@ -23,13 +23,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Glenwood Secondary](pages/Dual Credit BarChartGlenwood School District Glenwood Secondary.png "Glenwood Secondary Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Glenwood School DistrictDollars Per Student.png " Dollars Per Student")

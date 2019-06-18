@@ -53,9 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Bonney Lake High School](pages/Dual Credit BarChartSumner School District Bonney Lake High School.png "Bonney Lake High School Dual Credit Participation")
+[Bonney Lake High School](pages/hist_dual_credit_participation/Dual Credit BarChartSumner School District Bonney Lake High School.png "Bonney Lake High School Dual Credit Participation")
 
-[Sumner High School](pages/Dual Credit BarChartSumner School District Sumner High School.png "Sumner High School Dual Credit Participation")
+[Sumner High School](pages/hist_dual_credit_participation/Dual Credit BarChartSumner School District Sumner High School.png "Sumner High School Dual Credit Participation")
 
 
 ___

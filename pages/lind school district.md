@@ -44,13 +44,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Lind-Ritzville High School](pages/Dual Credit BarChartLind School District Lind-Ritzville High School.png "Lind-Ritzville High School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Lind School District.png " Graduation Rates")

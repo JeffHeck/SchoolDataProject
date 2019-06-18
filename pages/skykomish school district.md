@@ -9,13 +9,6 @@ permalink: skykomish school district
 
 ___
 
-## Dual Credit Participation
-
-[Skykomish High School](pages/Dual Credit BarChartSkykomish School District Skykomish High School.png "Skykomish High School Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Skykomish School DistrictDollars Per Student.png " Dollars Per Student")

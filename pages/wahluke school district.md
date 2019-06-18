@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Sentinel Tech Alt School](pages/Dual Credit BarChartWahluke School District Sentinel Tech Alt School.png "Sentinel Tech Alt School Dual Credit Participation")
-
-[Wahluke High School](pages/Dual Credit BarChartWahluke School District Wahluke High School.png "Wahluke High School Dual Credit Participation")
+[Wahluke High School](pages/hist_dual_credit_participation/Dual Credit BarChartWahluke School District Wahluke High School.png "Wahluke High School Dual Credit Participation")
 
 
 ___

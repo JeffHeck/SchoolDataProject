@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Liberty High School](pages/Dual Credit BarChartLiberty School District Liberty High School.png "Liberty High School Dual Credit Participation")
+[Liberty High School](pages/hist_dual_credit_participation/Dual Credit BarChartLiberty School District Liberty High School.png "Liberty High School Dual Credit Participation")
 
 
 ___

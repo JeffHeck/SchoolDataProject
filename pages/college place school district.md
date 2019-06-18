@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[College Place High School](pages/Dual Credit BarChartCollege Place School District College Place High School.png "College Place High School Dual Credit Participation")
+[College Place High School](pages/hist_dual_credit_participation/Dual Credit BarChartCollege Place School District College Place High School.png "College Place High School Dual Credit Participation")
 
 
 ___

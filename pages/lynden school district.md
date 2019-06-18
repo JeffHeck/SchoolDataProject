@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lynden Academy](pages/Dual Credit BarChartLynden School District Lynden Academy.png "Lynden Academy Dual Credit Participation")
-
-[Lynden High School](pages/Dual Credit BarChartLynden School District Lynden High School.png "Lynden High School Dual Credit Participation")
+[Lynden High School](pages/hist_dual_credit_participation/Dual Credit BarChartLynden School District Lynden High School.png "Lynden High School Dual Credit Participation")
 
 
 ___

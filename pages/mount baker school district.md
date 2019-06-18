@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Mount Baker Academy](pages/Dual Credit BarChartMount Baker School District Mount Baker Academy.png "Mount Baker Academy Dual Credit Participation")
-
-[Mount Baker Senior High](pages/Dual Credit BarChartMount Baker School District Mount Baker Senior High.png "Mount Baker Senior High Dual Credit Participation")
+[Mount Baker Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartMount Baker School District Mount Baker Senior High.png "Mount Baker Senior High Dual Credit Participation")
 
 
 ___

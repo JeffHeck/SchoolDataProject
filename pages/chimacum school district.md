@@ -11,11 +11,7 @@ ___
 
 ## Dual Credit Participation
 
-[Chimacum High School](pages/Dual Credit BarChartChimacum School District Chimacum High School.png "Chimacum High School Dual Credit Participation")
-
-[Open Doors Reengagement Program](pages/Dual Credit BarChartChimacum School District Open Doors Reengagement Program.png "Open Doors Reengagement Program Dual Credit Participation")
-
-[PI Program](pages/Dual Credit BarChartChimacum School District PI Program.png "PI Program Dual Credit Participation")
+[Chimacum High School](pages/hist_dual_credit_participation/Dual Credit BarChartChimacum School District Chimacum High School.png "Chimacum High School Dual Credit Participation")
 
 
 ___

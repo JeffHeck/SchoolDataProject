@@ -39,9 +39,9 @@ ___
 
 ## Dual Credit Participation
 
-[Lincoln High School](pages/Dual Credit BarChartPort Angeles School District Lincoln High School.png "Lincoln High School Dual Credit Participation")
+[Lincoln High School](pages/hist_dual_credit_participation/Dual Credit BarChartPort Angeles School District Lincoln High School.png "Lincoln High School Dual Credit Participation")
 
-[Port Angeles High School](pages/Dual Credit BarChartPort Angeles School District Port Angeles High School.png "Port Angeles High School Dual Credit Participation")
+[Port Angeles High School](pages/hist_dual_credit_participation/Dual Credit BarChartPort Angeles School District Port Angeles High School.png "Port Angeles High School Dual Credit Participation")
 
 
 ___

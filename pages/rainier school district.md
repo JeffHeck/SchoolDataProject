@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Rainier Senior High School](pages/Dual Credit BarChartRainier School District Rainier Senior High School.png "Rainier Senior High School Dual Credit Participation")
+[Rainier Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartRainier School District Rainier Senior High School.png "Rainier Senior High School Dual Credit Participation")
 
 
 ___

@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Ellensburg High School](pages/Dual Credit BarChartEllensburg School District Ellensburg High School.png "Ellensburg High School Dual Credit Participation")
-
-[K-12 Ellensburg Learning Center](pages/Dual Credit BarChartEllensburg School District K-12 Ellensburg Learning Center.png "K-12 Ellensburg Learning Center Dual Credit Participation")
+[Ellensburg High School](pages/hist_dual_credit_participation/Dual Credit BarChartEllensburg School District Ellensburg High School.png "Ellensburg High School Dual Credit Participation")
 
 
 ___

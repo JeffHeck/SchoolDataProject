@@ -53,11 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Bremerton High School](pages/Dual Credit BarChartBremerton School District Bremerton High School.png "Bremerton High School Dual Credit Participation")
+[Bremerton High School](pages/hist_dual_credit_participation/Dual Credit BarChartBremerton School District Bremerton High School.png "Bremerton High School Dual Credit Participation")
 
-[Career   Academic Re-engagement Center](pages/Dual Credit BarChartBremerton School District Career   Academic Re-engagement Center.png "Career   Academic Re-engagement Center Dual Credit Participation")
-
-[Renaissance Alternative High School](pages/Dual Credit BarChartBremerton School District Renaissance Alternative High School.png "Renaissance Alternative High School Dual Credit Participation")
+[Renaissance Alternative High School](pages/hist_dual_credit_participation/Dual Credit BarChartBremerton School District Renaissance Alternative High School.png "Renaissance Alternative High School Dual Credit Participation")
 
 
 ___

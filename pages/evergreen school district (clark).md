@@ -53,21 +53,17 @@ ___
 
 ## Dual Credit Participation
 
-[49th Street Academy](pages/Dual Credit BarChartEvergreen School District (Clark) 49th Street Academy.png "49th Street Academy Dual Credit Participation")
+[Evergreen High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Evergreen High School.png "Evergreen High School Dual Credit Participation")
 
-[Evergreen High School](pages/Dual Credit BarChartEvergreen School District (Clark) Evergreen High School.png "Evergreen High School Dual Credit Participation")
+[Henrietta Lacks Health and Bioscience High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Henrietta Lacks Health and Bioscience High School.png "Henrietta Lacks Health and Bioscience High School Dual Credit Participation")
 
-[HeLa High School](pages/Dual Credit BarChartEvergreen School District (Clark) HeLa High School.png "HeLa High School Dual Credit Participation")
+[Heritage High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Heritage High School.png "Heritage High School Dual Credit Participation")
 
-[Heritage High School](pages/Dual Credit BarChartEvergreen School District (Clark) Heritage High School.png "Heritage High School Dual Credit Participation")
+[Legacy High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Legacy High School.png "Legacy High School Dual Credit Participation")
 
-[Legacy High School](pages/Dual Credit BarChartEvergreen School District (Clark) Legacy High School.png "Legacy High School Dual Credit Participation")
+[Mountain View High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Mountain View High School.png "Mountain View High School Dual Credit Participation")
 
-[Mountain View High School](pages/Dual Credit BarChartEvergreen School District (Clark) Mountain View High School.png "Mountain View High School Dual Credit Participation")
-
-[Union High School](pages/Dual Credit BarChartEvergreen School District (Clark) Union High School.png "Union High School Dual Credit Participation")
-
-[iQ Academy Washington](pages/Dual Credit BarChartEvergreen School District (Clark) iQ Academy Washington.png "iQ Academy Washington Dual Credit Participation")
+[Union High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Union High School.png "Union High School Dual Credit Participation")
 
 
 ___

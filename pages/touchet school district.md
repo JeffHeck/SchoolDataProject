@@ -32,7 +32,7 @@ ___
 
 ## Dual Credit Participation
 
-[Touchet Elem   High School](pages/Dual Credit BarChartTouchet School District Touchet Elem   High School.png "Touchet Elem   High School Dual Credit Participation")
+[Touchet Elem   High School](pages/hist_dual_credit_participation/Dual Credit BarChartTouchet School District Touchet Elem   High School.png "Touchet Elem   High School Dual Credit Participation")
 
 
 ___

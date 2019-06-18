@@ -53,13 +53,13 @@ ___
 
 ## Dual Credit Participation
 
-[North Thurston High School](pages/Dual Credit BarChartNorth Thurston Public Schools North Thurston High School.png "North Thurston High School Dual Credit Participation")
+[North Thurston High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Thurston Public Schools North Thurston High School.png "North Thurston High School Dual Credit Participation")
 
-[River Ridge High School](pages/Dual Credit BarChartNorth Thurston Public Schools River Ridge High School.png "River Ridge High School Dual Credit Participation")
+[River Ridge High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Thurston Public Schools River Ridge High School.png "River Ridge High School Dual Credit Participation")
 
-[South Sound High School](pages/Dual Credit BarChartNorth Thurston Public Schools South Sound High School.png "South Sound High School Dual Credit Participation")
+[South Sound High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Thurston Public Schools South Sound High School.png "South Sound High School Dual Credit Participation")
 
-[Timberline High School](pages/Dual Credit BarChartNorth Thurston Public Schools Timberline High School.png "Timberline High School Dual Credit Participation")
+[Timberline High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Thurston Public Schools Timberline High School.png "Timberline High School Dual Credit Participation")
 
 
 ___

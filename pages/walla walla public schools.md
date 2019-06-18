@@ -53,13 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Alternative Education Program](pages/Dual Credit BarChartWalla Walla Public Schools Alternative Education Program.png "Alternative Education Program Dual Credit Participation")
-
-[Lincoln High School](pages/Dual Credit BarChartWalla Walla Public Schools Lincoln High School.png "Lincoln High School Dual Credit Participation")
-
-[Opportunity Youth Reengagement](pages/Dual Credit BarChartWalla Walla Public Schools Opportunity Youth Reengagement.png "Opportunity Youth Reengagement Dual Credit Participation")
-
-[Walla Walla High School](pages/Dual Credit BarChartWalla Walla Public Schools Walla Walla High School.png "Walla Walla High School Dual Credit Participation")
+[Walla Walla High School](pages/hist_dual_credit_participation/Dual Credit BarChartWalla Walla Public Schools Walla Walla High School.png "Walla Walla High School Dual Credit Participation")
 
 
 ___

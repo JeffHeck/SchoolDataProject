@@ -51,13 +51,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Oakville High School](pages/Dual Credit BarChartOakville School District Oakville High School.png "Oakville High School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Oakville School District.png " Graduation Rates")

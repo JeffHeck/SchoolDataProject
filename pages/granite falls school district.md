@@ -53,11 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Crossroads High School](pages/Dual Credit BarChartGranite Falls School District Crossroads High School.png "Crossroads High School Dual Credit Participation")
-
-[Granite Falls High School](pages/Dual Credit BarChartGranite Falls School District Granite Falls High School.png "Granite Falls High School Dual Credit Participation")
-
-[Granite Falls Open Doors](pages/Dual Credit BarChartGranite Falls School District Granite Falls Open Doors.png "Granite Falls Open Doors Dual Credit Participation")
+[Granite Falls High School](pages/hist_dual_credit_participation/Dual Credit BarChartGranite Falls School District Granite Falls High School.png "Granite Falls High School Dual Credit Participation")
 
 
 ___

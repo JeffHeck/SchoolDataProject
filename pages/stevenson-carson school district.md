@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Stevenson High School](pages/Dual Credit BarChartStevenson-Carson School District Stevenson High School.png "Stevenson High School Dual Credit Participation")
+[Stevenson High School](pages/hist_dual_credit_participation/Dual Credit BarChartStevenson-Carson School District Stevenson High School.png "Stevenson High School Dual Credit Participation")
 
 
 ___

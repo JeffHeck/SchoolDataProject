@@ -51,13 +51,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Lake Quinault High School](pages/Dual Credit BarChartLake Quinault School District Lake Quinault High School.png "Lake Quinault High School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Lake Quinault School District.png " Graduation Rates")

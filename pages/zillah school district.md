@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Zillah High School](pages/Dual Credit BarChartZillah School District Zillah High School.png "Zillah High School Dual Credit Participation")
+[Zillah High School](pages/hist_dual_credit_participation/Dual Credit BarChartZillah School District Zillah High School.png "Zillah High School Dual Credit Participation")
 
 
 ___

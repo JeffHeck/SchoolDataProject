@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Toutle Lake High School](pages/Dual Credit BarChartToutle Lake School District Toutle Lake High School.png "Toutle Lake High School Dual Credit Participation")
+[Toutle Lake High School](pages/hist_dual_credit_participation/Dual Credit BarChartToutle Lake School District Toutle Lake High School.png "Toutle Lake High School Dual Credit Participation")
 
 
 ___

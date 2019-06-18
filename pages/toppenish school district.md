@@ -53,13 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Computer Academy Toppenish High School](pages/Dual Credit BarChartToppenish School District Computer Academy Toppenish High School.png "Computer Academy Toppenish High School Dual Credit Participation")
-
-[NW Allprep](pages/Dual Credit BarChartToppenish School District NW Allprep.png "NW Allprep Dual Credit Participation")
-
-[Toppenish High School](pages/Dual Credit BarChartToppenish School District Toppenish High School.png "Toppenish High School Dual Credit Participation")
-
-[Toppenish Middle School](pages/Dual Credit BarChartToppenish School District Toppenish Middle School.png "Toppenish Middle School Dual Credit Participation")
+[Toppenish High School](pages/hist_dual_credit_participation/Dual Credit BarChartToppenish School District Toppenish High School.png "Toppenish High School Dual Credit Participation")
 
 
 ___

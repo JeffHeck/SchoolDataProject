@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Columbia Alternative School](pages/Dual Credit BarChartColumbia (Stevens) School District Columbia Alternative School.png "Columbia Alternative School Dual Credit Participation")
-
-[Columbia High And Elementary](pages/Dual Credit BarChartColumbia (Stevens) School District Columbia High And Elementary.png "Columbia High And Elementary Dual Credit Participation")
+[Columbia High And Elementary](pages/hist_dual_credit_participation/Dual Credit BarChartColumbia (Stevens) School District Columbia High And Elementary.png "Columbia High And Elementary Dual Credit Participation")
 
 
 ___

@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Islander Middle School](pages/Dual Credit BarChartMercer Island School District Islander Middle School.png "Islander Middle School Dual Credit Participation")
-
-[Mercer Island High School](pages/Dual Credit BarChartMercer Island School District Mercer Island High School.png "Mercer Island High School Dual Credit Participation")
+[Mercer Island High School](pages/hist_dual_credit_participation/Dual Credit BarChartMercer Island School District Mercer Island High School.png "Mercer Island High School Dual Credit Participation")
 
 
 ___

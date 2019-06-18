@@ -57,25 +57,19 @@ ___
 
 ## Dual Credit Participation
 
-[Bryant Center](pages/Dual Credit BarChartSpokane School District Bryant Center.png "Bryant Center Dual Credit Participation")
+[Bryant Center](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District Bryant Center.png "Bryant Center Dual Credit Participation")
 
-[Eagle Peak at Pratt](pages/Dual Credit BarChartSpokane School District Eagle Peak at Pratt.png "Eagle Peak at Pratt Dual Credit Participation")
+[Ferris High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District Ferris High School.png "Ferris High School Dual Credit Participation")
 
-[Ferris High School](pages/Dual Credit BarChartSpokane School District Ferris High School.png "Ferris High School Dual Credit Participation")
+[Lewis   Clark High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District Lewis   Clark High School.png "Lewis   Clark High School Dual Credit Participation")
 
-[Lewis   Clark High School](pages/Dual Credit BarChartSpokane School District Lewis   Clark High School.png "Lewis   Clark High School Dual Credit Participation")
+[North Central High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District North Central High School.png "North Central High School Dual Credit Participation")
 
-[North Central High School](pages/Dual Credit BarChartSpokane School District North Central High School.png "North Central High School Dual Credit Participation")
+[On Track Academy](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District On Track Academy.png "On Track Academy Dual Credit Participation")
 
-[On Track Academy](pages/Dual Credit BarChartSpokane School District On Track Academy.png "On Track Academy Dual Credit Participation")
+[Rogers High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District Rogers High School.png "Rogers High School Dual Credit Participation")
 
-[Open Doors Youth Re-Engagement Spokane](pages/Dual Credit BarChartSpokane School District Open Doors Youth Re-Engagement Spokane.png "Open Doors Youth Re-Engagement Spokane Dual Credit Participation")
-
-[Rogers High School](pages/Dual Credit BarChartSpokane School District Rogers High School.png "Rogers High School Dual Credit Participation")
-
-[Shadle Park High School](pages/Dual Credit BarChartSpokane School District Shadle Park High School.png "Shadle Park High School Dual Credit Participation")
-
-[The Community School](pages/Dual Credit BarChartSpokane School District The Community School.png "The Community School Dual Credit Participation")
+[Shadle Park High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District Shadle Park High School.png "Shadle Park High School Dual Credit Participation")
 
 
 ___

@@ -53,11 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Homeconnection](pages/Dual Credit BarChartOak Harbor School District Homeconnection.png "Homeconnection Dual Credit Participation")
+[Homeconnection](pages/hist_dual_credit_participation/Dual Credit BarChartOak Harbor School District Homeconnection.png "Homeconnection Dual Credit Participation")
 
-[Oak Harbor High School](pages/Dual Credit BarChartOak Harbor School District Oak Harbor High School.png "Oak Harbor High School Dual Credit Participation")
-
-[iGrad Academy](pages/Dual Credit BarChartOak Harbor School District iGrad Academy.png "iGrad Academy Dual Credit Participation")
+[Oak Harbor High School](pages/hist_dual_credit_participation/Dual Credit BarChartOak Harbor School District Oak Harbor High School.png "Oak Harbor High School Dual Credit Participation")
 
 
 ___

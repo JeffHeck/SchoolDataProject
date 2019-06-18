@@ -11,9 +11,7 @@ ___
 
 ## Dual Credit Participation
 
-[Northport High School](pages/Dual Credit BarChartNorthport School District Northport High School.png "Northport High School Dual Credit Participation")
-
-[Northport Homelink Program](pages/Dual Credit BarChartNorthport School District Northport Homelink Program.png "Northport Homelink Program Dual Credit Participation")
+[Northport High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorthport School District Northport High School.png "Northport High School Dual Credit Participation")
 
 
 ___

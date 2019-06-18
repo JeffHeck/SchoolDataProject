@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Waitsburg High School](pages/Dual Credit BarChartWaitsburg School District Waitsburg High School.png "Waitsburg High School Dual Credit Participation")
+[Waitsburg High School](pages/hist_dual_credit_participation/Dual Credit BarChartWaitsburg School District Waitsburg High School.png "Waitsburg High School Dual Credit Participation")
 
 
 ___

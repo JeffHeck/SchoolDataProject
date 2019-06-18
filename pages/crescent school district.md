@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Crescent School](pages/Dual Credit BarChartCrescent School District Crescent School.png "Crescent School Dual Credit Participation")
+[Crescent School](pages/hist_dual_credit_participation/Dual Credit BarChartCrescent School District Crescent School.png "Crescent School Dual Credit Participation")
 
 
 ___

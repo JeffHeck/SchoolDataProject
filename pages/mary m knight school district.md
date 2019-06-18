@@ -51,13 +51,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Mary M Knight School](pages/Dual Credit BarChartMary M Knight School District Mary M Knight School.png "Mary M Knight School Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Mary M Knight School DistrictDollars Per Student.png " Dollars Per Student")

@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Coupeville High School](pages/Dual Credit BarChartCoupeville School District Coupeville High School.png "Coupeville High School Dual Credit Participation")
-
-[Open Den](pages/Dual Credit BarChartCoupeville School District Open Den.png "Open Den Dual Credit Participation")
+[Coupeville High School](pages/hist_dual_credit_participation/Dual Credit BarChartCoupeville School District Coupeville High School.png "Coupeville High School Dual Credit Participation")
 
 
 ___

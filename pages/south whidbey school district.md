@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[South Whidbey Academy](pages/Dual Credit BarChartSouth Whidbey School District South Whidbey Academy.png "South Whidbey Academy Dual Credit Participation")
-
-[South Whidbey High School](pages/Dual Credit BarChartSouth Whidbey School District South Whidbey High School.png "South Whidbey High School Dual Credit Participation")
+[South Whidbey High School](pages/hist_dual_credit_participation/Dual Credit BarChartSouth Whidbey School District South Whidbey High School.png "South Whidbey High School Dual Credit Participation")
 
 
 ___

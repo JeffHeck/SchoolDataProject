@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Hoquiam High School](pages/Dual Credit BarChartHoquiam School District Hoquiam High School.png "Hoquiam High School Dual Credit Participation")
-
-[Hoquiam Homelink School](pages/Dual Credit BarChartHoquiam School District Hoquiam Homelink School.png "Hoquiam Homelink School Dual Credit Participation")
+[Hoquiam High School](pages/hist_dual_credit_participation/Dual Credit BarChartHoquiam School District Hoquiam High School.png "Hoquiam High School Dual Credit Participation")
 
 
 ___

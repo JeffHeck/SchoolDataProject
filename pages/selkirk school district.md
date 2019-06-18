@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Selkirk High School](pages/Dual Credit BarChartSelkirk School District Selkirk High School.png "Selkirk High School Dual Credit Participation")
+[Selkirk High School](pages/hist_dual_credit_participation/Dual Credit BarChartSelkirk School District Selkirk High School.png "Selkirk High School Dual Credit Participation")
 
 
 ___

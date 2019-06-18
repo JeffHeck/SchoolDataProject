@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Medical Lake Alternative High School](pages/Dual Credit BarChartMedical Lake School District Medical Lake Alternative High School.png "Medical Lake Alternative High School Dual Credit Participation")
-
-[Medical Lake High School](pages/Dual Credit BarChartMedical Lake School District Medical Lake High School.png "Medical Lake High School Dual Credit Participation")
+[Medical Lake High School](pages/hist_dual_credit_participation/Dual Credit BarChartMedical Lake School District Medical Lake High School.png "Medical Lake High School Dual Credit Participation")
 
 
 ___

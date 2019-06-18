@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Oroville Middle-High School](pages/Dual Credit BarChartOroville School District Oroville Middle-High School.png "Oroville Middle-High School Dual Credit Participation")
+[Oroville Middle-High School](pages/hist_dual_credit_participation/Dual Credit BarChartOroville School District Oroville Middle-High School.png "Oroville Middle-High School Dual Credit Participation")
 
 
 ___

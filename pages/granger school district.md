@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Granger High School](pages/Dual Credit BarChartGranger School District Granger High School.png "Granger High School Dual Credit Participation")
+[Granger High School](pages/hist_dual_credit_participation/Dual Credit BarChartGranger School District Granger High School.png "Granger High School Dual Credit Participation")
 
 
 ___

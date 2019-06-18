@@ -37,13 +37,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Lummi Nation School](pages/Dual Credit BarChartLummi Tribal Agency Lummi Nation School.png "Lummi Nation School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Lummi Tribal Agency.png " Graduation Rates")

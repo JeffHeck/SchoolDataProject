@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Goldendale High School](pages/Dual Credit BarChartGoldendale School District Goldendale High School.png "Goldendale High School Dual Credit Participation")
+[Goldendale High School](pages/hist_dual_credit_participation/Dual Credit BarChartGoldendale School District Goldendale High School.png "Goldendale High School Dual Credit Participation")
 
 
 ___

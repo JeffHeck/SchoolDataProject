@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Waterville High School](pages/Dual Credit BarChartWaterville School District Waterville High School.png "Waterville High School Dual Credit Participation")
+[Waterville High School](pages/hist_dual_credit_participation/Dual Credit BarChartWaterville School District Waterville High School.png "Waterville High School Dual Credit Participation")
 
 
 ___

@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Asotin Jr Sr High](pages/Dual Credit BarChartAsotin-Anatone School District Asotin Jr Sr High.png "Asotin Jr Sr High Dual Credit Participation")
+[Asotin Jr Sr High](pages/hist_dual_credit_participation/Dual Credit BarChartAsotin-Anatone School District Asotin Jr Sr High.png "Asotin Jr Sr High Dual Credit Participation")
 
 
 ___

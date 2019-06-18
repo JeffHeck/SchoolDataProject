@@ -39,11 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lewis River Academy](pages/Dual Credit BarChartWoodland School District Lewis River Academy.png "Lewis River Academy Dual Credit Participation")
-
-[TEAM High School](pages/Dual Credit BarChartWoodland School District TEAM High School.png "TEAM High School Dual Credit Participation")
-
-[Woodland High School](pages/Dual Credit BarChartWoodland School District Woodland High School.png "Woodland High School Dual Credit Participation")
+[Woodland High School](pages/hist_dual_credit_participation/Dual Credit BarChartWoodland School District Woodland High School.png "Woodland High School Dual Credit Participation")
 
 
 ___

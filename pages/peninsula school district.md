@@ -53,11 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Gig Harbor High](pages/Dual Credit BarChartPeninsula School District Gig Harbor High.png "Gig Harbor High Dual Credit Participation")
+[Gig Harbor High](pages/hist_dual_credit_participation/Dual Credit BarChartPeninsula School District Gig Harbor High.png "Gig Harbor High Dual Credit Participation")
 
-[Henderson Bay Alt High School](pages/Dual Credit BarChartPeninsula School District Henderson Bay Alt High School.png "Henderson Bay Alt High School Dual Credit Participation")
+[Henderson Bay Alt High School](pages/hist_dual_credit_participation/Dual Credit BarChartPeninsula School District Henderson Bay Alt High School.png "Henderson Bay Alt High School Dual Credit Participation")
 
-[Peninsula High School](pages/Dual Credit BarChartPeninsula School District Peninsula High School.png "Peninsula High School Dual Credit Participation")
+[Peninsula High School](pages/hist_dual_credit_participation/Dual Credit BarChartPeninsula School District Peninsula High School.png "Peninsula High School Dual Credit Participation")
 
 
 ___

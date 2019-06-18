@@ -51,21 +51,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Open Doors  Re-Engagement Wenatchee](pages/Dual Credit BarChartWenatchee School District Open Doors  Re-Engagement Wenatchee.png "Open Doors  Re-Engagement Wenatchee Dual Credit Participation")
-
-[Skill Source](pages/Dual Credit BarChartWenatchee School District Skill Source.png "Skill Source Dual Credit Participation")
-
-[Valley Academy Of Learning](pages/Dual Credit BarChartWenatchee School District Valley Academy Of Learning.png "Valley Academy Of Learning Dual Credit Participation")
-
-[Wenatchee High School](pages/Dual Credit BarChartWenatchee School District Wenatchee High School.png "Wenatchee High School Dual Credit Participation")
-
-[Westside High School](pages/Dual Credit BarChartWenatchee School District Westside High School.png "Westside High School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Wenatchee School District.png " Graduation Rates")

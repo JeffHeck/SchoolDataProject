@@ -53,11 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Issaquah High School](pages/Dual Credit BarChartIssaquah School District Issaquah High School.png "Issaquah High School Dual Credit Participation")
+[Issaquah High School](pages/hist_dual_credit_participation/Dual Credit BarChartIssaquah School District Issaquah High School.png "Issaquah High School Dual Credit Participation")
 
-[Liberty Sr High School](pages/Dual Credit BarChartIssaquah School District Liberty Sr High School.png "Liberty Sr High School Dual Credit Participation")
+[Liberty Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartIssaquah School District Liberty Sr High School.png "Liberty Sr High School Dual Credit Participation")
 
-[Skyline High School](pages/Dual Credit BarChartIssaquah School District Skyline High School.png "Skyline High School Dual Credit Participation")
+[Skyline High School](pages/hist_dual_credit_participation/Dual Credit BarChartIssaquah School District Skyline High School.png "Skyline High School Dual Credit Participation")
 
 
 ___

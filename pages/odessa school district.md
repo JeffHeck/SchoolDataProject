@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Odessa High School](pages/Dual Credit BarChartOdessa School District Odessa High School.png "Odessa High School Dual Credit Participation")
+[Odessa High School](pages/hist_dual_credit_participation/Dual Credit BarChartOdessa School District Odessa High School.png "Odessa High School Dual Credit Participation")
 
 
 ___

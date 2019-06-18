@@ -39,11 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Compass High School](pages/Dual Credit BarChartGrandview School District Compass High School.png "Compass High School Dual Credit Participation")
-
-[Contract Learning Center](pages/Dual Credit BarChartGrandview School District Contract Learning Center.png "Contract Learning Center Dual Credit Participation")
-
-[Grandview High School](pages/Dual Credit BarChartGrandview School District Grandview High School.png "Grandview High School Dual Credit Participation")
+[Grandview High School](pages/hist_dual_credit_participation/Dual Credit BarChartGrandview School District Grandview High School.png "Grandview High School Dual Credit Participation")
 
 
 ___

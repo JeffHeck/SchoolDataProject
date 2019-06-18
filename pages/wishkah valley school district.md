@@ -51,13 +51,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Wishkah Valley Elementary High School](pages/Dual Credit BarChartWishkah Valley School District Wishkah Valley Elementary High School.png "Wishkah Valley Elementary High School Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Wishkah Valley School DistrictDollars Per Student.png " Dollars Per Student")

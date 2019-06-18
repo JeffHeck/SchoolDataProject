@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Cusick Jr Sr High School](pages/Dual Credit BarChartCusick School District Cusick Jr Sr High School.png "Cusick Jr Sr High School Dual Credit Participation")
+[Cusick Jr Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartCusick School District Cusick Jr Sr High School.png "Cusick Jr Sr High School Dual Credit Participation")
 
 
 ___

@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[St John Endicott High](pages/Dual Credit BarChartSt John School District St John Endicott High.png "St John Endicott High Dual Credit Participation")
+[St John Endicott High](pages/hist_dual_credit_participation/Dual Credit BarChartSt John School District St John Endicott High.png "St John Endicott High Dual Credit Participation")
 
 
 ___

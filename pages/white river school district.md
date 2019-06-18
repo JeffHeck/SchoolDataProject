@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[White River High School](pages/Dual Credit BarChartWhite River School District White River High School.png "White River High School Dual Credit Participation")
-
-[White River Reengagement Program](pages/Dual Credit BarChartWhite River School District White River Reengagement Program.png "White River Reengagement Program Dual Credit Participation")
+[White River High School](pages/hist_dual_credit_participation/Dual Credit BarChartWhite River School District White River High School.png "White River High School Dual Credit Participation")
 
 
 ___

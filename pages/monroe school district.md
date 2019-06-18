@@ -53,13 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Leaders In Learning](pages/Dual Credit BarChartMonroe School District Leaders In Learning.png "Leaders In Learning Dual Credit Participation")
+[Monroe High School](pages/hist_dual_credit_participation/Dual Credit BarChartMonroe School District Monroe High School.png "Monroe High School Dual Credit Participation")
 
-[Monroe High School](pages/Dual Credit BarChartMonroe School District Monroe High School.png "Monroe High School Dual Credit Participation")
-
-[Shoreline-Monroe High School](pages/Dual Credit BarChartMonroe School District Shoreline-Monroe High School.png "Shoreline-Monroe High School Dual Credit Participation")
-
-[Sky Valley Education Center](pages/Dual Credit BarChartMonroe School District Sky Valley Education Center.png "Sky Valley Education Center Dual Credit Participation")
+[Sky Valley Education Center](pages/hist_dual_credit_participation/Dual Credit BarChartMonroe School District Sky Valley Education Center.png "Sky Valley Education Center Dual Credit Participation")
 
 
 ___

@@ -9,13 +9,6 @@ permalink: kahlotus school district
 
 ___
 
-## Dual Credit Participation
-
-[Kahlotus Elem   High](pages/Dual Credit BarChartKahlotus School District Kahlotus Elem   High.png "Kahlotus Elem   High Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Kahlotus School DistrictDollars Per Student.png " Dollars Per Student")

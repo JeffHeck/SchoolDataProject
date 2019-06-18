@@ -18,7 +18,7 @@ ___
 
 ## Dual Credit Participation
 
-[Easton School](pages/Dual Credit BarChartEaston School District Easton School.png "Easton School Dual Credit Participation")
+[Easton School](pages/hist_dual_credit_participation/Dual Credit BarChartEaston School District Easton School.png "Easton School Dual Credit Participation")
 
 
 ___

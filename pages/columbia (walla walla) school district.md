@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Columbia High School](pages/Dual Credit BarChartColumbia (Walla Walla) School District Columbia High School.png "Columbia High School Dual Credit Participation")
+[Columbia High School](pages/hist_dual_credit_participation/Dual Credit BarChartColumbia (Walla Walla) School District Columbia High School.png "Columbia High School Dual Credit Participation")
 
 
 ___

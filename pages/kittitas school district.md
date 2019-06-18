@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Kittitas High School](pages/Dual Credit BarChartKittitas School District Kittitas High School.png "Kittitas High School Dual Credit Participation")
+[Kittitas High School](pages/hist_dual_credit_participation/Dual Credit BarChartKittitas School District Kittitas High School.png "Kittitas High School Dual Credit Participation")
 
 
 ___

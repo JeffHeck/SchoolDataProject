@@ -53,17 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Alfaretta House](pages/Dual Credit BarChartClover Park School District Alfaretta House.png "Alfaretta House Dual Credit Participation")
+[Clover Park High School](pages/hist_dual_credit_participation/Dual Credit BarChartClover Park School District Clover Park High School.png "Clover Park High School Dual Credit Participation")
 
-[CPSD Open Doors Program](pages/Dual Credit BarChartClover Park School District CPSD Open Doors Program.png "CPSD Open Doors Program Dual Credit Participation")
+[Harrison Prep School](pages/hist_dual_credit_participation/Dual Credit BarChartClover Park School District Harrison Prep School.png "Harrison Prep School Dual Credit Participation")
 
-[Clover Park High School](pages/Dual Credit BarChartClover Park School District Clover Park High School.png "Clover Park High School Dual Credit Participation")
-
-[Harrison Prep School](pages/Dual Credit BarChartClover Park School District Harrison Prep School.png "Harrison Prep School Dual Credit Participation")
-
-[Lakes High School](pages/Dual Credit BarChartClover Park School District Lakes High School.png "Lakes High School Dual Credit Participation")
-
-[Re-Entry High School](pages/Dual Credit BarChartClover Park School District Re-Entry High School.png "Re-Entry High School Dual Credit Participation")
+[Lakes High School](pages/hist_dual_credit_participation/Dual Credit BarChartClover Park School District Lakes High School.png "Lakes High School Dual Credit Participation")
 
 
 ___

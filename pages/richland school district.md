@@ -53,13 +53,13 @@ ___
 
 ## Dual Credit Participation
 
-[Hanford High School](pages/Dual Credit BarChartRichland School District Hanford High School.png "Hanford High School Dual Credit Participation")
+[Hanford High School](pages/hist_dual_credit_participation/Dual Credit BarChartRichland School District Hanford High School.png "Hanford High School Dual Credit Participation")
 
-[Richland High School](pages/Dual Credit BarChartRichland School District Richland High School.png "Richland High School Dual Credit Participation")
+[Richland High School](pages/hist_dual_credit_participation/Dual Credit BarChartRichland School District Richland High School.png "Richland High School Dual Credit Participation")
 
-[Rivers Edge High School](pages/Dual Credit BarChartRichland School District Rivers Edge High School.png "Rivers Edge High School Dual Credit Participation")
+[Rivers Edge High School](pages/hist_dual_credit_participation/Dual Credit BarChartRichland School District Rivers Edge High School.png "Rivers Edge High School Dual Credit Participation")
 
-[Three Rivers Home Link](pages/Dual Credit BarChartRichland School District Three Rivers Home Link.png "Three Rivers Home Link Dual Credit Participation")
+[Three Rivers Home Link](pages/hist_dual_credit_participation/Dual Credit BarChartRichland School District Three Rivers Home Link.png "Three Rivers Home Link Dual Credit Participation")
 
 
 ___

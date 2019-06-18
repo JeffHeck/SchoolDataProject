@@ -53,11 +53,11 @@ ___
 
 ## Dual Credit Participation
 
-[Arlington High School](pages/Dual Credit BarChartArlington School District Arlington High School.png "Arlington High School Dual Credit Participation")
+[Arlington High School](pages/hist_dual_credit_participation/Dual Credit BarChartArlington School District Arlington High School.png "Arlington High School Dual Credit Participation")
 
-[Stillaguamish School](pages/Dual Credit BarChartArlington School District Stillaguamish School.png "Stillaguamish School Dual Credit Participation")
+[Stillaguamish Valley Learning Center](pages/hist_dual_credit_participation/Dual Credit BarChartArlington School District Stillaguamish Valley Learning Center.png "Stillaguamish Valley Learning Center Dual Credit Participation")
 
-[Weston High School](pages/Dual Credit BarChartArlington School District Weston High School.png "Weston High School Dual Credit Participation")
+[Weston High School](pages/hist_dual_credit_participation/Dual Credit BarChartArlington School District Weston High School.png "Weston High School Dual Credit Participation")
 
 
 ___

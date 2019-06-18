@@ -25,11 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Family Link](pages/Dual Credit BarChartVashon Island School District Family Link.png "Family Link Dual Credit Participation")
-
-[Student Link](pages/Dual Credit BarChartVashon Island School District Student Link.png "Student Link Dual Credit Participation")
-
-[Vashon Island High School](pages/Dual Credit BarChartVashon Island School District Vashon Island High School.png "Vashon Island High School Dual Credit Participation")
+[Vashon Island High School](pages/hist_dual_credit_participation/Dual Credit BarChartVashon Island School District Vashon Island High School.png "Vashon Island High School Dual Credit Participation")
 
 
 ___

@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Harbor High School](pages/Dual Credit BarChartAberdeen School District Harbor High School.png "Harbor High School Dual Credit Participation")
-
-[J M Weatherwax High School](pages/Dual Credit BarChartAberdeen School District J M Weatherwax High School.png "J M Weatherwax High School Dual Credit Participation")
+[J M Weatherwax High School](pages/hist_dual_credit_participation/Dual Credit BarChartAberdeen School District J M Weatherwax High School.png "J M Weatherwax High School Dual Credit Participation")
 
 
 ___

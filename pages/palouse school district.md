@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Palouse High School](pages/Dual Credit BarChartPalouse School District Palouse High School.png "Palouse High School Dual Credit Participation")
+[Palouse High School](pages/hist_dual_credit_participation/Dual Credit BarChartPalouse School District Palouse High School.png "Palouse High School Dual Credit Participation")
 
 
 ___

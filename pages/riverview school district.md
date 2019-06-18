@@ -53,13 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[CLIP](pages/Dual Credit BarChartRiverview School District CLIP.png "CLIP Dual Credit Participation")
+[Cedarcrest High School](pages/hist_dual_credit_participation/Dual Credit BarChartRiverview School District Cedarcrest High School.png "Cedarcrest High School Dual Credit Participation")
 
-[Cedarcrest High School](pages/Dual Credit BarChartRiverview School District Cedarcrest High School.png "Cedarcrest High School Dual Credit Participation")
-
-[Choice](pages/Dual Credit BarChartRiverview School District Choice.png "Choice Dual Credit Participation")
-
-[PARADE](pages/Dual Credit BarChartRiverview School District PARADE.png "PARADE Dual Credit Participation")
+[PARADE](pages/hist_dual_credit_participation/Dual Credit BarChartRiverview School District PARADE.png "PARADE Dual Credit Participation")
 
 
 ___

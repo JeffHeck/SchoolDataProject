@@ -37,13 +37,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Muckleshoot Tribal School](pages/Dual Credit BarChartMuckleshoot Indian Tribe Muckleshoot Tribal School.png "Muckleshoot Tribal School Dual Credit Participation")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Muckleshoot Indian Tribe.png " Graduation Rates")

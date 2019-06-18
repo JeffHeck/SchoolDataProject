@@ -53,9 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Crossroads Community School](pages/Dual Credit BarChartQuilcene School District Crossroads Community School.png "Crossroads Community School Dual Credit Participation")
-
-[Quilcene High And Elementary](pages/Dual Credit BarChartQuilcene School District Quilcene High And Elementary.png "Quilcene High And Elementary Dual Credit Participation")
+[Quilcene High And Elementary](pages/hist_dual_credit_participation/Dual Credit BarChartQuilcene School District Quilcene High And Elementary.png "Quilcene High And Elementary Dual Credit Participation")
 
 
 ___

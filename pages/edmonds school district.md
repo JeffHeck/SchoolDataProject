@@ -53,23 +53,19 @@ ___
 
 ## Dual Credit Participation
 
-[Edmonds Career Access Program](pages/Dual Credit BarChartEdmonds School District Edmonds Career Access Program.png "Edmonds Career Access Program Dual Credit Participation")
+[Edmonds Heights K-12](pages/hist_dual_credit_participation/Dual Credit BarChartEdmonds School District Edmonds Heights K-12.png "Edmonds Heights K-12 Dual Credit Participation")
 
-[Edmonds Heights K-12](pages/Dual Credit BarChartEdmonds School District Edmonds Heights K-12.png "Edmonds Heights K-12 Dual Credit Participation")
+[Edmonds Woodway High School](pages/hist_dual_credit_participation/Dual Credit BarChartEdmonds School District Edmonds Woodway High School.png "Edmonds Woodway High School Dual Credit Participation")
 
-[Edmonds Woodway High School](pages/Dual Credit BarChartEdmonds School District Edmonds Woodway High School.png "Edmonds Woodway High School Dual Credit Participation")
+[Edmonds eLearning Academy](pages/hist_dual_credit_participation/Dual Credit BarChartEdmonds School District Edmonds eLearning Academy.png "Edmonds eLearning Academy Dual Credit Participation")
 
-[Edmonds eLearning Academy](pages/Dual Credit BarChartEdmonds School District Edmonds eLearning Academy.png "Edmonds eLearning Academy Dual Credit Participation")
+[Lynnwood High School](pages/hist_dual_credit_participation/Dual Credit BarChartEdmonds School District Lynnwood High School.png "Lynnwood High School Dual Credit Participation")
 
-[Lynnwood High School](pages/Dual Credit BarChartEdmonds School District Lynnwood High School.png "Lynnwood High School Dual Credit Participation")
+[Meadowdale High School](pages/hist_dual_credit_participation/Dual Credit BarChartEdmonds School District Meadowdale High School.png "Meadowdale High School Dual Credit Participation")
 
-[Maplewood Center](pages/Dual Credit BarChartEdmonds School District Maplewood Center.png "Maplewood Center Dual Credit Participation")
+[Mountlake Terrace High School](pages/hist_dual_credit_participation/Dual Credit BarChartEdmonds School District Mountlake Terrace High School.png "Mountlake Terrace High School Dual Credit Participation")
 
-[Meadowdale High School](pages/Dual Credit BarChartEdmonds School District Meadowdale High School.png "Meadowdale High School Dual Credit Participation")
-
-[Mountlake Terrace High School](pages/Dual Credit BarChartEdmonds School District Mountlake Terrace High School.png "Mountlake Terrace High School Dual Credit Participation")
-
-[Scriber Lake High School](pages/Dual Credit BarChartEdmonds School District Scriber Lake High School.png "Scriber Lake High School Dual Credit Participation")
+[Scriber Lake High School](pages/hist_dual_credit_participation/Dual Credit BarChartEdmonds School District Scriber Lake High School.png "Scriber Lake High School Dual Credit Participation")
 
 
 ___

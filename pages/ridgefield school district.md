@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Ridgefield High School](pages/Dual Credit BarChartRidgefield School District Ridgefield High School.png "Ridgefield High School Dual Credit Participation")
+[Ridgefield High School](pages/hist_dual_credit_participation/Dual Credit BarChartRidgefield School District Ridgefield High School.png "Ridgefield High School Dual Credit Participation")
 
 
 ___

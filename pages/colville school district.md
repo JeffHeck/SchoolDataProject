@@ -25,9 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Colville Senior High School](pages/Dual Credit BarChartColville School District Colville Senior High School.png "Colville Senior High School Dual Credit Participation")
-
-[Panorama School](pages/Dual Credit BarChartColville School District Panorama School.png "Panorama School Dual Credit Participation")
+[Colville Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartColville School District Colville Senior High School.png "Colville Senior High School Dual Credit Participation")
 
 
 ___

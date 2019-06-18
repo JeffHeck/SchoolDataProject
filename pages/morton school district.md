@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Morton Junior-Senior High](pages/Dual Credit BarChartMorton School District Morton Junior-Senior High.png "Morton Junior-Senior High Dual Credit Participation")
+[Morton Junior-Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartMorton School District Morton Junior-Senior High.png "Morton Junior-Senior High Dual Credit Participation")
 
 
 ___

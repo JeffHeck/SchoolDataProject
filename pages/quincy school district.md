@@ -25,11 +25,7 @@ ___
 
 ## Dual Credit Participation
 
-[Quincy High School](pages/Dual Credit BarChartQuincy School District Quincy High School.png "Quincy High School Dual Credit Participation")
-
-[Quincy High Tech High](pages/Dual Credit BarChartQuincy School District Quincy High Tech High.png "Quincy High Tech High Dual Credit Participation")
-
-[Quincy Junior High](pages/Dual Credit BarChartQuincy School District Quincy Junior High.png "Quincy Junior High Dual Credit Participation")
+[Quincy High School](pages/hist_dual_credit_participation/Dual Credit BarChartQuincy School District Quincy High School.png "Quincy High School Dual Credit Participation")
 
 
 ___

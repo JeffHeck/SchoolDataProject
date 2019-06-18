@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Mary Walker High School](pages/Dual Credit BarChartMary Walker School District Mary Walker High School.png "Mary Walker High School Dual Credit Participation")
-
-[Mary Walker Promise](pages/Dual Credit BarChartMary Walker School District Mary Walker Promise.png "Mary Walker Promise Dual Credit Participation")
+[Mary Walker High School](pages/hist_dual_credit_participation/Dual Credit BarChartMary Walker School District Mary Walker High School.png "Mary Walker High School Dual Credit Participation")
 
 
 ___

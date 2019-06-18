@@ -53,29 +53,19 @@ ___
 
 ## Dual Credit Participation
 
-[Career Academy at Truman High School](pages/Dual Credit BarChartFederal Way School District Career Academy at Truman High School.png "Career Academy at Truman High School Dual Credit Participation")
+[Career Academy at Truman High School](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Career Academy at Truman High School.png "Career Academy at Truman High School Dual Credit Participation")
 
-[Decatur High School](pages/Dual Credit BarChartFederal Way School District Decatur High School.png "Decatur High School Dual Credit Participation")
+[Decatur High School](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Decatur High School.png "Decatur High School Dual Credit Participation")
 
-[Employment Transition Program](pages/Dual Credit BarChartFederal Way School District Employment Transition Program.png "Employment Transition Program Dual Credit Participation")
+[Federal Way High School](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Federal Way High School.png "Federal Way High School Dual Credit Participation")
 
-[Federal Way High School](pages/Dual Credit BarChartFederal Way School District Federal Way High School.png "Federal Way High School Dual Credit Participation")
+[Internet Academy](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Internet Academy.png "Internet Academy Dual Credit Participation")
 
-[Federal Way Public Academy](pages/Dual Credit BarChartFederal Way School District Federal Way Public Academy.png "Federal Way Public Academy Dual Credit Participation")
+[TAFA at Saghalie](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District TAFA at Saghalie.png "TAFA at Saghalie Dual Credit Participation")
 
-[Federal Way Running Start Home School](pages/Dual Credit BarChartFederal Way School District Federal Way Running Start Home School.png "Federal Way Running Start Home School Dual Credit Participation")
+[Thomas Jefferson High School](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Thomas Jefferson High School.png "Thomas Jefferson High School Dual Credit Participation")
 
-[Gateway to College](pages/Dual Credit BarChartFederal Way School District Gateway to College.png "Gateway to College Dual Credit Participation")
-
-[Internet Academy](pages/Dual Credit BarChartFederal Way School District Internet Academy.png "Internet Academy Dual Credit Participation")
-
-[Open Doors Youth Reengagement (1418)](pages/Dual Credit BarChartFederal Way School District Open Doors Youth Reengagement (1418).png "Open Doors Youth Reengagement (1418) Dual Credit Participation")
-
-[Technology Access Foundation Academy](pages/Dual Credit BarChartFederal Way School District Technology Access Foundation Academy.png "Technology Access Foundation Academy Dual Credit Participation")
-
-[Thomas Jefferson High School](pages/Dual Credit BarChartFederal Way School District Thomas Jefferson High School.png "Thomas Jefferson High School Dual Credit Participation")
-
-[Todd Beamer High School](pages/Dual Credit BarChartFederal Way School District Todd Beamer High School.png "Todd Beamer High School Dual Credit Participation")
+[Todd Beamer High School](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Todd Beamer High School.png "Todd Beamer High School Dual Credit Participation")
 
 
 ___

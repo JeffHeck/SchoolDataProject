@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lakeside High School](pages/Dual Credit BarChartNine Mile Falls School District Lakeside High School.png "Lakeside High School Dual Credit Participation")
+[Lakeside High School](pages/hist_dual_credit_participation/Dual Credit BarChartNine Mile Falls School District Lakeside High School.png "Lakeside High School Dual Credit Participation")
 
 
 ___

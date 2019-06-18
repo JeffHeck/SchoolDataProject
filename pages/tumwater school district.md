@@ -53,13 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[A G West Black Hills High School](pages/Dual Credit BarChartTumwater School District A G West Black Hills High School.png "A G West Black Hills High School Dual Credit Participation")
+[A G West Black Hills High School](pages/hist_dual_credit_participation/Dual Credit BarChartTumwater School District A G West Black Hills High School.png "A G West Black Hills High School Dual Credit Participation")
 
-[New Market High School](pages/Dual Credit BarChartTumwater School District New Market High School.png "New Market High School Dual Credit Participation")
-
-[Secondary Options](pages/Dual Credit BarChartTumwater School District Secondary Options.png "Secondary Options Dual Credit Participation")
-
-[Tumwater High School](pages/Dual Credit BarChartTumwater School District Tumwater High School.png "Tumwater High School Dual Credit Participation")
+[Tumwater High School](pages/hist_dual_credit_participation/Dual Credit BarChartTumwater School District Tumwater High School.png "Tumwater High School Dual Credit Participation")
 
 
 ___

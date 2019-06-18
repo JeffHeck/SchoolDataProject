@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Colfax High School](pages/Dual Credit BarChartColfax School District Colfax High School.png "Colfax High School Dual Credit Participation")
+[Colfax High School](pages/hist_dual_credit_participation/Dual Credit BarChartColfax School District Colfax High School.png "Colfax High School Dual Credit Participation")
 
 
 ___

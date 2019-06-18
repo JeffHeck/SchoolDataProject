@@ -53,17 +53,15 @@ ___
 
 ## Dual Credit Participation
 
-[Kamiakin High School](pages/Dual Credit BarChartKennewick School District Kamiakin High School.png "Kamiakin High School Dual Credit Participation")
+[Kamiakin High School](pages/hist_dual_credit_participation/Dual Credit BarChartKennewick School District Kamiakin High School.png "Kamiakin High School Dual Credit Participation")
 
-[Kennewick High School](pages/Dual Credit BarChartKennewick School District Kennewick High School.png "Kennewick High School Dual Credit Participation")
+[Kennewick High School](pages/hist_dual_credit_participation/Dual Credit BarChartKennewick School District Kennewick High School.png "Kennewick High School Dual Credit Participation")
 
-[Legacy High School](pages/Dual Credit BarChartKennewick School District Legacy High School.png "Legacy High School Dual Credit Participation")
+[Legacy High School](pages/hist_dual_credit_participation/Dual Credit BarChartKennewick School District Legacy High School.png "Legacy High School Dual Credit Participation")
 
-[Mid-Columbia Parent Partnership](pages/Dual Credit BarChartKennewick School District Mid-Columbia Parent Partnership.png "Mid-Columbia Parent Partnership Dual Credit Participation")
+[Mid-Columbia Parent Partnership](pages/hist_dual_credit_participation/Dual Credit BarChartKennewick School District Mid-Columbia Parent Partnership.png "Mid-Columbia Parent Partnership Dual Credit Participation")
 
-[Phoenix High School](pages/Dual Credit BarChartKennewick School District Phoenix High School.png "Phoenix High School Dual Credit Participation")
-
-[Southridge High School](pages/Dual Credit BarChartKennewick School District Southridge High School.png "Southridge High School Dual Credit Participation")
+[Southridge High School](pages/hist_dual_credit_participation/Dual Credit BarChartKennewick School District Southridge High School.png "Southridge High School Dual Credit Participation")
 
 
 ___

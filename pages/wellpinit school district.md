@@ -39,13 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Wellpinit Alliance High School](pages/Dual Credit BarChartWellpinit School District Wellpinit Alliance High School.png "Wellpinit Alliance High School Dual Credit Participation")
-
-[Wellpinit Fort Simcoe SEA](pages/Dual Credit BarChartWellpinit School District Wellpinit Fort Simcoe SEA.png "Wellpinit Fort Simcoe SEA Dual Credit Participation")
-
-[Wellpinit High School](pages/Dual Credit BarChartWellpinit School District Wellpinit High School.png "Wellpinit High School Dual Credit Participation")
-
-[Wellpinit-Fort Simcoe High School](pages/Dual Credit BarChartWellpinit School District Wellpinit-Fort Simcoe High School.png "Wellpinit-Fort Simcoe High School Dual Credit Participation")
+[Wellpinit High School](pages/hist_dual_credit_participation/Dual Credit BarChartWellpinit School District Wellpinit High School.png "Wellpinit High School Dual Credit Participation")
 
 
 ___

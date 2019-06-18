@@ -53,11 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Lincoln Hill High School](pages/Dual Credit BarChartStanwood-Camano School District Lincoln Hill High School.png "Lincoln Hill High School Dual Credit Participation")
-
-[Saratoga School](pages/Dual Credit BarChartStanwood-Camano School District Saratoga School.png "Saratoga School Dual Credit Participation")
-
-[Stanwood High School](pages/Dual Credit BarChartStanwood-Camano School District Stanwood High School.png "Stanwood High School Dual Credit Participation")
+[Stanwood High School](pages/hist_dual_credit_participation/Dual Credit BarChartStanwood-Camano School District Stanwood High School.png "Stanwood High School Dual Credit Participation")
 
 
 ___

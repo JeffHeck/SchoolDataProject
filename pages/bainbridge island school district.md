@@ -53,9 +53,9 @@ ___
 
 ## Dual Credit Participation
 
-[Bainbridge High School](pages/Dual Credit BarChartBainbridge Island School District Bainbridge High School.png "Bainbridge High School Dual Credit Participation")
+[Bainbridge High School](pages/hist_dual_credit_participation/Dual Credit BarChartBainbridge Island School District Bainbridge High School.png "Bainbridge High School Dual Credit Participation")
 
-[Eagle Harbor High School](pages/Dual Credit BarChartBainbridge Island School District Eagle Harbor High School.png "Eagle Harbor High School Dual Credit Participation")
+[Eagle Harbor High School](pages/hist_dual_credit_participation/Dual Credit BarChartBainbridge Island School District Eagle Harbor High School.png "Eagle Harbor High School Dual Credit Participation")
 
 
 ___

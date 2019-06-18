@@ -39,7 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Harrington High School](pages/Dual Credit BarChartHarrington School District Harrington High School.png "Harrington High School Dual Credit Participation")
+[Harrington High School](pages/hist_dual_credit_participation/Dual Credit BarChartHarrington School District Harrington High School.png "Harrington High School Dual Credit Participation")
 
 
 ___

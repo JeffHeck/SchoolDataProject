@@ -39,9 +39,7 @@ ___
 
 ## Dual Credit Participation
 
-[Columbia High School](pages/Dual Credit BarChartWhite Salmon Valley School District Columbia High School.png "Columbia High School Dual Credit Participation")
-
-[White Salmon Academy](pages/Dual Credit BarChartWhite Salmon Valley School District White Salmon Academy.png "White Salmon Academy Dual Credit Participation")
+[Columbia High School](pages/hist_dual_credit_participation/Dual Credit BarChartWhite Salmon Valley School District Columbia High School.png "Columbia High School Dual Credit Participation")
 
 
 ___

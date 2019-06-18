@@ -25,11 +25,11 @@ ___
 
 ## Dual Credit Participation
 
-[Cavelero Mid High School](pages/Dual Credit BarChartLake Stevens School District Cavelero Mid High School.png "Cavelero Mid High School Dual Credit Participation")
+[Cavelero Mid High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Stevens School District Cavelero Mid High School.png "Cavelero Mid High School Dual Credit Participation")
 
-[Homelink](pages/Dual Credit BarChartLake Stevens School District Homelink.png "Homelink Dual Credit Participation")
+[Homelink](pages/hist_dual_credit_participation/Dual Credit BarChartLake Stevens School District Homelink.png "Homelink Dual Credit Participation")
 
-[Lake Stevens Sr High School](pages/Dual Credit BarChartLake Stevens School District Lake Stevens Sr High School.png "Lake Stevens Sr High School Dual Credit Participation")
+[Lake Stevens Sr High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Stevens School District Lake Stevens Sr High School.png "Lake Stevens Sr High School Dual Credit Participation")
 
 
 ___

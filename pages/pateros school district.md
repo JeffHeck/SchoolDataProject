@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Pateros High School](pages/Dual Credit BarChartPateros School District Pateros High School.png "Pateros High School Dual Credit Participation")
+[Pateros High School](pages/hist_dual_credit_participation/Dual Credit BarChartPateros School District Pateros High School.png "Pateros High School Dual Credit Participation")
 
 
 ___
