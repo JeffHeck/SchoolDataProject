@@ -4,6 +4,7 @@ title: Dual Credit Outliers
 permalink:
 ---
 
+## Contents
 ## 2017-2018 Dual Credit Course Participation
 ### (All Students, Low-Income, Students with Disabilities)
 - Advanced Placement
@@ -16,6 +17,8 @@ permalink:
 ## 2017-2018 Dual Credit Earned
 - Advanced Placement Exam Scores
 
+___
+## 2017-2018 Dual Credit Course Participation
 ___
 
 Advanced Placement
@@ -66,10 +69,11 @@ Running Start
 
 ___
 
-Dual Credit Earned - Advanced Placement Exam Scores
+## 2017-2018 Dual Credit Earned - Advanced Placement Exam Scores
 
 Note:
 - School Enrollment equals the total number of students in a school. Used to normalize the total number of AP exams scored a 3, 4, or 5.
+- Each college has its own AP policy. More competitive colleges require a 4 or a 5 if they grant AP credit at all.
 
 ![AP All Students Image](pagesManual/DualCreditOutliers/SATAPRatio20.png "AP Students")
 
