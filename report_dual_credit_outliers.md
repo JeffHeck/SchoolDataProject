@@ -13,6 +13,9 @@ permalink:
 - International Baccalaureate
 - Running Start
 
+## 2017-2018 Dual Credit Earned
+- Advanced Placement Exam Scores
+
 ___
 
 Advanced Placement
@@ -60,4 +63,10 @@ Running Start
 ![Running Start All Students Image](pagesManual/DualCreditOutliers/Dual Credit ScatterChart 2017-2018 Running StartAll Students.png "Running Start All Students")
 ![Running Start Low-Income Students Image](pagesManual/DualCreditOutliers/Dual Credit ScatterChart 2017-2018 Running StartLow-Income.png "Running Start Low-Income Students")
 ![Running Start Students with Disabilities Image](pagesManual/DualCreditOutliers/Dual Credit ScatterChart 2017-2018 Running StartStudents with Disabilities.png "Running Start Students with Disabilities")
+
+___
+
+Dual Credit Earned - Advanced Placement Exam Scores
+
+![AP All Students Image](pagesManual/DualCreditOutliers/SATAPRatio20.png "AP Students")
 
