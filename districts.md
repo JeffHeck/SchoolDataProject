@@ -458,7 +458,7 @@ permalink:
 
 [Satsop School District](satsop school district)
 
-[Seattle School District](seattle school district)
+[Seattle Public Schools](seattle public schools)
 
 [Sedro-Woolley School District](sedro-woolley school district)
 
