@@ -128,8 +128,6 @@ permalink:
 
 [Dixie School District](dixie school district)
 
-[ESA 112](esa 112)
-
 [East Valley School District (Spokane)](east valley school district (spokane))
 
 [East Valley School District (Yakima)](east valley school district (yakima))
@@ -141,12 +139,6 @@ permalink:
 [Eatonville School District](eatonville school district)
 
 [Edmonds School District](edmonds school district)
-
-[Educational Service District 101](educational service district 101)
-
-[Educational Service District 112](educational service district 112)
-
-[Educational Service District 123](educational service district 123)
 
 [Ellensburg School District](ellensburg school district)
 
