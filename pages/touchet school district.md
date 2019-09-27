@@ -30,6 +30,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBATouchet School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBATouchet School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Touchet Elem   High School](pages/hist_dual_credit_participation/Dual Credit BarChartTouchet School District Touchet Elem   High School.png "Touchet Elem   High School Dual Credit Participation")

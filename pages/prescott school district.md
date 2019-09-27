@@ -44,13 +44,6 @@ ___
 
 ___
 
-## SBA 10th Grade MATH
-
-[Chart 1 of 1](pages/SBAPrescott School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
-
-
-___
-
 ## Graduation Rates
 
 [4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Prescott School District.png " Graduation Rates")

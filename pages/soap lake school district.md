@@ -37,6 +37,20 @@ ___
 
 ___
 
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBASoap Lake School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBASoap Lake School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Soap Lake Middle   High School](pages/hist_dual_credit_participation/Dual Credit BarChartSoap Lake School District Soap Lake Middle   High School.png "Soap Lake Middle   High School Dual Credit Participation")

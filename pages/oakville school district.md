@@ -23,20 +23,6 @@ ___
 
 ___
 
-## SBA 8th Grade ELA
-
-[Chart 1 of 1](pages/SBAOakville School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
-
-
-___
-
-## SBA 8th Grade MATH
-
-[Chart 1 of 1](pages/SBAOakville School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
-
-
-___
-
 ## SBA 10th Grade ELA
 
 [Chart 1 of 1](pages/SBAOakville School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")

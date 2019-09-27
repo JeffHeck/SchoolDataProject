@@ -44,13 +44,6 @@ ___
 
 ___
 
-## SBA 10th Grade MATH
-
-[Chart 1 of 1](pages/SBAWaitsburg School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
-
-
-___
-
 ## Dual Credit Participation
 
 [Waitsburg High School](pages/hist_dual_credit_participation/Dual Credit BarChartWaitsburg School District Waitsburg High School.png "Waitsburg High School Dual Credit Participation")

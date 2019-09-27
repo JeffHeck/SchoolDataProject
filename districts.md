@@ -20,8 +20,6 @@ permalink:
 
 [Bainbridge Island School District](bainbridge island school district)
 
-[Bates Technical College](bates technical college)
-
 [Battle Ground School District](battle ground school district)
 
 [Bellevue School District](bellevue school district)
@@ -51,8 +49,6 @@ permalink:
 [Camas School District](camas school district)
 
 [Cape Flattery School District](cape flattery school district)
-
-[Capital Region ESD 113](capital region esd 113)
 
 [Carbonado School District](carbonado school district)
 
@@ -160,6 +156,8 @@ permalink:
 
 [Evergreen School District (Stevens)](evergreen school district (stevens))
 
+[Excel Public Charter School](excel public charter school)
+
 [Federal Way School District](federal way school district)
 
 [Ferndale School District](ferndale school district)
@@ -190,11 +188,7 @@ permalink:
 
 [Great Northern School District](great northern school district)
 
-[Green Dot Public Schools Destiny](green dot public schools destiny)
-
-[Green Dot Public Schools Excel](green dot public schools excel)
-
-[Green Dot Public Schools Rainier Valley](green dot public schools rainier valley)
+[Green Dot Destiny](green dot destiny)
 
 [Green Mountain School District](green mountain school district)
 
@@ -212,15 +206,15 @@ permalink:
 
 [Hoquiam School District](hoquiam school district)
 
+[Impact Public Schools](impact public schools)
+
 [Inchelium School District](inchelium school district)
 
-[Index School District](index school district)
+[Index Elementary School District 63](index elementary school district 63)
 
-[Institutions](institutions)
+[Innovation Schools](innovation schools)
 
 [Issaquah School District](issaquah school district)
-
-[Juvenile Detention Centers](juvenile detention centers)
 
 [Kahlotus School District](kahlotus school district)
 
@@ -254,8 +248,6 @@ permalink:
 
 [Lake Stevens School District](lake stevens school district)
 
-[Lake Washington Institute of Technology](lake washington institute of technology)
-
 [Lake Washington School District](lake washington school district)
 
 [Lakewood School District](lakewood school district)
@@ -271,8 +263,6 @@ permalink:
 [Loon Lake School District](loon lake school district)
 
 [Lopez School District](lopez school district)
-
-[Lummi Tribal Agency](lummi tribal agency)
 
 [Lyle School District](lyle school district)
 
@@ -322,8 +312,6 @@ permalink:
 
 [Mount Vernon School District](mount vernon school district)
 
-[Muckleshoot Indian Tribe](muckleshoot indian tribe)
-
 [Mukilteo School District](mukilteo school district)
 
 [Naches Valley School District](naches valley school district)
@@ -340,7 +328,7 @@ permalink:
 
 [Nooksack Valley School District](nooksack valley school district)
 
-[North Beach School District](north beach school district)
+[North Beach School District No 64](north beach school district no 64)
 
 [North Franklin School District](north franklin school district)
 
@@ -355,8 +343,6 @@ permalink:
 [Northport School District](northport school district)
 
 [Northshore School District](northshore school district)
-
-[Northwest Educational Service District 189](northwest educational service district 189)
 
 [Oak Harbor School District](oak harbor school district)
 
@@ -430,8 +416,6 @@ permalink:
 
 [Quilcene School District](quilcene school district)
 
-[Quileute Tribal School District](quileute tribal school district)
-
 [Quillayute Valley School District](quillayute valley school district)
 
 [Quincy School District](quincy school district)
@@ -439,6 +423,8 @@ permalink:
 [Rainier Prep Charter School District](rainier prep charter school district)
 
 [Rainier School District](rainier school district)
+
+[Rainier Valley Leadership Academy](rainier valley leadership academy)
 
 [Raymond School District](raymond school district)
 
@@ -472,7 +458,7 @@ permalink:
 
 [Satsop School District](satsop school district)
 
-[Seattle Public Schools](seattle public schools)
+[Seattle School District](seattle school district)
 
 [Sedro-Woolley School District](sedro-woolley school district)
 
@@ -489,8 +475,6 @@ permalink:
 [Shoreline School District](shoreline school district)
 
 [Skamania School District](skamania school district)
-
-[Skills Centers](skills centers)
 
 [Skykomish School District](skykomish school district)
 
@@ -544,8 +528,6 @@ permalink:
 
 [Sunnyside School District](sunnyside school district)
 
-[Suquamish Tribal Education Department](suquamish tribal education department)
-
 [Tacoma School District](tacoma school district)
 
 [Taholah School District](taholah school district)
@@ -574,8 +556,6 @@ permalink:
 
 [Tumwater School District](tumwater school district)
 
-[Unaffiliated Tribal Schools](unaffiliated tribal schools)
-
 [Union Gap School District](union gap school district)
 
 [University Place School District](university place school district)
@@ -585,8 +565,6 @@ permalink:
 [Vancouver School District](vancouver school district)
 
 [Vashon Island School District](vashon island school district)
-
-[WA HE LUT Indian School Agency](wa he lut indian school agency)
 
 [Wahkiakum School District](wahkiakum school district)
 
@@ -606,7 +584,7 @@ permalink:
 
 [Waterville School District](waterville school district)
 
-[Wellpinit School District](wellpinit school district)
+[Wellpinit School District #49](wellpinit school district #49)
 
 [Wenatchee School District](wenatchee school district)
 

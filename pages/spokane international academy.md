@@ -9,6 +9,20 @@ permalink: spokane international academy
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBASpokane International Academy4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBASpokane International Academy4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## SBA 8th Grade ELA
 
 [Chart 1 of 1](pages/SBASpokane International Academy8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
