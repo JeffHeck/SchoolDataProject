@@ -8,5 +8,6 @@ This site is devoted to analyzing school data to inform and assist parents, taxp
 Currently, Washington State's K-12 schools are covered.
 
 Latest additions: 
-- updated demographics charts for each district
+- updated demographics and SBA charts for each district with the 2018-2019 data
+- updated SBA outlier charts with the 2018-2019 data
 
