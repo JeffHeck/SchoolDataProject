@@ -4,7 +4,7 @@ title: Reports
 permalink:
 ---
 
-[Smarter Balanced Assessment (SBA) Outliers](sba_outliers)
+[Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers](sba_outliers)
 
 [Dual Credit Outliers](report_dual_credit_outliers)
 
