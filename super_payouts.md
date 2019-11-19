@@ -4,59 +4,63 @@ title: Top 10 Highest Single Year Payouts to Superintendents
 permalink:
 ---
 
-Constant 2018 dollars  
-School year ranges: 2000/2001 to 2017/2018
+Constant 2019 dollars  
+School year ranges: 2000/2001 to 2018/2019  
+Source for CPI:  
+[Bureau of Labor Statistics](https://data.bls.gov/cgi-bin/cpicalc.pl)
+
+
 ![Top 10 Image](pagesManual/SuperPayouts/SuperintendentMaxCompensation10.png "Top 10")
 
 ___
 
 Tacoma
-![Tacoma Image](pagesManual/SuperPayouts/WA School District Compensation History for Tacoma Superintendent ConstantDollars.png "Tacoma")
+![Tacoma Image](pagesManual/SuperPayouts/Historical Compensation for the Tacoma SD in Constant 2019 DollarsDuty Title = Superintendent.png "Tacoma")
 
 ___
 
 Renton
-![Renton Image](pagesManual/SuperPayouts/WA School District Compensation History for Renton Superintendent ConstantDollars.png "Renton")
+![Renton Image](pagesManual/SuperPayouts/Historical Compensation for the Renton SD in Constant 2019 DollarsDuty Title = Superintendent.png "Renton")
 
 ___
 
 East Valley (Spokane)
-![East Valley Image](pagesManual/SuperPayouts/WA School District Compensation History for East Valley (Spokane) Superintendent ConstantDollars.png "East Valley")
+![East Valley Image](pagesManual/SuperPayouts/Historical Compensation for the East Valley (Spokane) SD in Constant 2019 DollarsDuty Title = Superintendent.png "East Valley")
 
 ___
 
 Colville
-![Colville Image](pagesManual/SuperPayouts/WA School District Compensation History for Colville Superintendent ConstantDollars.png "Colville")
-
-___
-
-Eastmont
-![Eastmont Image](pagesManual/SuperPayouts/WA School District Compensation History for Eastmont Superintendent ConstantDollars.png "Eastmont")
-
-___
-
-Issaquah
-![Issaquah Image](pagesManual/SuperPayouts/WA School District Compensation History for Issaquah Superintendent ConstantDollars.png "Issaquah")
-
-___
-
-Lake Stevens
-![Lake Stevens Image](pagesManual/SuperPayouts/WA School District Compensation History for Lake Stevens Superintendent ConstantDollars.png "Lake Stevens")
+![Colville Image](pagesManual/SuperPayouts/Historical Compensation for the Colville SD in Constant 2019 DollarsDuty Title = Superintendent.png "Colville")
 
 ___
 
 Evergreen (Clark)
-![Evergreen Image](pagesManual/SuperPayouts/WA School District Compensation History for Evergreen (Clark) Superintendent ConstantDollars.png "Evergreen")
+![Evergreen Image](pagesManual/SuperPayouts/Historical Compensation for the Evergreen (Clark) SD in Constant 2019 DollarsDuty Title = Superintendent.png "Evergreen")
 
 ___
 
-Snohomish
-![Snohomish Image](pagesManual/SuperPayouts/WA School District Compensation History for Snohomish Superintendent ConstantDollars.png "Snohomish")
+Eastmont
+![Eastmont Image](pagesManual/SuperPayouts/Historical Compensation for the Eastmont SD in Constant 2019 DollarsDuty Title = Superintendent.png "Eastmont")
 
 ___
 
-Yakima
-![Yakima Image](pagesManual/SuperPayouts/WA School District Compensation History for Yakima Superintendent ConstantDollars.png "Yakima")
+Issaquah
+![Issaquah Image](pagesManual/SuperPayouts/Historical Compensation for the Issaquah SD in Constant 2019 DollarsDuty Title = Superintendent.png "Issaquah")
+
+___
+
+Mead
+![Mead Image](pagesManual/SuperPayouts/Historical Compensation for the Mead SD in Constant 2019 DollarsDuty Title = Superintendent.png "Mead")
+
+___
+
+Vancouver
+![Vancouver Image](pagesManual/SuperPayouts/Historical Compensation for the Vancouver SD in Constant 2019 DollarsDuty Title = Superintendent.png "Vancouver")
+
+___
+
+Lake Stevens
+![Lake Stevens Image](pagesManual/SuperPayouts/Historical Compensation for the Lake Stevens SD in Constant 2019 DollarsDuty Title = Superintendent.png "Lake Stevens")
 
 ___
 
