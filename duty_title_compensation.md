@@ -203,8 +203,8 @@ Substitute Teacher
 ___
 
 Superintendent
-![Superintendent Image](pagesManual/DutyTitleCompensation/Average Compensation for SuperintendentAll WA School Districts.png "Superintendent")
-[ Show details for the top districts](pagesManual/DutyTitleCompensation/Average Compensation for SuperintendentTop 20 Districts.png "Superintendent details at top districts")
+![Superintendent Image](pagesManual/DutyTitleCompensation/Compensation for SuperintendentAll WA School Districts.png "Superintendent")
+[ Show details for the top districts](pagesManual/DutyTitleCompensation/Compensation for SuperintendentTop 20 Districts.png "Superintendent details at top districts")
 
 ___
 
