@@ -11,6 +11,7 @@ Note:
 
 Tables:
 - State-Wide Historical and Projected Ave Revenues and Expenses Per Student by Fund
+- Districts Projecting a Negative Balance for the 2020-2021 School Year 
 
 Charts:
 - State-Wide Historical and Projected Budget Amounts for the General Fund
@@ -25,6 +26,12 @@ ___
 State-Wide Historical and Projected Ave Revenues and Expenses Per Student by Fund
 
 ![State Wide Revenue and Expense Averages by Fund](pagesManual/4YearF195ProjectedBudgets/StateWideSummary.png "State Wide Revenue and Expense Averages by Fund")
+
+___
+
+Districts Projecting a Negative Balance for the 2020-2021 School Year
+
+![Districts Projecting a Negative Balance for the 2020-2021 School Year](pagesManual/4YearF195ProjectedBudgets/DistrictsNegBalances.png "Districts Projecting a Negative Balance for the 2020-2021 School Year")
 
 ___
 
