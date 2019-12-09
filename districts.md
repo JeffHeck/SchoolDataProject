@@ -210,7 +210,7 @@ permalink:
 
 [Inchelium School District](inchelium school district)
 
-[Index Elementary School District 63](index elementary school district 63)
+[Index School District](index school district)
 
 [Innovation Schools](innovation schools)
 
@@ -320,7 +320,7 @@ permalink:
 
 [Naselle-Grays River Valley School District](naselle-grays river valley school district)
 
-[Nespelem School District #14](nespelem school district #14)
+[Nespelem School District](nespelem school district)
 
 [Newport School District](newport school district)
 
@@ -328,7 +328,7 @@ permalink:
 
 [Nooksack Valley School District](nooksack valley school district)
 
-[North Beach School District No 64](north beach school district no 64)
+[North Beach School District](north beach school district)
 
 [North Franklin School District](north franklin school district)
 
@@ -458,7 +458,7 @@ permalink:
 
 [Satsop School District](satsop school district)
 
-[Seattle Public Schools](seattle public schools)
+[Seattle School District](seattle school district)
 
 [Sedro-Woolley School District](sedro-woolley school district)
 
@@ -584,7 +584,7 @@ permalink:
 
 [Waterville School District](waterville school district)
 
-[Wellpinit School District #49](wellpinit school district #49)
+[Wellpinit School District](wellpinit school district)
 
 [Wenatchee School District](wenatchee school district)
 
