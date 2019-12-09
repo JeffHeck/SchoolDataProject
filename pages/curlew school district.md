@@ -9,6 +9,13 @@ permalink: curlew school district
 
 ___
 
+## WCAS 5th Grade SCIENCE
+
+[Chart 1 of 1](pages/wcas_science/WCASCurlew School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
+
+
+___
+
 ## SBA 8th Grade ELA
 
 [Chart 1 of 1](pages/SBACurlew School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
@@ -19,6 +26,13 @@ ___
 ## SBA 8th Grade MATH
 
 [Chart 1 of 1](pages/SBACurlew School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
+## WCAS 8th Grade SCIENCE
+
+[Chart 1 of 1](pages/wcas_science/WCASCurlew School District8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
 
 
 ___

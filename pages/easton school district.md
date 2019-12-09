@@ -9,6 +9,13 @@ permalink: easton school district
 
 ___
 
+## WCAS 5th Grade SCIENCE
+
+[Chart 1 of 1](pages/wcas_science/WCASEaston School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
+
+
+___
+
 ## Dual Credit Participation
 
 [Easton School](pages/hist_dual_credit_participation/Dual Credit BarChartEaston School District Easton School.png "Easton School Dual Credit Participation")

@@ -31,6 +31,17 @@ ___
 
 ___
 
+## WCAS 5th Grade SCIENCE
+
+[Chart 1 of 3](pages/wcas_science/WCASSeattle School District5THSCIENCE (1 of 3).png "Chart 1 of 3 WCA 5th Grade SCIENCE")
+
+[Chart 2 of 3](pages/wcas_science/WCASSeattle School District5THSCIENCE (2 of 3).png "Chart 2 of 3 WCA 5th Grade SCIENCE")
+
+[Chart 3 of 3](pages/wcas_science/WCASSeattle School District5THSCIENCE (3 of 3).png "Chart 3 of 3 WCA 5th Grade SCIENCE")
+
+
+___
+
 ## SBA 8th Grade ELA
 
 [Chart 1 of 1](pages/SBASeattle School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
@@ -41,6 +52,13 @@ ___
 ## SBA 8th Grade MATH
 
 [Chart 1 of 1](pages/SBASeattle School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
+## WCAS 8th Grade SCIENCE
+
+[Chart 1 of 1](pages/wcas_science/WCASSeattle School District8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
 
 
 ___

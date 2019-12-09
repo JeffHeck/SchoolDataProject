@@ -23,6 +23,13 @@ ___
 
 ___
 
+## WCAS 8th Grade SCIENCE
+
+[Chart 1 of 1](pages/wcas_science/WCASExcel Public Charter School8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
+
+
+___
+
 ## SBA 10th Grade ELA
 
 [Chart 1 of 1](pages/SBAExcel Public Charter School10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
