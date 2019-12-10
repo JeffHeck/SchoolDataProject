@@ -77,6 +77,30 @@ ___
 
 ___
 
+## Graduation Rates
+
+[4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Seattle Public Schools.png " Graduation Rates")
+
+
+___
+
+## Budget Information
+
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Seattle Public SchoolsDollars Per Student.png " Dollars Per Student")
+
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Seattle Public Schools Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
+
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Seattle Public Schools Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
+
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsSeattle Public Schools.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesSeattle Public Schools.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSeattle Public Schools.png " Historical and Projected Total Enrollment")
+
+
+___
+
 ## Historical Compensation Information
 ### Note:
 - District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.

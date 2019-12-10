@@ -320,8 +320,6 @@ permalink:
 
 [Naselle-Grays River Valley School District](naselle-grays river valley school district)
 
-[Nespelem School District](nespelem school district)
-
 [Newport School District](newport school district)
 
 [Nine Mile Falls School District](nine mile falls school district)
@@ -502,7 +500,7 @@ permalink:
 
 [Stanwood-Camano School District](stanwood-camano school district)
 
-[Star School District No 054](star school district no 054)
+[Star School District](star school district)
 
 [Starbuck School District](starbuck school district)
 
@@ -583,8 +581,6 @@ permalink:
 [Washtucna School District](washtucna school district)
 
 [Waterville School District](waterville school district)
-
-[Wellpinit School District](wellpinit school district)
 
 [Wenatchee School District](wenatchee school district)
 
