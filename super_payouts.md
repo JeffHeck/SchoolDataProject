@@ -12,7 +12,7 @@ Highest Compensated Superintendents For The 2018-2019 School Year
 
 ___
 
-Highest Compensated Superintendents Covering School Year Ranges: 2000/2001 to 2018/2019  
+Highest Compensated Superintendents Covering School Years: 2000/2001 to 2018/2019  
 ![Top 10 Image](pagesManual/SuperPayouts/SuperintendentMaxCompensation10.png "Top 10")
 
 ___
