@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Top 10 Highest Single Year Payouts to Superintendents
+title: Highest Compensated Superintendents
 permalink:
 ---
 
 Constant 2019 dollars  
-School year ranges: 2000/2001 to 2018/2019  
-Source for CPI:  
-[Bureau of Labor Statistics](https://data.bls.gov/cgi-bin/cpicalc.pl)
+Source for CPI: [Bureau of Labor Statistics](https://data.bls.gov/cgi-bin/cpicalc.pl)
 
+Highest Compensated Superintendents For The 2018-2019 School Year
+![Top 2018-2019](pagesManual/SuperPayouts/Compensation for SuperintendentTop 20 Districts.png "Top 2018-2019")
 
+___
+
+Highest Compensated Superintendents Covering School Year Ranges: 2000/2001 to 2018/2019  
 ![Top 10 Image](pagesManual/SuperPayouts/SuperintendentMaxCompensation10.png "Top 10")
 
 ___
