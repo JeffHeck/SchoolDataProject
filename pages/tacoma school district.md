@@ -11,21 +11,27 @@ ___
 
 ## SBA 4th Grade ELA
 
-[Chart 1 of 1](pages/SBATacoma School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+[Chart 1 of 2](pages/SBATacoma School District4THELA (1 of 2).png "Chart 1 of 2 SBA 4th Grade ELA")
+
+[Chart 2 of 2](pages/SBATacoma School District4THELA (2 of 2).png "Chart 2 of 2 SBA 4th Grade ELA")
 
 
 ___
 
 ## SBA 4th Grade MATH
 
-[Chart 1 of 1](pages/SBATacoma School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+[Chart 1 of 2](pages/SBATacoma School District4THMATH (1 of 2).png "Chart 1 of 2 SBA 4th Grade MATH")
+
+[Chart 2 of 2](pages/SBATacoma School District4THMATH (2 of 2).png "Chart 2 of 2 SBA 4th Grade MATH")
 
 
 ___
 
 ## WCAS 5th Grade SCIENCE
 
-[Chart 1 of 1](pages/wcas_science/WCASTacoma School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
+[Chart 1 of 2](pages/wcas_science/WCASTacoma School District5THSCIENCE (1 of 2).png "Chart 1 of 2 WCA 5th Grade SCIENCE")
+
+[Chart 2 of 2](pages/wcas_science/WCASTacoma School District5THSCIENCE (2 of 2).png "Chart 2 of 2 WCA 5th Grade SCIENCE")
 
 
 ___
