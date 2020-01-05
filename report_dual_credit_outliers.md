@@ -14,7 +14,7 @@ permalink:
 - International Baccalaureate
 - Running Start
 
-## 2017-2018 Dual Credit Earned
+## 2018-2019 Dual Credit Earned
 - Advanced Placement Exam Scores
 
 ___
@@ -69,7 +69,7 @@ Running Start
 
 ___
 
-## 2017-2018 Dual Credit Earned - Advanced Placement Exam Scores
+## 2018-2019 Dual Credit Earned - Advanced Placement Exam Scores
 
 Note:
 - School Enrollment equals the total number of students in a school. Used to normalize the total number of AP exams scored a 3, 4, or 5.
