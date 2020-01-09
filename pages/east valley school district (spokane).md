@@ -67,6 +67,8 @@ ___
 
 ## Dual Credit Participation
 
+[EV Online](pages/hist_dual_credit_participation/Dual Credit BarChartEast Valley School District (Spokane) EV Online.png "EV Online Dual Credit Participation")
+
 [East Valley High School](pages/hist_dual_credit_participation/Dual Credit BarChartEast Valley School District (Spokane) East Valley High School.png "East Valley High School Dual Credit Participation")
 
 

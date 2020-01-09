@@ -58,6 +58,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Prescott Jr Sr High](pages/hist_dual_credit_participation/Dual Credit BarChartPrescott School District Prescott Jr Sr High.png "Prescott Jr Sr High Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Prescott School DistrictDollars Per Student.png " Dollars Per Student")

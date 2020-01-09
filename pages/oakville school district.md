@@ -51,6 +51,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Oakville High School](pages/hist_dual_credit_participation/Dual Credit BarChartOakville School District Oakville High School.png "Oakville High School Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Oakville School DistrictDollars Per Student.png " Dollars Per Student")

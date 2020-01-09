@@ -71,6 +71,10 @@ ___
 
 [Ballou Jr High](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Ballou Jr High.png "Ballou Jr High Dual Credit Participation")
 
+[Doris Stahl Junior High](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Doris Stahl Junior High.png "Doris Stahl Junior High Dual Credit Participation")
+
+[E B Walker High School](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District E B Walker High School.png "E B Walker High School Dual Credit Participation")
+
 [Edgemont Jr High](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Edgemont Jr High.png "Edgemont Jr High Dual Credit Participation")
 
 [Emerald Ridge High School](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Emerald Ridge High School.png "Emerald Ridge High School Dual Credit Participation")
@@ -79,6 +83,8 @@ ___
 
 [Glacier View Junior High](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Glacier View Junior High.png "Glacier View Junior High Dual Credit Participation")
 
+[Gov John Rogers High School](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Gov John Rogers High School.png "Gov John Rogers High School Dual Credit Participation")
+
 [Kalles Junior High](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Kalles Junior High.png "Kalles Junior High Dual Credit Participation")
 
 [Puyallup High School](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Puyallup High School.png "Puyallup High School Dual Credit Participation")
@@ -86,12 +92,6 @@ ___
 [Puyallup Online Academy POA](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Puyallup Online Academy POA.png "Puyallup Online Academy POA Dual Credit Participation")
 
 [Puyallup Open Doors POD](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Puyallup Open Doors POD.png "Puyallup Open Doors POD Dual Credit Participation")
-
-[Rogers High School](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Rogers High School.png "Rogers High School Dual Credit Participation")
-
-[Stahl Junior High](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Stahl Junior High.png "Stahl Junior High Dual Credit Participation")
-
-[Walker High School](pages/hist_dual_credit_participation/Dual Credit BarChartPuyallup School District Walker High School.png "Walker High School Dual Credit Participation")
 
 
 ___

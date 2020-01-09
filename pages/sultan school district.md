@@ -67,6 +67,8 @@ ___
 
 ## Dual Credit Participation
 
+[Sky Valley Options](pages/hist_dual_credit_participation/Dual Credit BarChartSultan School District Sky Valley Options.png "Sky Valley Options Dual Credit Participation")
+
 [Sultan Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartSultan School District Sultan Senior High School.png "Sultan Senior High School Dual Credit Participation")
 
 

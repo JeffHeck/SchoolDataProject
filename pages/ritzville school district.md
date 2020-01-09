@@ -65,6 +65,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Ritzville High School](pages/hist_dual_credit_participation/Dual Credit BarChartRitzville School District Ritzville High School.png "Ritzville High School Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Ritzville School DistrictDollars Per Student.png " Dollars Per Student")

@@ -65,6 +65,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Washington Connections Academy](pages/hist_dual_credit_participation/Dual Credit BarChartMary M Knight School District Washington Connections Academy.png "Washington Connections Academy Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Mary M Knight School DistrictDollars Per Student.png " Dollars Per Student")

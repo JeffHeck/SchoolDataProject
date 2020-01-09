@@ -67,6 +67,8 @@ ___
 
 ## Dual Credit Participation
 
+[Green Hill Academic School](pages/hist_dual_credit_participation/Dual Credit BarChartChehalis School District Green Hill Academic School.png "Green Hill Academic School Dual Credit Participation")
+
 [W F West High School](pages/hist_dual_credit_participation/Dual Credit BarChartChehalis School District W F West High School.png "W F West High School Dual Credit Participation")
 
 

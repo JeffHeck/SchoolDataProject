@@ -71,11 +71,15 @@ ___
 
 [Emerson High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Emerson High School.png "Emerson High School Dual Credit Participation")
 
-[Juanita High](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Juanita High.png "Juanita High Dual Credit Participation")
+[Futures School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Futures School.png "Futures School Dual Credit Participation")
 
-[Lake Washington High](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Lake Washington High.png "Lake Washington High Dual Credit Participation")
+[Juanita High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Juanita High School.png "Juanita High School Dual Credit Participation")
 
-[Redmond High](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Redmond High.png "Redmond High Dual Credit Participation")
+[Lake Washington High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Lake Washington High School.png "Lake Washington High School Dual Credit Participation")
+
+[Nikola Tesla STEM High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Nikola Tesla STEM High School.png "Nikola Tesla STEM High School Dual Credit Participation")
+
+[Redmond High School](pages/hist_dual_credit_participation/Dual Credit BarChartLake Washington School District Redmond High School.png "Redmond High School Dual Credit Participation")
 
 
 ___

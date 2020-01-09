@@ -65,13 +65,6 @@ ___
 
 ___
 
-## Dual Credit Participation
-
-[Chimacum High School](pages/hist_dual_credit_participation/Dual Credit BarChartChimacum School District Chimacum High School.png "Chimacum High School Dual Credit Participation")
-
-
-___
-
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Chimacum School DistrictDollars Per Student.png " Dollars Per Student")

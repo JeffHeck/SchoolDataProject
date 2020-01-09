@@ -67,7 +67,7 @@ ___
 
 ## Dual Credit Participation
 
-[Rosalia Elementary   Secondary School](pages/hist_dual_credit_participation/Dual Credit BarChartRosalia School District Rosalia Elementary   Secondary School.png "Rosalia Elementary   Secondary School Dual Credit Participation")
+[Rosalia Elementary & Secondary School](pages/hist_dual_credit_participation/Dual Credit BarChartRosalia School District Rosalia Elementary & Secondary School.png "Rosalia Elementary & Secondary School Dual Credit Participation")
 
 
 ___

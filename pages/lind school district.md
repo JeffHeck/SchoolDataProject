@@ -58,6 +58,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Lind-Ritzville High School](pages/hist_dual_credit_participation/Dual Credit BarChartLind School District Lind-Ritzville High School.png "Lind-Ritzville High School Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Lind School DistrictDollars Per Student.png " Dollars Per Student")

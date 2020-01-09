@@ -67,7 +67,7 @@ ___
 
 ## Dual Credit Participation
 
-[Choice Alternative School](pages/hist_dual_credit_participation/Dual Credit BarChartShelton School District Choice Alternative School.png "Choice Alternative School Dual Credit Participation")
+[Choice Middle and High School](pages/hist_dual_credit_participation/Dual Credit BarChartShelton School District Choice Middle and High School.png "Choice Middle and High School Dual Credit Participation")
 
 [Oakland Bay Junior High School](pages/hist_dual_credit_participation/Dual Credit BarChartShelton School District Oakland Bay Junior High School.png "Oakland Bay Junior High School Dual Credit Participation")
 

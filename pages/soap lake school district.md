@@ -67,7 +67,9 @@ ___
 
 ## Dual Credit Participation
 
-[Soap Lake Middle   High School](pages/hist_dual_credit_participation/Dual Credit BarChartSoap Lake School District Soap Lake Middle   High School.png "Soap Lake Middle   High School Dual Credit Participation")
+[RISE Academy](pages/hist_dual_credit_participation/Dual Credit BarChartSoap Lake School District RISE Academy.png "RISE Academy Dual Credit Participation")
+
+[Soap Lake Middle & High School](pages/hist_dual_credit_participation/Dual Credit BarChartSoap Lake School District Soap Lake Middle & High School.png "Soap Lake Middle & High School Dual Credit Participation")
 
 
 ___

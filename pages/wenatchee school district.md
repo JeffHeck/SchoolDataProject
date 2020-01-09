@@ -65,6 +65,15 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Wenatchee High School](pages/hist_dual_credit_participation/Dual Credit BarChartWenatchee School District Wenatchee High School.png "Wenatchee High School Dual Credit Participation")
+
+[Westside High School](pages/hist_dual_credit_participation/Dual Credit BarChartWenatchee School District Westside High School.png "Westside High School Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Wenatchee School DistrictDollars Per Student.png " Dollars Per Student")

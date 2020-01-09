@@ -67,7 +67,7 @@ ___
 
 ## Dual Credit Participation
 
-[Clallam Bay High   Elementary](pages/hist_dual_credit_participation/Dual Credit BarChartCape Flattery School District Clallam Bay High   Elementary.png "Clallam Bay High   Elementary Dual Credit Participation")
+[Clallam Bay High & Elementary](pages/hist_dual_credit_participation/Dual Credit BarChartCape Flattery School District Clallam Bay High & Elementary.png "Clallam Bay High & Elementary Dual Credit Participation")
 
 [Neah Bay Junior  Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartCape Flattery School District Neah Bay Junior  Senior High School.png "Neah Bay Junior  Senior High School Dual Credit Participation")
 

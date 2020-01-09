@@ -51,6 +51,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Thorp Elem & Jr Sr High](pages/hist_dual_credit_participation/Dual Credit BarChartThorp School District Thorp Elem & Jr Sr High.png "Thorp Elem & Jr Sr High Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Thorp School DistrictDollars Per Student.png " Dollars Per Student")

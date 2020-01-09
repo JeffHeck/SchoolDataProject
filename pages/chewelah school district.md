@@ -69,6 +69,8 @@ ___
 
 [Jenkins Junior Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartChewelah School District Jenkins Junior Senior High.png "Jenkins Junior Senior High Dual Credit Participation")
 
+[Quartzite Learning](pages/hist_dual_credit_participation/Dual Credit BarChartChewelah School District Quartzite Learning.png "Quartzite Learning Dual Credit Participation")
+
 
 ___
 

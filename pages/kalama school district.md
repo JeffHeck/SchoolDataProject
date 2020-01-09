@@ -67,7 +67,9 @@ ___
 
 ## Dual Credit Participation
 
-[Kalama Jr Sr High](pages/hist_dual_credit_participation/Dual Credit BarChartKalama School District Kalama Jr Sr High.png "Kalama Jr Sr High Dual Credit Participation")
+[Kalama High School](pages/hist_dual_credit_participation/Dual Credit BarChartKalama School District Kalama High School.png "Kalama High School Dual Credit Participation")
+
+[Kalama Middle School](pages/hist_dual_credit_participation/Dual Credit BarChartKalama School District Kalama Middle School.png "Kalama Middle School Dual Credit Participation")
 
 
 ___

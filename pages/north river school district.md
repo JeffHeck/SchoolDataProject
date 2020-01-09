@@ -9,6 +9,13 @@ permalink: north river school district
 
 ___
 
+## Dual Credit Participation
+
+[North River School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth River School District North River School.png "North River School Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the North River School DistrictDollars Per Student.png " Dollars Per Student")

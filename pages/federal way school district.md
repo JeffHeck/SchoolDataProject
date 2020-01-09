@@ -73,9 +73,13 @@ ___
 
 [Federal Way High School](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Federal Way High School.png "Federal Way High School Dual Credit Participation")
 
+[Federal Way Public Academy](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Federal Way Public Academy.png "Federal Way Public Academy Dual Credit Participation")
+
 [Internet Academy](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Internet Academy.png "Internet Academy Dual Credit Participation")
 
-[TAFA at Saghalie](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District TAFA at Saghalie.png "TAFA at Saghalie Dual Credit Participation")
+[Open Doors Youth Reengagement (1418)](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Open Doors Youth Reengagement (1418).png "Open Doors Youth Reengagement (1418) Dual Credit Participation")
+
+[Tech Access Foundation Academy at Saghalie](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Tech Access Foundation Academy at Saghalie.png "Tech Access Foundation Academy at Saghalie Dual Credit Participation")
 
 [Thomas Jefferson High School](pages/hist_dual_credit_participation/Dual Credit BarChartFederal Way School District Thomas Jefferson High School.png "Thomas Jefferson High School Dual Credit Participation")
 

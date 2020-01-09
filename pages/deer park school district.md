@@ -69,6 +69,8 @@ ___
 
 [Deer Park High School](pages/hist_dual_credit_participation/Dual Credit BarChartDeer Park School District Deer Park High School.png "Deer Park High School Dual Credit Participation")
 
+[Deer Park Home Link Program](pages/hist_dual_credit_participation/Dual Credit BarChartDeer Park School District Deer Park Home Link Program.png "Deer Park Home Link Program Dual Credit Participation")
+
 
 ___
 

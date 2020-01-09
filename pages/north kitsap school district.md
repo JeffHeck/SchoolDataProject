@@ -67,6 +67,8 @@ ___
 
 ## Dual Credit Participation
 
+[Choice Academy](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Kitsap School District Choice Academy.png "Choice Academy Dual Credit Participation")
+
 [Kingston High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Kitsap School District Kingston High School.png "Kingston High School Dual Credit Participation")
 
 [North Kitsap High School](pages/hist_dual_credit_participation/Dual Credit BarChartNorth Kitsap School District North Kitsap High School.png "North Kitsap High School Dual Credit Participation")

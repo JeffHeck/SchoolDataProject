@@ -67,7 +67,7 @@ ___
 
 ## Dual Credit Participation
 
-[Cashmere High School](pages/hist_dual_credit_participation/Dual Credit BarChartCashmere School District Cashmere High School.png "Cashmere High School Dual Credit Participation")
+[CASHMERE HIGH SCHOOL](pages/hist_dual_credit_participation/Dual Credit BarChartCashmere School District CASHMERE HIGH SCHOOL.png "CASHMERE HIGH SCHOOL Dual Credit Participation")
 
 
 ___

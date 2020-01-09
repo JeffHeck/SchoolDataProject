@@ -67,6 +67,8 @@ ___
 
 ## Dual Credit Participation
 
+[Columbia Basin Technical Skills Center](pages/hist_dual_credit_participation/Dual Credit BarChartMoses Lake School District Columbia Basin Technical Skills Center.png "Columbia Basin Technical Skills Center Dual Credit Participation")
+
 [Moses Lake High School](pages/hist_dual_credit_participation/Dual Credit BarChartMoses Lake School District Moses Lake High School.png "Moses Lake High School Dual Credit Participation")
 
 

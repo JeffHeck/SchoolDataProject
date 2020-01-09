@@ -65,6 +65,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Kiona-Benton City High School](pages/hist_dual_credit_participation/Dual Credit BarChartKiona-Benton City School District Kiona-Benton City High School.png "Kiona-Benton City High School Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Kiona-Benton City School DistrictDollars Per Student.png " Dollars Per Student")

@@ -69,7 +69,7 @@ ___
 
 [Evergreen High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Evergreen High School.png "Evergreen High School Dual Credit Participation")
 
-[Henrietta Lacks Health and Bioscience High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Henrietta Lacks Health and Bioscience High School.png "Henrietta Lacks Health and Bioscience High School Dual Credit Participation")
+[Henrietta Lacks Health and Bioscience HS](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Henrietta Lacks Health and Bioscience HS.png "Henrietta Lacks Health and Bioscience HS Dual Credit Participation")
 
 [Heritage High School](pages/hist_dual_credit_participation/Dual Credit BarChartEvergreen School District (Clark) Heritage High School.png "Heritage High School Dual Credit Participation")
 

@@ -77,6 +77,8 @@ ___
 
 [Southridge High School](pages/hist_dual_credit_participation/Dual Credit BarChartKennewick School District Southridge High School.png "Southridge High School Dual Credit Participation")
 
+[Tri-Tech Skills Center](pages/hist_dual_credit_participation/Dual Credit BarChartKennewick School District Tri-Tech Skills Center.png "Tri-Tech Skills Center Dual Credit Participation")
+
 
 ___
 

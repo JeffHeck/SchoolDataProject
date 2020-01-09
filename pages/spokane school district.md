@@ -77,7 +77,7 @@ ___
 
 [Ferris High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District Ferris High School.png "Ferris High School Dual Credit Participation")
 
-[Lewis   Clark High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District Lewis   Clark High School.png "Lewis   Clark High School Dual Credit Participation")
+[Lewis & Clark High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District Lewis & Clark High School.png "Lewis & Clark High School Dual Credit Participation")
 
 [North Central High School](pages/hist_dual_credit_participation/Dual Credit BarChartSpokane School District North Central High School.png "North Central High School Dual Credit Participation")
 

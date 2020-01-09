@@ -69,7 +69,7 @@ ___
 
 [Clover Park High School](pages/hist_dual_credit_participation/Dual Credit BarChartClover Park School District Clover Park High School.png "Clover Park High School Dual Credit Participation")
 
-[Harrison Prep School](pages/hist_dual_credit_participation/Dual Credit BarChartClover Park School District Harrison Prep School.png "Harrison Prep School Dual Credit Participation")
+[General William H Harrison Prep School](pages/hist_dual_credit_participation/Dual Credit BarChartClover Park School District General William H Harrison Prep School.png "General William H Harrison Prep School Dual Credit Participation")
 
 [Lakes High School](pages/hist_dual_credit_participation/Dual Credit BarChartClover Park School District Lakes High School.png "Lakes High School Dual Credit Participation")
 

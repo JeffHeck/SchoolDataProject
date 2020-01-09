@@ -79,8 +79,6 @@ ___
 
 [Kentwood High School](pages/hist_dual_credit_participation/Dual Credit BarChartKent School District Kentwood High School.png "Kentwood High School Dual Credit Participation")
 
-[iGrad](pages/hist_dual_credit_participation/Dual Credit BarChartKent School District iGrad.png "iGrad Dual Credit Participation")
-
 
 ___
 

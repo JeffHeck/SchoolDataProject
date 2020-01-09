@@ -67,8 +67,6 @@ ___
 
 ## Dual Credit Participation
 
-[Columbia Junior High School](pages/hist_dual_credit_participation/Dual Credit BarChartFife School District Columbia Junior High School.png "Columbia Junior High School Dual Credit Participation")
-
 [Fife High School](pages/hist_dual_credit_participation/Dual Credit BarChartFife School District Fife High School.png "Fife High School Dual Credit Participation")
 
 

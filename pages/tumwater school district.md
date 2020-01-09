@@ -69,6 +69,10 @@ ___
 
 [A G West Black Hills High School](pages/hist_dual_credit_participation/Dual Credit BarChartTumwater School District A G West Black Hills High School.png "A G West Black Hills High School Dual Credit Participation")
 
+[New Market Skills Center](pages/hist_dual_credit_participation/Dual Credit BarChartTumwater School District New Market Skills Center.png "New Market Skills Center Dual Credit Participation")
+
+[Secondary Options](pages/hist_dual_credit_participation/Dual Credit BarChartTumwater School District Secondary Options.png "Secondary Options Dual Credit Participation")
+
 [Tumwater High School](pages/hist_dual_credit_participation/Dual Credit BarChartTumwater School District Tumwater High School.png "Tumwater High School Dual Credit Participation")
 
 

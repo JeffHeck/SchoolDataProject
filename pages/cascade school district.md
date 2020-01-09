@@ -65,6 +65,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Cascade High School](pages/hist_dual_credit_participation/Dual Credit BarChartCascade School District Cascade High School.png "Cascade High School Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Cascade School DistrictDollars Per Student.png " Dollars Per Student")

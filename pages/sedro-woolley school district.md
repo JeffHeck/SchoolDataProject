@@ -69,8 +69,6 @@ ___
 
 [Sedro Woolley Senior High School](pages/hist_dual_credit_participation/Dual Credit BarChartSedro-Woolley School District Sedro Woolley Senior High School.png "Sedro Woolley Senior High School Dual Credit Participation")
 
-[State Street High School](pages/hist_dual_credit_participation/Dual Credit BarChartSedro-Woolley School District State Street High School.png "State Street High School Dual Credit Participation")
-
 
 ___
 

@@ -69,6 +69,8 @@ ___
 
 [Burlington Edison High School](pages/hist_dual_credit_participation/Dual Credit BarChartBurlington-Edison School District Burlington Edison High School.png "Burlington Edison High School Dual Credit Participation")
 
+[Burlington-Edison Alternative School](pages/hist_dual_credit_participation/Dual Credit BarChartBurlington-Edison School District Burlington-Edison Alternative School.png "Burlington-Edison Alternative School Dual Credit Participation")
+
 
 ___
 

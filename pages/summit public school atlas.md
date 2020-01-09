@@ -23,6 +23,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Summit Public School Atlas](pages/hist_dual_credit_participation/Dual Credit BarChartSummit Public School Atlas Summit Public School Atlas.png "Summit Public School Atlas Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Summit Public School AtlasDollars Per Student.png " Dollars Per Student")

@@ -69,7 +69,7 @@ ___
 
 [Mount Si High School](pages/hist_dual_credit_participation/Dual Credit BarChartSnoqualmie Valley School District Mount Si High School.png "Mount Si High School Dual Credit Participation")
 
-[SVSD OPEN DOORS](pages/hist_dual_credit_participation/Dual Credit BarChartSnoqualmie Valley School District SVSD OPEN DOORS.png "SVSD OPEN DOORS Dual Credit Participation")
+[SNOQUALMIE VALLEY SCHOOL DISTRICT OPEN DOORS](pages/hist_dual_credit_participation/Dual Credit BarChartSnoqualmie Valley School District SNOQUALMIE VALLEY SCHOOL DISTRICT OPEN DOORS.png "SNOQUALMIE VALLEY SCHOOL DISTRICT OPEN DOORS Dual Credit Participation")
 
 [Two Rivers School](pages/hist_dual_credit_participation/Dual Credit BarChartSnoqualmie Valley School District Two Rivers School.png "Two Rivers School Dual Credit Participation")
 

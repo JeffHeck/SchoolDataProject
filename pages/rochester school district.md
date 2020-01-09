@@ -39,6 +39,8 @@ ___
 
 ## Dual Credit Participation
 
+[Heart High School](pages/hist_dual_credit_participation/Dual Credit BarChartRochester School District Heart High School.png "Heart High School Dual Credit Participation")
+
 [Rochester High School](pages/hist_dual_credit_participation/Dual Credit BarChartRochester School District Rochester High School.png "Rochester High School Dual Credit Participation")
 
 

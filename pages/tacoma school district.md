@@ -75,6 +75,8 @@ ___
 
 [Foss](pages/hist_dual_credit_participation/Dual Credit BarChartTacoma School District Foss.png "Foss Dual Credit Participation")
 
+[Industrial Design Engineering and Art](pages/hist_dual_credit_participation/Dual Credit BarChartTacoma School District Industrial Design Engineering and Art.png "Industrial Design Engineering and Art Dual Credit Participation")
+
 [Lincoln](pages/hist_dual_credit_participation/Dual Credit BarChartTacoma School District Lincoln.png "Lincoln Dual Credit Participation")
 
 [Mt Tahoma](pages/hist_dual_credit_participation/Dual Credit BarChartTacoma School District Mt Tahoma.png "Mt Tahoma Dual Credit Participation")

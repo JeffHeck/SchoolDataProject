@@ -67,6 +67,8 @@ ___
 
 ## Dual Credit Participation
 
+[Northwest Allprep](pages/hist_dual_credit_participation/Dual Credit BarChartToppenish School District Northwest Allprep.png "Northwest Allprep Dual Credit Participation")
+
 [Toppenish High School](pages/hist_dual_credit_participation/Dual Credit BarChartToppenish School District Toppenish High School.png "Toppenish High School Dual Credit Participation")
 
 

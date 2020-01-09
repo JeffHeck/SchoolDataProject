@@ -53,7 +53,7 @@ ___
 
 ## Dual Credit Participation
 
-[Curlew Elem   High School](pages/hist_dual_credit_participation/Dual Credit BarChartCurlew School District Curlew Elem   High School.png "Curlew Elem   High School Dual Credit Participation")
+[Curlew Elem & High School](pages/hist_dual_credit_participation/Dual Credit BarChartCurlew School District Curlew Elem & High School.png "Curlew Elem & High School Dual Credit Participation")
 
 
 ___

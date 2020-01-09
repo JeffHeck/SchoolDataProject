@@ -65,6 +65,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Wilbur Secondary School](pages/hist_dual_credit_participation/Dual Credit BarChartWilbur School District Wilbur Secondary School.png "Wilbur Secondary School Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Wilbur School DistrictDollars Per Student.png " Dollars Per Student")

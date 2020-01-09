@@ -67,11 +67,9 @@ ___
 
 ## Dual Credit Participation
 
-[Marysville Arts and Technology High School](pages/hist_dual_credit_participation/Dual Credit BarChartMarysville School District Marysville Arts and Technology High School.png "Marysville Arts and Technology High School Dual Credit Participation")
+[Legacy High School](pages/hist_dual_credit_participation/Dual Credit BarChartMarysville School District Legacy High School.png "Legacy High School Dual Credit Participation")
 
 [Marysville Getchell High School](pages/hist_dual_credit_participation/Dual Credit BarChartMarysville School District Marysville Getchell High School.png "Marysville Getchell High School Dual Credit Participation")
-
-[Marysville Mountain View High School](pages/hist_dual_credit_participation/Dual Credit BarChartMarysville School District Marysville Mountain View High School.png "Marysville Mountain View High School Dual Credit Participation")
 
 [Marysville Pilchuck High School](pages/hist_dual_credit_participation/Dual Credit BarChartMarysville School District Marysville Pilchuck High School.png "Marysville Pilchuck High School Dual Credit Participation")
 

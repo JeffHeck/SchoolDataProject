@@ -71,6 +71,8 @@ ___
 
 [Mica Peak High School](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Valley School District Mica Peak High School.png "Mica Peak High School Dual Credit Participation")
 
+[Stem Academy at SVT](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Valley School District Stem Academy at SVT.png "Stem Academy at SVT Dual Credit Participation")
+
 [University High School](pages/hist_dual_credit_participation/Dual Credit BarChartCentral Valley School District University High School.png "University High School Dual Credit Participation")
 
 

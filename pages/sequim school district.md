@@ -65,6 +65,13 @@ ___
 
 ___
 
+## Dual Credit Participation
+
+[Sequim Senior High](pages/hist_dual_credit_participation/Dual Credit BarChartSequim School District Sequim Senior High.png "Sequim Senior High Dual Credit Participation")
+
+
+___
+
 ## Budget Information
 
 [Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Sequim School DistrictDollars Per Student.png " Dollars Per Student")

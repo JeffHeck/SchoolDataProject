@@ -69,6 +69,8 @@ ___
 
 [Mount Vernon High School](pages/hist_dual_credit_participation/Dual Credit BarChartMount Vernon School District Mount Vernon High School.png "Mount Vernon High School Dual Credit Participation")
 
+[Northwest Career & Technical Academy A Washington State Skills Center](pages/hist_dual_credit_participation/Dual Credit BarChartMount Vernon School District Northwest Career & Technical Academy A Washington State Skills Center.png "Northwest Career & Technical Academy A Washington State Skills Center Dual Credit Participation")
+
 [Skagit Academy](pages/hist_dual_credit_participation/Dual Credit BarChartMount Vernon School District Skagit Academy.png "Skagit Academy Dual Credit Participation")
 
 
