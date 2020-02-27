@@ -27,6 +27,10 @@ ___
 
 [Chart 1 of 1](pages/wcas_science/WCASGreen Dot Destiny8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
 
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsGreen Dot Destiny.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesGreen Dot Destiny.png " Historical and Projected Revenue Sources")
+
 
 ___
 

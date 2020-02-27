@@ -41,3 +41,7 @@ ___
 
 [Chart 1 of 1](pages/SBAExcel Public Charter School10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
 
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsExcel Public Charter School.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesExcel Public Charter School.png " Historical and Projected Revenue Sources")
+
