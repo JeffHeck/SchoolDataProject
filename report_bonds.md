@@ -12,7 +12,7 @@ ___
 ## Summary: Large districts (More than 10,000 students)
 
 ![Large Image](pagesManual/BondsReport/TableLargeDistricts.png "Large")
-## Summary: Small districts (Less than 10,000 students)
+## Summary: Small districts (Fewer than 10,000 students)
 ![Small Image](pagesManual/BondsReport/TableSmallDistricts.png "Small")
 
 
