@@ -4,6 +4,8 @@ title: Reports
 permalink:
 ---
 
+[School Bonds](report_bonds)
+
 [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers](sba_outliers)
 
 [Dual Credit Outliers](report_dual_credit_outliers)
