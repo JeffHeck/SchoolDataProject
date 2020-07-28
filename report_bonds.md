@@ -6,6 +6,11 @@ permalink:
 There were 21 school districts in WA that had a school bond on the ballot in 2020. This report focuses on the advertised cost and the analyzed actual cost to the local taxpayer for those bonds.
 
 
+## Contents
+- Summary: Large districts (More than 10,000 students)
+- Summary: Small districts (Fewer than 10,000 students)
+- Advertised costs vs calculated actual costs for each district
+- Methodology
 
 ___
 
@@ -15,6 +20,8 @@ ___
 ## Summary: Small districts (Fewer than 10,000 students)
 ![Small Image](pagesManual/BondsReport/TableSmallDistricts.png "Small")
 
+___
+## Advertised costs vs calculated actual costs for each district
 
 ___
 
@@ -235,4 +242,4 @@ For this analysis, the annual assessed value (AV) growth rates (increases or dec
 New homes, apartments, and businesses that come on the market in the future at some point over the payback period of the bond are not taken into account. These would add to the tax base and potentially lower the bond payback obligation to the existing property owners.
 
 
-Since, in this methodology, the existing properties' AVs all track the Total AV, it doesn't matter if all properties increase in AV by 10% or all decrease in AV by 10% (which could happen in a recession). The tax collection schedule shown in the charts would still apply for the example homeowner. The example homeowner's proportion of obligation for the bond debt remains the same over the payback period. Tax rates, however, would change. If all properties increase in AV by 10%, the tax rate for this bond would decrease by 10%. If all properties decrease in AV by 10%, the tax rates for this bond wound increase by 10%.
+Since, in this methodology and its assumptions, the existing properties' AVs all track the Total AV, it doesn't matter if all properties increase in AV by 10% or all decrease in AV by 10% (which could happen in a recession). The tax collection schedule shown in the charts would still apply for the example homeowner. The example homeowner's proportion of obligation for the bond debt remains the same over the payback period. Tax rates, however, would change. If all properties increase in AV by 10%, the tax rate for this bond would decrease by 10%. If all properties decrease in AV by 10%, the tax rate for this bond wound increase by 10%.
