@@ -7,11 +7,17 @@ There were 21 school districts in WA that had a school bond on the ballot in 202
 
 
 ## Contents
+- Summary chart: Advertised costs vs calculated actual costs
 - Summary table: Large districts (More than 10,000 students)
 - Summary table: Small districts (Fewer than 10,000 students)
-- Summary chart: Advertised costs vs calculated actual costs
 - Advertised cost vs calculated actual cost for each district
 - Methodology
+
+___
+
+## Summary chart: Advertised costs vs calculated actual costs
+
+![Chart Image](pagesManual/BondsReport/BondCostComparison.png "Chart")
 
 ___
 
@@ -24,12 +30,6 @@ ___
 ## Summary table: Small districts (Fewer than 10,000 students)
 
 ![Small Image](pagesManual/BondsReport/TableSmallDistricts.png "Small")
-
-___
-
-## Summary chart: Advertised costs vs calculated actual costs
-
-![Chart Image](pagesManual/BondsReport/BondCostComparison.png "Chart")
 
 ___
 ## Advertised cost vs calculated actual cost for each district
