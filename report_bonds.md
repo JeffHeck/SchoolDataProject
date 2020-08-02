@@ -254,3 +254,6 @@ New homes, apartments, and businesses that come on the market in the future at s
 
 
 Since, in this methodology and its assumptions, the existing properties' AVs all track the Total AV, it doesn't matter if all properties increase in AV by 10% or all decrease in AV by 10% (which could happen in a recession). The tax collection schedule shown in the charts would still apply for the example homeowner. The example homeowner's proportion of obligation for the bond debt remains the same over the payback period. Tax rates, however, would change. If all properties increase in AV by 10%, the tax rate for this bond would decrease by approximately 10%. If all properties decrease in AV by 10%, the tax rate for this bond would increase by approximately 10%.
+
+
+[Sample calculation](pagesManual/BondsReport/ExampleBondCostCalcForBellevue.png " Sample Calc")
