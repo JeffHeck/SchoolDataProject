@@ -257,3 +257,4 @@ Since, in this methodology and its assumptions, the existing properties' AVs all
 
 
 [Example calculation](pagesManual/BondsReport/ExampleBondCostCalcForBellevue.pdf " Example Calc")
+
