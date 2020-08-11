@@ -11,7 +11,10 @@ There were 21 school districts in WA that had a school bond on the ballot in 202
 - Summary table: Large districts (More than 10,000 students)
 - Summary table: Small districts (Fewer than 10,000 students)
 - Advertised cost vs calculated actual cost for each district
+  - Bond cost advertisement explained [1]
 - Methodology
+
+[1] For districts with 80+% discrepancy
 
 ___
 
@@ -63,6 +66,8 @@ ___
 ### Bond cost to taxpayers as calculated by the authors
 ![Bellevue Image](pagesManual/BondsReport/Bellevue Analysis.png "Bellevue")
 
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedBellevue.pdf " Cost ad Explained")
+
 
 ___
 
@@ -103,6 +108,8 @@ ___
 ### Bond cost to taxpayers as calculated by the authors
 ![Edmonds Image](pagesManual/BondsReport/Edmonds Analysis.png "Edmonds")
 
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedEdmonds.pdf " Cost ad Explained")
+
 
 ___
 
@@ -133,6 +140,8 @@ ___
 ### Bond cost to taxpayers as calculated by the authors
 ![Everett Image](pagesManual/BondsReport/Everett Analysis.png "Everett")
 
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedEverett.pdf " Cost ad Explained")
+
 
 ___
 
@@ -153,6 +162,8 @@ ___
 ### Bond cost to taxpayers as calculated by the authors
 ![Mukilteo Image](pagesManual/BondsReport/Mukilteo Analysis.png "Mukilteo")
 
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedMukilteo.pdf " Cost ad Explained")
+
 
 ___
 
@@ -162,6 +173,8 @@ ___
 ![North Thurston Image](pagesManual/BondsReport/North Thurston Ad.png "North Thurston")
 ### Bond cost to taxpayers as calculated by the authors
 ![North Thurston Image](pagesManual/BondsReport/North Thurston Analysis.png "North Thurston")
+
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedNorthThurston.pdf " Cost ad Explained")
 
 
 ___
@@ -193,6 +206,8 @@ ___
 ### Bond cost to taxpayers as calculated by the authors
 ![Ridgefield Image](pagesManual/BondsReport/Ridgefield Analysis.png "Ridgefield")
 
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedRidgefield.pdf " Cost ad Explained")
+
 
 ___
 
@@ -202,6 +217,8 @@ ___
 ![Riverview Image](pagesManual/BondsReport/Riverview Ad.png "Riverview")
 ### Bond cost to taxpayers as calculated by the authors
 ![Riverview Image](pagesManual/BondsReport/Riverview Analysis.png "Riverview")
+
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedRiverview.pdf " Cost ad Explained")
 
 
 ___
@@ -223,6 +240,8 @@ ___
 ### Bond cost to taxpayers as calculated by the authors
 ![Snohomish Image](pagesManual/BondsReport/Snohomish Analysis.png "Snohomish")
 
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedSnohomish.pdf " Cost ad Explained")
+
 
 ___
 
@@ -233,6 +252,8 @@ ___
 ### Bond cost to taxpayers as calculated by the authors
 ![Sumner Image](pagesManual/BondsReport/Sumner Analysis.png "Sumner")
 
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedSumner.pdf " Cost ad Explained")
+
 
 ___
 
@@ -242,6 +263,8 @@ ___
 ![Tacoma Image](pagesManual/BondsReport/Tacoma Ad.png "Tacoma")
 ### Bond cost to taxpayers as calculated by the authors
 ![Tacoma Image](pagesManual/BondsReport/Tacoma Analysis.png "Tacoma")
+
+[Bond cost advertisement explained](pagesManual/BondsReport/BondCostAdExplainedTacoma.pdf " Cost ad Explained")
 
 
 ___
