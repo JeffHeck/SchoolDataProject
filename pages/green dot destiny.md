@@ -27,9 +27,18 @@ ___
 
 [Chart 1 of 1](pages/wcas_science/WCASGreen Dot Destiny8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
 
+
+___
+
+## Budget Information
+
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Green Dot DestinyDollars Per Student.png " Dollars Per Student")
+
 [Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsGreen Dot Destiny.png " Historical and Projected Revenue Sources")
 
 [Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesGreen Dot Destiny.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentGreen Dot Destiny.png " Historical and Projected Total Enrollment")
 
 
 ___
@@ -44,8 +53,4 @@ ___
 - Mandatory Benefits include pension funding and payroll taxes
 
 [ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesGreen Dot Destiny School District.png "Green Dot Destiny Selected Duty Titles")
-
-[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Green Dot Destiny.png " Total Compensation Distribution For Teachers")
-
-[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Green Dot Destiny.png " Total Compensation Distribution For District Admins")
 

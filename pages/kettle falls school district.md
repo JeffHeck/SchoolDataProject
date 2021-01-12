@@ -100,7 +100,3 @@ ___
 
 [ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesKettle Falls School District.png "Kettle Falls School District Selected Duty Titles")
 
-[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Kettle Falls.png " Total Compensation Distribution For Teachers")
-
-[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Kettle Falls.png " Total Compensation Distribution For District Admins")
-

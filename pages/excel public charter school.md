@@ -41,7 +41,16 @@ ___
 
 [Chart 1 of 1](pages/SBAExcel Public Charter School10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
 
+
+___
+
+## Budget Information
+
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Excel Public Charter SchoolDollars Per Student.png " Dollars Per Student")
+
 [Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsExcel Public Charter School.png " Historical and Projected Revenue Sources")
 
 [Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesExcel Public Charter School.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentExcel Public Charter School.png " Historical and Projected Total Enrollment")
 

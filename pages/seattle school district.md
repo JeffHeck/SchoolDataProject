@@ -118,17 +118,17 @@ ___
 
 ## Budget Information
 
-[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Seattle Public SchoolsDollars Per Student.png " Dollars Per Student")
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Seattle School DistrictDollars Per Student.png " Dollars Per Student")
 
-[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Seattle Public Schools Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Seattle School District Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
 
-[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Seattle Public Schools Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Seattle School District Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
 
 [Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsSeattle School District.png " Historical and Projected Revenue Sources")
 
 [Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesSeattle School District.png " Historical and Projected Revenue Sources")
 
-[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSeattle Public Schools.png " Historical and Projected Total Enrollment")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSeattle School District.png " Historical and Projected Total Enrollment")
 
 
 ___
@@ -143,8 +143,4 @@ ___
 - Mandatory Benefits include pension funding and payroll taxes
 
 [ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesSeattle School District.png "Seattle School District Selected Duty Titles")
-
-[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Seattle.png " Total Compensation Distribution For Teachers")
-
-[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Seattle.png " Total Compensation Distribution For District Admins")
 
