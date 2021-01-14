@@ -11,11 +11,11 @@ ___
 
 ## Budget Information
 
-[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Impact Public SchoolsDollars Per Student.png " Dollars Per Student")
+[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Impact Public SchoolsDollars Per Student.png " Dollars Per Student")
 
-[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsImpact Public Schools.png " Historical and Projected Revenue Sources")
+[Historical Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsImpact Public Schools.png " Historical and Projected Revenue Sources")
 
-[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesImpact Public Schools.png " Historical and Projected Revenue Sources")
+[Historical Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesImpact Public Schools.png " Historical and Projected Revenue Sources")
 
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentImpact Public Schools.png " Historical and Projected Total Enrollment")
 

@@ -11,11 +11,11 @@ ___
 
 ## Budget Information
 
-[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Innovation SchoolsDollars Per Student.png " Dollars Per Student")
+[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Innovation SchoolsDollars Per Student.png " Dollars Per Student")
 
-[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsInnovation Schools.png " Historical and Projected Revenue Sources")
+[Historical Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsInnovation Schools.png " Historical and Projected Revenue Sources")
 
-[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesInnovation Schools.png " Historical and Projected Revenue Sources")
+[Historical Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesInnovation Schools.png " Historical and Projected Revenue Sources")
 
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentInnovation Schools.png " Historical and Projected Total Enrollment")
 

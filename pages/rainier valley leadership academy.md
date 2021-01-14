@@ -11,11 +11,11 @@ ___
 
 ## Budget Information
 
-[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Rainier Valley Leadership AcademyDollars Per Student.png " Dollars Per Student")
+[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Rainier Valley Leadership AcademyDollars Per Student.png " Dollars Per Student")
 
-[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsRainier Valley Leadership Academy.png " Historical and Projected Revenue Sources")
+[Historical Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsRainier Valley Leadership Academy.png " Historical and Projected Revenue Sources")
 
-[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesRainier Valley Leadership Academy.png " Historical and Projected Revenue Sources")
+[Historical Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesRainier Valley Leadership Academy.png " Historical and Projected Revenue Sources")
 
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentRainier Valley Leadership Academy.png " Historical and Projected Total Enrollment")
 
