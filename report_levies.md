@@ -61,5 +61,5 @@ ___
 ## Sources
 
 Levy amounts and levy rates were obtained from current election and previous election sample ballots from each respective county elections department. 
-Most counties had their sample ballots readily available on their websites.
-For the fewer than 10 counties that did not, a public records request was made to obtain electronic copies.
+10 counties had all their sample ballots readily available on their websites.
+For the 7 counties that did not have either their current or past sample ballots online, a public records request was made to obtain electronic copies.
