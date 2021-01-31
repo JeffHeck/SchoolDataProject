@@ -4,6 +4,8 @@ title: Reports
 permalink:
 ---
 
+[School Levies in 2021](report_levies)
+
 [School Bonds in 2020](report_bonds)
 
 [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers](sba_outliers)
