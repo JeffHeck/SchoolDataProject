@@ -13,6 +13,7 @@ There are 60 school measures on the February 9th, 2021 ballot in Washington Stat
 - Summary table: Levies advertised as replacements to previous levies
 - Summary table: Measures not advertised as replacement levies
 - Summary chart: Replacement levies in descending order by the percent increase in the levy amounts
+- Example replacement levy advertisement: Spokane SD
 - Methodology
 - Sources
 
@@ -61,6 +62,21 @@ ___
 
 ![Replacement levies](pagesManual/LeviesReport/LevySummary1.png "Replacement Levies Chart 1 of 2")
 ![Replacement levies](pagesManual/LeviesReport/LevySummary2.png "Replacement Levies Chart 2 of 2")
+
+___
+
+## Example replacement levy advertisement: Spokane SD
+
+### The Spokane SD's levy advertisement snapshot relating to costs
+
+![Spokane SD snapshot 0](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot0.png "Spokane SD snapshot 0")
+![Spokane SD snapshot 1](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot1.png "Spokane SD snapshot 1")
+![Spokane SD snapshot 2](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot2.png "Spokane SD snapshot 2")
+![Spokane SD snapshot 3](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot3.png "Spokane SD snapshot 3")
+
+### The authors' analysis of the Spokane SD's replacement levy costs
+
+![Spokane SD analysis](pagesManual/LeviesReport/SpokaneSDBondLevyDatasheet.png "Spokane SD analysis")
 
 ___
 
