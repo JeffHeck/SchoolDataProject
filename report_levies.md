@@ -37,6 +37,12 @@ There are 60 school measures in total from 50 school districts from 17 counties.
 
 8 of the replacement advertised levies are lower in amount compared to the previous levy.
 
+42 measures used the words 'Education Programs and Operations' in their titles
+
+3 measures used the word 'Enrichment' instead of EP&O in their titles
+
+1 measure used the words 'Maintenance and Operations' in their title
+
 ___
 
 ## Summary table: Levies advertised as replacements to previous levies
@@ -53,14 +59,15 @@ ___
 
 ## Summary chart: Replacement levies in descending order by the percent increase in the levy amounts
 
-![Replacement levies](pagesManual/LeviesReport/LevySummary1.png "Replacement Levies 1 of 2")
-![Replacement levies](pagesManual/LeviesReport/LevySummary2.png "Replacement Levies 1 of 2")
+![Replacement levies](pagesManual/LeviesReport/LevySummary1.png "Replacement Levies Chart 1 of 2")
+![Replacement levies](pagesManual/LeviesReport/LevySummary2.png "Replacement Levies Chart 2 of 2")
 
 ___
 
 ## Methodology
 
-For this analysis, the annual assessed value (AV) growth rates (increases or decreases) for the example property owner's property were set to the same values as the Total District Levy AV Growth Rates. 
+For this analysis, the annual assessed value (AV) growth rates for the example property owner's property were set to the same values as the Total District Levy AV Growth Rates. 
+The effect of this assumption is that the obligated proportion of the levy for the example property remains constant for each year in the analysis. 
 The Total District Levy AVs were calculated from the levy amounts and levy estimates obtained from the sample ballots.
 
 The spreadsheet data and chart for the West Valley SD (Spokane) are shown below.
@@ -73,6 +80,6 @@ ___
 
 Levy amounts and levy rates were obtained from current election and previous election sample ballots from each respective county elections department. 
 10 counties had all their sample ballots readily available on their websites.
-For the 7 counties that did not have either their current or past sample ballots online, a public records request was made to obtain electronic copies.
+For the 7 counties that did not have either their current or past sample ballots online, a request was submitted to obtain electronic copies. All counties responded promptly.
 
 ___
