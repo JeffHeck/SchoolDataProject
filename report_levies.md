@@ -68,12 +68,17 @@ ___
 ## Example replacement levy advertisement: Spokane SD
 
 ### The Spokane SD's levy advertisement snapshots relating to costs published on the district's website
-https://www.spokaneschools.org/levyfaq
 
-![Spokane SD snapshot 0](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot0.png "Spokane SD snapshot 0")
-![Spokane SD snapshot 1](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot1.png "Spokane SD snapshot 1")
-![Spokane SD snapshot 2](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot2.png "Spokane SD snapshot 2")
-![Spokane SD snapshot 3](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot3.png "Spokane SD snapshot 3")
+[Spokane SD's fact sheet website](https://www.spokaneschools.org/levyfaq "Spokane SD's fact sheet website")
+
+
+[Spokane SD's fact sheet snapshot 1](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot0.png "Spokane SD's advertisement snapshot 1")
+
+[Spokane SD's fact sheet snapshot 2](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot1.png "Spokane SD's advertisement snapshot 2")
+
+[Spokane SD's fact sheet snapshot 3](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot2.png "Spokane SD's advertisement snapshot 3")
+
+[Spokane SD's fact sheet snapshot 4](pagesManual/LeviesReport/SpokaneLevyFactSheetSnapshot3.png "Spokane SD's advertisement snapshot 4")
 
 ### The authors' analysis of the Spokane SD's replacement levy costs
 
