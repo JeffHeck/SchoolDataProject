@@ -126,4 +126,6 @@ Levy amounts and levy rates were obtained from current election and previous ele
 10 counties had all their sample ballots readily available on their websites.
 For the 7 counties that did not have either their current or past sample ballots online, a request was submitted to obtain electronic copies.
 
+School districts' levy fact sheets and levy flyers posted on their official websites were reviewed for misleading words.
+
 ___
