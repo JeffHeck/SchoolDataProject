@@ -12,7 +12,7 @@ There are 60 school measures on the February 9th, 2021 ballot in Washington Stat
 - Summary
 - Summary table: Levies advertised as replacements to previous levies
 - Summary table: Measures without the words replacement or renewal in their titles
-- Summary chart: Replacement levies in descending order by the percent increase in the levy amounts
+- Summary chart: Replacement levies in descending order by the percent increase from their previous amounts
 - Summary table: Incongruent words used in levy advertisements
 - Example replacement levy advertisement: Quillayute Valley SD
 - Example replacement levy advertisement: Spokane SD
@@ -66,7 +66,7 @@ ___
 
 ___
 
-## Summary chart: Replacement levies in descending order by the percent increase in the levy amounts
+## Summary chart: Replacement levies in descending order by the percent increase from their previous amounts
 
 ![Replacement levies](pagesManual/LeviesReport/LevySummary1.png "Replacement Levies Chart 1 of 2")
 ![Replacement levies](pagesManual/LeviesReport/LevySummary2.png "Replacement Levies Chart 2 of 2")
