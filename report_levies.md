@@ -30,7 +30,7 @@ There are 60 school measures in total from 50 school districts from 17 counties.
 
 54 measures are advertised as replacement or renewal levies.
 
-5 measures are advertised as non-replacement capital levies.
+5 measures are advertised as capital levies without the words replacement or renewal in their titles.
 
 1 measure is a redistricting authorization measure and is not a levy.
 
