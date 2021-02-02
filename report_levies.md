@@ -40,11 +40,17 @@ There are 60 school measures in total from 50 school districts from 17 counties.
 
 8 of the replacement advertised levies are lower in amount compared to the previous levy.
 
+4 of the replacement advertised levies have shorter durations (fewer years) than their previous levy.
+
+7 of the replacement advertised levies have longer durations (more years) than their previous levy.
+
 42 measures used the words 'Educational Programs and Operations' in their titles.
 
 3 measures used the word 'Enrichment' instead of EP&O in their titles.
 
 1 measure used the words 'Maintenance and Operations' in their title.
+
+
 
 ___
 
