@@ -26,29 +26,21 @@ ___
 
 For the February 9th, 2021 special election:
 
-There are 60 school measures in total from 50 school districts from 17 counties.
-
-54 measures are advertised as replacement or renewal levies.
-
-5 measures are advertised as capital levies without the words replacement or renewal in their titles.
-
-1 measure is a redistricting authorization measure and is not a levy.
-
-36 of the replacement advertised levies involve an increase in the amount over the previous levy ranging from 3% to 115% more.
-
-10 of the replacement advertised levies are the exact same in amount as the previous levy.
-
-8 of the replacement advertised levies are lower in amount compared to the previous levy.
-
-4 of the replacement advertised levies have shorter durations (fewer years) than their previous levy.
-
-7 of the replacement advertised levies have longer durations (more years) than their previous levy.
-
-42 measures have the words 'Educational Programs and Operations' in their titles.
-
-3 measures have the word 'Enrichment' instead of EP&O in their titles.
-
-1 measure has the words 'Maintenance and Operations' in its title.
+- There are 60 school measures in total from 50 school districts from 17 counties.
+- 54 measures are advertised as replacement or renewal levies.
+- 5 measures are advertised as capital levies without the words replacement or renewal in their titles.
+- 1 measure is a redistricting authorization measure and is not a levy.
+- 7 school districts have pro arguments in the voters' guide for their measures.
+- 3 school districts have con arguments in the voters' guide.
+- 43 school districts either didn't allow pro/con arguments for the voters' guide for their measures or could not find volunteers to write either argument.
+- 36 of the replacement advertised levies involve an increase in the amount over the previous levy ranging from 3% to 115% more.
+- 10 of the replacement advertised levies are the exact same in amount as the previous levy.
+- 8 of the replacement advertised levies are lower in amount compared to the previous levy.
+- 4 of the replacement advertised levies have shorter durations (fewer years) than their previous levy.
+- 7 of the replacement advertised levies have longer durations (more years) than their previous levy.
+- 42 measures have the words 'Educational Programs and Operations' in their titles.
+- 3 measures have the word 'Enrichment' instead of EP&O in their titles.
+- 1 measure has the words 'Maintenance and Operations' in its title.
 
 
 
