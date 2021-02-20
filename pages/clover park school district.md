@@ -101,6 +101,7 @@ ___
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 
 [ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesClover Park School District.png "Clover Park School District Selected Duty Titles")
 
