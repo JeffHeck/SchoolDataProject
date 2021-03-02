@@ -66,16 +66,15 @@ ___
 ___
 
 ## Budget Information
+### Note:
+- Operational expenditures are made up of the General Fund Expenses + ASB Fund Expenses + Transportation Vehicle Fund Expenses
+- Capital outlay expenditures are made up of the Capital Projects Fund Expenses. A 4 year rolling average was used.
+- Interest on debt expenditures are made up of the Interest and Other Charges from the Debt Service Fund Expenses
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Mount Adams School DistrictDollars Per Student.png " Dollars Per Student")
+[Historical Total Expenses In Inflation Adjusted Dollars Per Student](pages/hist_spending/SpendForMount Adams School DistrictPerPupilInflationAdjustedBar.png " Dollars Per Student")
 
-[Historical Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Mount Adams School District Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
-
-[Historical Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Mount Adams School District Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
-
-[Historical Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsMount Adams School District.png " Historical and Projected Revenue Sources")
-
-[Historical Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesMount Adams School District.png " Historical and Projected Revenue Sources")
+[Historical Total Expenses In Inflation Adjusted Dollars](pages/hist_spending/SpendForMount Adams School DistrictInflationAdjustedBar.png " Dollars")
 
 [Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentMount Adams School District.png " Historical and Projected Total Enrollment")
 
