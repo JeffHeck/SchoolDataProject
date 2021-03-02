@@ -4,7 +4,7 @@ title: Per Pupil Expenditures
 permalink:
 ---
 
-This report focuses on school district expenditures. WA's school districts and the OSPI generally under report per pupil expenditures (PPE) since they fail 
+This report focuses on school district expenditures. WA's school districts and the OSPI (Washington Office of Superintendent of Public Instruction) generally under report per pupil expenditures (PPE) since they fail 
 to consider capital outlays and interest on debt. A recommended improved definition of per pupil expenditure is used in the following analysis 
 that is similar to the definition used by the NCES (National Center for Education Statistics).
 
@@ -14,7 +14,7 @@ that is similar to the definition used by the NCES (National Center for Educatio
 - Expenditures for public school districts in WA per pupil in constant 2021 dollars (Stacked bar chart)
 - Expenditures for public school districts in WA in constant 2021 dollars (Stacked bar chart)
 - Per pupil expenditure comparison
-- NCES information
+- NCES (National Center for Education Statistics) information
 - Notes
 
 ___
@@ -43,7 +43,7 @@ ___
 
 ___
 
-## NCES information
+## NCES (National Center for Education Statistics) information
 
 [NCES](https://nces.ed.gov/fastfacts/display.asp?id=66)
 
