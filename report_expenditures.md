@@ -52,7 +52,7 @@ ___
 ## Notes
 
 - Operational expenditures are made up of the General Fund Expenses + ASB Fund Expenses + Transportation Vehicle Fund Expenses
-- Capital outlay expenditures are made up of the Capital Projects Fund Expenses. A 4 year rolling average was used.
+- Capital outlay expenditures are made up of the Capital Projects Fund Expenses. A 6 year rolling average was used for individual school districts shown in the PPE comparison chart.
 - Interest on debt expenditures are made up of the Interest and Other Charges from the Debt Service Fund Expenses
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 
