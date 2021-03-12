@@ -4,7 +4,7 @@ title: Per Pupil Expenditures
 permalink:
 ---
 
-This report focuses on school district expenditures. WA's school districts and the OSPI (Washington Office of Superintendent of Public Instruction) generally under report per pupil expenditures (PPE) since they exclude 
+This report focuses on school district expenditures. WA's school districts and the OSPI (Washington Office of Superintendent of Public Instruction) generally underreport per pupil expenditures (PPE) since they exclude 
 capital outlays and interest on debt in their calculations. A recommended improved definition of per pupil expenditures is used in the following analysis 
 that is similar to the definition used by the NCES (National Center for Education Statistics).
 
