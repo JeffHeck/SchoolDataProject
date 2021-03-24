@@ -52,7 +52,8 @@ ___
 ## Notes
 For this analysis:
 
-- Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report
+- Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report. The term "Current" 
+in this context is a government accounting term used to describe expenditures on goods and services normally consumed in the current year.
     - Regular Instruction
     - Special Education
     - Vocational Education
