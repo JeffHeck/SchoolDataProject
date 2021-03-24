@@ -50,10 +50,30 @@ ___
 ___
 
 ## Notes
+For this analysis:
 
-- Operational expenditures are made up of the General Fund Expenses + ASB Fund Expenses + Transportation Vehicle Fund Expenses
-- Capital outlay expenditures are made up of the Capital Projects Fund Expenses. A 6 year rolling average was used for individual school districts shown in the PPE comparison chart.
-- Interest on debt expenditures are made up of the Interest and Other Charges from the Debt Service Fund Expenses
+- Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report
+    - Regular Instruction
+    - Special Education
+    - Vocational Education
+    - Skills Center
+    - Compensatory Programs
+    - Other Instructional Programs
+    - Community Services
+    - Support Services
+    - Student Activities/Other
+- Capital outlay expenditures are made up of the expenditures defined as Capital Outlay in the F196 report
+    - Sites
+    - Building
+    - Equipment
+    - Instructional Technology
+    - Energy
+    - Sales and Lease
+    - Transportation Equipment
+    - Other
+- Interest on debt expenditures and other charges are made up of the following items listed as Debt Service in the OSPI's F196 report
+    - Interest and Other Charges
+    - Bond/Levy Issuance and/or Election
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 
 ___

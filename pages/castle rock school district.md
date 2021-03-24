@@ -74,10 +74,10 @@ ___
 
 ## Budget Information
 ### Note:
-- Operational expenditures are made up of the General Fund Expenses + ASB Fund Expenses + Transportation Vehicle Fund Expenses
-- Capital outlay expenditures are made up of the Capital Projects Fund Expenses. A 6 year rolling average was used.
-- Interest on debt expenditures are made up of the Interest and Other Charges from the Debt Service Fund Expenses
-- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
+- Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report.
+- Capital outlay expenditures are made up of the expenditures defined as Capital Outlay in the F196 report. A 6 year rolling average was used.
+- Interest on debt expenditures and other charges are made up of the following items listed as Debt Service in the F196 report: Interest and Other Charges and Bond/Levy Issuance and/or Election.
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U).
 
 [Historical Total Expenses In Inflation Adjusted Dollars Per Student](pages/hist_spending/SpendForCastle Rock School DistrictPerPupilInflationAdjustedBar.png " Dollars Per Student")
 
