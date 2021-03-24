@@ -76,5 +76,7 @@ in this context is a government accounting term used to describe expenditures on
     - Interest and Other Charges
     - Bond/Levy Issuance and/or Election
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
+- F196 report data example
+![F196 Data Example](pagesManual/ExpendituresReport/F196Example.png "F196 Data Example")
 
 ___
