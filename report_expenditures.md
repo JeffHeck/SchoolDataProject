@@ -14,8 +14,8 @@ that is similar to the definition used by the NCES (National Center for Educatio
 - Per pupil expenditures for public school districts in WA in constant 2021 dollars (Stacked bar chart)
 - Expenditures for public school districts in WA in constant 2021 dollars (Stacked bar chart)
 - Per pupil expenditure comparison
-- Per pupil expenditures (excluding capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Scatter chart)
-- Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Scatter chart)
+- Per pupil expenditures (excluding capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
+- Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
 - NCES (National Center for Education Statistics) information
 - Notes
 
@@ -45,7 +45,7 @@ ___
 
 ___
 
-## Per pupil expenditures (excluding capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Scatter chart)
+## Per pupil expenditures (excluding capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
 
 <!---
 ![Per pupil ESSA scatter](pagesManual/ExpendituresReport/PPE ESSAInflationAdjustedScatter.png "Per pupil ESSA scatter")
@@ -54,7 +54,7 @@ ___
 
 ___
 
-## Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Scatter chart)
+## Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
 
 <!---
 ![Per pupil total scatter](pagesManual/ExpendituresReport/PPE TotalInflationAdjustedScatter.png "Per pupil total scatter")
