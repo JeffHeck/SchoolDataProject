@@ -5,22 +5,9 @@ permalink: educational service district 123
 ---
 
 
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentEducational Service District 123.png " Historical and Projected Total Enrollment")
 
-___
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Educational Service District 123.png " Total Compensation Distribution For Teachers")
 
-## Dual Credit Participation
-
-[Ugrad ESD123 Re-Engagement Program](pages/Dual Credit BarChartEducational Service District 123 Ugrad ESD123 Re-Engagement Program.png "Ugrad ESD123 Re-Engagement Program Dual Credit Participation")
-
-
-___
-
-## Teachers' Compensation Information
-### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
-- Total Salary = Base Salary + Supplemental Salary
-- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
-- Mandatory Benefits include pension funding and payroll taxes
-
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Educational Service District 123 Highlighted.png "Educational Service District 123 Teachers Average Total Salary")
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Educational Service District 123.png " Total Compensation Distribution For District Admins")
 

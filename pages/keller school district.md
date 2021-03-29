@@ -11,43 +11,29 @@ ___
 
 ## Budget Information
 ### Note:
-- The OSPI groups expenses into categories called Objects
+- Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report. The term "Current" in this context is an accounting term used to describe expenditures on goods and services normally consumed in the current year.
+- Capital outlay expenditures are made up of the expenditures defined as Capital Outlay in the F196 report. A 6 year rolling average was used.
+- Interest on debt expenditures and other charges are made up of the following items listed as Debt Service in the F196 report: Interest and Other Charges and Bond/Levy Issuance and/or Election.
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U).
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Keller School DistrictDollars Per Student.png " Dollars Per Student")
+[Historical Total Expenses In Inflation Adjusted Dollars Per Student](pages/hist_spending/SpendForKeller School DistrictPerPupilInflationAdjustedBar.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Keller School DistrictDollars Per StudentLine.png " Dollars Per Student")
+[Historical Total Expenses In Inflation Adjusted Dollars](pages/hist_spending/SpendForKeller School DistrictInflationAdjustedBar.png " Dollars")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentKeller School District.png " Historical and Projected Total Enrollment")
 
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Keller Highlighted.png "Keller School District Teachers Average Total Salary")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Keller School DistrictDuty Title = Elem. Homeroom Teacher.png "Keller School District All Elementary Teachers Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Keller SD in Current DollarsDuty Title = Elementary Teacher.png "Keller School District Elementary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the Keller School DistrictDuty Title = District Level Administrators.png "Keller School District District Level Administrators Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the Keller SD in Current DollarsDuty Title = Superintendent.png "Keller School District Superintendent Compensation History")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesKeller School District.png "Keller School District Selected Duty Titles")
 

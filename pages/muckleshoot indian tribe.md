@@ -37,56 +37,42 @@ ___
 
 ___
 
-## Dual Credit Participation
+## Graduation Rates
 
-[Muckleshoot Tribal School](pages/Dual Credit BarChartMuckleshoot Indian Tribe Muckleshoot Tribal School.png "Muckleshoot Tribal School Dual Credit Participation")
+[4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Muckleshoot Indian Tribe.png " Graduation Rates")
 
 
 ___
 
 ## Budget Information
-### Note:
-- The OSPI groups expenses into categories called Objects
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Muckleshoot Indian TribeDollars Per Student.png " Dollars Per Student")
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Muckleshoot Indian TribeDollars Per Student.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Muckleshoot Indian TribeDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Muckleshoot Indian Tribe Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
+
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Muckleshoot Indian Tribe Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
+
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsMuckleshoot Indian Tribe.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesMuckleshoot Indian Tribe.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentMuckleshoot Indian Tribe.png " Historical and Projected Total Enrollment")
 
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Muckleshoot Indian Tribe Highlighted.png "Muckleshoot Indian Tribe Teachers Average Total Salary")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesMuckleshoot Indian Tribe School District.png "Muckleshoot Indian Tribe Selected Duty Titles")
 
-[ Secondary Teachers' Compensation](pages/Compensation for the Muckleshoot Indian Tribe School DistrictDuty Title = Secondary Teacher.png "Muckleshoot Indian Tribe All Secondary Teachers Compensation")
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Muckleshoot Indian Tribe.png " Total Compensation Distribution For Teachers")
 
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Muckleshoot Indian Tribe School DistrictDuty Title = Elem. Homeroom Teacher.png "Muckleshoot Indian Tribe All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Muckleshoot Indian Tribe SD in Current DollarsDuty Title = Secondary Teacher.png "Muckleshoot Indian Tribe Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Muckleshoot Indian Tribe SD in Current DollarsDuty Title = Elementary Teacher.png "Muckleshoot Indian Tribe Elementary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the Muckleshoot Indian Tribe School DistrictDuty Title = District Level Administrators.png "Muckleshoot Indian Tribe District Level Administrators Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the Muckleshoot Indian Tribe SD in Current DollarsDuty Title = Superintendent.png "Muckleshoot Indian Tribe Superintendent Compensation History")
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Muckleshoot Indian Tribe.png " Total Compensation Distribution For District Admins")
 

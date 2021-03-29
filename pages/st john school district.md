@@ -9,20 +9,6 @@ permalink: st john school district
 
 ___
 
-## SBA 4th Grade ELA
-
-[Chart 1 of 1](pages/SBASt John School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
-
-
-___
-
-## SBA 4th Grade MATH
-
-[Chart 1 of 1](pages/SBASt John School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
-
-
-___
-
 ## SBA 10th Grade ELA
 
 [Chart 1 of 1](pages/SBASt John School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
@@ -39,43 +25,36 @@ ___
 
 ## Dual Credit Participation
 
-[St John Endicott High](pages/Dual Credit BarChartSt John School District St John Endicott High.png "St John Endicott High Dual Credit Participation")
+[St John Endicott High](pages/hist_dual_credit_participation/Dual Credit BarChartSt John School District St John Endicott High.png "St John Endicott High Dual Credit Participation")
 
 
 ___
 
-## Teachers' Compensation Information
+## Budget Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report. The term "Current" in this context is an accounting term used to describe expenditures on goods and services normally consumed in the current year.
+- Capital outlay expenditures are made up of the expenditures defined as Capital Outlay in the F196 report. A 6 year rolling average was used.
+- Interest on debt expenditures and other charges are made up of the following items listed as Debt Service in the F196 report: Interest and Other Charges and Bond/Levy Issuance and/or Election.
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U).
+
+[Historical Total Expenses In Inflation Adjusted Dollars Per Student](pages/hist_spending/SpendForSt John School DistrictPerPupilInflationAdjustedBar.png " Dollars Per Student")
+
+[Historical Total Expenses In Inflation Adjusted Dollars](pages/hist_spending/SpendForSt John School DistrictInflationAdjustedBar.png " Dollars")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSt John School District.png " Historical and Projected Total Enrollment")
+
+
+___
+
+## Historical Compensation Information
+### Note:
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With St John Highlighted.png "St John School District Teachers Average Total Salary")
-
-[ Secondary Teachers' Compensation](pages/Compensation for the St John School DistrictDuty Title = Secondary Teacher.png "St John School District All Secondary Teachers Compensation")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the St John School DistrictDuty Title = Elem. Homeroom Teacher.png "St John School District All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the St John SD in Current DollarsDuty Title = Secondary Teacher.png "St John School District Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the St John SD in Current DollarsDuty Title = Elementary Teacher.png "St John School District Elementary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the St John School DistrictDuty Title = District Level Administrators.png "St John School District District Level Administrators Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the St John SD in Current DollarsDuty Title = Superintendent.png "St John School District Superintendent Compensation History")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesSt John School District.png "St John School District Selected Duty Titles")
 

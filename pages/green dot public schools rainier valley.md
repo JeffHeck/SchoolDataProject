@@ -10,22 +10,20 @@ permalink: green dot public schools rainier valley
 ___
 
 ## Budget Information
-### Note:
-- The OSPI groups expenses into categories called Objects
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Green Dot Public Schools Rainier ValleyDollars Per Student.png " Dollars Per Student")
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Green Dot Public Schools Rainier ValleyDollars Per Student.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Green Dot Public Schools Rainier ValleyDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Green Dot Public Schools Rainier Valley Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Green Dot Public Schools Rainier Valley Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
 
-___
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsGreen Dot Public Schools Rainier Valley.png " Historical and Projected Revenue Sources")
 
-## Teachers' Compensation Information
-### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
-- Total Salary = Base Salary + Supplemental Salary
-- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
-- Mandatory Benefits include pension funding and payroll taxes
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesGreen Dot Public Schools Rainier Valley.png " Historical and Projected Revenue Sources")
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Green Dot Rainier Valley Highlighted.png "Green Dot Public Schools Rainier Valley Teachers Average Total Salary")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentGreen Dot Public Schools Rainier Valley.png " Historical and Projected Total Enrollment")
+
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Green Dot Rainier Valley.png " Total Compensation Distribution For Teachers")
+
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Green Dot Rainier Valley.png " Total Compensation Distribution For District Admins")
 

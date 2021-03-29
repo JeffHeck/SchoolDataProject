@@ -8,19 +8,13 @@ permalink: lake washington institute of technology
 
 ___
 
-## Dual Credit Participation
+## Graduation Rates
 
-[Lake Washington Technical Academy](pages/Dual Credit BarChartLake Washington Institute of Technology Lake Washington Technical Academy.png "Lake Washington Technical Academy Dual Credit Participation")
+[4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Lake Washington Institute of Technology.png " Graduation Rates")
 
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentLake Washington Institute of Technology.png " Historical and Projected Total Enrollment")
 
-___
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Lake Washington Institute of Technology.png " Total Compensation Distribution For Teachers")
 
-## Teachers' Compensation Information
-### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
-- Total Salary = Base Salary + Supplemental Salary
-- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
-- Mandatory Benefits include pension funding and payroll taxes
-
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Lake Washington Institute of Technology Highlighted.png "Lake Washington Institute of Technology Teachers Average Total Salary")
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Lake Washington Institute of Technology.png " Total Compensation Distribution For District Admins")
 

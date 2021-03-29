@@ -61,94 +61,77 @@ ___
 
 ## Dual Credit Participation
 
-[Ballard High School](pages/Dual Credit BarChartSeattle Public Schools Ballard High School.png "Ballard High School Dual Credit Participation")
+[Ballard High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Ballard High School.png "Ballard High School Dual Credit Participation")
 
-[Bridges Transition](pages/Dual Credit BarChartSeattle Public Schools Bridges Transition.png "Bridges Transition Dual Credit Participation")
+[Chief Sealth International High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Chief Sealth International High School.png "Chief Sealth International High School Dual Credit Participation")
 
-[Cascade Parent Partnership Program](pages/Dual Credit BarChartSeattle Public Schools Cascade Parent Partnership Program.png "Cascade Parent Partnership Program Dual Credit Participation")
+[Cleveland High School STEM](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Cleveland High School STEM.png "Cleveland High School STEM Dual Credit Participation")
 
-[Chief Sealth International High School](pages/Dual Credit BarChartSeattle Public Schools Chief Sealth International High School.png "Chief Sealth International High School Dual Credit Participation")
+[Franklin High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Franklin High School.png "Franklin High School Dual Credit Participation")
 
-[Cleveland High School STEM](pages/Dual Credit BarChartSeattle Public Schools Cleveland High School STEM.png "Cleveland High School STEM Dual Credit Participation")
+[Garfield High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Garfield High School.png "Garfield High School Dual Credit Participation")
 
-[Education Service Centers](pages/Dual Credit BarChartSeattle Public Schools Education Service Centers.png "Education Service Centers Dual Credit Participation")
+[Ingraham High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Ingraham High School.png "Ingraham High School Dual Credit Participation")
 
-[Franklin High School](pages/Dual Credit BarChartSeattle Public Schools Franklin High School.png "Franklin High School Dual Credit Participation")
+[Interagency Programs](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Interagency Programs.png "Interagency Programs Dual Credit Participation")
 
-[Garfield High School](pages/Dual Credit BarChartSeattle Public Schools Garfield High School.png "Garfield High School Dual Credit Participation")
+[Middle College High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Middle College High School.png "Middle College High School Dual Credit Participation")
 
-[Ingraham High School](pages/Dual Credit BarChartSeattle Public Schools Ingraham High School.png "Ingraham High School Dual Credit Participation")
+[Nathan Hale High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Nathan Hale High School.png "Nathan Hale High School Dual Credit Participation")
 
-[Interagency Open Doors](pages/Dual Credit BarChartSeattle Public Schools Interagency Open Doors.png "Interagency Open Doors Dual Credit Participation")
+[Nova High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Nova High School.png "Nova High School Dual Credit Participation")
 
-[Interagency Programs](pages/Dual Credit BarChartSeattle Public Schools Interagency Programs.png "Interagency Programs Dual Credit Participation")
+[Rainier Beach High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Rainier Beach High School.png "Rainier Beach High School Dual Credit Participation")
 
-[Middle College High School](pages/Dual Credit BarChartSeattle Public Schools Middle College High School.png "Middle College High School Dual Credit Participation")
+[Roosevelt High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Roosevelt High School.png "Roosevelt High School Dual Credit Participation")
 
-[Nathan Hale High School](pages/Dual Credit BarChartSeattle Public Schools Nathan Hale High School.png "Nathan Hale High School Dual Credit Participation")
+[Seattle World School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools Seattle World School.png "Seattle World School Dual Credit Participation")
 
-[Nova High School](pages/Dual Credit BarChartSeattle Public Schools Nova High School.png "Nova High School Dual Credit Participation")
+[South Lake High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools South Lake High School.png "South Lake High School Dual Credit Participation")
 
-[Rainier Beach High School](pages/Dual Credit BarChartSeattle Public Schools Rainier Beach High School.png "Rainier Beach High School Dual Credit Participation")
+[The Center School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools The Center School.png "The Center School Dual Credit Participation")
 
-[Residential Consortium](pages/Dual Credit BarChartSeattle Public Schools Residential Consortium.png "Residential Consortium Dual Credit Participation")
+[West Seattle High School](pages/hist_dual_credit_participation/Dual Credit BarChartSeattle Public Schools West Seattle High School.png "West Seattle High School Dual Credit Participation")
 
-[Roosevelt High School](pages/Dual Credit BarChartSeattle Public Schools Roosevelt High School.png "Roosevelt High School Dual Credit Participation")
 
-[Seattle World School](pages/Dual Credit BarChartSeattle Public Schools Seattle World School.png "Seattle World School Dual Credit Participation")
+___
 
-[South Lake High School](pages/Dual Credit BarChartSeattle Public Schools South Lake High School.png "South Lake High School Dual Credit Participation")
+## Graduation Rates
 
-[The Center School](pages/Dual Credit BarChartSeattle Public Schools The Center School.png "The Center School Dual Credit Participation")
-
-[West Seattle High School](pages/Dual Credit BarChartSeattle Public Schools West Seattle High School.png "West Seattle High School Dual Credit Participation")
+[4-Year Graduation Rates](pages/hist_grad_rates/Historical 4-Yr Graduation Rate Seattle Public Schools.png " Graduation Rates")
 
 
 ___
 
 ## Budget Information
-### Note:
-- The OSPI groups expenses into categories called Objects
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Seattle Public SchoolsDollars Per Student.png " Dollars Per Student")
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Seattle Public SchoolsDollars Per Student.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Seattle Public SchoolsDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Seattle Public Schools Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
+
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Seattle Public Schools Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
+
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsSeattle Public Schools.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesSeattle Public Schools.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSeattle Public Schools.png " Historical and Projected Total Enrollment")
 
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Seattle Highlighted.png "Seattle Public Schools Teachers Average Total Salary")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesSeattle School District.png "Seattle Public Schools Selected Duty Titles")
 
-[ Secondary Teachers' Compensation](pages/Compensation for the Seattle School DistrictDuty Title = Secondary Teacher.png "Seattle Public Schools All Secondary Teachers Compensation")
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Seattle.png " Total Compensation Distribution For Teachers")
 
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Seattle School DistrictDuty Title = Elem. Homeroom Teacher.png "Seattle Public Schools All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Seattle SD in Current DollarsDuty Title = Secondary Teacher.png "Seattle Public Schools Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Seattle SD in Current DollarsDuty Title = Elementary Teacher.png "Seattle Public Schools Elementary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the Seattle School DistrictDuty Title = District Level Administrators.png "Seattle Public Schools District Level Administrators Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the Seattle SD in Current DollarsDuty Title = Superintendent.png "Seattle Public Schools Superintendent Compensation History")
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Seattle.png " Total Compensation Distribution For District Admins")
 

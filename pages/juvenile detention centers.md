@@ -19,34 +19,9 @@ ___
 
 [Chart 1 of 1](pages/SBAJuvenile Detention Centers10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
 
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentJuvenile Detention Centers.png " Historical and Projected Total Enrollment")
 
-___
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Juvenile Detention Centers.png " Total Compensation Distribution For Teachers")
 
-## Dual Credit Participation
-
-[Benton Franklin Juvenile Justice Center](pages/Dual Credit BarChartJuvenile Detention Centers Benton Franklin Juvenile Justice Center.png "Benton Franklin Juvenile Justice Center Dual Credit Participation")
-
-[Interagency Detention School](pages/Dual Credit BarChartJuvenile Detention Centers Interagency Detention School.png "Interagency Detention School Dual Credit Participation")
-
-[Island Juvenile Detention Education Program](pages/Dual Credit BarChartJuvenile Detention Centers Island Juvenile Detention Education Program.png "Island Juvenile Detention Education Program Dual Credit Participation")
-
-[Juvenile Detention Center](pages/Dual Credit BarChartJuvenile Detention Centers Juvenile Detention Center.png "Juvenile Detention Center Dual Credit Participation")
-
-[Mason County Detention Center](pages/Dual Credit BarChartJuvenile Detention Centers Mason County Detention Center.png "Mason County Detention Center Dual Credit Participation")
-
-[Thurs Co Juv Det Tumwater West E](pages/Dual Credit BarChartJuvenile Detention Centers Thurs Co Juv Det Tumwater West E.png "Thurs Co Juv Det Tumwater West E Dual Credit Participation")
-
-[Yakima Adult Jail](pages/Dual Credit BarChartJuvenile Detention Centers Yakima Adult Jail.png "Yakima Adult Jail Dual Credit Participation")
-
-
-___
-
-## Teachers' Compensation Information
-### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
-- Total Salary = Base Salary + Supplemental Salary
-- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
-- Mandatory Benefits include pension funding and payroll taxes
-
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Juvenile Detention Centers Highlighted.png "Juvenile Detention Centers Teachers Average Total Salary")
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Juvenile Detention Centers.png " Total Compensation Distribution For District Admins")
 

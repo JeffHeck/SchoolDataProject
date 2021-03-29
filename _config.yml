@@ -1,4 +1,4 @@
-title: School Data Project
+title: The School Data Project
 #email: your-email@example.com
 description: An ongoing analysis of Washington State's public K-12 schools.
 #author:  
@@ -24,7 +24,7 @@ rss: rss
 # - username: jekyll2
 #   instance: example.com
 
-
+paginate: 10 # Needed to show more than 1 post on the home page
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format

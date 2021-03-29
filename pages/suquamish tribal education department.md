@@ -32,43 +32,40 @@ ___
 
 ## Dual Credit Participation
 
-[Chief Kitsap Academy](pages/Dual Credit BarChartSuquamish Tribal Education Department Chief Kitsap Academy.png "Chief Kitsap Academy Dual Credit Participation")
+[Chief Kitsap Academy](pages/hist_dual_credit_participation/Dual Credit BarChartSuquamish Tribal Education Department Chief Kitsap Academy.png "Chief Kitsap Academy Dual Credit Participation")
 
 
 ___
 
 ## Budget Information
-### Note:
-- The OSPI groups expenses into categories called Objects
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Suquamish Tribal Education DepartmentDollars Per Student.png " Dollars Per Student")
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Suquamish Tribal Education DepartmentDollars Per Student.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Suquamish Tribal Education DepartmentDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/Suquamish Tribal Education Department Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
+
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/Suquamish Tribal Education Department Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
+
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsSuquamish Tribal Education Department.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesSuquamish Tribal Education Department.png " Historical and Projected Revenue Sources")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSuquamish Tribal Education Department.png " Historical and Projected Total Enrollment")
 
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Suquamish Tribal Education Department Highlighted.png "Suquamish Tribal Education Department Teachers Average Total Salary")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesSuquamish Tribal Education Department School District.png "Suquamish Tribal Education Department Selected Duty Titles")
 
-[ Secondary Teachers' Compensation](pages/Compensation for the Suquamish Tribal Education Department School DistrictDuty Title = Secondary Teacher.png "Suquamish Tribal Education Department All Secondary Teachers Compensation")
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Suquamish Tribal Education Department.png " Total Compensation Distribution For Teachers")
 
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Suquamish Tribal Education Department SD in Current DollarsDuty Title = Secondary Teacher.png "Suquamish Tribal Education Department Secondary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the Suquamish Tribal Education Department School DistrictDuty Title = District Level Administrators.png "Suquamish Tribal Education Department District Level Administrators Compensation")
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Suquamish Tribal Education Department.png " Total Compensation Distribution For District Admins")
 

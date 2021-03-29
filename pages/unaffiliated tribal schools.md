@@ -19,22 +19,9 @@ ___
 
 [Chart 1 of 1](pages/SBAUnaffiliated Tribal Schools10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
 
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentUnaffiliated Tribal Schools.png " Historical and Projected Total Enrollment")
 
-___
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Unaffiliated Tribal Schools.png " Total Compensation Distribution For Teachers")
 
-## Dual Credit Participation
-
-[Chief Leschi Schools](pages/Dual Credit BarChartUnaffiliated Tribal Schools Chief Leschi Schools.png "Chief Leschi Schools Dual Credit Participation")
-
-
-___
-
-## Teachers' Compensation Information
-### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
-- Total Salary = Base Salary + Supplemental Salary
-- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
-- Mandatory Benefits include pension funding and payroll taxes
-
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Unaffiliated Tribal Schools Highlighted.png "Unaffiliated Tribal Schools Teachers Average Total Salary")
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Unaffiliated Tribal Schools.png " Total Compensation Distribution For District Admins")
 

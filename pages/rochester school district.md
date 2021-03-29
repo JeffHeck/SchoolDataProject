@@ -23,72 +23,54 @@ ___
 
 ___
 
-## SBA 8th Grade ELA
+## SBA 10th Grade ELA
 
-[Chart 1 of 1](pages/SBARochester School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+[Chart 1 of 1](pages/SBARochester School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
 
 
 ___
 
-## SBA 8th Grade MATH
+## SBA 10th Grade MATH
 
-[Chart 1 of 1](pages/SBARochester School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+[Chart 1 of 1](pages/SBARochester School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
 
 
 ___
 
 ## Dual Credit Participation
 
-[Heart High School](pages/Dual Credit BarChartRochester School District Heart High School.png "Heart High School Dual Credit Participation")
+[Heart High School](pages/hist_dual_credit_participation/Dual Credit BarChartRochester School District Heart High School.png "Heart High School Dual Credit Participation")
 
-[Rochester High School](pages/Dual Credit BarChartRochester School District Rochester High School.png "Rochester High School Dual Credit Participation")
+[Rochester High School](pages/hist_dual_credit_participation/Dual Credit BarChartRochester School District Rochester High School.png "Rochester High School Dual Credit Participation")
 
 
 ___
 
 ## Budget Information
 ### Note:
-- The OSPI groups expenses into categories called Objects
+- Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report. The term "Current" in this context is an accounting term used to describe expenditures on goods and services normally consumed in the current year.
+- Capital outlay expenditures are made up of the expenditures defined as Capital Outlay in the F196 report. A 6 year rolling average was used.
+- Interest on debt expenditures and other charges are made up of the following items listed as Debt Service in the F196 report: Interest and Other Charges and Bond/Levy Issuance and/or Election.
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U).
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the Rochester School DistrictDollars Per Student.png " Dollars Per Student")
+[Historical Total Expenses In Inflation Adjusted Dollars Per Student](pages/hist_spending/SpendForRochester School DistrictPerPupilInflationAdjustedBar.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the Rochester School DistrictDollars Per StudentLine.png " Dollars Per Student")
+[Historical Total Expenses In Inflation Adjusted Dollars](pages/hist_spending/SpendForRochester School DistrictInflationAdjustedBar.png " Dollars")
+
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentRochester School District.png " Historical and Projected Total Enrollment")
 
 
 ___
 
-## Teachers' Compensation Information
+## Historical Compensation Information
 ### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
+- District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
+- Principal includes duty titles of Elementary Principal, Secondary Principal
+- Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
 - Total Salary = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
+- Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Rochester Highlighted.png "Rochester School District Teachers Average Total Salary")
-
-[ Secondary Teachers' Compensation](pages/Compensation for the Rochester School DistrictDuty Title = Secondary Teacher.png "Rochester School District All Secondary Teachers Compensation")
-
-[ Elem. Homeroom Teachers' Compensation](pages/Compensation for the Rochester School DistrictDuty Title = Elem. Homeroom Teacher.png "Rochester School District All Elementary Teachers Compensation")
-
-[ Secondary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Rochester SD in Current DollarsDuty Title = Secondary Teacher.png "Rochester School District Secondary Teachers Historical Compensation")
-
-[ Elementary Teachers' Historical Average Compensation](pages/Historical Average Compensation for the Rochester SD in Current DollarsDuty Title = Elementary Teacher.png "Rochester School District Elementary Teachers Historical Compensation")
-
-
-___
-
-## District Level Administrators' Compensation
-
-### Note:
-- Duty titles include Superintendent, Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
-- Sorted in pyramid order (highest in the center, lowest on the ends) to highlight possible concentrations of excess.
-
-[ District Level Administrators' Compensation](pages/Compensation for the Rochester School DistrictDuty Title = District Level Administrators.png "Rochester School District District Level Administrators Compensation")
-
-
-___
-
-## Superintendents' Compensation History
-
-[ Superintendents' Compensation History](pages/Historical Compensation for the Rochester SD in Current DollarsDuty Title = Superintendent.png "Rochester School District Superintendent Compensation History")
+[ Historical Compensation for Selected Duty Titles](pages/hist_ave_comp_sel_duty/Historical Ave Compensation for Selected Duty TitlesRochester School District.png "Rochester School District Selected Duty Titles")
 

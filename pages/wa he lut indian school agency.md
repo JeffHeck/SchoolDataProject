@@ -31,22 +31,20 @@ ___
 ___
 
 ## Budget Information
-### Note:
-- The OSPI groups expenses into categories called Objects
 
-[Historical Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the WA HE LUT Indian School AgencyDollars Per Student.png " Dollars Per Student")
+[Historical and Projected Total Expenses (All Funds) In Dollars Per Student](pages/Expense History for the WA HE LUT Indian School AgencyDollars Per Student.png " Dollars Per Student")
 
-[Historical Gen Fund Expenses By Objects In Dollars Per Student](pages/Expense History by Objects for the WA HE LUT Indian School AgencyDollars Per StudentLine.png " Dollars Per Student")
+[Historical and Projected Revenues and Expenses (General Fund) In Dollars Per Student](pages/hist_proj_budget/WA HE LUT Indian School Agency Revenues and Expenses Per Student General Fund.png " Historical and Projected Revenue and Expense")
 
+[Historical and Projected Revenues and Expenses (General Fund) In Total Dollars](pages/hist_proj_budget/WA HE LUT Indian School Agency Revenues and Expenses General Fund.png " Historical and Projected Revenue and Expense")
 
-___
+[Historical and Projected Revenue Sources (General Fund) In Dollars Per Student](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue Sources In Per Student DollarsWA HE LUT Indian School Agency.png " Historical and Projected Revenue Sources")
 
-## Teachers' Compensation Information
-### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
-- Total Salary = Base Salary + Supplemental Salary
-- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
-- Mandatory Benefits include pension funding and payroll taxes
+[Historical and Projected Revenue Sources (General Fund) In Total Dollars](pages/hist_proj_gen_fund_rev_sources/General Fund Revenue SourcesWA HE LUT Indian School Agency.png " Historical and Projected Revenue Sources")
 
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With WA HE LUT Indian School Agency Highlighted.png "WA HE LUT Indian School Agency Teachers Average Total Salary")
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentWA HE LUT Indian School Agency.png " Historical and Projected Total Enrollment")
+
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and WA HE LUT Indian School Agency.png " Total Compensation Distribution For Teachers")
+
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and WA HE LUT Indian School Agency.png " Total Compensation Distribution For District Admins")
 

@@ -5,15 +5,9 @@ permalink: bates technical college
 ---
 
 
+[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentBates Technical College.png " Historical and Projected Total Enrollment")
 
-___
+[Total Compensation Distribution For Teachers For The Last Two Years](pages/comp_dist_teacher/Total Compensation Percentiles for Duty Title of TeacherState-Wide and Bates Technical College.png " Total Compensation Distribution For Teachers")
 
-## Teachers' Compensation Information
-### Note:
-- Duty titles include Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
-- Total Salary = Base Salary + Supplemental Salary
-- Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
-- Mandatory Benefits include pension funding and payroll taxes
-
-[ Teachers' Average Compensation Comparison](pages/Average Compensation for TeachersAll WA School Districts With Bates Technical College Highlighted.png "Bates Technical College Teachers Average Total Salary")
+[Total Compensation Distribution For District Admin. And Supt. For The Last Two Years](pages/comp_dist_admin/Total Compensation Percentiles for Duty Title of District Admin and Supt.State-Wide and Bates Technical College.png " Total Compensation Distribution For District Admins")
 
