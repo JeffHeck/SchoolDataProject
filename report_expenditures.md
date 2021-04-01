@@ -51,6 +51,16 @@ ___
 -->
 {% include ppe_report/PPE_TotalInflationAdjusted.html %}
 
+### Tips on using the interactive capabilities:
+- As you hover your mouse over a bubble, pertinent details are displayed.
+- As you hover your mouse over any part of the chart, a special menu of icons appears just above the chart. 
+- There are icons to zoom in and out, or zoom into a rectangular area.
+- There are icons to pan, auto scale and to reset the axes.
+- The legend is active and offers the ability to filter the districts displayed by county.
+- To remove all bubbles from the chart except for those for one county, double click (2 rapid mouse clicks) on the county name in the legend.
+- You can also toggle on additional counties one at a time by a single click on the county names in the legend of the additional counties of interest.
+- If you want all counties on, double click any county in the legend that is off.
+
 ___
 
 
