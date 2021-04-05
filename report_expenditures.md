@@ -15,7 +15,7 @@ that is similar to the definition used by the NCES (National Center for Educatio
 - Expenditures for public school districts in WA in constant 2021 dollars (Stacked bar chart)
 - Per pupil expenditure comparison
 - Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
-- Student to teacher ratios for public school districts in WA (Interactive scatter chart)
+    - Additional list of interactive per pupil expenditures related charts
 - NCES (National Center for Education Statistics) information
 - Appendix
 
@@ -62,14 +62,8 @@ ___
 - You can also toggle on additional counties one at a time by a single click on the county names in the legend of the additional counties of interest.
 - If you want all counties on, double click any county in the legend that is off.
 
-___
 
-## Student to teacher ratios for public school districts in WA (Interactive scatter chart)
-
-{% include ppe_report/StudentsPerTeacher.html %}
-
-### Note
-- Student-to-Teacher Ratio represents the total distinct count of students enrolled in the organization on October 1st of the given school year divided by the total distinct number of classroom teachers in the organization.
+[Additional list of interactive per pupil expenditures related charts](per_pupil_expenditures_list)
 
 ___
 
