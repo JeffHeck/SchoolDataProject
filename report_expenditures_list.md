@@ -4,17 +4,17 @@ title: Per Pupil Expenditures Related Sub-reports List
 permalink: per_pupil_expenditures_list
 ---
 
-[Aides Total Compensation Per Pupil](aides_total_compensation_per_pupil)
+[Total Compensation Per Pupil For Aides](aides_total_compensation_per_pupil)
 
-[Central District Administrators Total Compensation Per Pupil](central_district_administrators_total_compensation_per_pupil)
+[Total Compensation Per Pupil For Central District Administrators](central_district_administrators_total_compensation_per_pupil)
 
-[Non-Teaching Staff Total Compensation Per Pupil](non_teaching_staff_total_compensation_per_pupil)
+[Total Compensation Per Pupil For Non-Teaching Staff](non_teaching_staff_total_compensation_per_pupil)
 
-[Superintendents Total Compensation Per Pupil](superintendents_total_compensation_per_pupil)
+[Total Compensation Per Pupil For Superintendents](superintendents_total_compensation_per_pupil)
 
 [Student To Teacher Ratios](students_per_teacher)
 
-[Per Pupil Expenditures](total_expenditures_per_pupil)
+[Total Per Pupil Expenditures](total_expenditures_per_pupil)
 
 ## Tips on using the interactive capabilities:
 - As you hover your mouse over a bubble, pertinent details are displayed.

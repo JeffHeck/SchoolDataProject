@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Non-Teaching Staff Total Compensation Per Pupil
+title: Total Compensation Per Pupil For Non-Teaching Staff
 permalink: non_teaching_staff_total_compensation_per_pupil
 ---
 

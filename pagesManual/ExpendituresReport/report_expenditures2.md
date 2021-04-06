@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Central District Administrators Total Compensation Per Pupil
+title: Total Compensation Per Pupil For Central District Administrators
 permalink: central_district_administrators_total_compensation_per_pupil
 ---
 
