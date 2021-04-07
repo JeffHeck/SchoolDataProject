@@ -12,7 +12,7 @@ permalink: per_pupil_expenditures_list
 
 [Total Compensation Per Pupil For Teaching Staff](teaching_staff_total_compensation_per_pupil)
 
-[Total Compensation Per Pupil For Superintendents](superintendents_total_compensation_per_pupil)
+[Total Compensation For Superintendents](superintendents_total_compensation)
 
 [Average Class Size](average_class_size)
 

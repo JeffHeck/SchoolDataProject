@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Total Compensation Per Pupil For Superintendents
-permalink: superintendents_total_compensation_per_pupil
+permalink: superintendents_total_compensation
 ---
 
 
-{% include ppe_report/ScatterSuperintendentsTotalCompensationPerStudentAllDistricts.html %}
+{% include ppe_report/ScatterSuperintendentsTotalCompensationAllDistricts.html %}
 
 
 
