@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Total Compensation Per Pupil For Superintendents
+title: Total Compensation For Superintendents
 permalink: superintendents_total_compensation
 ---
 
