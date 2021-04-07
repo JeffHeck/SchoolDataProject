@@ -14,6 +14,8 @@ permalink: per_pupil_expenditures_list
 
 [Total Compensation Per Pupil For Superintendents](superintendents_total_compensation_per_pupil)
 
+[Average Class Size](average_class_size)
+
 [Student To Teacher Ratios](students_per_teacher)
 
 [Total Per Pupil Expenditures](total_expenditures_per_pupil)
