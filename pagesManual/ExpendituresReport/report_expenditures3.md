@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Total Compensation For Superintendents
+title: Total Compensation For Superintendents Vs Enrollments
 permalink: superintendents_total_compensation
 ---
 
