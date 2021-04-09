@@ -31,3 +31,54 @@ permalink: per_pupil_expenditures_list
 - To remove all bubbles from the chart except for those for one county, double click (2 rapid mouse clicks) on the county name in the legend.
 - You can also toggle on additional counties one at a time by a single click on the county names in the legend of the additional counties of interest.
 - If you want all counties on, double click any county in the legend that is off.
+
+## Appendix
+### Methodology and sample calculations
+
+Total Compensation For Superintendents Vs Enrollments
+
+Sample School District: Tacoma SD
+
+[OSPI's S275 Data](https://www.k12.wa.us/safs-database-files)
+
+School Year: 2019-2020
+
+[OSPI's S275 Data for 2019-2020](https://www.k12.wa.us/sites/default/files/public/safs/pub/per/1920/Washington_State_School_Personnel_-_School_Year_2019-2020.pdf)
+
+Superintendent's compensation:
+
+Base Salary: $304,874
+
+Supplemental Salary: $48,163
+
+Total Salary: $353,037
+
+Insurance Benefits: $11,968
+
+Mandatory Benefits: $59,513
+
+Total Compensation: $353,037 + $11,968 + $59,513 = $424,518
+
+Enrollments were gathered from the OSPI's report card dataset download
+
+[Tacoma SD Report Card](https://washingtonstatereportcard.ospi.k12.wa.us/ReportCard/ViewSchoolOrDistrict/100261)
+
+Total Enrollment: 30,394
+
+Total Compensation for the Superintendent Per Student
+
+For Tacoma = $424,518 / 30,394 = $14
+
+The following reports were calculated similar to the Total Compensation For Superintendents Vs Enrollments using the S275 report data:
+- Total Compensation Per Pupil For Aides Vs Enrollments
+- Total Compensation Per Pupil For Central District Administrators Vs Enrollments
+- Total Compensation Per Pupil For Non-Teaching Staff Vs Enrollments
+- Total Compensation Per Pupil For Teaching Staff Vs Enrollments
+
+For the Total Compensation For Superintendents Vs Percent Low Income Students report, the Percent Low Income Students data was collected from the OSPI's report card dataset download.
+
+[Tacoma SD Report Card](https://washingtonstatereportcard.ospi.k12.wa.us/ReportCard/ViewSchoolOrDistrict/100261)
+
+For the Average Class Size Vs Percent Low Income Students report and the Student To Teacher Ratios Vs Percent Low Income Students report, the OSPI's report card dataset download for teacher and class size data was used.
+
+[Tacoma SD Report Card](https://washingtonstatereportcard.ospi.k12.wa.us/ReportCard/ViewSchoolOrDistrict/100261)
