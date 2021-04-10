@@ -102,5 +102,7 @@ in this context is a government accounting term used to describe expenditures on
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 - F196 report data example
 ![F196 Data Example](pagesManual/ExpendituresReport/F196Example.png "F196 Data Example")
+- Example PPE calculation for the Tacoma SD
+![PPE Example Calculation](pagesManual/ExpendituresReport/ppeQA.png "PPE Example Calculation")
 
 ___
