@@ -53,9 +53,9 @@ Supplemental Salary: $48,163
 
 Total Salary: $353,037
 
-Insurance Benefits: $11,968
+Insurance Benefits (medical and dental): $11,968
 
-Mandatory Benefits: $59,513
+Mandatory Benefits (pension funding and payroll taxes): $59,513
 
 Total Compensation: $353,037 + $11,968 + $59,513 = $424,518
 
