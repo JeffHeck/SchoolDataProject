@@ -1,6 +1,6 @@
 ---
 layout: page
-title: School Levies April 27 2021
+title: School Levies April 27th 2021
 permalink: report_levies_20210427
 ---
 
@@ -9,7 +9,6 @@ permalink: report_levies_20210427
 - Summary
 - Summary table
 - Sources
-
 
 ___
 
@@ -23,8 +22,6 @@ For the April 27th, 2021 special election:
 - 10 of the school districts did not allow pro/con arguments for a voters' guide or pamphlet.
 - 1 school district (Orcas Island SD) allowed pro/con arguments for the voters' pamphlet - but only pro arguments were gathered and published. No con arguments.
 
-
-
 ___
 
 ## Summary table
@@ -32,7 +29,6 @@ ___
 ![Summary table](pagesManual/LeviesReport/SchoolDistrictMeasures20210427.png "Summary table")
 
 ___
-
 
 ## Sources
 
