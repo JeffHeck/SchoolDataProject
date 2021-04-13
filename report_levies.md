@@ -18,6 +18,7 @@ There were 60 school measures on the February 9th, 2021 ballot in Washington Sta
 - Example replacement levy advertisement: Spokane SD
 - Methodology
 - Sources
+- Addendum (4/27/21 election)
 
 
 ___
@@ -125,5 +126,12 @@ Levy amounts and levy rates were obtained from current election and previous ele
 For the 7 counties that did not have either their current or past sample ballots online, a request was submitted to obtain electronic copies.
 
 School districts' levy fact sheets and levy flyers posted on their official websites were reviewed for incongruent words and phrases.
+
+___
+
+## Addendum (4/27/21 election)
+
+[April 27th, 2021 election](report_levies_20210427)
+
 
 ___
