@@ -18,7 +18,7 @@ For the April 27th, 2021 special election:
 - There are 11 school district measures from 11 school districts from 8 counties. 
 - 9 of the measures are Enhancement Levies advertised as EP&O Replacement Levies.
 - 1 measure is a Technology Capital Projects Levy.
-- 1 measure is a Capital Levy to Improve Schools.
+- 1 measure, from the Edmonds SD, is a Capital Projects Levy for new building construction and building maintenance. This is the largest levy this election at $180M.
 - 10 of the school districts did not allow pro/con arguments for a voters' guide or pamphlet.
 - 1 school district (Orcas Island SD) allowed pro/con arguments for the voters' pamphlet - but only pro arguments were gathered and published. No con arguments.
 
