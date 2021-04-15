@@ -23,6 +23,10 @@ on the ballot last year, 2020, as part of a $600M Edmonds SD bond which failed t
 were allowed.
 - 10 of the school districts, including Edmonds, did not allow pro/con arguments for a voters' guide or pamphlet.
 - 1 school district (Orcas Island SD) allowed pro/con arguments for the voters' pamphlet - but only pro arguments were gathered and published. No con arguments.
+- Only 1 county (San Juan) out of the 8 provided a voters' pamphlet to its voters. Voters' pamphlets usually have both pro and con arguments and rebuttals for each measure. For this election, San Juan was only able to gather and published pro arguments
+for all of its measures.
+
+[San Juan County Voters' Pamphlet for the April 27th 2021 Election](https://www.sanjuanco.com/DocumentCenter/View/22545/FINAL---2021-April-Special-Local-Voters-Pamphlet?bidId=)
 
 ___
 
