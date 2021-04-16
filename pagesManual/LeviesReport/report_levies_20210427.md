@@ -17,7 +17,7 @@ ___
 For the April 27th, 2021 special election:
 - There are 11 school district measures from 11 school districts from 8 counties. 
 - 9 of the measures are Enhancement Levies advertised as EP&O Replacement Levies.
-- 1 measure, from Orcas Island SD, is advertised as a Replacement Capital Projects / Technology Levy.
+- 1 measure, from the Orcas Island SD, is advertised as a Replacement Capital Projects / Technology Levy.
 - 1 measure, from the Edmonds SD, is a Capital Projects Levy for new building construction and building maintenance. This is the largest levy this election at $180M. The projects in this 2021 Edmonds SD levy were 
 on the ballot last year, 2020, as part of a $600M Edmonds SD bond which failed to achieve 60% approval. This scaled down levy version only needs 50% voter approval. Similar to the 2020 bond, no pro/con statements in a voters' pamphlet 
 were allowed.
