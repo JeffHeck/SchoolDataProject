@@ -22,7 +22,7 @@ For the April 27th, 2021 special election:
 - 10 of the school districts did not allow pro/con arguments for a voters' guide or pamphlet.
 - 1 school district (Orcas Island SD) allowed pro/con arguments for the voters' pamphlet - but only pro arguments were gathered and published.
 - 1 county (San Juan) out of the 8 counties with school measures provided a voters' pamphlet to its voters. Voters' pamphlets usually have both pro and con arguments and rebuttals for each measure. 
-San Juan County was only able to gather and published pro arguments for all of its measures. <br> 
+San Juan County was only able to gather and publish pro arguments for all of its measures. <br> 
 [San Juan County Voters' Pamphlet for the April 27th 2021 Election](https://www.sanjuanco.com/DocumentCenter/View/22545/FINAL---2021-April-Special-Local-Voters-Pamphlet?bidId=)
 
 ___
