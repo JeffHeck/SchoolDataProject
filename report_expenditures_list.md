@@ -14,12 +14,12 @@ ___
 
 ## Interactive charts for expenditure statistics
 - [Total Compensation Per Pupil For Aides Vs Enrollments](aides_total_compensation_per_pupil)
+- [Total Compensation Per Pupil For Assistant Superintendents Vs Enrollments](assistant_superintendents_total_compensation)
 - [Total Compensation Per Pupil For Central District Administrators Vs Enrollments](central_district_administrators_total_compensation_per_pupil)
 - [Total Compensation Per Pupil For Non-Teaching Staff Vs Enrollments](non_teaching_staff_total_compensation_per_pupil)
 - [Total Compensation Per Pupil For Teaching Staff Vs Enrollments](teaching_staff_total_compensation_per_pupil)
 - [Total Compensation For Superintendents Vs Enrollments](superintendents_total_compensation)
 - [Total Compensation For Superintendents Vs Percent Low Income Students](superintendents_total_compensation_vs_low_income_students)
-- [Total Compensation Per Pupil For Assistant Superintendents Vs Enrollments](assistant_superintendents_total_compensation)
 - [Average Class Size Vs Percent Low Income Students](average_class_size)
 - [Student To Teacher Ratios Vs Percent Low Income Students](students_per_teacher)
 - [Total Per Pupil Expenditures Vs Percent Low Income Students](total_expenditures_per_pupil)
