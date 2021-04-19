@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Total Compensation For Assistant Superintendents Vs Enrollments
+title: Total Compensation Per Pupil For Assistant Superintendents
 permalink: assistant_superintendents_total_compensation
 ---
 
