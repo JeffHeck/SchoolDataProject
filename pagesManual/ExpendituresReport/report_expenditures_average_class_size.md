@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Average Class Size
+title: Average Class Sizes Vs Percent Low Income Students
 permalink: average_class_size
 ---
 

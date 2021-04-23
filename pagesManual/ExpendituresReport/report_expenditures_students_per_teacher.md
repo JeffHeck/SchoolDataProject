@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students Per Teacher Ratios
+title: Students Per Teacher Ratios Vs Percent Low Income Students
 permalink: students_per_teacher
 ---
 
