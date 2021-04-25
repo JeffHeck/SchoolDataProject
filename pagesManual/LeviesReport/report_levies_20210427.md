@@ -8,7 +8,7 @@ permalink: report_levies_20210427
 ## Contents
 - Summary
 - Summary table
-- Edmonds SD's capital levy cost example
+- Taxpayer cost example for the Edmonds SD's capital levy
 - Sources
 
 ___
@@ -34,7 +34,7 @@ ___
 
 ___
 
-## Edmonds SD's capital levy cost example
+## Taxpayer cost example for the Edmonds SD's capital levy
 
 ![Edmonds SD](pagesManual/LeviesReport/EdmondsSDLevyDatasheet.png "Edmonds SD")
 
