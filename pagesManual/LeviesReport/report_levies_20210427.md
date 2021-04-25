@@ -8,6 +8,7 @@ permalink: report_levies_20210427
 ## Contents
 - Summary
 - Summary table
+- Edmonds SD's capital levy cost example
 - Sources
 
 ___
@@ -30,6 +31,12 @@ ___
 ## Summary table
 
 ![Summary table](pagesManual/LeviesReport/SchoolDistrictMeasures20210427.png "Summary table")
+
+___
+
+## Edmonds SD's capital levy cost example
+
+![Edmonds SD](pagesManual/LeviesReport/EdmondsSDLevyDatasheet.png "Edmonds SD")
 
 ___
 
