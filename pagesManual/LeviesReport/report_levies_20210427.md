@@ -26,7 +26,7 @@ For the April 27th, 2021 special election:
 San Juan County was only able to gather pro arguments for all of its measures. <br> 
 [San Juan County Voters' Pamphlet for the April 27th 2021 Election](https://www.sanjuanco.com/DocumentCenter/View/22545/FINAL---2021-April-Special-Local-Voters-Pamphlet?bidId=)
 <br>
-While the San Juan County Elections Office created a pdf Voters' Pamphlet, they did NOT mail it to their voters. San Juan County only mails a voters' pamphlet to voters during the primary and general elections in August and November.
+While the San Juan County Elections Office created a pdf Voters' Pamphlet for their website, they did not mail it to their voters. San Juan County only mails a voters' pamphlet to voters during the primary and general elections in August and November.
 
 ___
 
