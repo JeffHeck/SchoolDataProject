@@ -22,9 +22,11 @@ For the April 27th, 2021 special election:
 - 1 measure, from the Edmonds SD, is a Capital Projects Levy for new building construction and building maintenance. This is the largest levy this election at $180M.
 - 10 of the school districts did not allow pro/con arguments for a voters' guide or pamphlet.
 - 1 school district (Orcas Island SD) allowed pro/con arguments for the voters' pamphlet - but only pro arguments were gathered and published.
-- 1 county (San Juan) out of the 8 counties with school measures provided a voters' pamphlet to its voters. Voters' pamphlets usually have both pro and con arguments and rebuttals for each measure. 
+- 1 county (San Juan), out of the 8 counties with school measures, created a voters' pamphlet. Voters' pamphlets usually have both pro and con arguments and rebuttals for each measure. 
 San Juan County was only able to gather and publish pro arguments for all of its measures. <br> 
 [San Juan County Voters' Pamphlet for the April 27th 2021 Election](https://www.sanjuanco.com/DocumentCenter/View/22545/FINAL---2021-April-Special-Local-Voters-Pamphlet?bidId=)
+<br>
+While the San Juan County Elections Office created a pdf Voters' Pamphlet, they did NOT mail it to voters. San Juan County only mails a voters' pamphlet to voters during the primary and general elections in August and November.
 
 ___
 
