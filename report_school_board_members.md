@@ -51,7 +51,7 @@ ___
 
 680 rows. One for each school board member race.
 
-|County|District|Race|Term Type|Term Length|Candidate Count|
+|County|District|Race|Term Type|Term Length|Number Of Candidates|
 |---|---|---|---|---|---|
 |GRAYS HARBOR|ABERDEEN SCHOOL DISTRICT|SCHOOL 5 POSITION 4|Regular|4|2|
 |GRAYS HARBOR|ABERDEEN SCHOOL DISTRICT|SCHOOL 5 POSITION 5|Regular|4|2|
