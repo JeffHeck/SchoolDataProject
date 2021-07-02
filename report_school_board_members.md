@@ -10,7 +10,7 @@ There are 295 traditional public school districts in Washington State. 290 have 
 
 ## Contents
 - Summary
-- Summary Table
+- Data Table
 - Data Source
 
 
@@ -43,7 +43,7 @@ WA' public charter schools do not have elected school board members
 
 ___
 
-## Summary Table
+## Data Table
 
 |County|School District|Race|Candidate Count|
 |---|---|---|---|
