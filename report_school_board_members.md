@@ -45,8 +45,6 @@ Term types and term lengths
 - Orondo SD
 - Southside SD
 
-WA's public charter schools do not have elected school board members
-
 ___
 
 ## Data Table

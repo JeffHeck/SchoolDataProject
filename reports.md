@@ -4,6 +4,7 @@ title: Reports
 permalink:
 ---
 
+- [School Board Member Elections 2021 Ballot](report_school_board_members)
 - [School Levies on the April 27th 2021 Ballot](report_levies_20210427)
 - [School Levies on the February 9th 2021 Ballot](report_levies)
 - [Per Pupil Expenditures](report_expenditures)
