@@ -33,7 +33,7 @@ ___
 - 1 race has 8 candidates (Spokane SD Position 3).
 
 Term types and term lengths
-- 1 race is a regular 2 term type (Harrington SD).
+- 1 race is a regular 2 year term length type (Harrington SD).
 - 68 races are of the unexpired type. 2 years remaining.
 - 3 school districts have 6 year terms (Everett SD, Spokane SD, Tacoma SD).
 - All other districts have 4 year terms.
