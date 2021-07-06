@@ -4,8 +4,7 @@ title: School Board Member Elections in 2021
 permalink:
 ---
 
-Published: 7/1/2021
-Updated: 7/6/2021
+Published: 7/1/2021. Updated: 7/6/2021
 
 There are 295 traditional public school districts in Washington State. 291 have 1 or more board members up for election in 2021. 
 
@@ -49,7 +48,7 @@ ___
 
 ## Data Table
 
-680 rows. One for each school board member race.
+685 rows - one for each school board member race.
 
 |County|District|Race|Term Type|Term Length|Number Of Candidates|
 |---|---|---|---|---|---|
