@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ERDC Summary
+title: ERDC High School Graduate Outcomes
 permalink:
 ---
 
@@ -8,8 +8,9 @@ permalink:
 
 
 ## Contents
-- Interactive charts for the ERDC data on high school graduate outcomes
+- Interactive charts for the ERDC (Education Research and Data Center) data on high school graduate outcomes
 - Tips on using the interactive capabilities
+- Data source
 
 ## Interactive charts for the ERDC data on high school graduate outcomes
 - [2 Year College Enrollment By School](erdc_2yr_enrollment_school)
@@ -34,3 +35,6 @@ permalink:
 - To remove all bubbles from the chart except for those for one group, double click (2 rapid mouse clicks) on the group name in the legend.
 - You can also toggle on additional groups one at a time by a single click on the group names in the legend of the additional groups of interest.
 - If you want all groups on, double click any group in the legend that is off.
+
+## Data source
+[Education Research and Data Center](https://erdc.wa.gov/)
