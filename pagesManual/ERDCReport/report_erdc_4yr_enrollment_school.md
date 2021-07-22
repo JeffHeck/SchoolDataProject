@@ -6,6 +6,6 @@ permalink: erdc_4yr_enrollment_school
 
 ## Preliminary
 
-{% include erdc_report/Class_Of_2018_Enrollment_In_4_Year_CollegesSchool.html %}
+{% include erdc_report/Class_Of_2018_Enrollment_In_4_Year_Colleges_By_SchoolAll_StudentsAll.html %}
 
 
