@@ -21,6 +21,9 @@ permalink:
   - [2 Year College Persistence](erdc_2yr_persistence_school)
   - [4 Year College Persistence](erdc_4yr_persistence_school)
   - [2 Year Or 4 Year College Persistence](erdc_2yr_or_4yr_persistence_school)
+  - [2 Year College Remediation](erdc_2yr_remediation_school)
+  - [4 Year College Remediation](erdc_4yr_remediation_school)
+  - [2 Year Or 4 Year College Remediation](erdc_2yr_or_4yr_remediation_school)
 - School District Granularity
   - [2 Year College Enrollment](erdc_2yr_enrollment_district)
   - [4 Year College Enrollment](erdc_4yr_enrollment_district)
@@ -28,6 +31,9 @@ permalink:
   - [2 Year College Persistence](erdc_2yr_persistence_district)
   - [4 Year College Persistence](erdc_4yr_persistence_district)
   - [2 Year Or 4 Year College Persistence](erdc_2yr_or_4yr_persistence_district)
+  - [2 Year College Remediation](erdc_2yr_remediation_district)
+  - [4 Year College Remediation](erdc_4yr_remediation_district)
+  - [2 Year Or 4 Year College Remediation](erdc_2yr_or_4yr_remediation_district)
 
 ## Tips on using the interactive capabilities
 - As you hover your mouse over a bubble, pertinent details are displayed.
@@ -45,3 +51,4 @@ permalink:
 ## ERDC definitions
 - "First year enrollment is defined as having an enrollment record at a postsecondary institution at some point in academic year following graduation, which is defined as the summer term immediately following graduation through spring term of the next calendar year. If a student enrolled at a 2-year and a 4-year institution in the year, they are categorized as a 4-year enrollee."
 - "Persistence is defined as continued enrollment at any institution in the second year after high school graduation."
+- "Pre-college courses, also referred to as remedial or developmental courses, are courses used by institutions to prepare students for college-level Math and English courses."
