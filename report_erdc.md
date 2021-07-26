@@ -47,8 +47,8 @@ and remedial college course taking by high school graduates. Interactive charts 
 - If you want all groups on, double click any group in the legend that is off.
 
 ## Data sources
-[Education Research and Data Center for high school graduate outcome data](https://erdc.wa.gov/)
-[OSPI for school and school district demographics](https://www.k12.wa.us/)
+- [Education Research and Data Center for high school graduate outcome data](https://erdc.wa.gov/)
+- [OSPI for school and school district demographics](https://www.k12.wa.us/)
 
 
 ## ERDC definitions
