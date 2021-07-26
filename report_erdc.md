@@ -1,16 +1,17 @@
 ---
 layout: page
-title: ERDC High School Graduate Outcomes
+title: High School Graduate Outcomes
 permalink:
 ---
 
-## Preliminary
-
+The Education Research & Data Center (ERDC) compiles data on high school graduate outcomes. The following analysis specifically focuses on the latest ERDC data as of this writing on 2 year and 4 year college enrollments, 
+college persistence, 
+and remedial college course taking by high school graduates. Interactive charts were created summarizing and comparing all of Washington State's public school districts and public high schools on these measures.
 
 ## Contents
-- Interactive charts for the ERDC (Education Research and Data Center) data on high school graduate outcomes
+- Interactive charts for the ERDC data on high school graduate outcomes
 - Tips on using the interactive capabilities
-- Data source
+- Data sources
 - ERDC definitions
 
 ## Interactive charts for the ERDC data on high school graduate outcomes
@@ -45,8 +46,10 @@ permalink:
 - You can also toggle on additional groups one at a time by a single click on the group names in the legend of the additional groups of interest.
 - If you want all groups on, double click any group in the legend that is off.
 
-## Data source
-[Education Research and Data Center](https://erdc.wa.gov/)
+## Data sources
+[Education Research and Data Center for high school graduate outcome data](https://erdc.wa.gov/)
+[OSPI for school and school district demographics](https://www.k12.wa.us/)
+
 
 ## ERDC definitions
 - "First year enrollment is defined as having an enrollment record at a postsecondary institution at some point in academic year following graduation, which is defined as the summer term immediately following graduation through spring term of the next calendar year. If a student enrolled at a 2-year and a 4-year institution in the year, they are categorized as a 4-year enrollee."

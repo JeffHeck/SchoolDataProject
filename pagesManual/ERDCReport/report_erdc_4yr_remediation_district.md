@@ -4,7 +4,6 @@ title: 4 Year College Remediation By District
 permalink: erdc_4yr_remediation_district
 ---
 
-## Preliminary
 
 Remediation used here is defined as enrollment in any pre-college coursework - either in math or English.
 

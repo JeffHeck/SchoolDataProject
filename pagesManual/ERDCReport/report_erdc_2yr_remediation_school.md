@@ -4,7 +4,6 @@ title: 2 Year College Remediation By School
 permalink: erdc_2yr_remediation_school
 ---
 
-## Preliminary
 
 Remediation used here is defined as enrollment in any pre-college coursework - either in math or English.
 
