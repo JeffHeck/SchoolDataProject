@@ -14,10 +14,10 @@ that is similar to the definition used by the NCES (National Center for Educatio
 - Per pupil expenditures for public school districts in WA in constant 2021 dollars (Stacked bar chart)
 - Expenditures for public school districts in WA in constant 2021 dollars (Stacked bar chart)
 - Per pupil expenditure comparison
-- Per pupil expenditures (excluding capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
 - Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
+    - Additional interactive per pupil expenditures related charts
 - NCES (National Center for Education Statistics) information
-- Notes
+- Appendix
 
 ___
 
@@ -45,15 +45,6 @@ ___
 
 ___
 
-## Per pupil expenditures (excluding capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
-
-<!---
-![Per pupil ESSA scatter](pagesManual/ExpendituresReport/PPE ESSAInflationAdjustedScatter.png "Per pupil ESSA scatter")
--->
-{% include ppe_report/PPE_ESSAInflationAdjusted.html %}
-
-___
-
 ## Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
 
 <!---
@@ -61,8 +52,20 @@ ___
 -->
 {% include ppe_report/PPE_TotalInflationAdjusted.html %}
 
-___
+### Tips on using the interactive capabilities:
+- As you hover your mouse over a bubble, pertinent details are displayed.
+- As you hover your mouse over any part of the chart, a special menu of icons appears just above the chart. 
+- There are icons to zoom in and out, or zoom into a rectangular area.
+- There are icons to pan, auto scale and to reset the axes.
+- The legend is active and offers the ability to filter the districts displayed by county.
+- To remove all bubbles from the chart except for those for one county, double click (2 rapid mouse clicks) on the county name in the legend.
+- You can also toggle on additional counties one at a time by a single click on the county names in the legend of the additional counties of interest.
+- If you want all counties on, double click any county in the legend that is off.
 
+
+[Additional interactive per pupil expenditures related charts](per_pupil_expenditures_list)
+
+___
 
 ## NCES (National Center for Education Statistics) information
 
@@ -70,7 +73,7 @@ ___
 
 ___
 
-## Notes
+## Appendix
 For this analysis:
 
 - Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report. The term "Current" 
@@ -99,5 +102,7 @@ in this context is a government accounting term used to describe expenditures on
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
 - F196 report data example
 ![F196 Data Example](pagesManual/ExpendituresReport/F196Example.png "F196 Data Example")
+- Example PPE calculation for the Tacoma SD
+![PPE Example Calculation](pagesManual/ExpendituresReport/ppeQA.png "PPE Example Calculation")
 
 ___
