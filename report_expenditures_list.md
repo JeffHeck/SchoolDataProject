@@ -23,6 +23,7 @@ ___
 - [Average Class Size Vs Percent Low Income Students](average_class_size)
 - [Student To Teacher Ratios Vs Percent Low Income Students](students_per_teacher)
 - [Total Per Pupil Expenditures Vs Percent Low Income Students](total_expenditures_per_pupil)
+- [Total Per Pupil Expenditures Vs Enrollments](total_expenditures_per_pupil_vs_enrollment)
 
 ___
 
