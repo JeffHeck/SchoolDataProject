@@ -17,7 +17,7 @@ ___
 For the November 2nd, 2021 general election:
 - There are 7 Enhancement Levies from 7 school districts from 7 counties.
 - All 7 are advertised as a replacement or a renewal of Educational Programs & Operations (EP&O) Levies.
-- All 7 have both pro and cons arguments in their respective voters' pamphlets.
+- All 7 have both pro and con arguments in their respective voters' pamphlets.
 
 ___
 
