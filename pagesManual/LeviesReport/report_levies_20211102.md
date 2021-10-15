@@ -8,7 +8,7 @@ permalink: report_levies_20211102
 ## Contents
 - Summary
 - Summary table
-- Links to voters' pamphlets
+- Links to the voters' pamphlets
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 ___
 
-## Links to voters' pamphlets
+## Links to the voters' pamphlets
 
 [Clark County, Battle Ground SD](https://www.sos.wa.gov/_assets/elections/-ed09-low-res-9.10.pdf)
 
