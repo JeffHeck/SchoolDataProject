@@ -6,6 +6,7 @@ permalink:
 
 - [High School Graduate Outcomes](report_erdc)
 - [School Board Member Elections 2021 Ballot](report_school_board_members)
+- [School Levies on the November 2nd 2021 Ballot](report_levies_20211102)
 - [School Levies on the April 27th 2021 Ballot](report_levies_20210427)
 - [School Levies on the February 9th 2021 Ballot](report_levies)
 - [Per Pupil Expenditures](report_expenditures)
