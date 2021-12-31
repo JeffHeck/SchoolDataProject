@@ -36,12 +36,13 @@ ___
 - Capital outlay expenditures are made up of the expenditures defined as Capital Outlay in the F196 report. A 6 year rolling average was used.
 - Interest on debt expenditures and other charges are made up of the following items listed as Debt Service in the F196 report: Interest and Other Charges and Bond/Levy Issuance and/or Election.
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U).
+- See the [Per Pupil Expenditures Report](report_expenditures) for sample calculations.
 
 [Historical Total Expenses In Inflation Adjusted Dollars Per Student](pages/hist_spending/SpendForSummit Public School SierraPerPupilInflationAdjustedBar.png " Dollars Per Student")
 
 [Historical Total Expenses In Inflation Adjusted Dollars](pages/hist_spending/SpendForSummit Public School SierraInflationAdjustedBar.png " Dollars")
 
-[Historical and Projected Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSummit Public School Sierra.png " Historical and Projected Total Enrollment")
+[Historical Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentSummit Public School Sierra.png " Historical and Projected Total Enrollment")
 
 
 ___
