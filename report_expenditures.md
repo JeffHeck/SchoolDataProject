@@ -45,7 +45,7 @@ ___
 
 ___
 
-## Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA with enrollments of 1,000+ students in constant 2021 dollars (Interactive scatter chart)
+## Per pupil expenditures (including capital outlays and interest on debt) for public school districts in WA in constant 2021 dollars (Interactive scatter chart)
 
 <!---
 ![Per pupil total scatter](pagesManual/ExpendituresReport/PPE TotalInflationAdjustedScatter.png "Per pupil total scatter")
