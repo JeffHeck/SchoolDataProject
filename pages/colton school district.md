@@ -62,10 +62,11 @@ ___
 
 ## Historical Compensation Information
 ### Note:
+- All compensation data are from the OSPI's S275 reports.
 - District Admin. includes duty titles of Deputy/Assist. Supt., Director/Supervisor, Other District Admin.
 - Principal includes duty titles of Elementary Principal, Secondary Principal
 - Teacher includes duty titles of Elem. Homeroom Teacher, Elem. Specialist Teacher, Other Teacher, Secondary Teacher
-- Total Salary = Base Salary + Supplemental Salary
+- Total Salary (Cash) = Base Salary + Supplemental Salary
 - Total Compensation = Total Salary + Insurance Benefits + Mandatory Benefits
 - Mandatory Benefits include pension funding and payroll taxes
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U)
