@@ -29,6 +29,11 @@ ___
 
 Source: Bond/levy projection datasheets from each school district via public records requests.
 
+Sample bond/levy projection datasheet: Northshore SD
+
+![Bond levy projection datasheet](pagesManual/LeviesReport/20220208/BondLevyProjectionDatasheetNorthshoreSD.png "Bond levy projection datasheet")
+
+
 ___
 
 
