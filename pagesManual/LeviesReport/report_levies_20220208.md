@@ -27,6 +27,8 @@ ___
 
 ![Bond summary table](pagesManual/LeviesReport/20220208/BondSummaryTable20220208Election.png "Bond summary table")
 
+Source: Bond/levy projection datasheets from each school district via public records requests.
+
 ___
 
 
