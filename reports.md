@@ -4,6 +4,7 @@ title: Reports
 permalink:
 ---
 
+- [School Measures on the February 8th 2022 Ballot](report_levies_20220208)
 - [High School Graduate Outcomes](report_erdc)
 - [School Board Member Elections 2021 Ballot](report_school_board_members)
 - [School Levies on the November 2nd 2021 Ballot](report_levies_20211102)
