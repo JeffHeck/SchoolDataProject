@@ -24,10 +24,17 @@ CPI (Consumer Price Index ) data used for inflation adjusted dollars:
 
 [Bureau of Labor Statistics CPI Calculator](https://data.bls.gov/cgi-bin/cpicalc.pl)
 
+WA school district personnel's compensations:
 
-## Recommended Links:
+[OSPI S275 Personnel Compensations](https://www.k12.wa.us/safs-database-files)
 
-[Kitsap Sun's Washington Teacher Salary Database ](https://data.kitsapsun.com/projects/wa-school/)
+WA school district budget data:
+
+[OSPI Budget Data](https://www.k12.wa.us/policy-funding/school-apportionment/safs-report-api)
+
+OSPI report card data:
+
+[OSPI Report Card](https://washingtonstatereportcard.ospi.k12.wa.us/ReportCard/ViewSchoolOrDistrict/100083)
 
 ## Contact Info:
 
