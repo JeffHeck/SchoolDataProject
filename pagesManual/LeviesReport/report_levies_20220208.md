@@ -14,9 +14,9 @@ ___
 ## Summary
 
 For the February 8th, 2022 special election:
-- There are 208 school district measures across the state.
-- 197 of the measures are levies.
-- 11 of the measures are bonds.
+- There were 208 school district measures across the state.
+- 197 of the measures were levies.
+- 11 of the measures were bonds.
 
 
 As analyses are completed, summary results will be provided on this page.
