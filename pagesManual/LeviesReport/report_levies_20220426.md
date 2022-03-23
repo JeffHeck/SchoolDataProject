@@ -23,8 +23,8 @@ For the April 26th, 2022 special election:
 
 For the 23 levy measures:
 - 22 have pro statements.
-- 18 have con statements.
-- 5 of the con statement writers were found and selected by the districts.
+- 17 have con statements.
+- 4 of the con statement writers were found and selected by the districts.
 - 13 of the con statement writers were found and selected by the counties.
 
 For the 3 bonds:
