@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+ <head>
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+
+      // Load the Visualization API and the corechart package.
+	google.charts.load('current', {packages: ['corechart', 'bar']});
+	google.charts.setOnLoadCallback(drawStuff);
+
+
+    function drawStuff() {
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'Year');
+      data.addColumn('number', 'Principal');
+      data.addColumn('number', 'Interest');
+
+      data.addRows([
+        ['2023', 1164585, 3086415],
+		['2024', 1325968, 3049031],
+		['2025', 1487531, 3006468],
+		['2026', 1668281, 2958718],
+		['2027', 1861833, 2905166],
+		['2028', 2065598, 2845401],
+		['2029', 2275903, 2779096],
+		['2030', 2500960, 2706039],
+		['2031', 2739241, 2625758],
+		['2032', 2985170, 2537829],
+		['2033', 3249994, 2442005],
+		['2034', 3520319, 2337680],
+		['2035', 3810321, 2224678],
+		['2036', 4116633, 2102366],
+		['2037', 4434777, 1970222],
+		['2038', 4770133, 1827866],
+		['2039', 5118254, 1674745],
+		['2040', 5486550, 1510449],
+		['2041', 5875669, 1334330],
+		['2042', 6280278, 1145721],
+		['2043', 6700875, 944124],
+		['2044', 7145973, 729026],
+		['2045', 7611358, 499641],
+		['2046', 7965683, 255316],
+
+      ]);
+
+      var options = {
+        title: 'Estimated Bond Cost To The Owner Of The Sample Parcel',
+        isStacked: true,
+        hAxis: {
+          title: '',
+          //format: 'h:mm a',
+          viewWindow: {
+            min: [7, 30, 0],
+            max: [17, 30, 0]
+          }
+        },
+        vAxis: {
+          title: '$'
+        }
+      };
+
+      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
+    }
+  </script>
+ </head>
+ <body>
+  <div id="chart_div" style="width:800px; height: 600px;"></div>
+ </body>
+</html>
+
