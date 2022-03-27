@@ -75,7 +75,7 @@
 		}		
 
 
-		var options = {
+		options = {
 			title: 'Estimated Bond Cost To The Owner Of The Sample Parcel',
 			isStacked: true,
 			hAxis: {
@@ -96,7 +96,7 @@
 		table_input_data.addColumn('string', 'Description');
 		table_input_data.addColumn('number', 'Value');
 		table_input_data.addRows([
-			['Sample parcel assessed value (AV)', sampleParcelAV],
+			['Sample parcel 2022 assessed value (AV)', sampleParcelAV],
 		]);
 
 		table_data = new google.visualization.DataTable();
@@ -111,12 +111,18 @@
 
 	  
 		chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+		formatter = new google.visualization.NumberFormat(
+		{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: true});
+		formatter.format(dataParcel, 1); // Apply formatter to second column
+		formatter.format(dataParcel, 2); // Apply formatter to third column
 		chart.draw(dataParcel, options);
 		
 		table = new google.visualization.Table(document.getElementById('table_output_div'));
+		formatter.format(table_data, 1); // Apply formatter to second column
 		table.draw(table_data, {sort:'disable'});
 		
 		table_input = new google.visualization.Table(document.getElementById('table_input_div'));
+		formatter.format(table_input_data, 1); // Apply formatter to second column
 		table_input.draw(table_input_data, {sort:'disable'});
     }
 
@@ -128,6 +134,7 @@
 		if (sampleParcelAV > sampleParcelAVMax)
 			sampleParcelAV = sampleParcelAVMax
 		table_input_data.setValue(0, 1, sampleParcelAV);
+		formatter.format(table_input_data, 1); // Apply formatter to second column
 		table_input.draw(table_input_data);
 		//Update table output
 		sampleParcelPOF = sampleParcelAV / totalBondAV;
@@ -139,6 +146,7 @@
 		table_data.setValue(1, 1, averageTotalBondCostParcel); // Average cost per year for parcel
 		table_data.setValue(2, 1, totalBondPrincipalParcel); // Total principal for parcel
 		table_data.setValue(3, 1, totalBondInterestParcel); // Total interest for parcel
+		formatter.format(table_data, 1); // Apply formatter to second column
 		table.draw(table_data);
 		//Update chart
 		for (let i = 0; i < 24; i++) {
@@ -146,6 +154,8 @@
 			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOF);
 			dataParcel.setValue(i, 2, data.getValue(i, 2) * sampleParcelPOF);
 		}		
+		formatter.format(dataParcel, 1); // Apply formatter to second column
+		formatter.format(dataParcel, 2); // Apply formatter to third column
 		chart.draw(dataParcel, options);
     }
   </script>
@@ -153,10 +163,10 @@
  <body>
   <p>Input</p>
   <div id="table_input_div" style="width:1200px; height: 75px;"></div>
-  <input type="button" value="Increase" onclick="changeParcelAV(50000)" />
-  <input type="button" value="Decrease" onclick="changeParcelAV(-50000)" />
+  <input type="button" value="Increase Sample Parcel 2022 AV" onclick="changeParcelAV(50000)" />
+  <input type="button" value="Decrease Sample Parcel 2022 AV" onclick="changeParcelAV(-50000)" />
   <p>Output</p>
-  <div id="table_output_div" style="width:1200px; height: 100px;"></div>
+  <div id="table_output_div" style="width:1200px; height: 120px;"></div>
   <div id="chart_div" style="width:1200px; height: 800px;"></div>
  </body>
 </html>
