@@ -3,72 +3,104 @@
  <head>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script type="text/javascript">
-    google.charts.load('current', {'packages':['corechart','bar']});
+    google.charts.load('current', {'packages':['corechart','bar','table']});
     google.charts.setOnLoadCallback(drawStuff);
 
+	var table_input;
+	var table;
 
     function drawStuff() {
-	var data = new google.visualization.DataTable();
+		var data = new google.visualization.DataTable();
 		data.addColumn('string', 'Year');
 		data.addColumn('number', 'Principal');
 		data.addColumn('number', 'Interest');
 
-     data.addRows([
-        ['2023', 1164585, 3086415],
-		['2024', 1325968, 3049031],
-		['2025', 1487531, 3006468],
-		['2026', 1668281, 2958718],
-		['2027', 1861833, 2905166],
-		['2028', 2065598, 2845401],
-		['2029', 2275903, 2779096],
-		['2030', 2500960, 2706039],
-		['2031', 2739241, 2625758],
-		['2032', 2985170, 2537829],
-		['2033', 3249994, 2442005],
-		['2034', 3520319, 2337680],
-		['2035', 3810321, 2224678],
-		['2036', 4116633, 2102366],
-		['2037', 4434777, 1970222],
-		['2038', 4770133, 1827866],
-		['2039', 5118254, 1674745],
-		['2040', 5486550, 1510449],
-		['2041', 5875669, 1334330],
-		['2042', 6280278, 1145721],
-		['2043', 6700875, 944124],
-		['2044', 7145973, 729026],
-		['2045', 7611358, 499641],
-		['2046', 7965683, 255316],
+		data.addRows([
+			['2023', 1164585, 3086415],
+			['2024', 1325968, 3049031],
+			['2025', 1487531, 3006468],
+			['2026', 1668281, 2958718],
+			['2027', 1861833, 2905166],
+			['2028', 2065598, 2845401],
+			['2029', 2275903, 2779096],
+			['2030', 2500960, 2706039],
+			['2031', 2739241, 2625758],
+			['2032', 2985170, 2537829],
+			['2033', 3249994, 2442005],
+			['2034', 3520319, 2337680],
+			['2035', 3810321, 2224678],
+			['2036', 4116633, 2102366],
+			['2037', 4434777, 1970222],
+			['2038', 4770133, 1827866],
+			['2039', 5118254, 1674745],
+			['2040', 5486550, 1510449],
+			['2041', 5875669, 1334330],
+			['2042', 6280278, 1145721],
+			['2043', 6700875, 944124],
+			['2044', 7145973, 729026],
+			['2045', 7611358, 499641],
+			['2046', 7965683, 255316],
 
-      ]);
+		]);
 
-      var options = {
-        title: 'Estimated Bond Cost To The Owner Of The Sample Parcel',
-        isStacked: true,
-        hAxis: {
-          title: '',
-          //format: 'h:mm a',
-          viewWindow: {
-            min: [7, 30, 0],
-            max: [17, 30, 0]
-          }
+		var options = {
+			title: 'Estimated Bond Cost To The Owner Of The Sample Parcel',
+			isStacked: true,
+			hAxis: {
+			title: '',
+			//format: 'h:mm a',
+			viewWindow: {
+				min: [7, 30, 0],
+				max: [17, 30, 0]
+			}
         },
         vAxis: {
-          title: '$'
+			title: '$'
         }
-      };
+		};
 	  
-      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
-      chart.draw(data, options);
+
+		table_input_data = new google.visualization.DataTable();
+		table_input_data.addColumn('string', 'Description');
+		table_input_data.addColumn('number', 'Value');
+		table_input_data.addRows([
+			['Sample parcel assessed value (AV)', 500000],
+			['Sample parcel assessed value2 (AV)', 400000],
+		]);
+
+		table_data = new google.visualization.DataTable();
+		table_data.addColumn('string', 'Description');
+		table_data.addColumn('number', 'Value');
+		table_data.addRows([
+			['Total cost for parcel owner', 5000],
+			['Average cost per year for parcel owner', 500],
+			['Total principal cost for parcel owner', 3000],
+			['Total interest cost for parcel owner', 2000],
+		]);
+
+	  
+		var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+		chart.draw(data, options);
+		var table = new google.visualization.Table(document.getElementById('table_output_div'));
+		table.draw(table_data, {sort:'disable'});
+		table_input = new google.visualization.Table(document.getElementById('table_input_div'));
+		table_input.draw(table_input_data, {sort:'disable'});
     }
 
     function changeParcelAV(dir) {
+		table_input_data.setValue(0, 1, table_input_data.getValue(0, 1) + dir);
+		table_input.draw(table_input_data);
     }
   </script>
  </head>
  <body>
-  <div id="chart_div" style="width:1200px; height: 800px;"></div>
+  <p>Input</p>
+  <div id="table_input_div" style="width:1200px; height: 75px;"></div>
   <input type="button" value="Increase" onclick="changeParcelAV(50000)" />
   <input type="button" value="Decrease" onclick="changeParcelAV(-50000)" />
+  <p>Output</p>
+  <div id="table_output_div" style="width:1200px; height: 100px;"></div>
+  <div id="chart_div" style="width:1200px; height: 800px;"></div>
  </body>
 </html>
 
