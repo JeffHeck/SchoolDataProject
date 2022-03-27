@@ -9,6 +9,8 @@ permalink: report_levies_20220426
 - Summary
 - Levy summary table
 - Bond summary table
+- Taxpayer cost impact calculator
+  - Ocean Beach SD
 
 ___
 
@@ -49,5 +51,12 @@ ___
 
 ___
 
+### Ocean Beach SD
+
+Taxpayer cost impact calculator
+
+{% include cost_estimates/2022TaxpayerCostImpactEstimate.html %}
+
+___
 
 
