@@ -8,9 +8,27 @@
 
 	var table_input;
 	var table;
+	var chart;
+	//var data;
+	var dataParcel;
+	
+	totalBondAV = 2466986000;
+	sampleParcelAV = 500000;
+	sampleParcelAVMin =  100000;
+	sampleParcelAVMax = 2000000;
+	totalBondPrincipal = 96150000;
+	totalBondInterest = 49498101;
+	totalBondCost = totalBondPrincipal + totalBondInterest;
+	sampleParcelPOF = sampleParcelAV / totalBondAV;
+	totalBondCostParcel = sampleParcelPOF * totalBondCost;
+	totalBondPrincipalParcel = sampleParcelPOF * totalBondPrincipal;
+	totalBondInterestParcel = sampleParcelPOF * totalBondInterest;
+	bondYears = 24;
+	averageTotalBondCostParcel = totalBondCostParcel / bondYears;
+	
 
     function drawStuff() {
-		var data = new google.visualization.DataTable();
+		data = new google.visualization.DataTable();
 		data.addColumn('string', 'Year');
 		data.addColumn('number', 'Principal');
 		data.addColumn('number', 'Interest');
@@ -43,6 +61,20 @@
 
 		]);
 
+		dataParcel = new google.visualization.DataTable();
+		dataParcel.addColumn('string', 'Year');
+		dataParcel.addColumn('number', 'Principal');
+		dataParcel.addColumn('number', 'Interest');
+
+		dataParcel.addRows(24);
+
+		for (let i = 0; i < 24; i++) {
+			dataParcel.setCell(i, 0, data.getValue(i, 0));
+			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOF);
+			dataParcel.setCell(i, 2, data.getValue(i, 2) * sampleParcelPOF);
+		}		
+
+
 		var options = {
 			title: 'Estimated Bond Cost To The Owner Of The Sample Parcel',
 			isStacked: true,
@@ -64,32 +96,57 @@
 		table_input_data.addColumn('string', 'Description');
 		table_input_data.addColumn('number', 'Value');
 		table_input_data.addRows([
-			['Sample parcel assessed value (AV)', 500000],
-			['Sample parcel assessed value2 (AV)', 400000],
+			['Sample parcel assessed value (AV)', sampleParcelAV],
 		]);
 
 		table_data = new google.visualization.DataTable();
 		table_data.addColumn('string', 'Description');
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
-			['Total cost for parcel owner', 5000],
-			['Average cost per year for parcel owner', 500],
-			['Total principal cost for parcel owner', 3000],
-			['Total interest cost for parcel owner', 2000],
+			['Total cost for parcel owner', totalBondCostParcel],
+			['Average cost per year for parcel owner', averageTotalBondCostParcel],
+			['Total principal cost for parcel owner', totalBondPrincipalParcel],
+			['Total interest cost for parcel owner', totalBondInterestParcel],
 		]);
 
 	  
-		var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
-		chart.draw(data, options);
-		var table = new google.visualization.Table(document.getElementById('table_output_div'));
+		chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+		chart.draw(dataParcel, options);
+		
+		table = new google.visualization.Table(document.getElementById('table_output_div'));
 		table.draw(table_data, {sort:'disable'});
+		
 		table_input = new google.visualization.Table(document.getElementById('table_input_div'));
 		table_input.draw(table_input_data, {sort:'disable'});
     }
 
     function changeParcelAV(dir) {
-		table_input_data.setValue(0, 1, table_input_data.getValue(0, 1) + dir);
+		//Update table input
+		sampleParcelAV = sampleParcelAV + dir
+		if (sampleParcelAV < sampleParcelAVMin)
+			sampleParcelAV = sampleParcelAVMin
+		if (sampleParcelAV > sampleParcelAVMax)
+			sampleParcelAV = sampleParcelAVMax
+		table_input_data.setValue(0, 1, sampleParcelAV);
 		table_input.draw(table_input_data);
+		//Update table output
+		sampleParcelPOF = sampleParcelAV / totalBondAV;
+		totalBondCostParcel = sampleParcelPOF * totalBondCost;
+		totalBondPrincipalParcel = sampleParcelPOF * totalBondPrincipal;
+		totalBondInterestParcel = sampleParcelPOF * totalBondInterest;
+		averageTotalBondCostParcel = totalBondCostParcel / bondYears;
+		table_data.setValue(0, 1, totalBondCostParcel); // Total bond cost parcel
+		table_data.setValue(1, 1, averageTotalBondCostParcel); // Average cost per year for parcel
+		table_data.setValue(2, 1, totalBondPrincipalParcel); // Total principal for parcel
+		table_data.setValue(3, 1, totalBondInterestParcel); // Total interest for parcel
+		table.draw(table_data);
+		//Update chart
+		for (let i = 0; i < 24; i++) {
+			dataParcel.setValue(i, 0, data.getValue(i, 0));
+			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOF);
+			dataParcel.setValue(i, 2, data.getValue(i, 2) * sampleParcelPOF);
+		}		
+		chart.draw(dataParcel, options);
     }
   </script>
  </head>
