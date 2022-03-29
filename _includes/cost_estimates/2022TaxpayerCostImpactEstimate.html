@@ -65,9 +65,9 @@
 		dataParcel.addColumn('number', 'Principal');
 		dataParcel.addColumn('number', 'Interest');
 
-		dataParcel.addRows(24);
+		dataParcel.addRows(bondYears);
 
-		for (let i = 0; i < 24; i++) {
+		for (let i = 0; i < bondYears; i++) {
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOF);
 			dataParcel.setCell(i, 2, data.getValue(i, 2) * sampleParcelPOF);
@@ -148,7 +148,7 @@
 		formatter.format(table_data, 1); // Apply formatter to second column
 		table.draw(table_data);
 		//Update chart
-		for (let i = 0; i < 24; i++) {
+		for (let i = 0; i < bondYears; i++) {
 			dataParcel.setValue(i, 0, data.getValue(i, 0));
 			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOF);
 			dataParcel.setValue(i, 2, data.getValue(i, 2) * sampleParcelPOF);
