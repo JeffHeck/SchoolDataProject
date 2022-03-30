@@ -75,7 +75,7 @@
 
 
 		options = {
-			title: 'Estimated Bond Cost To The Owner Of The Sample Parcel',
+			title: 'Estimated Bond Cost Schedule For The Owner Of The Sample Parcel',
 			isStacked: true,
 			hAxis: {
 			title: '',
@@ -160,13 +160,17 @@
   </script>
  </head>
  <body>
-  <p>Input</p>
+  <H2>Property tax impact calculator for the April 26th 2022 bond measure proposed by the Ocean Beach SD</H2>
+  <p>Created by the author independently and not associated with the school district</p>
+  <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 75px;"></div>
   <input type="button" value="Increase Sample Parcel 2022 AV" onclick="changeParcelAV(50000)" />
   <input type="button" value="Decrease Sample Parcel 2022 AV" onclick="changeParcelAV(-50000)" />
-  <p>Output</p>
-  <div id="table_output_div" style="width:1200px; height: 140px;"></div>
+  <H3>Output</H3>
+  <div id="table_output_div" style="width:1200px; height: 120px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>
+  <H3>Data Sources</H3>
+  <p>District's bond/levy projection datasheet obtained from a public records request</p>
  </body>
 </html>
 
