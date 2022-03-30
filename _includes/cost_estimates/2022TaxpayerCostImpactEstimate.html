@@ -75,7 +75,7 @@
 
 
 		options = {
-			title: 'Estimated Bond Cost Schedule For The Owner Of The Sample Parcel',
+			title: 'Estimated Bond Cost Schedule For The Sample Parcel',
 			isStacked: true,
 			hAxis: {
 			title: '',
@@ -102,10 +102,10 @@
 		table_data.addColumn('string', 'Description');
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
-			['Total cost for parcel owner', totalBondCostParcel],
-			['Average cost per year for parcel owner', averageTotalBondCostParcel],
-			['Total principal cost for parcel owner', totalBondPrincipalParcel],
-			['Total interest cost for parcel owner', totalBondInterestParcel],
+			['Total cost', totalBondCostParcel],
+			['Average cost per year', averageTotalBondCostParcel],
+			['Total principal cost', totalBondPrincipalParcel],
+			['Total interest cost', totalBondInterestParcel],
 		]);
 
 	  
@@ -160,13 +160,14 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact calculator for the April 26th 2022 bond measure proposed by the Ocean Beach SD</H2>
+  <H2>Property tax impact estimate calculator for the April 26th 2022 bond measure proposed by the Ocean Beach SD</H2>
   <p>Created by the author independently and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 75px;"></div>
   <input type="button" value="Increase Sample Parcel 2022 AV" onclick="changeParcelAV(50000)" />
   <input type="button" value="Decrease Sample Parcel 2022 AV" onclick="changeParcelAV(-50000)" />
   <H3>Output</H3>
+  <p>Obligations for the sample parcel</P>
   <div id="table_output_div" style="width:1200px; height: 120px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>
   <H3>Data Sources</H3>
