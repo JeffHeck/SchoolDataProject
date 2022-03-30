@@ -51,10 +51,6 @@ ___
 
 ___
 
-### Ocean Beach SD
-
-Taxpayer cost impact calculator
-
 {% include cost_estimates/2022TaxpayerCostImpactEstimate.html %}
 
 ___
