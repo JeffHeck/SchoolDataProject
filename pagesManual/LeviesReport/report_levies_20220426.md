@@ -9,8 +9,10 @@ permalink: report_levies_20220426
 - Summary
 - Levy summary table
 - Bond summary table
-- Taxpayer cost impact calculator
+- Taxpayer cost impact estimate calculators
   - Ocean Beach SD
+  - Quilcene SD
+  - Ridgefield SD
 
 ___
 
@@ -51,7 +53,13 @@ ___
 
 ___
 
-{% include cost_estimates/2022TaxpayerCostImpactEstimate.html %}
+## Taxpayer cost impact estimate calculators
+
+[Calculator for the Ocean Beach SD](calculator_ocean_beach)
+
+[Calculator for the Quilcene SD](calculator_quilcene)
+
+[Calculator for the Ridgefield SD](calculator_ridgefield)
 
 ___
 
