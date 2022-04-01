@@ -13,6 +13,7 @@ permalink: report_levies_20220426
   - Ocean Beach SD
   - Quilcene SD
   - Ridgefield SD
+  - Calculator methodology
 
 ___
 
@@ -60,6 +61,22 @@ ___
 [Calculator for the Quilcene SD](calculator_quilcene)
 
 [Calculator for the Ridgefield SD](calculator_ridgefield)
+
+### Calculator Methodology
+
+For these property tax impact estimate calculators, a Proportional Obligation Factor (POF) method was used.
+
+Using the 2022 Total District Assessed Value (AV), the POF of the sample parcel is calculated:
+
+POF = (2022 Sample Parcel AV) / (2022 Total District AV)
+
+The POF is then multiplied by the total amount that the district expects to collect each year for the duration of the measure in question (bond or levy) 
+to obtain the estimated taxes for the sample parcel for the measure.
+
+Using this methodology, it doesn’t matter if all properties increase in AV by 10% or all decrease in AV by 10% (which could happen in a recession). 
+The tax collection schedule shown in the charts and tables would still apply for the sample parcel. The sample parcel's proportion of obligation for the bond debt 
+or levy remains the same over the bond payback or levy period. Tax rates, however, would change. If all properties increase in AV by 10%, the tax rate for the measures would 
+decrease by approximately 10%. If all properties decrease in AV by 10%, the tax rate for the measures would increase by approximately 10%.
 
 ___
 
