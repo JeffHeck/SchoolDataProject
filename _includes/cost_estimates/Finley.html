@@ -11,67 +11,42 @@
 	//var data;
 	var dataParcel;
 	
-	totalBondAV = 5115136000;
-	sampleParcelAV = 650000;
+	totalLevyAV = 624461673;
+	sampleParcelAV = 400000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalBondPrincipal = 62565000;
-	totalBondInterest = 20347000;
-	totalBondCost = totalBondPrincipal + totalBondInterest;
-	sampleParcelPOF = sampleParcelAV / totalBondAV;
-	totalBondCostParcel = sampleParcelPOF * totalBondCost;
-	totalBondPrincipalParcel = sampleParcelPOF * totalBondPrincipal;
-	totalBondInterestParcel = sampleParcelPOF * totalBondInterest;
-	bondYears = 20;
-	averageTotalBondCostParcel = totalBondCostParcel / bondYears;
+	totalLevyCost = 3025000;
+	sampleParcelPOF = sampleParcelAV / totalLevyAV;
+	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
+	levyYears = 2;
+	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	
 
     function drawStuff() {
 		data = new google.visualization.DataTable();
 		data.addColumn('string', 'Year');
-		data.addColumn('number', 'Principal');
-		data.addColumn('number', 'Interest + Fees');
+		data.addColumn('number', 'Amount');
 
 		data.addRows([
-			['2023', 1247171, 1639829],
-			['2024', 1606860, 1607140],
-			['2025', 1776976, 1565024],
-			['2026', 1954550, 1518450],
-			['2027', 2143779, 1467221],
-			['2028', 2345967, 1411033],
-			['2029', 2555455, 1349545],
-			['2030', 2780434, 1282566],
-			['2031', 3017309, 1209691],
-			['2032', 3260392, 1130608],
-			['2033', 3528847, 1045153],
-			['2034', 3803338, 952662],
-			['2035', 4092024, 852976],
-			['2036', 1915276, 745724],
-			['2037', 3692475, 695525],
-			['2038', 3964255, 598745],
-			['2039', 4250158, 494842],
-			['2040', 4551555, 383445],
-			['2041', 4870851, 264149],
-			['2042', 5203516, 136484],
+			['2023', 1485000],
+			['2024', 1540000],
 
 		]);
 
 		dataParcel = new google.visualization.DataTable();
 		dataParcel.addColumn('string', 'Year');
-		dataParcel.addColumn('number', 'Principal');
-		dataParcel.addColumn('number', 'Interest + Fees');
+		dataParcel.addColumn('number', 'Amount');
 
-		dataParcel.addRows(bondYears);
+		dataParcel.addRows(levyYears);
 
-		for (let i = 0; i < bondYears; i++) {
+		for (let i = 0; i < levyYears; i++) {
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOF);
-			dataParcel.setCell(i, 2, data.getValue(i, 2) * sampleParcelPOF);
 		}		
 
 
 		options = {
-			title: 'Estimated Bond Cost Schedule For The Sample Parcel',
+			title: 'Estimated Levy Cost Schedule For The Sample Parcel',
 			isStacked: true,
 			hAxis: {
 			title: '',
@@ -98,10 +73,8 @@
 		table_data.addColumn('string', 'Description');
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
-			['Total cost', totalBondCostParcel],
-			['Average cost per year for 20 years', averageTotalBondCostParcel],
-			['Total principal cost', totalBondPrincipalParcel],
-			['Total interest + fees cost', totalBondInterestParcel],
+			['Total cost', totalLevyCostParcel],
+			['Average cost per year for 2 years', averageTotalLevyCostParcel],
 		]);
 
 	  
@@ -109,7 +82,6 @@
 		formatter = new google.visualization.NumberFormat(
 		{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: true});
 		formatter.format(dataParcel, 1); // Apply formatter to second column
-		formatter.format(dataParcel, 2); // Apply formatter to third column
 		chart.draw(dataParcel, options);
 		
 		table = new google.visualization.Table(document.getElementById('table_output_div'));
@@ -132,31 +104,25 @@
 		formatter.format(table_input_data, 1); // Apply formatter to second column
 		table_input.draw(table_input_data);
 		//Update table output
-		sampleParcelPOF = sampleParcelAV / totalBondAV;
-		totalBondCostParcel = sampleParcelPOF * totalBondCost;
-		totalBondPrincipalParcel = sampleParcelPOF * totalBondPrincipal;
-		totalBondInterestParcel = sampleParcelPOF * totalBondInterest;
-		averageTotalBondCostParcel = totalBondCostParcel / bondYears;
-		table_data.setValue(0, 1, totalBondCostParcel); // Total bond cost parcel
-		table_data.setValue(1, 1, averageTotalBondCostParcel); // Average cost per year for parcel
-		table_data.setValue(2, 1, totalBondPrincipalParcel); // Total principal for parcel
-		table_data.setValue(3, 1, totalBondInterestParcel); // Total interest + fees for parcel
+		sampleParcelPOF = sampleParcelAV / totalLevyAV;
+		totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
+		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
+		table_data.setValue(0, 1, totalLevyCostParcel); // Total levy cost parcel
+		table_data.setValue(1, 1, averageTotalLevyCostParcel); // Average cost per year for parcel
 		formatter.format(table_data, 1); // Apply formatter to second column
 		table.draw(table_data);
 		//Update chart
-		for (let i = 0; i < bondYears; i++) {
+		for (let i = 0; i < levyYears; i++) {
 			dataParcel.setValue(i, 0, data.getValue(i, 0));
 			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOF);
-			dataParcel.setValue(i, 2, data.getValue(i, 2) * sampleParcelPOF);
 		}		
 		formatter.format(dataParcel, 1); // Apply formatter to second column
-		formatter.format(dataParcel, 2); // Apply formatter to third column
 		chart.draw(dataParcel, options);
     }
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 26th 2022 bond measure proposed by the Ridgefield SD</H2>
+  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measure proposed by the Finley SD</H2>
   <p>Created by the author independently and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 75px;"></div>
@@ -167,7 +133,7 @@
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>
   <H3>Data Sources</H3>
-  <p>District's bond/levy projection datasheet obtained from a public records request</p>
+  <p>District's levy resolutions</p>
  </body>
 </html>
 
