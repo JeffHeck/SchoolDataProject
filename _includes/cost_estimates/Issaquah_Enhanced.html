@@ -361,11 +361,9 @@
 
 		// Levy 2 chart
 		chart2 = new google.visualization.ColumnChart(document.getElementById('chart2_div'));
-		formatter = new google.visualization.NumberFormat(
-		{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: true});
 		formatter.format(data2Parcel, 1); // Apply formatter to second column
 		formatter.format(data2Parcel, 2); // Apply formatter to third column
-		chart2.draw(data2Parcel, options);
+		chart2.draw(data2Parcel, options2);
 		
 		table2 = new google.visualization.Table(document.getElementById('table2_output_div'));
 		formatter.format(table2_data, 1); // Apply formatter to second column
@@ -373,10 +371,8 @@
 		
 		// Levy 3 chart
 		chart3 = new google.visualization.ColumnChart(document.getElementById('chart3_div'));
-		formatter = new google.visualization.NumberFormat(
-		{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: true});
 		formatter.format(data3Parcel, 1); // Apply formatter to second column
-		chart3.draw(data3Parcel, options);
+		chart3.draw(data3Parcel, options3);
 		
 		table3 = new google.visualization.Table(document.getElementById('table3_output_div'));
 		formatter.format(table3_data, 1); // Apply formatter to second column
@@ -384,16 +380,12 @@
 		
 		// Bond chart
 		chart4 = new google.visualization.ColumnChart(document.getElementById('chart4_div'));
-		formatter = new google.visualization.NumberFormat(
-		{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: true});
 		formatter.format(data4Parcel, 1); // Apply formatter to second column
 		formatter.format(data4Parcel, 2); // Apply formatter to third column
 		chart4.draw(data4Parcel, options4);
 
 		// All categories bar chart
 		chart5 = new google.visualization.ColumnChart(document.getElementById('chart5_div'));
-		formatter = new google.visualization.NumberFormat(
-		{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: true});
 		formatter.format(data5Parcel, 1); // Apply formatter to second column
 		formatter.format(data5Parcel, 2); // Apply formatter to third column
 		formatter.format(data5Parcel, 3); 
@@ -402,6 +394,7 @@
 		formatter.format(data5Parcel, 6); 
 		formatter.format(data5Parcel, 7); 
 		formatter.format(data5Parcel, 8); 
+		formatter.format(data5Parcel, 9); 
 		chart5.draw(data5Parcel, options5);
     }
 
@@ -469,6 +462,7 @@
 			data4Parcel.setValue(i, 2, data4.getValue(i, 2) * sampleParcelPOF);
 		}		
 		formatter.format(data4Parcel, 1); // Apply formatter to second column
+		formatter.format(data4Parcel, 2); // Apply formatter to third column
 		chart4.draw(data4Parcel, options4);
 		//Update chart 5
 		for (let i = 0; i < levy2Years * 2; i++) {
@@ -492,6 +486,14 @@
 			}
 		}		
 		formatter.format(data5Parcel, 1); // Apply formatter to second column
+		formatter.format(data5Parcel, 2); // Apply formatter to second column
+		formatter.format(data5Parcel, 3); // Apply formatter to second column
+		formatter.format(data5Parcel, 4); // Apply formatter to second column
+		formatter.format(data5Parcel, 5); // Apply formatter to second column
+		formatter.format(data5Parcel, 6); // Apply formatter to second column
+		formatter.format(data5Parcel, 7); // Apply formatter to second column
+		formatter.format(data5Parcel, 8); // Apply formatter to second column
+		formatter.format(data5Parcel, 9); // Apply formatter to second column
 		chart5.draw(data5Parcel, options5);
     }
   </script>
