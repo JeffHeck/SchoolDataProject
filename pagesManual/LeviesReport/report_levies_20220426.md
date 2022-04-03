@@ -16,7 +16,7 @@ permalink: report_levies_20220426
   - Finley SD
   - Grandview SD
   - Granite Falls SD
-  - Issaquah SD
+  - Issaquah SD (Including an enhanced version)
   - Kennewick SD
   - Lakewood SD
   - Longview SD
