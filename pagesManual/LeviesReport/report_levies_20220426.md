@@ -131,6 +131,8 @@ The tax collection schedule shown in the charts and tables would still apply for
 or levy remains the same over the bond payback or levy period. Tax rates, however, would change. If all properties increase in AV by 10%, the tax rate for the measures would 
 decrease by approximately 10%. If all properties decrease in AV by 10%, the tax rate for the measures would increase by approximately 10%.
 
+It is the author's opinion that county assessors (in all 39 WA counties) should be providing these calculators for their constituents. To date, only King County is making an effort.
+
 ___
 
 
