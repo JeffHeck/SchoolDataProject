@@ -626,16 +626,15 @@
   <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Issaquah SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
-  <div id="table_input_div" style="width:1200px; height: 75px;"></div>
+  <div id="table_input_div" style="width:1200px; height: 50px;"></div>
+  <p></p>
   <input type="button" value="Increase Sample Parcel 2022 AV" onclick="changeParcelAV(50000)" />
   <input type="button" value="Decrease Sample Parcel 2022 AV" onclick="changeParcelAV(-50000)" />
   <p></p>
-  <div id="table_pof_adjust_input_div" style="width:1200px; height: 75px;"></div>
+  <div id="table_pof_adjust_input_div" style="width:1200px; height: 50px;"></div>
   <input type="button" value="Increase POF Annual Change" onclick="changePOFChange(0.1)" />
   <input type="button" value="Decrease POF Annual Change" onclick="changePOFChange(-0.1)" />
-  <p>For parcels that are increasing in POF (Proportional Obligation Factor), a positive POF annual change will give more accurate results. 
-  For parcels that are decreasing in POF due to rapid new construction or for other reasons, a negative POF annual change will give more accurate results. 
-  But a value of 0 will generally be slightly conservative and usually within 5% of actual costs. </p>
+  <p></p>
   <H3>Output</H3>
   <H3>Enrichment Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
@@ -655,12 +654,12 @@
   <H3>All Categories</H3>
   <p>Estimated obligations for the sample parcel</P>
   <p>A 1% growth is assumed for the State School and NonSchool categories from 2023 - 2026</p>
-  <p>Note: All of the State School category tax goes to the school district</p>
+  <p>Note: All of the State School category tax is routed to the school district - in total</p>
   <div id="chart5_div" style="width:800px; height: 640px;"></div>
   <H3>Data Sources</H3>
   <p>The district's 2022 levy resolutions</p>
   <p>The district's bond/levy projection datasheet obtained from a public records request</p>
-  <p>The county assessor's webpage for historical property taxes</p>
+  <p>The county assessor's website for historical property taxes</p>
 
  </body>
 </html>

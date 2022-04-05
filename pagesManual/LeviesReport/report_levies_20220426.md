@@ -131,6 +131,12 @@ The tax collection schedule shown in the charts and tables would still apply for
 or levy remains the same over the bond payback or levy period. Tax rates, however, would change. If all properties increase in AV by 10%, the tax rate for the measures would 
 decrease by approximately 10%. If all properties decrease in AV by 10%, the tax rate for the measures would increase by approximately 10%.
 
+Note for the POF annual change parameter for the enhanced calculator versions:
+
+For parcels that are increasing in POF (Proportional Obligation Factor), a positive POF annual change will give more accurate results. 
+For parcels that are decreasing in POF due to rapid new construction or for other reasons, a negative POF annual change will give more accurate results. 
+However a value of 0 will generally be slightly conservative and will generate estimates that are usually within 5% of actual costs. 
+
 It is the author's opinion that county assessors (in all 39 WA counties) should be providing these calculators for their constituents. To date, only King County is making an effort.
 
 ___
