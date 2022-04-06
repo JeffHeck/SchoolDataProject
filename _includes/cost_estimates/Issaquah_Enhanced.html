@@ -50,14 +50,14 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2019', 36365548.0, 0],
-			['2020', 44962193.0, 0],
-			['2021', 49867778.0, 0],
-			['2022', 54046897.03, 0],
-			['2023', 0, 61000000.0],
-			['2024', 0, 64000000.0],
-			['2025', 0, 67000000.0],
-			['2026', 0, 70000000.0],
+			['2019', 36365548, 0],
+			['2020', 44962193, 0],
+			['2021', 49867778, 0],
+			['2022', 54046897, 0],
+			['2023', 0, 61000000],
+			['2024', 0, 64000000],
+			['2025', 0, 67000000],
+			['2026', 0, 70000000],
 
 		]);
 
@@ -488,6 +488,7 @@
 		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 		averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 		formatter.format(dataParcel, 1); // Apply formatter to second column
+		formatter.format(dataParcel, 2);
 		chart.draw(dataParcel, options);
 		
 		//Update table output
@@ -523,8 +524,8 @@
 		}		
 		averageTotalLevy2CostParcel = totalLevy2CostParcel / levy2Years;
 		averageTotalLevy2PriorCostParcel = totalLevy2PriorCostParcel / levy2Years;
-		
 		formatter.format(data2Parcel, 1); // Apply formatter to second column
+		formatter.format(data2Parcel, 2);
 		chart2.draw(data2Parcel, options2);
 
 		//Update table 2 output
@@ -538,9 +539,9 @@
 		table2_data.setValue(1, 3, (averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel)); // Delta
 		table2_data.setValue(1, 4, (averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel)/averageTotalLevy2PriorCostParcel*100); // Percent change
 		formatter.format(table2_data, 1); // Apply formatter to second column
-		formatter.format(table2_data, 2); // Apply formatter to third column
-		formatter.format(table2_data, 3); // Apply formatter to fourth column
-		formatterPercent.format(table2_data, 4); // Apply formatter to fifth column
+		formatter.format(table2_data, 2);
+		formatter.format(table2_data, 3);
+		formatterPercent.format(table2_data, 4);
 		table2.draw(table2_data);
 		
 		//Update chart 3
