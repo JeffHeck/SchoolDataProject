@@ -469,6 +469,7 @@
 			sampleParcelAV = sampleParcelAVMin
 		if (sampleParcelAV > sampleParcelAVMax)
 			sampleParcelAV = sampleParcelAVMax
+		sampleParcelPOF = sampleParcelAV / totalLevyAV;
 		table_input_data.setValue(0, 1, sampleParcelAV);
 		formatter.format(table_input_data, 1); // Apply formatter to second column
 		table_input.draw(table_input_data);
@@ -490,7 +491,6 @@
 		chart.draw(dataParcel, options);
 		
 		//Update table output
-		sampleParcelPOF = sampleParcelAV / totalLevyAV;
 		//totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
 		//averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 		//totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
