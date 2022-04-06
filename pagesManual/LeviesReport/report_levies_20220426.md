@@ -139,6 +139,29 @@ However a value of 0 will generally be slightly conservative and will generate e
 
 It is the author's opinion that county assessors (in all 39 WA counties) should be providing these calculators for their constituents. To date, only King County is making an effort.
 
+Example calculator calculation:
+
+Issaquah SD
+
+Total District AV for 2022: $40,480,082,421
+
+Sampler parcel AV for 2022: $1,100,000
+
+POF for 2022 assumed to be the same for years 2023 - 2026: $1,100,000 / 40,480,082,421 = 2.717E-5
+
+Enhancement Levy amount to collect in 2023: $61,000,000
+
+Sampler parcel's 2023 tax for the Enhancement Levy: POF * (Enhancement Levy amount to collect in 2023) = 2.717E-5 * $61,000,000 = $1,658
+
+Similarly for the years 2024 - 2026
+
+2024 tax = 2.717E-5 * $64,000,000 = $1,739
+
+2025 tax = 2.717E-5 * $67,000,000 = $1,821
+
+2026 tax = 2.717E-5 * $70,000,000 = $1,902
+
+
 ___
 
 
