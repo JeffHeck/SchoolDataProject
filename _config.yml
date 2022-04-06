@@ -24,6 +24,8 @@ rss: rss
 # - username: jekyll2
 #   instance: example.com
 
+google_analytics: G-ZC6R075MGV
+
 paginate: 10 # Needed to show more than 1 post on the home page
 show_excerpts: false # set to true to show excerpts on the homepage
 
