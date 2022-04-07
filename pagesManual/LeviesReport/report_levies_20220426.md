@@ -85,9 +85,7 @@ ___
 
 [Calculator for the Granite Falls SD](calculator_granite_falls)
 
-[Calculator Enhanced Version for the Issaquah SD](calculator_issaquah_enhanced)
-
-[Calculator for the Issaquah SD](calculator_issaquah)
+[Calculator for the Issaquah SD](calculator_issaquah_enhanced)
 
 [Calculator for the Kennewick SD](calculator_kennewick)
 
