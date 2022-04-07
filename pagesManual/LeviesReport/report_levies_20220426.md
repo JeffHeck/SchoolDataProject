@@ -97,6 +97,8 @@ ___
 
 [Calculator for the Marysville SD](calculator_marysville)
 
+[Calculator Enhanced Version for the Ocean Beach SD](calculator_ocean_beach_enhanced)
+
 [Calculator for the Ocean Beach SD](calculator_ocean_beach)
 
 [Calculator for the Prosser SD](calculator_prosser)
