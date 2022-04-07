@@ -97,17 +97,15 @@ ___
 
 [Calculator for the Marysville SD](calculator_marysville)
 
-[Calculator Enhanced Version for the Ocean Beach SD](calculator_ocean_beach_enhanced)
-
-[Calculator for the Ocean Beach SD](calculator_ocean_beach)
+[Calculator for the Ocean Beach SD](calculator_ocean_beach_enhanced)
 
 [Calculator for the Prosser SD](calculator_prosser)
 
-[Calculator for the Quilcene SD](calculator_quilcene)
+[Calculator for the Quilcene SD](calculator_quilcene_enhanced)
 
 [Calculator for the Republic SD](calculator_republic)
 
-[Calculator for the Ridgefield SD](calculator_ridgefield)
+[Calculator for the Ridgefield SD](calculator_ridgefield_enhanced)
 
 [Calculator for the Southside SD](calculator_southside)
 
