@@ -556,10 +556,10 @@
 			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i - levyYears);
 			data4Parcel.setValue(i, 0, data4.getValue(i, 0));
 			data4Parcel.setValue(i, 1, data4.getValue(i, 1) * sampleParcelPOFEffective);
-			data4Parcel.setValue(i, 2, data4.getValue(i, 2) * sampleParcelPOFEffective);
+			//data4Parcel.setValue(i, 2, data4.getValue(i, 2) * sampleParcelPOFEffective);
 		}		
 		formatter.format(data4Parcel, 1); // Apply formatter to second column
-		formatter.format(data4Parcel, 2); // Apply formatter to third column
+		//formatter.format(data4Parcel, 2); // Apply formatter to third column
 		chart4.draw(data4Parcel, options4);
 		//Update chart 5
 		sampleParcelPOFEffective = sampleParcelPOF;
