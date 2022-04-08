@@ -15,17 +15,17 @@ permalink: report_levies_20220426
   - Evergreen SD
   - Finley SD
   - Grandview SD
-  - Granite Falls SD
-  - Issaquah SD (Including an enhanced version)
+  - Granite Falls SD (Enhanced version)
+  - Issaquah SD (Enhanced version)
   - Kennewick SD
   - Lakewood SD
   - Longview SD
-  - Marysville SD
-  - Ocean Beach SD
+  - Marysville SD (Enhanced version)
+  - Ocean Beach SD (Enhanced version)
   - Prosser SD
-  - Quilcene SD
+  - Quilcene SD (Enhanced version)
   - Republic SD
-  - Ridgefield SD
+  - Ridgefield SD (Enhanced version)
   - Southside SD
   - Stanwood-Camano SD
   - Sultan SD
@@ -83,7 +83,7 @@ ___
 
 [Calculator for the Grandview SD](calculator_grandview)
 
-[Calculator for the Granite Falls SD](calculator_granite_falls)
+[Calculator for the Granite Falls SD](calculator_granite_falls_enhanced)
 
 [Calculator for the Issaquah SD](calculator_issaquah_enhanced)
 
