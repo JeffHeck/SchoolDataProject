@@ -28,7 +28,7 @@ permalink: report_levies_20220426
   - Ridgefield SD (Enhanced version)
   - Southside SD
   - Stanwood-Camano SD
-  - Sultan SD
+  - Sultan SD (Enhanced version)
   - Wahluke SD
 - Calculator methodology
 
@@ -109,7 +109,7 @@ ___
 
 [Calculator for the Stanwood-Camano SD](calculator_stanwood-camano)
 
-[Calculator for the Sultan SD](calculator_sultan)
+[Calculator for the Sultan SD](calculator_sultan_enhanced)
 
 [Calculator for the Wahluke SD](calculator_wahluke)
 

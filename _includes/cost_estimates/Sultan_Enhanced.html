@@ -10,12 +10,12 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 11288263795;
-	sampleParcelAV = 600000;
+	totalLevyAV = 2254440571;
+	sampleParcelAV = 550000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 96020000;
-	totalLevy2Cost = 12550000;
+	totalLevyCost = 18321188;
+	totalLevy2Cost = 11746361;
 	//totalLevy3Cost = <<TotalLevy3Cost>>;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
@@ -28,11 +28,11 @@
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	averageTotalLevy2CostParcel = totalLevy2CostParcel / levy2Years;
 	//averageTotalLevy3CostParcel = totalLevy3CostParcel / levy3Years;
-	totalLevyPriorCost = 88420461.0;
+	totalLevyPriorCost = 11719292.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// Prior levy 2 info
-	totalLevy2PriorCost = 24137020.0;
+	totalLevy2PriorCost = 4124755.0;
 	totalLevy2PriorCostParcel = sampleParcelPOF * totalLevy2PriorCost;
 	averageTotalLevy2PriorCostParcel = totalLevy2PriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -50,14 +50,14 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2019', 12975769, 0],
-			['2020', 23659627, 0],
-			['2021', 25285065, 0],
-			['2022', 26500000, 0],
-			['2023', 0, 22950000],
-			['2024', 0, 23640000],
-			['2025', 0, 24350000],
-			['2026', 0, 25080000],
+			['2019', 2372865, 0],
+			['2020', 2727637, 0],
+			['2021', 3083775, 0],
+			['2022', 3535015, 0],
+			['2023', 0, 3912643],
+			['2024', 0, 4382161],
+			['2025', 0, 4820377],
+			['2026', 0, 5206007],
 
 		]);
 
@@ -68,14 +68,14 @@
 		data2.addColumn('number', 'New Levy Amount');
 
 		data2.addRows([
-			['2019', 6000868.0, 0],
-			['2020', 6000000.0, 0],
-			['2021', 6136152.0, 0],
-			['2022', 6000000.0, 0],
-			['2023', 0, 3000000.0],
-			['2024', 0, 3090000.0],
-			['2025', 0, 3182000.0],
-			['2026', 0, 3278000.0],
+			['2019', 889570.0, 0],
+			['2020', 957361.0, 0],
+			['2021', 1072244.0, 0],
+			['2022', 1205580.0, 0],
+			['2023', 0, 2508534.0],
+			['2024', 0, 2809558.0],
+			['2025', 0, 3090514.0],
+			['2026', 0, 3337755.0],
 
 		]);
 
@@ -95,14 +95,14 @@
 		//data4.addColumn('number', 'Interest + Fees');
 
 		data4.addRows([
-			['2019', 7902600],
-			['2020', 7900000],
-			['2021', 9086249],
-			['2022', 9200000],
-			['2023', 9300000],
-			['2024', 9400000],
-			['2025', 9500000],
-			['2026', 9500000],
+			['2019', 0],
+			['2020', 0],
+			['2021', 0],
+			['2022', 0],
+			['2023', 0],
+			['2024', 0],
+			['2025', 0],
+			['2026', 0],
 
 		]);
 		
@@ -120,14 +120,14 @@
 		data5.addColumn('number', 'Non School');
 
 		data5.addRows([
-			['2019', 12975769, 0, 6000868, 0, 7902600, 22189420, 29988945],
-			['2020', 23659627, 0, 6000000, 0, 7900000, 27139703, 39824459],
-			['2021', 25285065, 0, 6136152, 0, 9086249, 28575551, 40842801],
-			['2022', 26500000, 0, 6000000, 0, 9200000, 30094063, 42257717],
-			['2023', 0, 22950000, 0, 3000000, 9300000, 0, 0],
-			['2024', 0, 23640000, 0, 3090000, 9400000, 0, 0],
-			['2025', 0, 24350000, 0, 3182000, 9500000, 0, 0],
-			['2026', 0, 25080000, 0, 3278000, 9500000, 0, 0],
+			['2019', 2372865, 0, 889570, 0, 0, 4191267, 7743390],
+			['2020', 2727637, 0, 957361, 0, 0, 5315203, 9059153],
+			['2021', 3083775, 0, 1072244, 0, 0, 5637490, 9246556],
+			['2022', 3535015, 0, 1205580, 0, 0, 6160210, 9712841],
+			['2023', 0, 3912643, 0, 2508534, 0, 0, 0],
+			['2024', 0, 4382161, 0, 2809558, 0, 0, 0],
+			['2025', 0, 4820377, 0, 3090514, 0, 0, 0],
+			['2026', 0, 5206007, 0, 3337755, 0, 0, 0],
 
 		]);
 
@@ -611,7 +611,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Marysville SD</H2>
+  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Sultan SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
