@@ -81,7 +81,7 @@ ___
 
 [Calculator for the Finley SD](calculator_finley)
 
-[Calculator for the Grandview SD](calculator_grandview)
+[Calculator for the Grandview SD](calculator_grandview_enhanced)
 
 [Calculator for the Granite Falls SD](calculator_granite_falls_enhanced)
 
