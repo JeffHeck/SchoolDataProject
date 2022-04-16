@@ -73,7 +73,7 @@ ___
 
 ## Taxpayer cost impact estimate calculators
 
-[Calculator for the Bethel SD](calculator_bethel)
+[Calculator for the Bethel SD](calculator_bethel_enhanced)
 
 [Calculator for the Central Kitsap SD](calculator_central_kitsap_enhanced)
 
