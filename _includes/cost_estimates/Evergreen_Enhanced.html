@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 1051653494;
-	sampleParcelAV = 350000;
+	totalLevyAV = 22759844084;
+	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 8900000;
+	totalLevyCost = 136200000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 4;
+	levyYears = 3;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 6875000.0;
+	totalLevyPriorCost = 105900000.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,14 +37,12 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2019', 1500000, 0],
-			['2020', 1725000, 0],
-			['2021', 1800000, 0],
-			['2022', 1850000, 0],
-			['2023', 0, 2000000],
-			['2024', 0, 2150000],
-			['2025', 0, 2300000],
-			['2026', 0, 2450000],
+			['2020', 31950000, 0],
+			['2021', 35300000, 0],
+			['2022', 38650000, 0],
+			['2023', 0, 42900000],
+			['2024', 0, 45500000],
+			['2025', 0, 47800000],
 
 		]);
 
@@ -115,7 +113,7 @@
 		table_data.addColumn('number', 'Percent Change');
 		table_data.addRows([
 			['Total cost', totalLevyPriorCostParcel, totalLevyCostParcel, totalLevyCostParcel-totalLevyPriorCostParcel, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100],
-			['Average cost per year for 4 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
+			['Average cost per year for 3 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
 		
 		]);
 
@@ -209,7 +207,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Grandview SD</H2>
+  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Evergreen SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>

@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 1051653494;
-	sampleParcelAV = 350000;
+	totalLevyAV = 6781482031;
+	sampleParcelAV = 400000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 8900000;
+	totalLevyCost = 21300000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
 	levyYears = 4;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 6875000.0;
+	totalLevyPriorCost = 12474924.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,14 +37,14 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2019', 1500000, 0],
-			['2020', 1725000, 0],
-			['2021', 1800000, 0],
-			['2022', 1850000, 0],
-			['2023', 0, 2000000],
-			['2024', 0, 2150000],
-			['2025', 0, 2300000],
-			['2026', 0, 2450000],
+			['2019', 3047682, 0],
+			['2020', 3094112, 0],
+			['2021', 3141936, 0],
+			['2022', 3191194, 0],
+			['2023', 0, 6300000],
+			['2024', 0, 5500000],
+			['2025', 0, 5000000],
+			['2026', 0, 4500000],
 
 		]);
 
@@ -209,7 +209,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Grandview SD</H2>
+  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Longview SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
@@ -222,7 +222,7 @@
   <input type="button" value="Decrease POF Annual Change" onclick="changePOFChange(-0.1)" />
   <p></p>
   <H3>Output</H3>
-  <H3>Enrichment Levy</H3>
+  <H3>Capital Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>

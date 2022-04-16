@@ -11,25 +11,25 @@ permalink: report_levies_20220426
 - Bond summary table
 - Taxpayer cost impact estimate calculators
   - Bethel SD
-  - Central Kitsap SD
-  - Evergreen SD
-  - Finley SD
-  - Grandview SD
+  - Central Kitsap SD (Enhanced version)
+  - Evergreen SD (Enhanced version)
+  - Finley SD (Enhanced version)
+  - Grandview SD (Enhanced version)
   - Granite Falls SD (Enhanced version)
   - Issaquah SD (Enhanced version)
-  - Kennewick SD
+  - Kennewick SD (Enhanced version)
   - Lakewood SD
-  - Longview SD
+  - Longview SD (Enhanced version)
   - Marysville SD (Enhanced version)
   - Ocean Beach SD (Enhanced version)
-  - Prosser SD
+  - Prosser SD (Enhanced version)
   - Quilcene SD (Enhanced version)
-  - Republic SD
+  - Republic SD (Enhanced version)
   - Ridgefield SD (Enhanced version)
-  - Southside SD
-  - Stanwood-Camano SD
+  - Southside SD (Enhanced version)
+  - Stanwood-Camano SD (Enhanced version)
   - Sultan SD (Enhanced version)
-  - Wahluke SD
+  - Wahluke SD (Enhanced version)
 - Calculator methodology
 
 ___
@@ -75,11 +75,11 @@ ___
 
 [Calculator for the Bethel SD](calculator_bethel)
 
-[Calculator for the Central Kitsap SD](calculator_central_kitsap)
+[Calculator for the Central Kitsap SD](calculator_central_kitsap_enhanced)
 
-[Calculator for the Evergreen SD](calculator_evergreen)
+[Calculator for the Evergreen SD](calculator_evergreen_enhanced)
 
-[Calculator for the Finley SD](calculator_finley)
+[Calculator for the Finley SD](calculator_finley_enhanced)
 
 [Calculator for the Grandview SD](calculator_grandview_enhanced)
 
@@ -87,31 +87,31 @@ ___
 
 [Calculator for the Issaquah SD](calculator_issaquah_enhanced)
 
-[Calculator for the Kennewick SD](calculator_kennewick)
+[Calculator for the Kennewick SD](calculator_kennewick_enhanced)
 
 [Calculator for the Lakewood SD](calculator_lakewood)
 
-[Calculator for the Longview SD](calculator_longview)
+[Calculator for the Longview SD](calculator_longview_enhanced)
 
 [Calculator for the Marysville SD](calculator_marysville_enhanced)
 
 [Calculator for the Ocean Beach SD](calculator_ocean_beach_enhanced)
 
-[Calculator for the Prosser SD](calculator_prosser)
+[Calculator for the Prosser SD](calculator_prosser_enhanced)
 
 [Calculator for the Quilcene SD](calculator_quilcene_enhanced)
 
-[Calculator for the Republic SD](calculator_republic)
+[Calculator for the Republic SD](calculator_republic_enhanced)
 
 [Calculator for the Ridgefield SD](calculator_ridgefield_enhanced)
 
-[Calculator for the Southside SD](calculator_southside)
+[Calculator for the Southside SD](calculator_southside_enhanced)
 
-[Calculator for the Stanwood-Camano SD](calculator_stanwood-camano)
+[Calculator for the Stanwood-Camano SD](calculator_stanwood-camano_enhanced)
 
 [Calculator for the Sultan SD](calculator_sultan_enhanced)
 
-[Calculator for the Wahluke SD](calculator_wahluke)
+[Calculator for the Wahluke SD](calculator_wahluke_enhanced)
 
 ### Calculator methodology
 

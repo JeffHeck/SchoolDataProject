@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 1051653494;
-	sampleParcelAV = 350000;
+	totalLevyAV = 310274806;
+	sampleParcelAV = 400000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 8900000;
+	totalLevyCost = 2823185;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
 	levyYears = 4;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 6875000.0;
+	totalLevyPriorCost = 2142580.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,14 +37,14 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2019', 1500000, 0],
-			['2020', 1725000, 0],
-			['2021', 1800000, 0],
-			['2022', 1850000, 0],
-			['2023', 0, 2000000],
-			['2024', 0, 2150000],
-			['2025', 0, 2300000],
-			['2026', 0, 2450000],
+			['2019', 351075, 0],
+			['2020', 585383, 0],
+			['2021', 597090, 0],
+			['2022', 609032, 0],
+			['2023', 0, 643065],
+			['2024', 0, 691677],
+			['2025', 0, 726140],
+			['2026', 0, 762303],
 
 		]);
 
@@ -209,7 +209,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Grandview SD</H2>
+  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Southside SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
