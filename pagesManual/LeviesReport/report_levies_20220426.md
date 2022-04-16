@@ -11,25 +11,25 @@ permalink: report_levies_20220426
 - Bond summary table
 - Taxpayer cost impact estimate calculators
   - Bethel SD
-  - Central Kitsap SD (Enhanced version)
-  - Evergreen SD (Enhanced version)
-  - Finley SD (Enhanced version)
-  - Grandview SD (Enhanced version)
-  - Granite Falls SD (Enhanced version)
-  - Issaquah SD (Enhanced version)
-  - Kennewick SD (Enhanced version)
+  - Central Kitsap SD
+  - Evergreen SD
+  - Finley SD
+  - Grandview SD
+  - Granite Falls SD
+  - Issaquah SD
+  - Kennewick SD
   - Lakewood SD
-  - Longview SD (Enhanced version)
-  - Marysville SD (Enhanced version)
-  - Ocean Beach SD (Enhanced version)
-  - Prosser SD (Enhanced version)
-  - Quilcene SD (Enhanced version)
-  - Republic SD (Enhanced version)
-  - Ridgefield SD (Enhanced version)
-  - Southside SD (Enhanced version)
-  - Stanwood-Camano SD (Enhanced version)
-  - Sultan SD (Enhanced version)
-  - Wahluke SD (Enhanced version)
+  - Longview SD
+  - Marysville SD
+  - Ocean Beach SD
+  - Prosser SD
+  - Quilcene SD
+  - Republic SD
+  - Ridgefield SD
+  - Southside SD
+  - Stanwood-Camano SD
+  - Sultan SD
+  - Wahluke SD
 - Calculator methodology
 
 ___
