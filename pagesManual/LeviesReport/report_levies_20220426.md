@@ -9,6 +9,8 @@ permalink: report_levies_20220426
 - Summary
 - Levy summary table
 - Bond summary table
+- Enrichment levy summary table and chart
+- Capital levy summary table and chart
 - Taxpayer cost impact estimate calculators
   - Bethel SD
   - Central Kitsap SD
@@ -68,6 +70,22 @@ ___
 ## Bond summary table
 
 ![Bond summary table](pagesManual/LeviesReport/20220426/BondTable.png "Bond summary table")
+
+___
+
+## Enrichment levy summary table and chart
+
+![Enrichment summary table](pagesManual/LeviesReport/20220426/EnrichmentLeviesSummaryTable.png "Enrichment summary table")
+
+![Enrichment summary chart](pagesManual/LeviesReport/20220426/EnrichmentLeviesSummaryChart.png "Enrichment summary chart")
+
+___
+
+## Capital levy summary table and chart
+
+![Capital summary table](pagesManual/LeviesReport/20220426/CapitalLeviesSummaryTable.png "Capital summary table")
+
+![Capital summary chart](pagesManual/LeviesReport/20220426/CapitalLeviesSummaryChart.png "Capital summary chart")
 
 ___
 
