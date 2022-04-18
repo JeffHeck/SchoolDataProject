@@ -14,7 +14,7 @@ permalink: report_levies_20220426
 - Taxpayer cost impact estimate calculators
   - Bethel SD
   - Central Kitsap SD
-  - Evergreen SD
+  - Evergreen SD (Clark)
   - Finley SD
   - Grandview SD
   - Granite Falls SD
@@ -95,7 +95,7 @@ ___
 
 [Calculator for the Central Kitsap SD](calculator_central_kitsap_enhanced)
 
-[Calculator for the Evergreen SD](calculator_evergreen_enhanced)
+[Calculator for the Evergreen SD (Clark)](calculator_evergreen_enhanced)
 
 [Calculator for the Finley SD](calculator_finley_enhanced)
 
