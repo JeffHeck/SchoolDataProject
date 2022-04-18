@@ -107,7 +107,7 @@ ___
 
 [Calculator for the Kennewick SD](calculator_kennewick_enhanced)
 
-[Calculator for the Lakewood SD](calculator_lakewood)
+[Calculator for the Lakewood SD](calculator_lakewood_enhanced)
 
 [Calculator for the Longview SD](calculator_longview_enhanced)
 
