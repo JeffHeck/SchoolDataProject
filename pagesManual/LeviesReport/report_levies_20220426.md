@@ -33,6 +33,8 @@ permalink: report_levies_20220426
   - Sultan SD
   - Wahluke SD
 - Calculator methodology
+- [County cost impact reports](report_counties_cost_analyses)
+- [District cost impact reports](report_districts_cost_analyses)
 
 ___
 
@@ -180,4 +182,12 @@ Similarly for the years 2024 - 2026
 
 ___
 
+## County cost impact reports
 
+[County cost impact reports](report_counties_cost_analyses)
+
+___
+
+## District cost impact reports
+
+[Districts cost impact reports](report_districts_cost_analyses)
