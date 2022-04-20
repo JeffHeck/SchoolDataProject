@@ -39,7 +39,7 @@ ___
 ### The Author's Review
 
 - King County has had a Taxpayer Transparency Tool since 2018.
-- King County has recently, for this April 26th 2022 election, added a stacked bar chart showing the a 4 year history of property taxes for each parcel. That is a positive, useful step.
+- King County has recently, for this April 26th 2022 election, added a stacked bar chart showing a 4 year history of property taxes for each parcel. That is a positive, useful step.
 - King County fails on providing logical, accurate, mathematically valid tax impacts of the measures that voters are facing.
 - The "Educational Programs & Operations Levy" is supposed to be now called an "Enhancement Levy."
 - The 2 main tax measures are each 4 years long. The county is only giving an estimate for the 1st year of the new 4 year levies. And the information for that 1 year is incorrect.
@@ -51,3 +51,21 @@ This is giving taxpayers a false, underestimated cost impact.
 This is illogical, invalid and mathematically incorrect. It all leads to underestimating the cost impact to taxpayers.
 - While King County deserves commending for starting a Taxpayer Transparency Tool, it earns a failing grade when it comes to implementation. 
 King County is giving its voters false, incorrect information. 
+
+___
+
+## Other Counties With School District Measures
+
+The following counties have school districts with one or more school district measures on the ballot but, to date, their assessor's departments provided no information on the cost impacts of those measures:
+
+- Benton
+- Clark
+- Ferry
+- Grant
+- Jefferson
+- Kitsap
+- Mason
+- Pacific
+- Pierce
+- Snohomish
+- Yakima
