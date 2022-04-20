@@ -56,7 +56,7 @@ ___
 
 ## Other Counties With School District Measures
 
-The following counties have school districts with one or more school district measures on the ballot but, to date, their assessor's departments provided no information on the cost impacts of those measures:
+The following counties have school districts with one or more school district measures on the ballot but, to date, their assessor's departments provided no independent information on the cost impacts of those measures:
 
 - Benton
 - Clark
