@@ -40,7 +40,7 @@ ___
 
 - King County has had a Taxpayer Transparency Tool since 2018.
 - King County has recently, for this April 26th 2022 election, added a stacked bar chart showing a 4 year history of property taxes for each parcel. That is a positive, useful step.
-- King County fails on providing logical, accurate, mathematically valid tax impacts of the measures that voters are facing.
+- However, King County fails on providing logical, accurate, mathematically valid tax impacts of the measures that voters are facing.
 - The "Educational Programs & Operations Levy" is supposed to be now called an "Enhancement Levy."
 - The 2 main tax measures are each 4 years long. The county is only giving an estimate for the 1st year of the new 4 year levies. And the information for that 1 year is incorrect.
 - The 1st year of the new levies is the lowest in tax amount of the 4 years that the school district will collect.
