@@ -26,7 +26,7 @@ ___
 
 Cowlitz County Assessor's reps correctly allowed the sample parcel's AV, in their example, 
 to increase at the same rate as the assumed growth for the total AV. This simple fact is what almost all school districts fail to incorporate in their cost analyses. 
-And it is why those school districts under report future costs to taxpayers.
+And it is why those school districts underestimate future costs to taxpayers.
 
 ___
 
