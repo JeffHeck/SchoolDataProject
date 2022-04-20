@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Counties' Taxpayer Cost Impact Reports For School District Measures For The April 26th 2022 Election
+title: A Review Of The Taxpayer Cost Impact Reports Generated From The County Assessors For Their School Districts' Measures For The April 26th 2022 Election
 permalink: report_counties_cost_analyses
 ---
 
@@ -18,7 +18,7 @@ ___
 
 ## Cowlitz County
 
-### County's Report For The Longview SD
+### County Assessor's Report For The Longview SD
 
 ![Cowlitz County Report](pagesManual/LeviesReport/20220426/CowlitzCountyLongviewCostAnalysesWithBorder.png "Cowlitz County Report")
 
@@ -32,7 +32,7 @@ ___
 
 ## King County
 
-### County's Report For An Issaquah SD Area Parcel
+### County Assessor's Report For An Issaquah SD Area Parcel
 
 ![King County Report](pagesManual/LeviesReport/20220426/KingCountyCostAnalysisWithBorder.png "King County Report")
 

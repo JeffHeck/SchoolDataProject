@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Review Of WA School Districts' Tax Measures' Cost Impact Analyses For The April 26th 2022 Election
+title: A Review Of The Taxpayer Cost Impact Reports Generated From School Districts For Their Own Measures For The April 26th 2022 Election
 permalink: report_districts_cost_analyses
 ---
 

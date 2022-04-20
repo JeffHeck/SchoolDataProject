@@ -33,8 +33,8 @@ permalink: report_levies_20220426
   - Sultan SD
   - Wahluke SD
 - Calculator methodology
-- [County cost impact reports](report_counties_cost_analyses)
-- [District cost impact reports](report_districts_cost_analyses)
+- [A review of the taxpayer cost impact reports generated from the county assessors for their school districts' measures for the April 26th 2022 election](report_counties_cost_analyses)
+- [A review of the cost impact reports generated from school districts for their own measures for the April 26th 2022 election](report_districts_cost_analyses)
 
 ___
 
@@ -184,10 +184,10 @@ ___
 
 ## County cost impact reports
 
-[County cost impact reports](report_counties_cost_analyses)
+[A review of the taxpayer cost impact reports generated from the county assessors for their school districts' measures for the April 26th 2022 election](report_counties_cost_analyses)
 
 ___
 
 ## District cost impact reports
 
-[Districts cost impact reports](report_districts_cost_analyses)
+[A review of the cost impact reports generated from school districts for their own measures for the April 26th 2022 election](report_districts_cost_analyses)
