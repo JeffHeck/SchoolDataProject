@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calculator - Enhanced Version
+title: Calculator
 permalink: calculator_issaquah_enhanced
 ---
 
