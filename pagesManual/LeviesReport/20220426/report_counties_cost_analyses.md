@@ -6,6 +6,7 @@ permalink: report_counties_cost_analyses
 
 
 ## Contents
+- Summary
 - Cowlitz County
   - County's Report For The Longview SD
   - The Author's Review
@@ -13,6 +14,15 @@ permalink: report_counties_cost_analyses
   - County's Report For An Issaquah SD Parcel
   - The Author's Review
 - Other Counties With School District Measures
+- Calculator methodology
+
+
+___
+
+## Summary
+
+For each county with an independent cost impact analysis, the county developed and published cost analysis is marked with a red border. 
+Then the author's review of each analysis is given along with a link to a realistic, cost impact estimate calculator.
 
 ___
 
@@ -24,9 +34,12 @@ ___
 
 ### The Author's Review
 
-Cowlitz County Assessor's reps correctly allowed the sample parcel's AV, in their example, 
-to increase at the same rate as the assumed growth for the total AV. This simple fact is what almost all school districts fail to incorporate in their cost analyses. 
-And it is why those school districts underestimate future costs to taxpayers.
+- Cowlitz County Assessor's reps correctly allowed the sample parcel's AV, in their example, 
+to increase at the same rate as the assumed growth for the total AV. 
+- This logic used by Cowlitz gives the same results as the Proportional Obligation Factor (POF) method that the author used in the cost impact estimate calculators. The one difference being that the 
+calculators also have a parameter for a POF annual change factor to account for new construction growth or other factors.
+
+[Calculator for the Longview SD](calculator_longview_enhanced)
 
 ___
 
@@ -52,6 +65,8 @@ This is illogical, invalid and mathematically incorrect. It all leads to underes
 - While King County deserves commending for starting a Taxpayer Transparency Tool, it earns a failing grade when it comes to implementation. 
 King County is giving its voters false, incorrect information. 
 
+[Calculator for the Issaquah SD](calculator_issaquah_enhanced)
+
 ___
 
 ## Other Counties With School District Measures
@@ -69,3 +84,10 @@ The following counties have school districts with one or more school district me
 - Pierce
 - Snohomish
 - Yakima
+
+
+## Calculator methodology
+
+[Calculator methodology can be found on the main election report](report_levies_20220426)
+
+___
