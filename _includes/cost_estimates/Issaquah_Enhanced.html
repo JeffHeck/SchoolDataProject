@@ -360,7 +360,7 @@
 			data6Parcel.setCell(i, 2, data5.getValue(i, 2) * 0); // New enhancement levy
 			data6Parcel.setCell(i, 3, data5.getValue(i, 3) * sampleParcelPOFEffective);
 			data6Parcel.setCell(i, 4, data5.getValue(i, 4) * 0); // New capital levy
-			data6Parcel.setCell(i, 5, data5.getValue(i, 5) * sampleParcelPOFEffective);
+			data6Parcel.setCell(i, 5, data5.getValue(i, 5) * 0); // New transportation
 			data6Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 			data6Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
@@ -683,10 +683,10 @@
 			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i - levyYears);
 			data6Parcel.setValue(i, 0, data5.getValue(i, 0));
 			data6Parcel.setValue(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
-			data6Parcel.setValue(i, 2, data5.getValue(i, 2) * sampleParcelPOFEffective); // New enhancement levy
+			data6Parcel.setValue(i, 2, data5.getValue(i, 2) * 0); // New enhancement levy
 			data6Parcel.setValue(i, 3, data5.getValue(i, 3) * sampleParcelPOFEffective);
-			data6Parcel.setValue(i, 4, data5.getValue(i, 4) * sampleParcelPOFEffective); // New capital levy
-			data6Parcel.setValue(i, 5, data5.getValue(i, 5) * sampleParcelPOFEffective);
+			data6Parcel.setValue(i, 4, data5.getValue(i, 4) * 0); // New capital levy
+			data6Parcel.setValue(i, 5, data5.getValue(i, 5) * 0); // New transportation
 			data6Parcel.setValue(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 			data6Parcel.setValue(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
