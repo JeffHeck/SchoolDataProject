@@ -39,7 +39,11 @@ to increase at the same rate as the assumed growth for the total AV.
 - This logic used by Cowlitz gives the same results as the Proportional Obligation Factor (POF) method that the author used in the cost impact estimate calculators. The one difference being that the 
 calculators also have a parameter for a POF annual change factor to account for new construction growth or other factors.
 
-[Calculator for the Longview SD](calculator_longview_enhanced)
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/LongviewCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Longview SD's Measure](calculator_longview_enhanced)
 
 ___
 
@@ -65,7 +69,15 @@ This is illogical, invalid and mathematically incorrect. It all leads to underes
 - While King County deserves commending for starting a Taxpayer Transparency Tool, it earns a failing grade when it comes to implementation. 
 King County is giving its voters false, incorrect information. 
 
-[Calculator for the Issaquah SD](calculator_issaquah_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/IssaquahEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/IssaquahCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Issaquah SD's Measures](calculator_issaquah_enhanced)
 
 ___
 
