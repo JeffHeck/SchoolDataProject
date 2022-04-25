@@ -67,7 +67,7 @@ This is giving taxpayers a false, underestimated cost impact.
 - The county is using the assumed tax rates supplied by the school district for 2023. But the county is not using the assumed total AV that the school district is using. 
 This is illogical, invalid and mathematically incorrect. It all leads to underestimating the cost impact to taxpayers.
 - While King County deserves commending for starting a Taxpayer Transparency Tool, it earns a failing grade when it comes to implementation. 
-King County is giving its voters false, incorrect information. 
+King County is giving its voters false, underestimated cost impact information. 
 
 Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
 
