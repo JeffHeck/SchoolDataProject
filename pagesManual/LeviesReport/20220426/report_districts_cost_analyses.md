@@ -53,7 +53,11 @@ The Finley SD's cost analysis has the following problems:
 - No mention of the assumed increases in assessed values is given.
 - The district did not convey how this levy is a 31% increase, in dollars, over the previous levy. 
 
-[Calculator for the Finley SD](calculator_finley_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/FinleyEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Finley SD's measure](calculator_finley_enhanced)
 
 ___
 
@@ -69,7 +73,11 @@ The Kennewick SD's cost analysis has the following problems:
 - The assessed value for the example home stays flat while the district assumes that the total AV (all other homes, apartments and businesses) appreciates. This underestimates the cost impact to the parcel owner.
 - The district did not convey how this levy is a 27% increase, in dollars, over the previous levy.
 
-[Calculator for the Kennewick SD](calculator_kennewick_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/KennewickEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Kennewick SD's measure](calculator_kennewick_enhanced)
 
 ___
 
@@ -85,7 +93,11 @@ The Prosser SD's cost analysis has the following problems:
 - No concrete example parcels (homes or apartments) are given.
 - The district did not convey how this levy is a 21% increase, in dollars, over the previous levy.
 
-[Calculator for the Prosser SD](calculator_prosser_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/ProsserEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Prosser SD's measure](calculator_prosser_enhanced)
 
 ___
 
@@ -103,7 +115,11 @@ The Evergreen SD's cost analysis has the following problems:
 - No mention of the assumed increases in assessed values is given.
 - The district did not convey how this levy is a 29% increase, in dollars, over the previous levy
 
-[Calculator for the Evergreen SD (Clark)](calculator_evergreen_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/EvergreenEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Evergreen SD's measure (Clark)](calculator_evergreen_enhanced)
 
 ___
 
@@ -138,7 +154,11 @@ The Longview SD's cost analysis has the following problems:
 - The district is conflating different expenses when a simple question as to the cost of this one levy is being requested.
 - The district did not convey how this levy is a 71% tax increase, in dollars, over the previous levy.
 
-[Calculator for the Longview SD](calculator_longview_enhanced)
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/LongviewCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Longview SD's measure](calculator_longview_enhanced)
 
 ___
 
@@ -153,7 +173,11 @@ ___
 The Republic SD's cost analysis has the following problems:
 - The district did not convey how this levy is a 6% tax increase, in dollars, over the previous levy.
 
-[Calculator for the Republic SD](calculator_republic_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/RepublicEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Republic SD's measure](calculator_republic_enhanced)
 
 ___
 
@@ -171,7 +195,11 @@ The Wahluke SD's cost analysis has the following problems:
 - No mention of the assumed increases in assessed values is given.
 - The district did not convey how this levy is a 42% tax increase, in dollars, over the previous levy. 
 
-[Calculator for the Wahluke SD](calculator_wahluke_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/WahlukeEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Wahluke SD's measure](calculator_wahluke_enhanced)
 
 ___
 
@@ -206,6 +234,14 @@ The Issaquah SD's cost analysis has the following problems:
 - The district did not convey how this Enrichment Levy is a 41% tax increase, in dollars, over the previous Enrichment Levy.
 - The district did not convey how this Capital Levy is a 106% tax increase, in dollars, over the previous Capital Levy.
 	
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/IssaquahEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/IssaquahCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
 [Calculator for the Issaquah SD](calculator_issaquah_enhanced)
 
 ___
@@ -224,7 +260,11 @@ The Central Kitsap SD's cost analysis has the following problems:
 - No mention of the assumed increases in assessed values is given.
 - The district did not convey how this levy is a 27% tax increase, in dollars, over the previous levy.
 	
-[Calculator for the Central Kitsap SD](calculator_central_kitsap_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/CentralKitsapEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Central Kitsap SD's measure](calculator_central_kitsap_enhanced)
 
 ___
 
@@ -242,7 +282,11 @@ The Southside SD's cost analysis has the following problems:
 - No mention of the assumed increases in assessed values is given.
 - The district did not convey how this levy is a 32% tax increase, in dollars, over the previous levy.
 
-[Calculator for the Southside SD](calculator_southside_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/SouthsideEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Southside SD's measure](calculator_southside_enhanced)
 
 ___
 
@@ -276,7 +320,15 @@ The Bethel SD's cost analysis has the following problems:
 - The district did not convey how this Enhancement Levy is a 41% tax increase, in dollars, over the previous Enhancement Levy.
 - The district did not convey how this Capital Levy is an 11% tax increase, in dollars, over the previous Capital Levy.
 
-[Calculator for the Bethel SD](calculator_bethel_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/BethelEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/BethelCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Bethel SD's measures](calculator_bethel_enhanced)
 	
 ___
 
@@ -294,7 +346,15 @@ The Granite Falls SD's cost analysis has the following problems:
 - The district did not convey how this Enhancement Levy is a 23% increase, in dollars, over the previous Enhancement Levy.
 - The district did not convey how this Capital Levy is a 17% increase, in dollars, over the previous Capital Levy. 
 
-[Calculator for the Granite Falls SD](calculator_granite_falls_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/GraniteFallsEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/GraniteFallsCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Granite Falls SD's measures](calculator_granite_falls_enhanced)
 
 ___
 
@@ -309,7 +369,11 @@ ___
 The Lakewood SD's cost analysis has the following problems:
 - The district did not convey how this 4 year levy is a 64% tax increase, in dollars, over the previous 4 year levy.
 
-[Calculator for the Lakewood SD](calculator_lakewood_enhanced)
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/LakewoodCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Lakewood SD's measure](calculator_lakewood_enhanced)
 
 ___
 
@@ -326,7 +390,15 @@ The Marysville SD's cost analysis has the following problems:
 - The district did not convey how this Enhancement Levy is still a 9% tax increase, in dollars, over the previous 4 year Enhancement Levy.
 - The district did not convey how this Capital Levy is a 48% tax decrease, in dollars, over the previous 4 year Capital Levy
 
-[Calculator for the Marysville SD](calculator_marysville_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/MarysvilleEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/MarysvilleCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Marysville SD's measures](calculator_marysville_enhanced)
 
 ___
 
@@ -344,7 +416,11 @@ The Stanwood-Camano SD's cost analysis has the following problems:
 - No mention of the assumed increases in assessed values is given.
 - The district did not convey how this 4 year levy is a 23% tax increase, in dollars, over the previous 4 year levy. 
 
-[Calculator for the Stanwood-Camano SD](calculator_stanwood-camano_enhanced)
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/Stanwood-CamanoCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Stanwood-Camano SD's measure](calculator_stanwood-camano_enhanced)
 
 ___
 
@@ -362,7 +438,15 @@ The Sultan SD's cost analysis has the following problems:
 - The district did not convey how this Enhancement Levy is a 50% increase, in dollars, over the previous Enhancement Levy.  And that is assuming a 1% annual addition to the total AV in the district due to new construction.
 - The district did not convey how this Capital Levy is a 174% increase, in dollars, over the previous Capital Levy.  And that is also assuming a 1% annual addition to the total AV in the district due to new construction.
 
-[Calculator for the Sultan SD](calculator_sultan_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/SultanEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+Actual total amounts for the prior capital levy and the proposed new capital levy:
+
+![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/SultanCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
+
+[Calculator for the Sultan SD's measures](calculator_sultan_enhanced)
 
 ___
 
@@ -378,7 +462,11 @@ The Grandview SD's cost analysis has the following problems:
 - The assessed value for the example home stays flat while the district assumes that the total AV (all other homes, apartments, businesses) appreciate. This underestimates the cost impact to the parcel owner.
 - The district did not convey how this 4 year levy is a 29% tax increase, in dollars, over the previous 4 year levy.
 	
-[Calculator for the Grandview SD](calculator_grandview_enhanced)
+Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
+
+![Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts](pagesManual/LeviesReport/20220426/GrandviewEnrichment.png "Actual Prior Enrichment Levy Total Amounts and the Proposed New Enrichment Levy Total Amounts")
+
+[Calculator for the Grandview SD's measure](calculator_grandview_enhanced)
 
 ___
 
