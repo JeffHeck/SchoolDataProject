@@ -242,7 +242,7 @@ Actual total amounts for the prior capital levy and the proposed new capital lev
 
 ![Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts](pagesManual/LeviesReport/20220426/IssaquahCapital.png "Actual Prior Capital Levy Total Amounts and the Proposed New Capital Levy Total Amounts")
 
-[Calculator for the Issaquah SD](calculator_issaquah_enhanced)
+[Calculator for the Issaquah SD's measures](calculator_issaquah_enhanced)
 
 ___
 
