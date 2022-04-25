@@ -58,6 +58,15 @@ For the 3 bonds:
 - 2 of the con statement writers were found and selected by the districts.
 - 1 con statement writer was found and selected by the respective county.
 
+This April 2022 election, similar to the February 2022 election, is historic. The law has changed. A voters' pamphlet with pro/co arguments used to be optional with school districts deciding if they would allow a voters' pamphlet. 
+Voters' pamphlets (mailed to all voting households) for these special elections are now required. School districts still are tasked with finding, interviewing and selecting pro and con committee members to write the statements. 
+District administrators from the following school districts tried but could not find a single volunteer (3 max) to write the con statements for the now required voters' pamphlets:
+- Bethel SD
+- Grandview SD
+- Republic SD
+- Southside SD
+- Wahluke SD
+
 
 As analyses are completed, summary results will be provided on this page.
 
