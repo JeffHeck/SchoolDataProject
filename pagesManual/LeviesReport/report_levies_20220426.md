@@ -102,45 +102,45 @@ ___
 
 ## Taxpayer cost impact estimate calculators
 
-[Calculator for the Bethel SD](calculator_bethel_enhanced)
+[Calculator for the Bethel SD's Measures](calculator_bethel_enhanced)
 
-[Calculator for the Central Kitsap SD](calculator_central_kitsap_enhanced)
+[Calculator for the Central Kitsap SD's Measure](calculator_central_kitsap_enhanced)
 
-[Calculator for the Evergreen SD (Clark)](calculator_evergreen_enhanced)
+[Calculator for the Evergreen SD's Measure (Clark)](calculator_evergreen_enhanced)
 
-[Calculator for the Finley SD](calculator_finley_enhanced)
+[Calculator for the Finley SD's Measure](calculator_finley_enhanced)
 
-[Calculator for the Grandview SD](calculator_grandview_enhanced)
+[Calculator for the Grandview SD's Measure](calculator_grandview_enhanced)
 
-[Calculator for the Granite Falls SD](calculator_granite_falls_enhanced)
+[Calculator for the Granite Falls SD's Measures](calculator_granite_falls_enhanced)
 
-[Calculator for the Issaquah SD](calculator_issaquah_enhanced)
+[Calculator for the Issaquah SD's Measures](calculator_issaquah_enhanced)
 
-[Calculator for the Kennewick SD](calculator_kennewick_enhanced)
+[Calculator for the Kennewick SD's Measure](calculator_kennewick_enhanced)
 
-[Calculator for the Lakewood SD](calculator_lakewood_enhanced)
+[Calculator for the Lakewood SD's Measure](calculator_lakewood_enhanced)
 
-[Calculator for the Longview SD](calculator_longview_enhanced)
+[Calculator for the Longview SD's Measure](calculator_longview_enhanced)
 
-[Calculator for the Marysville SD](calculator_marysville_enhanced)
+[Calculator for the Marysville SD's Measures](calculator_marysville_enhanced)
 
-[Calculator for the Ocean Beach SD](calculator_ocean_beach_enhanced)
+[Calculator for the Ocean Beach SD's Measure](calculator_ocean_beach_enhanced)
 
-[Calculator for the Prosser SD](calculator_prosser_enhanced)
+[Calculator for the Prosser SD's Measure](calculator_prosser_enhanced)
 
-[Calculator for the Quilcene SD](calculator_quilcene_enhanced)
+[Calculator for the Quilcene SD's Measure](calculator_quilcene_enhanced)
 
-[Calculator for the Republic SD](calculator_republic_enhanced)
+[Calculator for the Republic SD's Measure](calculator_republic_enhanced)
 
-[Calculator for the Ridgefield SD](calculator_ridgefield_enhanced)
+[Calculator for the Ridgefield SD's Measure](calculator_ridgefield_enhanced)
 
-[Calculator for the Southside SD](calculator_southside_enhanced)
+[Calculator for the Southside SD's Measure](calculator_southside_enhanced)
 
-[Calculator for the Stanwood-Camano SD](calculator_stanwood-camano_enhanced)
+[Calculator for the Stanwood-Camano SD's Measure](calculator_stanwood-camano_enhanced)
 
-[Calculator for the Sultan SD](calculator_sultan_enhanced)
+[Calculator for the Sultan SD's Measures](calculator_sultan_enhanced)
 
-[Calculator for the Wahluke SD](calculator_wahluke_enhanced)
+[Calculator for the Wahluke SD's Measure](calculator_wahluke_enhanced)
 
 ### Calculator methodology
 
