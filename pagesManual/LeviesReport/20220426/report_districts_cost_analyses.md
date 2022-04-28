@@ -319,6 +319,7 @@ The Bethel SD's cost analysis has the following problems:
 - The assessed value for the example home stays flat while the district assumes that the total AV (all other homes, apartments, and businesses) appreciate. This underestimates the cost impact to the parcel owner.
 - The district did not convey how this Enhancement Levy is a 41% tax increase, in dollars, over the previous Enhancement Levy.
 - The district did not convey how this Capital Levy is an 11% tax increase, in dollars, over the previous Capital Levy.
+- The district stated that they would lose $50M if the levy fails. That is not the cost of the 2 levies. The cost of the levies, to taxpayers, is approximately $50M for each of the next 4 years or $200M in total.
 
 Actual total amounts for the prior enrichment levy and the proposed new enrichment levy:
 
