@@ -135,6 +135,10 @@ The Ridgefield SD's cost analysis has the following problems:
 - The district does not mention the estimated interest and fees that will add another $20M on top of the $62M principal. That $20M was an estimate from a bond management service organization back in December and a more realistic figure would be around $30M+. So another 50% on top of principal. 
 - A more realistic annual cost for a parcel with an assessed valued at $550,000 as of 2022 would be $446 for 20 years. 
 
+Expected total amounts for the bond principal and interest:
+
+![Expected Bond Total Amounts](pagesManual/LeviesReport/20220426/Ridgefield.png "Expected Bond Total Amounts")
+
 [Calculator for the Ridgefield SD's measure](calculator_ridgefield_enhanced)
 
 ___
@@ -214,6 +218,10 @@ ___
 The Quilcene SD's cost analysis has the following problems:
 - The district does not mention the estimated interest and fees that will add another $6.4M on top of the $12.3M principal. So another 52% on top of principal. 
 - A median home with an AV of  $450,000 as of 2022 can expect to pay $891 on average per year for the next 19 years for this 1 bond to cover the principal and interest. And that is assuming a 0.5% annual addition to the total AV in the district due to new construction.
+
+Expected total amounts for the bond principal and interest:
+
+![Expected Bond Total Amounts](pagesManual/LeviesReport/20220426/Quilcene.png "Expected Bond Total Amounts")
 
 [Calculator for the Quilcene SD's measure](calculator_quilcene_enhanced)
 	
@@ -301,6 +309,10 @@ ___
 The Ocean Beach SD's cost analysis has the following problems:
 - The district does not mention the estimated interest and fees that will add another $49.5M on top of the $196.1M principal. So another 51% on top of principal. 
 - A median home with an AV of  $400,000 as of 2022 can expect to pay $918 on average per year for the next 24 years for this 1 bond to cover the principal and interest. And that is assuming a 0.5% annual addition to the total AV in the district due to new construction.
+
+Expected total amounts for the bond principal and interest:
+
+![Expected Bond Total Amounts](pagesManual/LeviesReport/20220426/OceanBeach.png "Expected Bond Total Amounts")
 
 [Calculator for the Ocean Beach SD's measure](calculator_ocean_beach_enhanced)
 	
