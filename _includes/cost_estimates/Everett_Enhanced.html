@@ -10,29 +10,29 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 11288263795;
+	totalLevyAV = 27577292000;
 	sampleParcelAV = 600000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 96020000;
-	totalLevy2Cost = 12550000;
+	totalLevyCost = 272500000;
+	totalLevy2Cost = 325499000;
 	//totalLevy3Cost = <<TotalLevy3Cost>>;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
 	totalLevy2CostParcel = sampleParcelPOF * totalLevy2Cost;
 	//totalLevy3CostParcel = sampleParcelPOF * totalLevy3Cost;
 	levyYears = 4;
-	levy2Years = 4;
+	levy2Years = 6;
 	//levy3Years = <<Levy3Years>>;
-	bondYears = 7;
+	bondYears = 19;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	averageTotalLevy2CostParcel = totalLevy2CostParcel / levy2Years;
 	//averageTotalLevy3CostParcel = totalLevy3CostParcel / levy3Years;
-	totalLevyPriorCost = 88420461.0;
+	totalLevyPriorCost = 180875000.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// Prior levy 2 info
-	totalLevy2PriorCost = 24137020.0;
+	totalLevy2PriorCost = 89905000.0;
 	totalLevy2PriorCostParcel = sampleParcelPOF * totalLevy2PriorCost;
 	averageTotalLevy2PriorCostParcel = totalLevy2PriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -50,14 +50,14 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2019', 12975769, 0],
-			['2020', 23659627, 0],
-			['2021', 25285065, 0],
-			['2022', 26500000, 0],
-			['2023', 0, 22950000],
-			['2024', 0, 23640000],
-			['2025', 0, 24350000],
-			['2026', 0, 25080000],
+			['2019', 32766000, 0],
+			['2020', 45572000, 0],
+			['2021', 49277000, 0],
+			['2022', 53260000, 0],
+			['2023', 0, 65500000],
+			['2024', 0, 67000000],
+			['2025', 0, 69000000],
+			['2026', 0, 71000000],
 
 		]);
 
@@ -68,14 +68,18 @@
 		data2.addColumn('number', 'New Levy Amount');
 
 		data2.addRows([
-			['2019', 6000868.0, 0],
-			['2020', 6000000.0, 0],
-			['2021', 6136152.0, 0],
-			['2022', 6000000.0, 0],
-			['2023', 0, 3000000.0],
-			['2024', 0, 3090000.0],
-			['2025', 0, 3182000.0],
-			['2026', 0, 3278000.0],
+			['2017', 19004000.0, 0],
+			['2018', 19005000.0, 0],
+			['2019', 12968000.0, 0],
+			['2020', 12991000.0, 0],
+			['2021', 13031000.0, 0],
+			['2022', 12906000.0, 0],
+			['2023', 0, 35061000.0],
+			['2024', 0, 54808000.0],
+			['2025', 0, 56237000.0],
+			['2026', 0, 57513000.0],
+			['2027', 0, 60251000.0],
+			['2028', 0, 61629000.0],
 
 		]);
 
@@ -95,13 +99,25 @@
 		//data4.addColumn('number', 'Interest + Fees');
 
 		data4.addRows([
-			['2019', 8324000],
-			['2020', 8629000],
-			['2021', 8947000],
-			['2022', 9277000],
-			['2023', 9617000],
-			['2024', 9971000],
-			['2025', 10332000],
+			['2019', 60640000],
+			['2020', 57242000],
+			['2021', 31495000],
+			['2022', 23180000],
+			['2023', 20877000],
+			['2024', 5308000],
+			['2025', 5956000],
+			['2026', 6626000],
+			['2027', 5812000],
+			['2028', 6514000],
+			['2029', 7242000],
+			['2030', 7994000],
+			['2031', 7266000],
+			['2032', 8061000],
+			['2033', 8723000],
+			['2034', 8868000],
+			['2035', 8433000],
+			['2036', 8607000],
+			['2037', 4431000],
 
 		]);
 		
@@ -119,14 +135,27 @@
 		data5.addColumn('number', 'Non School');
 
 		data5.addRows([
-			['2019', 12975769, 0, 6000868, 0, 8324000, 22189420, 29988945],
-			['2020', 23659627, 0, 6000000, 0, 8629000, 27139703, 39824459],
-			['2021', 25285065, 0, 6136152, 0, 8947000, 28575551, 40842801],
-			['2022', 26500000, 0, 6000000, 0, 9277000, 30094063, 42257717],
-			['2023', 0, 22950000, 0, 3000000, 9617000, 0, 0],
-			['2024', 0, 23640000, 0, 3090000, 9971000, 0, 0],
-			['2025', 0, 24350000, 0, 3182000, 10332000, 0, 0],
-			['2026', 0, 25080000, 0, 3278000, 0, 0, 0],
+			['2019', 32766000, 0, 12968000, 0, 60640000, 56031723, 81230676],
+			['2020', 45572000, 0, 12991000, 0, 57242000, 68013596, 82412676],
+			['2021', 49277000, 0, 13031000, 0, 31495000, 70658315, 83983183],
+			['2022', 53260000, 0, 12906000, 0, 23180000, 73516008, 84823015],
+			['2023', 0, 65500000, 0, 35061000, 20877000, 0, 0],
+			['2024', 0, 67000000, 0, 54808000, 5308000, 0, 0],
+			['2025', 0, 69000000, 0, 56237000, 5956000, 0, 0],
+			['2026', 0, 71000000, 0, 57513000, 6626000, 0, 0],
+			['2027', 0, 0, 0, 0, 5812000, 0, 0],
+			['2028', 0, 0, 0, 0, 6514000, 0, 0],
+			['2029', 0, 0, 0, 0, 7242000, 0, 0],
+			['2030', 0, 0, 0, 0, 7994000, 0, 0],
+			['2031', 0, 0, 0, 0, 7266000, 0, 0],
+			['2032', 0, 0, 0, 0, 8061000, 0, 0],
+			['2033', 0, 0, 0, 0, 8723000, 0, 0],
+			['2034', 0, 0, 0, 0, 8868000, 0, 0],
+			['2035', 0, 0, 0, 0, 8433000, 0, 0],
+			['2036', 0, 0, 0, 0, 8607000, 0, 0],
+			['2037', 0, 0, 0, 0, 4431000, 0, 0],
+			['2017', 0, 0, 0, 0, 0, 35038165, 74461475],
+			['2018', 0, 0, 0, 0, 0, 55557431, 75938426],
 
 		]);
 
@@ -282,10 +311,10 @@
 		data5Parcel.addColumn('number', 'State School');
 		data5Parcel.addColumn('number', 'Non School');
 
-		data5Parcel.addRows(levy2Years * 2);
+		data5Parcel.addRows(levyYears * 2);
 
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < levy2Years * 2; i++) {
+		for (let i = 0; i < levyYears * 2; i++) {
 			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i - levyYears);
 			data5Parcel.setCell(i, 0, data5.getValue(i, 0));
 			data5Parcel.setCell(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
@@ -297,10 +326,10 @@
 			//data5Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= levy2Years) {
-				growthFactor = 1.01 ** (i-levy2Years + 1)
-				data5Parcel.setCell(i, 6, data5.getValue(levy2Years - 1, 6) * growthFactor * sampleParcelPOF);
-				data5Parcel.setCell(i, 7, data5.getValue(levy2Years - 1, 7) * growthFactor * sampleParcelPOF);
+			if (i >= levyYears) {
+				growthFactor = 1.01 ** (i-levyYears + 1)
+				data5Parcel.setCell(i, 6, data5.getValue(levyYears - 1, 6) * growthFactor * sampleParcelPOF);
+				data5Parcel.setCell(i, 7, data5.getValue(levyYears - 1, 7) * growthFactor * sampleParcelPOF);
 			} else {
 				data5Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 				data5Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
@@ -336,10 +365,10 @@
 		data6Parcel.addColumn('number', 'State School');
 		data6Parcel.addColumn('number', 'Non School');
 
-		data6Parcel.addRows(levy2Years * 2);
+		data6Parcel.addRows(levyYears * 2);
 
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < levy2Years * 2; i++) {
+		for (let i = 0; i < levyYears * 2; i++) {
 			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i - levyYears);
 			data6Parcel.setCell(i, 0, data5.getValue(i, 0));
 			data6Parcel.setCell(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
@@ -351,10 +380,10 @@
 			//data5Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= levy2Years) {
-				growthFactor = 1.01 ** (i-levy2Years + 1)
-				data6Parcel.setCell(i, 6, data5.getValue(levy2Years - 1, 6) * growthFactor * sampleParcelPOF);
-				data6Parcel.setCell(i, 7, data5.getValue(levy2Years - 1, 7) * growthFactor * sampleParcelPOF);
+			if (i >= levyYears) {
+				growthFactor = 1.01 ** (i-levyYears + 1)
+				data6Parcel.setCell(i, 6, data5.getValue(levyYears - 1, 6) * growthFactor * sampleParcelPOF);
+				data6Parcel.setCell(i, 7, data5.getValue(levyYears - 1, 7) * growthFactor * sampleParcelPOF);
 			} else {
 				data6Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 				data6Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
@@ -631,7 +660,7 @@
 		
 		// Update chart 5
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < levy2Years * 2; i++) {
+		for (let i = 0; i < levyYears * 2; i++) {
 			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i - levyYears);
 			data5Parcel.setValue(i, 0, data5.getValue(i, 0));
 			data5Parcel.setValue(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
@@ -643,10 +672,10 @@
 			//data5Parcel.setValue(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= levy2Years) {
-				growthFactor = 1.01 ** (i-levy2Years + 1)
-				data5Parcel.setCell(i, 6, data5.getValue(levy2Years - 1, 6) * growthFactor * sampleParcelPOF);
-				data5Parcel.setCell(i, 7, data5.getValue(levy2Years - 1, 7) * growthFactor * sampleParcelPOF);
+			if (i >= levyYears) {
+				growthFactor = 1.01 ** (i-levyYears + 1)
+				data5Parcel.setCell(i, 6, data5.getValue(levyYears - 1, 6) * growthFactor * sampleParcelPOF);
+				data5Parcel.setCell(i, 7, data5.getValue(levyYears - 1, 7) * growthFactor * sampleParcelPOF);
 			} else {
 				data5Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 				data5Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
@@ -665,7 +694,7 @@
 		
 		// Update chart 6
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < levy2Years * 2; i++) {
+		for (let i = 0; i < levyYears * 2; i++) {
 			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i - levyYears);
 			data6Parcel.setValue(i, 0, data5.getValue(i, 0));
 			data6Parcel.setValue(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
@@ -677,10 +706,10 @@
 			//data5Parcel.setValue(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= levy2Years) {
-				growthFactor = 1.01 ** (i-levy2Years + 1)
-				data6Parcel.setCell(i, 6, data5.getValue(levy2Years - 1, 6) * growthFactor * sampleParcelPOF);
-				data6Parcel.setCell(i, 7, data5.getValue(levy2Years - 1, 7) * growthFactor * sampleParcelPOF);
+			if (i >= levyYears) {
+				growthFactor = 1.01 ** (i-levyYears + 1)
+				data6Parcel.setCell(i, 6, data5.getValue(levyYears - 1, 6) * growthFactor * sampleParcelPOF);
+				data6Parcel.setCell(i, 7, data5.getValue(levyYears - 1, 7) * growthFactor * sampleParcelPOF);
 			} else {
 				data6Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 				data6Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
@@ -713,7 +742,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 26th 2022 levy measures proposed by the Marysville SD</H2>
+  <H2>(Preliminary) Property tax impact estimate calculator for the February 8th 2022 levy measures proposed by the Everett SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
@@ -726,11 +755,16 @@
   <input type="button" value="Decrease POF Annual Change" onclick="changePOFChange(-0.1)" />
   <p></p>
   <H3>Output</H3>
+  <H3>All Property Taxes With The Measures Approved</H3>
+  <p>Estimated obligations for the sample parcel</P>
+  <p>A 1% growth is assumed for the State School and NonSchool categories from 2023 - 2026</p>
+  <p>Note: All of the State School category tax is routed to the school district - in total</p>
+  <div id="chart5_div" style="width:800px; height: 640px;"></div>
   <H3>Enrichment Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>
-  <H3>Capital Levy</H3>
+  <H3>6 Year Capital Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
   <div id="table2_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart2_div" style="width:800px; height: 640px;"></div>
@@ -741,16 +775,11 @@
   <H3>Existing Bond</H3>
   <p>Estimated obligations for the sample parcel</P>
   <div id="chart4_div" style="width:800px; height: 640px;"></div>
-  <H3>All Property Taxes If The Measures Fail</H3>
+  <H3>All Property Taxes If The Measures Had Failed</H3>
   <p>Estimated obligations for the sample parcel</P>
   <p>A 1% growth is assumed for the State School and NonSchool categories from 2023 - 2026</p>
   <p>Note: All of the State School category tax is routed to the school district - in total</p>
   <div id="chart6_div" style="width:800px; height: 640px;"></div>
-  <H3>All Property Taxes If The Measures Pass</H3>
-  <p>Estimated obligations for the sample parcel</P>
-  <p>A 1% growth is assumed for the State School and NonSchool categories from 2023 - 2026</p>
-  <p>Note: All of the State School category tax is routed to the school district - in total</p>
-  <div id="chart5_div" style="width:800px; height: 640px;"></div>
   <H3>Data Sources</H3>
   <p>The district's 2022 levy resolutions</p>
   <p>The district's bond/levy projection datasheet obtained from a public records request</p>
