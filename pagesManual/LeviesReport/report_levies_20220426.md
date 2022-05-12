@@ -7,8 +7,8 @@ permalink: report_levies_20220426
 
 ## Contents
 - Summary
-- Levy summary table
-- Bond summary table
+- Levy summary tables
+- Bond summary tables
 - Enrichment levy summary table and chart
 - Capital levy summary table and chart
 - Taxpayer cost impact estimate calculators
@@ -41,24 +41,26 @@ ___
 ## Summary
 
 For the April 26th, 2022 special election:
-- There are 26 school district measures across the state.
-- 23 of the measures are levies.
-- 3 of the measures are bonds.
-- 17 of the 23 levies are reruns from the failed attempt on the 2/8/22 election.
-- 2 of the 3 bonds are reruns from the failed attempt on the 2/8/22 election.
+- There were 26 school district measures across the state.
+- 23 of the measures were levies.
+- 3 of the measures were bonds.
+- 17 of the 23 levies were reruns from the failed attempt on the 2/8/22 election.
+- 2 of the 3 bonds were reruns from the failed attempt on the 2/8/22 election.
+- 3 of the 3 bonds failed.
+- 7 of the 23 levies failed. 16 levies passed.
 
 For the 23 levy measures:
-- 22 have pro statements.
-- 17 have con statements.
+- 22 had pro statements.
+- 17 had con statements.
 - 4 of the con statement writers were found and selected by the districts.
 - 13 of the con statement writers were found and selected by the counties.
 
 For the 3 bonds:
-- All 3 have pro and con statements.
+- All 3 had pro and con statements.
 - 2 of the con statement writers were found and selected by the districts.
 - 1 con statement writer was found and selected by the respective county.
 
-This April 2022 election, similar to the February 2022 election, is historic. The law has changed. A voters' pamphlet with pro/con arguments used to be optional with school districts deciding if they would allow a voters' pamphlet. 
+This April 2022 election, similar to the February 2022 election, was historic. The law has changed. A voters' pamphlet with pro/con arguments used to be optional with school districts deciding if they would allow a voters' pamphlet. 
 Voters' pamphlets (mailed to all voting households) for these special elections are now required. School districts still are tasked with finding, interviewing and selecting pro and con committee members to write the statements. 
 District administrators from the following school districts, as well as their county auditors, tried but could not find a single volunteer (3 max) to write the con statements for the now required voters' pamphlets:
 - Ferry County, Republic SD
@@ -72,13 +74,17 @@ As analyses are completed, summary results will be provided on this page.
 
 ___
 
-## Levy summary table
+## Levy summary tables
+
+![Levy results table](pagesManual/LeviesReport/20220426/LevyTable3Results.png "Levy results table")
 
 ![Levy summary table](pagesManual/LeviesReport/20220426/LevyTable.png "Levy summary table")
 
 ___
 
-## Bond summary table
+## Bond summary tables
+
+![Bond results table](pagesManual/LeviesReport/20220426/BondTable3Results.png "Bond results table")
 
 ![Bond summary table](pagesManual/LeviesReport/20220426/BondTable.png "Bond summary table")
 
@@ -146,11 +152,11 @@ ___
 
 For these property tax impact estimate calculators, a Proportional Obligation Factor (POF) method was used.
 
-Using the 2022 Total District Assessed Value (AV), the POF of the sample parcel is calculated:
+Using the 2022 Total District Assessed Value (AV), the POF of the sample parcel was calculated:
 
 POF = (2022 Sample Parcel AV) / (2022 Total District AV)
 
-The POF is then multiplied by the total amount that the district expects to collect each year for the duration of the measure in question (bond or levy) 
+The POF was then multiplied by the total amount that the district expects to collect each year for the duration of the measure in question (bond or levy) 
 to obtain the estimated taxes for the sample parcel for the measure.
 
 Using this methodology, it doesn’t matter if all properties increase in AV by 10% or all decrease in AV by 10% (which could happen in a recession). 
