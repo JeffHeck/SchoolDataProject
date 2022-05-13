@@ -4,6 +4,7 @@ title: Reports
 permalink:
 ---
 
+- [School Measures on the August 2nd 2022 Ballot](report_levies_20220802)
 - [School Measures on the April 26th 2022 Ballot](report_levies_20220426)
 - [School Measures on the February 8th 2022 Ballot](report_levies_20220208)
 - [High School Graduate Outcomes](report_erdc)
