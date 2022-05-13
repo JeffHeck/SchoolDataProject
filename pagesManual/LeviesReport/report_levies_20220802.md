@@ -19,13 +19,13 @@ As analyses are completed, summary results will be provided on this page.
 
 ___
 
-
 ## Taxpayer cost impact estimate calculators
 
 [Calculator for the La Center SD's Measure](calculator_la_center_enhanced)
 
+___
 
-### Calculator methodology
+## Calculator methodology
 
 For these property tax impact estimate calculators, a Proportional Obligation Factor (POF) method was used.
 
