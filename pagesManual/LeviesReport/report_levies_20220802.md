@@ -9,6 +9,7 @@ permalink: report_levies_20220802
 - Summary
 - Taxpayer cost impact estimate calculators
   - La Center SD
+  - Ridgefield SD
 - Calculator methodology
 
 ___
