@@ -21,7 +21,9 @@ ___
 
 ## Taxpayer cost impact estimate calculators
 
-[Calculator for the La Center SD's Measure](calculator_la_center_enhanced)
+[Calculator for the La Center SD's Measure](calculator_la_center_20220802_enhanced)
+
+[Calculator for the Ridgefield SD's Measure](calculator_ridgefield_20220802_enhanced)
 
 ___
 
