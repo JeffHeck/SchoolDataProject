@@ -9,6 +9,7 @@ permalink: report_levies_20220802
 - Summary
 - Taxpayer cost impact estimate calculators
   - La Center SD
+  - Lopez SD
   - Ridgefield SD
   - Skykomish SD
 - Calculator methodology
@@ -24,6 +25,8 @@ ___
 ## Taxpayer cost impact estimate calculators
 
 [Calculator for the La Center SD's Measure](calculator_la_center_20220802_enhanced)
+
+[Calculator for the Lopez SD's Measure](calculator_lopez_20220802_enhanced)
 
 [Calculator for the Ridgefield SD's Measure](calculator_ridgefield_20220802_enhanced)
 
