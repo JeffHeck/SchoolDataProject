@@ -17,6 +17,11 @@ permalink: report_levies_20220802
 ___
 
 ## Summary
+For the August 2nd, 2022 election:
+- There are 4 school district measures across the state.
+- All 4 are enrichment levies.
+
+![Levy summary table](pagesManual/LeviesReport/20220802/LevyTable1.png "Levy summary table")
 
 As analyses are completed, summary results will be provided on this page.
 
