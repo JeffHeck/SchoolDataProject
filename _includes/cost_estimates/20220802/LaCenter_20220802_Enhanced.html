@@ -92,7 +92,7 @@
 		table_input_data.addColumn('string', 'Description');
 		table_input_data.addColumn('number', 'Value');
 		table_input_data.addRows([
-			['Sample parcel 2022 assessed value (AV)', sampleParcelAV],
+			['Sample Parcel 2022 Tax Year Assessed Value (AV)', sampleParcelAV],
 		]);
 
 		// POF Adjust table
@@ -212,8 +212,8 @@
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
   <p></p>
-  <input type="button" value="Increase Sample Parcel 2022 AV" onclick="changeParcelAV(50000)" />
-  <input type="button" value="Decrease Sample Parcel 2022 AV" onclick="changeParcelAV(-50000)" />
+  <input type="button" value="Increase Sample Parcel 2022 Tax Year AV" onclick="changeParcelAV(50000)" />
+  <input type="button" value="Decrease Sample Parcel 2022 Tax Year AV" onclick="changeParcelAV(-50000)" />
   <p></p>
   <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div>
   <input type="button" value="Increase POF Annual Change" onclick="changePOFChange(0.1)" />
@@ -225,7 +225,7 @@
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>
   <H3>Data Sources</H3>
-  <p>The district's 2022 levy resolutions</p>
+  <p>The district's levy resolution</p>
   <p>The county assessor's website for historical property taxes</p>
 
  </body>
