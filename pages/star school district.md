@@ -5,7 +5,7 @@ permalink: star school district
 ---
 
 
-[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Star School District No 054.png "Star School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Star School District.png "Star School District Historical Demographics")
 
 ___
 

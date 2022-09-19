@@ -5,7 +5,7 @@ permalink: index school district
 ---
 
 
-[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Index Elementary School District 63.png "Index School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Index School District.png "Index School District Historical Demographics")
 
 ___
 

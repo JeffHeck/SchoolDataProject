@@ -5,7 +5,7 @@ permalink: wellpinit school district
 ---
 
 
-[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Wellpinit School District #49.png "Wellpinit School District Historical Demographics")
+[Historical Demographics Including Total Enrollment Trends](pages/Historical Demographics for the Wellpinit School District.png "Wellpinit School District Historical Demographics")
 
 ___
 
