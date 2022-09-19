@@ -9,9 +9,16 @@ permalink: easton school district
 
 ___
 
-## WCAS 5th Grade SCIENCE
+## SBA 8th Grade ELA
 
-[Chart 1 of 1](pages/wcas_science/WCASEaston School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
+[Chart 1 of 1](pages/SBAEaston School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## WCAS 8th Grade SCIENCE
+
+[Chart 1 of 1](pages/wcas_science/WCASEaston School District8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
 
 
 ___

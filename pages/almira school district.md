@@ -9,6 +9,13 @@ permalink: almira school district
 
 ___
 
+## WCAS 5th Grade SCIENCE
+
+[Chart 1 of 1](pages/wcas_science/WCASAlmira School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
+
+
+___
+
 ## SBA 8th Grade ELA
 
 [Chart 1 of 1](pages/SBAAlmira School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")

@@ -16,6 +16,13 @@ ___
 
 ___
 
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBAValley School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
 ## WCAS 5th Grade SCIENCE
 
 [Chart 1 of 1](pages/wcas_science/WCASValley School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
@@ -47,13 +54,6 @@ ___
 ## SBA 10th Grade ELA
 
 [Chart 1 of 1](pages/SBAValley School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
-
-
-___
-
-## SBA 10th Grade MATH
-
-[Chart 1 of 1](pages/SBAValley School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
 
 
 ___

@@ -9,6 +9,13 @@ permalink: palouse school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBAPalouse School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
 ## WCAS 5th Grade SCIENCE
 
 [Chart 1 of 1](pages/wcas_science/WCASPalouse School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")

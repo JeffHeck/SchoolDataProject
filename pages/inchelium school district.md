@@ -9,16 +9,16 @@ permalink: inchelium school district
 
 ___
 
-## SBA 4th Grade ELA
+## SBA 4th Grade MATH
 
-[Chart 1 of 1](pages/SBAInchelium School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+[Chart 1 of 1](pages/SBAInchelium School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
 
 
 ___
 
-## SBA 4th Grade MATH
+## WCAS 5th Grade SCIENCE
 
-[Chart 1 of 1](pages/SBAInchelium School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+[Chart 1 of 1](pages/wcas_science/WCASInchelium School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
 
 
 ___
@@ -47,13 +47,6 @@ ___
 ## SBA 10th Grade ELA
 
 [Chart 1 of 1](pages/SBAInchelium School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
-
-
-___
-
-## SBA 10th Grade MATH
-
-[Chart 1 of 1](pages/SBAInchelium School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
 
 
 ___

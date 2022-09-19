@@ -9,13 +9,6 @@ permalink: mount adams school district
 
 ___
 
-## SBA 4th Grade ELA
-
-[Chart 1 of 1](pages/SBAMount Adams School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
-
-
-___
-
 ## SBA 4th Grade MATH
 
 [Chart 1 of 1](pages/SBAMount Adams School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
