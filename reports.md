@@ -15,7 +15,7 @@ permalink:
 - [Per Pupil Expenditures](report_expenditures)
     - [Per Pupil Expenditures Interactive Charts](per_pupil_expenditures_list)
 - [School Bonds in 2020](report_bonds)
-- [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers](sba_outliers)
+- [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers, Spring 2022](sba_outliers)
 - [Dual Credit Outliers](report_dual_credit_outliers)
 
 
