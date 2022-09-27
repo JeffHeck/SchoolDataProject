@@ -1,0 +1,143 @@
+<html>
+ <head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load('current', {'packages':['corechart','bar','table']});
+    google.charts.setOnLoadCallback(drawStuff);
+
+	var table_input;
+	var table;
+	var chart;
+	//var data;
+	var dataParcel;
+	
+	totalLevyAV = 2589101222;
+	sampleParcelAV = 900000;
+	sampleParcelAVMin = 100000;
+	sampleParcelAVMax = 3000000;
+	totalLevyCost = 7722053;
+	sampleParcelPOF = sampleParcelAV / totalLevyAV;
+	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
+	levyYears = 6;
+	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
+	
+
+    function drawStuff() {
+		data = new google.visualization.DataTable();
+		data.addColumn('string', 'Year');
+		data.addColumn('number', 'Amount');
+
+		data.addRows([
+			['2023', 1194513],
+			['2024', 1230057],
+			['2025', 1266668],
+			['2026', 1304376],
+			['2027', 1343217],
+			['2028', 1383222],
+
+		]);
+
+		dataParcel = new google.visualization.DataTable();
+		dataParcel.addColumn('string', 'Year');
+		dataParcel.addColumn('number', 'Amount');
+
+		dataParcel.addRows(levyYears);
+
+		for (let i = 0; i < levyYears; i++) {
+			dataParcel.setCell(i, 0, data.getValue(i, 0));
+			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOF);
+		}		
+
+
+		options = {
+			title: 'Estimated Levy Cost Schedule For The Sample Parcel',
+			isStacked: true,
+			hAxis: {
+			title: '',
+			//format: 'h:mm a',
+			viewWindow: {
+				min: [7, 30, 0],
+				max: [17, 30, 0]
+			}
+        },
+        vAxis: {
+			title: '$'
+        }
+		};
+	  
+
+		table_input_data = new google.visualization.DataTable();
+		table_input_data.addColumn('string', 'Description');
+		table_input_data.addColumn('number', 'Value');
+		table_input_data.addRows([
+			['Sample Parcel 2022 Tax Year Assessed Value (AV)', sampleParcelAV],
+		]);
+
+		table_data = new google.visualization.DataTable();
+		table_data.addColumn('string', 'Description');
+		table_data.addColumn('number', 'Value');
+		table_data.addRows([
+			['Total cost', totalLevyCostParcel],
+			['Average cost per year for 6 years', averageTotalLevyCostParcel],
+		]);
+
+	  
+		chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+		formatter = new google.visualization.NumberFormat(
+		{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: true});
+		formatter.format(dataParcel, 1); // Apply formatter to second column
+		chart.draw(dataParcel, options);
+		
+		table = new google.visualization.Table(document.getElementById('table_output_div'));
+		formatter.format(table_data, 1); // Apply formatter to second column
+		table.draw(table_data, {sort:'disable'});
+		
+		table_input = new google.visualization.Table(document.getElementById('table_input_div'));
+		formatter.format(table_input_data, 1); // Apply formatter to second column
+		table_input.draw(table_input_data, {sort:'disable'});
+    }
+
+    function changeParcelAV(dir) {
+		//Update table input
+		sampleParcelAV = sampleParcelAV + dir
+		if (sampleParcelAV < sampleParcelAVMin)
+			sampleParcelAV = sampleParcelAVMin
+		if (sampleParcelAV > sampleParcelAVMax)
+			sampleParcelAV = sampleParcelAVMax
+		table_input_data.setValue(0, 1, sampleParcelAV);
+		formatter.format(table_input_data, 1); // Apply formatter to second column
+		table_input.draw(table_input_data);
+		//Update table output
+		sampleParcelPOF = sampleParcelAV / totalLevyAV;
+		totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
+		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
+		table_data.setValue(0, 1, totalLevyCostParcel); // Total levy cost parcel
+		table_data.setValue(1, 1, averageTotalLevyCostParcel); // Average cost per year for parcel
+		formatter.format(table_data, 1); // Apply formatter to second column
+		table.draw(table_data);
+		//Update chart
+		for (let i = 0; i < levyYears; i++) {
+			dataParcel.setValue(i, 0, data.getValue(i, 0));
+			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOF);
+		}		
+		formatter.format(dataParcel, 1); // Apply formatter to second column
+		chart.draw(dataParcel, options);
+    }
+  </script>
+ </head>
+ <body>
+  <H2>Property tax impact estimate calculator for the November 8th 2022 levy measure proposed by the North Beach SD</H2>
+  <p>Created by the author independently from and not associated with the school district</p>
+  <H3>Input</H3>
+  <div id="table_input_div" style="width:1200px; height: 75px;"></div>
+  <input type="button" value="Increase Sample Parcel 2022 Tax Year AV" onclick="changeParcelAV(50000)" />
+  <input type="button" value="Decrease Sample Parcel 2022 Tax Year AV" onclick="changeParcelAV(-50000)" />
+  <H3>Output</H3>
+  <p>Estimated obligations for the sample parcel</P>
+  <div id="table_output_div" style="width:1200px; height: 130px;"></div>
+  <div id="chart_div" style="width:800px; height: 640px;"></div>
+  <H3>Data Sources</H3>
+  <p>District's levy resolution</p>
+ </body>
+</html>
+
