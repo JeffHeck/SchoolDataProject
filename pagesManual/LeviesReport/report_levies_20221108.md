@@ -30,15 +30,15 @@ ___
 
 ## Taxpayer cost impact estimate calculators
 
-[Calculator for the Eastmont SD's Measure](calculator_eastmont_20221108_enhanced)
+[Calculator for the Eastmont SD's Measure](calculator_eastmont_20221108_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Highline SD's Measure](calculator_highline_20221108_enhanced)
+[Calculator for the Highline SD's Measure](calculator_highline_20221108_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Mabton SD's Measure](calculator_mabton_20221108_enhanced)
+[Calculator for the Mabton SD's Measure](calculator_mabton_20221108_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Renton SD's Measure](calculator_renton_20221108_enhanced)
+[Calculator for the Renton SD's Measure](calculator_renton_20221108_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Union Gap SD's Measure](calculator_union_gap_20221108_enhanced)
+[Calculator for the Union Gap SD's Measure](calculator_union_gap_20221108_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
