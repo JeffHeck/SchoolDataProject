@@ -8,6 +8,7 @@ permalink: report_levies_20221108
 ## Contents
 - Summary
 - Bond summary
+- Taxpayer cost impact estimate calculators
 - Calculator methodology
 
 ___
@@ -17,9 +18,13 @@ For the November 8th, 2022 election, across the state:
 - There are 5 bond measures.
 - There are 16 enrichment levies.
 
-![Bond summary table](pagesManual/LeviesReport/20221108/BondSummaryTable.png "Bond summary table")
-
 As analyses are completed, summary results will be provided on this page.
+
+___
+
+## Bond summary
+
+![Bond summary table](pagesManual/LeviesReport/20221108/BondSummaryTable.png "Bond summary table")
 
 ___
 

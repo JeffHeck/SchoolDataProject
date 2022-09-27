@@ -4,7 +4,7 @@ title: Reports
 permalink:
 ---
 
-- [School Measures on the November 8th 2022 Ballot](report_levies_20221108)
+- [School District Measures on the November 8th 2022 Ballot](report_levies_20221108)
 - [High School Graduate Outcomes](report_erdc)
 - [Per Pupil Expenditures](report_expenditures)
     - [Per Pupil Expenditures Interactive Charts](per_pupil_expenditures_list)
