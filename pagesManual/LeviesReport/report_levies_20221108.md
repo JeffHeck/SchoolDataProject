@@ -4,10 +4,12 @@ title: School District Measures November 8th 2022
 permalink: report_levies_20221108
 ---
 
+As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
 - Bond summary
+- Levy summary
 - Taxpayer cost impact estimate calculators
 - Calculator methodology
 
@@ -16,9 +18,7 @@ ___
 ## Summary
 For the November 8th, 2022 election, across the state:
 - There are 5 bond measures.
-- There are 16 enrichment levies.
-
-As analyses are completed, summary results will be provided on this page.
+- There are 16 levies: 7 are enrichment levies and 9 are capital levies.
 
 ___
 
@@ -28,15 +28,51 @@ ___
 
 ___
 
+## Levy summary
+
+![Levy summary table](pagesManual/LeviesReport/20221108/LevySummaryTable.png "Levy summary table")
+
+___
+
 ## Taxpayer cost impact estimate calculators
+
+[Calculator for the Columbia SD's Measure](calculator_columbia_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Dieringer SD's Measure](calculator_dieringer_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the East Valley SD's Measure](calculator_east_valley_20221108_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Eastmont SD's Measure](calculator_eastmont_20221108_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Ephrata SD's Buses Levy Measure](calculator_ephrata_buses_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Ephrata SD's Capital Levy Measure](calculator_ephrata_capital_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Grand Coulee SD's Measure](calculator_grand_coulee_20221108_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Highline SD's Measure](calculator_highline_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Inchelium SD's Measure](calculator_inchelium_20221108_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Mabton SD's Measure](calculator_mabton_20221108_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the McCleary SD's Measure](calculator_mccleary_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Monroe SD's Measure](calculator_monroe_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the North Beach SD's Measure](calculator_north_beach_capital_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Oroville SD's Measure](calculator_oroville_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Puyallup SD's Measure](calculator_puyallup_capital_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Reardan-Edwall SD's Measure](calculator_reardan_edwall_capital_20221108_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Renton SD's Measure](calculator_renton_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Southside SD's Measure](calculator_southside_20221108_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Tonasket SD's Measure](calculator_tonasket_20221108_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Union Gap SD's Measure](calculator_union_gap_20221108_enhanced){:target="_blank" rel="noopener"}
 
