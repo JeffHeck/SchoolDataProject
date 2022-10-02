@@ -10,6 +10,7 @@ As analyses are completed, summary results will be provided on this page.
 - Summary
 - Bond summary
 - Levy summary
+- Pro/Con committees for the voters' pamphlet summary
 - Taxpayer cost impact estimate calculators
 - Calculator methodology
 
@@ -19,6 +20,22 @@ ___
 For the November 8th, 2022 election, across the state:
 - There are 5 bond measures.
 - There are 16 levies: 7 are enrichment levies and 9 are capital levies.
+
+Voters' pamphlet pro/con arguments summary. 
+
+Providing voters with both sides of the issues is a fundamental principle of our democracy. Washington State's current 
+process is biased against providing contrarian views via con statements.
+
+School districts are tasked by statute to find and select pro committee members and con committee members (up to 3 for each committee) for 
+the voters' pamphlet for their own measures. If they fail to find volunteers for either committee, then the 
+county elections department has 2 or 3 days to try to quickly find volunteers after resolution submission deadlines. 
+School districts usually give little effort in finding con committee members. County Elections departments also usually 
+give little effort and they have limited time.
+
+- 12 out of the 21 measures will have pro statements.
+- 5 out of the 21 measures will have con statements.
+- 3 out of the 5 con committees were found by the respective county after the school district failed.
+- 2 out of the 5 con committees were found by the respective school district.
 
 ___
 
@@ -31,6 +48,12 @@ ___
 ## Levy summary
 
 ![Levy summary table](pagesManual/LeviesReport/20221108/LevySummaryTable.png "Levy summary table")
+
+___
+
+## Pro/Con committees for the voters' pamphlet summary
+
+![Pro con committees summary table](pagesManual/LeviesReport/20221108/ProConCommitteeSummaryTable.png "Pro con committees summary table")
 
 ___
 
