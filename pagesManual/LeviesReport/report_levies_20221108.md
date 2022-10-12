@@ -55,6 +55,8 @@ ___
 
 ![Pro con committees summary table](pagesManual/LeviesReport/20221108/ProConCommitteeSummaryTable.png "Pro con committees summary table")
 
+Note: Pro/con committee member selection, along with measure resolutions, by school districts were due to their respective county auditor on August 2nd, 2022.
+
 ___
 
 ## Taxpayer cost impact estimate calculators
