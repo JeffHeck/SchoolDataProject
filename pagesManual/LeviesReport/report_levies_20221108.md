@@ -137,9 +137,9 @@ Sampler parcel AV for 2022: $1,100,000
 
 POF for 2022 assumed to be the same for years 2023 - 2026: $1,100,000 / 40,480,082,421 = 2.717E-5
 
-Enhancement Levy amount to collect in 2023: $61,000,000
+Enrichment Levy amount to collect in 2023: $61,000,000
 
-Sampler parcel's 2023 tax for the Enhancement Levy: POF * (Enhancement Levy amount to collect in 2023) = 2.717E-5 * $61,000,000 = $1,658
+Sampler parcel's 2023 tax for the Enrichment Levy: POF * (Enrichment Levy amount to collect in 2023) = 2.717E-5 * $61,000,000 = $1,658
 
 Similarly for the years 2024 - 2026
 
