@@ -79,6 +79,8 @@ ___
 
 [Calculator for the Inchelium SD's Measure](calculator_inchelium_20221108_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Loon Lake SD's Measure](calculator_loon_lake_20221108_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Mabton SD's Measure](calculator_mabton_20221108_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the McCleary SD's Measure](calculator_mccleary_20221108_enhanced){:target="_blank" rel="noopener"}
