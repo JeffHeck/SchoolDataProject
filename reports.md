@@ -4,6 +4,7 @@ title: Reports
 permalink:
 ---
 
+- [School District Measures on the February 14th 2023 Ballot (Preliminary)](report_levies_20230214)
 - [School District Measures on the November 8th 2022 Ballot](report_levies_20221108)
 - [Per Pupil Expenditures](report_expenditures)
     - [Per Pupil Expenditures Interactive Charts](per_pupil_expenditures_list)
