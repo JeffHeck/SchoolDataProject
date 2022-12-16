@@ -32,7 +32,7 @@ ___
 
 ## Levy summary
 
-In progress
+![Levy summary table](pagesManual/LeviesReport/20230214/Levies.png "Levies summary table")
 
 ___
 

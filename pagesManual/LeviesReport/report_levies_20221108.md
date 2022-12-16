@@ -18,8 +18,8 @@ ___
 
 ## Summary
 For the November 8th, 2022 election, across the state:
-- There are 5 bond measures.
-- There are 16 levies: 7 are enrichment levies and 9 are capital levies.
+- There were 5 bond measures.
+- There were 16 levies: 7 were enrichment levies and 9 were capital levies.
 
 Voters' pamphlet pro/con arguments summary. 
 
@@ -32,8 +32,8 @@ county elections department has 2 or 3 days to try to quickly find volunteers af
 School districts usually give little effort in finding con committee members. County Elections departments also usually 
 give little effort and they have limited time.
 
-- 12 out of the 21 measures will have pro statements.
-- 5 out of the 21 measures will have con statements.
+- 12 out of the 21 measures had pro statements.
+- 5 out of the 21 measures had con statements.
 - 3 out of the 5 con committees were found by the respective county after the school district failed.
 - 2 out of the 5 con committees were found by the respective school district.
 
