@@ -54,6 +54,8 @@ ___
 
 [Calculator for the Steilacoom SD's Bond Measure](calculator_steilacoom_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Vancouver SD's Enrichment Levy Measure](calculator_vancouver_20230214_enhanced){:target="_blank" rel="noopener"}
+
 ___
 
 ## Calculator methodology
