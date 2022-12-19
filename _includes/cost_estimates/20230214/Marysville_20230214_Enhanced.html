@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 24723878927.0;
-	sampleParcelAV = 400000.0;
+	totalLevyAV = 11288766658.0;
+	sampleParcelAV = 600000.0;
 	sampleParcelAVMin = 100000.0;
 	sampleParcelAVMax = 2000000.0;
-	totalLevyCost = 271943300.0;
+	totalLevyCost = 107753125.0;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
 	levyYears = 4.0;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 178990000.0;
+	totalLevyPriorCost = 75444692.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,14 +37,14 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2020', 32775000, 0],
-			['2021', 45400000, 0],
-			['2022', 48640000, 0],
-			['2023', 52175000, 0],
-			['2024', 0, 61661200],
-			['2025', 0, 65308600],
-			['2026', 0, 69985300],
-			['2027', 0, 74988200],
+			['2020', 23659627, 0],
+			['2021', 25285065, 0],
+			['2022', 26500000, 0],
+			['2023', 0, 0],
+			['2024', 0, 25000000],
+			['2025', 0, 26250000],
+			['2026', 0, 27562500],
+			['2027', 0, 28940625],
 
 		]);
 
@@ -209,7 +209,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 14th 2023 levy measure proposed by the Vancouver SD</H2>
+  <H2>Property tax impact estimate calculator for the February 14th 2023 levy measure proposed by the Marysville SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>

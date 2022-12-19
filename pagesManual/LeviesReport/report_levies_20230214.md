@@ -12,6 +12,8 @@ As analyses are completed, summary results will be provided on this page.
 - Levy summary
 - Pro/Con committees for the voters' pamphlet summary
 - Taxpayer cost impact estimate calculators
+- Enrichment levy amounts charts
+- Bond amounts charts
 - Calculator methodology
 
 ___
@@ -46,15 +48,87 @@ ___
 
 [Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Finley SD's Enrichment Measure](calculator_finley_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Kennewick SD's Enrichment Measure](calculator_kennewick_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Kiona-Benton City SD's Enrichment Measure](calculator_kiona_benton_city_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Lyle SD's Enrichment Measure](calculator_lyle_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Marysville SD's Enrichment Measure](calculator_marysville_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Oak Harbor SD's Bond Measure](calculator_oak_harbor_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Okanogan SD's Enrichment Measure](calculator_okanogan_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Orting SD's Bond Measure](calculator_orting_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Othello SD's Enrichment Measure](calculator_othello_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Pasco SD's Bond Measure](calculator_pasco_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Peninsula SD's Enrichment Measure](calculator_peninsula_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Skamania SD's Enrichment Measure](calculator_skamania_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Steilacoom SD's Bond Measure](calculator_steilacoom_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Stevenon-Carson SD's Enrichment Measure](calculator_stevenson_carson_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Trout Lake SD's Enrichment Measure](calculator_trout_lake_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Vancouver SD's Enrichment Levy Measure](calculator_vancouver_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Washougal SD's Enrichment Levy Measure](calculator_washougal_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the White Salmon Valley SD's Enrichment Levy Measure](calculator_white_salmon_valley_20230214_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+## Enrichment levy amounts charts
+
+![Finley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/FinleyEnrichment.png "Finley SD enrichment levy amounts chart")
+
+![Kennewick SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/KennewickEnrichment.png "Kennewick SD enrichment levy amounts chart")
+
+![Kiona-Benton City SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/Kiona-BentonCityEnrichment.png "Kiona-Benton City SD enrichment levy amounts chart")
+
+![Lyle SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/LyleEnrichment.png "Lyle SD enrichment levy amounts chart")
+
+![Marysville SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/MarysvilleEnrichment.png "Marysville SD enrichment levy amounts chart")
+
+![Okanogan SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/OkanoganEnrichment.png "Okanogan SD enrichment levy amounts chart")
+
+![Othello SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/OthelloEnrichment.png "Othello SD enrichment levy amounts chart")
+
+![Peninsula SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PeninsulaEnrichment.png "Peninsula SD enrichment levy amounts chart")
+
+![Skamania SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/SkamaniaEnrichment.png "Skamania SD enrichment levy amounts chart")
+
+![Stevenson-Carson SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/Stevenson-CarsonEnrichment.png "Stevenson-Carson SD enrichment levy amounts chart")
+
+![Trout Lake SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/TroutLakeEnrichment.png "Trout Lake SD enrichment levy amounts chart")
+
+![Vancouver SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/VancouverEnrichment.png "Vancouver SD enrichment levy amounts chart")
+
+![Washougal SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/WashougalEnrichment.png "Washougal SD enrichment levy amounts chart")
+
+![White Salmon Valley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/WhiteSalmonValleyEnrichment.png "White Salmon Valley SD enrichment levy amounts chart")
+
+___
+
+## Bond amounts charts
+
+![Enumclaw SD bond amounts chart](pagesManual/LeviesReport/20230214/Enumclaw.png "Enumclaw SD bond amounts chart")
+
+![Oak Harbor SD bond amounts chart](pagesManual/LeviesReport/20230214/OakHarbor.png "Oak Harbor SD bond amounts chart")
+
+![Orting SD bond amounts chart](pagesManual/LeviesReport/20230214/Orting.png "Orting SD bond amounts chart")
+
+![Pasco SD bond amounts chart](pagesManual/LeviesReport/20230214/Pasco.png "Pasco SD bond amounts chart")
+
+![Steilacoom SD bond amounts chart](pagesManual/LeviesReport/20230214/Steilacoom.png "Steilacoom SD bond amounts chart")
 
 ___
 

@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 24723878927.0;
-	sampleParcelAV = 400000.0;
+	totalLevyAV = 1139070799.0;
+	sampleParcelAV = 500000.0;
 	sampleParcelAVMin = 100000.0;
 	sampleParcelAVMax = 2000000.0;
-	totalLevyCost = 271943300.0;
+	totalLevyCost = 7600000.0;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 4.0;
+	levyYears = 3.0;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 178990000.0;
+	totalLevyPriorCost = 6517000.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,14 +37,12 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2020', 32775000, 0],
-			['2021', 45400000, 0],
-			['2022', 48640000, 0],
-			['2023', 52175000, 0],
-			['2024', 0, 61661200],
-			['2025', 0, 65308600],
-			['2026', 0, 69985300],
-			['2027', 0, 74988200],
+			['2021', 2099000, 0],
+			['2022', 2209000, 0],
+			['2023', 2209000, 0],
+			['2024', 0, 2410000],
+			['2025', 0, 2530000],
+			['2026', 0, 2660000],
 
 		]);
 
@@ -115,7 +113,7 @@
 		table_data.addColumn('number', 'Percent Change');
 		table_data.addRows([
 			['Total cost', totalLevyPriorCostParcel, totalLevyCostParcel, totalLevyCostParcel-totalLevyPriorCostParcel, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100],
-			['Average cost per year for 4.0 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
+			['Average cost per year for 3.0 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
 		
 		]);
 
@@ -209,7 +207,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 14th 2023 levy measure proposed by the Vancouver SD</H2>
+  <H2>Property tax impact estimate calculator for the February 14th 2023 levy measure proposed by the Stevenson-Carson SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
