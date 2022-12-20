@@ -48,6 +48,8 @@ ___
 
 [Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Evaline SD's Bond Measure](calculator_evaline_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Finley SD's Enrichment Measure](calculator_finley_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Kennewick SD's Enrichment Measure](calculator_kennewick_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -87,6 +89,8 @@ ___
 ___
 
 ## Enrichment levy amounts charts
+
+![Evaline SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/EvalineEnrichment.png "Evaline SD enrichment levy amounts chart")
 
 ![Finley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/FinleyEnrichment.png "Finley SD enrichment levy amounts chart")
 
