@@ -60,6 +60,8 @@ ___
 
 [Calculator for the Marysville SD's Enrichment Measure](calculator_marysville_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Napavine SD's Bond Measure](calculator_napavine_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Oak Harbor SD's Bond Measure](calculator_oak_harbor_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Okanogan SD's Enrichment Measure](calculator_okanogan_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -125,6 +127,8 @@ ___
 ## Bond amounts charts
 
 ![Enumclaw SD bond amounts chart](pagesManual/LeviesReport/20230214/Enumclaw.png "Enumclaw SD bond amounts chart")
+
+![Napavine SD bond amounts chart](pagesManual/LeviesReport/20230214/Napavine.png "Napavine SD bond amounts chart")
 
 ![Oak Harbor SD bond amounts chart](pagesManual/LeviesReport/20230214/OakHarbor.png "Oak Harbor SD bond amounts chart")
 
