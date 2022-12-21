@@ -13,6 +13,7 @@ As analyses are completed, summary results will be provided on this page.
 - Pro/Con committees for the voters' pamphlet summary
 - Taxpayer cost impact estimate calculators
 - Enrichment levy amounts charts
+- Capital levy amounts charts
 - Bond amounts charts
 - Calculator methodology
 
@@ -22,6 +23,7 @@ ___
 For the February 14th, 2023 election, across the state:
 - There are 6 bond measures.
 - There are 37 enrichment levies.
+- There is 1 capital levy.
 
 
 ___
@@ -90,6 +92,8 @@ ___
 
 [Calculator for the Vancouver SD's Enrichment Levy Measure](calculator_vancouver_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Washougal SD's Capital Levy Measure](calculator_washougal_capital_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Washougal SD's Enrichment Levy Measure](calculator_washougal_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the White Salmon Valley SD's Enrichment Levy Measure](calculator_white_salmon_valley_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -133,6 +137,13 @@ ___
 ![Washougal SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/WashougalEnrichment.png "Washougal SD enrichment levy amounts chart")
 
 ![White Salmon Valley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/WhiteSalmonValleyEnrichment.png "White Salmon Valley SD enrichment levy amounts chart")
+
+___
+
+
+## Capital levy amounts charts
+
+![Washougal SD capital levy amounts chart](pagesManual/LeviesReport/20230214/WashougalCapital.png "Washougal SD capital levy amounts chart")
 
 ___
 
