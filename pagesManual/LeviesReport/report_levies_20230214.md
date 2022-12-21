@@ -46,6 +46,8 @@ ___
 
 ## Taxpayer cost impact estimate calculators
 
+[Calculator for the Centralia SD's Enrichment Measure](calculator_centralia_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Evaline SD's Bond Measure](calculator_evaline_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -74,6 +76,10 @@ ___
 
 [Calculator for the Peninsula SD's Enrichment Measure](calculator_peninsula_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Pioneer SD's Enrichment Measure](calculator_pioneer_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Shelton SD's Enrichment Measure](calculator_shelton_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Skamania SD's Enrichment Measure](calculator_skamania_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Steilacoom SD's Bond Measure](calculator_steilacoom_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -92,6 +98,8 @@ ___
 
 ## Enrichment levy amounts charts
 
+![Centralia SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/CentraliaEnrichment.png "Centralia SD enrichment levy amounts chart")
+
 ![Evaline SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/EvalineEnrichment.png "Evaline SD enrichment levy amounts chart")
 
 ![Finley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/FinleyEnrichment.png "Finley SD enrichment levy amounts chart")
@@ -109,6 +117,10 @@ ___
 ![Othello SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/OthelloEnrichment.png "Othello SD enrichment levy amounts chart")
 
 ![Peninsula SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PeninsulaEnrichment.png "Peninsula SD enrichment levy amounts chart")
+
+![Pioneer SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PioneerEnrichment.png "Pioneer SD enrichment levy amounts chart")
+
+![Shelton SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/SheltonEnrichment.png "Shelton SD enrichment levy amounts chart")
 
 ![Skamania SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/SkamaniaEnrichment.png "Skamania SD enrichment levy amounts chart")
 

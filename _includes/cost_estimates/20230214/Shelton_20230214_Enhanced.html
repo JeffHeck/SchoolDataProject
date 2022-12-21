@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 3714797267.0;
-	sampleParcelAV = 500000.0;
+	totalLevyAV = 2627932534.0;
+	sampleParcelAV = 400000.0;
 	sampleParcelAVMin = 100000.0;
 	sampleParcelAVMax = 2000000.0;
-	totalLevyCost = 31500000.0;
+	totalLevyCost = 22900000.0;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
 	levyYears = 3.0;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 23999024;
+	totalLevyPriorCost = 16500000.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,12 +37,12 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2021', 7392499, 0],
-			['2022', 7983732, 0],
-			['2023', 8622793, 0],
-			['2024', 0, 9500000],
-			['2025', 0, 10500000],
-			['2026', 0, 11500000],
+			['2021', 5500000, 0],
+			['2022', 5500000, 0],
+			['2023', 5500000, 0],
+			['2024', 0, 7100000],
+			['2025', 0, 7600000],
+			['2026', 0, 8200000],
 
 		]);
 
@@ -207,7 +207,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 14th 2023 levy measure proposed by the Washougal SD</H2>
+  <H2>Property tax impact estimate calculator for the February 14th 2023 levy measure proposed by the Shelton SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
