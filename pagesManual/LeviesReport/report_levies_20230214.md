@@ -21,7 +21,7 @@ ___
 
 ## Summary
 For the February 14th, 2023 election, across the state:
-- There are 6 bond measures.
+- There are 7 bond measures.
 - There are 37 enrichment levies.
 - There is 1 capital levy.
 
@@ -61,6 +61,8 @@ ___
 [Calculator for the Kiona-Benton City SD's Enrichment Measure](calculator_kiona_benton_city_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Lyle SD's Enrichment Measure](calculator_lyle_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Mabton SD's Bond Measure](calculator_mabton_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Marysville SD's Enrichment Measure](calculator_marysville_20230214_enhanced){:target="_blank" rel="noopener"}
 
@@ -150,6 +152,8 @@ ___
 ## Bond amounts charts
 
 ![Enumclaw SD bond amounts chart](pagesManual/LeviesReport/20230214/Enumclaw.png "Enumclaw SD bond amounts chart")
+
+![Mabton SD bond amounts chart](pagesManual/LeviesReport/20230214/Mabton.png "Mabton SD bond amounts chart")
 
 ![Napavine SD bond amounts chart](pagesManual/LeviesReport/20230214/Napavine.png "Napavine SD bond amounts chart")
 
