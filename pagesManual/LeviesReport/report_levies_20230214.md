@@ -21,7 +21,7 @@ ___
 
 ## Summary
 For the February 14th, 2023 election, across the state:
-- There are 7 bond measures.
+- There are 8 bond measures.
 - There are 37 enrichment levies.
 - There is 1 capital levy.
 
