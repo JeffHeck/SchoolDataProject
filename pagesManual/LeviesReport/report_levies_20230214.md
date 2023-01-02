@@ -10,12 +10,12 @@ As analyses are completed, summary results will be provided on this page.
 - Summary
 - Bond summary
 - Levy summary
-- Pro/Con committees for the voters' pamphlet summary
 - Taxpayer cost impact estimate calculators
 - Enrichment levy amounts charts
 - Capital levy amounts charts
 - Bond amounts chart
 - County voters' pamphlet rules summary
+- Pro/Con committees for the voters' pamphlet summary
 - Calculator methodology
 
 ___
@@ -38,12 +38,6 @@ ___
 ## Levy summary
 
 ![Levy summary table](pagesManual/LeviesReport/20230214/Levies.png "Levies summary table")
-
-___
-
-## Pro/Con committees for the voters' pamphlet summary
-
-In progress
 
 ___
 
@@ -171,6 +165,12 @@ ___
 ## County voters' pamphlet rules summary
 
 ![County summary table](pagesManual/LeviesReport/20230214/VotersPamphletRules.png "County summary table")
+
+___
+
+## Pro/Con committees for the voters' pamphlet summary
+
+In progress
 
 ___
 
