@@ -14,7 +14,8 @@ As analyses are completed, summary results will be provided on this page.
 - Taxpayer cost impact estimate calculators
 - Enrichment levy amounts charts
 - Capital levy amounts charts
-- Bond amounts charts
+- Bond amounts chart
+- County voters' pamphlet rules summary
 - Calculator methodology
 
 ___
@@ -164,6 +165,12 @@ ___
 ![Pasco SD bond amounts chart](pagesManual/LeviesReport/20230214/Pasco.png "Pasco SD bond amounts chart")
 
 ![Steilacoom SD bond amounts chart](pagesManual/LeviesReport/20230214/Steilacoom.png "Steilacoom SD bond amounts chart")
+
+___
+
+## County voters' pamphlet rules summary
+
+![County summary table](pagesManual/LeviesReport/20230214/VotersPamphletRules.png "County summary table")
 
 ___
 
