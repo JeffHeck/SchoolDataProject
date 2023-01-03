@@ -45,6 +45,8 @@ ___
 
 [Calculator for the Centralia SD's Enrichment Measure](calculator_centralia_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Elma SD's Bond Measure](calculator_elma_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Evaline SD's Bond Measure](calculator_evaline_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -145,6 +147,8 @@ ___
 ___
 
 ## Bond amounts charts
+
+![Elma SD bond amounts chart](pagesManual/LeviesReport/20230214/Elma.png "Enumclaw SD bond amounts chart")
 
 ![Enumclaw SD bond amounts chart](pagesManual/LeviesReport/20230214/Enumclaw.png "Enumclaw SD bond amounts chart")
 
