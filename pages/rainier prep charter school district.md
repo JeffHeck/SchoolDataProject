@@ -45,9 +45,9 @@ ___
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U).
 - See the [Per Pupil Expenditures Report](report_expenditures) for sample calculations.
 
-[Historical Total Expenses In Inflation Adjusted Dollars Per Student](pages/hist_spending/SpendForRainier Prep Charter School DistrictPerPupilInflationAdjustedBar.png " Dollars Per Student")
+[Historical Total Expenses Per Student](pages/hist_spending/SpendForRainier Prep Charter School DistrictPerPupilBar.png " Dollars Per Student")
 
-[Historical Total Expenses In Inflation Adjusted Dollars](pages/hist_spending/SpendForRainier Prep Charter School DistrictInflationAdjustedBar.png " Dollars")
+[Historical Total Expenses](pages/hist_spending/SpendForRainier Prep Charter School DistrictBar.png " Dollars")
 
 [Historical Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentRainier Prep Charter School District.png " Historical and Projected Total Enrollment")
 

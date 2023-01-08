@@ -17,9 +17,9 @@ ___
 - Inflation data source: U.S. Bureau of Labor Statistics. Consumer Price Index for All Urban Consumers (CPI-U).
 - See the [Per Pupil Expenditures Report](report_expenditures) for sample calculations.
 
-[Historical Total Expenses In Inflation Adjusted Dollars Per Student](pages/hist_spending/SpendForOrchard Prairie School DistrictPerPupilInflationAdjustedBar.png " Dollars Per Student")
+[Historical Total Expenses Per Student](pages/hist_spending/SpendForOrchard Prairie School DistrictPerPupilBar.png " Dollars Per Student")
 
-[Historical Total Expenses In Inflation Adjusted Dollars](pages/hist_spending/SpendForOrchard Prairie School DistrictInflationAdjustedBar.png " Dollars")
+[Historical Total Expenses](pages/hist_spending/SpendForOrchard Prairie School DistrictBar.png " Dollars")
 
 [Historical Total Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentOrchard Prairie School District.png " Historical and Projected Total Enrollment")
 
