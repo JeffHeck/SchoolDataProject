@@ -79,6 +79,8 @@ ___
 
 [Calculator for the Pioneer SD's Enrichment Measure](calculator_pioneer_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Selkirk SD's Enrichment Measure](calculator_selkirk_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Shelton SD's Enrichment Measure](calculator_shelton_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Skamania SD's Enrichment Measure](calculator_skamania_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -122,6 +124,8 @@ ___
 ![Peninsula SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PeninsulaEnrichment.png "Peninsula SD enrichment levy amounts chart")
 
 ![Pioneer SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PioneerEnrichment.png "Pioneer SD enrichment levy amounts chart")
+
+![Selkirk SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/SelkirkEnrichment.png "Shelton SD enrichment levy amounts chart")
 
 ![Shelton SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/SheltonEnrichment.png "Shelton SD enrichment levy amounts chart")
 
