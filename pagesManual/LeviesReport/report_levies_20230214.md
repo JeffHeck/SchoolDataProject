@@ -54,6 +54,8 @@ ___
 
 [Calculator for the Highland SD's Enrichment Measure](calculator_highland_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Kalama SD's Enrichment Measure](calculator_kalama_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Kennewick SD's Enrichment Measure](calculator_kennewick_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Kiona-Benton City SD's Enrichment Measure](calculator_kiona_benton_city_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -128,6 +130,8 @@ ___
 ![Finley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/FinleyEnrichment.png "Finley SD enrichment levy amounts chart")
 
 ![Highland SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/HighlandEnrichment.png "Highland SD enrichment levy amounts chart")
+
+![Kalama SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/KalamaEnrichment.png "Highland SD enrichment levy amounts chart")
 
 ![Kennewick SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/KennewickEnrichment.png "Kennewick SD enrichment levy amounts chart")
 
