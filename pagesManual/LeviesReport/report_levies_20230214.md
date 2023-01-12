@@ -45,6 +45,8 @@ ___
 
 [Calculator for the Centralia SD's Enrichment Measure](calculator_centralia_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Cusick SD's Enrichment Measure](calculator_cusick_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Elma SD's Bond Measure](calculator_elma_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -53,6 +55,8 @@ ___
 
 [Calculator for the Finley SD's Enrichment Measure](calculator_finley_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Highland SD's Enrichment Measure](calculator_highland_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Kennewick SD's Enrichment Measure](calculator_kennewick_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Kiona-Benton City SD's Enrichment Measure](calculator_kiona_benton_city_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -60,6 +64,8 @@ ___
 [Calculator for the Lyle SD's Enrichment Measure](calculator_lyle_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Mabton SD's Bond Measure](calculator_mabton_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Manson SD's Bond Measure](calculator_manson_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Marysville SD's Enrichment Measure](calculator_marysville_20230214_enhanced){:target="_blank" rel="noopener"}
 
@@ -75,9 +81,13 @@ ___
 
 [Calculator for the Pasco SD's Bond Measure](calculator_pasco_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Patterson SD's Enrichment Measure](calculator_patterson_20230214_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Peninsula SD's Enrichment Measure](calculator_peninsula_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Pioneer SD's Enrichment Measure](calculator_pioneer_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Pomeroy SD's Enrichment Measure](calculator_pomeroy_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Selkirk SD's Enrichment Measure](calculator_selkirk_20230214_enhanced){:target="_blank" rel="noopener"}
 
@@ -99,15 +109,21 @@ ___
 
 [Calculator for the White Salmon Valley SD's Enrichment Levy Measure](calculator_white_salmon_valley_20230214_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Woodland SD's Enrichment Levy Measure](calculator_woodland_20230214_enhanced){:target="_blank" rel="noopener"}
+
 ___
 
 ## Enrichment levy amounts charts
 
 ![Centralia SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/CentraliaEnrichment.png "Centralia SD enrichment levy amounts chart")
 
+![Cusick SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/CusickEnrichment.png "Cusick SD enrichment levy amounts chart")
+
 ![Evaline SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/EvalineEnrichment.png "Evaline SD enrichment levy amounts chart")
 
 ![Finley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/FinleyEnrichment.png "Finley SD enrichment levy amounts chart")
+
+![Highland SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/HighlandEnrichment.png "Highland SD enrichment levy amounts chart")
 
 ![Kennewick SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/KennewickEnrichment.png "Kennewick SD enrichment levy amounts chart")
 
@@ -115,15 +131,21 @@ ___
 
 ![Lyle SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/LyleEnrichment.png "Lyle SD enrichment levy amounts chart")
 
+![Manson SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/MansonEnrichment.png "Manson SD enrichment levy amounts chart")
+
 ![Marysville SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/MarysvilleEnrichment.png "Marysville SD enrichment levy amounts chart")
 
 ![Okanogan SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/OkanoganEnrichment.png "Okanogan SD enrichment levy amounts chart")
 
 ![Othello SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/OthelloEnrichment.png "Othello SD enrichment levy amounts chart")
 
+![Patterson SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PattersonEnrichment.png "Patterson SD enrichment levy amounts chart")
+
 ![Peninsula SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PeninsulaEnrichment.png "Peninsula SD enrichment levy amounts chart")
 
 ![Pioneer SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PioneerEnrichment.png "Pioneer SD enrichment levy amounts chart")
+
+![Pomeroy SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PomeroyEnrichment.png "Pomeroy SD enrichment levy amounts chart")
 
 ![Selkirk SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/SelkirkEnrichment.png "Shelton SD enrichment levy amounts chart")
 
@@ -140,6 +162,8 @@ ___
 ![Washougal SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/WashougalEnrichment.png "Washougal SD enrichment levy amounts chart")
 
 ![White Salmon Valley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/WhiteSalmonValleyEnrichment.png "White Salmon Valley SD enrichment levy amounts chart")
+
+![Woodland SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/WoodlandEnrichment.png "Woodland SD enrichment levy amounts chart")
 
 ___
 
