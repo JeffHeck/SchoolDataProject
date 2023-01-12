@@ -41,17 +41,13 @@ ___
 
 ___
 
-## Taxpayer cost impact estimate calculators
+## Taxpayer cost impact estimate calculators for the levies
 
 [Calculator for the Centralia SD's Enrichment Measure](calculator_centralia_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Cusick SD's Enrichment Measure](calculator_cusick_20230214_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Elma SD's Bond Measure](calculator_elma_20230214_enhanced){:target="_blank" rel="noopener"}
-
-[Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20230214_enhanced){:target="_blank" rel="noopener"}
-
-[Calculator for the Evaline SD's Bond Measure](calculator_evaline_20230214_enhanced){:target="_blank" rel="noopener"}
+[Calculator for the Evaline SD's Enrichment Measure](calculator_evaline_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Finley SD's Enrichment Measure](calculator_finley_20230214_enhanced){:target="_blank" rel="noopener"}
 
@@ -63,23 +59,13 @@ ___
 
 [Calculator for the Lyle SD's Enrichment Measure](calculator_lyle_20230214_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Mabton SD's Bond Measure](calculator_mabton_20230214_enhanced){:target="_blank" rel="noopener"}
-
-[Calculator for the Manson SD's Bond Measure](calculator_manson_20230214_enhanced){:target="_blank" rel="noopener"}
+[Calculator for the Manson SD's Enrichment Measure](calculator_manson_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Marysville SD's Enrichment Measure](calculator_marysville_20230214_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Napavine SD's Bond Measure](calculator_napavine_20230214_enhanced){:target="_blank" rel="noopener"}
-
-[Calculator for the Oak Harbor SD's Bond Measure](calculator_oak_harbor_20230214_enhanced){:target="_blank" rel="noopener"}
-
 [Calculator for the Okanogan SD's Enrichment Measure](calculator_okanogan_20230214_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Orting SD's Bond Measure](calculator_orting_20230214_enhanced){:target="_blank" rel="noopener"}
-
 [Calculator for the Othello SD's Enrichment Measure](calculator_othello_20230214_enhanced){:target="_blank" rel="noopener"}
-
-[Calculator for the Pasco SD's Bond Measure](calculator_pasco_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Patterson SD's Enrichment Measure](calculator_patterson_20230214_enhanced){:target="_blank" rel="noopener"}
 
@@ -95,8 +81,6 @@ ___
 
 [Calculator for the Skamania SD's Enrichment Measure](calculator_skamania_20230214_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Steilacoom SD's Bond Measure](calculator_steilacoom_20230214_enhanced){:target="_blank" rel="noopener"}
-
 [Calculator for the Stevenon-Carson SD's Enrichment Measure](calculator_stevenson_carson_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Trout Lake SD's Enrichment Measure](calculator_trout_lake_20230214_enhanced){:target="_blank" rel="noopener"}
@@ -110,6 +94,25 @@ ___
 [Calculator for the White Salmon Valley SD's Enrichment Levy Measure](calculator_white_salmon_valley_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Woodland SD's Enrichment Levy Measure](calculator_woodland_20230214_enhanced){:target="_blank" rel="noopener"}
+
+## Taxpayer cost impact estimate calculators for the bonds
+
+[Calculator for the Elma SD's Bond Measure](calculator_elma_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Mabton SD's Bond Measure](calculator_mabton_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Napavine SD's Bond Measure](calculator_napavine_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Oak Harbor SD's Bond Measure](calculator_oak_harbor_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Orting SD's Bond Measure](calculator_orting_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Pasco SD's Bond Measure](calculator_pasco_20230214_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Steilacoom SD's Bond Measure](calculator_steilacoom_20230214_enhanced){:target="_blank" rel="noopener"}
+
 
 ___
 
