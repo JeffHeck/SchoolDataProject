@@ -10,7 +10,8 @@ As analyses are completed, summary results will be provided on this page.
 - Summary
 - Bond summary
 - Levy summary
-- Taxpayer cost impact estimate calculators
+- Taxpayer cost impact estimate calculators for the levies
+- Taxpayer cost impact estimate calculators for the bonds
 - Enrichment levy amounts charts
 - Capital levy amounts charts
 - Bond amounts chart
