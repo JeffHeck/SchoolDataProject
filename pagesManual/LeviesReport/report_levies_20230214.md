@@ -68,7 +68,7 @@ ___
 
 [Calculator for the Othello SD's Enrichment Measure](calculator_othello_20230214_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Patterson SD's Enrichment Measure](calculator_patterson_20230214_enhanced){:target="_blank" rel="noopener"}
+[Calculator for the Paterson SD's Enrichment Measure](calculator_paterson_20230214_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the Peninsula SD's Enrichment Measure](calculator_peninsula_20230214_enhanced){:target="_blank" rel="noopener"}
 
@@ -143,7 +143,7 @@ ___
 
 ![Othello SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/OthelloEnrichment.png "Othello SD enrichment levy amounts chart")
 
-![Patterson SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PattersonEnrichment.png "Patterson SD enrichment levy amounts chart")
+![Paterson SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PatersonEnrichment.png "Patterson SD enrichment levy amounts chart")
 
 ![Peninsula SD enrichment levy amounts chart](pagesManual/LeviesReport/20230214/PeninsulaEnrichment.png "Peninsula SD enrichment levy amounts chart")
 
