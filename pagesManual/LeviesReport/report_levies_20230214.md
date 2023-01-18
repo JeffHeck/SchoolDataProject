@@ -210,7 +210,9 @@ ___
 
 ## Pro/Con committees for the voters' pamphlet summary
 
-In progress
+![Pro con committee counts](pagesManual/LeviesReport/20230214/ProConCommitteeCounts.png "Pro con committee counts")
+
+Note: Pro/con committee member selection, along with measure resolutions, by school districts were due to their respective county auditor on December 16th, 2022.
 
 ___
 
