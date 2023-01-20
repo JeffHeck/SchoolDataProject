@@ -277,9 +277,10 @@ ___
 
 The district’s “cost analysis” on its taxpayer funded website and in its resolution is illogical and is underestimating the cost to taxpayers. See the image with the red border.
 
-From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 21 years. So from 2024 through 2044.
+From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 21 years - so from 2024 through 2044.
 
-The district's example home illogically maintain its AV (assessed value) for every year of those 21 years. Yet the district is assuming the Total AV of all taxable properties increase 22% in 2023 and then increase steadily every year hence. 
+The district's example home illogically maintain its AV (assessed value) for every year of those 21 years. Yet the district is assuming the Total AV of all taxable properties increase 
+22% in 2023 and then increase steadily every year hence. 
 
 The district is not being consistent. A $300,000 AV home in 2022 will, using the Total AV growth of the district, have a value of $683,000 approximately in 2044.
 
@@ -287,11 +288,11 @@ If the district reps would have been a little more accurate and transparent, and
 
 For an example home with a 2022 AV of $300,000
 
-The average annual bond tax (to cover principal and interest): $1,400 per year for 21 years
+the average annual bond tax (to cover principal and interest): $1,400 per year for 21 years
 
 If one assumes a negative 1.5% proportional obligation factor change each year (for example if the pace of new construction continues despite high interest rates and high inflation), 
 
-The average annual bond tax (to cover principal and interest): $1,170 per year for 21 years
+the average annual bond tax (to cover principal and interest): $1,170 per year for 21 years
 
 The district’s estimate of $67 per month (they used month instead of year) calculates to $804 per year.
 
@@ -305,6 +306,7 @@ or, for the conservative case, 46% too low.
 
 See the cost estimating calculator link above.
 
+___
 
 ### An analysis of the Napavine SD's cost analysis
 
@@ -312,9 +314,11 @@ See the cost estimating calculator link above.
 
 The district’s “cost analysis” on its taxpayer funded website and sent as a mailer using taxpayer money is illogical and is underestimating (by about 50%) the cost to taxpayers. See the image with the red border.
 
-From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 26 years. So from 2024 through 2049. The bond interest will be more than the advertised bond principal.
+From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 26 years. So from 2024 through 2049. The bond interest will be 
+more than the advertised bond principal.
 
-The example homes shown illogically maintain their AVs (assessed values) for every year of those 26 years. Yet the district is assuming the Total AV of all taxable properties increase 23% in 2023 and then increase steadily every year hence. 
+The example homes shown illogically maintain their AVs (assessed values) for every year of those 26 years. Yet the district is assuming the Total AV of all taxable properties increase 23% in 2023 and then 
+increase steadily every year hence. 
 
 The district is not being consistent. A $300,000 AV home in 2022 will, using the Total AV growth of the district, have a value of $507,000 in 2049.
 
@@ -326,6 +330,8 @@ Average annual bond tax (to cover principal and interest): $611 per year for 26 
 
 See the cost estimating calculator link above.
 
+___
+
 ### An analysis of the Steilacoom SD's cost analysis
 
 ![Steilacoom SD's bond cost analysis](pagesManual/LeviesReport/20230214/SteilacoomSD_CostAnalysis.png "Steilacoom SD's bond cost analysis")
@@ -336,7 +342,7 @@ From the district’s bond management company’s report, this bond will be paid
 
 The district doesn’t even attempt to put an example parcel’s cost impact for this bond in its campaign materials. Instead, they just show a bar chart for 4 future years (2024-2027) with a $1.26 bond tax rate as their guess.
 
-This bond has a 21 year payback scheduled. No mention of what happens in years 2028-2044.
+This bond has a 21 year payback scheduled. There is no mention of what happens in years 2028-2044.
 
 For that tax rate of $1.26 the district fails to mention their assumptions for rapidly increasing Total AV (assessed value) of all taxable properties within the district’s boundaries. 
 
@@ -344,7 +350,7 @@ Taxpayers/voters are not voting on a tax rate. They are voting on an amount.
 
 For a more accurate, logical cost estimating calculator, please see the link above.
 
-An example home with a 2022 AV of $500,000 can expect to pay approximately $1,020 per year on average for the next 21 years. About $600 of that goes to pay principal and the other $400 goes down the drain as bond interest.
+An example home with a 2022 AV of $500,000 can expect to pay approximately $1,020 per year on average for the next 21 years. About $600 of that goes to pay principal and the other $400 as bond interest.
 
 The district fails to mention high inflation and high interest rates.
 
