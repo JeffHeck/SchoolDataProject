@@ -332,6 +332,49 @@ See the cost estimating calculator link above.
 
 ___
 
+
+### An analysis of the Orting SD's cost analysis
+
+![Orting SD's bond cost analysis](pagesManual/LeviesReport/20230214/OrtingSD_CostAnalysis.png "Orting SD's bond cost analysis")
+
+Good news, bad news.
+
+The good news.
+The district correctly explains that voters are voting on dollar amounts, NOT rates. 
+
+The district first selects how much it wants in taxes each year for the next 22 years. 
+
+Then the district makes an estimate on the Total AV (assessed value) for all taxable properties for each of those 22 years.
+
+Then the district calculates their guesstimated bond tax rate for each year.
+
+For a given year:
+
+Bond tax rate for year = (Bond taxes to collect for year) / (Total AV for year) X 1000
+
+The bad news.
+
+What the district does not clearly state is that voters are deciding to allow the district to collect the tax amounts each year to cover the bond payback over 22 years to cover bond principal and bond interest. 
+
+The advertised bond principal for this bond is $150,000,000
+
+What is not stated is that, with high inflation and high interest rates, the district’s bond management company estimates that the bond interest will add another $100,000,000 to also be paid by property taxpayers bringing the total to $250,000,000
+
+Even with if rapid new construction continues somehow with our high inflation and high interest rates over the next 22 years, say 2% average growth a year,
+the property owner of a parcel with a $500,000 AV as of 2022 will pay:
+
+$38,000 over the next 22 years
+
+$22,000 for his/her share of bond principal
+
+$16,000 for bond interest
+
+Or an average, $1,700 per year
+
+See the cost estimating calculator link above.
+
+___
+
 ### An analysis of the Steilacoom SD's cost analysis
 
 ![Steilacoom SD's bond cost analysis](pagesManual/LeviesReport/20230214/SteilacoomSD_CostAnalysis.png "Steilacoom SD's bond cost analysis")
