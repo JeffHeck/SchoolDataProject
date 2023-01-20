@@ -308,6 +308,51 @@ See the cost estimating calculator link above.
 
 ___
 
+### An analysis of the Mabton SD's cost analysis
+
+![Mabton SD's bond cost analysis](pagesManual/LeviesReport/20230214/MabtonSD_CostAnalysis.png "Mabton SD's bond cost analysis")
+
+See the image with the red border.
+
+The district confuses and implies that a $200,000 home will see a tax bill of $186 per year or $15.50 per month.
+
+They estimate a tax rate of $2.61 for the bond.
+
+But then they go on to say it will only be $0.93 more than the expiring capital levy.
+
+So to make things look better, instead of using the real estimated bond tax rate, they use this smaller amount of $0.93. 
+
+And that is how they get the $186 per year.
+
+$200,000 / 1000 X 0.93 = $186
+
+Problems with the district’s logic:
+
+This is one of the worst cases of using incorrect logic and incorrect mathematics of any of the school district measures for this February election across the state.
+
+The district should have at least multiplied the following:
+
+$200,000 / 1000 X 2.61 = $522
+
+Another problem is that the district is assuming the $200,000 AV home is that value in 2024.
+
+But the district is assuming a Total AV growth from 2022 to 2024 of 18%
+
+So a $200,000 AV home in 2022 will have an estimated AV of $236,000 in 2024.
+
+The district should have been transparent and consistent.
+
+So the estimated bond cost to the taxpayer in 2024 will be:
+
+$236,000 / 1000 X $2.61 = $616
+
+And because of the district's bond repayment schedule (back loaded unlike a mortgage), that tax, for the example homeowner will steadily rise to $1088 by 2047
+
+Please see the logical property tax estimating calculator link above.
+
+___
+
+
 ### An analysis of the Napavine SD's cost analysis
 
 ![Napavine SD's bond cost analysis](pagesManual/LeviesReport/20230214/NapavineSD_CostAnalysis.png "Napavine SD's bond cost analysis")
