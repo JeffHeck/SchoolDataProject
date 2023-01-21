@@ -377,6 +377,50 @@ See the cost estimating calculator link above.
 
 ___
 
+### An analysis of the Oak Harbor SD's cost analysis
+
+![Oak Harbor SD's bond cost analysis](pagesManual/LeviesReport/20230214/OakHarborSD_CostAnalysis.png "Oak Harbor SD's bond cost analysis")
+
+That paragraph is not much of a “cost analysis” provided by the district. It is not very useful, or accurate.
+
+This is a 23 year bond. The district’s bond management company estimates that, with our current high inflation and high interest rates, this bond will cost:
+
+$121M in bond principal
+
+$94M in bond interest
+
+For a total of
+
+$215M for local property taxpayers to pay.
+
+The homeowner of a home with an assessed value (AV) of $400,000 as of 2022,
+
+can expect an estimated cost of
+
+$16,000 ($9,000 in bond principal and $7,000 in bond interest) for this one bond 
+
+or $720 on average per year for the next 23 years.
+
+See the link above for the cost impact estimating calculator.
+
+Voters are not voting on a rate. They are voting on an amount. They district should explain this.
+
+Rates are a byproduct. They cannot be specified.
+
+The district’s bond management’s company is expecting the district to collect:
+
+$7.2M in 2024
+
+and then ramping up each year until they will collect
+
+$10.6M in 2046
+
+In each one of those years in February, the county assessor will take the district’s amount to collect that year and will divide it by the Total AV (assessed value) of all properties that year to come up  with a rate.
+
+Then that rate will be applied to each individual parcel for the owner to then pay.
+
+___
+
 
 ### An analysis of the Orting SD's cost analysis
 
