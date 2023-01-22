@@ -273,9 +273,11 @@ ___
 
 ### An analysis of the Elma SD's cost analysis
 
+See the image with the red border.
+
 ![Elma SD's bond cost analysis](pagesManual/LeviesReport/20230214/ElmaSD_CostAnalysis.png "Elma SD's bond cost analysis")
 
-The district’s “cost analysis” on its taxpayer funded website and in its resolution is illogical and is underestimating the cost to taxpayers. See the image with the red border.
+The district’s “cost analysis” on its taxpayer funded website and in its resolution is illogical and is underestimating the cost to taxpayers. 
 
 From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 21 years - so from 2024 through 2044.
 
@@ -310,9 +312,9 @@ ___
 
 ### An analysis of the Mabton SD's cost analysis
 
-![Mabton SD's bond cost analysis](pagesManual/LeviesReport/20230214/MabtonSD_CostAnalysis.png "Mabton SD's bond cost analysis")
-
 See the image with the red border.
+
+![Mabton SD's bond cost analysis](pagesManual/LeviesReport/20230214/MabtonSD_CostAnalysis.png "Mabton SD's bond cost analysis")
 
 The district confuses and implies that a $200,000 home will see a tax bill of $186 per year or $15.50 per month.
 
@@ -355,9 +357,11 @@ ___
 
 ### An analysis of the Napavine SD's cost analysis
 
+See the image with the red border.
+
 ![Napavine SD's bond cost analysis](pagesManual/LeviesReport/20230214/NapavineSD_CostAnalysis.png "Napavine SD's bond cost analysis")
 
-The district’s “cost analysis” on its taxpayer funded website and sent as a mailer using taxpayer money is illogical and is underestimating (by about 50%) the cost to taxpayers. See the image with the red border.
+The district’s “cost analysis” on its taxpayer funded website and sent as a mailer using taxpayer money is illogical and is underestimating (by about 50%) the cost to taxpayers. 
 
 From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 26 years. So from 2024 through 2049. The bond interest will be 
 more than the advertised bond principal.
@@ -378,6 +382,8 @@ See the cost estimating calculator link above.
 ___
 
 ### An analysis of the Oak Harbor SD's cost analysis
+
+See the image with the red border.
 
 ![Oak Harbor SD's bond cost analysis](pagesManual/LeviesReport/20230214/OakHarborSD_CostAnalysis.png "Oak Harbor SD's bond cost analysis")
 
@@ -424,6 +430,8 @@ ___
 
 ### An analysis of the Orting SD's cost analysis
 
+See the image with the red border.
+
 ![Orting SD's bond cost analysis](pagesManual/LeviesReport/20230214/OrtingSD_CostAnalysis.png "Orting SD's bond cost analysis")
 
 Good news, bad news.
@@ -464,11 +472,64 @@ See the cost estimating calculator link above.
 
 ___
 
+
+### An analysis of the Pasco SD's cost analysis
+
+See the image with the red border.
+
+![Pasco SD's bond cost analysis](pagesManual/LeviesReport/20230214/PascoSD_CostAnalysis.png "Pasco SD's bond cost analysis")
+
+The district’s table of values for example parcels has false assumptions and underestimates the cost of this bond to property taxpayers (property owners and renters). 
+The district doesn’t mention what year the assessed values (AVs) are from. The district doesn’t take into account the AV growth of those example parcels. The district 
+assumes the AVs stay constant – an illogical assumption that causes them to grossly underestimate the cost impact.
+
+This is an 18 year bond. The district’s bond management company estimates that, with our current high inflation and high interest rates, this bond will cost:
+
+$196M in bond principal
+
+$119M in bond interest
+
+For a total of
+
+$315M for local property taxpayers to pay.
+
+Assuming new construction continues at approximately 2% in Total AV(assessed value) of all taxable properties within the district’s boundaries for each of those 18 future years:
+
+An existing homeowner of a parcel with an AV of $400,000 as of 2022,
+
+can expect an estimated cost of
+
+$10,000 ($6,000 in bond principal and $4,000 in bond interest) for this one bond 
+
+or $550 on average per year for the next 18 years.
+
+Now if new construction drastically slows down because of continued high inflation and high interest rates, then that same $400,000 AV parcel as of 2022,
+
+can expect an estimated cost of
+
+$13,000 ($8,000 in bond principal and $5,000 in bond interest) in total for this one bond 
+
+or $690 on average per year for the next 18 years.
+
+See the link above for the cost impact estimating calculator.
+
+Voters are not voting on a rate. They are voting on an amount. They district should explain this. 
+Rates are a byproduct. They cannot be specified beforehand.
+
+In each one of the 18 years for the bond payback schedule, each February, the county assessor will take the district’s amount to collect that year and will divide it by the Total AV (assessed value) of all 
+properties for that year to come up with a rate.
+
+Then that rate will be applied to each individual parcel for the owner to then pay.
+
+___
+
 ### An analysis of the Steilacoom SD's cost analysis
+
+See the image with the red border.
 
 ![Steilacoom SD's bond cost analysis](pagesManual/LeviesReport/20230214/SteilacoomSD_CostAnalysis.png "Steilacoom SD's bond cost analysis")
 
-The district’s “cost analysis” on its taxpayer funded website and in its mailer (also paid for by taxpayers) is illogical and is underestimating the cost to taxpayers. See the image with the red border.
+The district’s “cost analysis” on its taxpayer funded website and in its mailer (also paid for by taxpayers) is illogical and is underestimating the cost to taxpayers. 
 
 From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 21 years - so from 2024 through 2044.
 
