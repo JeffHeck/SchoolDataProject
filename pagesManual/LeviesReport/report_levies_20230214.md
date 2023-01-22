@@ -310,6 +310,36 @@ See the cost estimating calculator link above.
 
 ___
 
+### An analysis of the Enumclaw SD's cost analysis
+
+See the image with the red border.
+
+![Enumclaw SD's bond cost analysis](pagesManual/LeviesReport/20230214/EnumclawSD_CostAnalysis.png "Enumclaw SD's bond cost analysis")
+
+The district’s cost analysis in its campaign materials on its public taxpayer funded website and in its resolution in the voters’ pamphlet are illogical and are underestimating the cost to 
+taxpayers. The district’s online calculator makes the same errors.
+
+From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 19 years. So from 2023 through 2041.
+
+The 1.56 rate in the resolution is nowhere to be found in the district’s bond/levy projection datasheet. The district’s $600,000 assessed valued (AV) example home 
+somehow keeps that same AV each year from now until 2041 while the district assumes the Total AV of all properties grows at a healthy pace. This is the district’s 
+fundamental math error. They should have allowed their example home’s AV to grow at the same pace as the overall Total AV. This is why they underestimate the cost impact of an example parcel. 
+
+Voters are not voting on a rate. They are voting on an amount. The district should properly explain this. Rates are a byproduct. They cannot be specified beforehand.
+
+In each one of the 19 years, in February, for the bond payback schedule, the county assessor will take the district’s amount to collect that year and will divide it 
+by the Total AV (assessed value) of all properties for that year to come up with a rate.
+
+Then that rate will be applied to each individual parcel for the owner to then pay.
+
+Using the author’s logical cost estimating calculator that uses a proportional obligation technique (see the link above):
+An example home with a 2022 AV of $600,000, and using a modest negative 0.5 % change in proportional obligation factor each year due to possible new construction, 
+can expect to pay approximately $41,000 over the 19 years of the bond payback period ($24,000 in principal and $17,000 in interest) or on average per year payment 
+of $2,200 for each of the next 19 years. Tax payments will actually start at approximately $1,300 in 2024 and increase to a high of $3,700 in 2040. This is because the 
+district, unlike in a normal mortgage, is back-loading the bond payments.
+
+___
+
 ### An analysis of the Mabton SD's cost analysis
 
 See the image with the red border.
