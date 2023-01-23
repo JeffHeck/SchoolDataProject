@@ -494,7 +494,7 @@ The advertised bond principal for this bond is $150,000,000
 
 What is not stated is that, with high inflation and high interest rates, the district’s bond management company estimates that the bond interest will add another $100,000,000 to also be paid by property taxpayers bringing the total to $250,000,000
 
-Even with if rapid new construction continues somehow with our high inflation and high interest rates over the next 22 years, say 2% average growth a year,
+Even if rapid new construction continues somehow with our high inflation and high interest rates over the next 22 years, say 2% average growth a year,
 the property owner of a parcel with a $500,000 AV as of 2022 will pay:
 
 $38,000 over the next 22 years
