@@ -15,6 +15,7 @@ As analyses are completed, summary results will be provided on this page.
 - Enrichment levy amounts charts
 - Capital levy amounts charts
 - Bond amounts chart
+- Bond schedules
 - County voters' pamphlet rules summary
 - Pro/Con committees for the voters' pamphlet summary
 - Calculator methodology
@@ -202,6 +203,12 @@ ___
 ![Pasco SD bond amounts chart](pagesManual/LeviesReport/20230214/Pasco.png "Pasco SD bond amounts chart")
 
 ![Steilacoom SD bond amounts chart](pagesManual/LeviesReport/20230214/Steilacoom.png "Steilacoom SD bond amounts chart")
+
+___
+
+## Bond schedules
+
+[Bond schedules](report_levies_20230214_bond_schedules)
 
 ___
 
