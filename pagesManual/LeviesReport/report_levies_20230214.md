@@ -328,7 +328,7 @@ taxpayers. The district’s online calculator makes the same errors.
 
 From the district’s bond management company’s report, this bond will be paid back with interest by local property taxpayers over 19 years. So from 2023 through 2041.
 
-The 1.56 rate in the resolution is nowhere to be found in the district’s bond/levy projection datasheet. The district’s $600,000 assessed valued (AV) example home 
+The 1.56 rate in the resolution is the difference between 2 guesstimated rates. The district’s $600,000 assessed valued (AV) example home 
 somehow keeps that same AV each year from now until 2041 while the district assumes the Total AV of all properties grows at a healthy pace. This is the district’s 
 fundamental math error. They should have allowed their example home’s AV to grow at the same pace as the overall Total AV. This is why they underestimate the cost impact of an example parcel. 
 
@@ -340,9 +340,9 @@ by the Total AV (assessed value) of all properties for that year to come up with
 Then that rate will be applied to each individual parcel for the owner to then pay.
 
 Using the author’s logical cost estimating calculator that uses a proportional obligation technique (see the link above):
-An example home with a 2022 AV of $600,000, and using a modest negative 0.5 % change in proportional obligation factor each year due to possible new construction, 
-can expect to pay approximately $41,000 over the 19 years of the bond payback period ($24,000 in principal and $17,000 in interest) or on average per year payment 
-of $2,200 for each of the next 19 years. Tax payments will actually start at approximately $1,300 in 2024 and increase to a high of $3,700 in 2040. This is because the 
+An example home with a 2022 AV of $600,000, and using a negative 3.0 % change in proportional obligation factor each year due to possible new construction, 
+can expect to pay approximately $30,000 over the 19 years of the bond payback period ($17,000 in principal and $13,000 in interest) or on average per year payment 
+of $1,600 for each of the next 19 years. Tax payments will actually start at approximately $1,250 in 2024 and increase to a high of $2,300 in 2040. This is because the 
 district, unlike in a normal mortgage, is back-loading the bond payments.
 
 ___
