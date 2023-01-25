@@ -588,5 +588,274 @@ ___
 
 ## Analyses of the enrichment levy cost analyses presented by districts
 
-In progress
+### An analysis of the Centralia SD's cost analysis
 
+See the image with the red border.
+
+![Centralia SD's bond cost analysis](pagesManual/LeviesReport/20230214/CentraliaSD_CostAnalysis.png "Centralia SD's bond cost analysis")
+
+The Centralia SD actually provides 2 spreadsheet cost impact calculators for its citizens. Both are excellent. Both use logical assumptions of having the example parcel grow in 
+assessed value (AV) at the same pace as the Total AV of all properties within the district’s taxing area.
+
+This new enrichment levy is a 57% increase in dollars over the previous enrichment levy. But that is shown in the calculators provided by the district.
+
+The author’s online property tax estimating calculator above shows the same results.
+
+___
+
+### An analysis of the Finley SD's cost analysis
+
+See the image with the red border.
+
+![Finley SD's bond cost analysis](pagesManual/LeviesReport/20230214/FinleySD_CostAnalysis.png "Finley SD's bond cost analysis")
+
+The district tries to compare this February 2023 levy amount to what it asked for in April 2022. That makes no sense. The district should be comparing the amount 
+that is asking for this time with the actual levy amounts that were collected for the previous levy. 
+
+If they would have done that, then they would have had to admit that this new February 2023 levy is 26% more in dollars than the previous enrichment levy. So it is a tax 
+increase – during high inflation. And taxpayers won’t learn about their 2023 property taxes until a day or two after this February election. 
+
+The district stating that their guesstimated rates are 8-10 cents lower than their previous guess in April is also nonsense. The district fails to mention skyrocketing 
+assessed values (AVs) which cause rates to decline.
+
+Citizens are being asked to approve an amount – not a rate. Future guesstimates for rates can be almost anything the district wants. They just need to assume different values for Total AV growth.
+
+Actual rates are calculated each February each year by the county assessor once the Total AV (assessed value) for all taxable properties is known for the given year. 
+The assessor then takes how much the district wants in dollars for the given year and divides it by the Total AV for the district area properties to calculate the rate. 
+That rate is then applied to each parcel for that year.
+
+See the logical cost impact estimating calculator above for details.
+
+___
+
+### An analysis of the Highland SD's cost analysis
+
+See the image with the red border.
+
+![Highland SD's bond cost analysis](pagesManual/LeviesReport/20230214/HighlandSD_CostAnalysis.png "Highland SD's bond cost analysis")
+
+The district is claiming that their guesstimated future tax rates will be 1.77 which was the same as in 2022. The district fails to mention that they are assuming an 18% increase in 
+Total AV (assessed values) from 2022 to 2024. And then they are assuming another 6.5% increase in 2025, then 5% in 2026, and another 4% in 2027.
+
+Citizens are being asked to approve an amount – not a rate. Future guesstimates for rates can be almost anything the district wants. They just need to assume different values for Total AV growth.
+
+Actual rates are calculated each February each year by the county assessor once the Total AV (assessed value) for all taxable properties is known for the given year. The assessor then 
+takes how much the district wants in dollars for the given year and divides it by the Total AV for the district area properties to calculate the rate. That rate is then applied to each parcel for that year.
+
+This enrichment levy is a 28% increase in dollars over the previous enrichment levy.
+
+See the logical cost impact estimating calculator above for details.
+
+___
+
+### An analysis of the Kalama SD's cost analysis
+
+See the image with the red border.
+
+![Kalama SD's bond cost analysis](pagesManual/LeviesReport/20230214/KalamaSD_CostAnalysis.png "Kalama SD's bond cost analysis")
+
+The district is confusing rates with dollars. The district fails to mention the rapidly rising assessed values (AV). A flat rate multiplied by skyrocketing assessed values equals skyrocketing taxes in dollars.
+
+This new enrichment levy is more than a 50% increase in dollars over the previous levy!
+
+See the logical cost impact estimating calculator above.
+
+Rates are calculated once the Total AV (assessed value) for all properties is known. 
+Then rates will be calculated, each February, based on how much the district wants in dollars divided by the Total AV for the district area properties. 
+
+___
+
+### An analysis of the Kennewick SD's cost analysis
+
+See the image with the red border.
+
+![Kennewick SD's bond cost analysis](pagesManual/LeviesReport/20230214/KennewickSD_CostAnalysis.png "Kennewick SD's bond cost analysis")
+
+The Kennewick SD reps are making fundamental math errors and are using faulty logic in their cost analysis which underestimate the cost to taxpayers. 
+
+The district reps fail to mention skyrocketing assessed values (AVs). The district is assuming their example properties stay at the same AV for each year while they assume the 
+Total AV (of all properties) increase substantially. The district needs to be consistent.
+
+This levy is a 44% increase in dollars over the previous levy. 
+
+See the link above for a logical cost impact estimating calculator for details
+
+___
+
+### An analysis of the Kiona Benton SD's cost analysis
+
+See the image with the red border.
+
+![Kiona Benton SD's bond cost analysis](pagesManual/LeviesReport/20230214/KionaBentonSD_CostAnalysis.png "Kiona Benton SD's bond cost analysis")
+
+The district reps fail to mention that this levy is a significant tax increase in dollars. With higher property values, of course rates decline. 
+
+Citizens are being asked to approve an amount – not a rate. Future guesstimates for rates can be almost anything the district wants. They just need to assume different values for Total AV growth.
+
+Actual rates are calculated each February each year by the county assessor once the Total AV (assessed value) for all taxable properties is known for the given year. 
+The assessor then takes how much the district wants in dollars for the given year and divides it by the Total AV for the district’s taxing area properties to calculate the rate. 
+That rate is then applied to each parcel for that year.
+
+This enrichment levy is a 25% increase in dollars over the previous enrichment levy.
+
+See the logical cost impact estimating calculator above for details.
+
+___
+
+### An analysis of the Marysville SD's cost analysis
+
+See the image with the red border.
+
+![Marysville SD's bond cost analysis](pagesManual/LeviesReport/20230214/MarysvilleSD_CostAnalysis.png "Marysville SD's bond cost analysis")
+
+The district uses a fictitious example home with a $500,000 assessed value (AV). This example home is special. It supposedly maintains an AV of $500,000 every year in the past and future.
+
+Of course tax rates go down as real AVs have skyrocketed. The district assumes Total AV of all taxable properties increase each year – except for this one home. It is illogical and mathematically incorrect.
+
+The district failed to indicate the years on the X axis on their 2 bar bar chart. The red bar with a value of $1,175 is for year 2022. Year 2023 is not shown.  
+Their green bar is for 2024 with a value of $835. Now their example home is assumed (incorrectly) to have a value of $500,000 for 2022 and for 2024. But their own calculations have 
+an underlying assumption for Total AV growth from 2022 to 2024 of 32%!
+
+That is how they came up with their estimated rates.
+
+So they should have allowed their example home’s AV to grow by the same pace or 32% in which case the $500,000 home of 2022 will have an AV of approximately $663,000 in 2024 for a tax of $1,107.
+
+So the claim of $340/year, for each of the 4 years in this new levy, in savings is ludicrous.
+
+The district's bar chart's legend is also incorrect. The bars are levy tax amounts, not rates. 
+
+Citizens are being asked to approve an amount – not a rate. Future guesstimates for rates can be almost anything the district wants. They just need to assume different values for Total AV growth.
+
+Actual rates are calculated each February each year by the county assessor once the Total AV (assessed value) for all taxable properties is known for the given year. The assessor then 
+takes how much the district wants in dollars for the given year and divides it by the Total AV for the district area properties to calculate the rate. That rate is then applied to each parcel for that year.
+
+This 4 year enrichment levy is a 21% tax increase in dollars over the previous 4 year enrichment levy.
+
+See the logical cost impact estimating calculator above for details.
+
+___
+
+### An analysis of the Okanogan SD's cost analysis
+
+See the image with the red border.
+
+![Okanogan SD's bond cost analysis](pagesManual/LeviesReport/20230214/OkanoganSD_CostAnalysis.png "Okanogan SD's bond cost analysis")
+
+Citizens are being asked to approve an amount – not a rate. Future guesstimates for rates can be almost anything the district wants. They just need to assume different values for Total AV growth.
+
+Actual rates are calculated each February each year by the county assessor once the Total AV (assessed value) for all taxable properties is known for the given year. 
+The assessor then takes how much the district wants in dollars for the given year and divides it by the Total AV for the district area properties to calculate the rate. 
+That rate is then applied to each parcel for that year.
+
+This enrichment levy is a 28% increase in dollars over the previous enrichment levy.
+
+A parcel with a 2022 AV of $200,000 can expect to pay $433 on average annually for this levy.
+
+A parcel with a 2022 AV of $400,000 can expect to pay $866 on average annually for this levy.
+
+See the logical cost impact estimating calculator above for details.
+
+___
+
+### An analysis of the Othello SD's cost analysis
+
+See the image with the red border.
+
+![Othello SD's bond cost analysis](pagesManual/LeviesReport/20230214/OthelloSD_CostAnalysis.png "Othello SD's bond cost analysis")
+
+The districts is incorrectly assuming the Total AV increases each year but their example home’s AV stays constant. They are not being consistent and therefore their logic and mathematics are incorrect.
+They should have let the example home’s AV increase at the same pace as the Total AV for a more realistic estimate.
+
+Citizens are being asked to approve an amount – not a rate. Future guesstimates for rates can be almost anything the district wants. They just need to assume different values for Total AV growth.
+
+Actual rates are calculated each February each year by the county assessor once the Total AV (assessed value) for all taxable properties is known for the given year. 
+The assessor then takes how much the district wants in dollars for the given year and divides it by the Total AV for the district area properties to calculate the rate. 
+That rate is then applied to each parcel for that year.
+
+This enrichment levy is a 27% increase in dollars over the previous enrichment levy.
+
+The owner of a parcel with an AV of $300,000 as of 2022, can expect an average annual tax of approximately $570 over the 3 future years of the levy.
+
+The owner of a parcel with an AV of $500,000 as of 2022, can expect an average annual tax of approximately $950 over the 3 future years of the levy.
+
+See the logical cost impact estimating calculator above for details.
+
+___
+
+### An analysis of the Shelton SD's cost analysis
+
+See the image with the red border.
+
+![Shelton SD's bond cost analysis](pagesManual/LeviesReport/20230214/SheltonSD_CostAnalysis.png "Shelton SD's bond cost analysis")
+
+Citizens are being asked to approve an amount – not a rate. Future guesstimates for rates can be almost anything the district wants. They just need to assume different values for Total AV growth.
+
+Actual rates are calculated each February each year by the county assessor once the Total AV (assessed value) for all taxable properties is known for the given year. 
+The assessor then takes how much the district wants in dollars for the given year and divides it by the Total AV for the district area properties to calculate the rate. 
+That rate is then applied to each parcel for that year.
+
+This enrichment levy is a 35+% increase in dollars over the previous enrichment levy.
+
+See the logical cost impact estimating calculator above for details.
+
+___
+
+### An analysis of the Trout Lake SD's cost analysis
+
+See the image with the red border.
+
+![Trout Lake SD's bond cost analysis](pagesManual/LeviesReport/20230214/TroutLakeSD_CostAnalysis.png "Trout Lake SD's bond cost analysis")
+
+The district’s cost analysis states, “Lower than previous tax rate!”
+
+The district fails to mention the rapidly rising assessed values (AV)which caused a lower rate. The district is taking advantage of these higher AVs.
+This excessive levy is an increase of over 36% in dollars over the previous – hardly a replacement.
+
+Citizens are being asked to approve an amount – not a rate. Rates are calculated once the Total AV (assessed value) for all properties is known. 
+Then rates will be calculated, each February, based on how much the district wants in dollars divided by the Total AV for the district area properties. 
+
+___
+
+### An analysis of the Vancouver SD's cost analysis
+
+See the image with the red border.
+
+![Vancouver SD's bond cost analysis](pagesManual/LeviesReport/20230214/VancouverSD_CostAnalysis.png "Vancouver SD's bond cost analysis")
+
+The district’s guesstimated rates are next to useless.
+Citizens are being asked to approve an amount – not a rate.
+Rates are calculated each February by the county assessor once the Total AV (assessed value) for all properties is known for the given year. 
+The assessor then takes how much the district wants in dollars divided by the Total AV for the district area properties for the rate. That rate is then applied to each parcel.
+
+This enrichment levy is a 50% increase in dollars over the previous enrichment levy.
+
+See the logical cost impact estimating calculator above for details.
+
+___
+
+### An analysis of the Washougal SD's cost analysis
+
+See the image with the red border.
+
+![Washougal SD's bond cost analysis](pagesManual/LeviesReport/20230214/WashougalSD_CostAnalysis.png "Washougal SD's bond cost analysis")
+
+The district makes several math errors for their cost analysis.
+The district is using an example home with an assessed value (AV) of $539,000 that stays at that value for the current year and all future years. 
+The district is assuming the Total AV of all taxable properties grows 22% from 2022 to 2024 and the 4% each year after that. This is their biggest mistake. 
+
+The district needs to be consistent. The district should have let the example home’s AV grow at the same pace as their assumption for Total AV growth. 
+
+Citizens are being asked to approve an amount – not a rate.
+Rates are calculated each February by the county assessor once the Total AV (assessed value) for all taxable properties is known for the given year. 
+The assessor then takes how much the district wants in dollars for the given year divided by the Total AV for the district area properties to calculate the rate. 
+That rate is then applied to each parcel for that year.
+
+This enrichment levy is a 31% increase in dollars over the previous enrichment levy no matter what actually happens to total assessed values.
+
+For a property (house, apartment, or business) with a 2022 AV of $500,000,
+the owner can expect an annual average tax of $1,400 for just the enrichment levy.
+The capital levy will cost approximately an extra $400 in annual average taxes.
+That is a total of $1,800 per year for the next 3 years.
+The district’s estimate is 50% too low.
+
+See the logical cost impact estimating calculator above for details.
