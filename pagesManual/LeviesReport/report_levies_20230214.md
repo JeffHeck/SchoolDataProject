@@ -22,7 +22,6 @@ As analyses are completed, summary results will be provided on this page.
 - Analyses of the enrichment levy cost analyses presented by districts
 - Calculator methodology
 
-
 ___
 
 ## Summary
