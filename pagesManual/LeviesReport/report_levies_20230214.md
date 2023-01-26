@@ -28,7 +28,7 @@ ___
 For the February 14th, 2023 election, across the state:
 - There are 8 bond measures.
 - There are 37 enrichment levies.
-- There are 11 capital levies.
+- There are 12 capital levies.
 
 
 ___
@@ -181,7 +181,18 @@ ___
 
 ## Capital levy amounts charts
 
+![Kettle Falls SD capital levy amounts chart](pagesManual/LeviesReport/20230214/KettleFallsCapital.png "Kettle Falls SD capital levy amounts chart")
+![Odessa SD buses levy amounts chart](pagesManual/LeviesReport/20230214/OdessaBuses.png "Odessa SD buses levy amounts chart")
+![Odessa SD capital levy amounts chart](pagesManual/LeviesReport/20230214/OdessaCapital.png "Odessa SD capital levy amounts chart")
+![Okanogan SD capital levy amounts chart](pagesManual/LeviesReport/20230214/OkanoganCapital.png "Okanogan SD capital levy amounts chart")
+![Peninsula SD capital levy amounts chart](pagesManual/LeviesReport/20230214/PeninsulaCapital.png "Peninsula SD capital levy amounts chart")
+![Pomeroy SD capital levy amounts chart](pagesManual/LeviesReport/20230214/PomeroyCapital.png "Pomeroy SD capital levy amounts chart")
+![Richland SD capital levy amounts chart](pagesManual/LeviesReport/20230214/RichlandCapital.png "Richland SD capital levy amounts chart")
+![Thorp SD buses levy amounts chart](pagesManual/LeviesReport/20230214/ThorpBuses.png "Thorp SD buses levy amounts chart")
+![Thorp SD capital levy amounts chart](pagesManual/LeviesReport/20230214/ThorpCapital.png "Thorp SD capital levy amounts chart")
 ![Washougal SD capital levy amounts chart](pagesManual/LeviesReport/20230214/WashougalCapital.png "Washougal SD capital levy amounts chart")
+![White Salmon Valley SD capital levy amounts chart](pagesManual/LeviesReport/20230214/WhiteSalmonValleyCapital.png "White Salmon Valley SD capital levy amounts chart")
+![Wilbur SD capital levy amounts chart](pagesManual/LeviesReport/20230214/WilburCapital.png "Wilbur SD capital levy amounts chart")
 
 ___
 
