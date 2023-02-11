@@ -4,6 +4,8 @@ title: Reports
 permalink:
 ---
 
+report_levies_recommended_policy_changes
+- [Recommended Policy Changes Regarding Voters' Pamphlets And Tax Measures' Cost Impact Analyses](report_levies_recommended_policy_changes)
 - [School District Measures on the February 14th 2023 Ballot (Preliminary)](report_levies_20230214)
 - [School District Measures on the November 8th 2022 Ballot](report_levies_20221108)
 - [Per Pupil Expenditures](report_expenditures)
