@@ -29,6 +29,7 @@ been submitted, committees should be given at least 2 business days to write the
 
 ### (4) Max word count for statements and rebuttals.
 Pro and con committee statements max word count: 250 words
+
 Pro and con committee rebuttals max word count: 75 words
 
 ### (5) Resolution requirements for bonds.
