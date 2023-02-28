@@ -14,13 +14,13 @@ Contents
 
 ## Recommended policies
 
-### (1) County auditors are responsible to select pro and con committee volunteers for the voters’ pamphlet.
+### (1) County auditors need to be responsible to select pro and con committee volunteers for the voters’ pamphlet.
 County auditors (not the taxing jurisdictions) are to be entirely responsible for finding pro and con committee members for the voters’ 
 pamphlet. Resolutions should be due early enough to allow county auditors at least 1 full week to advertise and find volunteers for the 
 committees. 
 
 ### (2) Up to 3 people can be on a committee.
-Preference is first given to the measures’ jurisdiction residents. Remaining open slots should be open to all county residents. Both 
+Preference should be first given to the measures’ jurisdiction residents. Remaining open slots should be open to all county residents. Both 
 groups are to be selected on a first-come first-served basis.
 
 ### (3) Number of days allowed for committees to write and submit statements and rebuttals.
@@ -47,7 +47,7 @@ if still unknown) for the previous levy for each of the previous levy years, are
 only (no guesstimated future rates) for each year of the new levy. For all non-replacement levies, such as capital levies, the requested 
 amounts to be collected each year must be stated in the resolution. Future guesstimated rates must not be included.
 
-### (8) County assessors must create the property taxpayer cost impact analyses.
+### (8) County assessors and only the county assessors should be charged with creating property taxpayer cost impact analyses.
 For all property tax measures, the county assessor (using sound accounting practices) must provide a taxpayer cost impact analysis to be 
 included in the resolution submission packet. Taxing jurisdictions must give the county assessor at least 3 weeks before the submission 
 deadline to create those cost impact analyses. Jurisdictions can post those and only those cost impact analysis reports on their websites, fliers, 
@@ -56,7 +56,7 @@ tax measure. The house and apartment’s future assessed values (AVs) should gro
 properties in the taxing area.
 
 ### (9) No doxxing permitted.
-Doxxing is prohibited in statements and rebuttals for the voters’ pamphlet. 
+Doxxing should be prohibited in statements and rebuttals for the voters’ pamphlet. 
 
 ### (10) All property tax measures should only be permitted on the August (Primary) and November (General) elections.
 No tax measures are to be permitted on the February or April elections.
@@ -71,6 +71,16 @@ No tax measures are to be permitted on the February or April elections.
 ### (3) Taxing jurisdictions such as school districts have a clear conflict of interest with being tasked with finding and selecting con committee members for the voters’ pamphlets for their own measures.
 
 ### (4) Voters and property taxpayers do not receive accurate estimates of the cost impacts to the tax measures they are voting on.
+
+Example of an inaccurate, underestimating school district campaign material:
+
+The Renton SD provided the following cost analysis and graphic to voters published on their taxpayer-funded website regarding their 2022 bond. 
+The district reps incorrectly state that since rates have gone down that taxpayers 
+will pay less in dollars in 2023 than they did in 2016. They fail to mention or account for skyrocketing assessed values which have increased much faster than rates have decreased. 
+The district actually tries to use a hypothetical example home that has a "stable" assessed value of $500,000 for years 2016 through and including 2023. This is ludicrous. 
+And this is an institution (public school district) that is supposed to be teaching young people about mathematics and financial literacy.
+
+![Renton SD's district generated cost analysis](pagesManual/LeviesReport/recommended_policy_changes/FalseAdvertisementByRentonSD.png "Renton SD's faulty district generated cost analysis")
 
 ### (5) There is no consistency among the 39 WA counties regarding pro/con statements and rebuttals in the voters’ pamphlets.
 
