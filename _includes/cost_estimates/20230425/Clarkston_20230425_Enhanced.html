@@ -11,18 +11,18 @@
 	//var data;
 	var dataParcel;
 	
-	totalBondAV = 5332236615;
-	sampleParcelAV = 600000;
+	totalBondAV = 1616367000;
+	sampleParcelAV = 400000;
 	sampleParcelAVMin = 100000;
-	sampleParcelAVMax = 2000000;
-	totalBondPrincipal = 116000000;
-	totalBondInterest = 78487000;
+	sampleParcelAVMax = 1000000;
+	totalBondPrincipal = 79400000;
+	totalBondInterest = 75137000;
 	totalBondCost = totalBondPrincipal + totalBondInterest;
 	sampleParcelPOF = sampleParcelAV / totalBondAV;
 	totalBondCostParcel = 0;
 	totalBondPrincipalParcel = 0;
 	totalBondInterestParcel = 0;
-	bondYears = 21;
+	bondYears = 27;
 	averageTotalBondCostParcel = 0;
 
 	// POF Annual Change Percent
@@ -37,27 +37,33 @@
 		data.addColumn('number', 'Interest + Fees');
 
 		data.addRows([
-			['2024', 3750800.0, 3010200.0],
-			['2025', 4149467.0, 2815533.0],
-			['2026', 1571424.0, 5633576.0],
-			['2027', 1860632.0, 5551368.0],
-			['2028', 2183446.0, 5454554.0],
-			['2029', 2526073.0, 5340927.0],
-			['2030', 2889542.0, 5209458.0],
-			['2031', 3283939.0, 5059061.0],
-			['2032', 3703875.0, 4888125.0],
-			['2033', 4154679.0, 4695321.0],
-			['2034', 4636959.0, 4479041.0],
-			['2035', 5154354.0, 4237646.0],
-			['2036', 5703694.0, 3969306.0],
-			['2037', 6288642.0, 3672358.0],
-			['2038', 6916054.0, 3344946.0],
-			['2039', 7584140.0, 2984860.0],
-			['2040', 8295018.0, 2589982.0],
-			['2041', 9001216.0, 2208784.0],
-			['2042', 10029455.0, 1518545.0],
-			['2043', 10980296.0, 911704.0],
-			['2044', 11336296.0, 911704.0],
+			['2024', 3651000.0, 615000.0],
+			['2025', 1058536.5, 3492463.5],
+			['2026', 723401.49475, 4124598.50525],
+			['2027', 849811.199177126, 4068188.80082288],
+			['2028', 973243.391314019, 4020756.60868598],
+			['2029', 1103679.02311037, 3968320.97688962],
+			['2030', 1237146.65686626, 3908853.34313374],
+			['2031', 1380787.81918283, 3842212.18081717],
+			['2032', 1533152.98037318, 3767847.01962682],
+			['2033', 1693720.92889983, 3685279.07110017],
+			['2034', 1863919.7556523, 3594080.2443477],
+			['2035', 2047255.88577215, 3493744.11422785],
+			['2036', 2241414.87949114, 3381585.12050886],
+			['2037', 2452215.55956732, 3258784.44043268],
+			['2038', 2671595.27490126, 3124404.72509874],
+			['2039', 2904001.65347374, 2977998.34652626],
+			['2040', 3146210.67202204, 2821789.32797796],
+			['2041', 3411671.7060681, 2649328.2939319],
+			['2042', 3683725.07254245, 2464274.92745755],
+			['2043', 3974802.65600447, 2266197.34399553],
+			['2044', 4281540.82345468, 2052459.17654532],
+			['2045', 4612466.061211, 1818533.938789],
+			['2046', 4971498.73722456, 1557501.26277544],
+			['2047', 5350915.87331612, 1276084.12668389],
+			['2048', 5474047.0, 1249953.0],
+			['2049', 5932898.0, 896102.0],
+			['2050', 6175340.0, 752660.0],
 
 		]);
 
@@ -111,7 +117,7 @@
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
 			['Total cost', totalBondCostParcel],
-			['Average cost per year for 21 years', averageTotalBondCostParcel],
+			['Average cost per year for 27 years', averageTotalBondCostParcel],
 			['Total principal cost', totalBondPrincipalParcel],
 			['Total interest + fees cost', totalBondInterestParcel],
 		]);
@@ -206,7 +212,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 25th 2023 bond measure proposed by the Steilacoom SD</H2>
+  <H2>Property tax impact estimate calculator for the April 25th 2023 bond measure proposed by the Clarkston SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
