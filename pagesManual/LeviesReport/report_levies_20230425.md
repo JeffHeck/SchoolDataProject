@@ -55,6 +55,8 @@ ___
 
 ## Taxpayer cost impact estimate calculators for the bonds
 
+[Calculator for the Kent SD's Bond Measure](calculator_kent_20230425_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Orting SD's Bond Measure](calculator_orting_20230425_enhanced){:target="_blank" rel="noopener"}
 
 [Calculator for the South Whidbey SD's Bond Measure](calculator_south_whidbey_20230425_enhanced){:target="_blank" rel="noopener"}
@@ -81,6 +83,10 @@ In progress
 ___
 
 ## Bond amounts charts
+
+![Kent SD bond amounts chart](pagesManual/LeviesReport/20230425/Kent.png "Kent SD bond amounts chart")
+
+![Orting SD bond amounts chart](pagesManual/LeviesReport/20230425/Orting.png "Orting SD bond amounts chart")
 
 ![South Whidbey SD bond amounts chart](pagesManual/LeviesReport/20230425/SouthWhidbey.png "South Whidbey SD bond amounts chart")
 
