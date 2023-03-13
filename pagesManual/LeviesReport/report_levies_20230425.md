@@ -51,6 +51,12 @@ ___
 
 [Calculator for the Orchard Prairie SD's Enrichment Measure](calculator_orchard_prairie_20230425_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Washougal SD's Capital Levy Measure](calculator_washougal_capital_20230425_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Washougal SD's Enrichment Levy Measure](calculator_washougal_20230425_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Willapa Valley SD's Enrichment Levy Measure](calculator_willapa_valley_20230425_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Woodland SD's Enrichment Levy Measure](calculator_woodland_20230425_enhanced){:target="_blank" rel="noopener"}
 
 ## Taxpayer cost impact estimate calculators for the bonds
@@ -73,6 +79,10 @@ ___
 
 ![Orchard Prairie SD enrichment levy amounts chart](pagesManual/LeviesReport/20230425/OrchardPrairieEnrichment.png "Centralia SD enrichment levy amounts chart")
 
+![Washougal SD enrichment levy amounts chart](pagesManual/LeviesReport/20230425/WashougalEnrichment.png "Washougal SD enrichment levy amounts chart")
+
+![Willapa Valley SD enrichment levy amounts chart](pagesManual/LeviesReport/20230425/WillapaValleyEnrichment.png "Willapa Valley SD enrichment levy amounts chart")
+
 ![Woodland SD enrichment levy amounts chart](pagesManual/LeviesReport/20230425/WoodlandEnrichment.png "Woodland SD enrichment levy amounts chart")
 
 ___
@@ -80,7 +90,7 @@ ___
 
 ## Capital levy amounts charts
 
-In progress
+![Washougal SD capital levy amounts chart](pagesManual/LeviesReport/20230425/WashougalCapital.png "Washougal SD capital levy amounts chart")
 
 ___
 
