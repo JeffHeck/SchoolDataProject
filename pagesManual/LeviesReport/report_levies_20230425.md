@@ -35,13 +35,13 @@ ___
 
 ## Bond summary
 
-In progress
+![Bond table](pagesManual/LeviesReport/20230425/Bonds.png "Bond table")
 
 ___
 
 ## Levy summary
 
-In progress
+![Levy table](pagesManual/LeviesReport/20230425/Levies.png "Levy table")
 
 ___
 
@@ -116,11 +116,13 @@ ___
 
 ## County voters' pamphlet rules summary
 
-![County summary table](pagesManual/LeviesReport/20230214/VotersPamphletRules.png "County summary table")
+![County summary table](pagesManual/LeviesReport/20230425/VotersPamphletRules.png "County summary table")
 
 ___
 
 ## Pro/Con committees for the voters' pamphlet summary
+
+![Pro con committee counts](pagesManual/LeviesReport/20230425/ProConCommitteeCounts.png "Pro con committee counts")
 
 Note: Pro/con committee member selection, along with measure resolutions, by school districts were due to their respective county auditor on February 24th, 2023.
 
