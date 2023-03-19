@@ -26,8 +26,6 @@ permalink:
 
 [Bellingham School District](bellingham school district)
 
-[Benge School District](benge school district)
-
 [Bethel School District](bethel school district)
 
 [Bickleton School District](bickleton school district)
