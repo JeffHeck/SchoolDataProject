@@ -137,9 +137,9 @@ In progress
 
 For these property tax impact estimate calculators, a Proportional Obligation Factor (POF) method was used.
 
-Using the 2022 Total District Assessed Value (AV), the POF of the sample parcel was calculated:
+Using the 2023 Total District Assessed Value (AV), the POF of the sample parcel was calculated:
 
-POF = (2022 Sample Parcel AV) / (2022 Total District AV)
+POF = (2023 Sample Parcel AV) / (2023 Total District AV)
 
 The POF was then multiplied by the total amount that the district expects to collect each year for the duration of the measure in question (bond or levy) 
 to obtain the estimated taxes for the sample parcel for the measure.
@@ -159,25 +159,24 @@ It is the author's opinion that county assessors (in all 39 WA counties) should 
 
 Example calculator calculation:
 
-Issaquah SD
+Centralia SD
 
-Total District AV for 2022: $40,480,082,421
+Total District AV for 2023: $4,131,948,094
 
-Sampler parcel AV for 2022: $1,100,000
+Sampler parcel AV for 2023: $350,000
 
-POF for 2022 assumed to be the same for years 2023 - 2026: $1,100,000 / 40,480,082,421 = 2.717E-5
+POF for 2023 assumed to be the same for years 2023 - 2025: $350,000 / $4,131,948,094 = 8.471E-05
 
-Enrichment Levy amount to collect in 2023: $61,000,000
+Enrichment Levy amount to collect in 2024: $6,700,000
 
-Sampler parcel's 2023 tax for the Enrichment Levy: POF * (Enrichment Levy amount to collect in 2023) = 2.717E-5 * $61,000,000 = $1,658
+Sampler parcel's 2024 tax for the Enrichment Levy: POF * (Enrichment Levy amount to collect in 2024) = 8.471E-05 * $6,700,000 = $568
 
-Similarly for the years 2024 - 2026
+Similarly for the year 2025
 
-2024 tax = 2.717E-5 * $64,000,000 = $1,739
+Enrichment Levy amount to collect in 2025: $7,600,000
 
-2025 tax = 2.717E-5 * $67,000,000 = $1,821
+2025 tax = 8.471E-05 * $7,600,000 = $644
 
-2026 tax = 2.717E-5 * $70,000,000 = $1,902
 
 
 ___
