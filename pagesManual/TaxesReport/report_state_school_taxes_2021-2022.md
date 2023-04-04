@@ -18,10 +18,10 @@ ___
 From recent surveys, the author estimates that 95-99% of WA voters have misconceptions of the State School Part 1 and Part 2 
 property tax categories on their property tax bills. They think that the taxes collected for these 2 categories are sent to 
 the State and the State then sends a small portion (10-20%) back to their local school district while the other 80-90% of 
-those State School taxes collected go to other school districts somewhere in the State. However, in actuality (except for a dozen school districts 
+those State School taxes collected go to other school districts or other uses somewhere in the State. However, in actuality (except for a dozen school districts 
 out of the 295 school districts in WA) 100% of property taxpayers' State School Parts 1&2 taxes are returned to their local school 
 district. And in fact the State needs to send substantially more to their local school district often on the order of 4 to 5 
-times as much as the State School tax amounts collected primarily from State Sales Tax taxpayers.
+times as much as the State School tax amounts collected. This extra State funding is primarily from State Sales Tax taxpayers.
 
 Property taxpayers incorrectly think that approximately 20-25% of their property taxes goes to their local school district when 
 a more accurate figure (accounting for the State School Parts 1&2 property taxes) is closer to 55-70%
@@ -32,14 +32,27 @@ ___
 There are 295 traditional public school districts in WA.
 
 For the 2021-2022 school year
-- 11 school districts have a surplus
-- 284 school districts have a deficit
+- 11 school districts had a surplus
+- 284 school districts had a deficit
 - The Seattle SD had the highest surplus of $103,000,000
 - The Spokane SD had the highest deficit of $282,000,000
 
 Note: Surplus (or deficit) in this report is defined as:
 
-The amount of State School 1&2 property taxes paid by the school district area's property taxpayers to the State minus the funding amount sent from the State to the school district.
+The amount of State School Parts 1&2 property taxes paid by the school district area's property taxpayers to the State minus the funding amount sent from the State to the school district.
+
+The 11 school districts that had a surplus as defined in this report:
+- Island County, South Whidbey SD
+- King County, Bellevue SD
+- King County, Mercer Island SD
+- King County, Seattle SD
+- Kittitas County, Cle Elum-Roslyn SD
+- Kittitas County, Damman SD
+- Mason County, Grapeview SD
+- San Juan County, Lopez SD
+- San Juan County, Orcas Island SD
+- San Juan County, San Juan Island SD
+- San Juan County, Shaw Island SD
 
 ___
 
@@ -69,7 +82,7 @@ ___
 
 Sorted by the surplus or deficit
 
-| County | District | State School Property Taxes From Local District Area Property Taxpayers To The State | Funding Amount From The State To The District| Surplus Or Deficit | State Funding As Percentage Of State School Property Taxes |
+| County | District | State School Property Taxes From Local District Area Property Taxpayers To The State | Funding Amount From The State To The District| Surplus Or Deficit | State Funding To The District As A Percentage Of The Local District Area State School Property Taxes |
 |----------|----------|----------|----------|----------|----------|
 |Spokane|Spokane|$71,097,094|$352,672,960|-$281,575,866|496%|
 |Clark|Evergreen (Clark)|$61,227,990|$325,169,059|-$263,941,069|531%|
