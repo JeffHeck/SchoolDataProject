@@ -8,7 +8,8 @@ permalink: report_state_school_taxes_2021-2022
 - Summary
 - Surplus or deficit term definition
 - Statistics summary
-- Static bar chart showing each district's surplus or deficit
+- Bar chart showing each district's surplus or deficit
+- Bar charts showing each county's State School tax rates
 - Interactive chart showing the surplus or deficit for each school district 
 - Table of data for all school districts
 - Methodology
@@ -59,9 +60,17 @@ The 11 school districts that had a surplus as defined in this report (their dist
 
 ___
 
-## Static bar chart showing each district's surplus or deficit
+## Bar chart showing each district's surplus or deficit
 
 ![Bar chart of surpluses](pagesManual/TaxesReport/StateSchoolTaxesAverageAndStateRevenueByDistrict.png "Surpluses")
+
+___
+
+## Bar charts showing each county's State School property tax rate
+
+![Bar chart of State School tax rates 2021](pagesManual/TaxesReport/StateSchoolTaxesByCounty2021.png "Bar chart of State School tax rates 2021")
+
+![Bar chart of State School tax rates 2022](pagesManual/TaxesReport/StateSchoolTaxesByCounty2022.png "Bar chart of State School tax rates 2022")
 
 ___
 
