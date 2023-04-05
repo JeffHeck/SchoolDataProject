@@ -6,6 +6,7 @@ permalink: report_state_school_taxes_2021-2022
 
 ## Contents
 - Summary
+- Surplus or deficit term definition
 - Statistics summary
 - Static bar chart showing each district's surplus or deficit
 - Interactive chart showing the surplus or deficit for each school district 
@@ -28,6 +29,12 @@ a more accurate figure (accounting for the State School Parts 1&2 property taxes
 
 ___
 
+## Surplus or deficit term definition
+Surplus (or deficit) used in this report is defined as: The amount of State School Parts 1&2 property taxes paid by the school district area's property taxpayers to the State 
+minus the funding amount sent from the State to the school district.
+
+___
+
 ## Statistics summary
 There are 295 traditional public school districts in WA.
 
@@ -36,10 +43,6 @@ For the 2021-2022 school year
 - 284 school districts had a deficit
 - The Seattle SD had the highest surplus of $103,000,000
 - The Spokane SD had the highest deficit of $282,000,000
-
-Note: Surplus (or deficit) in this report is defined as:
-
-The amount of State School Parts 1&2 property taxes paid by the school district area's property taxpayers to the State minus the funding amount sent from the State to the school district.
 
 The 11 school districts that had a surplus as defined in this report (their district area property taxpayers paid more to the State than what the State sent to the school district):
 - Island County, South Whidbey SD
