@@ -41,7 +41,7 @@ Note: Surplus (or deficit) in this report is defined as:
 
 The amount of State School Parts 1&2 property taxes paid by the school district area's property taxpayers to the State minus the funding amount sent from the State to the school district.
 
-The 11 school districts that had a surplus as defined in this report:
+The 11 school districts that had a surplus as defined in this report (their district area property taxpayers paid more to the State than what the State sent to the school district):
 - Island County, South Whidbey SD
 - King County, Bellevue SD
 - King County, Mercer Island SD
