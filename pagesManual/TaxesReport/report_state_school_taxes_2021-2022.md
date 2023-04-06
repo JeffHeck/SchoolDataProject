@@ -4,6 +4,8 @@ title: State School Property Taxes Report 2021-2022
 permalink: report_state_school_taxes_2021-2022
 ---
 
+Last updated: April 6th, 2023
+
 ## Contents
 - Summary
 - Surplus or deficit term definition
