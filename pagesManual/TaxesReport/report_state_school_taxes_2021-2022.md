@@ -74,9 +74,11 @@ ___
 
 ![Bar chart of State School tax rates 2022](pagesManual/TaxesReport/StateSchoolTaxesByCounty2022.png "Bar chart of State School tax rates 2022")
 
+![Bar chart of State School tax rates 2023](pagesManual/TaxesReport/StateSchoolTaxesByCounty2023.png "Bar chart of State School tax rates 2023")
+
 All properties within school district tax areas within a county have the county's State School property tax rate. 
 The obvious question though is, why are the State School property tax rates different for each county? 
-Why are some so high such as for Whitman County or Okanogan County? 
+Why are some so high? 
 The reason is that some counties are not necessarily up to date in 
 their assessments for property values in general for one reason or another. The State compensates for this by auditing each county each year. When the State auditors 
 find underestimation of assessed 
