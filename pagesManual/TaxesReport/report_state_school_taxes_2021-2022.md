@@ -20,7 +20,7 @@ ___
 From recent surveys, the author estimates that 95-99% of WA voters have misconceptions of the State School Part 1 and Part 2 
 property tax categories on their property tax bills. They think that the taxes collected for these 2 categories are sent to 
 the State and the State then sends a small portion (10-20%) back to their local school district while the other 80-90% of 
-those State School taxes collected go to other school districts or other uses somewhere in the State. However, in actuality (except for a dozen school districts 
+those State School taxes collected go to other school districts or other uses somewhere in the State. However, in actuality (except for 11 school districts 
 out of the 295 school districts in WA) 100% of property taxpayers' State School Parts 1&2 taxes are returned to their local school 
 district. And in fact the State needs to send substantially more to their local school district often on the order of 4 to 5 
 times as much as the State School tax amounts collected. This extra State funding is primarily from State Sales Tax taxpayers.
