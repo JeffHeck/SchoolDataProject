@@ -42,8 +42,8 @@ There are 295 traditional public school districts in WA.
 For the 2021-2022 school year
 - 11 school districts had a surplus
 - 284 school districts had a deficit
-- The Seattle SD had the highest surplus of $103,000,000
-- The Spokane SD had the highest deficit of $282,000,000
+- The Seattle SD had the highest surplus of $103M
+- The Spokane SD had the highest deficit of $282M
 
 The 11 school districts that had a surplus as defined in this report (their district area property taxpayers paid more to the State than what the State sent to the school district):
 - Island County, South Whidbey SD
@@ -71,6 +71,15 @@ ___
 ![Bar chart of State School tax rates 2021](pagesManual/TaxesReport/StateSchoolTaxesByCounty2021.png "Bar chart of State School tax rates 2021")
 
 ![Bar chart of State School tax rates 2022](pagesManual/TaxesReport/StateSchoolTaxesByCounty2022.png "Bar chart of State School tax rates 2022")
+
+The obvious question is, why are the State School property tax rates different for each county? Why are some so high such as for Whitman County. 
+The reason is that some counties are not necessarily up to date in 
+their assessments for property values in general for one reason or another. The State compensates for this by auditing each county each year. When the State auditors 
+find underestimation of assessed 
+values, the State then applies a higher State School property tax rate. While this is logical and works fairly for State School tax collection, it 
+highlights a problem of the 70 school districts that span multiple counties. This accuracy factor is not applied for school district 
+bonds and school district levies. So residents in counties with accurate, up to date assessed values are paying disproportionately more than their counterparts 
+in the same school district but in the neighboring county for school district bonds and levies. 
 
 ___
 
