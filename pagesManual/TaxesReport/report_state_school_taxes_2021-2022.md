@@ -76,16 +76,16 @@ ___
 
 ![Bar chart of State School tax rates 2023](pagesManual/TaxesReport/StateSchoolTaxesByCounty2023.png "Bar chart of State School tax rates 2023")
 
-All properties within school district tax areas within a county have the county's State School property tax rate. 
+All properties within school district tax areas within a county are assigned the county's State School property tax rate for the year. 
 The obvious question though is, why are the State School property tax rates different for each county? 
 Why are some so high? 
-The reason is that some counties are not necessarily up to date in 
-their assessments for property values in general for one reason or another. The State compensates for this by auditing each county each year. When the State auditors 
+The reason is that some counties are not necessarily up to date in their assessments for property values in general for one reason or another. 
+The State compensates for this by auditing each county each year. When the State auditors 
 find underestimation of assessed 
 values, the State then applies a higher State School property tax rate. While this is logical and fair for State School tax collection, it 
 highlights a problem of the 70 school districts that span multiple counties. This accuracy compensation factor is not applied for school district 
-bonds and school district levies. So residents in counties with accurate, up to date assessed values are paying disproportionately more than their counterparts 
-in the same school district but in the neighboring county for school district bonds and levies. 
+bonds and school district levies. So residents in counties with more accurate, up to date assessed values are paying disproportionately more than their counterparts 
+in the same school district tax area but in the neighboring county for school district bonds and levies. 
 
 ___
 
