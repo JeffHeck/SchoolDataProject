@@ -27,7 +27,7 @@ out of the 295 school districts in WA) 100% of property taxpayers' State School 
 district. And in fact the State needs to send substantially more to their local school district often on the order of 4 to 5 
 times as much as the State School tax amounts collected. This extra State funding is primarily from State Sales Tax taxpayers.
 
-Property taxpayers incorrectly think that approximately 20-25% of their property taxes goes to their local school district when 
+Property taxpayers incorrectly think that approximately 25-35% of their property taxes goes to their local school district when 
 a more accurate figure (accounting for the State School Parts 1&2 property taxes) is closer to 55-70%
 
 ___
