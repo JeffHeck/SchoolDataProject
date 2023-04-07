@@ -24,11 +24,17 @@ property tax categories on their property tax bills. They think that the taxes c
 the State and the State then sends a small portion (10-20%) back to their local school district while the other 80-90% of 
 those State School taxes collected go to other school districts or other uses somewhere in the State. However, in actuality (except for 11 school districts 
 out of the 295 school districts in WA) 100% of property taxpayers' State School Parts 1&2 taxes are returned to their local school 
-district. And in fact the State needs to send substantially more to their local school district often on the order of 4 to 5 
-times as much as the State School tax amounts collected. This extra State funding is primarily from State Sales Tax taxpayers.
+district. In fact the State needs to send substantially more to their local school district often on the order of 4 to 5 
+times as much as the State School tax amounts collected. This extra State funding is primarily from State Sales Tax taxpayers. 
+The State School Parts 1&2 property tax categories perhaps should be renamed to "Local School District Partial Funding" to 
+give citizens a more transparent and factual understanding of their property taxes and to the extent of spiraling public 
+school district spending.
 
-Property taxpayers incorrectly think that approximately 25-35% of their property taxes goes to their local school district when 
+Currently, property taxpayers incorrectly think that approximately 25-35% of their property taxes goes to their local school district when 
 a more accurate figure (accounting for the State School Parts 1&2 property taxes) is closer to 55-70%
+
+As of this writing, the latest OSPI school district budget information available is for the 2021-2022 school year. This 
+report focuses on that 2021-2022 school year but will be updated as the OSPI releases new data.
 
 ___
 
