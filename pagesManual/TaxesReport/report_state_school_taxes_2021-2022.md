@@ -4,7 +4,7 @@ title: State School Property Taxes Report 2021-2022
 permalink: report_state_school_taxes_2021-2022
 ---
 
-Last updated: April 7th, 2023
+Last updated: April 11th, 2023
 
 ## Contents
 - Summary
@@ -19,7 +19,7 @@ Last updated: April 7th, 2023
 ___
 
 ## Summary
-From recent surveys, the author estimates that 95-99% of WA voters have misconceptions of the State School Part 1 and Part 2 
+From recent surveys, the author estimates that 95+% of WA voters have misconceptions of the State School Part 1 and Part 2 
 property tax categories on their property tax bills. They think that the taxes collected for these 2 categories are sent to 
 the State and the State then sends a small portion (10-20%) back to their local school district while the other 80-90% of 
 those State School taxes collected go to other school districts or other uses somewhere in the State. However, in actuality (except for 11 school districts 
