@@ -11,6 +11,7 @@ Last updated: May 19th, 2023
 - Chart of the historical number of school district measures by election month
 - Possible reasons why school districts prefer February
 - The few districts that run their tax measures in November
+- Districts that have only run their tax measures in February
 - Table of data for all school districts
 - Sources
 
@@ -59,6 +60,13 @@ ___
 - Inchelium SD (~200 students) ran all 4 of their measures in November for the time span under study.
 - Eastmont SD (6,000+ students) ran 6 of their 7 measures in November.
 - Highline SD (18,000+ students) ran 5 of their 9 measures in November.
+
+___
+
+## Districts that have run their tax measures only in February
+There are 89 school districts that have only run their measures in February over the 13 year time span in this study.
+
+![Table of districts that only has had Feb elections](pagesManual/ElectionMonthReport/FebOnlyDistricts.png "Feb Only Districts")
 
 ___
 
