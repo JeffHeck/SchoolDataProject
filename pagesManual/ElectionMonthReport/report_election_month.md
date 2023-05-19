@@ -26,13 +26,13 @@ ___
 ## Chart of the historical number of school district measures by election month
 ![Bar chart of measure counts by month](pagesManual/ElectionMonthReport/ElectionMonthFreqSummary.png "Measure Counts")
 
-Month; Count
-- Feb; 1976
-- Mar; 17
-- Apr; 221
-- May; 11
-- Aug; 45
-- Nov; 162
+Month: Count
+- Feb: 1976
+- Mar: 17
+- Apr: 221
+- May: 11
+- Aug: 45
+- Nov: 162
 
 ___
 
@@ -55,7 +55,7 @@ Now all elections must have a voters’ pamphlet. The August and November electi
 
 ___
 
-## The few districts that run their tax measures in November
+## The few districts that run their tax measures in November (typically the highest voter turnout month)
 - Inchelium SD (~200 students) ran all 4 of their measures in November for the time span under study.
 - Eastmont SD (6,000+ students) ran 6 of their 7 measures in November.
 - Highline SD (18,000+ students) ran 5 of their 9 measures in November.
