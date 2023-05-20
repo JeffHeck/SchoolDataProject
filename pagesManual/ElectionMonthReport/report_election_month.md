@@ -20,7 +20,7 @@ ___
 ## Summary
 School districts have the option of running their tax measures on any one of the possible elections in a given year: February, April, August (Primary), or November (General).
 They can only run their measures twice in 1 calendar year if it should fail in their first attempt. 
-This report summarizes the school district tax measures (bonds and levies) that were on the ballot for the time span of 2010 thru 2023 (4/25/23).
+This report summarizes the school district tax measures (bonds and levies) that were on the ballot for the time span of 2010 through 2023 (4/25/23).
 
 ___
 
@@ -77,8 +77,8 @@ ___
 ___
 
 ## Sources
-- OSPI for January 2010 thru October 2022
-- Washington’s Secretary of State for November 2022 thru April 2023
+- OSPI for January 2010 through October 2022
+- Washington’s Secretary of State for November 2022 through April 2023
 
 ___
 
