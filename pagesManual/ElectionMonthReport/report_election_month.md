@@ -12,7 +12,7 @@ Last updated: May 19th, 2023
 - Possible reasons why school districts prefer February
 - The few districts that run their tax measures in November
 - Districts that have only run their tax measures in February
-- Table of data for all school districts
+- Interactive table of data for all school districts
 - Sources
 
 ___
@@ -70,7 +70,7 @@ There are 89 school districts that have only run their measures in February over
 
 ___
 
-## Table of data for all school districts
+## Interactive table of data for all school districts
 
 {% include election_month_report/ElectionMonthFreq.html %}
 
