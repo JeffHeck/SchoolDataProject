@@ -4,7 +4,7 @@ title: Why February is the Most Popular Election Month for School District Tax M
 permalink: report_election_month
 ---
 
-Last updated: May 19th, 2023
+Last updated: May 20th, 2023
 
 ## Contents
 - Summary
@@ -47,7 +47,7 @@ Up to 3 people are supposed to be on each committee - not just 1.
 - County election reps are supposed to try to find con committee members when districts fail in their duty. 
 - County election reps only have a day or two to find con committee members and they usually fail. 
 - Therefore, the voters’ pamphlets usually have a one-sided debate with only a pro statement published.
-- Prior to 2022, school districts had the option of allowing a voters’ pamphlet for the February and April elections. Most school districts opted to not allow them. The law changed as of 2022. 
+- Prior to 2022, school districts had the option of allowing a voters’ pamphlet (for their own measures) for the February and April elections. Most school districts opted to not allow them. The law changed as of 2022. 
 Now all elections must have a voters’ pamphlet. The August and November elections have always had required voters’ pamphlets.
 - Property tax bills for the current year won’t be received by citizens until a day or two after the February election.
 - Federal Income Tax filings are not until April.
