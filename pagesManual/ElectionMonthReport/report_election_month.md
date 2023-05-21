@@ -4,7 +4,7 @@ title: Why February is the Most Popular Election Month for School District Tax M
 permalink: report_election_month
 ---
 
-Last updated: May 20th, 2023
+Last updated: May 21st, 2023
 
 ## Contents
 - Summary
@@ -24,6 +24,7 @@ This report summarizes the school district tax measures (bonds and levies) that 
 
 Note that Washington has 295 traditional public school districts and 18 public charter schools. Public charter schools 
 do not run levies or bonds.
+
 ___
 
 ## Chart of the historical number of school district measures by election month
