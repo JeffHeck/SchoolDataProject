@@ -43,8 +43,9 @@ ___
 ## Possible reasons why school districts prefer February
 - February is the lowest voter turnout month of the year for the general public (usually less than 33%).
 - School district staff voter turnout is high (70-85%). It can affect the percent approval of their measures by 2-4 percentage points.
-- Pro/con committee members for the voters’ pamphlet must volunteer before mid December. Most citizens are unaware of tax measures that will be on the February election and are focusing on the holidays.
-- Most citizens are unaware of the pro/con committee volunteer due date.
+- Pro/con committee members for the voters’ pamphlet must volunteer before mid December. However, in December, most citizens are unaware of tax measures that will be on the February election and are focusing on the holidays.
+- Citizens have little to no facts on the tax measures and are unaware of the pro/con committee volunteer December due date. These tax measures for each district only occur every 3 to 4 years. Most citizens are surprised 
+when a ballot appears in their mailbox 2 weeks before the February election date.
 - By statute, school districts are supposed to find and select pro and con committee members for their own measures. They readily find pro committee members (often paid staff) but rarely find con committee members. 
 Up to 3 people are supposed to be on each committee - not just 1.
 - County election reps are supposed to try to find con committee members when districts fail in their duty. 
