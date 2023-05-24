@@ -56,7 +56,7 @@ Up to 3 people are supposed to be on each committee - not just 1.
 Now all elections must have a voters’ pamphlet. The August and November elections have always had required voters’ pamphlets.
 - Property tax bills for the current year won’t be received by citizens until a day or two after the February election.
 - Federal Income Tax filings are not until April.
-- School district consultants advise their clients that school district tax measures are easier to pass in February.
+- School district consultants advise their clients that school district tax measures, statistically, are more successful in February.
 - The added expense to districts (taxpayers) of running measures in February or April (when their measure is usually the only one on the ballot) does not seem to be an obstacle.
 
 ___
