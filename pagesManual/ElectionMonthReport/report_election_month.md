@@ -4,12 +4,12 @@ title: Why February is the Most Popular Election Month for School District Tax M
 permalink: report_election_month
 ---
 
-Last updated: May 21st, 2023
+Last updated: May 24th, 2023
 
 ## Contents
 - Summary
 - Chart of the historical number of school district measures by election month
-- Possible reasons why school districts prefer February
+- Possible contributing factors why school districts prefer February
 - School districts that have only or generally run their tax measures in November
 - School districts that have only run their tax measures in February
 - Sortable table of the number of school district measures by election month data for all school districts
@@ -31,16 +31,15 @@ ___
 ![Bar chart of measure counts by month](pagesManual/ElectionMonthReport/ElectionMonthFreqSummary.png "Measure Counts")
 
 Month: Count
-- Feb: 1976
-- Mar: 17
-- Apr: 221
-- May: 11
+- Feb: 1956
+- Apr: 218
+- May: 4
 - Aug: 45
-- Nov: 162
+- Nov: 165
 
 ___
 
-## Possible reasons why school districts prefer February
+## Possible contributing factors why school districts prefer February
 - February is the lowest voter turnout month of the year for the general public (usually less than 33%).
 - School district staff voter turnout is high (70-85%). It can affect the percent approval of their measures by 2-4 percentage points.
 - Pro/con committee members for the voters’ pamphlet must volunteer before mid December. However, in December, most citizens are unaware of tax measures that will be on the February election and are focusing on the holidays.
@@ -63,6 +62,7 @@ ___
 ## School districts that have only or generally run their tax measures in November (typically the highest voter turnout month)
 - Inchelium SD (~200 students) ran all 4 of their measures in November for the time span under study.
 - Eastmont SD (6,000+ students) ran 6 of their 7 measures in November.
+- Benge SD (~10 students) ran 4 of their 7 measures in November.
 - Highline SD (18,000+ students) ran 5 of their 9 measures in November.
 
 ___
