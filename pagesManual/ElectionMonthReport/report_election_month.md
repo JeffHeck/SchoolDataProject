@@ -25,6 +25,8 @@ This report summarizes the school district tax measures (bonds and levies) that 
 Note that Washington has 295 traditional public school districts and 18 public charter schools. Public charter schools 
 do not run levies or bonds.
 
+Prior to July of 2011, school districts could rerun their failed levies and/or run bonds in the month of May. That additional special election option was eliminated by state legislators. 
+
 ___
 
 ## Chart of the historical number of school district measures by election month
