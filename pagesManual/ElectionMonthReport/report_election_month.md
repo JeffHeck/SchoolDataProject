@@ -83,8 +83,8 @@ ___
 ___
 
 ## Sources
-- OSPI for January 2010 through October 2022 school district measure data
-- Washington’s Secretary of State for November 2022 through April 2023 school district measure data
+- The OSPI for the February 2010 through November 2022 school district measure data
+- Washington’s Office of the Secretary of State for the February 2022 through April 2023 school district measure data
 
 ___
 
