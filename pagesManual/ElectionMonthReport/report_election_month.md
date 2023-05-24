@@ -70,7 +70,7 @@ ___
 ___
 
 ## School districts that have only run their tax measures in February
-There are 89 school districts that have only run their measures in February over the 13 year time span in this study.
+There are 94 school districts that have only run their measures in February over the 13 year time span in this study.
 
 ![Table of districts that only has had Feb elections](pagesManual/ElectionMonthReport/FebOnlyDistricts.png "Feb Only Districts")
 
