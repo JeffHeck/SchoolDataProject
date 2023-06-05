@@ -1,7 +1,7 @@
 ---
 layout: page
 title: School Board Member Elections in 2021
-permalink:
+permalink: school_board_members_prev
 ---
 
 Published: 7/1/2021. Updated: 7/6/2021

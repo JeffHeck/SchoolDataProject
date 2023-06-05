@@ -4,7 +4,7 @@ title: Reports
 permalink:
 ---
 
-- [School District Tax Measures and School Board Member Elections on the August 1st 2023 Ballot](report_school_board_members)
+- [School District Tax Measures and School Board Member Elections on the August 1st 2023 Ballot](report_school_board_races)
 - [Why February is the Most Popular Election Month for School District Tax Measures](report_election_month)
 - [State School Property Taxes Report 2021-2022](report_state_school_taxes_2021-2022)
 - [Recommended Policy Changes Regarding Local Voters' Pamphlets And Local Property Tax Measures' Cost Impact Analyses](report_levies_recommended_policy_changes)

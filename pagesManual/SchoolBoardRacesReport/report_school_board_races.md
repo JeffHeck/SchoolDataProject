@@ -1,15 +1,15 @@
 ---
 layout: page
-title: School District Tax Measures and School Board Member Seats on the August 1st 2023 Ballot
-permalink: report_school_board_members
+title: School District Tax Measures and School Board Member Races on the August 1st 2023 Ballot
+permalink: report_school_board_races
 ---
 
 Last updated: June 5th, 2023
 
 ## Contents
 - Summary
-- School districts that have 0 candidates for at least 1 of their school board seats
-- School board offices that have 4 (or some number) or more candidates
+- School districts that have 0 candidates for at least 1 of their school board races
+- School board offices that have 4 or more candidates
 - Sortable table of school board races statistics
 - Sources
 
@@ -72,28 +72,29 @@ ___
 
 ## School board races that have 4 or more candidates
 
-|District|Office|Term|Count|
-|-------|-------|-------|-------|
-|HIGHLINE SCHOOL DISTRICT NO. 401|DIRECTOR DISTRICT NO. 1|4-year Regular term, Nonpartisan|4|
-|KENT SCHOOL DISTRICT NO. 415|DIRECTOR DISTRICT NO. 3|4-year Regular term, Nonpartisan|4|
-|SEATTLE SCHOOL DIRECTOR DISTRICT NO. 1|DIRECTOR DISTRICT NO. 1|4-year Regular term, Nonpartisan|4|
-|VASHON ISLAND SCHOOL DISTRICT NO. 402|DIRECTOR POSITION NO. 3|4-year Regular term, Nonpartisan|4|
-|CENTRAL KITSAP SCHOOL DISTRICT NO. 401|DIRECTOR DISTRICT 3|4-year Regular term, Nonpartisan|4|
-|CENTRAL KITSAP SCHOOL DISTRICT NO. 401|DIRECTOR DISTRICT 4|4-year Regular term, Nonpartisan|4|
-|CHEHALIS SCHOOL DISTRICT NO. 302|DIRECTOR DISTRICT 5 AT-LARGE|4-year Regular term, Nonpartisan|4|
-|SUMNER-BONNEY LAKE SCHOOL DISTRICT NO. 320|DIRECTOR DIST. 4|4-year Regular term, Nonpartisan|4|
-|ANACORTES SCHOOL DISTRICT NO. 103|DIRECTOR POSITION 5|4-year Regular term, Nonpartisan|4|
-|EVERETT SCHOOL DISTRICT NO. 2|DIRECTOR-AT-LARGE POSITION 5|6-year Regular term, Nonpartisan|4|
-|MARYSVILLE SCHOOL DISTRICT NO. 25|DIRECTOR DISTRICT 3|4-year Regular term, Nonpartisan|4|
-|MONROE SCHOOL DISTRICT NO. 103|DIRECTOR DISTRICT 1|4-year Regular term, Nonpartisan|4|
-|MEDICAL LAKE SCHOOL DISTRICT|DIRECTOR DIST NO. 3|4-year Regular term, Nonpartisan|4|
-|MEDICAL LAKE SCHOOL DISTRICT|DIRECTOR DIST NO. 4|4-year Regular term, Nonpartisan|4|
-|OLYMPIA SCHOOL DISTRICT NO. 111|SCHOOL BOARD DIRECTOR, DISTRICT NO. 2|4-year Regular term, Nonpartisan|4|
-|MERIDIAN SCHOOL DISTRICT 505|DIRECTOR DISTRICT 5|4-year Regular term, Nonpartisan|4|
-|NORTH KITSAP SCHOOL DISTRICT NO. 400|DIRECTOR DISTRICT 4|4-year Regular term, Nonpartisan|5|
-|SOUTH KITSAP SCHOOL DISTRICT NO. 402|DIRECTOR DISTRICT 2|4-year Regular term, Nonpartisan|5|
-|DEER PARK SCHOOL DISTRICT|DIRECTOR AT LARGE 5|4-year Regular term, Nonpartisan|5|
-|MEDICAL LAKE SCHOOL DISTRICT|DIRECTOR DIST NO. 2|4-year Regular term, Nonpartisan|6|
+|Lead County|District|Office|Term|Count|
+|-------|-------|-------|-------|-------|
+|King|HIGHLINE SCHOOL DISTRICT NO. 401|DIRECTOR DISTRICT NO. 1|4-year Regular term, Nonpartisan|4|
+|King|KENT SCHOOL DISTRICT NO. 415|DIRECTOR DISTRICT NO. 3|4-year Regular term, Nonpartisan|4|
+|King|SEATTLE SCHOOL DIRECTOR DISTRICT NO. 1|DIRECTOR DISTRICT NO. 1|4-year Regular term, Nonpartisan|4|
+|King|VASHON ISLAND SCHOOL DISTRICT NO. 402|DIRECTOR POSITION NO. 3|4-year Regular term, Nonpartisan|4|
+|Kitsap|CENTRAL KITSAP SCHOOL DISTRICT NO. 401|DIRECTOR DISTRICT 3|4-year Regular term, Nonpartisan|4|
+|Kitsap|CENTRAL KITSAP SCHOOL DISTRICT NO. 401|DIRECTOR DISTRICT 4|4-year Regular term, Nonpartisan|4|
+|Lewis|CHEHALIS SCHOOL DISTRICT NO. 302|DIRECTOR DISTRICT 5 AT-LARGE|4-year Regular term, Nonpartisan|4|
+|Pierce|SUMNER-BONNEY LAKE SCHOOL DISTRICT NO. 320|DIRECTOR DIST. 4|4-year Regular term, Nonpartisan|4|
+|Skagit|ANACORTES SCHOOL DISTRICT NO. 103|DIRECTOR POSITION 5|4-year Regular term, Nonpartisan|4|
+|Snohomish|EVERETT SCHOOL DISTRICT NO. 2|DIRECTOR-AT-LARGE POSITION 5|6-year Regular term, Nonpartisan|4|
+|Snohomish|MARYSVILLE SCHOOL DISTRICT NO. 25|DIRECTOR DISTRICT 3|4-year Regular term, Nonpartisan|4|
+|Snohomish|MONROE SCHOOL DISTRICT NO. 103|DIRECTOR DISTRICT 1|4-year Regular term, Nonpartisan|4|
+|Spokane|MEDICAL LAKE SCHOOL DISTRICT|DIRECTOR DIST NO. 3|4-year Regular term, Nonpartisan|4|
+|Spokane|MEDICAL LAKE SCHOOL DISTRICT|DIRECTOR DIST NO. 4|4-year Regular term, Nonpartisan|4|
+|Thurston|OLYMPIA SCHOOL DISTRICT NO. 111|SCHOOL BOARD DIRECTOR, DISTRICT NO. 2|4-year Regular term, Nonpartisan|4|
+|Whatcom|MERIDIAN SCHOOL DISTRICT 505|DIRECTOR DISTRICT 5|4-year Regular term, Nonpartisan|4|
+|Kitsap|NORTH KITSAP SCHOOL DISTRICT NO. 400|DIRECTOR DISTRICT 4|4-year Regular term, Nonpartisan|5|
+|Kitsap|SOUTH KITSAP SCHOOL DISTRICT NO. 402|DIRECTOR DISTRICT 2|4-year Regular term, Nonpartisan|5|
+|Spokane|DEER PARK SCHOOL DISTRICT|DIRECTOR AT LARGE 5|4-year Regular term, Nonpartisan|5|
+|Spokane|MEDICAL LAKE SCHOOL DISTRICT|DIRECTOR DIST NO. 2|4-year Regular term, Nonpartisan|6|
+
 
 ___
 
