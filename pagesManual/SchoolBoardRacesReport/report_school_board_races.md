@@ -10,6 +10,7 @@ Last updated: June 5th, 2023
 - Summary
 - School districts that have 0 candidates for at least 1 of their school board member seats
 - School board seats that have 4 or more candidates
+- School districts with 8 or more candidates
 - Sortable table of school board member seats statistics
 - Sources
 
@@ -98,6 +99,38 @@ ___
 
 ___
 
+
+## School districts with 8 or more candidates
+
+|County|District|Candidates Count|Seats Count|
+|------|------|------|------|
+|Cowlitz|KALAMA SCHOOL DISTRICT NO. 402|8|4|
+|Cowlitz|TOUTLE LAKE SCHOOL DISTRICT NO. 130|8|4|
+|Grays Harbor|SCH DIST 64 - N. BEACH|8|3|
+|King|HIGHLINE SCHOOL DISTRICT NO. 401|8|3|
+|Skamania|MILL A SCHOOL DISTRICT NO. 31|8|5|
+|Snohomish|MARYSVILLE SCHOOL DISTRICT NO. 25|8|3|
+|Snohomish|SULTAN SCHOOL DISTRICT NO. 311|8|3|
+|Walla Walla|WALLA WALLA SCHOOL DISTRICT NO. 140|8|3|
+|Whatcom|LYNDEN SCHOOL DISTRICT 504|8|4|
+|Benton|RICHLAND SCHOOL DISTRICT 400|9|3|
+|King|VASHON ISLAND SCHOOL DISTRICT NO. 402|9|4|
+|Pierce|SUMNER-BONNEY LAKE SCHOOL DISTRICT NO. 320|9|3|
+|Snohomish|MONROE SCHOOL DISTRICT NO. 103|9|4|
+|Spokane|CHENEY SCHOOL DISTRICT|9|4|
+|Spokane|DEER PARK SCHOOL DISTRICT|9|3|
+|Chelan|WENATCHEE SCHOOL DISTRICT|10|5|
+|Clallam|SEQUIM SCHOOL DISTRICT 323|10|4|
+|Island|OAK HARBOR SCH 201|10|5|
+|Kitsap|CENTRAL KITSAP SCHOOL DISTRICT NO. 401|10|3|
+|Kitsap|SOUTH KITSAP SCHOOL DISTRICT NO. 402|10|3|
+|Thurston|OLYMPIA SCHOOL DISTRICT NO. 111|10|3|
+|Whatcom|BLAINE SCHOOL DISTRICT 503|10|5|
+|Kitsap|NORTH KITSAP SCHOOL DISTRICT NO. 400|11|3|
+|King|SEATTLE SCHOOL DISTRICT|12|4|
+|Spokane|MEDICAL LAKE SCHOOL DISTRICT|17|4|
+
+___
 
 ## Sortable table of school board seats statistics
 
