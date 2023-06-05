@@ -1,6 +1,6 @@
 ---
 layout: page
-title: School District Tax Measures and School Board Member Races on the August 1st 2023 Ballot
+title: School District Tax Measures and School Board Member Elections on the August 1st 2023 Ballot
 permalink: report_school_board_races
 ---
 
@@ -8,9 +8,9 @@ Last updated: June 5th, 2023
 
 ## Contents
 - Summary
-- School districts that have 0 candidates for at least 1 of their school board races
-- School board offices that have 4 or more candidates
-- Sortable table of school board races statistics
+- School districts that have 0 candidates for at least 1 of their school board member seats
+- School board seats that have 4 or more candidates
+- Sortable table of school board member seats statistics
 - Sources
 
 ___
@@ -18,11 +18,11 @@ ___
 ## Summary
 For the August 2023 election:
 - There are no school district measures (levies or bonds) on this August 2023 election. 
-- However, there are 918 number of school board member races (seats up for election) from 295 school districts.
-- 76 races (8.3% of the total) have zero candidates
-- 534 races (58.2% of the total) have just 1 candidate
+- However, there are 918 school board member seats up for election from 295 school districts.
+- 76 school board member seats (8.3% of the total) have zero candidates.
+- 534 school board member seats (58.2% of the total) have just 1 candidate.
 
-| Number of Candidates      | Number of Races | Percent |
+| Number of Candidates      | Number of School Board Member Seats | Percent |
 | ----------- | ----------- |----------- |
 | 0      | 76       | 8.3%
 | 1      | 534       | 58.2%
@@ -33,7 +33,7 @@ For the August 2023 election:
 | 6      | 1      | 0.1%
 | Total     | 918      | 100.0%
 
-Of the 918 school board races, 100 are at-large.
+Of the 918 school board seats up for election, 100 are at-large.
 
 
 There are 295 traditional public school districts in WA.
@@ -43,7 +43,7 @@ There are 295 traditional public school districts in WA.
 
 ___
 
-## School districts that have 0 candidates for at least 1 of their school board races
+## School districts that have 0 candidates for at least 1 of their school board seats
 
 |District|District|District|
 |------|------|------|
@@ -70,7 +70,7 @@ ___
 
 ___
 
-## School board races that have 4 or more candidates
+## School board seats that have 4 or more candidates
 
 |Lead County|District|Office|Term|Count|
 |-------|-------|-------|-------|-------|
@@ -99,7 +99,7 @@ ___
 ___
 
 
-## Sortable table of school board races statistics
+## Sortable table of school board seats statistics
 
 {% include school_board_members_report/SchoolBoardRacesPlusCandidates.html %}
 
