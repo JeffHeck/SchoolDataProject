@@ -39,7 +39,7 @@ Of the 918 school board seats up for election, 100 are at-large.
 There are 295 traditional public school districts in WA.
 - 2 of these districts have 2 year terms for their school board members: Harrington and Wenatchee.
 - 290 of these districts have 4 year terms.
-- 3 of these districts have 6 year terms: Everett, Spokane, and Tacoma
+- 3 of these districts have 6 year terms: Everett, Spokane, and Tacoma.
 
 ___
 
