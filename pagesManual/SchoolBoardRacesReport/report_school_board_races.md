@@ -4,7 +4,7 @@ title: School District Tax Measures and School Board Member Elections on the Aug
 permalink: report_school_board_races
 ---
 
-Last updated: June 5th, 2023
+Last updated: June 8th, 2023
 
 ## Contents
 - Summary
@@ -12,6 +12,8 @@ Last updated: June 5th, 2023
 - School board seats that have 4 or more candidates
 - School districts with 8 or more candidates
 - Sortable table of school board member seats statistics
+- School board member responsibilities
+- Links to the interactive charts for the latest (2021-2022) superintendents' total compensations
 - Sources
 
 ___
@@ -135,6 +137,40 @@ ___
 ## Sortable table of school board seats statistics
 
 {% include school_board_members_report/SchoolBoardRacesPlusCandidates.html %}
+
+___
+
+## School board member responsibilities
+
+### According to WA State Statute
+[RCW 28A.150.230](https://app.leg.wa.gov/rcw/default.aspx?cite=28A.150.230)
+- (a) Establish performance criteria and an evaluation process for its superintendent, classified staff, certificated personnel, including administrative staff, and for all programs constituting a part of such district's curriculum. Each district shall report annually to the superintendent of public instruction the following for each employee group listed in this subsection (2)(a): (i) Evaluation criteria and rubrics; (ii) a description of each rating; and (iii) the number of staff in each rating;
+- (b) Determine the final assignment of staff, certificated or classified, according to board enumerated classroom and program needs and data, based upon a plan to ensure that the assignment policy: (i) Supports the learning needs of all the students in the district; and (ii) gives specific attention to high-need schools and classrooms;
+- (c) Provide information to the local community and its electorate describing the school district's policies concerning hiring, assigning, terminating, and evaluating staff, including the criteria for evaluating teachers and principals;
+- (d) Determine the amount of instructional hours necessary for any student to acquire a quality education in such district, in not less than an amount otherwise required in RCW 28A.150.220, or rules of the state board of education;
+- (e) Determine the allocation of staff time, whether certificated or classified;
+- (f) Establish final curriculum standards consistent with law and rules of the superintendent of public instruction, relevant to the particular needs of district students or the unusual characteristics of the district, and ensuring a quality education for each student in the district; and
+- (g) Evaluate teaching materials, including text books, teaching aids, handouts, or other printed material, in public hearing upon complaint by parents, guardians or custodians of students who consider dissemination of such material to students objectionable.
+
+### According to the WSSDA (Washington State School Directors' Association)
+[WSSDA](https://wssda.org/leadership-development/board-development/becoming-a-school-director/#:~:text=As%20a%20board%2C%20their%20primary,Review%2C%20revise%20and%20adopt%20policies)
+- Hire, supervise and evaluate the superintendent
+- Set the vision, mission and strategic goals for the district
+- Review, revise and adopt policies
+- Establish and oversee the budget
+- Serve as community representatives
+- Monitor the district’s progress towards its goals
+
+### According to the OSPI
+From a 6/7/2023 request for information:
+
+Local school boards determine the compensation paid to superintendents on an annual basis.  They also determine the length of the contract.  The contracts typically have an end date of June 30 each year.  A multi-year agreement has renewal options that the board can exercise at their discretion based on the annual performance review of the individual.
+
+## Links to the interactive charts for the latest (2021-2022) superintendents' total compensations
+
+[Total Compensation For Superintendents Vs Percent Low Income Students](https://schooldataproject.com/superintendents_total_compensation_vs_low_income_students)
+
+[Total Compensation For Superintendents Vs Enrollments](https://schooldataproject.com/superintendents_total_compensation)
 
 ___
 
