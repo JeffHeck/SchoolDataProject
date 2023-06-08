@@ -9,13 +9,6 @@ permalink: taholah school district
 
 ___
 
-## WCAS 5th Grade SCIENCE
-
-[Chart 1 of 1](pages/wcas_science/WCASTaholah School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
-
-
-___
-
 ## Dual Credit Participation
 
 [Taholah High School](pages/hist_dual_credit_participation/Dual Credit BarChartTaholah School District Taholah High School.png "Taholah High School Dual Credit Participation")

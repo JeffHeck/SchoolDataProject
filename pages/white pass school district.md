@@ -37,13 +37,6 @@ ___
 
 ___
 
-## WCAS 8th Grade SCIENCE
-
-[Chart 1 of 1](pages/wcas_science/WCASWhite Pass School District8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
-
-
-___
-
 ## SBA 10th Grade ELA
 
 [Chart 1 of 1](pages/SBAWhite Pass School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")

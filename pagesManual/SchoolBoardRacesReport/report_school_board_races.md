@@ -21,7 +21,7 @@ ___
 ## Summary
 For the August 2023 election:
 - There are no school district measures (levies or bonds) on this August 2023 election. 
-- However, there are 918 school board member seats up for election from 295 school districts.
+- However, there are 918 school board member seats up for election from all 295 school districts.
 - 76 school board member seats (8.3% of the total) have zero candidates.
 - 534 school board member seats (58.2% of the total) have just 1 candidate.
 

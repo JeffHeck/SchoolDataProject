@@ -23,13 +23,6 @@ ___
 
 ___
 
-## WCAS 8th Grade SCIENCE
-
-[Chart 1 of 1](pages/wcas_science/WCASGarfield School District8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
-
-
-___
-
 ## Dual Credit Participation
 
 [Garfield at Palouse High School](pages/hist_dual_credit_participation/Dual Credit BarChartGarfield School District Garfield at Palouse High School.png "Garfield at Palouse High School Dual Credit Participation")

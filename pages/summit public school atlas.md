@@ -23,13 +23,6 @@ ___
 
 ___
 
-## WCAS 8th Grade SCIENCE
-
-[Chart 1 of 1](pages/wcas_science/WCASSummit Public School Atlas8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
-
-
-___
-
 ## SBA 10th Grade ELA
 
 [Chart 1 of 1](pages/SBASummit Public School Atlas10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")

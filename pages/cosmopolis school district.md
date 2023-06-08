@@ -23,13 +23,6 @@ ___
 
 ___
 
-## WCAS 5th Grade SCIENCE
-
-[Chart 1 of 1](pages/wcas_science/WCASCosmopolis School District5THSCIENCE.png "Chart 1 of 1 WCA 5th Grade SCIENCE")
-
-
-___
-
 ## Budget Information
 ### Note:
 - Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report. The term "Current" in this context is an accounting term used to describe expenditures on goods and services normally consumed in the current year.

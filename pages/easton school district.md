@@ -16,13 +16,6 @@ ___
 
 ___
 
-## WCAS 8th Grade SCIENCE
-
-[Chart 1 of 1](pages/wcas_science/WCASEaston School District8THSCIENCE.png "Chart 1 of 1 WCAS 8th Grade SCIENCE")
-
-
-___
-
 ## Dual Credit Participation
 
 [Easton School](pages/hist_dual_credit_participation/Dual Credit BarChartEaston School District Easton School.png "Easton School Dual Credit Participation")
