@@ -4,7 +4,7 @@ title: School District Tax Measures and School Board Member Elections on the Aug
 permalink: report_school_board_races
 ---
 
-Last updated: June 8th, 2023
+Last updated: June 9th, 2023
 
 ## Contents
 - Summary
@@ -12,8 +12,8 @@ Last updated: June 8th, 2023
 - School board seats that have 4 or more candidates
 - School districts with 8 or more candidates
 - Sortable table of school board member seats statistics
-- School board member responsibilities
-- Links to the interactive charts for the latest (2021-2022) superintendents' total compensations
+- School board responsibilities
+- Interactive charts for the latest (2021-2022) superintendents' total compensations
 - Sources
 
 ___
@@ -27,14 +27,14 @@ For the August 2023 election:
 
 | Number of Candidates      | Number of School Board Member Seats | Percent |
 | ----------- | ----------- |----------- |
-| 0      | 76       | 8.3%
-| 1      | 534       | 58.2%
-| 2      | 218       | 23.7%
-| 3      | 70       | 7.6%
-| 4      | 16       | 1.7%
-| 5      | 3       | 0.3%
-| 6      | 1      | 0.1%
-| Total     | 918      | 100.0%
+| 0      | 76       | 8.3% |
+| 1      | 534       | 58.2% |
+| 2      | 218       | 23.7% |
+| 3      | 70       | 7.6% |
+| 4      | 16       | 1.7% |
+| 5      | 3       | 0.3% |
+| 6      | 1      | 0.1% |
+| Total     | 918      | 100.0% |
 
 Of the 918 school board seats up for election, 100 are at-large.
 
@@ -140,7 +140,7 @@ ___
 
 ___
 
-## School board member responsibilities
+## School board responsibilities
 
 ### According to WA State Statute
 [RCW 28A.150.230](https://app.leg.wa.gov/rcw/default.aspx?cite=28A.150.230)
@@ -166,7 +166,7 @@ From a 6/7/2023 request for information:
 
 Local school boards determine the compensation paid to superintendents on an annual basis.  They also determine the length of the contract.  The contracts typically have an end date of June 30 each year.  A multi-year agreement has renewal options that the board can exercise at their discretion based on the annual performance review of the individual.
 
-## Links to the interactive charts for the latest (2021-2022) superintendents' total compensations
+## Interactive charts for the latest (2021-2022) superintendents' total compensations
 
 [Total Compensation For Superintendents Vs Percent Low Income Students](https://schooldataproject.com/superintendents_total_compensation_vs_low_income_students)
 
