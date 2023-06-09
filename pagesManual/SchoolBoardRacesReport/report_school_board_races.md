@@ -13,6 +13,7 @@ Last updated: June 9th, 2023
 - School districts with 8 or more candidates
 - Sortable table of school board member seats statistics
 - School board responsibilities
+- School board election process
 - Interactive charts for the latest (2021-2022) superintendents' total compensations
 - Sources
 
@@ -171,6 +172,16 @@ Local school boards determine the compensation paid to superintendents on an ann
 [Total Compensation For Superintendents Vs Percent Low Income Students](https://schooldataproject.com/superintendents_total_compensation_vs_low_income_students)
 
 [Total Compensation For Superintendents Vs Enrollments](https://schooldataproject.com/superintendents_total_compensation)
+
+___
+
+## School board election process
+
+If there are 0, 1, or 2 candidates, there is no primary election in August for that seat.
+
+If there are 3 or more candidates, then there is a primary election in August to whittle the numbers down to the top 2.
+
+If there are 0 candidates, there is another special 3 day open filing period right after the August election to allow volunteers to enter the race for the seat to be on the November election.
 
 ___
 
