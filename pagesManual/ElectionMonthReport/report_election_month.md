@@ -32,12 +32,13 @@ ___
 ## Chart of the historical number of school district measures by election month
 ![Bar chart of measure counts by month](pagesManual/ElectionMonthReport/ElectionMonthFreqSummary.png "Measure Counts")
 
-Month: Count
-- Feb: 1956
-- Apr: 218
-- May: 4
-- Aug: 45
-- Nov: 165
+| Month      | Count  |
+| ----------- | ----------- |
+| Feb | 1956 |
+| Apr | 218 |
+| May | 4 |
+| Aug | 45 |
+| Nov | 165 |
 
 ___
 
