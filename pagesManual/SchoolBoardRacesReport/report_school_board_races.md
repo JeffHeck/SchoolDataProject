@@ -14,6 +14,7 @@ Last updated: June 9th, 2023
 - Sortable table of school board member seats statistics
 - School board responsibilities
 - School board election process
+- School board member compensation
 - Interactive charts for the latest (2021-2022) superintendents' total compensations
 - Sources
 
@@ -182,6 +183,18 @@ If there are 0, 1, or 2 candidates, there is no primary election in August for t
 If there are 3 or more candidates, then there is a primary election in August to whittle the numbers down to the top 2.
 
 If there are 0 candidates, there is another special 3 day open filing period right after the August election to allow volunteers to enter the race for the seat to be on the November election.
+
+___
+
+## School board member compensation
+
+### According to WA State Statute
+[RCW 28A.343.400](https://app.leg.wa.gov/rcw/default.aspx?cite=28A.343.400)
+
+Each member of the board of directors of a school district may receive compensation of $50 per day or portion thereof for attending board meetings and for performing other services on 
+behalf of the school district, not to exceed $4,800 per year, if the district board of directors has authorized by board resolution, at a regularly scheduled meeting, 
+the provision of such compensation. A board of directors of a school district may authorize such compensation only from locally collected excess levy funds available for that purpose, and 
+compensation for board members shall not cause the state to incur any present or future funding obligation.
 
 ___
 
