@@ -4,7 +4,7 @@ title: School District Tax Measures and School Board Member Elections on the Aug
 permalink: report_school_board_races
 ---
 
-Last updated: June 9th, 2023
+Last updated: June 17th, 2023
 
 ## Contents
 - Summary
@@ -23,9 +23,12 @@ ___
 ## Summary
 For the August 2023 election:
 - There are no school district measures (levies or bonds) on this August 2023 election. 
-- However, there are 918 school board member seats up for election from all 295 school districts.
+- However, there are 918 school board member seats up for election - one or more from all 295 school districts.
 - 76 school board member seats (8.3% of the total) have zero candidates.
 - 534 school board member seats (58.2% of the total) have just 1 candidate.
+- 98 school board member seats (10.7% of the total) are unexpired term seats up for election. 97 are 2 year and 1 is a 3 year unexpired term. 
+These 98 seats are usually from school board members who resigned for one reason or another before their term ended. 
+These members who resigned were likely replaced temporarily by a person appointed by a vote of the remaining school board members.
 
 | Number of Candidates      | Number of School Board Member Seats | Percent |
 | ----------- | ----------- |----------- |
