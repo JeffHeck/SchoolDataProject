@@ -29,6 +29,9 @@ For the August 2023 election:
 - 98 school board member seats (10.7% of the total) are unexpired term seats up for election. 97 are 2 year and 1 is a 3 year unexpired term. 
 These 98 seats are usually from school board members who resigned for one reason or another before their term ended. 
 These members who resigned were likely replaced temporarily by a person appointed by a vote of the remaining school board members.
+- 90 school board member seats (9.8% of the total) have 3 or more candidates. Those 90 seats will be on the August Primary Election ballot. 
+Voters will decide the top 2 candidates for each seat for the November General Election ballot. Candidates for the other 828 seats will 
+automatically be on the November General Election ballot.
 
 | Number of Candidates      | Number of School Board Member Seats | Percent |
 | ----------- | ----------- |----------- |
