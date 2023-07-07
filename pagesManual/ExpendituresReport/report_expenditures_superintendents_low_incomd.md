@@ -7,6 +7,10 @@ permalink: superintendents_total_compensation_vs_low_income_students
 
 {% include ppe_report/ScatterSuperintendentsTotalCompensationVsLowIncomeAllDistricts.html %}
 
+### Sortable data table 
+
+{% include ppe_report/ScatterSuperintendentsTotalCompensationVsLowIncomeAllDistrictsTable.html %}
+
 ### Note:
 - Total Compensation = Cash + Insurance Benefits + Mandatory Benefits
 - Cash = Base Salary + Supplemental Salary
