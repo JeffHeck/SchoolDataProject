@@ -147,7 +147,7 @@
 		table_pof_adjust_input.draw(table_pof_adjust_input_data, {sort:'disable'});
 		
 		// All Categories bar chart if measure passes
-data5 = new google.visualization.DataTable();
+		data5 = new google.visualization.DataTable();
 		data5.addColumn('string', 'Year');
 		data5.addColumn('number', 'Existing Bond');
 		data5.addColumn('number', 'New Bond');
@@ -185,7 +185,6 @@ data5 = new google.visualization.DataTable();
 
 		]);
 
-		// [NEW SECTION START]
 		// All Categories Bar Chart if measure passes
 		data5Parcel = new google.visualization.DataTable();
 		data5Parcel.addColumn('string', 'Year');
@@ -253,7 +252,113 @@ data5 = new google.visualization.DataTable();
 		formatter.format(data5Parcel, 9); 
 		formatter.format(data5Parcel, 10); 
 		chart5.draw(data5Parcel, options5);
-		// [NEW SECTION END]
+		
+		// All categories bar chart if measure fails
+		data6 = new google.visualization.DataTable();
+		data6.addColumn('string', 'Year');
+		data6.addColumn('number', 'Existing Bond');
+		data6.addColumn('number', 'New Bond');
+		data6.addColumn('number', 'Existing Cap Levy');
+		data6.addColumn('number', 'Future Cap Levy');
+		data6.addColumn('number', 'Existing Tech Levy');
+		data6.addColumn('number', 'Future Tech Levy');
+		data6.addColumn('number', 'Existing Enrichment Levy');
+		data6.addColumn('number', 'Future Enrichment Levy');
+		data6.addColumn('number', 'State School');
+		data6.addColumn('number', 'Non School');
+
+		data6.addRows([
+			['2023', 9000, 0, 7000, 0, 0, 0, 1337000, 0, 4885477, 7368880],
+			['2024', 0, 2088000, 0, 0, 0, 0, 1388000, 0, 0, 0],
+			['2025', 0, 2232000, 0, 0, 0, 0, 1429000, 0, 0, 0],
+			['2026', 0, 2462000, 0, 0, 0, 0, 0, 1472000, 0, 0],
+			['2027', 0, 2511000, 0, 0, 0, 0, 0, 1501000, 0, 0],
+			['2028', 0, 2560000, 0, 0, 0, 0, 0, 1532000, 0, 0],
+			['2029', 0, 2613000, 0, 0, 0, 0, 0, 1562000, 0, 0],
+			['2030', 0, 2665000, 0, 0, 0, 0, 0, 1593000, 0, 0],
+			['2031', 0, 2715000, 0, 0, 0, 0, 0, 1625000, 0, 0],
+			['2032', 0, 2743000, 0, 0, 0, 0, 0, 1641000, 0, 0],
+			['2033', 0, 2770000, 0, 0, 0, 0, 0, 1658000, 0, 0],
+			['2034', 0, 2796000, 0, 0, 0, 0, 0, 1674000, 0, 0],
+			['2035', 0, 2826000, 0, 0, 0, 0, 0, 1691000, 0, 0],
+			['2036', 0, 2853000, 0, 0, 0, 0, 0, 1708000, 0, 0],
+			['2037', 0, 2883000, 0, 0, 0, 0, 0, 1725000, 0, 0],
+			['2038', 0, 2909000, 0, 0, 0, 0, 0, 1742000, 0, 0],
+			['2039', 0, 2943000, 0, 0, 0, 0, 0, 1760000, 0, 0],
+			['2040', 0, 2971000, 0, 0, 0, 0, 0, 1778000, 0, 0],
+			['2041', 0, 3001000, 0, 0, 0, 0, 0, 1795000, 0, 0],
+			['2042', 0, 3030000, 0, 0, 0, 0, 0, 1813000, 0, 0],
+			['2043', 0, 3058000, 0, 0, 0, 0, 0, 1831000, 0, 0],
+
+		]);
+
+		// All Categories Bar Chart if measure fails
+		data6Parcel = new google.visualization.DataTable();
+		data6Parcel.addColumn('string', 'Year');
+		data6Parcel.addColumn('number', 'Existing Bond');
+		data6Parcel.addColumn('number', 'New Bond');
+		data6Parcel.addColumn('number', 'Existing Cap Levy');
+		data6Parcel.addColumn('number', 'Future Cap Levy');
+		data6Parcel.addColumn('number', 'Existing Tech Levy');
+		data6Parcel.addColumn('number', 'Future Tech Levy');
+		data6Parcel.addColumn('number', 'Existing Enrichment Levy');
+		data6Parcel.addColumn('number', 'Future Enrichment Levy');
+		data6Parcel.addColumn('number', 'State School');
+		data6Parcel.addColumn('number', 'Non School');
+
+		data6Parcel.addRows(bondYears + 1);
+
+		sampleParcelPOFEffective = sampleParcelPOF;
+		for (let i = 0; i < bondYears + 1; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+			data6Parcel.setCell(i, 0, data6.getValue(i, 0));
+			data6Parcel.setCell(i, 1, data6.getValue(i, 1) * sampleParcelPOFEffective);
+			data6Parcel.setCell(i, 2, data6.getValue(i, 2) * 0); // New bond set to 0
+			data6Parcel.setCell(i, 3, data6.getValue(i, 3) * sampleParcelPOFEffective);
+			data6Parcel.setCell(i, 4, data6.getValue(i, 4) * sampleParcelPOFEffective);
+			data6Parcel.setCell(i, 5, data6.getValue(i, 5) * sampleParcelPOFEffective);
+			data6Parcel.setCell(i, 6, data6.getValue(i, 6) * sampleParcelPOFEffective);
+			data6Parcel.setCell(i, 7, data6.getValue(i, 7) * sampleParcelPOFEffective);
+			data6Parcel.setCell(i, 8, data6.getValue(i, 8) * sampleParcelPOFEffective);
+			// For the new years, need to calculate State School and Non School
+			// Use growth of 1% for now
+			if (i >= 1) {
+				growthFactor = 1.01 ** (i)
+				data6Parcel.setCell(i, 9, data6.getValue(0, 9) * growthFactor * sampleParcelPOF);
+				data6Parcel.setCell(i, 10, data6.getValue(0, 10) * growthFactor * sampleParcelPOF);
+			} else {
+				data6Parcel.setCell(i, 9, data6.getValue(i, 9) * sampleParcelPOFEffective);
+				data6Parcel.setCell(i, 10, data6.getValue(i, 10) * sampleParcelPOFEffective);
+			}
+		}		
+
+		options6 = {
+			title: 'Estimated Property Taxes For The Sample Parcel',
+			isStacked: true,
+			hAxis: {
+			title: '',
+			viewWindow: {
+				min: [7, 30, 0],
+				max: [17, 30, 0]
+			}
+        },
+        vAxis: {
+			title: '$'
+        }
+		};
+		// All categories bar chart if measure fails
+		chart6 = new google.visualization.ColumnChart(document.getElementById('chart6_div'));
+		formatter.format(data6Parcel, 1); // Apply formatter to second column
+		formatter.format(data6Parcel, 2); // Apply formatter to third column
+		formatter.format(data6Parcel, 3); 
+		formatter.format(data6Parcel, 4); 
+		formatter.format(data6Parcel, 5); 
+		formatter.format(data6Parcel, 6); 
+		formatter.format(data6Parcel, 7); 
+		formatter.format(data6Parcel, 8); 
+		formatter.format(data6Parcel, 9); 
+		formatter.format(data6Parcel, 10); 
+		chart6.draw(data6Parcel, options6);
 	}
 
     function changeParcelAV(dir) {
@@ -298,7 +403,6 @@ data5 = new google.visualization.DataTable();
 		formatter.format(table_data, 1); // Apply formatter to second column
 		table.draw(table_data);
 
-		// [NEW SECTION START]
 		// Update chart 5
 		sampleParcelPOFEffective = sampleParcelPOF;
 		for (let i = 0; i < bondYears + 1; i++) {
@@ -334,7 +438,42 @@ data5 = new google.visualization.DataTable();
 		formatter.format(data5Parcel, 9);
 		formatter.format(data5Parcel, 10);
 		chart5.draw(data5Parcel, options5);
-		// [NEW SECTION END]
+		
+		// Update chart 6
+		sampleParcelPOFEffective = sampleParcelPOF;
+		for (let i = 0; i < bondYears + 1; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+			data6Parcel.setValue(i, 0, data6.getValue(i, 0));
+			data6Parcel.setValue(i, 1, data6.getValue(i, 1) * sampleParcelPOFEffective);
+			data6Parcel.setValue(i, 2, data6.getValue(i, 2) * 0); // New bond set to 0
+			data6Parcel.setValue(i, 3, data6.getValue(i, 3) * sampleParcelPOFEffective);
+			data6Parcel.setValue(i, 4, data6.getValue(i, 4) * sampleParcelPOFEffective);
+			data6Parcel.setValue(i, 5, data6.getValue(i, 5) * sampleParcelPOFEffective);
+			data6Parcel.setValue(i, 6, data6.getValue(i, 6) * sampleParcelPOFEffective);
+			data6Parcel.setValue(i, 7, data6.getValue(i, 7) * sampleParcelPOFEffective);
+			data6Parcel.setValue(i, 8, data6.getValue(i, 8) * sampleParcelPOFEffective);
+			// For the new years, need to calculate State School and Non School
+			// Use growth of 1% for now
+			if (i >= 1) {
+				growthFactor = 1.01 ** (i)
+				data6Parcel.setCell(i, 9, data6.getValue(0, 9) * growthFactor * sampleParcelPOF);
+				data6Parcel.setCell(i, 10, data6.getValue(0, 10) * growthFactor * sampleParcelPOF);
+			} else {
+				data6Parcel.setCell(i, 9, data6.getValue(i, 9) * sampleParcelPOFEffective);
+				data6Parcel.setCell(i, 10, data6.getValue(i, 10) * sampleParcelPOFEffective);
+			}
+		}		
+		formatter.format(data6Parcel, 1); // Apply formatter to second column
+		formatter.format(data6Parcel, 2);
+		formatter.format(data6Parcel, 3);
+		formatter.format(data6Parcel, 4);
+		formatter.format(data6Parcel, 5);
+		formatter.format(data6Parcel, 6);
+		formatter.format(data6Parcel, 7);
+		formatter.format(data6Parcel, 8);
+		formatter.format(data6Parcel, 9);
+		formatter.format(data6Parcel, 10);
+		chart6.draw(data6Parcel, options6);
     }
 	
 	function changePOFChange(dir) {
@@ -367,6 +506,11 @@ data5 = new google.visualization.DataTable();
   <p>Estimated obligations for the sample parcel</P>
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>
+  <H3>All Property Taxes If The Measure Fails</H3>
+  <p>Estimated obligations for the sample parcel</P>
+  <p>A 1% growth is assumed for the State School and NonSchool categories from 2023 onward</p>
+  <p>POF: Proportional Obligation Factor equals the assessed value (AV) of the sample parcel divided by the Total AV of the properties within the district's tax area.</p>
+  <div id="chart6_div" style="width:800px; height: 640px;"></div>
   <H3>All Property Taxes If The Measure Passes</H3>
   <p>Estimated obligations for the sample parcel</P>
   <p>A 1% growth is assumed for the State School and NonSchool categories from 2023 onward</p>

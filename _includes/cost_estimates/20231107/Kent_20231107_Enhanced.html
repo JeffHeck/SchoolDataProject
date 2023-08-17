@@ -79,15 +79,6 @@
 
 		]);
 
-		// Levy 3 schedule
-		<!-- data3 = new google.visualization.DataTable(); -->
-		<!-- data3.addColumn('string', 'Year'); -->
-		<!-- data3.addColumn('number', 'Amount'); -->
-
-		<!-- data3.addRows([ -->
-<!-- <<Schedule3Block>> -->
-		<!-- ]); -->
-
 		// Levy 4 schedule bond
 		data4 = new google.visualization.DataTable();
 		data4.addColumn('string', 'Year');
@@ -228,36 +219,6 @@
 			title: '$'
         }
 		};
-		
-		// Levy 3 parcel data
-		<!-- data3Parcel = new google.visualization.DataTable(); -->
-		<!-- data3Parcel.addColumn('string', 'Year'); -->
-		<!-- data3Parcel.addColumn('number', 'Amount'); -->
-
-		<!-- data3Parcel.addRows(levy3Years); -->
-
-		<!-- for (let i = 0; i < levy3Years; i++) { -->
-			<!-- data3Parcel.setCell(i, 0, data3.getValue(i, 0)); -->
-			<!-- data3Parcel.setCell(i, 1, data3.getValue(i, 1) * sampleParcelPOF * (1 + pofAdjust/100)); -->
-			<!-- totalLevy3CostParcel = data3.getValue(i, 1) * sampleParcelPOF * (1 + pofAdjust/100); -->
-		<!-- }	 -->
-		<!-- averageTotalLevy3CostParcel	= totalLevy3CostParcel; -->
-
-		<!-- options3 = { -->
-			<!-- title: 'Estimated Levy Cost Schedule For The Sample Parcel', -->
-			<!-- isStacked: true, -->
-			<!-- hAxis: { -->
-			<!-- title: '', -->
-			<!-- //format: 'h:mm a', -->
-			<!-- viewWindow: { -->
-				<!-- min: [7, 30, 0], -->
-				<!-- max: [17, 30, 0] -->
-			<!-- } -->
-        <!-- }, -->
-        <!-- vAxis: { -->
-			<!-- title: '$' -->
-        <!-- } -->
-		<!-- }; -->
 		
 		// Existing Bond parcel data
 		data4Parcel = new google.visualization.DataTable();
@@ -444,15 +405,6 @@
 			['Average cost per year for 4 years', averageTotalLevy2PriorCostParcel, averageTotalLevy2CostParcel, (averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel),(averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel)/averageTotalLevy2PriorCostParcel*100],
 		]);
 	  
-		// Levy 3 output table
-		<!-- table3_data = new google.visualization.DataTable(); -->
-		<!-- table3_data.addColumn('string', 'Description'); -->
-		<!-- table3_data.addColumn('number', 'Value'); -->
-		<!-- table3_data.addRows([ -->
-			<!-- ['Total cost', totalLevy3CostParcel], -->
-			<!-- ['Average cost per year for <<Levy3Years>> year', averageTotalLevy3CostParcel], -->
-		<!-- ]); -->
-	  
 		// Levy 1 chart
 		chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
 		formatter = new google.visualization.NumberFormat(
@@ -464,13 +416,6 @@
 		formatter.format(dataParcel, 1); // Apply formatter to second column
 		formatter.format(dataParcel, 2); // Apply formatter to third column
 		chart.draw(dataParcel, options);
-		
-		<!-- table = new google.visualization.Table(document.getElementById('table_output_div')); -->
-		<!-- formatter.format(table_data, 1); // Apply formatter to second column -->
-		<!-- formatter.format(table_data, 2); // Apply formatter to second column -->
-		<!-- formatter.format(table_data, 3); // Apply formatter to second column -->
-		<!-- formatterPercent.format(table_data, 4); // Apply formatter to second column -->
-		<!-- table.draw(table_data, {sort:'disable'}); -->
 		
 		// Input table for sample parcel AV
 		table_input = new google.visualization.Table(document.getElementById('table_input_div'));
@@ -487,24 +432,6 @@
 		formatter.format(data2Parcel, 1); // Apply formatter to second column
 		formatter.format(data2Parcel, 2); // Apply formatter to third column
 		chart2.draw(data2Parcel, options2);
-		
-		<!-- table2 = new google.visualization.Table(document.getElementById('table2_output_div')); -->
-		<!-- formatter.format(table2_data, 1); // Apply formatter to second column -->
-		<!-- // New -->
-		<!-- formatter.format(table2_data, 2); // Apply formatter to second column -->
-		<!-- formatter.format(table2_data, 3); // Apply formatter to second column -->
-		<!-- formatterPercent.format(table2_data, 4); // Apply formatter to second column -->
-		
-		<!-- table2.draw(table2_data, {sort:'disable'}); -->
-		
-		// Levy 3 chart
-		<!-- chart3 = new google.visualization.ColumnChart(document.getElementById('chart3_div')); -->
-		<!-- formatter.format(data3Parcel, 1); // Apply formatter to second column -->
-		<!-- chart3.draw(data3Parcel, options3); -->
-		
-		<!-- table3 = new google.visualization.Table(document.getElementById('table3_output_div')); -->
-		<!-- formatter.format(table3_data, 1); // Apply formatter to second column -->
-		<!-- table3.draw(table3_data, {sort:'disable'}); -->
 		
 		// Bond chart
 		chart4 = new google.visualization.ColumnChart(document.getElementById('chart4_div'));
@@ -568,25 +495,6 @@
 		formatter.format(dataParcel, 2);
 		chart.draw(dataParcel, options);
 		
-		//Update table output
-		//totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-		//averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-		//totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
-		//averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
-		<!-- table_data.setValue(0, 1, totalLevyPriorCostParcel); // Total levy prior cost parcel -->
-		<!-- table_data.setValue(0, 2, totalLevyCostParcel); // Total levy cost parcel -->
-		<!-- table_data.setValue(0, 3, (totalLevyCostParcel-totalLevyPriorCostParcel)); // Delta -->
-		<!-- table_data.setValue(0, 4, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100); // Percent change -->
-		<!-- table_data.setValue(1, 1, averageTotalLevyPriorCostParcel); // Average levy prior cost parcel -->
-		<!-- table_data.setValue(1, 2, averageTotalLevyCostParcel); // Average levy cost parcel -->
-		<!-- table_data.setValue(1, 3, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)); // Delta -->
-		<!-- table_data.setValue(1, 4, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100); // Percent change -->
-		<!-- formatter.format(table_data, 1); // Apply formatter to second column -->
-		<!-- formatter.format(table_data, 2); // Apply formatter to third column -->
-		<!-- formatter.format(table_data, 3); // Apply formatter to fourth column -->
-		<!-- formatterPercent.format(table_data, 4); // Apply formatter to fifth column -->
-		<!-- table.draw(table_data); -->
-
 		//Update chart 2
 		sampleParcelPOFEffective = sampleParcelPOF;
 		totalLevy2CostParcel = 0;
@@ -607,39 +515,7 @@
 
 		//Update table 2 output
 		sampleParcelPOF = sampleParcelAV / totalLevyAV;
-		<!-- table2_data.setValue(0, 1, totalLevy2PriorCostParcel); // Total levy prior cost parcel -->
-		<!-- table2_data.setValue(0, 2, totalLevy2CostParcel); // Total levy cost parcel -->
-		<!-- table2_data.setValue(0, 3, (totalLevy2CostParcel-totalLevy2PriorCostParcel)); // Delta -->
-		<!-- table2_data.setValue(0, 4, (totalLevy2CostParcel-totalLevy2PriorCostParcel)/totalLevy2PriorCostParcel*100); // Percent change -->
-		<!-- table2_data.setValue(1, 1, averageTotalLevy2PriorCostParcel); // Average levy prior cost parcel -->
-		<!-- table2_data.setValue(1, 2, averageTotalLevy2CostParcel); // Average levy cost parcel -->
-		<!-- table2_data.setValue(1, 3, (averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel)); // Delta -->
-		<!-- table2_data.setValue(1, 4, (averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel)/averageTotalLevy2PriorCostParcel*100); // Percent change -->
-		<!-- formatter.format(table2_data, 1); // Apply formatter to second column -->
-		<!-- formatter.format(table2_data, 2); -->
-		<!-- formatter.format(table2_data, 3); -->
-		<!-- formatterPercent.format(table2_data, 4); -->
-		<!-- table2.draw(table2_data); -->
 		
-		//Update chart 3
-		<!-- for (let i = 0; i < levy3Years; i++) { -->
-			<!-- data3Parcel.setValue(i, 0, data3.getValue(i, 0)); -->
-			<!-- data3Parcel.setValue(i, 1, data3.getValue(i, 1) * sampleParcelPOF * (1 + pofAdjust/100)); -->
-			<!-- totalLevy3CostParcel = data3.getValue(i, 1) * sampleParcelPOF * (1 + pofAdjust/100) -->
-		<!-- }		 -->
-		<!-- averageTotalLevy3CostParcel = totalLevy3CostParcel / levy3Years; -->
-		<!-- formatter.format(data3Parcel, 1); // Apply formatter to second column -->
-		<!-- chart3.draw(data3Parcel, options3); -->
-		
-		<!-- //Update table 3 output -->
-		<!-- sampleParcelPOF = sampleParcelAV / totalLevyAV; -->
-		<!-- //totalLevy3CostParcel = sampleParcelPOF * totalLevy3Cost; -->
-		<!-- //averageTotalLevy3CostParcel = totalLevy3CostParcel / levy3Years; -->
-		<!-- table3_data.setValue(0, 1, totalLevy3CostParcel); // Total levy cost parcel -->
-		<!-- table3_data.setValue(1, 1, averageTotalLevy3CostParcel); // Average cost per year for parcel -->
-		<!-- formatter.format(table3_data, 1); // Apply formatter to second column -->
-		<!-- table3.draw(table3_data); -->
-
 		// Update chart 4
 		sampleParcelPOFEffective = sampleParcelPOF;
 		for (let i = 0; i < bondYears; i++) {
@@ -751,16 +627,10 @@
   <H3>Output</H3>
   <H3>Enrichment Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
-  <!-- <div id="table_output_div" style="width:1200px; height: 130px;"></div> -->
   <div id="chart_div" style="width:800px; height: 640px;"></div>
   <H3>Capital Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
-  <!-- <div id="table2_output_div" style="width:1200px; height: 130px;"></div> -->
   <div id="chart2_div" style="width:800px; height: 640px;"></div>
-  <!-- <H3><<Levy3Name>> Levy</H3> -->
-  <!-- <p>Estimated obligations for the sample parcel</P> -->
-  <!-- <div id="table3_output_div" style="width:1200px; height: 130px;"></div> -->
-  <!-- <div id="chart3_div" style="width:800px; height: 640px;"></div> -->
   <H3>Existing Bond</H3>
   <p>Estimated obligations for the sample parcel</P>
   <div id="chart4_div" style="width:800px; height: 640px;"></div>
