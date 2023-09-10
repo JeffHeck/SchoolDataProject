@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers, Spring 2022
+title: Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers, Spring 2023
 permalink:
 ---
 
