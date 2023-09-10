@@ -37,13 +37,6 @@ ___
 
 ___
 
-## SBA 10th Grade ELA
-
-[Chart 1 of 1](pages/SBAThorp School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
-
-
-___
-
 ## Dual Credit Participation
 
 [Thorp Elem & Jr Sr High](pages/hist_dual_credit_participation/Dual Credit BarChartThorp School District Thorp Elem & Jr Sr High.png "Thorp Elem & Jr Sr High Dual Credit Participation")

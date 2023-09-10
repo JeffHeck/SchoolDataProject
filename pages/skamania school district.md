@@ -9,20 +9,6 @@ permalink: skamania school district
 
 ___
 
-## SBA 4th Grade ELA
-
-[Chart 1 of 1](pages/SBASkamania School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
-
-
-___
-
-## SBA 4th Grade MATH
-
-[Chart 1 of 1](pages/SBASkamania School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
-
-
-___
-
 ## Budget Information
 ### Note:
 - Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report. The term "Current" in this context is an accounting term used to describe expenditures on goods and services normally consumed in the current year.

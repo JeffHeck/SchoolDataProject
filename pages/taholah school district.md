@@ -9,6 +9,48 @@ permalink: taholah school district
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBATaholah School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBATaholah School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBATaholah School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBATaholah School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
+## SBA 10th Grade ELA
+
+[Chart 1 of 1](pages/SBATaholah School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
+
+
+___
+
+## SBA 10th Grade MATH
+
+[Chart 1 of 1](pages/SBATaholah School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
+
+
+___
+
 ## Dual Credit Participation
 
 [Taholah High School](pages/hist_dual_credit_participation/Dual Credit BarChartTaholah School District Taholah High School.png "Taholah High School Dual Credit Participation")

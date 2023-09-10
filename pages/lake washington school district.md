@@ -11,14 +11,18 @@ ___
 
 ## SBA 4th Grade ELA
 
-[Chart 1 of 1](pages/SBALake Washington School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+[Chart 1 of 2](pages/SBALake Washington School District4THELA (1 of 2).png "Chart 1 of 2 SBA 4th Grade ELA")
+
+[Chart 2 of 2](pages/SBALake Washington School District4THELA (2 of 2).png "Chart 2 of 2 SBA 4th Grade ELA")
 
 
 ___
 
 ## SBA 4th Grade MATH
 
-[Chart 1 of 1](pages/SBALake Washington School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+[Chart 1 of 2](pages/SBALake Washington School District4THMATH (1 of 2).png "Chart 1 of 2 SBA 4th Grade MATH")
+
+[Chart 2 of 2](pages/SBALake Washington School District4THMATH (2 of 2).png "Chart 2 of 2 SBA 4th Grade MATH")
 
 
 ___

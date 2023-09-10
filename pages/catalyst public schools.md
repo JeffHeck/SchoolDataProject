@@ -8,6 +8,34 @@ permalink: catalyst public schools
 
 ___
 
+## SBA 4th Grade ELA
+
+[Chart 1 of 1](pages/SBACatalyst Public Schools4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+
+
+___
+
+## SBA 4th Grade MATH
+
+[Chart 1 of 1](pages/SBACatalyst Public Schools4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBACatalyst Public Schools8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
+## SBA 8th Grade MATH
+
+[Chart 1 of 1](pages/SBACatalyst Public Schools8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
+
+
+___
+
 ## Budget Information
 ### Note:
 - Current expenditures are made up of all of the expenditures defined as Current in the OSPI's F196 report. The term "Current" in this context is an accounting term used to describe expenditures on goods and services normally consumed in the current year.
