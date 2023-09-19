@@ -65,6 +65,8 @@ ___
 
 [Calculator for the South Whidbey SD's Bond Measure](calculator_south_whidbey_20231107_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the South Whidbey Parks and Recreation's Bond Measure](calculator_south_whidbey_parks_and_recreation_20231107_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Union Gap SD's Bond Measure](calculator_union_gap_20231107_enhanced){:target="_blank" rel="noopener"}
 
 
@@ -96,6 +98,8 @@ ___
 ![South Kitsap SD bond amounts chart](pagesManual/LeviesReport/20231107/SouthKitsap.png "South Kitsap SD bond amounts chart")
 
 ![South Whidbey SD bond amounts chart](pagesManual/LeviesReport/20231107/SouthWhidbey.png "South Whidbey SD bond amounts chart")
+
+![South Whidbey Parks and Recreation bond amounts chart](pagesManual/LeviesReport/20231107/SouthWhidbeyParksandRecreation.png "South Whidbey Parks and Recreation bond amounts chart")
 
 ![Union Gap SD bond amounts chart](pagesManual/LeviesReport/20231107/UnionGap.png "Union Gap SD bond amounts chart")
 
