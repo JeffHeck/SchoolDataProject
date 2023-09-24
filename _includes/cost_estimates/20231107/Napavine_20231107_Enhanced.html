@@ -23,6 +23,7 @@
 	totalBondPrincipalParcel = 0;
 	totalBondInterestParcel = 0;
 	bondYears = 26;
+	prevYears = 5
 	averageTotalBondCostParcel = 0;
 
 	// POF Annual Change Percent
@@ -167,7 +168,12 @@
 		data5.addColumn('number', 'Non School');
 
 		data5.addRows([
-			['2023', 0, 0, 0, 0, 0, 0, 1075000, 0, 1228821, 3056058],
+			['2018', 350000, 0, 0, 0, 0, 0, 926000, 0, 1102259, 1903760],
+			['2019', 0, 0, 0, 0, 0, 0, 691000, 0, 1212294, 2158256],
+			['2020', 0, 0, 0, 0, 0, 0, 688000, 0, 1579365, 2174268],
+			['2021', 0, 0, 0, 0, 0, 0, 757000, 0, 1617990, 2218833],
+			['2022', 0, 0, 0, 0, 0, 0, 832000, 0, 1709056, 2326383],
+			['2023', 0, 0, 0, 0, 0, 0, 1075000, 0, 1885921, 2414605],
 			['2024', 0, 1104000, 0, 0, 0, 0, 1155000, 0, 0, 0],
 			['2025', 0, 1158000, 0, 0, 0, 0, 1245000, 0, 0, 0],
 			['2026', 0, 1206000, 0, 0, 0, 0, 0, 1270000, 0, 0],
@@ -211,11 +217,12 @@
 		data5Parcel.addColumn('number', 'State School');
 		data5Parcel.addColumn('number', 'Non School');
 
-		data5Parcel.addRows(bondYears + 1);
+		data5Parcel.addRows(bondYears + prevYears + 1);
 
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < bondYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+		for (let j = 0 - prevYears; j < bondYears + 1; j++) {
+			i = j + prevYears;
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (j);
 			data5Parcel.setCell(i, 0, data5.getValue(i, 0));
 			data5Parcel.setCell(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
 			data5Parcel.setCell(i, 2, data5.getValue(i, 2) * sampleParcelPOFEffective);
@@ -227,10 +234,10 @@
 			data5Parcel.setCell(i, 8, data5.getValue(i, 8) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= 1) {
-				growthFactor = 1.01 ** (i)
-				data5Parcel.setCell(i, 9, data5.getValue(0, 9) * growthFactor * sampleParcelPOF);
-				data5Parcel.setCell(i, 10, data5.getValue(0, 10) * growthFactor * sampleParcelPOF);
+			if (j >= 1) {
+				growthFactor = 1.01 ** (j)
+				data5Parcel.setCell(i, 9, data5.getValue(prevYears, 9) * growthFactor * sampleParcelPOF);
+				data5Parcel.setCell(i, 10, data5.getValue(prevYears, 10) * growthFactor * sampleParcelPOF);
 			} else {
 				data5Parcel.setCell(i, 9, data5.getValue(i, 9) * sampleParcelPOFEffective);
 				data5Parcel.setCell(i, 10, data5.getValue(i, 10) * sampleParcelPOFEffective);
@@ -280,7 +287,12 @@
 		data6.addColumn('number', 'Non School');
 
 		data6.addRows([
-			['2023', 0, 0, 0, 0, 0, 0, 1075000, 0, 1228821, 3056058],
+			['2018', 350000, 0, 0, 0, 0, 0, 926000, 0, 1102259, 1903760],
+			['2019', 0, 0, 0, 0, 0, 0, 691000, 0, 1212294, 2158256],
+			['2020', 0, 0, 0, 0, 0, 0, 688000, 0, 1579365, 2174268],
+			['2021', 0, 0, 0, 0, 0, 0, 757000, 0, 1617990, 2218833],
+			['2022', 0, 0, 0, 0, 0, 0, 832000, 0, 1709056, 2326383],
+			['2023', 0, 0, 0, 0, 0, 0, 1075000, 0, 1885921, 2414605],
 			['2024', 0, 1104000, 0, 0, 0, 0, 1155000, 0, 0, 0],
 			['2025', 0, 1158000, 0, 0, 0, 0, 1245000, 0, 0, 0],
 			['2026', 0, 1206000, 0, 0, 0, 0, 0, 1270000, 0, 0],
@@ -324,11 +336,12 @@
 		data6Parcel.addColumn('number', 'State School');
 		data6Parcel.addColumn('number', 'Non School');
 
-		data6Parcel.addRows(bondYears + 1);
+		data6Parcel.addRows(bondYears + prevYears + 1);
 
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < bondYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+		for (let j = 0 - prevYears; j < bondYears + 1; j++) {
+			i = j + prevYears;
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (j);
 			data6Parcel.setCell(i, 0, data6.getValue(i, 0));
 			data6Parcel.setCell(i, 1, data6.getValue(i, 1) * sampleParcelPOFEffective);
 			data6Parcel.setCell(i, 2, data6.getValue(i, 2) * 0); // New bond set to 0
@@ -340,10 +353,10 @@
 			data6Parcel.setCell(i, 8, data6.getValue(i, 8) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= 1) {
-				growthFactor = 1.01 ** (i)
-				data6Parcel.setCell(i, 9, data6.getValue(0, 9) * growthFactor * sampleParcelPOF);
-				data6Parcel.setCell(i, 10, data6.getValue(0, 10) * growthFactor * sampleParcelPOF);
+			if (j >= 1) {
+				growthFactor = 1.01 ** (j)
+				data6Parcel.setCell(i, 9, data6.getValue(prevYears, 9) * growthFactor * sampleParcelPOF);
+				data6Parcel.setCell(i, 10, data6.getValue(prevYears, 10) * growthFactor * sampleParcelPOF);
 			} else {
 				data6Parcel.setCell(i, 9, data6.getValue(i, 9) * sampleParcelPOFEffective);
 				data6Parcel.setCell(i, 10, data6.getValue(i, 10) * sampleParcelPOFEffective);
@@ -423,8 +436,9 @@
 
 		// Update chart 5
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < bondYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+		for (let j = 0 - prevYears; j < bondYears + 1; j++) {
+			i = j + prevYears;
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (j);
 			data5Parcel.setValue(i, 0, data5.getValue(i, 0));
 			data5Parcel.setValue(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
 			data5Parcel.setValue(i, 2, data5.getValue(i, 2) * sampleParcelPOFEffective);
@@ -436,10 +450,10 @@
 			data5Parcel.setValue(i, 8, data5.getValue(i, 8) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= 1) {
-				growthFactor = 1.01 ** (i)
-				data5Parcel.setCell(i, 9, data5.getValue(0, 9) * growthFactor * sampleParcelPOF);
-				data5Parcel.setCell(i, 10, data5.getValue(0, 10) * growthFactor * sampleParcelPOF);
+			if (j >= 1) {
+				growthFactor = 1.01 ** (j)
+				data5Parcel.setCell(i, 9, data5.getValue(prevYears, 9) * growthFactor * sampleParcelPOF);
+				data5Parcel.setCell(i, 10, data5.getValue(prevYears, 10) * growthFactor * sampleParcelPOF);
 			} else {
 				data5Parcel.setCell(i, 9, data5.getValue(i, 9) * sampleParcelPOFEffective);
 				data5Parcel.setCell(i, 10, data5.getValue(i, 10) * sampleParcelPOFEffective);
@@ -459,8 +473,9 @@
 		
 		// Update chart 6
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < bondYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+		for (let j = 0 - prevYears; j < bondYears + 1; j++) {
+			i = j + prevYears;
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (j);
 			data6Parcel.setValue(i, 0, data6.getValue(i, 0));
 			data6Parcel.setValue(i, 1, data6.getValue(i, 1) * sampleParcelPOFEffective);
 			data6Parcel.setValue(i, 2, data6.getValue(i, 2) * 0); // New bond set to 0
@@ -472,10 +487,10 @@
 			data6Parcel.setValue(i, 8, data6.getValue(i, 8) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= 1) {
-				growthFactor = 1.01 ** (i)
-				data6Parcel.setCell(i, 9, data6.getValue(0, 9) * growthFactor * sampleParcelPOF);
-				data6Parcel.setCell(i, 10, data6.getValue(0, 10) * growthFactor * sampleParcelPOF);
+			if (j >= 1) {
+				growthFactor = 1.01 ** (j)
+				data6Parcel.setCell(i, 9, data6.getValue(prevYears, 9) * growthFactor * sampleParcelPOF);
+				data6Parcel.setCell(i, 10, data6.getValue(prevYears, 10) * growthFactor * sampleParcelPOF);
 			} else {
 				data6Parcel.setCell(i, 9, data6.getValue(i, 9) * sampleParcelPOFEffective);
 				data6Parcel.setCell(i, 10, data6.getValue(i, 10) * sampleParcelPOFEffective);
