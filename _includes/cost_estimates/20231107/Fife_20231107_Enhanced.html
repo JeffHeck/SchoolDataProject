@@ -432,7 +432,7 @@
 			data5Parcel.setValue(i, 8, data5.getValue(i, 8) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= 1) {
+			if (j >= 1) {
 				growthFactor = 1.01 ** (j)
 				data5Parcel.setCell(i, 9, data5.getValue(prevYears, 9) * growthFactor * sampleParcelPOF);
 				data5Parcel.setCell(i, 10, data5.getValue(prevYears, 10) * growthFactor * sampleParcelPOF);
@@ -469,7 +469,7 @@
 			data6Parcel.setValue(i, 8, data6.getValue(i, 8) * sampleParcelPOFEffective);
 			// For the new years, need to calculate State School and Non School
 			// Use growth of 1% for now
-			if (i >= 1) {
+			if (j >= 1) {
 				growthFactor = 1.01 ** (j)
 				data6Parcel.setCell(i, 9, data6.getValue(prevYears, 9) * growthFactor * sampleParcelPOF);
 				data6Parcel.setCell(i, 10, data6.getValue(prevYears, 10) * growthFactor * sampleParcelPOF);

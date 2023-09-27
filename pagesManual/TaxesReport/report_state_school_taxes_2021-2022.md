@@ -4,7 +4,7 @@ title: State School Property Taxes Report 2021-2022
 permalink: report_state_school_taxes_2021-2022
 ---
 
-Last updated: April 11th, 2023
+Last updated: September 27th, 2023
 
 ## Contents
 - Summary
@@ -13,7 +13,7 @@ Last updated: April 11th, 2023
 - Bar chart showing each district's surplus or deficit
 - Bar charts showing each county's State School tax rates
 - Interactive chart showing the surplus or deficit for each school district 
-- Table of data for all school districts
+- Table of data for all school districts (sortable)
 - Methodology
 
 ___
@@ -111,7 +111,7 @@ ___
 
 ___
 
-## Table of data for all school districts
+## Table of data for all school districts (sortable)
 
 {% include taxes_report/TableStateSchoolTaxesByDistrict.html %}
 
