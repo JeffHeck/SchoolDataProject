@@ -51,6 +51,10 @@ ___
 
 [Calculator for the Kent SD's Enrichment and Capital Levy Measures](calculator_kent_20231107_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Skykomish SD's Capital Levy Measures](calculator_skykomish_20231107_enhanced){:target="_blank" rel="noopener"}
+
+[Calculator for the Steilacoom SD's Capital Levy Measures](calculator_steilacoom_20231107_enhanced){:target="_blank" rel="noopener"}
+
 ## Taxpayer cost impact estimate calculators for the bonds
 
 [Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20231107_enhanced){:target="_blank" rel="noopener"}
@@ -82,6 +86,10 @@ ___
 ## Capital levy amounts charts
 
 ![Kent SD capital levy amounts chart](pagesManual/LeviesReport/20231107/KentCapital.png "Kent SD capital levy amounts chart")
+
+![Skykomish SD capital levy amounts chart](pagesManual/LeviesReport/20231107/SkykomishTech.png "Skykomish SD capital levy amounts chart")
+
+![Steilacoom SD capital levy amounts chart](pagesManual/LeviesReport/20231107/SteilacoomCapital.png "Steilacoom SD capital levy amounts chart")
 
 ___
 

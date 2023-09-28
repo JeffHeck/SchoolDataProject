@@ -10,29 +10,29 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 42594942000;
-	sampleParcelAV = 600000;
+	totalLevyAV = 5312247000;
+	sampleParcelAV = 575000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 247600000;
-	totalLevy2Cost = 219400000;
+	totalLevyCost = 0;
+	totalLevy2Cost = 12000000;
 	//totalLevy3Cost = <<TotalLevy3Cost>>;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
 	totalLevy2CostParcel = sampleParcelPOF * totalLevy2Cost;
 	//totalLevy3CostParcel = sampleParcelPOF * totalLevy3Cost;
-	levyYears = 4;
-	levy2Years = 4;
+	levyYears = 2;
+	levy2Years = 2;
 	//levy3Years = <<Levy3Years>>;
-	bondYears = 19;
+	bondYears = 2;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	averageTotalLevy2CostParcel = totalLevy2CostParcel / levy2Years;
 	//averageTotalLevy3CostParcel = totalLevy3CostParcel / levy3Years;
-	totalLevyPriorCost = 347750000.0;
+	totalLevyPriorCost = 33110000.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// Prior levy 2 info
-	totalLevy2PriorCost = 126000000.0;
+	totalLevy2PriorCost = 0.0;
 	totalLevy2PriorCostParcel = sampleParcelPOF * totalLevy2PriorCost;
 	averageTotalLevy2PriorCostParcel = totalLevy2PriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -50,14 +50,10 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2020', 50000000.0, 0.0],
-			['2021', 69000000.0, 0.0],
-			['2022', 76250000.0, 0.0],
-			['2023', 76250000.0, 0.0],
-			['2024', 76250000.0, 0.0],
-			['2025', 0.0, 79300000.0],
-			['2026', 0.0, 82500000.0],
-			['2027', 0.0, 85800000.0],
+			['2022', 6635000.0, 0.0],
+			['2023', 7000000.0, 0.0],
+			['2024', 9600000.0, 0.0],
+			['2025', 9875000.0, 0.0],
 
 		]);
 
@@ -68,14 +64,10 @@
 		data2.addColumn('number', 'New Levy Amount');
 
 		data2.addRows([
-			['2020', 21500000.0, 0.0],
-			['2021', 23000000.0, 0.0],
-			['2022', 25000000.0, 0.0],
-			['2023', 27000000.0, 0.0],
-			['2024', 29500000.0, 29200000.0],
-			['2025', 0.0, 60900000.0],
-			['2026', 0.0, 63400000.0],
-			['2027', 0.0, 65900000.0],
+			['2022', 0.0, 0.0],
+			['2023', 0.0, 0.0],
+			['2024', 0.0, 6000000.0],
+			['2025', 0.0, 6000000.0],
 
 		]);
 
@@ -86,25 +78,8 @@
 		//data4.addColumn('number', 'Interest + Fees');
 
 		data4.addRows([
-			['2020', 41644000],
-			['2021', 29019000],
-			['2022', 36036000],
-			['2023', 47000000],
-			['2024', 22096000],
-			['2025', 18884000],
-			['2026', 20696000],
-			['2027', 21245000],
-			['2028', 22141000],
-			['2029', 22072000],
-			['2030', 8419000],
-			['2031', 8426000],
-			['2032', 8745000],
-			['2033', 9358000],
-			['2034', 9660000],
-			['2035', 10054000],
-			['2036', 10820000],
-			['2037', 10033000],
-			['2038', 9391000],
+			['2022', 8780000],
+			['2023', 9130000],
 
 		]);
 		
@@ -122,25 +97,10 @@
 		data5.addColumn('number', 'Non School');
 
 		data5.addRows([
-			['2020', 50000000, 0, 21500000, 0, 41644000, 89356839, 149160901],
-			['2021', 69000000, 0, 23000000, 0, 29019000, 96669048, 154779785],
-			['2022', 76250000, 0, 25000000, 0, 36036000, 99222041, 165498046],
-			['2023', 76250000, 0, 27000000, 0, 47000000, 98438615, 174554924],
-			['2024', 76250000, 0, 29500000, 29200000, 22096000, 0, 0],
-			['2025', 0, 79300000, 0, 60900000, 18884000, 0, 0],
-			['2026', 0, 82500000, 0, 63400000, 20696000, 0, 0],
-			['2027', 0, 85800000, 0, 65900000, 21245000, 0, 0],
-			['2028', 0, 0, 0, 0, 22141000, 0, 0],
-			['2029', 0, 0, 0, 0, 22072000, 0, 0],
-			['2030', 0, 0, 0, 0, 8419000, 0, 0],
-			['2031', 0, 0, 0, 0, 8426000, 0, 0],
-			['2032', 0, 0, 0, 0, 8745000, 0, 0],
-			['2033', 0, 0, 0, 0, 9358000, 0, 0],
-			['2034', 0, 0, 0, 0, 9660000, 0, 0],
-			['2035', 0, 0, 0, 0, 10054000, 0, 0],
-			['2036', 0, 0, 0, 0, 10820000, 0, 0],
-			['2037', 0, 0, 0, 0, 10033000, 0, 0],
-			['2038', 0, 0, 0, 0, 9391000, 0, 0],
+			['2022', 6635000, 0, 0, 0, 8780000, 12070112, 17515275],
+			['2023', 7000000, 0, 0, 0, 9130000, 12271291, 17424170],
+			['2024', 9600000, 0, 0, 6000000, 0, 0, 0],
+			['2025', 9875000, 0, 0, 6000000, 0, 0, 0],
 
 		]);
 
@@ -389,7 +349,7 @@
 		table_data.addColumn('number', 'Percent Change');
 		table_data.addRows([
 			['Total cost', totalLevyPriorCostParcel, totalLevyCostParcel, totalLevyCostParcel-totalLevyPriorCostParcel, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100],
-			['Average cost per year for 4 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
+			['Average cost per year for 2 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
 		
 		]);
 
@@ -402,7 +362,7 @@
 		table2_data.addColumn('number', 'Percent Change');
 		table2_data.addRows([
 			['Total cost', totalLevy2PriorCostParcel, totalLevy2CostParcel, totalLevy2CostParcel-totalLevy2PriorCostParcel, (totalLevy2CostParcel-totalLevy2PriorCostParcel)/totalLevy2PriorCostParcel*100],
-			['Average cost per year for 4 years', averageTotalLevy2PriorCostParcel, averageTotalLevy2CostParcel, (averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel),(averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel)/averageTotalLevy2PriorCostParcel*100],
+			['Average cost per year for 2 years', averageTotalLevy2PriorCostParcel, averageTotalLevy2CostParcel, (averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel),(averageTotalLevy2CostParcel-averageTotalLevy2PriorCostParcel)/averageTotalLevy2PriorCostParcel*100],
 		]);
 	  
 		// Levy 1 chart
@@ -612,7 +572,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the November 7th 2023 levy measures proposed by the Kent SD</H2>
+  <H2>Property tax impact estimate calculator for the November 7th 2023 levy measures proposed by the Steilacoom SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
