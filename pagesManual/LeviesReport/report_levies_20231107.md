@@ -51,9 +51,9 @@ ___
 
 [Calculator for the Kent SD's Enrichment and Capital Levy Measures](calculator_kent_20231107_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Skykomish SD's Capital Levy Measures](calculator_skykomish_20231107_enhanced){:target="_blank" rel="noopener"}
+[Calculator for the Skykomish SD's Capital Levy Measure](calculator_skykomish_20231107_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Steilacoom SD's Capital Levy Measures](calculator_steilacoom_20231107_enhanced){:target="_blank" rel="noopener"}
+[Calculator for the Steilacoom SD's Capital Levy Measure](calculator_steilacoom_20231107_enhanced){:target="_blank" rel="noopener"}
 
 ## Taxpayer cost impact estimate calculators for the bonds
 
