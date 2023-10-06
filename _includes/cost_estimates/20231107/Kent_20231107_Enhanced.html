@@ -265,7 +265,7 @@
 		//data5Parcel.addColumn('number', 'Bond Interest + Fees');
 		data5Parcel.addColumn('number', 'State School');
 		data5Parcel.addColumn('number', 'Non School');
-
+		data5Parcel.addColumn({type:'number', role:'annotation'});
 		data5Parcel.addRows(levy2Years * 2);
 
 		sampleParcelPOFEffective = sampleParcelPOF;
@@ -289,6 +289,11 @@
 				data5Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 				data5Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			}
+			colTotal = 0;
+			for (let k = 1; k < 8; k++) {
+				colTotal = colTotal + data5Parcel.getValue(i, k);
+			}
+			data5Parcel.setCell(i,8, colTotal);
 		}		
 
 		options5 = {
@@ -319,7 +324,7 @@
 		//data5Parcel.addColumn('number', 'Bond Interest + Fees');
 		data6Parcel.addColumn('number', 'State School');
 		data6Parcel.addColumn('number', 'Non School');
-
+		data6Parcel.addColumn({type:'number', role:'annotation'});
 		data6Parcel.addRows(levy2Years * 2);
 
 		sampleParcelPOFEffective = sampleParcelPOF;
@@ -343,7 +348,13 @@
 				data6Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 				data6Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			}
+			colTotal = 0;
+			for (let k = 1; k < 8; k++) {
+				colTotal = colTotal + data6Parcel.getValue(i, k);
+			}
+			data6Parcel.setCell(i,8, colTotal);
 		}		
+		
 
 		options6 = {
 			title: 'Estimated Property Taxes For The Sample Parcel',
@@ -448,7 +459,7 @@
 		formatter.format(data5Parcel, 5); 
 		formatter.format(data5Parcel, 6); 
 		formatter.format(data5Parcel, 7); 
-		//formatter.format(data5Parcel, 8); 
+		formatter.format(data5Parcel, 8); 
 		//formatter.format(data5Parcel, 9); 
 		chart5.draw(data5Parcel, options5);
 
@@ -461,7 +472,7 @@
 		formatter.format(data6Parcel, 5); 
 		formatter.format(data6Parcel, 6); 
 		formatter.format(data6Parcel, 7); 
-		//formatter.format(data6Parcel, 8); 
+		formatter.format(data6Parcel, 8); 
 		//formatter.format(data6Parcel, 9); 
 		chart6.draw(data6Parcel, options6);
     }
@@ -550,6 +561,11 @@
 				data5Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 				data5Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			}
+			colTotal = 0;
+			for (let k = 1; k < 8; k++) {
+				colTotal = colTotal + data5Parcel.getValue(i, k);
+			}
+			data5Parcel.setCell(i,8, colTotal);
 		}		
 		formatter.format(data5Parcel, 1); // Apply formatter to second column
 		formatter.format(data5Parcel, 2);
@@ -558,7 +574,7 @@
 		formatter.format(data5Parcel, 5);
 		formatter.format(data5Parcel, 6);
 		formatter.format(data5Parcel, 7);
-		//formatter.format(data5Parcel, 8);
+		formatter.format(data5Parcel, 8);
 		//formatter.format(data5Parcel, 9);
 		chart5.draw(data5Parcel, options5);
 		
@@ -584,6 +600,11 @@
 				data6Parcel.setCell(i, 6, data5.getValue(i, 6) * sampleParcelPOFEffective);
 				data6Parcel.setCell(i, 7, data5.getValue(i, 7) * sampleParcelPOFEffective);
 			}
+			colTotal = 0;
+			for (let k = 1; k < 8; k++) {
+				colTotal = colTotal + data6Parcel.getValue(i, k);
+			}
+			data6Parcel.setCell(i,8, colTotal);
 		}		
 		formatter.format(data6Parcel, 1); // Apply formatter to second column
 		formatter.format(data6Parcel, 2);
@@ -592,7 +613,7 @@
 		formatter.format(data6Parcel, 5);
 		formatter.format(data6Parcel, 6);
 		formatter.format(data6Parcel, 7);
-		//formatter.format(data6Parcel, 8);
+		formatter.format(data6Parcel, 8);
 		//formatter.format(data6Parcel, 9);
 		chart6.draw(data6Parcel, options6);
     }
