@@ -10,6 +10,8 @@ Contents
 - Recommended policies
 - Reasons for the recommended policies
 - Appendix
+    - Table 1: Pro and con committee member counts for school district measures for the February 14th, 2023 election
+    - Table 2: County voters’ pamphlet rules summary as of February 14th, 2023
 
 
 ## Recommended policies
