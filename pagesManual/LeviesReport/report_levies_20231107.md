@@ -20,6 +20,7 @@ As analyses are completed, summary results will be provided on this page.
 - Pro/Con committees for the voters' pamphlet summary
 - Analyses of the bond cost analyses presented by districts
 - Analyses of the enrichment levy cost analyses presented by districts
+- An analysis of the King County Tax Transparency Tool (TTT)
 - Calculator methodology
 
 ___
@@ -140,6 +141,13 @@ ___
 In progress
 
 ___
+
+## An analysis of the King County Tax Transparency Tool (TTT)
+
+[An analysis of the King County Tax Transparency Tool (TTT)](ttt_critique)
+
+___
+
 
 ## Calculator methodology
 
