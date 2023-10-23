@@ -55,7 +55,7 @@ The TTT shows a cost impact for 2024 of $4,749
 
 See the next image with the red border.
 
-![TTT report for an Fife SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_FifeSDExampleParcelRedacted.png "Fife SD tax area example property")
+![TTT report for a Fife SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_FifeSDExampleParcelRedacted.png "Fife SD tax area example property")
 
 The author’s logical calculator gives the following cost info:
 
@@ -79,7 +79,7 @@ The TTT shows a cost impact for 2024 of -$188
 
 See the next image with the red border.
 
-![TTT report for an Kent SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_KentSDExampleParcelRedacted.png "Kent SD tax area example property")
+![TTT report for a Kent SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_KentSDExampleParcelRedacted.png "Kent SD tax area example property")
 
 The author’s logical calculator gives the following cost info:
 
@@ -105,7 +105,7 @@ The TTT shows a cost impact for 2024 of -$95
 
 See the next image with the red border.
 
-![TTT report for an Kent SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_KentSDExampleParcelRedacted.png "Kent SD tax area example property")
+![TTT report for a Kent SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_KentSDExampleParcelRedacted.png "Kent SD tax area example property")
 
 The author’s logical calculator gives the following cost info:
 
@@ -122,13 +122,15 @@ Total cost of $3,219
 ___
 
 ## Skykomish SD Tech Levy
+### Example 1
+
 For an actual district tax area property with a 2023 AV of $232,000:
 
 The TTT shows a cost impact for 2024 of $0
 
 See the next image with the red border.
 
-![TTT report for an Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_SkykomishSDExampleParcelRedacted.png "Skykomish SD tax area example property")
+![TTT report for a Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_SkykomishSDExampleParcelRedacted.png "Skykomish SD tax area example property")
 
 The author’s logical calculator gives the following cost info:
 
@@ -136,19 +138,61 @@ The author’s logical calculator gives the following cost info:
  
 Total cost of $204
 
-![Logical calculator report for an Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/SkykomishTechParcel.png "Skykomish SD tax area example property")
+![Logical calculator report for a Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/SkykomishTechParcel.png "Skykomish SD tax area example property")
 
 [Calculator for the Skykomish SD's Tech Levy Measure](calculator_skykomish_20231107_enhanced){:target="_blank" rel="noopener"}
+
+
+### Example 2
+
+For an actual district tax area property with a 2023 AV of $263,000:
+
+The TTT shows a cost impact for 2024 of $67.40
+
+See the next image with the red border.
+
+![TTT report for a Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_SkykomishSDExampleParcel2Redacted.png "Skykomish SD tax area example property")
+
+The author’s logical calculator gives the following cost info:
+
+2024 tax of $60. The tax will also be $60 for the other 3 years from 2025 through 2027. 
+ 
+Total cost of $239
+
+![Logical calculator report for an Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/SkykomishTechParcel2.png "Skykomish SD tax area example property")
+
+[Calculator for the Skykomish SD's Tech Levy Measure](calculator_skykomish_20231107_enhanced){:target="_blank" rel="noopener"}
+
+The reason the TTT is off by over 10% is that the TTT reps seem to have blindly used the guesstimated future tax rate from the school district. 
+
+This proposed capital levy is for the same amount each year for the 4 years of the previous levy and the 4 years of the proposed levy. 
+
+$75,000 each year: for years 2020, 2021, 2022, 2023 for the previous levy.
+
+$75,000 each year: for years 2024, 2025, 2026, 2027 for the new proposed levy.
+
+The actual taxes in dollars should be approximately the same for each parcel with perhaps a slight decrease (1%) due to new construction. 
+
 
 ___
 
 ## Conclusion
 The King County Assessor’s office at least has tried to provide taxpayers with a property tax cost impact tool.  The other county 
-assessors in the other 38 counties in WA have nothing to assist voters with their tax measure decisions. 
+assessors in the other 38 counties in WA have nothing to assist voters with their tax measure voting decisions. 
 
 The existing TTT implementation is unfortunately flawed and is not using sound accounting principles. 
 All 39 county assessors in WA should collaborate and devise a Tax Transparency Tool that uses best practices in accounting and finance. 
 Voters/taxpayers deserve a reliable property tax cost impact estimating tool. 
+
+School district levy measures are usually from 2 to 6 years. Bond measures are usually from 15 to 25 years. Most school districts engineer 
+their taxing schedule to 
+be increasing each year - often substantially back loading the payments. The TTT is only looking at the 1st year of the levy  or bond. 
+And the TTT's analysis of that 1st year is erroneous. For the Kent SD's Enrichment Levy the TTT is not even looking at the 1st year of the 
+new levy. It is looking at the last year of the existing Enrichment Levy which makes no sense. 
+All of this is woefully inadequate and is a disservice to voters/taxpayers. The TTT is a waste of taxpayer money. And worse, the information 
+that it provides underestimates the true cost to voters/taxpayers for these multi-year tax measures. The other 38 counties in WA are 
+wise to continue to refuse to use the King County Tax Transparency Tool.
+
 
 The TTT info for the November 7, 2023 election measures just became available October 20, 2023 – which was after voting started. The TTT 
 should have useful, accurate, trustworthy information and it should be completed several months before voting starts and before the pro/con 
@@ -158,6 +202,8 @@ before August 1, 2023.
 For the next election, February 13, 2024, the pro/con arguments will be due December 15, 2023. The TTT needs to be dramatically improved 
 using simple, common sense accounting principles and should be completed for the applicable parcels with tax measures before the 
 December 15, 2023 deadline.
+
+The TTT implementers need to provide independent analysis - not just accept the future tax rate guesses from the taxing districts.
 
 
 
