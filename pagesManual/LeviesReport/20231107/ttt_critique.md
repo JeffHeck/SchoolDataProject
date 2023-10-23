@@ -143,13 +143,21 @@ Total cost of $204
 ___
 
 ## Conclusion
-The King County Assessor’s office at least has tried to provide taxpayers with an impact tool.  The other county assessors in the other 38 
-counties in WA have nothing to assist voters with their tax measure decisions. 
+The King County Assessor’s office at least has tried to provide taxpayers with an property tax cost impact tool.  The other county 
+assessors in the other 38 counties in WA have nothing to assist voters with their tax measure decisions. 
 
 The existing TTT implementation is unfortunately flawed and is not using sound accounting principles. 
 All 39 county assessors in WA should collaborate and devise a Tax Transparency Tool that uses best practices in accounting and finance. 
 Voters/taxpayers deserve a reliable property tax cost impact estimating tool. 
 
+The TTT info for the November 7, 2023 election measures just became available October 20, 2023 – which was after voting started. The TTT 
+should have useful, accurate, trustworthy information and it should be completed several months before voting starts and before the pro/con 
+arguments are due for the voters’ pamphlet. So for the November 7, 2023 election measures, the TTT should have been completed and online 
+before August 1, 2023.
+
+For the next election, February 13, 2024, the pro/con arguments will be due December 15, 2023. The TTT needs to be dramatically improved 
+using simple, common sense accounting principles and should be completed for the applicable parcels with tax measures before the 
+December 15, 2023 deadline.
 
 
 
