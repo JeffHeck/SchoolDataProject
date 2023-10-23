@@ -35,9 +35,13 @@ See the next image with the red border.
 ![TTT report for an Enumclaw SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_EnumclawSDExampleParcelRedacted.png "Enumclaw SD tax area example property")
 
 The author’s logical calculator gives the following cost info:
-2024 tax of $461 that increases to a maximum of $1834 in 2037
+
+2024 tax of $461 that increases to a maximum of $1,834 in 2037
+
 Annual average cost of $893 for 15 years
+
 Total cost of $13,398
+
 ![Logical calculator report for an Enumclaw SD tax area example property](pagesManual/LeviesReport/20231107/TTT/EnumclawParcel.png "Enumclaw SD tax area example property")
 
 [Calculator for the Enumclaw SD's Bond Measure](calculator_enumclaw_20231107_enhanced){:target="_blank" rel="noopener"}
@@ -55,7 +59,7 @@ See the next image with the red border.
 
 The author’s logical calculator gives the following cost info:
 
-2024 tax of $593 that increases to a maximum of 
+2024 tax of $593 that increases to a maximum of $2,448 in 2043
 
 Annual average cost of $1,165 for 20 years
 
@@ -83,9 +87,9 @@ The author’s logical calculator gives the following cost info:
 
 Taxes won’t be collected on the measure until 2025. 
 
-Annual average cost would be $1211 for 3 years from 2025 through 2027
+Annual average cost would be $1,211 for 3 years from 2025 through 2027
 
-Total cost of $3634
+Total cost of $3,634
 
 ![Logical calculator report for an Kent SD tax area example property](pagesManual/LeviesReport/20231107/TTT/KentEnrichmentParcel.png "Kent SD tax area example property")
 
@@ -109,7 +113,7 @@ The author’s logical calculator gives the following cost info:
 
 Annual average cost would be $805 for 4 years from 2024 through 2027
 
-Total cost of $3219
+Total cost of $3,219
 
 ![Logical calculator report for an Kent SD tax area example property](pagesManual/LeviesReport/20231107/TTT/KentCapitalParcel.png "Kent SD tax area example property")
 
@@ -135,6 +139,16 @@ Total cost of $204
 ![Logical calculator report for an Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/SkykomishTechParcel.png "Skykomish SD tax area example property")
 
 [Calculator for the Skykomish SD's Tech Levy Measure](calculator_skykomish_20231107_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+## Conclusion
+The King County Assessor’s office at least has tried to provide taxpayers with an impact tool.  The other county assessors in the other 38 
+counties in WA have nothing to assist voters with their tax measure decisions. 
+
+The existing TTT implementation is unfortunately flawed and is not using sound accounting principles. 
+All 39 county assessors in WA should collaborate and devise a Tax Transparency Tool that uses best practices in accounting and finance. 
+Voters/taxpayers deserve a reliable property tax cost impact estimating tool. 
 
 
 
