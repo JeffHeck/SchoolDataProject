@@ -1,6 +1,6 @@
 ---
 layout: page
-title: King County Tax Transparency Tool Critique
+title: A Critique Of The King County Tax Transparency Tool
 permalink: ttt_critique
 ---
 
@@ -143,7 +143,7 @@ Total cost of $204
 ___
 
 ## Conclusion
-The King County Assessor’s office at least has tried to provide taxpayers with an property tax cost impact tool.  The other county 
+The King County Assessor’s office at least has tried to provide taxpayers with a property tax cost impact tool.  The other county 
 assessors in the other 38 counties in WA have nothing to assist voters with their tax measure decisions. 
 
 The existing TTT implementation is unfortunately flawed and is not using sound accounting principles. 
