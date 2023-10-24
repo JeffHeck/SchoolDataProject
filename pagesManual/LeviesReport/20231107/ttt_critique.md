@@ -38,11 +38,11 @@ See the next image with the red border.
 
 The author’s logical calculator gives the following cost info:
 
-2024 tax of $461 that increases to a maximum of $1,834 in 2037
+2024 tax of $458 that increases to a maximum of $1,826 in 2037
 
-Annual average cost of $893 for 15 years
+Annual average cost of $889 for 15 years
 
-Total cost of $13,398
+Total cost of $13,336
 
 ![Logical calculator report for an Enumclaw SD tax area example property](pagesManual/LeviesReport/20231107/TTT/EnumclawParcel.png "Enumclaw SD tax area example property")
 
@@ -61,11 +61,11 @@ See the next image with the red border.
 
 The author’s logical calculator gives the following cost info:
 
-2024 tax of $593 that increases to a maximum of $2,448 in 2043
+2024 tax of $598 that increases to a maximum of $2,469 in 2043
 
-Annual average cost of $1,165 for 20 years
+Annual average cost of $1,176 for 20 years
 
-Total cost of $23,307
+Total cost of $23,514
 
 ![Logical calculator report for an Fife SD tax area example property](pagesManual/LeviesReport/20231107/TTT/FifeParcel.png "Fife SD tax area example property")
 
@@ -89,9 +89,9 @@ The author’s logical calculator gives the following cost info:
 
 Taxes won’t be collected on the measure until 2025. 
 
-Annual average cost would be $1,211 for 3 years from 2025 through 2027
+Annual average cost would be $1,221 for 3 years from 2025 through 2027
 
-Total cost of $3,634
+Total cost of $3,662
 
 ![Logical calculator report for an Kent SD tax area example property](pagesManual/LeviesReport/20231107/TTT/KentEnrichmentParcel.png "Kent SD tax area example property")
 
@@ -111,11 +111,11 @@ See the next image with the red border.
 
 The author’s logical calculator gives the following cost info:
 
-2024 tax of $428 increasing to $967 in 2027.  
+2024 tax of $431 increasing to $975 in 2027.  
 
-Annual average cost would be $805 for 4 years from 2024 through 2027
+Annual average cost would be $811 for 4 years from 2024 through 2027
 
-Total cost of $3,219
+Total cost of $3,245
 
 ![Logical calculator report for an Kent SD tax area example property](pagesManual/LeviesReport/20231107/TTT/KentCapitalParcel.png "Kent SD tax area example property")
 
