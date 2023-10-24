@@ -53,7 +53,7 @@ ___
 ## Fife SD Bond
 For an actual district tax area property with a 2023 AV of $454,000:
 
-The TTT shows a cost impact for 2024 of $4,749
+The TTT shows a cost impact for 2024 of $610.89
 
 See the next image with the red border.
 
@@ -124,28 +124,6 @@ Total cost of $3,219
 ___
 
 ## Skykomish SD Tech Levy
-### Example 1
-
-For an actual district tax area property with a 2023 AV of $232,000:
-
-The TTT shows a cost impact for 2024 of $0
-
-See the next image with the red border.
-
-![TTT report for a Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/TTT_SkykomishSDExampleParcelRedacted.png "Skykomish SD tax area example property")
-
-The author’s logical calculator gives the following cost info:
-
-2024 tax of $51. The tax will also be $51 for the other 3 years from 2025 through 2027. 
- 
-Total cost of $204
-
-![Logical calculator report for a Skykomish SD tax area example property](pagesManual/LeviesReport/20231107/TTT/SkykomishTechParcel.png "Skykomish SD tax area example property")
-
-[Calculator for the Skykomish SD's Tech Levy Measure](calculator_skykomish_20231107_enhanced){:target="_blank" rel="noopener"}
-
-
-### Example 2
 
 For an actual district tax area property with a 2023 AV of $263,000:
 
