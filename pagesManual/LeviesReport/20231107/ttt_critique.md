@@ -184,8 +184,8 @@ For the next election, February 13, 2024, the pro/con arguments will be due Dece
 using simple, common sense accounting principles and should be completed for the applicable parcels with tax measures before the 
 December 15, 2023 deadline.
 
-The TTT implementers need to provide independent analysis. They should ignore the future tax rate guesses by the school districts. 
-Voters are voting on amounts - not rates.
+The TTT implementers need to provide independent analysis. They should ignore the future tax rate guesses by the school districts and other 
+taxing districts. Voters are voting on amounts - not rates.
 
 
 
