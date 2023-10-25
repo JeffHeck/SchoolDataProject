@@ -158,16 +158,17 @@ ___
 
 ## Conclusion
 The King County Assessor’s office at least has tried to provide taxpayers with a property tax cost impact tool.  The other county 
-assessors in the other 38 counties in WA have nothing to assist voters with their tax measure voting decisions. 
+assessors in the other 38 counties in WA have nothing similar to assist voters with their tax measure voting decisions. 
 
-The existing TTT implementation is unfortunately flawed and is not using sound accounting principles. 
+The existing King County TTT implementation is, unfortunately, flawed and is not using sound accounting principles. 
 All 39 county assessors in WA should collaborate and devise a Tax Transparency Tool that uses best practices in accounting and finance. 
 Voters/taxpayers deserve a reliable property tax cost impact estimating tool. 
 
 School district levy measures are usually from 2 to 6 years. Bond measures are usually from 15 to 25 years. Most school districts engineer 
 their taxing schedule to 
-be increasing each year - often substantially back loading the payments. The TTT is only looking at the 1st year of the levy  or bond. 
-And the TTT's analysis of that 1st year is erroneous. For the Kent SD's Enrichment Levy the TTT is not even looking at the 1st year of the 
+be increasing each year - often substantially back loading the payments (taxes to collect). The TTT is only looking at the 1st year of the levy 
+or bond. 
+And the TTT's analysis of that 1st year is usually erroneous. For the Kent SD's Enrichment Levy the TTT is not even looking at the 1st year of the 
 new levy. It is looking at the last year of the existing Enrichment Levy which makes no sense. 
 All of this is woefully inadequate and is a disservice to voters/taxpayers. The TTT is a waste of taxpayer money. And worse, the information 
 that it provides underestimates the true cost to voters/taxpayers for these multi-year tax measures. The other 38 counties in WA are 
@@ -183,7 +184,8 @@ For the next election, February 13, 2024, the pro/con arguments will be due Dece
 using simple, common sense accounting principles and should be completed for the applicable parcels with tax measures before the 
 December 15, 2023 deadline.
 
-The TTT implementers need to provide independent analysis - not just accept the future tax rate guesses from the taxing districts.
+The TTT implementers need to provide independent analysis. They should ignore the future tax rate guesses by the school districts. 
+Voters are voting on amounts - not rates.
 
 
 
