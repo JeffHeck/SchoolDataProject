@@ -4,7 +4,7 @@ title: A Critique Of The King County Tax Transparency Tool
 permalink: ttt_critique
 ---
 
-Published: 10/23/2023
+Published: 10/23/2023; Updated: 10/26/2023
 
 ## Contents
 
