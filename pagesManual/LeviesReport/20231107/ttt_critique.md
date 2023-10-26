@@ -183,7 +183,7 @@ multi year new levy or bond and trying to compare it to the last year of the pre
 ![Illogical TTT methodology](pagesManual/LeviesReport/20231107/TTT/TTT_Illogic.png "Illogical TTT methodology")
 
 Also, the TTT's analysis of that 1st year is usually erroneous. For the Kent SD's Enrichment Levy the TTT is not even looking at the 1st year of the 
-new levy. It is looking at the last year of the existing Enrichment Levy and comparing that to the second to the last year of the previous levy which makes no sense. 
+new levy. It is looking at the last year of the previous Enrichment Levy and comparing that to the second to the last year of the previous Enrichment Levy which makes no sense. 
 All of this is woefully inadequate and is a disservice to voters/taxpayers. The TTT itself is not a good use of taxpayer money. And worse, the information 
 that it provides underestimates the true cost to voters/taxpayers for these multi-year tax measures and may lead voters to unwittingly make detrimental financial decisions. 
 The other 38 counties in WA are wise to continue to refuse to use the King County Tax Transparency Tool.
