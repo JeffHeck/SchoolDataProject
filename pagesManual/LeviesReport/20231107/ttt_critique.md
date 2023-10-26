@@ -10,6 +10,7 @@ Published: 10/23/2023
 
 Contents
 - Summary
+- Highlights
 - Enumclaw SD Bond
 - Fife SD Bond
 - Kent SD Enrichment Levy
@@ -24,6 +25,15 @@ There are 39 counties in WA. The King County Assessor’s office is the only one
 Unfortunately, King County’s implementation is flawed and gives incorrect information. The TTT’s methodology is illogical and 
 usually grossly underestimates the cost impact to property taxpayers. And that is the case for the school district tax measures 
 for the November 7th 2023 election.
+
+___
+
+## Highlights
+- The TTT is a poor financial tool for voters/taxpayers.
+- The TTT underestimates the actual cost impacts to taxpayers and likely misleads their decision making.
+- The other 38 counties in WA appear to have decided that nothing is better than the TTT for their citizens. King County is the only county in WA with this TTT.
+- The TTT’s methodology of trying to compare the last year of the previous multi-year levy with the first year of the new multi-year levy and calling that a cost analysis is ridiculous.
+- A TILA (Truth In Lending Act) type law applicable to school district tax measures is needed.
 
 ___
 
@@ -162,17 +172,21 @@ assessors in the other 38 counties in WA have nothing similar to assist voters w
 
 The existing King County TTT implementation is, unfortunately, flawed and is not using sound accounting principles. 
 All 39 county assessors in WA should collaborate and devise a Tax Transparency Tool that uses best practices in accounting and finance. 
+It should follow the intent of the Truth In Lending Act (TILA). In fact, WA lawmakers should make a TILA type law to force the issue.
 Voters/taxpayers deserve a reliable property tax cost impact estimating tool. 
 
-School district levy measures are usually from 2 to 6 years. Bond measures are usually from 15 to 25 years. Most school districts engineer 
+School district levy measures are usually from 2 to 6 years. Bond measures are usually from 15 to 25 years. Most school districts design 
 their taxing schedule to 
-be increasing each year - often substantially back loading the payments (taxes to collect). The TTT is only looking at the 1st year of the levy 
-or bond. 
-And the TTT's analysis of that 1st year is usually erroneous. For the Kent SD's Enrichment Levy the TTT is not even looking at the 1st year of the 
-new levy. It is looking at the last year of the existing Enrichment Levy which makes no sense. 
-All of this is woefully inadequate and is a disservice to voters/taxpayers. The TTT is a waste of taxpayer money. And worse, the information 
-that it provides underestimates the true cost to voters/taxpayers for these multi-year tax measures. The other 38 counties in WA are 
-wise to continue to refuse to use the King County Tax Transparency Tool.
+be increasing each year - often substantially back loading the payments (taxes to collect). The TTT is only looking at the 1st year of the 
+multi year new levy or bond and trying to compare it to the last year of the previous multi-year levy or bond. See the next chart.
+
+![Illogical TTT methodology](pagesManual/LeviesReport/20231107/TTT/TTT_Illogic.png "Illogical TTT methodology")
+
+Also, the TTT's analysis of that 1st year is usually erroneous. For the Kent SD's Enrichment Levy the TTT is not even looking at the 1st year of the 
+new levy. It is looking at the last year of the existing Enrichment Levy and comparing that to the second to the last year of the previous levy which makes no sense. 
+All of this is woefully inadequate and is a disservice to voters/taxpayers. The TTT itself is not a good use of taxpayer money. And worse, the information 
+that it provides underestimates the true cost to voters/taxpayers for these multi-year tax measures and may lead voters to unwittingly make detrimental financial decisions. 
+The other 38 counties in WA are wise to continue to refuse to use the King County Tax Transparency Tool.
 
 
 The TTT info for the November 7, 2023 election measures just became available October 20, 2023 – which was after voting started. The TTT 
