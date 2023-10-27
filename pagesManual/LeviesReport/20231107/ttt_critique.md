@@ -147,8 +147,7 @@ See the next image with the red border.
 The TTT reps just used the 2024 tax rate of 1.72 that the school district listed in their resolution.
 That district’s rate is just a guesstimated rate. And it doesn’t apply until 2025.
 The county assessors don’t need any guesstimated rates from school districts. The county assessors 
-have the preliminary 2024 Total AV for all properties. They have the 2024 AVs of all properties. 
-So they can calculate an accurate 2024 rate.
+have the preliminary 2024 Total AV for all properties. So they can calculate an accurate 2024 rate.
 
 Total 2024 Enrichment Levy dollars to collect / 2024 Total AV * 1000 
 
@@ -191,8 +190,7 @@ See the next image with the red border.
 The TTT reps just used the 2024 tax rate of 0.66 that the school district listed in their resolution.
 That district’s rate is just a guesstimated rate. 
 The county assessors don’t need any guesstimated rates from school districts. The county assessors 
-have the preliminary 2024 Total AV for all properties. They have the 2024 AVs of all properties. 
-So they can calculate an accurate 2024 rate.
+have the preliminary 2024 Total AV for all properties. So they can calculate an accurate 2024 rate.
 
 Total 2024 Enrichment Levy dollars to collect / 2024 Total AV * 1000 
 
