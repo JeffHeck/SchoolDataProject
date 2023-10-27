@@ -4,7 +4,7 @@ title: A Critique Of The King County Tax Transparency Tool
 permalink: ttt_critique
 ---
 
-Published: 10/23/2023; Updated: 10/26/2023
+Published: 10/23/2023; Updated: 10/27/2023
 
 ## Contents
 
@@ -65,7 +65,7 @@ Preliminary 2024 Total AV: $ 6,641,349,380
 
 2024 Rate: $ 4,904,762 / $ 6,641,349,380 * 1,000 = 0.73851
 
-The TTT reps made a huge omission. They did not take into account the large amount of the district’s bond management 
+The TTT reps made a huge omission. They failed to take into account the large amount of the district’s bond management 
 company’s estimated bond interest and fees. That adds another $51,000,000!
 
 The total to taxpayers is: $103M + $51M = $154M
@@ -111,7 +111,7 @@ Preliminary 2024 Total AV: $6,720,872,762
 
 2024 Rate: $9,752,381 / $6,720,872,762 * 1000 = 1.45105
 
-The TTT reps made a huge omission. They did not take into account the large amount of the district’s bond management 
+The TTT reps made a huge omission. They failed to take into account the large amount of the district’s bond management 
 company’s estimated bond interest and fees. That adds another $125,000,000!
 
 The total to taxpayers is: $204.8M + $125M = $329.8M
@@ -154,7 +154,7 @@ Total 2024 Enrichment Levy dollars to collect / 2024 Total AV * 1000
 If they would have done that correctly they would have calculated a 0.00 rate for 2024.
 
 The district is assuming an annual 4% increase in Total AV for each of the next 2 years, 2024 and 2025. The TTT reps are using an 8% decrease for 2024.
-The TT reps are not being consistent.
+The TTT reps failed to be consistent.
 
 These errors are why the TTT is incorrectly showing a negative cost impact.
 
@@ -195,7 +195,7 @@ have the preliminary 2024 Total AV for all properties. So they can calculate an 
 Total 2024 Enrichment Levy dollars to collect / 2024 Total AV * 1000 
 
 The district is assuming an annual 4% increase in Total AV for 2024. The TTT reps are using an 8% decrease for 2024.
-The TT reps are not being consistent.
+The TTT reps failed to be consistent.
 
 These errors are why the TTT is incorrectly showing a negative cost impact.
 
@@ -238,7 +238,7 @@ The actual taxes in dollars should be approximately the same for each parcel wit
 
 The district is assuming a 0% growth in Total AV over the life of the levy to help voters/taxpayers make an accurate cost impact in dollars.
 
-The TTT reps are using the guesstimated rate from the district but not the district’s assumed Total AV growth. Again, the TTT reps are not being consistent.
+The TTT reps are using the guesstimated rate from the district but not the district’s assumed Total AV growth. Again, the TTT reps failed to be consistent.
 
 This is why the TTT is incorrectly showing an increase in cost impact for properties.
 
