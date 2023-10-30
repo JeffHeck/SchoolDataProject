@@ -4,7 +4,7 @@ title: A Critique Of The King County Tax Transparency Tool
 permalink: ttt_critique
 ---
 
-Published: 10/23/2023; Updated: 10/27/2023
+Published: 10/23/2023; Updated: 10/29/2023
 
 ## Contents
 
@@ -30,9 +30,15 @@ ___
 
 ## Highlights
 - The TTT is a poor financial tool for voters/taxpayers.
-- The TTT underestimates the actual cost impacts to taxpayers and likely misleads their decision making.
+- The TTT fails to consider bond interest at all in its simplistic calculations. Bond interest and fees add another 50+% on top of bond principal. Taxpayers are obligated to pay all of it: bond principal, interest and fees. 
+    - For the Enumclaw SD Bond, the true cost to local taxpayers is $103M (bond principal) + $51M (bond interest and fees) = $154M
+	- For the Fife SD Bond the true cost to local taxpayers is $204.8M (bond principal) + $125M (bond interest and fees) = $329.8M
+- The TTT uses the guesstimated future tax rates from school districts but fails to incorporate what the school districts assumed for Total AV growth. The TTT fails to be consistent.
+- The TTT does not need any future tax rate guesstimates. The TTT can and should use the proportional obligation methodology that the author uses and describes.
+- The TTT underestimates the actual cost impacts to taxpayers which can mislead their decision making. 
 - The other 38 counties in WA appear to have decided that nothing is better than the TTT for their citizens. King County is the only county in WA with this TTT.
-- The TTT’s methodology of trying to compare the last year of the previous multi-year levy with the first year of the new multi-year levy and calling that a cost analysis is ridiculous.
+- The TTT’s methodology of trying to compare the last year of the previous multi-year levy with the first year of the new multi-year levy and calling that a cost analysis is nonsensical. 
+- The TTT is not providing an independent, reliable, logical, accurate analysis.
 - A TILA (Truth In Lending Act) type law applicable to school district tax measures is needed.
 
 ___
@@ -150,8 +156,6 @@ The county assessors don’t need any guesstimated rates from school districts. 
 have the preliminary 2024 Total AV for all properties. So they can calculate an accurate 2024 rate.
 
 Total 2024 Enrichment Levy dollars to collect / 2024 Total AV * 1000 
-
-If they would have done that correctly they would have calculated a 0.00 rate for 2024.
 
 The district is assuming an annual 4% increase in Total AV for each of the next 2 years, 2024 and 2025. The TTT reps are using an 8% decrease for 2024.
 The TTT reps failed to be consistent.
