@@ -45,6 +45,8 @@ ___
 
 ## Taxpayer cost impact estimate calculators for the levies
 
+[Calculator for the Centralia SD's Enrichment and Capital Levy Measures](calculator_centralia_20240213_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Clover Park SD's Enrichment and Capital Levy Measures](calculator_clover_park_20240213_enhanced){:target="_blank" rel="noopener"}
 
 
@@ -55,6 +57,8 @@ In progress
 ___
 
 ## Enrichment levy amounts charts
+
+![Centralia SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/CentraliaEnrichment.png "Centralia SD enrichment levy amounts chart")
 
 ![Clover Park SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/CloverParkEnrichment.png "Clover Park SD enrichment levy amounts chart")
 
