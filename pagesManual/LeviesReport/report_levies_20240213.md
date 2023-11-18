@@ -49,6 +49,8 @@ ___
 
 [Calculator for the Clover Park SD's Enrichment Levy Measure](calculator_clover_park_20240213_enhanced){:target="_blank" rel="noopener"}
 
+[Calculator for the Meridian SD's Enrichment Levy Measure](calculator_meridian_20240213_enhanced){:target="_blank" rel="noopener"}
+
 [Calculator for the Sumner SD's Enrichment Levy Measure](calculator_sumner_20240213_enhanced){:target="_blank" rel="noopener"}
 
 
@@ -63,6 +65,8 @@ ___
 ![Centralia SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/CentraliaEnrichment.png "Centralia SD enrichment levy amounts chart")
 
 ![Clover Park SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/CloverParkEnrichment.png "Clover Park SD enrichment levy amounts chart")
+
+![Meridian SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/MeridianEnrichment.png "Sumner SD enrichment levy amounts chart")
 
 ![Sumner SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/SumnerEnrichment.png "Sumner SD enrichment levy amounts chart")
 
