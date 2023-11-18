@@ -45,11 +45,11 @@ ___
 
 ## Taxpayer cost impact estimate calculators for the levies
 
-[Calculator for the Centralia SD's Enrichment and Capital Levy Measures](calculator_centralia_20240213_enhanced){:target="_blank" rel="noopener"}
+[Calculator for the Centralia SD's Enrichment Levy Measure](calculator_centralia_20240213_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Clover Park SD's Enrichment and Capital Levy Measures](calculator_clover_park_20240213_enhanced){:target="_blank" rel="noopener"}
+[Calculator for the Clover Park SD's Enrichment Levy Measure](calculator_clover_park_20240213_enhanced){:target="_blank" rel="noopener"}
 
-[Calculator for the Sumner SD's Enrichment and Capital Levy Measures](calculator_sumner_20240213_enhanced){:target="_blank" rel="noopener"}
+[Calculator for the Sumner SD's Enrichment Levy Measure](calculator_sumner_20240213_enhanced){:target="_blank" rel="noopener"}
 
 
 ## Taxpayer cost impact estimate calculators for the bonds
