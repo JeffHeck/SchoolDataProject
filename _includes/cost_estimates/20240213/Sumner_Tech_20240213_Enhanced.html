@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 2280963950;
-	sampleParcelAV = 675000;
+	totalLevyAV = 14480084192;
+	sampleParcelAV = 550000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 25800000;
+	totalLevyCost = 39000000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 4;
+	levyYears = 6;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 17580496;
+	totalLevyPriorCost = 30104954;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,14 +37,18 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2021', 3989949, 0],
-			['2022', 4268934, 0],
-			['2023', 4525060, 0],
-			['2024', 4796553, 0],
-			['2025', 0, 6000000],
-			['2026', 0, 6300000],
-			['2027', 0, 6600000],
-			['2028', 0, 6900000],
+			['2019', 5253338, 0],
+			['2020', 5811425, 0],
+			['2021', 5810952, 0],
+			['2022', 5220817, 0],
+			['2023', 4008422, 0],
+			['2024', 4000000, 0],
+			['2025', 0, 5000000],
+			['2026', 0, 6000000],
+			['2027', 0, 7000000],
+			['2028', 0, 7500000],
+			['2029', 0, 7000000],
+			['2030', 0, 6500000],
 
 		]);
 
@@ -115,7 +119,7 @@
 		table_data.addColumn('number', 'Percent Change');
 		table_data.addRows([
 			['Total cost', totalLevyPriorCostParcel, totalLevyCostParcel, totalLevyCostParcel-totalLevyPriorCostParcel, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100],
-			['Average cost per year for 4 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
+			['Average cost per year for 6 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
 		
 		]);
 
@@ -209,7 +213,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 13th 2024 levy measure proposed by the Meridian SD</H2>
+  <H2>Property tax impact estimate calculator for the February 13th 2024 levy measure proposed by the Sumner SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
@@ -222,7 +226,7 @@
   <input type="button" value="Decrease POF Annual Change" onclick="changePOFChange(-0.1)" />
   <p></p>
   <H3>Output</H3>
-  <H3>Enrichment Levy</H3>
+  <H3>Tech Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>

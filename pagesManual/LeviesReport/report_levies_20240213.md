@@ -10,17 +10,8 @@ As analyses are completed, summary results will be provided on this page.
 - Summary
 - Bond summary
 - Levy summary
-- Taxpayer cost impact estimate calculators for the levies
-- Taxpayer cost impact estimate calculators for the bonds
-- Enrichment levy amounts charts
-- Capital levy amounts charts
-- Bond amounts chart
-- Bond schedules
-- County voters' pamphlet rules summary
-- Pro/Con committees for the voters' pamphlet summary
-- Analyses of the bond cost analyses presented by districts
-- Analyses of the enrichment levy cost analyses presented by districts
-- An analysis of the King County Tax Transparency Tool (TTT)
+- Bond details
+- Levy details
 - Calculator methodology
 
 ___
@@ -43,77 +34,163 @@ In progress
 
 ___
 
-## Taxpayer cost impact estimate calculators for the levies
-
-[Calculator for the Centralia SD's Enrichment Levy Measure](calculator_centralia_20240213_enhanced){:target="_blank" rel="noopener"}
-
-[Calculator for the Clover Park SD's Enrichment Levy Measure](calculator_clover_park_20240213_enhanced){:target="_blank" rel="noopener"}
-
-[Calculator for the Meridian SD's Enrichment Levy Measure](calculator_meridian_20240213_enhanced){:target="_blank" rel="noopener"}
-
-[Calculator for the Sumner SD's Enrichment Levy Measure](calculator_sumner_20240213_enhanced){:target="_blank" rel="noopener"}
-
-
-## Taxpayer cost impact estimate calculators for the bonds
+## Bond details
 
 In progress
 
 ___
 
-## Enrichment levy amounts charts
+## Levy details
+### Benton County Prosser SD
 
-![Centralia SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/CentraliaEnrichment.png "Centralia SD enrichment levy amounts chart")
+![Prosser SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/ProsserEnrichment.png "Prosser SD enrichment levy totals chart")
+![Prosser SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/ProsserEnrichmentParcel.png "Prosser SD enrichment levy example parcel chart")
 
-![Clover Park SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/CloverParkEnrichment.png "Clover Park SD enrichment levy amounts chart")
-
-![Meridian SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/MeridianEnrichment.png "Sumner SD enrichment levy amounts chart")
-
-![Sumner SD enrichment levy amounts chart](pagesManual/LeviesReport/20240213/SumnerEnrichment.png "Sumner SD enrichment levy amounts chart")
+[Link to the interactive calculator](calculator_prosser_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
-## Capital levy amounts charts
+### Chelan County Lake Chelan SD
 
-In progress
+![Lake Chelan SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LakeChelanEnrichment.png "Lake Chelan SD enrichment levy totals chart")
+![Lake Chelan SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LakeChelanEnrichmentParcel.png "Lake Chelan SD enrichment levy example parcel chart")
 
-___
-
-## Bond amounts charts
-
-In progress
+[Link to the interactive calculator](calculator_lake_chelan_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
-## Bond schedules
+### Cowlitz County Longview SD
 
-In progress
+![Longview SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LongviewEnrichment.png "Longview SD enrichment levy totals chart")
+![Longview SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LongviewEnrichmentParcel.png "Longview SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_longview_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Grant County Moses Lake SD
+
+![Moses Lake SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MosesLakeEnrichment.png "Moses Lake SD enrichment levy totals chart")
+![Moses Lake SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MosesLakeEnrichmentParcel.png "Moses Lake SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_moses_lake_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
-## County voters' pamphlet rules summary
+### Grant County Soap Lake SD
 
-In progress
+![Soap Lake SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SoapLakeEnrichment.png "Soap Lake SD enrichment levy totals chart")
+![Soap Lake SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/SoapLakeEnrichmentParcel.png "Soap Lake SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_soap_lake_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
+
+### Mason County Mary M Knight SD
+
+![Mary M Knight SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MaryMKnightEnrichment.png "Mary M Knight SD enrichment levy totals chart")
+![Mary M Knight SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MaryMKnightEnrichmentParcel.png "Mary M Knight SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_mary_m_knight_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Pierce County Carbonado SD
+
+![Carbonado SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CarbonadoEnrichment.png "Carbonado SD enrichment levy totals chart")
+![Carbonado SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CarbonadoEnrichmentParcel.png "Carbonado SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_carbonado_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Spokane County Central Valley SD
+
+![Central Valley SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CentralValleyEnrichment.png "Central Valley SD enrichment levy totals chart")
+![Central Valley SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CentralValleyEnrichmentParcel.png "Central Valley SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_central_valley_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Spokane County Cheney SD
+
+![Cheney SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CheneyEnrichment.png "Cheney SD enrichment levy totals chart")
+![Cheney SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CheneyEnrichmentParcel.png "Cheney SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_cheney_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Spokane County Liberty SD
+
+![Liberty SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LibertyEnrichment.png "Liberty SD enrichment levy totals chart")
+![Liberty SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LibertyEnrichmentParcel.png "Liberty SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_liberty_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Spokane County Medical Lake SD
+
+![Medical Lake SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MedicalLakeEnrichment.png "Medical Lake SD enrichment levy totals chart")
+![Medical Lake SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MedicalLakeEnrichmentParcel.png "Medical Lake SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_medical_lake_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Spokane County Riverside SD
+
+![Riverside SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/RiversideEnrichment.png "Riverside SD enrichment levy totals chart")
+![Riverside SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/RiversideEnrichmentParcel.png "Riverside SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_riverside_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Spokane County Spokane SD
+
+![Spokane SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SpokaneEnrichment.png "Spokane SD enrichment levy totals chart")
+![Spokane SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/SpokaneEnrichmentParcel.png "Spokane SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_spokane_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Whatcom County Blaine SD
+
+![Blaine SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/BlaineEnrichment.png "Blaine SD enrichment levy totals chart")
+![Blaine SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BlaineEnrichmentParcel.png "Blaine SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_blaine_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Whatcom County Lynden SD
+
+![Lynden SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LyndenEnrichment.png "Lynden SD enrichment levy totals chart")
+![Lynden SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LyndenEnrichmentParcel.png "Lynden SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_lynden_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Yakima County Yakima SD
+
+![Yakima SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/YakimaEnrichment.png "Yakima SD enrichment levy totals chart")
+![Yakima SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/YakimaEnrichmentParcel.png "Yakima SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_yakima_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 
 ## Pro/Con committees for the voters' pamphlet summary
 
 In progress
 
-Note: Pro/con committee member selection, along with measure resolutions, by school districts were due to their respective county auditor on December 15th, 2023.
-
-___
-
-
-## Analyses of the bond cost analyses presented by districts
-
-In progress
-
-___
-
-## An analysis of the King County Tax Transparency Tool (TTT)
-
-In progress
+Note: Pro/con committee member selection, along with measure resolutions, by school districts are due to their respective county auditor (elections office) by December 15th, 2023.
 
 ___
 
