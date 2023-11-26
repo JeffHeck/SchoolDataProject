@@ -104,6 +104,15 @@ ___
 
 ___
 
+### Lincoln County Reardan-Edwall SD
+
+![Reardan-Edwall SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/Reardan-EdwallEnrichment.png "Reardan-Edwall SD enrichment levy totals chart")
+![Reardan-Edwall SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/Reardan-EdwallEnrichmentParcel.png "Reardan-Edwall SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_reardan-edwall_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Mason County Mary M Knight SD
 
 ![Mary M Knight SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MaryMKnightEnrichment.png "Mary M Knight SD enrichment levy totals chart")
@@ -158,6 +167,15 @@ ___
 
 ___
 
+### Spokane County East Valley (Spokane) SD
+
+![East Valley (Spokane) SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/EastValley-Spokane-Enrichment.png "East Valley (Spokane) SD enrichment levy totals chart")
+![East Valley (Spokane) SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/EastValley-Spokane-EnrichmentParcel.png "East Valley (Spokane) SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_east_valley_-spokane-_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Spokane County Liberty SD
 
 ![Liberty SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LibertyEnrichment.png "Liberty SD enrichment levy totals chart")
@@ -203,6 +221,15 @@ ___
 
 ___
 
+### Stevens County Columbia (Stevens) SD
+
+![Columbia (Stevens) SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/Columbia-Stevens-Enrichment.png "Columbia (Stevens) SD enrichment levy totals chart")
+![Columbia (Stevens) SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/Columbia-Stevens-EnrichmentParcel.png "Columbia (Stevens) SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_columbia_-stevens-_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Thurston County Olympia SD
 
 ![Olympia SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/OlympiaEnrichment.png "Olympia SD enrichment levy totals chart")
@@ -239,6 +266,15 @@ ___
 
 ___
 
+### Whatcom County Mount Baker SD
+
+![Mount Baker SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MountBakerEnrichment.png "Mount Baker SD enrichment levy totals chart")
+![Mount Baker SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MountBakerEnrichmentParcel.png "Mount Baker SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_mount_baker_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Yakima County Yakima SD
 
 ![Yakima SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/YakimaEnrichment.png "Yakima SD enrichment levy totals chart")
@@ -247,7 +283,6 @@ ___
 [Link to the interactive calculator](calculator_yakima_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
-
 
 ## Pro/Con committees for the voters' pamphlet summary
 
