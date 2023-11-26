@@ -203,6 +203,15 @@ ___
 
 ___
 
+### Thurston County Olympia SD
+
+![Olympia SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/OlympiaEnrichment.png "Olympia SD enrichment levy totals chart")
+![Olympia SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/OlympiaEnrichmentParcel.png "Olympia SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_olympia_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Whatcom County Blaine SD
 
 ![Blaine SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/BlaineEnrichment.png "Blaine SD enrichment levy totals chart")
