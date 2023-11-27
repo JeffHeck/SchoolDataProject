@@ -8,6 +8,9 @@ As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
+- Pro/con committee volunteers needed for the voters' pamphlet
+    - Sortable list of expected Bond tax measures
+    - Sortable list of expected Enrichment Levy tax measures
 - Bond summary
 - Levy summary
 - Bond details
@@ -19,6 +22,24 @@ ___
 ## Summary
 
 In progress
+
+___
+
+## Pro/con committee volunteers needed for the voters' pamphlet
+
+For the February 13th 2024 election, 138 school districts are expected to run Enrichment tax measures and 19 school districts are expected to run Bond tax measures. 
+School districts are tasked with finding pro and con committee volunteers for the voters' pamphlet for their own measures. 
+Districts readily find pro committee members but rarely find con committee members. If school districts fail to find pro and/or con committee volunteers, the county elections department 
+will usually (but not always) make and attempt to find volunteers.
+
+Interested citizens (pro or con) have until December 15th 2023 to either volunteer through the school district or the county elections department. Up to 3 people can be on each committee.
+Different counties have different rules for volunteers. Some counties require (D)istrict area residency. Some require (C)ounty residency. Some do not have residency requirements.
+
+### Sortable list of expected Bond tax measures
+[Link to the sortable table of expected bonds](expected_bonds){:target="_blank" rel="noopener"}
+
+### Sortable list of expected Enrichment Levy tax measures
+[Link to the sortable table of expected enrichment levies](expected_enrichment_levies){:target="_blank" rel="noopener"}
 
 ___
 
