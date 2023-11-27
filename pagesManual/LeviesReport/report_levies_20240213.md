@@ -27,10 +27,10 @@ ___
 
 ## Pro/con committee volunteers needed for the voters' pamphlet
 
-For the February 13th 2024 election, 138 school districts are expected to run Enrichment tax measures and 19 school districts are expected to run Bond tax measures. 
-School districts are tasked with finding pro and con committee volunteers for the voters' pamphlet for their own measures. 
-Districts readily find pro committee members but rarely find con committee members. If school districts fail to find pro and/or con committee volunteers, the county elections department 
-will usually (but not always) make and attempt to find volunteers.
+For the February 13th 2024 election, 138 school districts are expected to run Enrichment Levy tax measures and 19 school districts are expected to run Bond tax measures. 
+School districts, by state statute, are tasked with finding pro and con committee volunteers for the voters' pamphlet for their own measures. 
+Districts readily find pro committee members but rarely find con committee members. If school districts fail to find pro and/or con committee members, the county elections department 
+will usually (but not always) make an attempt, over a day or two, to find volunteers.
 
 Interested citizens (pro or con) have until December 15th 2023 to either volunteer through the school district or the county elections department. Up to 3 people can be on each committee.
 Different counties have different rules for volunteers. Some counties require (D)istrict area residency. Some require (C)ounty residency. Some have (N)o residency requirements.
