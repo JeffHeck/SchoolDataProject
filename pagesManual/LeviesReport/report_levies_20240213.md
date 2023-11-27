@@ -33,7 +33,7 @@ Districts readily find pro committee members but rarely find con committee membe
 will usually (but not always) make and attempt to find volunteers.
 
 Interested citizens (pro or con) have until December 15th 2023 to either volunteer through the school district or the county elections department. Up to 3 people can be on each committee.
-Different counties have different rules for volunteers. Some counties require (D)istrict area residency. Some require (C)ounty residency. Some do not have residency requirements.
+Different counties have different rules for volunteers. Some counties require (D)istrict area residency. Some require (C)ounty residency. Some have (N)o residency requirements.
 
 ### Sortable list of expected Bond tax measures
 [Link to the sortable table of expected bonds](expected_bonds){:target="_blank" rel="noopener"}
@@ -302,14 +302,6 @@ ___
 ![Yakima SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/YakimaEnrichmentParcel.png "Yakima SD enrichment levy example parcel chart")
 
 [Link to the interactive calculator](calculator_yakima_20240213_enhanced){:target="_blank" rel="noopener"}
-
-___
-
-## Pro/Con committees for the voters' pamphlet summary
-
-In progress
-
-Note: Pro/con committee member selection, along with measure resolutions, by school districts are due to their respective county auditor (elections office) by December 15th, 2023.
 
 ___
 
