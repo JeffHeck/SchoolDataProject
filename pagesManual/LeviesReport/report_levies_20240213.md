@@ -56,8 +56,12 @@ In progress
 ___
 
 ## Bond details
+### Kitsap County Bremerton SD
 
-In progress
+![Bremerton SD bond totals chart](pagesManual/LeviesReport/20240213/Bremerton.png "Bremerton SD bond totals chart")
+![Bremerton SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BremertonParcel.png "Bremerton SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_bremerton_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
