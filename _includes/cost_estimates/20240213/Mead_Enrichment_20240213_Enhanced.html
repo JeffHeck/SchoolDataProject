@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 4216576502;
-	sampleParcelAV = 750000;
+	totalLevyAV = 10895229559;
+	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 17128500;
+	totalLevyCost = 90900000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 4;
+	levyYears = 3;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 14388224.0;
+	totalLevyPriorCost = 53649994.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,14 +37,12 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2021', 3366978, 0],
-			['2022', 3434290, 0],
-			['2023', 3668428, 0],
-			['2024', 3918528, 0],
-			['2025', 0, 3989500],
-			['2026', 0, 4196000],
-			['2027', 0, 4390000],
-			['2028', 0, 4553000],
+			['2022', 16502544, 0],
+			['2023', 17846830, 0],
+			['2024', 19300620, 0],
+			['2025', 0, 29000000],
+			['2026', 0, 30000000],
+			['2027', 0, 31900000],
 
 		]);
 
@@ -115,7 +113,7 @@
 		table_data.addColumn('number', 'Percent Change');
 		table_data.addRows([
 			['Total cost', totalLevyPriorCostParcel, totalLevyCostParcel, totalLevyCostParcel-totalLevyPriorCostParcel, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100],
-			['Average cost per year for 4 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
+			['Average cost per year for 3 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
 		
 		]);
 
@@ -209,7 +207,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 13th 2024 levy measure proposed by the Lake Chelan SD</H2>
+  <H2>Property tax impact estimate calculator for the February 13th 2024 levy measure proposed by the Mead SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>

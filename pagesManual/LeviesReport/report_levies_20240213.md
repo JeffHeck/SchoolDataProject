@@ -92,6 +92,14 @@ ___
 
 ___
 
+### Cowlitz County Kelso SD
+
+![Kelso SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/KelsoEnrichment.png "Kelso SD enrichment levy totals chart")
+![Kelso SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/KelsoEnrichmentParcel.png "Kelso SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_kelso_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
 ### Cowlitz County Longview SD
 
 ![Longview SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LongviewEnrichment.png "Longview SD enrichment levy totals chart")
@@ -110,6 +118,14 @@ ___
 
 ___
 
+### Douglas County Bridgeport SD
+
+![Bridgeport SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/BridgeportEnrichment.png "Bridgeport SD enrichment levy totals chart")
+![Bridgeport SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BridgeportEnrichmentParcel.png "Bridgeport SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_bridgeport_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
 ### Grant County Moses Lake SD
 
 ![Moses Lake SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MosesLakeEnrichment.png "Moses Lake SD enrichment levy totals chart")
@@ -125,6 +141,15 @@ ___
 ![Soap Lake SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/SoapLakeEnrichmentParcel.png "Soap Lake SD enrichment levy example parcel chart")
 
 [Link to the interactive calculator](calculator_soap_lake_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Grays Harbor County Montesano SD
+
+![Montesano SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MontesanoEnrichment.png "Montesano SD enrichment levy totals chart")
+![Montesano SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MontesanoEnrichmentParcel.png "Montesano SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_montesano_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
@@ -227,6 +252,15 @@ ___
 
 ___
 
+### Spokane County Mead SD
+
+![Mead SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MeadEnrichment.png "Mead SD enrichment levy totals chart")
+![Mead SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MeadEnrichmentParcel.png "Mead SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_mead_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Spokane County Medical Lake SD
 
 ![Medical Lake SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MedicalLakeEnrichment.png "Medical Lake SD enrichment levy totals chart")
@@ -269,6 +303,15 @@ ___
 ![Columbia (Stevens) SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/Columbia-Stevens-EnrichmentParcel.png "Columbia (Stevens) SD enrichment levy example parcel chart")
 
 [Link to the interactive calculator](calculator_columbia_-stevens-_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Thurston County North Thurston SD
+
+![North Thurston SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/NorthThurstonEnrichment.png "North Thurston SD enrichment levy totals chart")
+![North Thurston SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/NorthThurstonEnrichmentParcel.png "North Thurston SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_north_thurston_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
