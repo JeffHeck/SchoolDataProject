@@ -64,6 +64,14 @@ ___
 [Link to the interactive calculator](calculator_bremerton_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
+### Spokane County Spokane SD
+
+![Spokane SD bond totals chart](pagesManual/LeviesReport/20240213/Spokane.png "Spokane SD bond totals chart")
+![Spokane SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/SpokaneParcel.png "Spokane SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_spokane_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
 
 ## Levy details
 ### Benton County Prosser SD
@@ -242,7 +250,7 @@ ___
 ![Spokane SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SpokaneEnrichment.png "Spokane SD enrichment levy totals chart")
 ![Spokane SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/SpokaneEnrichmentParcel.png "Spokane SD enrichment levy example parcel chart")
 
-[Link to the interactive calculator](calculator_spokane_20240213_enhanced){:target="_blank" rel="noopener"}
+[Link to the interactive calculator](calculator_spokane_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
