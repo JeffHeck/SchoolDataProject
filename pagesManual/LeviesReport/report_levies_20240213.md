@@ -120,6 +120,15 @@ ___
 
 ___
 
+### Klickitat County Goldendale SD
+
+![Goldendale SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GoldendaleEnrichment.png "Goldendale SD enrichment levy totals chart")
+![Goldendale SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GoldendaleEnrichmentParcel.png "Goldendale SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_goldendale_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Lewis County Centralia SD
 
 ![Centralia SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CentraliaEnrichment.png "Centralia SD enrichment levy totals chart")
