@@ -74,6 +74,25 @@ ___
 
 ___
 
+### Kitsap County North Kitsap SD
+
+![North Kitsap SD bond totals chart](pagesManual/LeviesReport/20240213/NorthKitsap.png "North Kitsap SD bond totals chart")
+![North Kitsap SD bond example parcel chart](pagesManual/LeviesReport/20240213/NorthKitsapParcel.png "North Kitsap SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_north_kitsap_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
+### Lewis County Morton SD
+
+![Morton SD bond totals chart](pagesManual/LeviesReport/20240213/Morton.png "Morton SD bond totals chart")
+![Morton SD bond example parcel chart](pagesManual/LeviesReport/20240213/MortonParcel.png "Morton SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_morton_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Pierce County Orting SD
 
 ![Orting SD bond totals chart](pagesManual/LeviesReport/20240213/Orting.png "Orting SD bond totals chart")
@@ -92,12 +111,30 @@ ___
 
 ___
 
+### Snohomish County Edmonds SD
+
+![Edmonds SD bond totals chart](pagesManual/LeviesReport/20240213/Edmonds.png "Edmonds SD bond totals chart")
+![Edmonds SD bond example parcel chart](pagesManual/LeviesReport/20240213/EdmondsParcel.png "Edmonds SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_edmonds_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Spokane County Cheney SD
 
 ![Cheney SD bond totals chart](pagesManual/LeviesReport/20240213/Cheney.png "Cheney SD bond totals chart")
 ![Cheney SD bond example parcel chart](pagesManual/LeviesReport/20240213/CheneyParcel.png "Cheney SD bond example parcel chart")
 
 [Link to the interactive calculator](calculator_cheney_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Spokane County Deer Park SD
+
+![Deer Park SD bond totals chart](pagesManual/LeviesReport/20240213/DeerPark.png "Deer Park SD bond totals chart")
+![Deer Park SD bond example parcel chart](pagesManual/LeviesReport/20240213/DeerParkParcel.png "Deer Park SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_deer_park_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
@@ -109,6 +146,25 @@ ___
 [Link to the interactive calculator](calculator_spokane_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
+
+### Spokane County West Valley SD
+
+![West Valley SD bond totals chart](pagesManual/LeviesReport/20240213/WestValley.png "West Valley SD bond totals chart")
+![West Valley SD bond example parcel chart](pagesManual/LeviesReport/20240213/WestValleyParcel.png "West Valley SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_west_valley_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Whatcom County Blaine SD
+
+![Blaine SD bond totals chart](pagesManual/LeviesReport/20240213/Blaine.png "Blaine SD bond totals chart")
+![Blaine SD bond example parcel chart](pagesManual/LeviesReport/20240213/BlaineParcel.png "Blaine SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_blaine_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 
 ## Levy details
 ### Benton County Prosser SD
