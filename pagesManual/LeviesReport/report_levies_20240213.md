@@ -264,6 +264,15 @@ ___
 
 ___
 
+### Lewis County Toledo SD
+
+![Toledo SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/ToledoEnrichment.png "Toledo SD enrichment levy totals chart")
+![Toledo SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/ToledoEnrichmentParcel.png "Toledo SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_toledo_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Lincoln County Reardan-Edwall SD
 
 ![Reardan-Edwall SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/Reardan-EdwallEnrichment.png "Reardan-Edwall SD enrichment levy totals chart")
