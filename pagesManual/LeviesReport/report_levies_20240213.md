@@ -246,12 +246,48 @@ ___
 
 ___
 
+### Klickitat County Centerville SD
+
+![Centerville SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CentervilleEnrichment.png "Centerville SD enrichment levy totals chart")
+![Centerville SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CentervilleEnrichmentParcel.png "Centerville SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_centerville_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Klickitat County Glenwood SD
+
+![Glenwood SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GlenwoodEnrichment.png "Glenwood SD enrichment levy totals chart")
+![Glenwood SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GlenwoodEnrichmentParcel.png "Glenwood SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_glenwood_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Klickitat County Goldendale SD
 
 ![Goldendale SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GoldendaleEnrichment.png "Goldendale SD enrichment levy totals chart")
 ![Goldendale SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GoldendaleEnrichmentParcel.png "Goldendale SD enrichment levy example parcel chart")
 
 [Link to the interactive calculator](calculator_goldendale_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Klickitat County Roosevelt SD
+
+![Roosevelt SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/RooseveltEnrichment.png "Roosevelt SD enrichment levy totals chart")
+![Roosevelt SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/RooseveltEnrichmentParcel.png "Roosevelt SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_roosevelt_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Klickitat County Wishram SD
+
+![Wishram SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/WishramEnrichment.png "Wishram SD enrichment levy totals chart")
+![Wishram SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/WishramEnrichmentParcel.png "Wishram SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_wishram_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
