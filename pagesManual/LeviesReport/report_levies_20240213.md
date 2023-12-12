@@ -83,13 +83,21 @@ ___
 
 ___
 
-
 ### Lewis County Morton SD
 
 ![Morton SD bond totals chart](pagesManual/LeviesReport/20240213/Morton.png "Morton SD bond totals chart")
 ![Morton SD bond example parcel chart](pagesManual/LeviesReport/20240213/MortonParcel.png "Morton SD bond example parcel chart")
 
 [Link to the interactive calculator](calculator_morton_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Mason County Hood Canal SD
+
+![Hood Canal SD bond totals chart](pagesManual/LeviesReport/20240213/HoodCanal.png "Hood Canal SD bond totals chart")
+![Hood Canal SD bond example parcel chart](pagesManual/LeviesReport/20240213/HoodCanalParcel.png "Hood Canal SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_hood_canal_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
@@ -138,6 +146,15 @@ ___
 
 ___
 
+### Spokane County Riverside SD
+
+![Riverside SD bond totals chart](pagesManual/LeviesReport/20240213/Riverside.png "Riverside SD bond totals chart")
+![Riverside SD bond example parcel chart](pagesManual/LeviesReport/20240213/RiversideParcel.png "Riverside SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_riverside_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Spokane County Spokane SD
 
 ![Spokane SD bond totals chart](pagesManual/LeviesReport/20240213/Spokane.png "Spokane SD bond totals chart")
@@ -165,6 +182,23 @@ ___
 
 ___
 
+### Whatcom County Lynden SD
+
+![Lynden SD bond totals chart](pagesManual/LeviesReport/20240213/Lynden.png "Lynden SD bond totals chart")
+![Lynden SD bond example parcel chart](pagesManual/LeviesReport/20240213/LyndenParcel.png "Lynden SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_lynden_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Yakima County Wapato SD
+
+![Wapato SD bond totals chart](pagesManual/LeviesReport/20240213/Wapato.png "Wapato SD bond totals chart")
+![Wapato SD bond example parcel chart](pagesManual/LeviesReport/20240213/WapatoParcel.png "Wapato SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_wapato_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
 
 ## Levy details
 ### Benton County Prosser SD

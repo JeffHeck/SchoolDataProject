@@ -11,18 +11,18 @@
 	//var data;
 	var dataParcel;
 	
-	totalBondAV = 3299856098;
+	totalBondAV = 2030036000;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalBondPrincipal = 117000000;
-	totalBondInterest = 73741000;
+	totalBondPrincipal = 73000000;
+	totalBondInterest = 78273000;
 	totalBondCost = totalBondPrincipal + totalBondInterest;
 	sampleParcelPOF = sampleParcelAV / totalBondAV;
 	totalBondCostParcel = 0;
 	totalBondPrincipalParcel = 0;
 	totalBondInterestParcel = 0;
-	bondYears = 17;
+	bondYears = 26;
 	averageTotalBondCostParcel = 0;
 
 	// POF Annual Change Percent
@@ -37,23 +37,32 @@
 		data.addColumn('number', 'Interest + Fees');
 
 		data.addRows([
-			['2025', 2518285, 2846715],
-			['2026', 658861, 4857139],
-			['2027', 252810, 6416190],
-			['2028', 1550973, 6402027],
-			['2029', 3074705, 6315295],
-			['2030', 4843719, 6142281],
-			['2031', 5447513, 5868487],
-			['2032', 6094413, 5560587],
-			['2033', 6782858, 5216142],
-			['2034', 7529207, 4832793],
-			['2035', 8322727, 4407273],
-			['2036', 9178076, 3936924],
-			['2037', 10088750, 3418250],
-			['2038', 11059885, 2848115],
-			['2039', 12100884, 2223116],
-			['2040', 13211706, 1539294],
-			['2041', 14284629, 910371],
+			['2025', 1253600, 2832400],
+			['2026', 240107, 4212893],
+			['2027', 493149, 4198851],
+			['2028', 617026, 4169974],
+			['2029', 749176, 4133824],
+			['2030', 892086, 4089914],
+			['2031', 1039387, 4037613],
+			['2032', 1199408, 3977592],
+			['2033', 1374654, 3908346],
+			['2034', 1559005, 3828995],
+			['2035', 1755984, 3739016],
+			['2036', 1968320, 3637680],
+			['2037', 2192898, 3524102],
+			['2038', 2436424, 3397576],
+			['2039', 2692990, 3257010],
+			['2040', 2971064, 3098936],
+			['2041', 3266465, 2924535],
+			['2042', 3584210, 2732790],
+			['2043', 3920618, 2522382],
+			['2044', 4277782, 2292218],
+			['2045', 4662917, 2041083],
+			['2046', 5069667, 1767333],
+			['2047', 5502295, 1469705],
+			['2048', 5965332, 1146668],
+			['2049', 6449888, 801112],
+			['2050', 6865548, 530452],
 
 		]);
 
@@ -107,7 +116,7 @@
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
 			['Total cost', totalBondCostParcel],
-			['Average cost per year for 17 years', averageTotalBondCostParcel],
+			['Average cost per year for 26 years', averageTotalBondCostParcel],
 			['Total principal cost', totalBondPrincipalParcel],
 			['Total interest + fees cost', totalBondInterestParcel],
 		]);
@@ -202,7 +211,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 13th 2024 bond measure proposed by the Orting SD </H2>
+  <H2>Property tax impact estimate calculator for the February 13th 2024 bond measure proposed by the Riverside SD </H2>
   <p>Created by the author independently from and not associated with the taxing district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
