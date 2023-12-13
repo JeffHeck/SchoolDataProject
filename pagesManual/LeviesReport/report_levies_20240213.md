@@ -12,6 +12,8 @@ As analyses are completed, summary results will be provided on this page.
     - Sortable list of expected Bond tax measures
     - Sortable list of expected Enrichment Levy tax measures
 - Bond summary
+    - Total bond cost to local taxpayers
+	- Total bond cost to owners of properties with 2023 assessed values of $500,000
 - Levy summary
 - Bond details
 - Levy details
@@ -45,7 +47,20 @@ ___
 
 ## Bond summary
 
-In progress
+### Total bond cost to local property taxpayers for each school district with a bond measure
+![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20240213/BondSummaryTotals.png "Bond totals")
+
+Data source: Each district's bond/levy projection datasheet
+
+### Total bond cost to owners of properties with 2023 assessed values (AVs) of $500,000
+![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20240213/BondSummaryParcels.png "Bond totals")
+
+The conservative assumption used was that the POF (proportional obligation factor) as of 2023 remains constant over the term of the bond. The interested reader can use the 
+cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the calculator as well as different AVs. 
+The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV for a given year) divided by (The Total AV of all 
+properties in the district's tax area for the same year). 
+
+See the Calculator Methodology section below for more details. 
 
 ___
 
