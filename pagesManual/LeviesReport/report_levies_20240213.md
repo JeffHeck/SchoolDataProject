@@ -69,6 +69,8 @@ ___
 
 ## Levy summary
 
+Note: Approximately 50 Enrichment Levies have been analyzed so far. Over 80 more are expected for the February 2024 election.
+
 ### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
 ![Enrichment levy totals](pagesManual/LeviesReport/20240213/LevySummaryTotals.png "Levy totals")
 
