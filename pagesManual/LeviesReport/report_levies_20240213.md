@@ -332,6 +332,15 @@ ___
 
 ___
 
+### King County Tahoma SD
+
+![Tahoma SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/TahomaEnrichment.png "Tahoma SD enrichment levy totals chart")
+![Tahoma SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/TahomaEnrichmentParcel.png "Tahoma SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_tahoma_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Klickitat County Centerville SD
 
 ![Centerville SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CentervilleEnrichment.png "Centerville SD enrichment levy totals chart")
