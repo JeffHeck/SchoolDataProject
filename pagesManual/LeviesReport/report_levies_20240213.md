@@ -14,9 +14,12 @@ As analyses are completed, summary results will be provided on this page.
 - Bond summary
     - Total bond cost to local taxpayers
 	- Total bond cost to owners of properties with 2023 assessed values of $500,000
-- Levy summary
+- Enrichment levy summary
+    - Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+    - Average annual enrichment levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
 - Bond details
-- Levy details
+- Enrichment levy details
+- Capital levy details
 - Calculator methodology
 
 ___
@@ -691,6 +694,47 @@ ___
 [Link to the interactive calculator](calculator_yakima_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
+
+## Capital levy details
+
+### Clark County Battle Ground SD
+
+![Battle Ground SD capital levy totals chart](pagesManual/LeviesReport/20240213/BattleGroundCapital.png "Battle Ground SD capital levy totals chart")
+![Battle Ground SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/BattleGroundCapitalParcel.png "Battle Ground SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_battle_ground_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### King County Tahoma SD
+
+![Tahoma SD tech levy totals chart](pagesManual/LeviesReport/20240213/TahomaTech.png "Tahoma SD tech levy totals chart")
+![Tahoma SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/TahomaTechParcel.png "Tahoma SD tech levy example parcel chart")
+
+[Link to the interactive calculator](calculator_tahoma_tech_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Pierce County Sumner SD
+
+![Sumner SD tech levy totals chart](pagesManual/LeviesReport/20240213/SumnerTech.png "Sumner SD tech levy totals chart")
+![Sumner SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/SumnerTechParcel.png "Sumner SD tech levy example parcel chart")
+
+[Link to the interactive calculator](calculator_sumner_tech_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Whatcom  County Meridian SD
+
+![Meridian SD tech levy totals chart](pagesManual/LeviesReport/20240213/MeridianTech.png "Meridian SD tech levy totals chart")
+![Meridian SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/MeridianTechParcel.png "Meridian SD tech levy example parcel chart")
+
+[Link to the interactive calculator](calculator_meridian_tech_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
+
 
 ## Calculator methodology
 

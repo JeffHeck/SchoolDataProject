@@ -10,14 +10,14 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 14480084192;
+	totalLevyAV = 16556400174;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 39000000;
+	totalLevyCost = 27700000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 6;
+	levyYears = 3;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// POF Annual Change Percent
 	pofAdjust = 0;
@@ -33,12 +33,9 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2025', 5000000],
-			['2026', 6000000],
-			['2027', 7000000],
-			['2028', 7500000],
-			['2029', 7000000],
-			['2030', 6500000],
+			['2025', 8500000],
+			['2026', 9200000],
+			['2027', 10000000],
 
 		]);
 
@@ -101,7 +98,7 @@
 		table_data.addColumn('number', 'New');
 		table_data.addRows([
 			['Total cost', totalLevyCostParcel],
-			['Average cost per year for 6 years', averageTotalLevyCostParcel],
+			['Average cost per year for 3 years', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -179,7 +176,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 13th 2024 levy measure proposed by the Sumner SD</H2>
+  <H2>Property tax impact estimate calculator for the February 13th 2024 levy measure proposed by the Battle Ground SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
@@ -192,7 +189,7 @@
   <input type="button" value="Decrease POF Annual Change" onclick="changePOFChange(-0.1)" />
   <p></p>
   <H3>Output</H3>
-  <H3>Tech Levy</H3>
+  <H3>Capital Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>
