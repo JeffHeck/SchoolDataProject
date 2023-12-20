@@ -805,6 +805,15 @@ ___
 
 ___
 
+### Snohomish County Arlington SD
+
+![Arlington SD capital levy totals chart](pagesManual/LeviesReport/20240213/ArlingtonCapital.png "Arlington SD capital levy totals chart")
+![Arlington SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/ArlingtonCapitalParcel.png "Arlington SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_arlington_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Whatcom  County Meridian SD
 
 ![Meridian SD tech levy totals chart](pagesManual/LeviesReport/20240213/MeridianTech.png "Meridian SD tech levy totals chart")
