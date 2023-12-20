@@ -154,12 +154,30 @@ ___
 
 ___
 
+### Snohomish County Arlington SD
+
+![Arlington SD bond totals chart](pagesManual/LeviesReport/20240213/Arlington.png "Arlington SD bond totals chart")
+![Arlington SD bond example parcel chart](pagesManual/LeviesReport/20240213/ArlingtonParcel.png "Arlington SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_arlington_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Snohomish County Edmonds SD
 
 ![Edmonds SD bond totals chart](pagesManual/LeviesReport/20240213/Edmonds.png "Edmonds SD bond totals chart")
 ![Edmonds SD bond example parcel chart](pagesManual/LeviesReport/20240213/EdmondsParcel.png "Edmonds SD bond example parcel chart")
 
 [Link to the interactive calculator](calculator_edmonds_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Snohomish County Sultan SD
+
+![Sultan SD bond totals chart](pagesManual/LeviesReport/20240213/Sultan.png "Sultan SD bond totals chart")
+![Sultan SD bond example parcel chart](pagesManual/LeviesReport/20240213/SultanParcel.png "Sultan SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_sultan_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
