@@ -272,6 +272,24 @@ ___
 
 ___
 
+### Clark County Camas SD
+
+![Camas SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CamasEnrichment.png "Camas SD enrichment levy totals chart")
+![Camas SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CamasEnrichmentParcel.png "Camas SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_camas_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Clark County Green Mountain SD
+
+![Green Mountain SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GreenMountainEnrichment.png "Green Mountain SD enrichment levy totals chart")
+![Green Mountain SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GreenMountainEnrichmentParcel.png "Green Mountain SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_green_mountain_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Cowlitz County Kelso SD
 
 ![Kelso SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/KelsoEnrichment.png "Kelso SD enrichment levy totals chart")
@@ -775,6 +793,15 @@ ___
 ![Battle Ground SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/BattleGroundCapitalParcel.png "Battle Ground SD capital levy example parcel chart")
 
 [Link to the interactive calculator](calculator_battle_ground_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Clark County Camas SD
+
+![Camas SD tech levy totals chart](pagesManual/LeviesReport/20240213/CamasTech.png "Camas SD tech levy totals chart")
+![Camas SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/CamasTechParcel.png "Camas SD tech levy example parcel chart")
+
+[Link to the interactive calculator](calculator_camas_tech_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
