@@ -290,6 +290,15 @@ ___
 
 ___
 
+### Cowlitz County Toutle Lake SD
+
+![Toutle Lake SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/ToutleLakeEnrichment.png "Toutle Lake SD enrichment levy totals chart")
+![Toutle Lake SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/ToutleLakeEnrichmentParcel.png "Toutle Lake SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_toutle_lake_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Cowlitz County Woodland SD
 
 ![Woodland SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/WoodlandEnrichment.png "Woodland SD enrichment levy totals chart")
@@ -766,6 +775,15 @@ ___
 ![Battle Ground SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/BattleGroundCapitalParcel.png "Battle Ground SD capital levy example parcel chart")
 
 [Link to the interactive calculator](calculator_battle_ground_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Cowlitz County Castle Rock SD
+
+![Castle Rock SD capital levy totals chart](pagesManual/LeviesReport/20240213/CastleRockCapital.png "Castle Rock SD capital levy totals chart")
+![Castle Rock SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/CastleRockCapitalParcel.png "Castle Rock SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_castle_rock_capital_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
