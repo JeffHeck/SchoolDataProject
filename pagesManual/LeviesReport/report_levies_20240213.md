@@ -8,9 +8,6 @@ As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
-- Pro/con committee volunteers needed for the voters' pamphlet
-    - Sortable list of expected Bond tax measures
-    - Sortable list of expected Enrichment Levy tax measures
 - Bond summary
     - Total bond cost to local taxpayers
 	- Total bond cost to owners of properties with 2023 assessed values of $500,000
@@ -27,25 +24,6 @@ ___
 ## Summary
 
 In progress
-
-___
-
-## Pro/con committee volunteers needed for the voters' pamphlet
-
-For the February 13th 2024 election, 138 school districts are expected to run Enrichment Levy tax measures and 19 school districts are expected to run Bond tax measures. 
-School districts, by state statute, are tasked with finding pro and con committee volunteers for the voters' pamphlet for their own measures. It is a conflict of interest.
-Districts readily find pro committee members (usually paid staff) but rarely find a single con committee members. If/when school districts fail to find pro and/or con committee members, the county elections department 
-will usually (but not always) make an attempt, over a day or two, to find volunteers.
-
-Interested citizens (pro or con) have until December 15th 2023 to either volunteer through the school district or the county elections department. Some counties will extend the deadline to apply 
-via the county to 12/18/23 or perhaps 12/20/23. Up to 3 people can be on each committee. Actual pro/con statements will be due a day or two after the final application deadline - most likely 12/20/23.
-Different counties have different rules for volunteers. Some counties require (D)istrict area residency. Some require (C)ounty residency. Some have (N)o residency requirements.
-
-### Sortable list of expected Bond tax measures
-[Link to the sortable table of expected bonds](expected_bonds){:target="_blank" rel="noopener"}
-
-### Sortable list of expected Enrichment Levy tax measures
-[Link to the sortable table of expected enrichment levies](expected_enrichment_levies){:target="_blank" rel="noopener"}
 
 ___
 
