@@ -9,7 +9,7 @@ ___
 ### Mabton SD
 
 ![Mabton SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MabtonEnrichment.png "Mabton SD enrichment levy totals chart")
-![Mabton SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MabtonEnrichment.png "Mabton SD enrichment  example parcel chart")
+![Mabton SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MabtonEnrichmentParcel.png "Mabton SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_mabton_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -27,7 +27,7 @@ ___
 ### Yakima SD
 
 ![Yakima SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/YakimaEnrichment.png "Yakima SD enrichment levy totals chart")
-![Yakima SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/YakimaEnrichment.png "Yakima SD enrichment  example parcel chart")
+![Yakima SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/YakimaEnrichmentParcel.png "Yakima SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_yakima_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 

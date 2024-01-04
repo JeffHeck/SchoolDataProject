@@ -9,7 +9,7 @@ ___
 ### Bridgeport SD
 
 ![Bridgeport SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/BridgeportEnrichment.png "Bridgeport SD enrichment levy totals chart")
-![Bridgeport SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BridgeportEnrichment.png "Bridgeport SD enrichment  example parcel chart")
+![Bridgeport SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BridgeportEnrichmentParcel.png "Bridgeport SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_bridgeport_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 

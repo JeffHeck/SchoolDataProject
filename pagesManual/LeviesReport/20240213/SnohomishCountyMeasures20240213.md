@@ -17,7 +17,7 @@ ___
 
 
 ![Arlington SD capital levy totals chart](pagesManual/LeviesReport/20240213/ArlingtonCapital.png "Arlington SD capital levy totals chart")
-![Arlington SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/ArlingtonCapital.png "Arlington SD capital  example parcel chart")
+![Arlington SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/ArlingtonCapitalParcel.png "Arlington SD capital  example parcel chart")
 
 [Link to the interactive calculator](calculator_arlington_capital_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -25,7 +25,7 @@ ___
 
 
 ![Arlington SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/ArlingtonEnrichment.png "Arlington SD enrichment levy totals chart")
-![Arlington SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/ArlingtonEnrichment.png "Arlington SD enrichment  example parcel chart")
+![Arlington SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/ArlingtonEnrichmentParcel.png "Arlington SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_arlington_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -43,7 +43,7 @@ ___
 ### Lakewood SD
 
 ![Lakewood SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LakewoodEnrichment.png "Lakewood SD enrichment levy totals chart")
-![Lakewood SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LakewoodEnrichment.png "Lakewood SD enrichment  example parcel chart")
+![Lakewood SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LakewoodEnrichmentParcel.png "Lakewood SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_lakewood_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -52,7 +52,7 @@ ___
 ### Stanwood-Camano SD
 
 ![Stanwood-Camano SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/Stanwood-CamanoEnrichment.png "Stanwood-Camano SD enrichment levy totals chart")
-![Stanwood-Camano SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/Stanwood-CamanoEnrichment.png "Stanwood-Camano SD enrichment  example parcel chart")
+![Stanwood-Camano SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/Stanwood-CamanoEnrichmentParcel.png "Stanwood-Camano SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_stanwood-camano_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 

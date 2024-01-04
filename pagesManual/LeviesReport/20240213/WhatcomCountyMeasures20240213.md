@@ -17,7 +17,7 @@ ___
 
 
 ![Blaine SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/BlaineEnrichment.png "Blaine SD enrichment levy totals chart")
-![Blaine SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BlaineEnrichment.png "Blaine SD enrichment  example parcel chart")
+![Blaine SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BlaineEnrichmentParcel.png "Blaine SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_blaine_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -26,7 +26,7 @@ ___
 ### Ferndale SD
 
 ![Ferndale SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/FerndaleEnrichment.png "Ferndale SD enrichment levy totals chart")
-![Ferndale SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/FerndaleEnrichment.png "Ferndale SD enrichment  example parcel chart")
+![Ferndale SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/FerndaleEnrichmentParcel.png "Ferndale SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_ferndale_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -43,7 +43,7 @@ ___
 
 
 ![Lynden SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LyndenEnrichment.png "Lynden SD enrichment levy totals chart")
-![Lynden SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LyndenEnrichment.png "Lynden SD enrichment  example parcel chart")
+![Lynden SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LyndenEnrichmentParcel.png "Lynden SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_lynden_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -52,7 +52,7 @@ ___
 ### Meridian SD
 
 ![Meridian SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MeridianEnrichment.png "Meridian SD enrichment levy totals chart")
-![Meridian SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MeridianEnrichment.png "Meridian SD enrichment  example parcel chart")
+![Meridian SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MeridianEnrichmentParcel.png "Meridian SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_meridian_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -60,7 +60,7 @@ ___
 
 
 ![Meridian SD tech levy totals chart](pagesManual/LeviesReport/20240213/MeridianTech.png "Meridian SD tech levy totals chart")
-![Meridian SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/MeridianTech.png "Meridian SD tech  example parcel chart")
+![Meridian SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/MeridianTechParcel.png "Meridian SD tech  example parcel chart")
 
 [Link to the interactive calculator](calculator_meridian_tech_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -69,7 +69,7 @@ ___
 ### Mount Baker SD
 
 ![Mount Baker SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MountBakerEnrichment.png "Mount Baker SD enrichment levy totals chart")
-![Mount Baker SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MountBakerEnrichment.png "Mount Baker SD enrichment  example parcel chart")
+![Mount Baker SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MountBakerEnrichmentParcel.png "Mount Baker SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_mount_baker_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 

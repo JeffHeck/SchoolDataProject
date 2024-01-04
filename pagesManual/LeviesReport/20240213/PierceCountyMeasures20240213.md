@@ -9,7 +9,7 @@ ___
 ### Carbonado SD
 
 ![Carbonado SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CarbonadoEnrichment.png "Carbonado SD enrichment levy totals chart")
-![Carbonado SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CarbonadoEnrichment.png "Carbonado SD enrichment  example parcel chart")
+![Carbonado SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CarbonadoEnrichmentParcel.png "Carbonado SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_carbonado_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -18,7 +18,7 @@ ___
 ### Clover Park SD
 
 ![Clover Park SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CloverParkEnrichment.png "Clover Park SD enrichment levy totals chart")
-![Clover Park SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CloverParkEnrichment.png "Clover Park SD enrichment  example parcel chart")
+![Clover Park SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CloverParkEnrichmentParcel.png "Clover Park SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_clover_park_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -27,7 +27,7 @@ ___
 ### Eatonville SD
 
 ![Eatonville SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/EatonvilleEnrichment.png "Eatonville SD enrichment levy totals chart")
-![Eatonville SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/EatonvilleEnrichment.png "Eatonville SD enrichment  example parcel chart")
+![Eatonville SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/EatonvilleEnrichmentParcel.png "Eatonville SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_eatonville_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -45,7 +45,7 @@ ___
 ### Sumner SD
 
 ![Sumner SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SumnerEnrichment.png "Sumner SD enrichment levy totals chart")
-![Sumner SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/SumnerEnrichment.png "Sumner SD enrichment  example parcel chart")
+![Sumner SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/SumnerEnrichmentParcel.png "Sumner SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_sumner_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
@@ -53,7 +53,7 @@ ___
 
 
 ![Sumner SD tech levy totals chart](pagesManual/LeviesReport/20240213/SumnerTech.png "Sumner SD tech levy totals chart")
-![Sumner SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/SumnerTech.png "Sumner SD tech  example parcel chart")
+![Sumner SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/SumnerTechParcel.png "Sumner SD tech  example parcel chart")
 
 [Link to the interactive calculator](calculator_sumner_tech_20240213_enhanced){:target="_blank" rel="noopener"}
 
