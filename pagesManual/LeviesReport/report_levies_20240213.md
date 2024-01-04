@@ -17,9 +17,11 @@ As analyses are completed, summary results will be provided on this page.
 - Capital levy summary
     - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
     - Average annual capital levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
-- Bond details
-- Enrichment levy details
-- Capital levy details
+- Measure details
+	- All measures (bonds, enrichment levies, capital levies) by county
+	- All bonds
+	- All enrichment levies
+	- All capital levies
 - Calculator methodology
 
 ___
@@ -91,18 +93,68 @@ See the Calculator Methodology section below for more details.
 
 ___
 
-## Bond details
-[Link to the bond details](report_bond_details_20240213){:target="_blank" rel="noopener"}
+## Measure details
 
-___
+### All measures (bonds, enrichment levies, capital levies) by county
+[Benton](bentoncountymeasures20240213)
 
-## Enrichment levy details
-[Link to the enrichment levy details](report_enrichment_levy_details_20240213){:target="_blank" rel="noopener"}
+[Chelan](chelancountymeasures20240213)
 
-___
+[Clark](clarkcountymeasures20240213)
 
-## Capital levy details
-[Link to the capital levy details](report_capital_levy_details_20240213){:target="_blank" rel="noopener"}
+[Columbia](columbiacountymeasures20240213)
+
+[Cowlitz](cowlitzcountymeasures20240213)
+
+[Douglas](douglascountymeasures20240213)
+
+[Grant](grantcountymeasures20240213)
+
+[Grays Harbor](graysharborcountymeasures20240213)
+
+[King](kingcountymeasures20240213)
+
+[Kitsap](kitsapcountymeasures20240213)
+
+[Klickitat](klickitatcountymeasures20240213)
+
+[Lewis](lewiscountymeasures20240213)
+
+[Lincoln](lincolncountymeasures20240213)
+
+[Mason](masoncountymeasures20240213)
+
+[Okanogan](okanogancountymeasures20240213)
+
+[Pierce](piercecountymeasures20240213)
+
+[Snohomish](snohomishcountymeasures20240213)
+
+[Spokane](spokanecountymeasures20240213)
+
+[Stevens](stevenscountymeasures20240213)
+
+[Thurston](thurstoncountymeasures20240213)
+
+[Walla Walla](wallawallacountymeasures20240213)
+
+[Whatcom](whatcomcountymeasures20240213)
+
+[Yakima](yakimacountymeasures20240213)
+
+
+### All bonds
+
+[All bonds](report_bond_details_20240213)
+
+### All enrichment levies
+
+[All enrichment levies](report_enrichment_levy_details_20240213)
+
+### All capital levies
+
+[All capital levies](report_capital_levy_details_20240213)
+
 
 ___
 
