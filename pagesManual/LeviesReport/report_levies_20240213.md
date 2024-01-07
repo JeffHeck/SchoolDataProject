@@ -215,13 +215,16 @@ POF stays relatively constant for an individual property over many years. The PO
 
 Individual properties' AVs and therefore Total AVs substantially fluctuate from year to year.
 
-This is why even if guesstimates future Total AVs (and therefore future guesstimated tax rates) were accurate, they are not necessary. 
-And worse, future guesstimated tax rates can be set to almost anything by just "guessing" future Total AVs. School districts 
-and other taxing districts should be prohibited from stating their guesstimated future tax rates on their tax measure resolutions. 
+This is why even if guesstimated future Total AVs (and therefore future guesstimated tax rates) were accurate, they are not necessary. 
+And worse, future guesstimated tax rates can be set to almost anything by just adjusting future Total AVs. 
+Select a higher future Total AV growth, then the future tax rate will be lower. Select a lower future Total AV growth, then 
+the future tax rate will be higher. However, the POF for an individual property does not change as property AVs rise or fall. 
+School districts and other taxing districts should be prohibited from stating their guesstimated future tax rates on their tax measure resolutions 
+and in the campaign materials. 
 That practice misleads voters. School districts, of all institutions, should teach and practice proper logic and mathematics, accurate 
 financial analysis, and ethical behavior. 
 
-Voters/taxpayers are voting on amounts - not guesstimated future tax rates. 
+Voters/taxpayers are voting on amounts in dollars - not guesstimated future tax rates. 
 
 ___
 
