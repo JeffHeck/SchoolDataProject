@@ -24,6 +24,8 @@
 	totalBondInterestParcel = 0;
 	bondYears = 21;
 	averageTotalBondCostParcel = 0;
+	// Correction factor for Feb elections
+	pofYear = 1
 
 	// POF Annual Change Percent
 	pofAdjust = 0;
@@ -72,7 +74,7 @@
 		totalBondPrincipalParcel = 0;
 		totalBondInterestParcel = 0;
 		for (let i = 0; i < bondYears; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i);
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i + pofYear);
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
 			dataParcel.setCell(i, 2, data.getValue(i, 2) * sampleParcelPOFEffective);
@@ -165,7 +167,7 @@
 		totalBondPrincipalParcel = 0;
 		totalBondInterestParcel = 0;
 		for (let i = 0; i < bondYears; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i);
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i + pofYear);
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
 			dataParcel.setCell(i, 2, data.getValue(i, 2) * sampleParcelPOFEffective);
