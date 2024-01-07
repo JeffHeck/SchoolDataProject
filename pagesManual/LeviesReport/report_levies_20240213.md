@@ -128,15 +128,15 @@ ___
 
 ### All bonds
 
-[All bonds](report_bond_details_20240213)
+[Link to the details for all bonds](report_bond_details_20240213)
 
 ### All enrichment levies
 
-[All enrichment levies](report_enrichment_levy_details_20240213)
+[Link to the details for all enrichment levies](report_enrichment_levy_details_20240213)
 
 ### All capital levies
 
-[All capital levies](report_capital_levy_details_20240213)
+[Link to the details for all capital levies](report_capital_levy_details_20240213)
 
 
 ___
@@ -217,7 +217,7 @@ Individual properties' AVs and therefore Total AVs substantially fluctuate from 
 
 This is why even if guesstimates future Total AVs (and therefore future guesstimated tax rates) were accurate, they are not necessary. 
 And worse, future guesstimated tax rates can be set to almost anything by just "guessing" future Total AVs. School districts 
-and other taxing districts should be prohibited from stating their often engineered, guesstimated future tax rates on their tax measure resolutions. 
+and other taxing districts should be prohibited from stating their guesstimated future tax rates on their tax measure resolutions. 
 That practice misleads voters. School districts, of all institutions, should teach and practice proper logic and mathematics, accurate 
 financial analysis, and ethical behavior. 
 
