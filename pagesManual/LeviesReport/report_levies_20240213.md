@@ -145,7 +145,7 @@ ___
 ## Calculator methodology
 
 School district reps usually think they need to correctly guess the future 
-Total AV for their district's tax area for each of the future years of their tax measures. Their assumption is incorrect and only leads leads to misleading voters/taxpayers. 
+Total AV for their district's tax area for each of the future years of their tax measures. Their assumption is incorrect and misleads voters/taxpayers. 
 And district reps' incorrect logic usually leads to underestimating the true costs of their measures to taxpayers.
 
 For these property tax impact estimate calculators, the author uses a Proportional Obligation Factor (POF) method. 
