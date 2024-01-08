@@ -220,11 +220,11 @@ And worse, future guesstimated tax rates can be set to almost anything by just a
 Select a higher future Total AV growth, then the future tax rate will be lower. Select a lower future Total AV growth, then 
 the future tax rate will be higher. However, the POF for an individual property does not change as property AVs rise or fall. 
 School districts and other taxing districts should be prohibited from stating their guesstimated future tax rates on their tax measure resolutions 
-and in the campaign materials. 
+and in their campaign materials. 
 That practice misleads voters. School districts, of all institutions, should teach and practice proper logic and mathematics, accurate 
 financial analysis, and ethical behavior. 
 
-Voters/taxpayers are voting on amounts in dollars - not guesstimated future tax rates. 
+Voters/taxpayers are voting on amounts in dollars - not guesstimated, inaccurate future tax rates. 
 
 ___
 
