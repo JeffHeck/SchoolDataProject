@@ -26,6 +26,14 @@ ___
 
 ### Eatonville SD
 
+![Eatonville SD capital levy totals chart](pagesManual/LeviesReport/20240213/EatonvilleCapital.png "Eatonville SD capital levy totals chart")
+![Eatonville SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/EatonvilleCapitalParcel.png "Eatonville SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_eatonville_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
 ![Eatonville SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/EatonvilleEnrichment.png "Eatonville SD enrichment levy totals chart")
 ![Eatonville SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/EatonvilleEnrichmentParcel.png "Eatonville SD enrichment  example parcel chart")
 

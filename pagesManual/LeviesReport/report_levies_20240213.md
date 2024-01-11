@@ -59,10 +59,14 @@ ___
 Note: Approximately 50 Enrichment Levies have been analyzed so far. Over 80 more are expected for the February 2024 election.
 
 ### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
-![Enrichment levy totals](pagesManual/LeviesReport/20240213/LevySummaryTotals.png "Levy totals")
+![Enrichment levy totals, lower group](pagesManual/LeviesReport/20240213/LevySummaryTotals-1.png "Levy totals")
+
+![Enrichment levy totals, higher group](pagesManual/LeviesReport/20240213/LevySummaryTotals-2.png "Levy totals")
 
 ### Average annual enrichment levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
-![Average annual enrichment levy cost for example properties](pagesManual/LeviesReport/20240213/LevySummaryParcels.png "Levy average annual cost")
+![Average annual enrichment levy cost for example properties, lower group](pagesManual/LeviesReport/20240213/LevySummaryParcels-1.png "Levy average annual cost")
+
+![Average annual enrichment levy cost for example properties, higher group](pagesManual/LeviesReport/20240213/LevySummaryParcels-2.png "Levy average annual cost")
 
 ___
 
@@ -79,9 +83,13 @@ ___
 ## Measure details
 
 ### All measures (bonds, enrichment levies, capital levies) by county
+[Adams](adamscountymeasures20240213)
+
 [Benton](bentoncountymeasures20240213)
 
 [Chelan](chelancountymeasures20240213)
+
+[Clallam](clallamcountymeasures20240213)
 
 [Clark](clarkcountymeasures20240213)
 
@@ -90,6 +98,8 @@ ___
 [Cowlitz](cowlitzcountymeasures20240213)
 
 [Douglas](douglascountymeasures20240213)
+
+[Franklin](franklincountymeasures20240213)
 
 [Grant](grantcountymeasures20240213)
 
@@ -109,7 +119,11 @@ ___
 
 [Okanogan](okanogancountymeasures20240213)
 
+[Pacific](pacificcountymeasures20240213)
+
 [Pierce](piercecountymeasures20240213)
+
+[Skagit](skagitcountymeasures20240213)
 
 [Snohomish](snohomishcountymeasures20240213)
 
@@ -124,6 +138,8 @@ ___
 [Whatcom](whatcomcountymeasures20240213)
 
 [Yakima](yakimacountymeasures20240213)
+
+
 
 
 ### All bonds

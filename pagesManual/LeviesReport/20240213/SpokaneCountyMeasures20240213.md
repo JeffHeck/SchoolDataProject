@@ -8,6 +8,14 @@ ___
 
 ### Central Valley SD
 
+![Central Valley SD capital levy totals chart](pagesManual/LeviesReport/20240213/CentralValleyCapital.png "Central Valley SD capital levy totals chart")
+![Central Valley SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/CentralValleyCapitalParcel.png "Central Valley SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_central_valley_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
 ![Central Valley SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CentralValleyEnrichment.png "Central Valley SD enrichment levy totals chart")
 ![Central Valley SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CentralValleyEnrichmentParcel.png "Central Valley SD enrichment  example parcel chart")
 
@@ -21,6 +29,14 @@ ___
 ![Cheney SD bond example parcel chart](pagesManual/LeviesReport/20240213/CheneyParcel.png "Cheney SD bond example parcel chart")
 
 [Link to the interactive calculator](calculator_cheney_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
+![Cheney SD capital levy totals chart](pagesManual/LeviesReport/20240213/CheneyCapital.png "Cheney SD capital levy totals chart")
+![Cheney SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/CheneyCapitalParcel.png "Cheney SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_cheney_capital_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
@@ -58,7 +74,41 @@ ___
 
 ___
 
+### Freeman SD
+
+![Freeman SD capital levy totals chart](pagesManual/LeviesReport/20240213/FreemanCapital.png "Freeman SD capital levy totals chart")
+![Freeman SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/FreemanCapitalParcel.png "Freeman SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_freeman_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
+![Freeman SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/FreemanEnrichment.png "Freeman SD enrichment levy totals chart")
+![Freeman SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/FreemanEnrichmentParcel.png "Freeman SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_freeman_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Great Northern SD
+
+![Great Northern SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GreatNorthernEnrichment.png "Great Northern SD enrichment levy totals chart")
+![Great Northern SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GreatNorthernEnrichmentParcel.png "Great Northern SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_great_northern_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Liberty SD
+
+![Liberty SD capital levy totals chart](pagesManual/LeviesReport/20240213/LibertyCapital.png "Liberty SD capital levy totals chart")
+![Liberty SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/LibertyCapitalParcel.png "Liberty SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_liberty_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 
 ![Liberty SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LibertyEnrichment.png "Liberty SD enrichment levy totals chart")
 ![Liberty SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LibertyEnrichmentParcel.png "Liberty SD enrichment  example parcel chart")
@@ -68,6 +118,14 @@ ___
 ___
 
 ### Mead SD
+
+![Mead SD capital levy totals chart](pagesManual/LeviesReport/20240213/MeadCapital.png "Mead SD capital levy totals chart")
+![Mead SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/MeadCapitalParcel.png "Mead SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_mead_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 
 ![Mead SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MeadEnrichment.png "Mead SD enrichment levy totals chart")
 ![Mead SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MeadEnrichmentParcel.png "Mead SD enrichment  example parcel chart")

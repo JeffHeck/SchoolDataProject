@@ -6,12 +6,38 @@ permalink: yakimacountymeasures20240213
 
 ___
 
+### Granger SD
+
+![Granger SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GrangerEnrichment.png "Granger SD enrichment levy totals chart")
+![Granger SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GrangerEnrichmentParcel.png "Granger SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_granger_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Mabton SD
 
 ![Mabton SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MabtonEnrichment.png "Mabton SD enrichment levy totals chart")
 ![Mabton SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MabtonEnrichmentParcel.png "Mabton SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_mabton_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
+![Mabton SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MabtonEnrichment.png "Mabton SD enrichment levy totals chart")
+![Mabton SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MabtonEnrichmentParcel.png "Mabton SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_mabton_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Sunnyside SD
+
+![Sunnyside SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SunnysideEnrichment.png "Sunnyside SD enrichment levy totals chart")
+![Sunnyside SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/SunnysideEnrichmentParcel.png "Sunnyside SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_sunnyside_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 

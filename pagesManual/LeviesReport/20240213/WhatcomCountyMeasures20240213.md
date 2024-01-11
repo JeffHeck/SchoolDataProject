@@ -6,6 +6,23 @@ permalink: whatcomcountymeasures20240213
 
 ___
 
+### Bellingham SD
+
+![Bellingham SD capital levy totals chart](pagesManual/LeviesReport/20240213/BellinghamCapital.png "Bellingham SD capital levy totals chart")
+![Bellingham SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/BellinghamCapitalParcel.png "Bellingham SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_bellingham_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
+![Bellingham SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/BellinghamEnrichment.png "Bellingham SD enrichment levy totals chart")
+![Bellingham SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BellinghamEnrichmentParcel.png "Bellingham SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_bellingham_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Blaine SD
 
 ![Blaine SD bond totals chart](pagesManual/LeviesReport/20240213/Blaine.png "Blaine SD bond totals chart")

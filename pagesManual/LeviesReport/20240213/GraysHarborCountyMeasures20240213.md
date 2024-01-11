@@ -33,3 +33,12 @@ ___
 
 ___
 
+### Oakville SD
+
+![Oakville SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/OakvilleEnrichment.png "Oakville SD enrichment levy totals chart")
+![Oakville SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/OakvilleEnrichmentParcel.png "Oakville SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_oakville_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+

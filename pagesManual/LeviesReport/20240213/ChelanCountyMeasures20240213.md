@@ -8,6 +8,14 @@ ___
 
 ### Lake Chelan SD
 
+![Lake Chelan SD capital levy totals chart](pagesManual/LeviesReport/20240213/LakeChelanCapital.png "Lake Chelan SD capital levy totals chart")
+![Lake Chelan SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/LakeChelanCapitalParcel.png "Lake Chelan SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_lake_chelan_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
 ![Lake Chelan SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LakeChelanEnrichment.png "Lake Chelan SD enrichment levy totals chart")
 ![Lake Chelan SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LakeChelanEnrichmentParcel.png "Lake Chelan SD enrichment  example parcel chart")
 
