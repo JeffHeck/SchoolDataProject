@@ -29,7 +29,10 @@ ___
 
 ## Summary
 
-In progress
+To date the following number of measures for the February 13th 2024 election have been analyzed:
+- Bonds: 18
+- Enrichment Levies: 105
+- Capital / Tech Levies: 23
 
 ___
 
