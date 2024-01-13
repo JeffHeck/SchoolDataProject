@@ -6,6 +6,15 @@ permalink: chelancountymeasures20240213
 
 ___
 
+### Cashmere SD
+
+![Cashmere SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CashmereEnrichment.png "Cashmere SD enrichment levy totals chart")
+![Cashmere SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CashmereEnrichmentParcel.png "Cashmere SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_cashmere_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Lake Chelan SD
 
 ![Lake Chelan SD capital levy totals chart](pagesManual/LeviesReport/20240213/LakeChelanCapital.png "Lake Chelan SD capital levy totals chart")

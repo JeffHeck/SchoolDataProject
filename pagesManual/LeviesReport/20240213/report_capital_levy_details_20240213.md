@@ -95,6 +95,15 @@ ___
 
 ___
 
+### Jefferson County Chimacum SD
+
+![Chimacum SD capital levy totals chart](pagesManual/LeviesReport/20240213/ChimacumCapital.png "Chimacum SD capital levy totals chart")
+![Chimacum SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/ChimacumCapitalParcel.png "Chimacum SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_chimacum_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### King County Tahoma SD
 
 ![Tahoma SD tech levy totals chart](pagesManual/LeviesReport/20240213/TahomaTech.png "Tahoma SD tech levy totals chart")
@@ -248,6 +257,24 @@ ___
 
 ___
 
+### Stevens County Chewelah SD
+
+![Chewelah SD capital levy totals chart](pagesManual/LeviesReport/20240213/ChewelahCapital.png "Chewelah SD capital levy totals chart")
+![Chewelah SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/ChewelahCapitalParcel.png "Chewelah SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_chewelah_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Stevens County Colville SD
+
+![Colville SD capital levy totals chart](pagesManual/LeviesReport/20240213/ColvilleCapital.png "Colville SD capital levy totals chart")
+![Colville SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/ColvilleCapitalParcel.png "Colville SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_colville_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Thurston County Griffin SD
 
 ![Griffin SD capital levy totals chart](pagesManual/LeviesReport/20240213/GriffinCapital.png "Griffin SD capital levy totals chart")
@@ -301,4 +328,51 @@ ___
 [Link to the interactive calculator](calculator_meridian_tech_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
+
+### Whitman County Endicott SD
+
+![Endicott SD capital levy totals chart](pagesManual/LeviesReport/20240213/EndicottCapital.png "Endicott SD capital levy totals chart")
+![Endicott SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/EndicottCapitalParcel.png "Endicott SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_endicott_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Whitman County Oakesdale SD
+
+![Oakesdale SD capital levy totals chart](pagesManual/LeviesReport/20240213/OakesdaleCapital.png "Oakesdale SD capital levy totals chart")
+![Oakesdale SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/OakesdaleCapitalParcel.png "Oakesdale SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_oakesdale_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Whitman County Pullman SD
+
+![Pullman SD tech levy totals chart](pagesManual/LeviesReport/20240213/PullmanTech.png "Pullman SD tech levy totals chart")
+![Pullman SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/PullmanTechParcel.png "Pullman SD tech levy example parcel chart")
+
+[Link to the interactive calculator](calculator_pullman_tech_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Whitman County Rosalia SD
+
+![Rosalia SD capital levy totals chart](pagesManual/LeviesReport/20240213/RosaliaCapital.png "Rosalia SD capital levy totals chart")
+![Rosalia SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/RosaliaCapitalParcel.png "Rosalia SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_rosalia_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Whitman County Tekoa SD
+
+![Tekoa SD capital levy totals chart](pagesManual/LeviesReport/20240213/TekoaCapital.png "Tekoa SD capital levy totals chart")
+![Tekoa SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/TekoaCapitalParcel.png "Tekoa SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_tekoa_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
 

@@ -15,6 +15,23 @@ ___
 
 ___
 
+
+![Bremerton SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/BremertonEnrichment.png "Bremerton SD enrichment levy totals chart")
+![Bremerton SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BremertonEnrichmentParcel.png "Bremerton SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_bremerton_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Central Kitsap SD
+
+![Central Kitsap SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CentralKitsapEnrichment.png "Central Kitsap SD enrichment levy totals chart")
+![Central Kitsap SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CentralKitsapEnrichmentParcel.png "Central Kitsap SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_central_kitsap_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### North Kitsap SD
 
 ![North Kitsap SD bond totals chart](pagesManual/LeviesReport/20240213/NorthKitsap.png "North Kitsap SD bond totals chart")

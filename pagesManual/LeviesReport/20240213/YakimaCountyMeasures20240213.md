@@ -24,14 +24,6 @@ ___
 
 ___
 
-
-![Mabton SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MabtonEnrichment.png "Mabton SD enrichment levy totals chart")
-![Mabton SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MabtonEnrichmentParcel.png "Mabton SD enrichment  example parcel chart")
-
-[Link to the interactive calculator](calculator_mabton_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
-
-___
-
 ### Sunnyside SD
 
 ![Sunnyside SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SunnysideEnrichment.png "Sunnyside SD enrichment levy totals chart")

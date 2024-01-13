@@ -62,14 +62,18 @@ ___
 Note: Approximately 100 Enrichment Levies have been analyzed so far. About 30 more are left to complete for the February 2024 election.
 
 ### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
-![Enrichment levy totals, lower group](pagesManual/LeviesReport/20240213/LevySummaryTotals-1.png "Levy totals")
+![Enrichment levy totals, group 1](pagesManual/LeviesReport/20240213/LevySummaryTotals-1.png "Levy totals")
 
-![Enrichment levy totals, higher group](pagesManual/LeviesReport/20240213/LevySummaryTotals-2.png "Levy totals")
+![Enrichment levy totals, group 2](pagesManual/LeviesReport/20240213/LevySummaryTotals-2.png "Levy totals")
+
+![Enrichment levy totals, group 3](pagesManual/LeviesReport/20240213/LevySummaryTotals-3.png "Levy totals")
 
 ### Average annual enrichment levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
-![Average annual enrichment levy cost for example properties, lower group](pagesManual/LeviesReport/20240213/LevySummaryParcels-1.png "Levy average annual cost")
+![Average annual enrichment levy cost for example properties, group 1](pagesManual/LeviesReport/20240213/LevySummaryParcels-1.png "Levy average annual cost")
 
-![Average annual enrichment levy cost for example properties, higher group](pagesManual/LeviesReport/20240213/LevySummaryParcels-2.png "Levy average annual cost")
+![Average annual enrichment levy cost for example properties, group 2](pagesManual/LeviesReport/20240213/LevySummaryParcels-2.png "Levy average annual cost")
+
+![Average annual enrichment levy cost for example properties, group 3](pagesManual/LeviesReport/20240213/LevySummaryParcels-3.png "Levy average annual cost")
 
 ___
 
@@ -102,11 +106,15 @@ ___
 
 [Douglas](douglascountymeasures20240213)
 
+[Ferry](ferrycountymeasures20240213)
+
 [Franklin](franklincountymeasures20240213)
 
 [Grant](grantcountymeasures20240213)
 
 [Grays Harbor](graysharborcountymeasures20240213)
+
+[Jefferson](jeffersoncountymeasures20240213)
 
 [King](kingcountymeasures20240213)
 
@@ -140,9 +148,9 @@ ___
 
 [Whatcom](whatcomcountymeasures20240213)
 
+[Whitman](whitmancountymeasures20240213)
+
 [Yakima](yakimacountymeasures20240213)
-
-
 
 
 ### All bonds
