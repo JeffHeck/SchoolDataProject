@@ -35,7 +35,7 @@ WA school district budget data:
 
 OSPI report card data:
 
-[OSPI Report Card](https://washingtonstatereportcard.ospi.k12.wa.us/ReportCard/ViewSchoolOrDistrict/100083)
+[OSPI Report Card](https://washingtonstatereportcard.ospi.k12.wa.us/)
 
 ## Contact Info:
 
