@@ -4,6 +4,8 @@ title: School District Tax Measures February 13th 2024
 permalink: report_levies_20240213
 ---
 
+Last updated: January 13th, 2024
+
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
@@ -29,10 +31,21 @@ ___
 
 ## Summary
 
-To date the following number of measures for the February 13th 2024 election have been analyzed:
+Listed below are the the counts and type for the tax measures for the February 13th 2024 election that have been analyzed:
 - Bonds: 18
-- Enrichment Levies: 105
-- Capital / Tech Levies: 23
+- Enrichment Levies: 120
+- Capital / Tech Levies: 41
+
+There are at least 3 more bonds to analyze for the following school districts once these districts supply copies of their bond/levy projection datasheets:
+- Benton County, Paterson SD
+- Lewis County, Pe Ell SD
+- Thurston County, Rochester SD
+
+The following counties have yet to post or supply copies of their districts' tax measure resolutions:
+- Adams
+- Grays Harbor
+- Skamania
+
 
 ___
 
