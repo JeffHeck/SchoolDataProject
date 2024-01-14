@@ -24,6 +24,8 @@
 	totalBondInterestParcel = 0;
 	bondYears = 22;
 	averageTotalBondCostParcel = 0;
+	// Correction factor for February elections
+	pofYear = 1
 
 	// POF Annual Change Percent
 	pofAdjust = 0;
@@ -73,7 +75,7 @@
 		totalBondPrincipalParcel = 0;
 		totalBondInterestParcel = 0;
 		for (let i = 0; i < bondYears; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i);
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i + pofYear);
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
 			dataParcel.setCell(i, 2, data.getValue(i, 2) * sampleParcelPOFEffective);
@@ -204,11 +206,11 @@
 		data5Parcel.addColumn('number', 'State School');
 		data5Parcel.addColumn('number', 'Non School');
 
-		data5Parcel.addRows(bondYears + 1);
+		data5Parcel.addRows(bondYears + 1 + pofYear);
 
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < bondYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+		for (let i = 0; i < bondYears + 1 + pofYear; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i + pofYear);
 			data5Parcel.setCell(i, 0, data5.getValue(i, 0));
 			data5Parcel.setCell(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
 			data5Parcel.setCell(i, 2, data5.getValue(i, 2) * sampleParcelPOFEffective);
@@ -314,11 +316,11 @@
 		data6Parcel.addColumn('number', 'State School');
 		data6Parcel.addColumn('number', 'Non School');
 
-		data6Parcel.addRows(bondYears + 1);
+		data6Parcel.addRows(bondYears + 1 + pofYear);
 
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < bondYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+		for (let i = 0; i < bondYears + 1 + pofYear; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i + pofYear);
 			data6Parcel.setCell(i, 0, data6.getValue(i, 0));
 			data6Parcel.setCell(i, 1, data6.getValue(i, 1) * sampleParcelPOFEffective);
 			data6Parcel.setCell(i, 2, data6.getValue(i, 2) * 0); // New bond set to 0
@@ -386,7 +388,7 @@
 		totalBondPrincipalParcel = 0;
 		totalBondInterestParcel = 0;
 		for (let i = 0; i < bondYears; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i);
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i + pofYear);
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
 			dataParcel.setCell(i, 2, data.getValue(i, 2) * sampleParcelPOFEffective);
@@ -413,8 +415,8 @@
 
 		// Update chart 5
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < bondYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+		for (let i = 0; i < bondYears + 1 + pofYear; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i + pofYear);
 			data5Parcel.setValue(i, 0, data5.getValue(i, 0));
 			data5Parcel.setValue(i, 1, data5.getValue(i, 1) * sampleParcelPOFEffective);
 			data5Parcel.setValue(i, 2, data5.getValue(i, 2) * sampleParcelPOFEffective);
@@ -449,8 +451,8 @@
 		
 		// Update chart 6
 		sampleParcelPOFEffective = sampleParcelPOF;
-		for (let i = 0; i < bondYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i);
+		for (let i = 0; i < bondYears + 1 + pofYear; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (i + pofYear);
 			data6Parcel.setValue(i, 0, data6.getValue(i, 0));
 			data6Parcel.setValue(i, 1, data6.getValue(i, 1) * sampleParcelPOFEffective);
 			data6Parcel.setValue(i, 2, data6.getValue(i, 2) * 0); // New bond set to 0
