@@ -4,7 +4,7 @@ title: School District Tax Measures February 13th 2024
 permalink: report_levies_20240213
 ---
 
-Last updated: January 13th, 2024
+Last updated: January 14th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -41,7 +41,7 @@ As of 1/13/24, there are at least 3 more bonds to analyze for the following scho
 - Lewis County, Pe Ell SD
 - Thurston County, Rochester SD
 
-As of 1/13/24, the following counties have yet to post or supply copies of their districts' tax measure resolutions:
+As of 1/13/24, the following counties have yet to post or supply copies of their districts' expected tax measure resolutions:
 - Adams
 - Grays Harbor
 - Skamania
@@ -71,8 +71,6 @@ See the Calculator Methodology section below for more details.
 ___
 
 ## Enrichment levy summary
-
-Note: Approximately 100 Enrichment Levies have been analyzed so far. About 30 more are left to complete for the February 2024 election.
 
 ### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
 ![Enrichment levy totals, group 1](pagesManual/LeviesReport/20240213/LevySummaryTotals-1.png "Levy totals")
