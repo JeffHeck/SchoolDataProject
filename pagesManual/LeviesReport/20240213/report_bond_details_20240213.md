@@ -5,6 +5,15 @@ permalink: report_bond_details_20240213
 ---
 
 
+### Benton County Paterson SD
+
+![Paterson SD bond totals chart](pagesManual/LeviesReport/20240213/Paterson.png "Paterson SD bond totals chart")
+![Paterson SD bond example parcel chart](pagesManual/LeviesReport/20240213/PatersonParcel.png "Paterson SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_paterson_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Douglas County Eastmont SD
 
 ![Eastmont SD bond totals chart](pagesManual/LeviesReport/20240213/Eastmont.png "Eastmont SD bond totals chart")
