@@ -4,7 +4,7 @@ title: School District Tax Measures February 13th 2024
 permalink: report_levies_20240213
 ---
 
-Last updated: January 14th, 2024
+Last updated: January 16th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -36,14 +36,12 @@ Listed below are the the types and counts for the tax measures for the February 
 - Enrichment Levies: 120
 - Capital / Tech Levies: 41
 
-As of 1/13/24, there are at least 3 more bonds to analyze for the following school districts once these districts supply requested copies of their bond/levy projection datasheets:
-- Benton County, Paterson SD
+As of 1/16/24, there are at least 3 more bonds to analyze for the following school districts once these districts supply requested copies of their bond/levy projection datasheets:
 - Lewis County, Pe Ell SD
 - Thurston County, Rochester SD
 
-As of 1/13/24, the following counties have yet to post or supply copies of their districts' expected tax measure resolutions:
+As of 1/16/24, the following counties have yet to post or supply copies of their districts' expected tax measure resolutions:
 - Adams
-- Grays Harbor
 - Skamania
 
 
@@ -182,11 +180,11 @@ ___
 
 ## Calculator methodology
 
-School district reps usually think they need to correctly guess the future 
-Total AV for their district's tax area for each of the future years of their tax measures. Their assumption is incorrect and misleads voters/taxpayers. 
-And district reps' incorrect logic usually leads to underestimating the true costs of their measures to taxpayers.
+School district reps often think and say they need to correctly guess the future 
+Total AV for their district's tax area for each of the future years of their tax measures. Their assumption is incorrect and ends up misleading voters/taxpayers. 
+And district reps' incorrect logic also usually leads to underestimating the true costs of their measures to taxpayers.
 
-For these property tax impact estimate calculators, the author uses a Proportional Obligation Factor (POF) method. 
+In contrast, for the property tax impact estimate calculators on this website, the author uses a Proportional Obligation Factor (POF) method. 
 
 Using the 2023 Total District Assessed Value (AV), the POF of the example property was calculated:
 
