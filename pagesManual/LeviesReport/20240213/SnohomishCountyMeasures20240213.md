@@ -40,6 +40,14 @@ ___
 
 ___
 
+
+![Edmonds SD tech levy totals chart](pagesManual/LeviesReport/20240213/EdmondsTech.png "Edmonds SD tech levy totals chart")
+![Edmonds SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/EdmondsTechParcel.png "Edmonds SD tech  example parcel chart")
+
+[Link to the interactive calculator](calculator_edmonds_tech_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Lakewood SD
 
 ![Lakewood SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LakewoodEnrichment.png "Lakewood SD enrichment levy totals chart")

@@ -212,6 +212,15 @@ ___
 
 ___
 
+### Snohomish County Edmonds SD
+
+![Edmonds SD tech levy totals chart](pagesManual/LeviesReport/20240213/EdmondsTech.png "Edmonds SD tech levy totals chart")
+![Edmonds SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/EdmondsTechParcel.png "Edmonds SD tech levy example parcel chart")
+
+[Link to the interactive calculator](calculator_edmonds_tech_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Spokane County Central Valley SD
 
 ![Central Valley SD capital levy totals chart](pagesManual/LeviesReport/20240213/CentralValleyCapital.png "Central Valley SD capital levy totals chart")
@@ -373,6 +382,4 @@ ___
 [Link to the interactive calculator](calculator_tekoa_capital_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
-
-
 

@@ -34,7 +34,7 @@ ___
 Listed below are the the types and counts for the tax measures for the February 13th 2024 election that have been analyzed to date:
 - Bonds: 19
 - Enrichment Levies: 120
-- Capital / Tech Levies: 41
+- Capital / Tech Levies: 42
 
 As of 1/16/24, there are at least 2 more bonds to analyze for the following school districts once these districts supply requested copies of their bond/levy projection datasheets:
 - Lewis County, Pe Ell SD
