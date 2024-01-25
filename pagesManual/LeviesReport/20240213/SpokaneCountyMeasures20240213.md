@@ -186,12 +186,12 @@ ___
 
 ___
 
-### West Valley SD
+### West Valley Spokane SD
 
-![West Valley SD bond totals chart](pagesManual/LeviesReport/20240213/WestValley.png "West Valley SD bond totals chart")
-![West Valley SD bond example parcel chart](pagesManual/LeviesReport/20240213/WestValleyParcel.png "West Valley SD bond example parcel chart")
+![West Valley Spokane SD bond totals chart](pagesManual/LeviesReport/20240213/WestValleySpokane.png "West Valley Spokane SD bond totals chart")
+![West Valley Spokane SD bond example parcel chart](pagesManual/LeviesReport/20240213/WestValleySpokaneParcel.png "West Valley Spokane SD bond example parcel chart")
 
-[Link to the interactive calculator](calculator_west_valley_20240213_enhanced){:target="_blank" rel="noopener"}
+[Link to the interactive calculator](calculator_west_valley_spokane_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
