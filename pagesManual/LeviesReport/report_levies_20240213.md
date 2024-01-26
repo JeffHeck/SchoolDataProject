@@ -4,7 +4,7 @@ title: School District Tax Measures February 13th 2024
 permalink: report_levies_20240213
 ---
 
-Last updated: January 17th, 2024
+Last updated: January 26th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -36,14 +36,9 @@ Listed below are the the types and counts for the tax measures for the February 
 - Enrichment Levies: 120
 - Capital / Tech Levies: 42
 
-As of 1/16/24, there are at least 2 more bonds to analyze for the following school districts once these districts supply requested copies of their bond/levy projection datasheets:
+As of 1/26/24, there are 2 more bonds to analyze for the following school districts:
 - Lewis County, Pe Ell SD
 - Thurston County, Rochester SD
-
-As of 1/16/24, the following counties have yet to post or supply copies of their districts' expected tax measure resolutions:
-- Adams
-- Skamania
-
 
 ___
 
