@@ -1,10 +1,3 @@
----
-layout: page
-title: School District Bond Details February 13th 2024
-permalink: report_bond_details_20240213
----
-
-
 ### Benton County Paterson SD
 
 ![Paterson SD bond totals chart](pagesManual/LeviesReport/20240213/Paterson.png "Paterson SD bond totals chart")

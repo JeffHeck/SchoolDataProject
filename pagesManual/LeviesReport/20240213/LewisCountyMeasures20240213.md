@@ -50,6 +50,15 @@ ___
 
 ___
 
+### Pe Ell SD
+
+![Pe Ell SD bond totals chart](pagesManual/LeviesReport/20240213/PeEll.png "Pe Ell SD bond totals chart")
+![Pe Ell SD bond example parcel chart](pagesManual/LeviesReport/20240213/PeEllParcel.png "Pe Ell SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_pe_ell_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Toledo SD
 
 ![Toledo SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/ToledoEnrichment.png "Toledo SD enrichment levy totals chart")

@@ -195,7 +195,6 @@ ___
 
 ___
 
-### West Valley Spokane SD
 
 ![West Valley Spokane SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/WestValleySpokaneEnrichment.png "West Valley Spokane SD enrichment levy totals chart")
 ![West Valley Spokane SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/WestValleySpokaneEnrichmentParcel.png "West Valley Spokane SD enrichment  example parcel chart")
