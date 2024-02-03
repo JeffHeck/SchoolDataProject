@@ -1031,6 +1031,15 @@ ___
 
 ___
 
+### Whitman County St John SD
+
+![St John SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/StJohnEnrichment.png "St John SD enrichment levy totals chart")
+![St John SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/StJohnEnrichmentParcel.png "St John SD enrichment levy example parcel chart")
+
+[Link to the interactive calculator](calculator_st_john_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Whitman County Steptoe SD
 
 ![Steptoe SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SteptoeEnrichment.png "Steptoe SD enrichment levy totals chart")

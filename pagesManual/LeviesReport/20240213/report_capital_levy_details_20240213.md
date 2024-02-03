@@ -374,6 +374,15 @@ ___
 
 ___
 
+### Whitman County St John SD
+
+![St John SD capital levy totals chart](pagesManual/LeviesReport/20240213/StJohnCapital.png "St John SD capital levy totals chart")
+![St John SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/StJohnCapitalParcel.png "St John SD capital levy example parcel chart")
+
+[Link to the interactive calculator](calculator_st_john_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Whitman County Tekoa SD
 
 ![Tekoa SD capital levy totals chart](pagesManual/LeviesReport/20240213/TekoaCapital.png "Tekoa SD capital levy totals chart")

@@ -84,6 +84,23 @@ ___
 
 ___
 
+### St John SD
+
+![St John SD capital levy totals chart](pagesManual/LeviesReport/20240213/StJohnCapital.png "St John SD capital levy totals chart")
+![St John SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/StJohnCapitalParcel.png "St John SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_st_john_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
+![St John SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/StJohnEnrichment.png "St John SD enrichment levy totals chart")
+![St John SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/StJohnEnrichmentParcel.png "St John SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_st_john_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Steptoe SD
 
 ![Steptoe SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SteptoeEnrichment.png "Steptoe SD enrichment levy totals chart")
