@@ -6,6 +6,15 @@ permalink: pacificcountymeasures20240213
 
 ___
 
+### Naselle-Grays River Valley SD
+
+![Naselle-Grays River Valley SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/Naselle-GraysRiverValleyEnrichment.png "Naselle-Grays River Valley SD enrichment levy totals chart")
+![Naselle-Grays River Valley SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/Naselle-GraysRiverValleyEnrichmentParcel.png "Naselle-Grays River Valley SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_naselle-grays_river_valley_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Ocean Beach SD
 
 ![Ocean Beach SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/OceanBeachEnrichment.png "Ocean Beach SD enrichment levy totals chart")
