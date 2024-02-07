@@ -38,7 +38,7 @@ Listed below are the the types and counts for the tax measures for the February 
 
 Remaining levies to analyze: 9
 
-Local voters' pamphlet statistics:
+### Local voters' pamphlet (LVP) statistics:
 - Bonds
     - Number of bonds =  21
     - Number of bonds with pro statements =  18
@@ -50,6 +50,13 @@ Local voters' pamphlet statistics:
     - Number of levies with pro statements =  138
     - Number of levies with con statements =  41
     - Number of levies with phony con statements =  3
+
+LVP pro/con statement statistics by county
+
+![Percent of tax measures with LVP pro statements by county](pagesManual/LeviesReport/20240213/CountyLVPPro.png "LVP Pro Statements")
+
+![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20240213/CountyLVPCon.png "LVP Con Statements")
+
 	
 ___
 
