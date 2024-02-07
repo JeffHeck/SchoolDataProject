@@ -17,7 +17,7 @@
 	totalLevyCost = 39000000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 6;
+	levyYears = 4;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// POF Annual Change Percent
 	pofAdjust = 0;
@@ -37,8 +37,6 @@
 			['2026', 6000000],
 			['2027', 7000000],
 			['2028', 7500000],
-			['2029', 7000000],
-			['2030', 6500000],
 
 		]);
 
@@ -101,7 +99,7 @@
 		table_data.addColumn('number', 'New');
 		table_data.addRows([
 			['Total cost', totalLevyCostParcel],
-			['Average cost per year for 6 years', averageTotalLevyCostParcel],
+			['Average cost per year for 4 years', averageTotalLevyCostParcel],
 		
 		]);
 

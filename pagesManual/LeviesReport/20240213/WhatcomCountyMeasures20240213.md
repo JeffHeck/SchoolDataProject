@@ -85,10 +85,27 @@ ___
 
 ### Mount Baker SD
 
+![Mount Baker SD capital levy totals chart](pagesManual/LeviesReport/20240213/MountBakerCapital.png "Mount Baker SD capital levy totals chart")
+![Mount Baker SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/MountBakerCapitalParcel.png "Mount Baker SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_mount_baker_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
 ![Mount Baker SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MountBakerEnrichment.png "Mount Baker SD enrichment levy totals chart")
 ![Mount Baker SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MountBakerEnrichmentParcel.png "Mount Baker SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_mount_baker_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+### Nooksack Valley SD
+
+![Nooksack Valley SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/NooksackValleyEnrichment.png "Nooksack Valley SD enrichment levy totals chart")
+![Nooksack Valley SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/NooksackValleyEnrichmentParcel.png "Nooksack Valley SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_nooksack_valley_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 

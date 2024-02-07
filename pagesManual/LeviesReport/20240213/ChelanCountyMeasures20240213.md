@@ -15,6 +15,15 @@ ___
 
 ___
 
+### Entiat SD
+
+![Entiat SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/EntiatEnrichment.png "Entiat SD enrichment levy totals chart")
+![Entiat SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/EntiatEnrichmentParcel.png "Entiat SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_entiat_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Lake Chelan SD
 
 ![Lake Chelan SD capital levy totals chart](pagesManual/LeviesReport/20240213/LakeChelanCapital.png "Lake Chelan SD capital levy totals chart")

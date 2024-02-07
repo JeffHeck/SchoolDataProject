@@ -17,6 +17,14 @@ ___
 
 ### Prosser SD
 
+![Prosser SD capital levy totals chart](pagesManual/LeviesReport/20240213/ProsserCapital.png "Prosser SD capital levy totals chart")
+![Prosser SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/ProsserCapitalParcel.png "Prosser SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_prosser_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
 ![Prosser SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/ProsserEnrichment.png "Prosser SD enrichment levy totals chart")
 ![Prosser SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/ProsserEnrichmentParcel.png "Prosser SD enrichment  example parcel chart")
 

@@ -15,14 +15,6 @@ ___
 
 ___
 
-
-![Grapeview SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GrapeviewEnrichment.png "Grapeview SD enrichment levy totals chart")
-![Grapeview SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GrapeviewEnrichmentParcel.png "Grapeview SD enrichment  example parcel chart")
-
-[Link to the interactive calculator](calculator_grapeview_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
-
-___
-
 ### Hood Canal SD
 
 ![Hood Canal SD bond totals chart](pagesManual/LeviesReport/20240213/HoodCanal.png "Hood Canal SD bond totals chart")

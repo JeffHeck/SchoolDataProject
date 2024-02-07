@@ -23,15 +23,6 @@ ___
 
 ___
 
-### Columbia Stevens SD
-
-![Columbia Stevens SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/ColumbiaStevensEnrichment.png "Columbia Stevens SD enrichment levy totals chart")
-![Columbia Stevens SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/ColumbiaStevensEnrichmentParcel.png "Columbia Stevens SD enrichment  example parcel chart")
-
-[Link to the interactive calculator](calculator_columbia_stevens_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
-
-___
-
 ### Colville SD
 
 ![Colville SD capital levy totals chart](pagesManual/LeviesReport/20240213/ColvilleCapital.png "Colville SD capital levy totals chart")

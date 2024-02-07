@@ -28,6 +28,8 @@
 
 [Kitsap](kitsapcountymeasures20240213)
 
+[Kittitas](kittitascountymeasures20240213)
+
 [Klickitat](klickitatcountymeasures20240213)
 
 [Lewis](lewiscountymeasures20240213)
@@ -41,6 +43,8 @@
 [Pacific](pacificcountymeasures20240213)
 
 [Pierce](piercecountymeasures20240213)
+
+[San Juan](sanjuancountymeasures20240213)
 
 [Skagit](skagitcountymeasures20240213)
 

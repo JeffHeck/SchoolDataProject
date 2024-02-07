@@ -17,6 +17,14 @@ ___
 
 ### Camas SD
 
+![Camas SD capital levy totals chart](pagesManual/LeviesReport/20240213/CamasCapital.png "Camas SD capital levy totals chart")
+![Camas SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/CamasCapitalParcel.png "Camas SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_camas_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
 ![Camas SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/CamasEnrichment.png "Camas SD enrichment levy totals chart")
 ![Camas SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/CamasEnrichmentParcel.png "Camas SD enrichment  example parcel chart")
 
@@ -24,20 +32,12 @@ ___
 
 ___
 
+### Green Mountan SD
 
-![Camas SD tech levy totals chart](pagesManual/LeviesReport/20240213/CamasTech.png "Camas SD tech levy totals chart")
-![Camas SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/CamasTechParcel.png "Camas SD tech  example parcel chart")
+![Green Mountan SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GreenMountanEnrichment.png "Green Mountan SD enrichment levy totals chart")
+![Green Mountan SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GreenMountanEnrichmentParcel.png "Green Mountan SD enrichment  example parcel chart")
 
-[Link to the interactive calculator](calculator_camas_tech_20240213_enhanced){:target="_blank" rel="noopener"}
-
-___
-
-### Green Mountain SD
-
-![Green Mountain SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/GreenMountainEnrichment.png "Green Mountain SD enrichment levy totals chart")
-![Green Mountain SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/GreenMountainEnrichmentParcel.png "Green Mountain SD enrichment  example parcel chart")
-
-[Link to the interactive calculator](calculator_green_mountain_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+[Link to the interactive calculator](calculator_green_mountan_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 

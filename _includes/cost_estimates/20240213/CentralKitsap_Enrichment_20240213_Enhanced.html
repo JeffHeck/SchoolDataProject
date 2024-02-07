@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 13103294359;
+	totalLevyAV = 13118108614;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
 	totalLevyCost = 69000000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 3;
+	levyYears = 4;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 59094874;
+	totalLevyPriorCost = 74151089.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,12 +37,14 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2022', 16527510, 0],
-			['2023', 19517933, 0],
-			['2024', 23049431, 0],
+			['2021', 14993649, 0],
+			['2022', 16552042, 0],
+			['2023', 19539422, 0],
+			['2024', 23065976, 0],
 			['2025', 0, 23000000],
 			['2026', 0, 23000000],
 			['2027', 0, 23000000],
+			['2028', 0, 0],
 
 		]);
 
@@ -113,7 +115,7 @@
 		table_data.addColumn('number', 'Percent Change');
 		table_data.addRows([
 			['Total cost', totalLevyPriorCostParcel, totalLevyCostParcel, totalLevyCostParcel-totalLevyPriorCostParcel, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100],
-			['Average cost per year for 3 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
+			['Average cost per year for 4 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
 		
 		]);
 

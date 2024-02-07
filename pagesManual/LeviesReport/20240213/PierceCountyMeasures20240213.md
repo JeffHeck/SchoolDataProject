@@ -50,6 +50,15 @@ ___
 
 ___
 
+### Puyallup SD
+
+![Puyallup SD capital levy totals chart](pagesManual/LeviesReport/20240213/PuyallupCapital.png "Puyallup SD capital levy totals chart")
+![Puyallup SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/PuyallupCapitalParcel.png "Puyallup SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_puyallup_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Sumner SD
 
 ![Sumner SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/SumnerEnrichment.png "Sumner SD enrichment levy totals chart")

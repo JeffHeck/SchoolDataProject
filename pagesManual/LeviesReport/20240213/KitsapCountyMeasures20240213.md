@@ -6,6 +6,23 @@ permalink: kitsapcountymeasures20240213
 
 ___
 
+### Bainbridge Island SD
+
+![Bainbridge Island SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/BainbridgeIslandEnrichment.png "Bainbridge Island SD enrichment levy totals chart")
+![Bainbridge Island SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/BainbridgeIslandEnrichmentParcel.png "Bainbridge Island SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_bainbridge_island_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
+![Bainbridge Island SD tech levy totals chart](pagesManual/LeviesReport/20240213/BainbridgeIslandTech.png "Bainbridge Island SD tech levy totals chart")
+![Bainbridge Island SD tech levy example parcel chart](pagesManual/LeviesReport/20240213/BainbridgeIslandTechParcel.png "Bainbridge Island SD tech  example parcel chart")
+
+[Link to the interactive calculator](calculator_bainbridge_island_tech_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Bremerton SD
 
 ![Bremerton SD bond totals chart](pagesManual/LeviesReport/20240213/Bremerton.png "Bremerton SD bond totals chart")

@@ -65,15 +65,6 @@ ___
 
 ___
 
-### East Valley Spokane SD
-
-![East Valley Spokane SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/EastValleySpokaneEnrichment.png "East Valley Spokane SD enrichment levy totals chart")
-![East Valley Spokane SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/EastValleySpokaneEnrichmentParcel.png "East Valley Spokane SD enrichment  example parcel chart")
-
-[Link to the interactive calculator](calculator_east_valley_spokane_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
-
-___
-
 ### Freeman SD
 
 ![Freeman SD capital levy totals chart](pagesManual/LeviesReport/20240213/FreemanCapital.png "Freeman SD capital levy totals chart")
@@ -136,19 +127,18 @@ ___
 
 ### Medical Lake SD
 
+![Medical Lake SD capital levy totals chart](pagesManual/LeviesReport/20240213/MedicalLakeCapital.png "Medical Lake SD capital levy totals chart")
+![Medical Lake SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/MedicalLakeCapitalParcel.png "Medical Lake SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_medical_lake_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
+
 ![Medical Lake SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/MedicalLakeEnrichment.png "Medical Lake SD enrichment levy totals chart")
 ![Medical Lake SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/MedicalLakeEnrichmentParcel.png "Medical Lake SD enrichment  example parcel chart")
 
 [Link to the interactive calculator](calculator_medical_lake_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
-
-___
-
-### Nine Mile Falls SD
-
-![Nine Mile Falls SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/NineMileFallsEnrichment.png "Nine Mile Falls SD enrichment levy totals chart")
-![Nine Mile Falls SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/NineMileFallsEnrichmentParcel.png "Nine Mile Falls SD enrichment  example parcel chart")
-
-[Link to the interactive calculator](calculator_nine_mile_falls_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
@@ -192,14 +182,6 @@ ___
 ![West Valley Spokane SD bond example parcel chart](pagesManual/LeviesReport/20240213/WestValleySpokaneParcel.png "West Valley Spokane SD bond example parcel chart")
 
 [Link to the interactive calculator](calculator_west_valley_spokane_20240213_enhanced){:target="_blank" rel="noopener"}
-
-___
-
-
-![West Valley Spokane SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/WestValleySpokaneEnrichment.png "West Valley Spokane SD enrichment levy totals chart")
-![West Valley Spokane SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/WestValleySpokaneEnrichmentParcel.png "West Valley Spokane SD enrichment  example parcel chart")
-
-[Link to the interactive calculator](calculator_west_valley_spokane_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 

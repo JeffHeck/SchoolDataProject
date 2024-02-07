@@ -24,6 +24,15 @@ ___
 
 ___
 
+### Queets-Clearwater SD
+
+![Queets-Clearwater SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/Queets-ClearwaterEnrichment.png "Queets-Clearwater SD enrichment levy totals chart")
+![Queets-Clearwater SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/Queets-ClearwaterEnrichmentParcel.png "Queets-Clearwater SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_queets-clearwater_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Quilcene SD
 
 ![Quilcene SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/QuilceneEnrichment.png "Quilcene SD enrichment levy totals chart")

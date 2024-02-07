@@ -41,6 +41,15 @@ ___
 
 ___
 
+### LaCrosse SD
+
+![LaCrosse SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/LaCrosseEnrichment.png "LaCrosse SD enrichment levy totals chart")
+![LaCrosse SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/LaCrosseEnrichmentParcel.png "LaCrosse SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_lacrosse_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Oakesdale SD
 
 ![Oakesdale SD capital levy totals chart](pagesManual/LeviesReport/20240213/OakesdaleCapital.png "Oakesdale SD capital levy totals chart")
@@ -84,20 +93,20 @@ ___
 
 ___
 
-### St John SD
+### St. John SD
 
-![St John SD capital levy totals chart](pagesManual/LeviesReport/20240213/StJohnCapital.png "St John SD capital levy totals chart")
-![St John SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/StJohnCapitalParcel.png "St John SD capital  example parcel chart")
+![St. John SD capital levy totals chart](pagesManual/LeviesReport/20240213/St.JohnCapital.png "St. John SD capital levy totals chart")
+![St. John SD capital levy example parcel chart](pagesManual/LeviesReport/20240213/St.JohnCapitalParcel.png "St. John SD capital  example parcel chart")
 
-[Link to the interactive calculator](calculator_st_john_capital_20240213_enhanced){:target="_blank" rel="noopener"}
+[Link to the interactive calculator](calculator_st._john_capital_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
 
-![St John SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/StJohnEnrichment.png "St John SD enrichment levy totals chart")
-![St John SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/StJohnEnrichmentParcel.png "St John SD enrichment  example parcel chart")
+![St. John SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/St.JohnEnrichment.png "St. John SD enrichment levy totals chart")
+![St. John SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/St.JohnEnrichmentParcel.png "St. John SD enrichment  example parcel chart")
 
-[Link to the interactive calculator](calculator_st_john_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+[Link to the interactive calculator](calculator_st._john_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
