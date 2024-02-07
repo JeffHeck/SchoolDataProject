@@ -4,7 +4,7 @@ title: School District Tax Measures February 13th 2024
 permalink: report_levies_20240213
 ---
 
-Last updated: February 6th, 2024
+Last updated: February 7th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -36,6 +36,21 @@ Listed below are the the types and counts for the tax measures for the February 
 - Enrichment Levies: 129
 - Capital / Tech Levies: 52
 
+Remaining levies to analyze: 9
+
+Local voters' pamphlet statistics:
+- Bonds
+    - Number of bonds =  21
+    - Number of bonds with pro statements =  18
+    - Number of bonds with con statements =  6
+    - Number of bonds with phony con statements =  0
+
+- Enrichment, capital and tech levies
+    - Number of levies =  190
+    - Number of levies with pro statements =  138
+    - Number of levies with con statements =  41
+    - Number of levies with phony con statements =  3
+	
 ___
 
 ## Bond summary
