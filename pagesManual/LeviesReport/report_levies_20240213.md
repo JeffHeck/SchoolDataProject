@@ -251,9 +251,10 @@ For any particular future year:
 
 (2) {Tax Rate For The Year} = {Known Total Tax To Collect For The Year} / {Total AV For The Year}
 
-The apparent problem is that the {Property’s AV For The Year} is not known and the {Total AV For The Year} is not known.
+The apparent problem is that the {Property’s AV For The Year} is not known and the {Total AV For The Year} is not known. 
+That's 2 unknowns. But we have 2 independent equations. 2 equations, 2 unknowns. Algebra to the rescue.
 
-But we can substitute {Tax Rate For The Year} from (2) into (1)
+We can substitute {Tax Rate For The Year} from (2) into (1)
 
 (1a)  {Tax For An Individual Property For The Year} = {Known Total Tax To Collect For The Year} / {Total AV For The Year} X {Property’s AV For The Year}
 
@@ -278,5 +279,7 @@ financial analysis, and ethical behavior.
 
 Voters/taxpayers are voting on amounts in dollars - not guesstimated, inaccurate, future tax rates. 
 
+If school districts still want to show future rates for their new measures, they should then assume no change in Total AV from the current year and THEN calculate their future rates. Citizens can then calculate their 
+future levy amounts based on the value of their properties' current year AV. 
 ___
 
