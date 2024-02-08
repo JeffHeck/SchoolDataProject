@@ -10,6 +10,8 @@ As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
+    - Overview
+    - Local voters' pamphlet (LVP) statistics
 - Bond summary
     - Total bond cost to local taxpayers
 	- Total bond cost to owners of properties with 2023 assessed values of $500,000
@@ -30,7 +32,7 @@ As analyses are completed, summary results will be provided on this page.
 ___
 
 ## Summary
-
+### Overview
 Listed below are the the types and counts for the tax measures for the February 13th 2024 election that have been analyzed to date:
 - Bonds: 21
 - Enrichment Levies: 129
@@ -38,7 +40,7 @@ Listed below are the the types and counts for the tax measures for the February 
 
 Remaining levies to analyze: 9
 
-### Local voters' pamphlet (LVP) statistics:
+### Local voters' pamphlet (LVP) statistics
 - Bonds
     - Number of bonds =  21
     - Number of bonds with pro statements =  18
@@ -274,7 +276,7 @@ and in their campaign materials.
 That practice misleads voters. School districts, of all institutions, should teach and practice proper logic and mathematics, accurate 
 financial analysis, and ethical behavior. 
 
-Voters/taxpayers are voting on amounts in dollars - not guesstimated, inaccurate future tax rates. 
+Voters/taxpayers are voting on amounts in dollars - not guesstimated, inaccurate, future tax rates. 
 
 ___
 
