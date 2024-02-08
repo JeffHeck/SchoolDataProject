@@ -1,0 +1,64 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['table']});
+      google.charts.setOnLoadCallback(drawTable);
+
+      function drawTable() {
+      function drawTable() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'County');
+        data.addColumn('string', 'Count');
+        data.addColumn('number', 'Pro Count');
+        data.addColumn('number', 'Con Count');
+        data.addColumn('number', 'Phony Con Count');
+        data.addColumn('number', 'Pro Percent');
+        data.addColumn('number', 'Con Percent');
+        data.addColumn('number', 'Phony Con Percent');
+        data.addRows([
+:'0'},{v: 0, f:'0'},{v: 0, f:'0'},],
+          ['Benton', {v: 3, f:'3'},{v: 2, f:'2'},{v: 0, f:'0'},{v: 66, f:'67'},{v: 0, f:'0'},],
+          ['Chelan', {v: 4, f:'4'},{v: 4, f:'4'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+          ['Clallam', {v: 3, f:'3'},{v: 2, f:'2'},{v: 0, f:'0'},{v: 66, f:'67'},{v: 0, f:'0'},],
+          ['Clark', {v: 4, f:'4'},{v: 4, f:'4'},{v: 4, f:'4'},{v: 100, f:'100'},{v: 100, f:'100'},],
+          ['Columbia', {v: 2, f:'2'},{v: 2, f:'2'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+          ['Cowlitz', {v: 5, f:'5'},{v: 5, f:'5'},{v: 4, f:'4'},{v: 100, f:'100'},{v: 80, f:'80'},],
+          ['Douglas', {v: 6, f:'6'},{v: 6, f:'6'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+          ['Ferry', {v: 2, f:'2'},{v: 1, f:'1'},{v: 0, f:'0'},{v: 50, f:'50'},{v: 0, f:'0'},],
+          ['Franklin', {v: 2, f:'2'},{v: 0, f:'0'},{v: 0, f:'0'},{v: 0, f:'0'},{v: 0, f:'0'},],
+          ['Grant', {v: 8, f:'8'},{v: 3, f:'3'},{v: 0, f:'0'},{v: 37, f:'38'},{v: 0, f:'0'},],
+          ['Grays Harbor', {v: 11, f:'11'},{v: 7, f:'7'},{v: 1, f:'1'},{v: 63, f:'64'},{v: 9, f:'9'},],
+          ['Jefferson', {v: 4, f:'4'},{v: 1, f:'1'},{v: 1, f:'1'},{v: 25, f:'25'},{v: 25, f:'25'},],
+          ['King', {v: 6, f:'6'},{v: 6, f:'6'},{v: 6, f:'6'},{v: 100, f:'100'},{v: 100, f:'100'},],
+          ['Kitsap', {v: 6, f:'6'},{v: 6, f:'6'},{v: 4, f:'4'},{v: 100, f:'100'},{v: 66, f:'67'},],
+          ['Kittitas', {v: 1, f:'1'},{v: 1, f:'1'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+          ['Klickitat', {v: 5, f:'5'},{v: 3, f:'3'},{v: 5, f:'5'},{v: 60, f:'60'},{v: 100, f:'100'},],
+          ['Lewis', {v: 7, f:'7'},{v: 3, f:'3'},{v: 1, f:'1'},{v: 42, f:'43'},{v: 14, f:'14'},],
+          ['Lincoln', {v: 9, f:'9'},{v: 1, f:'1'},{v: 0, f:'0'},{v: 11, f:'11'},{v: 0, f:'0'},],
+          ['Mason', {v: 3, f:'3'},{v: 3, f:'3'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+          ['Okanogan', {v: 7, f:'7'},{v: 6, f:'6'},{v: 0, f:'0'},{v: 85, f:'86'},{v: 0, f:'0'},],
+          ['Pacific', {v: 4, f:'4'},{v: 3, f:'3'},{v: 1, f:'1'},{v: 75, f:'75'},{v: 25, f:'25'},],
+          ['Pierce', {v: 8, f:'8'},{v: 8, f:'8'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+          ['San Juan', {v: 2, f:'2'},{v: 2, f:'2'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+          ['Skagit', {v: 4, f:'4'},{v: 4, f:'4'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+          ['Snohomish', {v: 9, f:'9'},{v: 9, f:'9'},{v: 6, f:'6'},{v: 100, f:'100'},{v: 66, f:'67'},],
+          ['Spokane', {v: 23, f:'23'},{v: 21, f:'21'},{v: 3, f:'3'},{v: 91, f:'91'},{v: 13, f:'13'},],
+          ['Stevens', {v: 7, f:'7'},{v: 3, f:'3'},{v: 0, f:'0'},{v: 42, f:'43'},{v: 0, f:'0'},],
+          ['Thurston', {v: 12, f:'12'},{v: 12, f:'12'},{v: 4, f:'4'},{v: 100, f:'100'},{v: 33, f:'33'},],
+          ['Walla Walla', {v: 4, f:'4'},{v: 2, f:'2'},{v: 4, f:'4'},{v: 50, f:'50'},{v: 100, f:'100'},],
+          ['Whatcom', {v: 12, f:'12'},{v: 12, f:'12'},{v: 1, f:'1'},{v: 100, f:'100'},{v: 8, f:'8'},],
+          ['Whitman', {v: 15, f:'15'},{v: 6, f:'6'},{v: 2, f:'2'},{v: 40, f:'40'},{v: 13, f:'13'},],
+          ['Yakima', {v: 8, f:'8'},{v: 8, f:'8'},{v: 0, f:'0'},{v: 100, f:'100'},{v: 0, f:'0'},],
+        ]);
+
+        var table = new google.visualization.Table(document.getElementById('table_div'));
+
+        table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
+      }
+    </script>
+  </head>
+  <body>
+    <div id="table_div"></div>
+  </body>
+</html>
