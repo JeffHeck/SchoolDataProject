@@ -37,8 +37,8 @@
 		data.addColumn('string', 'Year');
 		data.addColumn('number', 'New Levy Amount');
 		data.addColumn('number', 'Total AV');
-		data.addColumn('number', 'Total AV Change');
-		data.addColumn('number', 'Rate');
+		data.addColumn('number', 'Total AV Change Guess');
+		data.addColumn('number', 'Resulting Rate');
 		data.addColumn('number', 'Example Property AV');
 		data.addColumn('number', 'Example Property POF');
 		data.addColumn('number', 'Example Property Levy Amount');
@@ -57,9 +57,9 @@
 		table_output = new google.visualization.DataTable();
 		table_output.addColumn('string', 'Year');
 		table_output.addColumn('number', 'Total AV');
-		table_output.addColumn('number', 'Total AV Change');
+		table_output.addColumn('number', 'Total AV Change Guess');
 		table_output.addColumn('number', 'New Levy Amount');
-		table_output.addColumn('number', 'Rate');
+		table_output.addColumn('number', 'Resulting Rate');
 		table_output.addColumn('number', 'Example Property AV');
 		table_output.addColumn('number', 'Example Property POF');
 		table_output.addColumn('number', 'Example Property New Levy Amount');
@@ -128,7 +128,7 @@
 		table_total_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_total_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_total_av_change_0_adjust_input_data.addRows([
-			['2023 to 2024 Total AV Percent Change', totalAVChange0 ],
+			['2023 to 2024 Total AV Percent Change Guess', totalAVChange0 ],
 		]);
 
 		// Total AV 1 Adjust table
@@ -137,7 +137,7 @@
 		table_total_av_change_1_adjust_input_data.addColumn('string', 'Description');
 		table_total_av_change_1_adjust_input_data.addColumn('number', 'Value');
 		table_total_av_change_1_adjust_input_data.addRows([
-			['2024 to 2025 Total AV Percent Change', totalAVChange1 ],
+			['2024 to 2025 Total AV Percent Change Guess', totalAVChange1 ],
 		]);
 
 		// Total AV 2 Adjust table
@@ -146,7 +146,7 @@
 		table_total_av_change_2_adjust_input_data.addColumn('string', 'Description');
 		table_total_av_change_2_adjust_input_data.addColumn('number', 'Value');
 		table_total_av_change_2_adjust_input_data.addRows([
-			['2025 to 2026 Total AV Percent Change', totalAVChange2 ],
+			['2025 to 2026 Total AV Percent Change Guess', totalAVChange2 ],
 		]);
 
 		// Total AV 3 Adjust table
@@ -155,7 +155,7 @@
 		table_total_av_change_3_adjust_input_data.addColumn('string', 'Description');
 		table_total_av_change_3_adjust_input_data.addColumn('number', 'Value');
 		table_total_av_change_3_adjust_input_data.addRows([
-			['2026 to 2027 Total AV Percent Change', totalAVChange3 ],
+			['2026 to 2027 Total AV Percent Change Guess', totalAVChange3 ],
 		]);
 
 		// Levy 1 output table
