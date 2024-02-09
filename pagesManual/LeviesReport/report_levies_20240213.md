@@ -265,12 +265,13 @@ Therefore:
 
 (1b) {Tax For An Individual Property For The Year} = {Known Total Tax to Collect For The Year} X {POF}
 
-POF stays relatively constant for an individual property over many years. The POF for an individual property can be accurately calculated for the current year and used for future years.
+POF stays relatively constant for an individual property over many years and regardless of how properties values are rising or falling. 
+The POF for an individual property can be accurately calculated for the current year and used for future years.
 
 Individual properties' AVs and therefore Total AVs substantially fluctuate from year to year.
 
 This is why even if guesstimated future Total AVs (and therefore future guesstimated tax rates) were accurate, they are not necessary. 
-And worse, future guesstimated tax rates can be set to almost anything by just adjusting future Total AVs. 
+And worse, future guesstimated tax rates can be set to almost anything by just adjusting the guesses for future Total AVs. 
 Select a higher future Total AV growth, then the future tax rate will be lower. Select a lower future Total AV growth, then 
 the future tax rate will be higher. However, the POF for an individual property does not change as property AVs rise or fall. 
 School districts and other taxing districts should be prohibited from stating their guesstimated future tax rates on their tax measure resolutions 
@@ -279,8 +280,15 @@ That practice misleads voters. School districts, of all institutions, should tea
 financial analysis, and ethical behavior. 
 
 Voters/taxpayers are voting on amounts in dollars - not guesstimated, inaccurate, future tax rates. 
+This is why TILA (Truth In Lending Act) rules should apply to school district levies and bonds.
 
 If school districts still want to show future rates for their new measures, they should then assume no change in Total AV from the current year and THEN calculate their future rates. Citizens can then calculate their 
 future levy amounts based on the value of their properties' current year AV. 
+
+See the Toledo SD example to demonstrate how future tax rates are meaningless:
+
+[Link to the Toledo SD example](table_toledo_enrichment_20240213)
+
+
 ___
 
