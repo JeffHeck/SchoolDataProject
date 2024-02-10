@@ -223,7 +223,10 @@
 		formatterPOF.format(table_output, 6); // Apply formatter to Example Property POF column
 		formatter.format(table_output, 7); // Apply formatter to Example Property Levy Amount column
 		table_output_vis.draw(table_output, {sort:'disable'});
+		
+		changeParcelAV(0);
     }
+	
 
     function changeParcelAV(dir) {
 		//Update table input
@@ -357,17 +360,17 @@
   <input type="button" value="-" onclick="changeParcelAV(-25000)" />
   <p></p>
   <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div>
-  <input type="button" value="+" onclick="changeTotalAVChange(0.1)" />
-  <input type="button" value="-" onclick="changeTotalAVChange(-0.1)" />
+  <input type="button" value="+" onclick="changeTotalAVChange(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange(-0.2)" />
   <div id="table_pof_1_adjust_input_div" style="width:1200px; height: 60px;"></div>
-  <input type="button" value="+" onclick="changeTotalAVChange1(0.1)" />
-  <input type="button" value="-" onclick="changeTotalAVChange1(-0.1)" />
+  <input type="button" value="+" onclick="changeTotalAVChange1(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange1(-0.2)" />
   <div id="table_pof_2_adjust_input_div" style="width:1200px; height: 60px;"></div>
-  <input type="button" value="+" onclick="changeTotalAVChange2(0.1)" />
-  <input type="button" value="-" onclick="changeTotalAVChange2(-0.1)" />
+  <input type="button" value="+" onclick="changeTotalAVChange2(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange2(-0.2)" />
   <div id="table_pof_3_adjust_input_div" style="width:1200px; height: 60px;"></div>
-  <input type="button" value="+" onclick="changeTotalAVChange3(0.1)" />
-  <input type="button" value="-" onclick="changeTotalAVChange3(-0.1)" />
+  <input type="button" value="+" onclick="changeTotalAVChange3(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange3(-0.2)" />
   <p></p>
   <H3>Output</H3>
   <H3>Enrichment Levy</H3>
