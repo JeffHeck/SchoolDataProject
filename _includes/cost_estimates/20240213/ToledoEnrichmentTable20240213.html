@@ -57,12 +57,12 @@
 		table_output = new google.visualization.DataTable();
 		table_output.addColumn('string', 'Year');
 		table_output.addColumn('number', 'Total AV');
-		table_output.addColumn('number', 'Total AV Change Guess');
-		table_output.addColumn('number', 'New Levy Amount');
-		table_output.addColumn('number', 'Resulting Rate');
-		table_output.addColumn('number', 'Example Property AV');
-		table_output.addColumn('number', 'Example Property POF');
-		table_output.addColumn('number', 'Example Property New Levy Amount');
+		table_output.addColumn('number', 'Total AV <br> Change Guess');
+		table_output.addColumn('number', 'New Levy <br> Amount');
+		table_output.addColumn('number', 'Resulting <br> Rate');
+		table_output.addColumn('number', 'Example Property <br> AV');
+		table_output.addColumn('number', 'Example Property <br> POF');
+		table_output.addColumn('number', 'Example Property <br> New Levy Amount');
 
 		table_output.addRows(levyYears + 2);
 		for (let i = 0; i < levyYears + 2; i++) {
@@ -160,8 +160,8 @@
 
 		// Levy 1 output table
 		table_data = new google.visualization.DataTable();
-		table_data.addColumn('string', 'Item');
-		table_data.addColumn('number', 'Amount');
+		table_data.addColumn('string', 'Description');
+		table_data.addColumn('number', 'Value');
 		table_data.addRows([
 			['Total cost for the owner of the example property', totalLevyCostParcel],
 			['Average cost per year for 3 years', averageTotalLevyCostParcel],
@@ -257,7 +257,7 @@
 		table_data.setValue(0, 1, totalLevyCostParcel); // Total levy cost parcel
 		table_data.setValue(1, 1, averageTotalLevyCostParcel); // Average levy cost parcel
 		formatter.format(table_data, 1); // Apply formatter to second column
-		table.draw(table_data);
+		table.draw(table_data, {sort:'disable'});
 		
 		//Update table output general
 		table_output.setValue(1, 2, totalAVChange0);
@@ -298,7 +298,7 @@
 		formatter.format(table_output, 7); // Apply formatter to Ex Prop Levy Amount column
 	
 		//table_output.setValue(1, 2, totalAVChange0);
-		table_output_vis.draw(table_output);
+		table_output_vis.draw(table_output, {sort:'disable',allowHtml:'true'});
     }
 	
 	function changeTotalAVChange(dir) {
@@ -352,7 +352,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 13th 2024 levy measure proposed by the Toledo SD</H2>
+  <H2>Property tax impact estimate calculator for the February 13th 2024 enrichment levy measure proposed by the Toledo SD</H2>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
   <!-- <p></p> -->
@@ -373,7 +373,7 @@
   <input type="button" value="-" onclick="changeTotalAVChange3(-0.2)" />
   <p></p>
   <H3>Output</H3>
-  <H3>Enrichment Levy</H3>
+  <!-- <H3>Enrichment Levy</H3> -->
   <p>Estimated obligations for the example property</P>
   <div id="table_output_general_div" style="width:1200px; height: 160px;"></div>
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
@@ -381,8 +381,8 @@
   <!-- <p>POF: Proportional Obligation Factor equals the assessed value (AV) of the sample parcel divided by the Total AV of the properties within the district's tax area.</p> -->
   <H3>Notes</H3>
   <p>This interactive calculator was created by the author independently from and not associated with the school district.</p>
-  <p>Note how changing the Total AV Change percent guesses affects the calculated rates but not the levy 
-  amounts for the owner of the example property. </p>
+  <p>POF: Proportional Obligation Factor equals the assessed value (AV) of the example property divided by the Total AV of the properties within the district's tax area.</p>
+  <p>Note how changing the Total AV Change percent guesses affects the calculated rates but not the levy amounts for the owner of the example property. </p>
   <p>The one reasonable assumption in this calculator is that the example property's AV rises and falls at the same pace as the overall Total AV.</p>
   <H3>Data Sources</H3>
   <p>The district's levy resolution</p>
