@@ -285,7 +285,7 @@ This is why TILA (Truth In Lending Act) rules should apply to school district le
 If school districts still want to show future rates for their new measures, they should then assume no change in Total AV from the current year and THEN calculate their future rates. Citizens can then calculate their 
 future levy amounts based on the value of their properties' current year AV. 
 
-See the Toledo SD example to demonstrate how future tax rates are meaningless:
+See the Toledo SD example calculator to demonstrate how future guesstimated tax rates are meaningless:
 
 [Link to the Toledo SD example](table_toledo_enrichment_20240213)
 
