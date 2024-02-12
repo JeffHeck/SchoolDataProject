@@ -142,6 +142,15 @@ ___
 
 ___
 
+### Nine Mile Falls SD
+
+![Nine Mile Falls SD enrichment levy totals chart](pagesManual/LeviesReport/20240213/NineMileFallsEnrichment.png "Nine Mile Falls SD enrichment levy totals chart")
+![Nine Mile Falls SD enrichment levy example parcel chart](pagesManual/LeviesReport/20240213/NineMileFallsEnrichmentParcel.png "Nine Mile Falls SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_nine_mile_falls_enrichment_20240213_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Riverside SD
 
 ![Riverside SD bond totals chart](pagesManual/LeviesReport/20240213/Riverside.png "Riverside SD bond totals chart")
