@@ -5,11 +5,8 @@ permalink:
 ---
 
 Election Reports
+- [School District Tax Measures on the April 23rd 2024 Ballot](report_levies_20240423)
 - [School District Tax Measures on the February 13th 2024 Ballot](report_levies_20240213)
-- [School District Tax Measures on the November 7th 2023 Ballot](report_levies_20231107)
-- [School District School Board Member Elections on the August 1st 2023 Ballot](report_school_board_races)
-- [School District Tax Measures on the April 25th 2023 Ballot](report_levies_20230425)
-- [School District Tax Measures on the February 14th 2023 Ballot](report_levies_20230214)
 
 General Reports
 - [Why February is the Most Popular Election Month for School District Tax Measures](report_election_month)
