@@ -4,7 +4,7 @@ title: School District Tax Measures April 23rd 2024
 permalink: report_levies_20240423
 ---
 
-Last updated: February 28th, 2024
+Last updated: March 6th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -55,13 +55,20 @@ ___
 
 [Snohomish](snohomishcountymeasures20240423)
 
+[Walla Walla](wallawallacountymeasures20240423)
+
+
 ### All bonds
 
+[Link to the details for all bonds](report_bond_details_20240423)
 
 ### All enrichment levies
 
+[Link to the details for all enrichment levies](report_enrichment_levy_details_20240423)
 
 ### All capital levies
+
+[Link to the details for all capital levies](report_capital_levy_details_20240423)
 
 ___
 
