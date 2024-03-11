@@ -6,6 +6,8 @@ permalink: report_levies_20240423
 
 Last updated: March 11th, 2024
 
+In progress.
+
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
@@ -32,22 +34,28 @@ As analyses are completed, summary results will be provided on this page.
 ___
 
 ## Summary
+In progress.
 
 ___
 
 ## Bond summary
+In progress.
 
 ___
 
 ## Enrichment levy summary
+In progress.
 
 ___
 
 ## Capital levy summary
+In progress.
 
 ___
 
 ## Measure details
+In progress.
+
 ### All measures (bonds, enrichment levies, capital levies) by county
 [Clark](clarkcountymeasures20240423)
 
@@ -65,10 +73,12 @@ ___
 [Link to the details for all bonds](report_bond_details_20240423)
 
 ### All enrichment levies
+In progress.
 
 [Link to the details for all enrichment levies](report_enrichment_levy_details_20240423)
 
 ### All capital levies
+In progress.
 
 [Link to the details for all capital levies](report_capital_levy_details_20240423)
 
