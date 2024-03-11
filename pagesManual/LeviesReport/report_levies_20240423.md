@@ -4,7 +4,7 @@ title: School District Tax Measures April 23rd 2024
 permalink: report_levies_20240423
 ---
 
-Last updated: March 6th, 2024
+Last updated: March 11th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -50,6 +50,8 @@ ___
 ## Measure details
 ### All measures (bonds, enrichment levies, capital levies) by county
 [Clark](clarkcountymeasures20240423)
+
+[Douglas](douglascountymeasures20240423)
 
 [King](kingcountymeasures20240423)
 
