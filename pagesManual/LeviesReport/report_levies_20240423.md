@@ -16,7 +16,7 @@ As analyses are completed, summary results will be provided on this page.
     - Local voters' pamphlet (LVP) statistics
 - Bond summary
     - Total bond cost to local taxpayers
-	- Total bond cost to owners of properties with 2023 assessed values of $500,000
+	- Total bond cost to owners of properties with 2024 assessed values of $500,000
 - Enrichment levy summary
     - Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
     - Average annual enrichment levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
@@ -39,7 +39,22 @@ In progress.
 ___
 
 ## Bond summary
-In progress.
+### Total bond cost to local property taxpayers in each school district tax area with a bond measure
+![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20240423/BondSummaryTotals.png "Bond totals")
+
+Data source: Each district's bond/levy projection datasheet
+
+### Total bond cost to owners of properties with 2024 assessed values (AVs) of $500,000
+![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20240423/BondSummaryParcels.png "Bond totals")
+
+$500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
+
+The conservative assumption used was that the POF (proportional obligation factor) as of 2024 remains constant over the term of the bond. The interested reader can use the 
+cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the calculators as well as different AVs. 
+The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV for a given year) divided by (The Total AV of all 
+properties in the district's tax area for the same year). 
+
+See the Calculator Methodology section below for more details. 
 
 ___
 
