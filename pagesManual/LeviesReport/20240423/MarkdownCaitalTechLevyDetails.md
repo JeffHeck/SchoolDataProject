@@ -1,10 +1,3 @@
----
-layout: page
-title: Capital Levy Details April 23rd 2024
-permalink: report_capital_levy_details_20240423
----
-
-
 ### Asotin County Clarkston SD
 
 ![Clarkston SD capital levy totals chart](pagesManual/LeviesReport/20240423/ClarkstonCapital.png "Clarkston SD capital levy totals chart")
@@ -49,5 +42,4 @@ ___
 [Link to the interactive calculator](calculator_freeman_capital_20240423_enhanced){:target="_blank" rel="noopener"}
 
 ___
-
 

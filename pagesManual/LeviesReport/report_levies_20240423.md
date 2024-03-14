@@ -4,7 +4,7 @@ title: School District Tax Measures April 23rd 2024
 permalink: report_levies_20240423
 ---
 
-Last updated: March 11th, 2024
+Last updated: March 14th, 2024
 
 In progress.
 
@@ -34,8 +34,11 @@ As analyses are completed, summary results will be provided on this page.
 ___
 
 ## Summary
-In progress.
-
+### Overview
+Listed below are the the types and counts for the tax measures for the February 13th 2024 election that have been analyzed to date:
+- Bonds: 2
+- Enrichment Levies: 10
+- Capital / Tech Levies: 5
 ___
 
 ## Bond summary
@@ -59,26 +62,52 @@ See the Calculator Methodology section below for more details.
 ___
 
 ## Enrichment levy summary
-In progress.
+### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+![Enrichment levy totals, group 1](pagesManual/LeviesReport/20240423/LevySummaryTotals-1.png "Levy totals")
+
+### Average annual enrichment levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
+![Average annual enrichment levy cost for example properties, group 1](pagesManual/LeviesReport/20240423/LevySummaryParcels-1.png "Levy average annual cost")
 
 ___
 
 ## Capital levy summary
-In progress.
+### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+![Capital levy totals](pagesManual/LeviesReport/20240423/CapitalLevySummaryTotals.png "Levy totals")
+
+### Average annual capital levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
+![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20240423/CapitalLevySummaryParcels.png "Levy average annual cost")
 
 ___
 
 ## Measure details
-In progress.
-
 ### All measures (bonds, enrichment levies, capital levies) by county
+[Asotin](asotincountymeasures20240423)
+
 [Clark](clarkcountymeasures20240423)
 
 [Douglas](douglascountymeasures20240423)
 
+[Grant](grantcountymeasures20240423)
+
+[Jefferson](jeffersoncountymeasures20240423)
+
 [King](kingcountymeasures20240423)
 
+[Kitsap](kitsapcountymeasures20240423)
+
+[Klickitat](klickitatcountymeasures20240423)
+
+[Lewis](lewiscountymeasures20240423)
+
+[Okanogan](okanogancountymeasures20240423)
+
+[Skagit](skagitcountymeasures20240423)
+
 [Snohomish](snohomishcountymeasures20240423)
+
+[Spokane](spokanecountymeasures20240423)
+
+[Thurston](thurstoncountymeasures20240423)
 
 [Walla Walla](wallawallacountymeasures20240423)
 
@@ -88,12 +117,10 @@ In progress.
 [Link to the details for all bonds](report_bond_details_20240423)
 
 ### All enrichment levies
-In progress.
 
 [Link to the details for all enrichment levies](report_enrichment_levy_details_20240423)
 
 ### All capital levies
-In progress.
 
 [Link to the details for all capital levies](report_capital_levy_details_20240423)
 

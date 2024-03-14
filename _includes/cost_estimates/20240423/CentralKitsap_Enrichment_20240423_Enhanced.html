@@ -10,16 +10,16 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 127126092;
+	totalLevyAV = 13826243433;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 280000;
+	totalLevyCost = 66000000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 2;
+	levyYears = 3;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 191503.0;
+	totalLevyPriorCost = 56139516.0;
 	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
 	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
@@ -37,10 +37,12 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2023.0', 96729, 0],
-			['2024.0', 94774, 0],
-			['2025.0', 0, 140000],
-			['2026.0', 0, 140000],
+			['2022.0', 16552042, 0],
+			['2023.0', 19539422, 0],
+			['2024.0', 20048052, 0],
+			['2025.0', 0, 21000000],
+			['2026.0', 0, 22000000],
+			['2027.0', 0, 23000000],
 
 		]);
 
@@ -111,7 +113,7 @@
 		table_data.addColumn('number', 'Percent Change');
 		table_data.addRows([
 			['Total cost', totalLevyPriorCostParcel, totalLevyCostParcel, totalLevyCostParcel-totalLevyPriorCostParcel, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100],
-			['Average cost per year for 2 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
+			['Average cost per year for 3 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
 		
 		]);
 
@@ -205,7 +207,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 23rd 2024 levy measure proposed by the Dixie SD</H2>
+  <H2>Property tax impact estimate calculator for the April 23rd 2024 levy measure proposed by the Central Kitsap SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>

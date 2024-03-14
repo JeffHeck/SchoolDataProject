@@ -10,18 +10,15 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 127126092;
+	totalLevyAV = 6991520146;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 280000;
+	totalLevyCost = 39914400;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 2;
+	levyYears = 4;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	totalLevyPriorCost = 191503.0;
-	totalLevyPriorCostParcel = sampleParcelPOF * totalLevyPriorCost;
-	averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 	// POF Annual Change Percent
 	pofAdjust = 0;
 	pofAdjustMin = -2.0;
@@ -33,37 +30,31 @@
 		// Levy 1 schedule
 		data = new google.visualization.DataTable();
 		data.addColumn('string', 'Year');
-		data.addColumn('number', 'Prior Levy Amount');
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2023.0', 96729, 0],
-			['2024.0', 94774, 0],
-			['2025.0', 0, 140000],
-			['2026.0', 0, 140000],
+			['2025', 9978600],
+			['2026', 9978600],
+			['2027', 9978600],
+			['2028', 9978600],
 
 		]);
 
 		// Levy 1 parcel data
 		dataParcel = new google.visualization.DataTable();
 		dataParcel.addColumn('string', 'Year');
-		dataParcel.addColumn('number', 'Prior Levy Amount');
 		dataParcel.addColumn('number', 'New Levy Amount');
 
-		dataParcel.addRows(levyYears * 2);
+		dataParcel.addRows(levyYears);
 		sampleParcelPOFEffective = sampleParcelPOF;
 		totalLevyCostParcel = 0;
-		totalLevyPriorCostParcel = 0;
-		for (let i = 0; i < levyYears * 2; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i - levyYears);
+		for (let i = 0; i < levyYears; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i);
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
-			dataParcel.setCell(i, 2, data.getValue(i, 2) * sampleParcelPOFEffective);
-			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 2) * sampleParcelPOFEffective;
-			totalLevyPriorCostParcel = totalLevyPriorCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
+			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
 		}		
 		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-		averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 
 		options = {
 			title: 'Estimated Levy Cost Schedule For The Sample Parcel',
@@ -105,13 +96,10 @@
 		// Levy 1 output table
 		table_data = new google.visualization.DataTable();
 		table_data.addColumn('string', 'Description');
-		table_data.addColumn('number', 'Prior');
 		table_data.addColumn('number', 'New');
-		table_data.addColumn('number', 'Delta');
-		table_data.addColumn('number', 'Percent Change');
 		table_data.addRows([
-			['Total cost', totalLevyPriorCostParcel, totalLevyCostParcel, totalLevyCostParcel-totalLevyPriorCostParcel, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100],
-			['Average cost per year for 2 years', averageTotalLevyPriorCostParcel, averageTotalLevyCostParcel, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel),(averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100],
+			['Total cost', totalLevyCostParcel],
+			['Average cost per year for 4 years', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -124,14 +112,11 @@
 		formatterPercent1 = new google.visualization.NumberFormat(
 			{suffix: '%', fractionDigits:1, negativeColor: 'red', negativeParens: false});
 		formatter.format(dataParcel, 1); // Apply formatter to second column
-		formatter.format(dataParcel, 2); // Apply formatter to third column
+		//formatter.format(dataParcel, 2); // Apply formatter to third column
 		chart.draw(dataParcel, options);
 		
 		table = new google.visualization.Table(document.getElementById('table_output_div'));
 		formatter.format(table_data, 1); // Apply formatter to second column
-		formatter.format(table_data, 2); // Apply formatter to second column
-		formatter.format(table_data, 3); // Apply formatter to second column
-		formatterPercent.format(table_data, 4); // Apply formatter to second column
 		table.draw(table_data, {sort:'disable'});
 		
 		// Input table for sample parcel AV
@@ -159,34 +144,21 @@
 		//Update chart 1
 		sampleParcelPOFEffective = sampleParcelPOF;
 		totalLevyCostParcel = 0;
-		totalLevyPriorCostParcel = 0;
-		for (let i = 0; i < levyYears * 2; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i - levyYears);
+		//totalLevyPriorCostParcel = 0;
+		for (let i = 0; i < levyYears; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofAdjust/100) ** (1 + i);
 			dataParcel.setValue(i, 0, data.getValue(i, 0));
 			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
-			dataParcel.setValue(i, 2, data.getValue(i, 2) * sampleParcelPOFEffective);
-			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 2) * sampleParcelPOFEffective;
-			totalLevyPriorCostParcel = totalLevyPriorCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
+			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
 		}		
 		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-		averageTotalLevyPriorCostParcel = totalLevyPriorCostParcel / levyYears;
 		formatter.format(dataParcel, 1); // Apply formatter to second column
-		formatter.format(dataParcel, 2);
 		chart.draw(dataParcel, options);
 		
 		//Update table output
-		table_data.setValue(0, 1, totalLevyPriorCostParcel); // Total levy prior cost parcel
-		table_data.setValue(0, 2, totalLevyCostParcel); // Total levy cost parcel
-		table_data.setValue(0, 3, (totalLevyCostParcel-totalLevyPriorCostParcel)); // Delta
-		table_data.setValue(0, 4, (totalLevyCostParcel-totalLevyPriorCostParcel)/totalLevyPriorCostParcel*100); // Percent change
-		table_data.setValue(1, 1, averageTotalLevyPriorCostParcel); // Average levy prior cost parcel
-		table_data.setValue(1, 2, averageTotalLevyCostParcel); // Average levy cost parcel
-		table_data.setValue(1, 3, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)); // Delta
-		table_data.setValue(1, 4, (averageTotalLevyCostParcel-averageTotalLevyPriorCostParcel)/averageTotalLevyPriorCostParcel*100); // Percent change
+		table_data.setValue(0, 1, totalLevyCostParcel); // Total levy cost parcel
+		table_data.setValue(1, 1, averageTotalLevyCostParcel); // Average levy cost parcel
 		formatter.format(table_data, 1); // Apply formatter to second column
-		formatter.format(table_data, 2); // Apply formatter to third column
-		formatter.format(table_data, 3); // Apply formatter to fourth column
-		formatterPercent.format(table_data, 4); // Apply formatter to fifth column
 		table.draw(table_data);
     }
 	
@@ -205,7 +177,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 23rd 2024 levy measure proposed by the Dixie SD</H2>
+  <H2>Property tax impact estimate calculator for the April 23rd 2024 levy measure proposed by the Mount Vernon SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
@@ -218,7 +190,7 @@
   <input type="button" value="Decrease POF Annual Change" onclick="changePOFChange(-0.1)" />
   <p></p>
   <H3>Output</H3>
-  <H3>Enrichment Levy</H3>
+  <H3>Capital Levy</H3>
   <p>Estimated obligations for the sample parcel</P>
   <div id="table_output_div" style="width:1200px; height: 130px;"></div>
   <div id="chart_div" style="width:800px; height: 640px;"></div>

@@ -1,10 +1,3 @@
----
-layout: page
-title: Enrichment Levy Details April 23rd 2024
-permalink: report_enrichment_levy_details_20240423
----
-
-
 ### Grant County Moses Lake SD
 
 ![Moses Lake SD enrichment levy totals chart](pagesManual/LeviesReport/20240423/MosesLakeEnrichment.png "Moses Lake SD enrichment levy totals chart")
