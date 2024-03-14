@@ -39,6 +39,7 @@ Listed below are the the types and counts for the tax measures for the February 
 - Bonds: 2
 - Enrichment Levies: 10
 - Capital / Tech Levies: 5
+
 ___
 
 ## Bond summary
