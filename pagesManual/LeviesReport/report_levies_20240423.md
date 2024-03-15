@@ -40,6 +40,25 @@ Listed below are the the types and counts for the tax measures for the February 
 - Enrichment Levies: 10
 - Capital / Tech Levies: 5
 
+### Local voters' pamphlet (LVP) statistics
+- Bonds
+    - Number of bonds =  2
+    - Number of bonds with pro statements =  2
+    - Number of bonds with con statements =  1
+
+- Enrichment, capital and tech levies
+    - Number of levies =  15
+    - Number of levies with pro statements =  15
+    - Number of levies with con statements =  7
+
+LVP pro/con statement statistics by county
+
+![Percent of tax measures with LVP pro statements by county](pagesManual/LeviesReport/20240423/CountyLVPPro.png "LVP Pro Statements")
+
+![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20240423/CountyLVPCon.png "LVP Con Statements")
+
+Note: The number of school district tax measures for each county is shown in parentheses.
+
 ___
 
 ## Bond summary
