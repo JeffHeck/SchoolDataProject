@@ -4,7 +4,7 @@ title: School District Tax Measures April 23rd 2024
 permalink: report_levies_20240423
 ---
 
-Last updated: March 14th, 2024
+Last updated: March 16th, 2024
 
 In progress.
 
@@ -50,6 +50,12 @@ Listed below are the the types and counts for the tax measures for the February 
     - Number of levies =  15
     - Number of levies with pro statements =  15
     - Number of levies with con statements =  7
+	
+- Counties with 1 or more school district tax measures
+    - Number of counties (out of 39 in WA) that have 1 or more tax measures = 15
+	- Number of counties with tax measures that are missing 1 or more pro statements = 0
+	- Number of counties with tax measures that are missing 1 or more con statements = 9
+	
 
 LVP pro/con statement statistics by county
 
@@ -57,7 +63,12 @@ LVP pro/con statement statistics by county
 
 ![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20240423/CountyLVPCon.png "LVP Con Statements")
 
-Note: The number of school district tax measures for each county is shown in parentheses.
+- Notes: 
+    - The number of school district tax measures for each county is shown in parentheses.
+	- School districts (by State statute) are supposed to find pro and con committee volunteers for the public voters' pamphlet 
+	for their own measures before they submit their tax measure resolutions to the county elections offices.
+	- When school districts fail to find pro or con committee volunteers, county election offices (under the direction of the county auditor) 
+	are supposed to then try to find pro/con committee volunteers. Pro/con committees can have up to 3 members each.
 
 ___
 
