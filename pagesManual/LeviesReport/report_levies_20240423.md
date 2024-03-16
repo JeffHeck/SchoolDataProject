@@ -55,6 +55,7 @@ Listed below are the the types and counts for the tax measures for the February 
     - Number of counties (out of 39 in WA) that have 1 or more tax measures = 15
 	- Number of counties with tax measures that are missing 1 or more pro statements = 0
 	- Number of counties with tax measures that are missing 1 or more con statements = 9
+	- Number of counties with tax measures that are missing all con statements = 8
 	
 
 LVP pro/con statement statistics by county
@@ -67,7 +68,7 @@ LVP pro/con statement statistics by county
     - The number of school district tax measures for each county is shown in parentheses.
 	- School districts (by State statute) are supposed to find pro and con committee volunteers for the public voters' pamphlet 
 	for their own measures before they submit their tax measure resolutions to the county elections offices.
-	- When school districts fail to find pro or con committee volunteers, county election offices (under the direction of the county auditor) 
+	- When school districts fail to find pro or con committee volunteers, county elections offices (under the direction of the county auditor) 
 	are supposed to then try to find pro/con committee volunteers. Pro/con committees can have up to 3 members each.
 
 ___
