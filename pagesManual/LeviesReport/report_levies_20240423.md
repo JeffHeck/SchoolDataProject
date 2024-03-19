@@ -4,7 +4,7 @@ title: School District Tax Measures April 23rd 2024
 permalink: report_levies_20240423
 ---
 
-Last updated: March 16th, 2024
+Last updated: March 19th, 2024
 
 In progress.
 
@@ -49,12 +49,12 @@ Listed below are the the types and counts for the tax measures for the February 
 - Enrichment, capital and tech levies
     - Number of levies =  15
     - Number of levies with pro statements =  15
-    - Number of levies with con statements =  7
+    - Number of levies with con statements =  8
 	
 - Counties with 1 or more school district tax measures
     - Number of counties (out of 39 in WA) that have 1 or more tax measures = 15
 	- Number of counties with tax measures that are missing 1 or more pro statements = 0
-	- Number of counties with tax measures that are missing 1 or more con statements = 9
+	- Number of counties with tax measures that are missing 1 or more con statements = 8
 	- Number of counties with tax measures that are missing all con statements = 8
 	
 
