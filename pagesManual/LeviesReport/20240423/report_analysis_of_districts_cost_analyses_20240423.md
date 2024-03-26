@@ -38,7 +38,7 @@ Summary of school districts' cost analysis scores and grades
 |Walla Walla|Dixie|Enrichment|50|D|
 
 
-The rubrics are described below. Possible points: 100
+The rubrics are described below. Possible score: 100
 
 For Bonds and Levies:
 
@@ -65,7 +65,7 @@ Additionally for bonds:
 
 
 ### Asotin County, Clarkston SD, Capital Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Clarkston SD capital levy cost analysis](pagesManual/LeviesReport/20240423/ClarkstonSDCapDistrictCostAnalysis.png "Clarkston SD capital levy cost analysis")
 
@@ -89,7 +89,7 @@ Grade: D
 ___
 
 ### Clark County, Ridgefield SD, Bond
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Ridgefield SD bond cost analysis](pagesManual/LeviesReport/20240423/RidgefieldSDBondDistrictCostAnalysis.png "Ridgefield SD bond cost analysis")
 
@@ -116,7 +116,7 @@ Grade: F
 ___
 
 ### Douglas County, Eastmont SD, Bond
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Eastmont SD bond cost analysis](pagesManual/LeviesReport/20240423/EastmontSDBondDistrictCostAnalysis.png "Eastmont SD bond cost analysis")
 
@@ -143,7 +143,7 @@ Grade: F
 ___
 
 ### Grant County, Moses Lake SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Moses Lake SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/MosesLakeSDEnrichDistrictCostAnalysis.png "Moses Lake SD enrichment levy cost analysis")
 
@@ -167,7 +167,7 @@ Grade: F
 ___
 
 ### Jefferson County, Quilcene SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Quilcene SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/MosesLakeSDEnrichDistrictCostAnalysis.png "Quilcene SD enrichment levy cost analysis")
 
@@ -191,7 +191,7 @@ Grade: D
 ___
 
 ### King County, Kent SD, Capital Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Kent SD capital levy cost analysis](pagesManual/LeviesReport/20240423/ClarkstonSDCapDistrictCostAnalysis.png "Kent SD capital levy cost analysis")
 
@@ -215,7 +215,7 @@ Grade: D
 ___
 
 ### King County, Tahoma SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Tahoma SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/TahomaSDEnrichDistrictCostAnalysis.png "Tahoma SD enrichment levy cost analysis")
 
@@ -239,7 +239,7 @@ Grade: D
 ___
 
 ### Kitsap County, Central Kitsap SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Central Kitsap SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/CentralKitsapSDEnrichDistrictCostAnalysis.png "Central Kitsap SD enrichment levy cost analysis")
 
@@ -262,7 +262,7 @@ Grade: D
 ___
 
 ### Klickitat County, Bickleton SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Bickleton SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/BickletonSDEnrichDistrictCostAnalysis.png "Bickleton SD enrichment levy cost analysis")
 
@@ -286,7 +286,7 @@ Grade: A
 ___
 
 ### Lewis County, Toledo SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Toledo SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/ToledoSDEnrichDistrictCostAnalysis.png "Toledo SD enrichment levy cost analysis")
 
@@ -310,7 +310,7 @@ Grade: F
 ___
 
 ### Okanogan County, Brewster SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Brewster SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/BrewsterSDEnrichDistrictCostAnalysis.png "Brewster SD enrichment levy cost analysis")
 
@@ -334,7 +334,7 @@ Grade: D
 ___
 
 ### Skagit County, Mount Vernon SD, Capital Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Mount Vernon SD capital levy cost analysis](pagesManual/LeviesReport/20240423/MountVernonSDCapDistrictCostAnalysis.png "Mount Vernon SD capital levy cost analysis")
 
@@ -358,7 +358,7 @@ Grade: A
 ___
 
 ### Snohomish County, Lakewood SD, Capital Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Lakewood SD capital levy cost analysis](pagesManual/LeviesReport/20240423/LakewoodSDCapDistrictCostAnalysis.png "Lakewood SD capital levy cost analysis")
 
@@ -382,7 +382,7 @@ Grade: A
 ___
 
 ### Snohomish County, Lakewood SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Lakewood SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/LakewoodSDEnrichDistrictCostAnalysis.png "Lakewood SD enrichment levy cost analysis")
 
@@ -406,7 +406,7 @@ Grade: D
 ___
 
 ### Spokane County, Freeman SD, Capital Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Freeman SD capital levy cost analysis](pagesManual/LeviesReport/20240423/FreemanSDCapDistrictCostAnalysis.png "Freeman SD capital levy cost analysis")
 
@@ -430,7 +430,7 @@ Grade: D
 ___
 
 ### Thurston County, Yelm SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Yelm SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/YelmSDEnrichDistrictCostAnalysis.png "Yelm SD enrichment levy cost analysis")
 
@@ -454,7 +454,7 @@ Grade: A
 ___
 
 ### Walla Walla County, Dixie SD, Enrichment Levy
-The district's property tax cost impact analysis is shown in the image with the red border
+The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Dixie SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/DixieSDEnrichDistrictCostAnalysis.png "Dixie SD enrichment levy cost analysis")
 
