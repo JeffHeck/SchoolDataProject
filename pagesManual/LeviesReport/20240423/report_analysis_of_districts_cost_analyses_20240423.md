@@ -23,7 +23,7 @@ Summary of school districts' cost analysis scores and grades
 |Clark|Ridgefield|Bond|-20|F|
 |Douglas|Eastmont|Bond|-20|F|
 |Grant|Moses Lake|Enrichment|30|F|
-|Jefferson|Quilcene|Enrichment|50|F|
+|Jefferson|Quilcene|Enrichment|50|D|
 |King|Kent|Capital|55|D|
 |King|Tahoma|Enrichment|60|D|
 |Kitsap|Central Kitsap|Enrichment|60|D|
@@ -184,7 +184,7 @@ The district's property tax cost impact analysis is shown in the image with the 
 
 Score: 50
 
-Grade: F
+Grade: D
 
 [Link to the author's logical, interactive, cost impact calculator](calculator_quilcene_enrichment_20240423_enhanced){:target="_blank" rel="noopener"}
 
