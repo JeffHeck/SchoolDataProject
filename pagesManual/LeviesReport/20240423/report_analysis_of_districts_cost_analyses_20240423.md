@@ -17,25 +17,25 @@ https://finred.usalearning.gov/assets/downloads/FINRED-TruthLendingAct-FS.pdf
 
 Summary of school districts' cost analysis scores and grades
 
-|Lead County|School District|Measure|Score|Grade|
+|Lead County|School District|Tax Measure Type|Score|Grade|
 |---|---|---|---|---| 
-|Asotin|Clarkston|Capital|50|D|
+|Asotin|Clarkston|Capital Levy|50|D|
 |Clark|Ridgefield|Bond|-20|F|
 |Douglas|Eastmont|Bond|-20|F|
-|Grant|Moses Lake|Enrichment|30|F|
-|Jefferson|Quilcene|Enrichment|50|D|
-|King|Kent|Capital|55|D|
-|King|Tahoma|Enrichment|60|D|
-|Kitsap|Central Kitsap|Enrichment|60|D|
-|Klickitat|Bickleton|Enrichment|100|A|
-|Lewis|Toledo|Enrichment|40|F|
-|Okanogan|Brewster|Enrichment|55|D|
-|Skagit|Mount Vernon|Capital|90|A|
-|Snohomish|Lakewood|Capital|95|A|
-|Snohomish|Lakewood|Enrichment|55|D|
-|Spokane|Freeman|Capital|50|D|
-|Thurston|Yelm|Enrichment|100|A|
-|Walla Walla|Dixie|Enrichment|50|D|
+|Grant|Moses Lake|Enrichment Levy|30|F|
+|Jefferson|Quilcene|Enrichment Levy|50|D|
+|King|Kent|Capital Levy|55|D|
+|King|Tahoma|Enrichment Levy|60|D|
+|Kitsap|Central Kitsap|Enrichment Levy|60|D|
+|Klickitat|Bickleton|Enrichment Levy|100|A|
+|Lewis|Toledo|Enrichment Levy|40|F|
+|Okanogan|Brewster|Enrichment Levy|55|D|
+|Skagit|Mount Vernon|Capital Levy|90|A|
+|Snohomish|Lakewood|Capital Levy|95|A|
+|Snohomish|Lakewood|Enrichment Levy|55|D|
+|Spokane|Freeman|Capital Levy|50|D|
+|Thurston|Yelm|Enrichment Levy|100|A|
+|Walla Walla|Dixie|Enrichment Levy|50|D|
 
 
 The rubrics are described below. Possible score: 100
