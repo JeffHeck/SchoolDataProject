@@ -28,6 +28,7 @@ As analyses are completed, summary results will be provided on this page.
 	- All bonds
 	- All enrichment levies
 	- All capital levies
+- An analysis of each district's taxpayer cost impact analysis
 - Calculator methodology
     - POF proof
 
@@ -155,6 +156,13 @@ ___
 ### All capital levies
 
 [Link to the details for all capital levies](report_capital_levy_details_20240423)
+
+___
+
+
+## An analysis of each district's taxpayer cost impact analysis
+
+[Link to the details of the analysis of each district's cost impact analysis](report_analysis_of_districts_cost_analyses_20240423)
 
 ___
 
