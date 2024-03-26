@@ -9,11 +9,12 @@ Last updated: March 26th, 2024
 Preliminary: in progress
 
 ## Summary
-Taxpayers deserve and expect a logical and accurate accounting of the property tax cost impacts of the school district tax measures that are on the ballot. It is expected that 
-the Truth In Lending Act (TILA) guidelines be voluntarily followed. TILA guidelines are of course mandatory for bankers (home mortgages) and car loan agents. School districts 
+Taxpayers expect and deserve a logical and accurate accounting of the multi year property tax cost impacts of the school district tax measures that are on the ballot. It is expected that 
+the Truth In Lending Act (TILA) guidelines be voluntarily followed. TILA guidelines are of course mandatory for bankers (home mortgages), car loan agents, and credit card companies. School districts 
 should be teaching and students should be learning about TILA.
 
-https://finred.usalearning.gov/assets/downloads/FINRED-TruthLendingAct-FS.pdf
+[Link to a brief summary of TILA from the Office of Financial Readiness](https://finred.usalearning.gov/assets/downloads/FINRED-TruthLendingAct-FS.pdf)
+
 
 Summary of school districts' cost analysis scores and grades
 
