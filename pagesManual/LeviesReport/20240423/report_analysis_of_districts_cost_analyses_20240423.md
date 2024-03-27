@@ -4,7 +4,7 @@ title: An Analysis Of School Districts' Cost Impact Analyses Of Their April 23rd
 permalink: report_analysis_of_districts_cost_analyses_20240423
 ---
 
-Last updated: March 26th, 2024
+Last updated: March 27th, 2024
 
 Preliminary: in progress
 
@@ -31,7 +31,7 @@ Summary of school districts' cost analysis scores and grades
 |Klickitat|Bickleton|Enrichment Levy|100|A|
 |Lewis|Toledo|Enrichment Levy|40|F|
 |Okanogan|Brewster|Enrichment Levy|55|D|
-|Skagit|Mount Vernon|Capital Levy|90|A|
+|Skagit|Mount Vernon|Capital Levy|10|F|
 |Snohomish|Lakewood|Capital Levy|95|A|
 |Snohomish|Lakewood|Enrichment Levy|55|D|
 |Spokane|Freeman|Capital Levy|50|D|
@@ -342,17 +342,17 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
-|Was the district's estimate greater than 5% of the author's logical estimate?|-5|
-|Was the district's estimate greater than 10% of the author's logical estimate?|-5|
+|If the district did provide an example property's cost impact|-50|
+|Was the district's estimate greater than 5% of the author's logical estimate?||
+|Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
 |Was the district's estimate greater than 30% of the author's logical estimate?||
 |Was the district's estimate greater than 40% of the author's logical estimate?||
-|Did the district not state estimated tax rates based on the known 2024 AVs?|-|
+|Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
-Score: 90
+Score: 10
 
-Grade: A
+Grade: F
 
 [Link to the author's logical, interactive, cost impact calculator](calculator_mount_vernon_capital_20240423_enhanced){:target="_blank" rel="noopener"}
 
