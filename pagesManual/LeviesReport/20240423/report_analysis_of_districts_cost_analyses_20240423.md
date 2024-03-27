@@ -10,7 +10,7 @@ Preliminary: in progress
 
 ## Summary
 Taxpayers expect and deserve a logical and accurate accounting of the multi year property tax cost impacts of the school district tax measures that are on the ballot. It is expected that 
-the Truth In Lending Act (TILA) guidelines be voluntarily followed. TILA guidelines are of course mandatory for bankers (home mortgages), car loan agents, and credit card companies. School districts 
+the Truth In Lending Act (TILA) guidelines be voluntarily followed. TILA guidelines are of course mandatory for banks (home mortgages), car loan agents, and credit card companies. School districts 
 should be teaching and students should be learning about TILA.
 
 [Link to a brief summary of TILA from the Office of Financial Readiness](https://finred.usalearning.gov/assets/downloads/FINRED-TruthLendingAct-FS.pdf)
@@ -41,7 +41,7 @@ Summary of school districts' cost analysis scores and grades
 
 The rubrics are described below. Possible score: 100
 
-For Bonds and Levies:
+For bonds and levies:
 
 |Criterion|Penalty|
 |---|---|
