@@ -162,7 +162,29 @@ ___
 
 ## An analysis of each district's taxpayer cost impact analysis
 
-[Link to the details of the analysis of each district's cost impact analysis](report_analysis_of_districts_cost_analyses_20240423)
+Summary of school districts' cost analysis scores and grades
+
+|Lead County|School District|Tax Measure Type|Score|Grade|
+|---|---|---|---|---| 
+|Asotin|Clarkston|Capital Levy|50|D|
+|Clark|Ridgefield|Bond|-20|F|
+|Douglas|Eastmont|Bond|-20|F|
+|Grant|Moses Lake|Enrichment Levy|30|F|
+|Jefferson|Quilcene|Enrichment Levy|50|D|
+|King|Kent|Capital Levy|55|D|
+|King|Tahoma|Enrichment Levy|60|D|
+|Kitsap|Central Kitsap|Enrichment Levy|60|D|
+|Klickitat|Bickleton|Enrichment Levy|100|A|
+|Lewis|Toledo|Enrichment Levy|40|F|
+|Okanogan|Brewster|Enrichment Levy|55|D|
+|Skagit|Mount Vernon|Capital Levy|10|F|
+|Snohomish|Lakewood|Capital Levy|95|A|
+|Snohomish|Lakewood|Enrichment Levy|55|D|
+|Spokane|Freeman|Capital Levy|50|D|
+|Thurston|Yelm|Enrichment Levy|100|A|
+|Walla Walla|Dixie|Enrichment Levy|50|D|
+
+[Link to the detailed report of the analysis of each district's cost impact analysis](report_analysis_of_districts_cost_analyses_20240423)
 
 ___
 
