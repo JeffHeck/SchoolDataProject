@@ -6,7 +6,10 @@ permalink: report_analysis_of_districts_cost_analyses_20240423
 
 Last updated: March 27th, 2024
 
-Preliminary: in progress
+## Contents
+- Summary
+- Analysis details for each tax measure's district created cost impact analysis
+
 
 ## Summary
 From a review of the school district generated property tax cost impact analyses regarding tax measures on the April 2024 election (and on previous elections since 2020), 
@@ -80,7 +83,7 @@ Additionally for bonds:
 
 
 
-
+## Analysis details for each tax measure's district created cost impact analysis
 ### Asotin County, Clarkston SD, Capital Levy
 The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
