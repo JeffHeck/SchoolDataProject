@@ -42,18 +42,18 @@ Summary of school districts' cost analysis scores and grades
 |Asotin|Clarkston|Capital Levy|50|D|
 |Clark|Ridgefield|Bond|-20|F|
 |Douglas|Eastmont|Bond|-20|F|
-|Grant|Moses Lake|Enrichment Levy|30|F|
-|Jefferson|Quilcene|Enrichment Levy|50|D|
+|Grant|Moses Lake|Enrichment Levy|10|F|
+|Jefferson|Quilcene|Enrichment Levy|10|F|
 |King|Kent|Capital Levy|55|D|
-|King|Tahoma|Enrichment Levy|60|D|
-|Kitsap|Central Kitsap|Enrichment Levy|60|D|
+|King|Tahoma|Enrichment Levy|10|F|
+|Kitsap|Central Kitsap|Enrichment Levy|10|F|
 |Klickitat|Bickleton|Enrichment Levy|100|A|
 |Lewis|Toledo|Enrichment Levy|40|F|
 |Okanogan|Brewster|Enrichment Levy|55|D|
 |Skagit|Mount Vernon|Capital Levy|10|F|
 |Snohomish|Lakewood|Capital Levy|95|A|
-|Snohomish|Lakewood|Enrichment Levy|55|D|
-|Spokane|Freeman|Capital Levy|50|D|
+|Snohomish|Lakewood|Enrichment Levy|10|F|
+|Spokane|Freeman|Capital Levy|10|F|
 |Thurston|Yelm|Enrichment Levy|100|A|
 |Walla Walla|Dixie|Enrichment Levy|50|D|
 
@@ -169,16 +169,16 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
-|Was the district's estimate greater than 5% of the author's logical estimate?|-5|
-|Was the district's estimate greater than 10% of the author's logical estimate?|-5|
-|Was the district's estimate greater than 20% of the author's logical estimate?|-10|
-|Was the district's estimate greater than 30% of the author's logical estimate?|-10|
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|If the district did provide an example property's cost impact||
+|Was the district's estimate greater than 5% of the author's logical estimate?||
+|Was the district's estimate greater than 10% of the author's logical estimate?||
+|Was the district's estimate greater than 20% of the author's logical estimate?|0|
+|Was the district's estimate greater than 30% of the author's logical estimate?|0|
 |Was the district's estimate greater than 40% of the author's logical estimate?||
 |Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
-Score: 30
+Score: 10
 
 Grade: F
 
@@ -193,18 +193,18 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
-|Was the district's estimate greater than 5% of the author's logical estimate?|-5|
-|Was the district's estimate greater than 10% of the author's logical estimate?|-5|
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|If the district did provide an example property's cost impact||
+|Was the district's estimate greater than 5% of the author's logical estimate?||
+|Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
 |Was the district's estimate greater than 30% of the author's logical estimate?||
 |Was the district's estimate greater than 40% of the author's logical estimate?||
 |Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
-Score: 50
+Score: 10
 
-Grade: D
+Grade: F
 
 [Link to the author's logical, interactive, cost impact calculator](calculator_quilcene_enrichment_20240423_enhanced){:target="_blank" rel="noopener"}
 
@@ -241,8 +241,8 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -250,9 +250,9 @@ The district's property tax cost impact analysis (from the district's website) i
 |Was the district's estimate greater than 40% of the author's logical estimate?||
 |Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
-Score: 60
+Score: 10
 
-Grade: D
+Grade: F
 
 [Link to the author's logical, interactive, cost impact calculator](calculator_tahoma_enrichment_20240423_enhanced){:target="_blank" rel="noopener"}
 
@@ -265,8 +265,8 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -274,10 +274,11 @@ The district's property tax cost impact analysis (from the district's website) i
 |Was the district's estimate greater than 40% of the author's logical estimate?||
 |Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
-Score: 60
+Score: 10
 
-Grade: D
-[Link to the author's logical, interactive, cost impact calculator](calculator_central kitsap_enrichment_20240423_enhanced){:target="_blank" rel="noopener"}
+Grade: F
+
+[Link to the author's logical, interactive, cost impact calculator](calculator_central_kitsap_enrichment_20240423_enhanced){:target="_blank" rel="noopener"}
 
 ___
 
@@ -360,8 +361,8 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact|-50|
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -408,18 +409,18 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
-|Was the district's estimate greater than 5% of the author's logical estimate?|-5|
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|If the district did provide an example property's cost impact||
+|Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
 |Was the district's estimate greater than 30% of the author's logical estimate?||
 |Was the district's estimate greater than 40% of the author's logical estimate?||
 |Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
-Score: 55
+Score: 10
 
-Grade: D
+Grade: F
 
 [Link to the author's logical, interactive, cost impact calculator](calculator_lakewood_enrichment_20240423_enhanced){:target="_blank" rel="noopener"}
 
@@ -432,18 +433,18 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
-|Was the district's estimate greater than 5% of the author's logical estimate?|-5|
-|Was the district's estimate greater than 10% of the author's logical estimate?|-5|
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|If the district did provide an example property's cost impact||
+|Was the district's estimate greater than 5% of the author's logical estimate?||
+|Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
 |Was the district's estimate greater than 30% of the author's logical estimate?||
 |Was the district's estimate greater than 40% of the author's logical estimate?||
 |Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
-Score: 50
+Score: 10
 
-Grade: D
+Grade: F
 
 [Link to the author's logical, interactive, cost impact calculator](calculator_freeman_capital_20240423_enhanced){:target="_blank" rel="noopener"}
 
@@ -480,8 +481,8 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact|-50|
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||

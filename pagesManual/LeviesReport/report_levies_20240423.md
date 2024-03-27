@@ -169,18 +169,18 @@ Summary of school districts' cost analysis scores and grades
 |Asotin|Clarkston|Capital Levy|50|D|
 |Clark|Ridgefield|Bond|-20|F|
 |Douglas|Eastmont|Bond|-20|F|
-|Grant|Moses Lake|Enrichment Levy|30|F|
-|Jefferson|Quilcene|Enrichment Levy|50|D|
+|Grant|Moses Lake|Enrichment Levy|10|F|
+|Jefferson|Quilcene|Enrichment Levy|10|F|
 |King|Kent|Capital Levy|55|D|
-|King|Tahoma|Enrichment Levy|60|D|
-|Kitsap|Central Kitsap|Enrichment Levy|60|D|
+|King|Tahoma|Enrichment Levy|10|F|
+|Kitsap|Central Kitsap|Enrichment Levy|10|F|
 |Klickitat|Bickleton|Enrichment Levy|100|A|
 |Lewis|Toledo|Enrichment Levy|40|F|
 |Okanogan|Brewster|Enrichment Levy|55|D|
 |Skagit|Mount Vernon|Capital Levy|10|F|
 |Snohomish|Lakewood|Capital Levy|95|A|
-|Snohomish|Lakewood|Enrichment Levy|55|D|
-|Spokane|Freeman|Capital Levy|50|D|
+|Snohomish|Lakewood|Enrichment Levy|10|F|
+|Spokane|Freeman|Capital Levy|10|F|
 |Thurston|Yelm|Enrichment Levy|100|A|
 |Walla Walla|Dixie|Enrichment Levy|50|D|
 
