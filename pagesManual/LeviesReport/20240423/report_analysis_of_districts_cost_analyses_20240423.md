@@ -116,7 +116,7 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
-|If the district did provide an example property's cost impact| |
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -143,7 +143,7 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
-|If the district did provide an example property's cost impact| |
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -173,8 +173,8 @@ The district's property tax cost impact analysis (from the district's website) i
 |If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
-|Was the district's estimate greater than 20% of the author's logical estimate?|0|
-|Was the district's estimate greater than 30% of the author's logical estimate?|0|
+|Was the district's estimate greater than 20% of the author's logical estimate?||
+|Was the district's estimate greater than 30% of the author's logical estimate?||
 |Was the district's estimate greater than 40% of the author's logical estimate?||
 |Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
@@ -218,7 +218,7 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?|-5|
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -290,7 +290,7 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -314,7 +314,7 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?|-5|
 |Was the district's estimate greater than 10% of the author's logical estimate?|-5|
 |Was the district's estimate greater than 20% of the author's logical estimate?|-10|
@@ -338,7 +338,7 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?|-5|
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -386,7 +386,7 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?|-5|
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
@@ -458,7 +458,7 @@ The district's property tax cost impact analysis (from the district's website) i
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?||
-|If the district did provide an example property's cost impact| |
+|If the district did provide an example property's cost impact||
 |Was the district's estimate greater than 5% of the author's logical estimate?||
 |Was the district's estimate greater than 10% of the author's logical estimate?||
 |Was the district's estimate greater than 20% of the author's logical estimate?||
