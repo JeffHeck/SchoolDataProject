@@ -11,16 +11,18 @@ Preliminary: in progress
 ## Summary
 From a review of the school district generated property tax cost impact analyses regarding tax measures on the April 2024 election (and on previous elections since 2020), 
 it is abundantly clear that Truth In Lending Act (TILA) type guidelines are sorely needed regarding school district tax measures. Most school districts are quite creative in how they present cost 
-impact information. There is no standardization. Taxpayers/voters are often confused by the districts' presentation and have no real idea on what the true cost impacts will be. 
+impact information. There is no standardization. Taxpayers/voters are often confused by the districts' presentations and have no real idea on what the true cost impacts will be. 
 
 An often used cost analysis technique by school districts is to present guesstimated future tax rates covering multiple future years. This practice is nonsense. Guesstimated 
 future tax rates depend on guesstimated future Total AVs (assessed values) of all district tax area properties in each future year of the tax measure. The author has 
 shown (using Algebra) that the only future rates that should be shown, if any, should be based on the current year’s known Total AV.
 
 Please see the proof on this link 
+
 [Link to the April 23 2024 report](https://schooldataproject.com/report_levies_20240423)
 
 and the calculator on this link 
+
 [Link to the calculator showing the irrelevance of future guesstimated tax rates](https://schooldataproject.com/table_toledo_enrichment_20240213)
 
 Taxpayers expect and deserve a logical and accurate accounting of the multi year property tax cost impacts of the school district tax measures that are on the ballot. It is expected that 
