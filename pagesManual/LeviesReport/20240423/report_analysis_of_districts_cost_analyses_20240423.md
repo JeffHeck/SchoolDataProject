@@ -34,6 +34,9 @@ should be teaching and students should be learning about TILA.
 
 [Link to a brief summary of TILA from the Office of Financial Readiness](https://finred.usalearning.gov/assets/downloads/FINRED-TruthLendingAct-FS.pdf)
 
+Almost all school districts make the logic and math error of assuming a certain Total AV growth each year of their tax measure while keeping the AV of their example property constant. This underestimates 
+the tax burden on taxpayers. The Yelm School District in Thurston County however provides an online calculator, similar to the author's, that correctly allows their sample property's AV to change at the same pace 
+as the Total AV. Other school districts should learn from Yelm.
 
 Summary of school districts' cost analysis scores and grades
 
