@@ -20,11 +20,11 @@ An often used cost analysis technique by school districts is to present guesstim
 future tax rates depend on guesstimated future Total AVs (assessed values) of all district tax area properties in each future year of the tax measure. The author has 
 shown (using basic Algebra) that the only future rates that should be shown, if any, should be based on the current year’s known Total AV.
 
-Please see the proof on this link 
+See the proof on this link 
 
 [Link to the April 23 2024 report](https://schooldataproject.com/report_levies_20240423)
 
-and the calculator on this link 
+and the demonstration calculator on this link 
 
 [Link to the calculator showing the irrelevance of future guesstimated tax rates](https://schooldataproject.com/table_toledo_enrichment_20240213)
 
