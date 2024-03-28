@@ -4,7 +4,7 @@ title: An Analysis Of School Districts' Cost Impact Analyses Of Their April 23rd
 permalink: report_analysis_of_districts_cost_analyses_20240423
 ---
 
-Last updated: March 27th, 2024
+Last updated: March 28th, 2024
 
 ## Contents
 - Summary
@@ -37,6 +37,10 @@ should be teaching and students should be learning about TILA.
 Almost all school districts make the logic and math error of assuming a certain Total AV growth each year of their tax measure while keeping the AV of their example property constant. This underestimates 
 the tax burden on taxpayers. The Yelm School District in Thurston County however provides an online calculator, similar to the author's, that correctly allows their sample property's AV to change at the same pace 
 as the Total AV. Other school districts should learn from Yelm.
+
+The other standout is the Bickleton SD in Klickitat County. Bickleton's cost analysis clearly shows the amounts in dollars for the future years of the proposed levy and the previous years of the previous levy. They 
+are the same amounts each year. Citizens can easily see that their taxes for this one levy would be the same in dollars no matter what happens to Total AV (and therefore future rates) over those future years.
+
 
 Summary of school districts' cost analysis scores and grades
 
