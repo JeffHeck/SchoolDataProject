@@ -18,7 +18,7 @@ impact information. There is no standardization. Taxpayers/voters are often conf
 
 An often used cost analysis technique by school districts is to present guesstimated future tax rates covering multiple future years. This practice is nonsense. Guesstimated 
 future tax rates depend on guesstimated future Total AVs (assessed values) of all district tax area properties in each future year of the tax measure. The author has 
-shown (using Algebra) that the only future rates that should be shown, if any, should be based on the current year’s known Total AV.
+shown (using basic Algebra) that the only future rates that should be shown, if any, should be based on the current year’s known Total AV.
 
 Please see the proof on this link 
 
@@ -34,12 +34,13 @@ should be teaching and students should be learning about TILA.
 
 [Link to a brief summary of TILA from the Office of Financial Readiness](https://finred.usalearning.gov/assets/downloads/FINRED-TruthLendingAct-FS.pdf)
 
-Almost all school districts make the logic and math error of assuming a certain Total AV growth each year of their tax measure while keeping the AV of their example property constant. This underestimates 
-the tax burden on taxpayers. The Yelm School District in Thurston County however provides an online calculator, similar to the author's, that correctly allows their sample property's AV to change at the same pace 
-as the Total AV. Other school districts should learn from Yelm.
+Almost all school districts make the logic and math error of assuming a guesstimated Total AV growth each year of their tax measure while keeping the AV of their example property constant. This misleads 
+voters and underestimates the tax burden on taxpayers. The Yelm School District in Thurston County however provides an online calculator, similar to the author's, that correctly allows their example 
+property's AV to change at the same pace as the Total AV. Other school districts should learn from Yelm.
 
 The other standout is the Bickleton SD in Klickitat County. Bickleton's cost analysis clearly shows the amounts in dollars for the future years of the proposed levy and the previous years of the previous levy. They 
-are the same amounts each year. Citizens can easily see that their taxes for this one levy would be the same in dollars no matter what happens to Total AV (and therefore future rates) over those future years.
+are the same amounts each year. Citizens can easily understand that their taxes for this one levy would be the same in dollars no matter what happens to Total AV (and therefore future rates) over those future years. 
+Bickleton SD area citizens may still decide to reject the levy but at least they were given accurate cost information.
 
 
 Summary of school districts' cost analysis scores and grades
