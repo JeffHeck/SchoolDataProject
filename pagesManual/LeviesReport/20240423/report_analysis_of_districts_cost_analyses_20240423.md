@@ -4,7 +4,7 @@ title: An Analysis Of School Districts' Cost Impact Analyses Of Their April 23rd
 permalink: report_analysis_of_districts_cost_analyses_20240423
 ---
 
-Last updated: March 28th, 2024
+Last updated: April 8th, 2024
 
 ## Contents
 - Summary
