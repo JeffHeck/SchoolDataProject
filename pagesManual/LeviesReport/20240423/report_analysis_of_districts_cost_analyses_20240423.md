@@ -197,7 +197,7 @@ ___
 ### Jefferson County, Quilcene SD, Enrichment Levy
 The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
-![Quilcene SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/MosesLakeSDEnrichDistrictCostAnalysis.png "Quilcene SD enrichment levy cost analysis")
+![Quilcene SD enrichment levy cost analysis](pagesManual/LeviesReport/20240423/QuilceneSDEnrichDistrictCostAnalysis.png "Quilcene SD enrichment levy cost analysis")
 
 |Criterion|Penalty|
 |---|---|
@@ -221,7 +221,7 @@ ___
 ### King County, Kent SD, Capital Levy
 The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
-![Kent SD capital levy cost analysis](pagesManual/LeviesReport/20240423/ClarkstonSDCapDistrictCostAnalysis.png "Kent SD capital levy cost analysis")
+![Kent SD capital levy cost analysis](pagesManual/LeviesReport/20240423/KentSDCapDistrictCostAnalysis.png "Kent SD capital levy cost analysis")
 
 |Criterion|Penalty|
 |---|---|
