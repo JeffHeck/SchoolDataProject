@@ -51,7 +51,7 @@ Summary of school districts' cost analysis scores and grades
 |Clark|Ridgefield|Bond|-20|F|
 |Douglas|Eastmont|Bond|-20|F|
 |Grant|Moses Lake|Enrichment Levy|10|F|
-|Jefferson|Quilcene|Enrichment Levy|10|F|
+|Jefferson|Quilcene|Enrichment Levy|50|D|
 |King|Kent|Capital Levy|55|D|
 |King|Tahoma|Enrichment Levy|10|F|
 |Kitsap|Central Kitsap|Enrichment Levy|10|F|
@@ -201,18 +201,18 @@ The district's property tax cost impact analysis (from the district's website) i
 
 |Criterion|Penalty|
 |---|---|
-|Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
+|Did the district not provide the total estimated tax obligation for just this measure for an example property?||
 |If the district did provide an example property's cost impact||
-|Was the district's estimate greater than 5% of the author's logical estimate?||
-|Was the district's estimate greater than 10% of the author's logical estimate?||
+|Was the district's estimate greater than 5% of the author's logical estimate?|-5|
+|Was the district's estimate greater than 10% of the author's logical estimate?|-5|
 |Was the district's estimate greater than 20% of the author's logical estimate?||
 |Was the district's estimate greater than 30% of the author's logical estimate?||
 |Was the district's estimate greater than 40% of the author's logical estimate?||
 |Did the district not state estimated tax rates based on the known 2024 AVs?|-40|
 
-Score: 10
+Score: 50
 
-Grade: F
+Grade: D
 
 [Link to the author's logical, interactive, cost impact calculator](calculator_quilcene_enrichment_20240423_enhanced){:target="_blank" rel="noopener"}
 
