@@ -145,6 +145,8 @@ If they would have done that, instead of their $816.21 cost, they would have cal
 
 Now even if one runs a case for 2% of new construction compounded each year, the annual average payment for the example property owner would be approximately $1100.
 
+#### District's bond/levy projection datasheet
+
 ![Ridgefield SD bond projection datasheet](pagesManual/LeviesReport/20240423/RidgefieldProjectionDatasheet.png "Ridgefield SD bond projection datasheet")
 
 |Criterion|Penalty|
