@@ -121,6 +121,32 @@ The district's property tax cost impact analysis (from the district's website) i
 
 ![Ridgefield SD bond cost analysis](pagesManual/LeviesReport/20240423/RidgefieldSDBondDistrictCostAnalysis.png "Ridgefield SD bond cost analysis")
 
+#### Comments on the district’s cost analysis
+
+The district fails to follow TILA (Truth In Lending Act) guidelines.
+
+Only the bond principal is mentioned. The estimated bond interest and fees are not.
+
+The existing bond payments (to cover principal and interest) of $121M for taxpayers still to pay (through 2036) are also not mentioned.
+
+The district’s “cost analysis” has fundamental logic and therefore math errors.
+
+Refer to the district’s bond management company’s bond/levy projection datasheet copied below.
+
+One can see that the district came up with their 1.30 tax rate by adding the 0.51 and 0.79 estimated rates for the 2 bonds starting in the 2025 tax collection year.
+
+But they fail to mention that they are assuming a 6% Total AV growth from 2024 to 2025. And then they are assuming a 5% Total AV growth form 2025 to 2026 and 4% growth annually for the remainder of the bond repayment schedule.
+
+One can “make” a future tax rate to be almost anything by just assuming different guesses for Total AV growth (or decrease as in a recession). Want a lower rate, well just increase the guess for Total AV growth. 
+
+So to be conservative, they should let their example home of $627,852 grow at the same pace as their growth assumptions for Total AV. School districts should be conservative with other people’s money.
+
+If they would have done that, instead of their $816.21 cost, they would have calculated an annual average tax of $1380 for the example property owner for the next 19 years. The starting payment (in 2025) would be approximately $850 rising to a max of over $2200 in 2042.
+
+Now even if one runs a case for 2% of new construction compounded each year, the annual average payment for the example property owner would be approximately $1100.
+
+![Ridgefield SD bond projection datasheet](pagesManual/LeviesReport/20240423/RidgefieldProjectionDatasheet.png "Ridgefield SD bond projection datasheet")
+
 |Criterion|Penalty|
 |---|---|
 |Did the district not provide the total estimated tax obligation for just this measure for an example property?|-50|
@@ -147,6 +173,20 @@ ___
 The district's property tax cost impact analysis (from the district's website) is shown in the next image with the red border
 
 ![Eastmont SD bond cost analysis](pagesManual/LeviesReport/20240423/EastmontSDBondDistrictCostAnalysis.png "Eastmont SD bond cost analysis")
+
+#### Comments on the district’s cost analysis
+
+School districts do not set any future tax rates. Voters are voting on amounts in dollars. The county assessor, and only the county assessor, calculates tax rates for the year each January of each year. 
+
+Example:
+
+[Tax rate for bond payments for 2025] = [Bond payment to cover principal and interest for 2025] divided by [Total Assessed Values (AVs) of all properties in the district’s tax area for 2025]
+
+The Total AV of all properties for 2025 will not be known until late summer 2024.
+
+And stating that the fictitious future tax rate will be the same as the rate in 2023 fails to inform voters that the district’s Total AV increased by 8.5% from 2023 to 2024. And the district is assuming another 3% jump in Total AV from 2024 to 2025. So having the same rate in 2025 as 2023 would be an 11.8% increase in actual dollars in taxes to collect.
+
+The total bond amount is NOT $117M. That is just the bond principal. Bond interest and fees are estimated to be an additional $90M for a true total amount to local property taxpayers of $207M. And the annual bond payment schedule to cover principal and interest has been designed to be increasing each year.
 
 |Criterion|Penalty|
 |---|---|
