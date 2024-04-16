@@ -61,6 +61,7 @@ Listed below are the the types and counts for the tax measures for the February 
 	- Number of counties with tax measures that have 1 or more phony con statements = 1
 	
 Klickitat County's LVP has a phony con statement regarding the Bickleton SD's Enrichment Levy.
+
 [Link to the Klickitat County's LVP](https://www.klickitatcounty.org/DocumentCenter/View/15815/April-23-2024-Special-Election-Voters-Pamphlet?bidId=)
 
 
