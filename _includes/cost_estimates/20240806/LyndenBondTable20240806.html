@@ -10,20 +10,36 @@
 	<!-- var chart; -->
 	var dataParcel;
 	
-	totalLevyAV = 1038910263;
+	totalLevyAV = 5260405000;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 5350000;
+	totalLevyCost = 254765000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
 	levyYears = 3;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// Total AV Annual Change Percent
-	totalAVChange0 = 8.4;
-	totalAVChange1 = 8.4;
-	totalAVChange2 = 8.4;
-	totalAVChange3 = 8.4;
+	totalAVChange0 = 6.0;
+	totalAVChange1 = 6.0;
+	totalAVChange2 = 6.0;
+	totalAVChange3 = 6.0;
+	totalAVChange4 = 5.0;
+	totalAVChange5 = 5.0;
+	totalAVChange6 = 5.0;
+	totalAVChange7 = 5.0;
+	totalAVChange8 = 5.0;
+	totalAVChange9 = 5.0;
+	totalAVChange10 = 5.0;
+	totalAVChange11 = 5.0;
+	totalAVChange12 = 5.0;
+	totalAVChange13 = 5.0;
+	totalAVChange14 = 5.0;
+	totalAVChange15 = 5.0;
+	totalAVChange16 = 5.0;
+	totalAVChange17 = 5.0;
+	totalAVChange18 = 5.0;
+	totalAVChange19 = 5.0;
 	totalAVChangeMin = -20.0;
 	totalAVChangeMax = 20.0;
 	
@@ -35,13 +51,13 @@
 		// Levy 1 init
 		data = new google.visualization.DataTable();
 		data.addColumn('string', 'Year');
-		data.addColumn('number', 'New Levy Amount');
+		data.addColumn('number', 'New Bond Amount');
 		data.addColumn('number', 'Total AV');
 		data.addColumn('number', 'Total AV Change Guess');
 		data.addColumn('number', 'Resulting Rate');
 		data.addColumn('number', 'Example Property AV');
 		data.addColumn('number', 'Example Property POF');
-		data.addColumn('number', 'Example Property Levy Amount');
+		data.addColumn('number', 'Example Property Bond Amount');
 
 		data.addRows([
 			['2023', 0,       1038910263, 0,   0,    500000, 0.000481, 0],
@@ -58,11 +74,11 @@
 		table_output.addColumn('string', 'Year');
 		table_output.addColumn('number', 'Total AV');
 		table_output.addColumn('number', 'Total AV <br> Change Guess');
-		table_output.addColumn('number', 'New Levy <br> Amount');
+		table_output.addColumn('number', 'New Bond <br> Amount');
 		table_output.addColumn('number', 'Resulting <br> Rate');
 		table_output.addColumn('number', 'Example Property <br> AV');
 		table_output.addColumn('number', 'Example Property <br> POF');
-		table_output.addColumn('number', 'Example Property <br> New Levy Amount');
+		table_output.addColumn('number', 'Example Property <br> New Bond Amount');
 
 		table_output.addRows(levyYears + 2);
 		for (let i = 0; i < levyYears + 2; i++) {
@@ -81,7 +97,7 @@
 		// Levy 1 parcel data
 		dataParcel = new google.visualization.DataTable();
 		dataParcel.addColumn('string', 'Year');
-		dataParcel.addColumn('number', 'New Levy Amount');
+		dataParcel.addColumn('number', 'New Bond Amount');
 
 		dataParcel.addRows(levyYears + 2);
 		sampleParcelPOFEffective = sampleParcelPOF;
