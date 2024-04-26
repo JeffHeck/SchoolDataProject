@@ -10,36 +10,36 @@
 	<!-- var chart; -->
 	var dataParcel;
 	
-	totalLevyAV = 1038910263;
+	totalLevyAV = 5260405000;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
 	totalLevyCost = 254765000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 17;
+	levyYears = 20;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// Total AV Annual Change Percent
-	totalAVChange0 = 1.0;
-	totalAVChange1 = 2.0;
-	totalAVChange2 = 3.0;
-	totalAVChange3 = 4.0;
+	totalAVChange0 = 6.0;
+	totalAVChange1 = 6.0;
+	totalAVChange2 = 6.0;
+	totalAVChange3 = 6.0;
 	totalAVChange4 = 5.0;
-	totalAVChange5 = 6.0;
-	totalAVChange6 = 7.0;
-	totalAVChange7 = 8.0;
-	totalAVChange8 = 9.0;
-	totalAVChange9 = 10.0;
-	totalAVChange10 = 11.0;
-	totalAVChange11 = 12.0;
-	totalAVChange12 = 13.0;
-	totalAVChange13 = 14.0;
-	totalAVChange14 = 15.0;
-	totalAVChange15 = 16.0;
-	totalAVChange16 = 17.0;
-	totalAVChange17 = 18.0;
-	totalAVChange18 = 19.0;
-	totalAVChange19 = 20.0;
+	totalAVChange5 = 5.0;
+	totalAVChange6 = 5.0;
+	totalAVChange7 = 5.0;
+	totalAVChange8 = 5.0;
+	totalAVChange9 = 5.0;
+	totalAVChange10 = 5.0;
+	totalAVChange11 = 5.0;
+	totalAVChange12 = 5.0;
+	totalAVChange13 = 5.0;
+	totalAVChange14 = 5.0;
+	totalAVChange15 = 5.0;
+	totalAVChange16 = 5.0;
+	totalAVChange17 = 5.0;
+	totalAVChange18 = 5.0;
+	totalAVChange19 = 5.0;
 
 	totalAVChangeMin = -20.0;
 	totalAVChangeMax = 20.0;
@@ -62,26 +62,26 @@
 
 		data.addRows([
 			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0],
-			['2025', 7564000, 5576029300, 1, 1.36, 530000, 0.00009505, 719],
-			['2026', 8027000, 5910591058, 2, 1.36, 561800, 0.00009505, 763],
-			['2027', 8515000, 6265226521, 3, 1.36, 595508, 0.00009505, 809],
-			['2028', 9026000, 6641140113, 4, 1.36, 631238, 0.00009505, 858],
+			['2025', 7564000, 5576029300, 6, 1.36, 530000, 0.00009505, 719],
+			['2026', 8027000, 5910591058, 6, 1.36, 561800, 0.00009505, 763],
+			['2027', 8515000, 6265226521, 6, 1.36, 595508, 0.00009505, 809],
+			['2028', 9026000, 6641140113, 6, 1.36, 631238, 0.00009505, 858],
 			['2029', 9477000, 6973197118, 5, 1.36, 662800, 0.00009505, 901],
-			['2030', 9951000, 7321856974, 6, 1.36, 695940, 0.00009505, 946],
-			['2031', 10451000, 7687949823, 7, 1.36, 730737, 0.00009505, 993],
-			['2032', 10974000, 8072347314, 8, 1.36, 767274, 0.00009505, 1043],
-			['2033', 11521000, 8475964680, 9, 1.36, 805638, 0.00009505, 1095],
-			['2034', 12096000, 8899762914, 10, 1.36, 845920, 0.00009505, 1150],
-			['2035', 12698000, 9344751060, 11, 1.36, 888216, 0.00009505, 1207],
-			['2036', 13337000, 9811988613, 12, 1.36, 932627, 0.00009505, 1268],
-			['2037', 14002000, 10302588043, 13, 1.36, 979258, 0.00009505, 1331],
-			['2038', 14704000, 10817717445, 14, 1.36, 1028221, 0.00009505, 1398],
-			['2039', 15440000, 11358603318, 15, 1.36, 1079632, 0.00009505, 1468],
-			['2040', 16208000, 11926533484, 16, 1.36, 1133614, 0.00009505, 1541],
-			['2041', 17021000, 12522860158, 17, 1.36, 1190294, 0.00009505, 1618],
-			['2042', 17872000, 13149003166, 18, 1.36, 1249809, 0.00009505, 1699],
-			['2043', 18765000, 13806453324, 19, 1.36, 1312299, 0.00009505, 1784],
-			['2044', 17116000, 14496775990, 20, 1.18, 1377914, 0.00009505, 1627],
+			['2030', 9951000, 7321856974, 5, 1.36, 695940, 0.00009505, 946],
+			['2031', 10451000, 7687949823, 5, 1.36, 730737, 0.00009505, 993],
+			['2032', 10974000, 8072347314, 5, 1.36, 767274, 0.00009505, 1043],
+			['2033', 11521000, 8475964680, 5, 1.36, 805638, 0.00009505, 1095],
+			['2034', 12096000, 8899762914, 5, 1.36, 845920, 0.00009505, 1150],
+			['2035', 12698000, 9344751060, 5, 1.36, 888216, 0.00009505, 1207],
+			['2036', 13337000, 9811988613, 5, 1.36, 932627, 0.00009505, 1268],
+			['2037', 14002000, 10302588043, 5, 1.36, 979258, 0.00009505, 1331],
+			['2038', 14704000, 10817717445, 5, 1.36, 1028221, 0.00009505, 1398],
+			['2039', 15440000, 11358603318, 5, 1.36, 1079632, 0.00009505, 1468],
+			['2040', 16208000, 11926533484, 5, 1.36, 1133614, 0.00009505, 1541],
+			['2041', 17021000, 12522860158, 5, 1.36, 1190294, 0.00009505, 1618],
+			['2042', 17872000, 13149003166, 5, 1.36, 1249809, 0.00009505, 1699],
+			['2043', 18765000, 13806453324, 5, 1.36, 1312299, 0.00009505, 1784],
+			['2044', 17116000, 14496775990, 5, 1.18, 1377914, 0.00009505, 1627],
 
 		]);
 		
@@ -97,8 +97,8 @@
 		table_output.addColumn('number', 'Example Property <br> POF');
 		table_output.addColumn('number', 'Example Property <br> New Levy Amount');
 
-		table_output.addRows(levyYears + 2);
-		for (let i = 0; i < levyYears + 2; i++) {
+		table_output.addRows(levyYears + 1);
+		for (let i = 0; i < levyYears + 1; i++) {
 			table_output.setCell(i, 0, data.getValue(i, 0)); // Year
 			table_output.setCell(i, 1, data.getValue(i, 2)); // Total AV
 			table_output.setCell(i, 2, data.getValue(i, 3)); // Total AV Change
@@ -116,10 +116,10 @@
 		dataParcel.addColumn('string', 'Year');
 		dataParcel.addColumn('number', 'New Levy Amount');
 
-		dataParcel.addRows(levyYears + 2);
+		dataParcel.addRows(levyYears + 1);
 		sampleParcelPOFEffective = sampleParcelPOF;
 		totalLevyCostParcel = 0;
-		for (let i = 0; i < levyYears + 2; i++) {
+		for (let i = 0; i < levyYears + 1; i++) {
 			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange/100) ** (1 + i);
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
@@ -500,7 +500,7 @@
 		sampleParcelPOFEffective = sampleParcelPOF;
 		totalLevyCostParcel = 0;
 		//totalLevyPriorCostParcel = 0;
-		for (let i = 0; i < levyYears + 2; i++) {
+		for (let i = 0; i < levyYears + 1; i++) {
 			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange/100) ** (1 + i);
 			dataParcel.setValue(i, 0, data.getValue(i, 0));
 			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
@@ -521,34 +521,50 @@
 		table_output.setValue(2, 2, totalAVChange1);
 		table_output.setValue(3, 2, totalAVChange2);
 		table_output.setValue(4, 2, totalAVChange3);
+		table_output.setValue(5, 2, totalAVChange4);
+		table_output.setValue(6, 2, totalAVChange5);
+		table_output.setValue(7, 2, totalAVChange6);
+		table_output.setValue(8, 2, totalAVChange7);
+		table_output.setValue(9, 2, totalAVChange8);
+		table_output.setValue(10, 2, totalAVChange9);
+		table_output.setValue(11, 2, totalAVChange10);
+		table_output.setValue(12, 2, totalAVChange11);
+		table_output.setValue(13, 2, totalAVChange12);
+		table_output.setValue(14, 2, totalAVChange13);
+		table_output.setValue(15, 2, totalAVChange14);
+		table_output.setValue(16, 2, totalAVChange15);
+		table_output.setValue(17, 2, totalAVChange16);
+		table_output.setValue(18, 2, totalAVChange17);
+		table_output.setValue(19, 2, totalAVChange18);
+		table_output.setValue(20, 2, totalAVChange19);
 		table_output.setValue(0, 5, sampleParcelAV);
 		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
 		// Total AV update
-		for (let i = 1; i < levyYears + 2; i++) {
+		for (let i = 1; i < levyYears + 1; i++) {
 			newTotalAV = table_output.getValue(i-1,1) * (1 + table_output.getValue(i, 2)/100)
 			table_output.setValue(i, 1, newTotalAV);
 		}
 		formatter.format(table_output, 1); // Apply formatter to Total AV column
 		// Rate update
-		for (let i = 0; i < levyYears + 2; i++) {
+		for (let i = 0; i < levyYears + 1; i++) {
 			newRate = table_output.getValue(i,3) / table_output.getValue(i,1) * 1000
 			table_output.setValue(i, 4, newRate);
 		}
 		formatterRate.format(table_output, 4); // Apply formatter to Rate column
 		// Example Property AV update
-		for (let i = 1; i < levyYears + 2; i++) {
+		for (let i = 1; i < levyYears + 1; i++) {
 			newExPropAV = table_output.getValue(i-1,5) * (1 + table_output.getValue(i,2) / 100)
 			table_output.setValue(i, 5, newExPropAV);
 		}
 		formatter.format(table_output, 5); // Apply formatter to Ex Prop AV column
 		// Example Property POF update
-		for (let i = 0; i < levyYears + 2; i++) {
+		for (let i = 0; i < levyYears + 1; i++) {
 			newExPropPOF = table_output.getValue(i,5) / table_output.getValue(i,1)
 			table_output.setValue(i, 6, newExPropPOF);
 		}
 		formatterPOF.format(table_output, 6); // Apply formatter to Ex Prop POF column
 		// Example Property Levy Amount update
-		for (let i = 0; i < levyYears + 2; i++) {
+		for (let i = 0; i < levyYears + 1; i++) {
 			newExPropLevyAmount = table_output.getValue(i,5) * table_output.getValue(i,4) / 1000
 			table_output.setValue(i, 7, newExPropLevyAmount);
 		}
@@ -801,7 +817,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 13th 2024 enrichment levy measure proposed by the Toledo SD</H2>
+  <H2>Property tax impact estimate calculator for the August 6th 2024 bond measure proposed by the Lynden SD</H2>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
   <!-- <p></p> -->
