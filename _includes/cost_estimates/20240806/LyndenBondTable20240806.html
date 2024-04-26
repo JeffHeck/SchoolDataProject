@@ -381,6 +381,41 @@
 		formatterPercent1.format(table_total_av_change_3_adjust_input_data, 1); // Apply formatter to second column
 		table_total_av_3_adjust_input.draw(table_total_av_change_3_adjust_input_data, {sort:'disable'});
 
+		// Input table for POF 4 change
+		table_total_av_4_adjust_input = new google.visualization.Table(document.getElementById('table_pof_4_adjust_input_div'));
+		formatterPercent1.format(table_total_av_change_4_adjust_input_data, 1); // Apply formatter to second column
+		table_total_av_4_adjust_input.draw(table_total_av_change_4_adjust_input_data, {sort:'disable'});
+
+		// Input table for POF 5 change
+		table_total_av_5_adjust_input = new google.visualization.Table(document.getElementById('table_pof_5_adjust_input_div'));
+		formatterPercent1.format(table_total_av_change_5_adjust_input_data, 1); // Apply formatter to second column
+		table_total_av_5_adjust_input.draw(table_total_av_change_5_adjust_input_data, {sort:'disable'});
+
+		// Input table for POF 6 change
+		table_total_av_6_adjust_input = new google.visualization.Table(document.getElementById('table_pof_6_adjust_input_div'));
+		formatterPercent1.format(table_total_av_change_6_adjust_input_data, 1); // Apply formatter to second column
+		table_total_av_6_adjust_input.draw(table_total_av_change_6_adjust_input_data, {sort:'disable'});
+
+		// Input table for POF 7 change
+		table_total_av_7_adjust_input = new google.visualization.Table(document.getElementById('table_pof_7_adjust_input_div'));
+		formatterPercent1.format(table_total_av_change_7_adjust_input_data, 1); // Apply formatter to second column
+		table_total_av_7_adjust_input.draw(table_total_av_change_7_adjust_input_data, {sort:'disable'});
+
+		// Input table for POF 8 change
+		table_total_av_8_adjust_input = new google.visualization.Table(document.getElementById('table_pof_8_adjust_input_div'));
+		formatterPercent1.format(table_total_av_change_8_adjust_input_data, 1); // Apply formatter to second column
+		table_total_av_8_adjust_input.draw(table_total_av_change_8_adjust_input_data, {sort:'disable'});
+
+		// Input table for POF 9 change
+		table_total_av_9_adjust_input = new google.visualization.Table(document.getElementById('table_pof_9_adjust_input_div'));
+		formatterPercent1.format(table_total_av_change_9_adjust_input_data, 1); // Apply formatter to second column
+		table_total_av_9_adjust_input.draw(table_total_av_change_9_adjust_input_data, {sort:'disable'});
+
+		// Input table for POF 10 change
+		table_total_av_10_adjust_input = new google.visualization.Table(document.getElementById('table_pof_10_adjust_input_div'));
+		formatterPercent1.format(table_total_av_change_10_adjust_input_data, 1); // Apply formatter to second column
+		table_total_av_10_adjust_input.draw(table_total_av_change_10_adjust_input_data, {sort:'disable'});
+
 		// Output table general
 		table_output_vis = new google.visualization.Table(document.getElementById('table_output_general_div'));
 		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
@@ -719,6 +754,27 @@
   <div id="table_pof_3_adjust_input_div" style="width:1200px; height: 60px;"></div>
   <input type="button" value="+" onclick="changeTotalAVChange3(0.2)" />
   <input type="button" value="-" onclick="changeTotalAVChange3(-0.2)" />
+  <div id="table_pof_4_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeTotalAVChange4(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange4(-0.2)" />
+  <div id="table_pof_5_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeTotalAVChange5(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange5(-0.2)" />
+  <div id="table_pof_6_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeTotalAVChange6(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange6(-0.2)" />
+  <div id="table_pof_7_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeTotalAVChange7(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange7(-0.2)" />
+  <div id="table_pof_8_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeTotalAVChange8(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange8(-0.2)" />
+  <div id="table_pof_9_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeTotalAVChange9(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange9(-0.2)" />
+  <div id="table_pof_10_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeTotalAVChange10(0.2)" />
+  <input type="button" value="-" onclick="changeTotalAVChange10(-0.2)" />
   <p></p>
   <H3>Output</H3>
   <!-- <H3>Enrichment Levy</H3> -->
