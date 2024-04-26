@@ -52,13 +52,13 @@
 		// Levy 1 init
 		data = new google.visualization.DataTable();
 		data.addColumn('string', 'Year');
-		data.addColumn('number', 'New Levy Amount');
+		data.addColumn('number', 'New Bond Amount');
 		data.addColumn('number', 'Total AV');
 		data.addColumn('number', 'Total AV Change Guess');
 		data.addColumn('number', 'Resulting Rate');
 		data.addColumn('number', 'Example Property AV');
 		data.addColumn('number', 'Example Property POF');
-		data.addColumn('number', 'Example Property Levy Amount');
+		data.addColumn('number', 'Example Property Bond Amount');
 
 		data.addRows([
 			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0],
@@ -91,22 +91,22 @@
 		table_output.addColumn('string', 'Year');
 		table_output.addColumn('number', 'Total AV');
 		table_output.addColumn('number', 'Total AV <br> Change Guess');
-		table_output.addColumn('number', 'New Levy <br> Amount');
+		table_output.addColumn('number', 'New Bond <br> Amount');
 		table_output.addColumn('number', 'Resulting <br> Rate');
 		table_output.addColumn('number', 'Example Property <br> AV');
 		table_output.addColumn('number', 'Example Property <br> POF');
-		table_output.addColumn('number', 'Example Property <br> New Levy Amount');
+		table_output.addColumn('number', 'Example Property <br> New Bond Amount');
 
 		table_output.addRows(levyYears + 1);
 		for (let i = 0; i < levyYears + 1; i++) {
 			table_output.setCell(i, 0, data.getValue(i, 0)); // Year
 			table_output.setCell(i, 1, data.getValue(i, 2)); // Total AV
 			table_output.setCell(i, 2, data.getValue(i, 3)); // Total AV Change
-			table_output.setCell(i, 3, data.getValue(i, 1)); // New Levy Amount
+			table_output.setCell(i, 3, data.getValue(i, 1)); // New Bond Amount
 			table_output.setCell(i, 4, data.getValue(i, 4)); // Rate
 			table_output.setCell(i, 5, data.getValue(i, 5)); // Example Property AV
 			table_output.setCell(i, 6, data.getValue(i, 6)); // Example Property POF
-			table_output.setCell(i, 7, data.getValue(i, 7)); // Example Property Levy Amount
+			table_output.setCell(i, 7, data.getValue(i, 7)); // Example Property Bond Amount
 		
 		}
 
@@ -114,7 +114,7 @@
 		// Levy 1 parcel data
 		dataParcel = new google.visualization.DataTable();
 		dataParcel.addColumn('string', 'Year');
-		dataParcel.addColumn('number', 'New Levy Amount');
+		dataParcel.addColumn('number', 'New Bond Amount');
 
 		dataParcel.addRows(levyYears + 1);
 		sampleParcelPOFEffective = sampleParcelPOF;
@@ -128,7 +128,7 @@
 		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 
 		options = {
-			title: 'Estimated Levy Cost Schedule For The Sample Parcel',
+			title: 'Estimated Bond Cost Schedule For The Sample Parcel',
 			isStacked: true,
 			hAxis: {
 			title: '',
@@ -474,11 +474,11 @@
 		table_output_vis = new google.visualization.Table(document.getElementById('table_output_general_div'));
 		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
 		formatter.format(table_output, 1); // Apply formatter to Total AV column
-		formatter.format(table_output, 3); // Apply formatter to Levy Amount column
+		formatter.format(table_output, 3); // Apply formatter to Bond Amount column
 		formatterRate.format(table_output, 4); // Apply formatter to Rate column
 		formatter.format(table_output, 5); // Apply formatter to Example Property AV column
 		formatterPOF.format(table_output, 6); // Apply formatter to Example Property POF column
-		formatter.format(table_output, 7); // Apply formatter to Example Property Levy Amount column
+		formatter.format(table_output, 7); // Apply formatter to Example Property Bond Amount column
 		table_output_vis.draw(table_output, {sort:'disable'});
 		
 		changeParcelAV(0);
@@ -898,7 +898,7 @@
   <p>Notice how changing the Total AV Change percent guesses affects the calculated rates but not the bond amounts for the owner of the example property. </p>
   <p>The one important assumption in this calculator is that the example property's AV rises and falls at the same pace as the overall Total AV.</p>
   <H3>Data Sources</H3>
-  <p>The district's levy resolution</p>
+  <p>The district's bond/levy projection datasheet</p>
   <!-- <p>The county assessor's website for historical property taxes</p> -->
 
  </body>
