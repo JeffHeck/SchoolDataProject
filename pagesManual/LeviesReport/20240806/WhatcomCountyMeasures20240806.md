@@ -68,7 +68,7 @@ See the additional Lynden SD example bond calculator to demonstrate how future g
 
 [Link to the interactive calculator version 2 for the Lynden SD bond](table_lynden_bond_20240806)
 
-The district came up with a 1.36 rate because of their assumption of 5-6% for Total AV growth each year for the next 20 years. If they had used a 10% growth for just 2025 the rate would have been 1.31
+The district came up with a 1.36 rate because of their assumption of 5-6% for Total AV growth each year for the next 20 years. If they had used a 10% growth for just 2024 to 2025 the calculated rate would have been 1.31
 
 ![Lynden SD's bond table for an example property](pagesManual/LeviesReport/20240806/LyndenSDBondExProperty3.png "Lynden SD's bond table for an example property")
 
@@ -77,7 +77,7 @@ Then the district would have incorrectly calculated:
 1.31 X $500,000 / 1,000 = $655
 
 
-If they had used 2% growth for just 2025, the rate would have been 1.41
+If they had used 2% growth for just 2024 to 2025, the fictitious calculated future rate would have then been 1.41
 
 ![Lynden SD's bond table for an example property](pagesManual/LeviesReport/20240806/LyndenSDBondExProperty2.png "Lynden SD's bond table for an example property")
 
@@ -85,7 +85,7 @@ Then the district would have incorrectly calculated:
 
 1.41 X $500,000 / 1,000 = $705
 
-But in each case, the homeowner of the example property would still actually owe $1200 on average each year for the next 20 years. And that is the point. Future guesstimated rates should be prohibited from 
+But in each case, the homeowner of the example property would still actually owe $1200 on average each year for the next 20 years as the tables show. And that is the point. Future guesstimated rates should be prohibited from 
 all district campaign materials. Citizens are not voting on future rates. They are voting on amounts in dollars.
 
 ___
