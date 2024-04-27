@@ -58,6 +58,13 @@ See the additional Lynden SD example bond calculator to demonstrate how future g
 
 [Link to the interactive calculator version 2 for the Lynden SD bond](table_lynden_bond_20240806)
 
+The district came up with a 1.36 rate because of their assumption of 5-6% for Total AV growth each year for the next 20 years. If they had used a 10% growth for 2025 the rate would have been 1.3
+
+If they had used 2% growth for 2025, the rate would have been 1.41
+
+But in each case, the homeowner of the example property would still owe $1200 on average each year for the next 20 years. And that is the point. Future guesstimated rates should be prohibited from 
+all district campaign materials. Citizens are not voting on future rates. They are voting on amounts in dollars.
+
 ___
 
 Source: Lynden SD's bond/levy projection datasheet information
