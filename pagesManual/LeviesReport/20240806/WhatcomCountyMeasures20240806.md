@@ -24,9 +24,9 @@ The district's cost analysis earns an "F" using the described rubric.
 
 [Link to the detailed report of the analysis of each district's cost impact analysis](report_analysis_of_districts_cost_analyses_20240806)
 
-Instead of $680 as a cost impact the district should have calculated an average annual cost impact of over $1200!
+Instead of $680 as a cost for this 1 bond the district should have calculated an average annual cost of over $1200!
 
-The district's cost impact estimate is over 75% too low.
+The district's cost estimate is over 75% too low.
 
 An average was necessary since the district designed their bond payments schedule to be unlike a home mortgage. 
 
