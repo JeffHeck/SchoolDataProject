@@ -69,7 +69,7 @@ See the additional Lynden SD example bond calculator to demonstrate how future g
 
 [Link to the interactive calculator version 2 for the Lynden SD bond](table_lynden_bond_20240806)
 
-Future guesstimated rates can be designed to be almost almost anything. Assume a lower Total AV, then the calculated rate will be higher. 
+Future guesstimated rates can be designed to be almost anything. Assume a lower Total AV, then the calculated rate will be higher. 
 Assume a higher Total AV, then the calculated rate will be lower. But the amount of tax to collect will be the same.
 
 The county assessor and only the county assessor calculates the actual rate each January of each year.
