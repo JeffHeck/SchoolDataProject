@@ -4,57 +4,21 @@ title: School District Tax Measures August 6th 2024
 permalink: report_levies_20240806
 ---
 
-Last updated: April 26th, 2024
+Last updated: April 28th, 2024
 
 In progress.
 
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
-- Summary
-    - Overview
-    - Local voters' pamphlet (LVP) statistics
-- Bond summary
-    - Total bond cost to local taxpayers
-	- Total bond cost to owners of properties with 2024 assessed values of $500,000
-- Enrichment levy summary
-    - Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
-    - Average annual enrichment levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
-- Capital levy summary
-    - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
-    - Average annual capital levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
-	- All bonds
-	- All enrichment levies
-	- All capital levies
-- An analysis of each district's taxpayer cost impact analysis
+- A critique of each district's taxpayer cost impact analysis
 - Calculator methodology
     - POF proof
 
 ___
 
-## Summary
-### Overview
-In progress
-
-___
-
-## Bond summary
-In progress
-
-___
-
-## Enrichment levy summary
-In progress
-
-___
-
-## Capital levy summary
-In progress
-
-
-___
 
 ## Measure details
 ### All measures (bonds, enrichment levies, capital levies) by county
@@ -62,26 +26,31 @@ ___
 
 ___
 
+## A critique of each district's taxpayer cost impact analysis
+
+[Link to the detailed report of the analysis of each district's cost impact analysis](report_analysis_of_districts_cost_analyses_20240806)
+
+___
 
 ## Calculator methodology
 
-School district reps often think and say they need to correctly guess the future 
+School district reps often say they need to correctly guess the future 
 Total AV for their district's tax area for each of the future years of their tax measures. Their assumption is incorrect and ends up misleading voters/taxpayers. 
 And district reps' incorrect logic also usually leads to underestimating the true costs of their measures to taxpayers.
 
 In contrast, for the property tax impact estimate calculators on this website, the author uses a Proportional Obligation Factor (POF) method. 
 
-Using the 2023 Total District Assessed Value (AV), the POF of the example property was calculated:
+Using the 2024 Total District Assessed Value (AV), the POF of the example property was calculated:
 
-POF = (2023 Example Property AV) / (2023 Total District AV)
+POF = (2024 Example Property AV) / (2024 Total District AV)
 
 The POF was then multiplied by the total amount that the district expects to collect each year for the duration of the measure in question (bond or levy) 
 to obtain the estimated taxes for the example property for the measure.
 
-Using this methodology, it doesn’t matter if all properties increase in AV by 10% or all decrease in AV by 10% (which could happen in a recession). 
+Using this methodology, it doesn’t matter if all properties increase in AV by 20% or all decrease in AV by 20% (which could happen in a recession). 
 The tax collection schedule shown in the charts and tables would still apply for the example property. The example property's proportion of obligation for the bond debt 
-or levy remains the same over the bond payback or levy period. Tax rates, however, would change. If all properties increase in AV by 10%, the tax rate for the measures would 
-decrease by approximately 10%. If all properties decrease in AV by 10%, the tax rate for the measures would increase by approximately 10%.
+or levy remains the same over the bond payback or levy period. Tax rates, however, would change. If all properties increase in AV by 20%, the tax rate for the measures would 
+decrease by approximately 20%. If all properties decrease in AV by 20%, the tax rate for the measures would increase by approximately 20%.
 
 Note for the POF annual change parameter for the enhanced calculator versions:
 
@@ -94,7 +63,7 @@ calculators for their constituents.
 
 Example calculator calculation:
 
-Centralia SD
+Centralia SD for their 2023 Enrichment Levy tax measure
 
 Total District AV for 2023: $4,131,948,094
 
@@ -157,11 +126,6 @@ future levy amounts based on the value of their properties' current year AV.
 See the Lynden SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
 
 [Link to the Lynden SD example](table_lynden_bond_20240806)
-
-See the next link for a levy example for the Toledo SD's Enrichment Levy
-
-[Link to the Toledo SD example](table_toledo_enrichment_20240213)
-
 
 
 ___
