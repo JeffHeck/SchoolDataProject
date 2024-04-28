@@ -88,6 +88,13 @@ Then the district would have incorrectly calculated:
 But in each case, the homeowner of the example property would still actually owe $1200 on average each year for the next 20 years as the tables show. And that is the point. Future guesstimated rates should be prohibited from 
 all district campaign materials. Citizens are not voting on future rates. They are voting on amounts in dollars.
 
+In fact the district could have just assumed 0% growth in Total AV for each of the 20 years of the bond. The rates that are then generated are basically based on the base year (2024 in this case) that we know the Total AV for. 
+So there would be no guessing. 
+The tax rates calculated would all be escalating. That is because the district designed their bond repayment schedule to be escalating. But then voters/taxpayers could easily and accurately calculate their tax for this 
+one bond for each of the next 20 years.
+
+![Lynden SD's bond table for an example property](pagesManual/LeviesReport/20240806/LyndenSDBondExProperty4.png "Lynden SD's bond table for an example property")
+
 ___
 
 Source: Lynden SD's bond/levy projection datasheet information
