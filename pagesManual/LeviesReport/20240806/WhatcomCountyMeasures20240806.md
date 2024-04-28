@@ -38,7 +38,8 @@ The district is making a common, logic and math error. The district is assuming 
 from 2029 through 2044. The district should have allowed their example property's AV to also increase at the same pace as their assumption for Total AV. 
 The author has also shown (using basic Algebra) that the district and all districts do not need to guess future Total AV to try to then guess future tax rates.
 
-Only a couple of districts in WA such as Yelm and Tacoma correctly calculate the cost impact for example properties for their tax measures. The Lynden SD reps should contact one of those districts for advice.
+Only a few districts in WA such as Yelm and Tacoma correctly calculate the cost impact for example properties for their tax measures. 
+The Lynden SD reps should contact one of those districts for advice.
 
 The district failed to voluntarily follow the Truth In Lending Act (TILA) guidelines. The district should always provide the following in all of their campaign materials:
 
@@ -55,8 +56,8 @@ State School taxes, and non-school taxes.
 
 The district only provided items 1 and 4.
 
-This next table shows how the district is assuming certain large Total AV changes each year but it is keeping the AV of the example property constant at $500,000 for each of the next 20 years. This 
-is nonsense. 
+This next table shows how the district is assuming certain large Total AV changes each year but it is (nonsensically) keeping the AV of the example 
+property constant at $500,000 for each of the next 20 years. 
 
 ![Lynden SD's bond table for an example property](pagesManual/LeviesReport/20240806/LyndenSDBondExProperty.png "Lynden SD's bond table for an example property")
 
@@ -67,6 +68,13 @@ The district is incorrectly just multiplying the fictitious rate of 1.36 by the 
 See the additional Lynden SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
 
 [Link to the interactive calculator version 2 for the Lynden SD bond](table_lynden_bond_20240806)
+
+Future guesstimated rates can be designed to be almost almost anything. Assume a lower Total AV, then the calculated rate will be higher. 
+Assume a higher Total AV, then the calculated rate will be lower. But the amount of tax to collect will be the same.
+
+The county assessor and only the county assessor calculates the actual rate each January of each year.
+
+{Rate for a given year} = {Bond payment for the given year} / {Total AV for the given year} X 1,000
 
 The district came up with a 1.36 rate because of their assumption of 5-6% for Total AV growth each year for the next 20 years. If they had used a 10% growth for just 2024 to 2025 the calculated rate would have been 1.31
 
