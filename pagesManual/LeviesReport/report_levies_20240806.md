@@ -6,17 +6,14 @@ permalink: report_levies_20240806
 
 Last updated: May 3rd, 2024
 
-In progress.
-
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
     - Overview
     - Local voters' pamphlet (LVP) statistics
-- Summary
 - Measure details
-	- All measures (bonds, enrichment levies, capital levies) by county
+	- Tax measures by county
 - A critique of each district's taxpayer cost impact analysis
 - Calculator methodology
     - POF proof
