@@ -4,13 +4,17 @@ title: School District Tax Measures August 6th 2024
 permalink: report_levies_20240806
 ---
 
-Last updated: April 28th, 2024
+Last updated: May 3rd, 2024
 
 In progress.
 
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
+- Summary
+    - Overview
+    - Local voters' pamphlet (LVP) statistics
+- Summary
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
 - A critique of each district's taxpayer cost impact analysis
@@ -19,9 +23,23 @@ As analyses are completed, summary results will be provided on this page.
 
 ___
 
+## Summary
+### Overview
+Listed below are the the types and counts for the tax measures expected for the August 6th 2024 election:
+- Bonds: 1
+- Enrichment Levies: 0
+- Capital / Tech Levies: 0
+
+The only tax measure for the August 6th 2024 election is the bond for the Lynden SD in Whatcom County.
+
+### Local voters' pamphlet (LVP) statistics
+- Bonds
+    - Number of bonds =  1
+    - Number of bonds with pro statements =  1
+    - Number of bonds with con statements =  1
 
 ## Measure details
-### All measures (bonds, enrichment levies, capital levies) by county
+### Tax measures by county
 [Whatcom](whatcomcountymeasures20240806)
 
 ___
