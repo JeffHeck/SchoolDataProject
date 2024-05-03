@@ -47,7 +47,8 @@ The district failed to voluntarily follow the Truth In Lending Act (TILA) guidel
 2. Total bond estimated interest and fees - in dollars. ($97M)
 3. Total cost to taxpayers (total bond principal + total bond interest and fees) - in dollars. ($254.5M)
 4. Bond maturity length - in years. (20 years)
-5. Bond schedule showing the tax amounts in dollars to be collected each year. Most school districts design their bond schedules to have increasing payments (taxes to collect) each year.
+5. Bond schedule showing the tax amounts in dollars to be collected each year. A few districts such as Paterson and Bellevue designed their bond payments schedule to be similar to a home mortgage with 
+constant payments each year. The Lynden SD however designed their bond schedule to have escalating payments each year as shown in the charts above.
 6. Total existing bond debt payments - in dollars - for the current year through the final year of the remaining term for the existing debt. 
 ($43M still in total payments to make. Last payment will be in 2035)
 7. An online calculator that uses a conservative estimate and uses sound accounting principles to estimate the cost impact each year of the term of the new bond for each taxable property if the 
