@@ -38,8 +38,8 @@ The district is making a common, logic and math error. The district is assuming 
 from 2029 through 2044. The district should have allowed their example property's AV to also increase at the same pace as their assumption for Total AV. 
 The author has also shown (using basic Algebra) that the district and all districts do not need to guess future Total AV to try to then guess future tax rates.
 
-Only a few districts in WA such as Yelm and Tacoma correctly calculate the cost impact for example properties for their tax measures. 
-The Lynden SD reps should contact one of those districts for advice.
+Only a few districts in WA such as Yelm and Tacoma correctly calculate the cost impact for example properties for their tax measures by letting the AV of the example properties 
+rise and fall at the same pace as their assumptions for Total AV changes. The Lynden SD reps should contact one of those districts for advice.
 
 The district failed to voluntarily follow the Truth In Lending Act (TILA) guidelines. The district should always provide the following in all of their campaign materials:
 
