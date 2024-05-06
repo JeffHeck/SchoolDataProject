@@ -55,7 +55,7 @@
 		data.addColumn('number', 'New Bond Amount');
 		data.addColumn('number', 'Total AV');
 		data.addColumn('number', 'Total AV Change Guess');
-		data.addColumn('number', 'Resulting Rate');
+		data.addColumn('number', 'Resulting New Bond Tax Rate');
 		data.addColumn('number', 'Example Property AV');
 		data.addColumn('number', 'Example Property POF');
 		data.addColumn('number', 'Example Property Bond Amount');
@@ -92,7 +92,7 @@
 		table_output.addColumn('number', 'Total AV');
 		table_output.addColumn('number', 'Total AV <br> Change Guess');
 		table_output.addColumn('number', 'New Bond <br> Amount');
-		table_output.addColumn('number', 'Resulting <br> Rate');
+		table_output.addColumn('number', 'Resulting New Bond<br> Tax Rate');
 		table_output.addColumn('number', 'Example Property <br> AV');
 		table_output.addColumn('number', 'Example Property <br> POF');
 		table_output.addColumn('number', 'Example Property <br> New Bond Amount');
@@ -897,6 +897,14 @@
   <p>POF: Proportional Obligation Factor equals the assessed value (AV) of the example property divided by the Total AV of the properties within the district's tax area.</p>
   <p>Notice how changing the Total AV Change percent guesses affects the calculated rates but not the bond amounts for the owner of the example property. </p>
   <p>The one important assumption in this calculator is that the example property's AV rises and falls at the same pace as the overall Total AV.</p>
+  <p></p>
+  <H3>Equations</H3>
+  <p>There are 2 ways to calculate the property tax for a given year for a given property. They are equivalent.</p>
+  <p>For any given year:</p>
+  <p>POF = {Example Property AV} / {Total AV}</p>
+  <p>Example Property New Bond Amount = {POF} X {New Bond Amount}</p>
+  <p>Resulting New Bond Tax Rate = {New Bond Amount} / {Total AV} X 1,000</p>
+  <p>Example Property New Bond Amount = {Resulting New Bond Tax Rate} X {Example Property AV} / 1,000</p>
   <H3>Data Sources</H3>
   <p>The district's bond/levy projection datasheet</p>
   <!-- <p>The county assessor's website for historical property taxes</p> -->
