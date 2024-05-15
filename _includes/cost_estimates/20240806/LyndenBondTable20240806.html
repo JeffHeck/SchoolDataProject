@@ -64,29 +64,30 @@
 		data.addColumn('number', 'Example Property AV');
 		data.addColumn('number', 'Example Property POF');
 		data.addColumn('number', 'Example Property Bond Tax');
+		data.addColumn('number', 'Example Property AV Change');
 
 		data.addRows([
-			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0],
-			['2025', 7564000, 5576029300, 6, 1.36, 530000, 0.00009505, 719],
-			['2026', 8027000, 5910591058, 6, 1.36, 561800, 0.00009505, 763],
-			['2027', 8515000, 6265226521, 6, 1.36, 595508, 0.00009505, 809],
-			['2028', 9026000, 6641140113, 6, 1.36, 631238, 0.00009505, 858],
-			['2029', 9477000, 6973197118, 5, 1.36, 662800, 0.00009505, 901],
-			['2030', 9951000, 7321856974, 5, 1.36, 695940, 0.00009505, 946],
-			['2031', 10451000, 7687949823, 5, 1.36, 730737, 0.00009505, 993],
-			['2032', 10974000, 8072347314, 5, 1.36, 767274, 0.00009505, 1043],
-			['2033', 11521000, 8475964680, 5, 1.36, 805638, 0.00009505, 1095],
-			['2034', 12096000, 8899762914, 5, 1.36, 845920, 0.00009505, 1150],
-			['2035', 12698000, 9344751060, 5, 1.36, 888216, 0.00009505, 1207],
-			['2036', 13337000, 9811988613, 5, 1.36, 932627, 0.00009505, 1268],
-			['2037', 14002000, 10302588043, 5, 1.36, 979258, 0.00009505, 1331],
-			['2038', 14704000, 10817717445, 5, 1.36, 1028221, 0.00009505, 1398],
-			['2039', 15440000, 11358603318, 5, 1.36, 1079632, 0.00009505, 1468],
-			['2040', 16208000, 11926533484, 5, 1.36, 1133614, 0.00009505, 1541],
-			['2041', 17021000, 12522860158, 5, 1.36, 1190294, 0.00009505, 1618],
-			['2042', 17872000, 13149003166, 5, 1.36, 1249809, 0.00009505, 1699],
-			['2043', 18765000, 13806453324, 5, 1.36, 1312299, 0.00009505, 1784],
-			['2044', 17116000, 14496775990, 5, 1.18, 1377914, 0.00009505, 1627],
+			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0, 0],
+			['2025', 7564000, 5576029300, 6, 1.36, 530000, 0.00009505, 719, 6],
+			['2026', 8027000, 5910591058, 6, 1.36, 561800, 0.00009505, 763, 6],
+			['2027', 8515000, 6265226521, 6, 1.36, 595508, 0.00009505, 809, 6],
+			['2028', 9026000, 6641140113, 6, 1.36, 631238, 0.00009505, 858, 6],
+			['2029', 9477000, 6973197118, 5, 1.36, 662800, 0.00009505, 901, 6],
+			['2030', 9951000, 7321856974, 5, 1.36, 695940, 0.00009505, 946, 5],
+			['2031', 10451000, 7687949823, 5, 1.36, 730737, 0.00009505, 993, 5],
+			['2032', 10974000, 8072347314, 5, 1.36, 767274, 0.00009505, 1043, 5],
+			['2033', 11521000, 8475964680, 5, 1.36, 805638, 0.00009505, 1095, 5],
+			['2034', 12096000, 8899762914, 5, 1.36, 845920, 0.00009505, 1150, 5],
+			['2035', 12698000, 9344751060, 5, 1.36, 888216, 0.00009505, 1207, 5],
+			['2036', 13337000, 9811988613, 5, 1.36, 932627, 0.00009505, 1268, 5],
+			['2037', 14002000, 10302588043, 5, 1.36, 979258, 0.00009505, 1331, 5],
+			['2038', 14704000, 10817717445, 5, 1.36, 1028221, 0.00009505, 1398, 5],
+			['2039', 15440000, 11358603318, 5, 1.36, 1079632, 0.00009505, 1468, 5],
+			['2040', 16208000, 11926533484, 5, 1.36, 1133614, 0.00009505, 1541, 5],
+			['2041', 17021000, 12522860158, 5, 1.36, 1190294, 0.00009505, 1618, 5],
+			['2042', 17872000, 13149003166, 5, 1.36, 1249809, 0.00009505, 1699, 5],
+			['2043', 18765000, 13806453324, 5, 1.36, 1312299, 0.00009505, 1784, 5],
+			['2044', 17116000, 14496775990, 5, 1.18, 1377914, 0.00009505, 1627, 5],
 
 		]);
 		
@@ -101,6 +102,7 @@
 		table_output.addColumn('number', 'Example Property <br> AV');
 		table_output.addColumn('number', 'Example Property <br> POF');
 		table_output.addColumn('number', 'Example Property <br> New Bond Tax');
+		table_output.addColumn('number', 'Example Property <br> AV Change');
 
 		table_output.addRows(levyYears + 1);
 		for (let i = 0; i < levyYears + 1; i++) {
@@ -112,6 +114,7 @@
 			table_output.setCell(i, 5, data.getValue(i, 5)); // Example Property AV
 			table_output.setCell(i, 6, data.getValue(i, 6)); // Example Property POF
 			table_output.setCell(i, 7, data.getValue(i, 7)); // Example Property Bond Tax
+			table_output.setCell(i, 8, data.getValue(i, 8)); // Example Property AV Change
 		
 		}
 
@@ -232,6 +235,7 @@
 		formatter.format(table_output, 5); // Apply formatter to Example Property AV column
 		formatterPOF.format(table_output, 6); // Apply formatter to Example Property POF column
 		formatter.format(table_output, 7); // Apply formatter to Example Property Bond Tax column
+		formatterPercent1.format(table_output, 8); // Apply formatter to Example Property AV Change column
 		table_output_vis.draw(table_output, {sort:'disable'});
 		
 		changeParcelAV(0);
@@ -322,6 +326,12 @@
 			table_output.setValue(i, 7, newExPropLevyAmount);
 		}
 		formatter.format(table_output, 7); // Apply formatter to Ex Prop Levy Tax column
+		// Example Property AV Change update
+		for (let i = 1; i < levyYears + 1; i++) {
+			newExPropAVChange = (table_output.getValue(i,5) - table_output.getValue(i-1,5)) / table_output.getValue(i-1,5) * 100
+			table_output.setValue(i, 8, newExPropAVChange);
+		}
+		formatterPercent1.format(table_output, 8); // Apply formatter to Ex Prop Levy Tax column
 	
 		//table_output.setValue(1, 2, totalAVChange0);
 		table_output_vis.draw(table_output, {sort:'disable',allowHtml:'true'});
