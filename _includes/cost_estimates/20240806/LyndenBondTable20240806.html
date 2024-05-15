@@ -125,7 +125,7 @@
 		sampleParcelPOFEffective = sampleParcelPOF;
 		totalLevyCostParcel = 0;
 		for (let i = 0; i < levyYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange/100) ** (1 + i);
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (1 + i);
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
 			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
@@ -520,7 +520,7 @@
 		totalLevyCostParcel = 0;
 		//totalLevyPriorCostParcel = 0;
 		for (let i = 0; i < levyYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange/100) ** (1 + i);
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (1 + i);
 			dataParcel.setValue(i, 0, data.getValue(i, 0));
 			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
 			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
@@ -572,7 +572,7 @@
 		formatterRate.format(table_output, 4); // Apply formatter to Rate column
 		// Example Property AV update
 		for (let i = 1; i < levyYears + 1; i++) {
-			newExPropAV = table_output.getValue(i-1,5) * (1 + table_output.getValue(i,2) / 100)
+			newExPropAV = table_output.getValue(i-1,5) * (1 + table_output.getValue(i,2) / 100) * ((1 + pofChange0/100) ** (1))
 			table_output.setValue(i, 5, newExPropAV);
 		}
 		formatter.format(table_output, 5); // Apply formatter to Ex Prop AV column
@@ -599,6 +599,25 @@
 			totalAVChange0 = totalAVChangeMin;
 		if (totalAVChange0 > totalAVChangeMax)
 			totalAVChange0 = totalAVChangeMax;
+		totalAVChange1 = totalAVChange0
+		totalAVChange2 = totalAVChange0
+		totalAVChange3 = totalAVChange0
+		totalAVChange4 = totalAVChange0
+		totalAVChange5 = totalAVChange0
+		totalAVChange6 = totalAVChange0
+		totalAVChange7 = totalAVChange0
+		totalAVChange8 = totalAVChange0
+		totalAVChange9 = totalAVChange0
+		totalAVChange10 = totalAVChange0
+		totalAVChange11 = totalAVChange0
+		totalAVChange12 = totalAVChange0
+		totalAVChange13 = totalAVChange0
+		totalAVChange14 = totalAVChange0
+		totalAVChange15 = totalAVChange0
+		totalAVChange16 = totalAVChange0
+		totalAVChange17 = totalAVChange0
+		totalAVChange18 = totalAVChange0
+		totalAVChange19 = totalAVChange0
 		table_total_av_change_0_adjust_input_data.setValue(0, 1, totalAVChange0);
 		formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column
 		table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data);
