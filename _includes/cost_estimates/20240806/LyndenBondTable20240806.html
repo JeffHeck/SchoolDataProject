@@ -21,6 +21,8 @@
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// Total AV Annual Change Percent
 	totalAVChange0 = 6.0;
+	pofChange0 = 0.0;
+
 	totalAVChange1 = 6.0;
 	totalAVChange2 = 6.0;
 	totalAVChange3 = 6.0;
@@ -44,6 +46,9 @@
 	totalAVChangeMin = -20.0;
 	totalAVChangeMax = 20.0;
 	
+	pofChangeMin = -5.0;
+	pofChangeMax = 5.0;
+
 	pofChange = 0
 
 
@@ -161,7 +166,16 @@
 		table_total_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_total_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_total_av_change_0_adjust_input_data.addRows([
-			['2024 to 2025 Total AV Percent Change Guess', totalAVChange0 ],
+			['Annual Total AV Percent Change Guess', totalAVChange0 ],
+		]);
+
+		// POF 0 Adjust table
+		// POF 0 Adjust
+		table_pof_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_pof_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_pof_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_pof_change_0_adjust_input_data.addRows([
+			['Annual POF Percent Change Guess', pofChange0 ],
 		]);
 
 		// Total AV 1 Adjust table
@@ -370,10 +384,15 @@
 		formatter.format(table_input_data, 1); // Apply formatter to second column
 		table_input.draw(table_input_data, {sort:'disable'});
 
-		// Input table for POF change
-		table_total_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_pof_adjust_input_div'));
+		// Input table for Total AV change
+		table_total_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_total_av_adjust_input_div'));
 		formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column
 		table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data, {sort:'disable'});
+
+		// Input table for POF change
+		table_pof_0_adjust_input = new google.visualization.Table(document.getElementById('table_pof_adjust_input_div'));
+		formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data, {sort:'disable'});
 
 		<!-- // Input table for POF 1 change -->
 		<!-- table_total_av_1_adjust_input = new google.visualization.Table(document.getElementById('table_pof_1_adjust_input_div')); -->
@@ -583,6 +602,18 @@
 		table_total_av_change_0_adjust_input_data.setValue(0, 1, totalAVChange0);
 		formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column
 		table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data);
+		changeParcelAV(0);
+	}
+
+	function changePOFChange(dir) {
+		pofChange0 = pofChange0 + dir;
+		if (pofChange0 < pofChangeMin)
+			pofChange0 = pofChangeMin;
+		if (pofChange0 > pofChangeMax)
+			pofChange0 = pofChangeMax;
+		table_pof_change_0_adjust_input_data.setValue(0, 1, pofChange0);
+		formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data);
 		changeParcelAV(0);
 	}
 
@@ -824,9 +855,13 @@
   <input type="button" value="+" onclick="changeParcelAV(25000)" />
   <input type="button" value="-" onclick="changeParcelAV(-25000)" />
   <p></p>
-  <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <div id="table_total_av_adjust_input_div" style="width:1200px; height: 60px;"></div>
   <input type="button" value="+" onclick="changeTotalAVChange(0.2)" />
   <input type="button" value="-" onclick="changeTotalAVChange(-0.2)" />
+  <p></p>
+  <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changePOFChange(0.2)" />
+  <input type="button" value="-" onclick="changePOFChange(-0.2)" />
   <!-- <div id="table_pof_1_adjust_input_div" style="width:1200px; height: 60px;"></div> -->
   <!-- <input type="button" value="+" onclick="changeTotalAVChange1(0.2)" /> -->
   <!-- <input type="button" value="-" onclick="changeTotalAVChange1(-0.2)" /> -->
