@@ -128,7 +128,7 @@
 		sampleParcelPOFEffective = sampleParcelPOF;
 		totalLevyCostParcel = 0;
 		for (let i = 0; i < levyYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (1 + i);
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (i);
 			dataParcel.setCell(i, 0, data.getValue(i, 0));
 			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
 			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
@@ -258,7 +258,7 @@
 		totalLevyCostParcel = 0;
 		//totalLevyPriorCostParcel = 0;
 		for (let i = 0; i < levyYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (1 + i);
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (i);
 			dataParcel.setValue(i, 0, data.getValue(i, 0));
 			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
 			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
