@@ -61,10 +61,10 @@
 		data.addColumn('number', 'Total AV');
 		data.addColumn('number', 'Total AV Change Guess');
 		data.addColumn('number', 'Resulting New Bond Tax Rate');
-		data.addColumn('number', 'Example Property\'s AV');
-		data.addColumn('number', 'Example Property\'s POF');
-		data.addColumn('number', 'Example Property\'s Bond Tax');
-		data.addColumn('number', 'Example Property\'s AV Change');
+		data.addColumn('number', 'Example Property AV');
+		data.addColumn('number', 'Example Property POF');
+		data.addColumn('number', 'Example Property Bond Tax');
+		data.addColumn('number', 'Example Property AV Change');
 
 		data.addRows([
 			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0, 0],
@@ -99,10 +99,10 @@
 		table_output.addColumn('number', 'Total AV <br> Change Guess');
 		table_output.addColumn('number', 'New Bond <br> Total Tax');
 		table_output.addColumn('number', 'Resulting New Bond<br> Tax Rate');
-		table_output.addColumn('number', 'Example Property\'s <br> AV');
-		table_output.addColumn('number', 'Example Property\'s <br> POF');
-		table_output.addColumn('number', 'Example Property\'s <br> New Bond Tax');
-		table_output.addColumn('number', 'Example Property\'s <br> AV Change');
+		table_output.addColumn('number', 'Example Property <br> AV');
+		table_output.addColumn('number', 'Example Property <br> POF');
+		table_output.addColumn('number', 'Example Property <br> New Bond Tax');
+		table_output.addColumn('number', 'Example Property <br> AV Change');
 
 		table_output.addRows(levyYears + 1);
 		for (let i = 0; i < levyYears + 1; i++) {
@@ -160,7 +160,7 @@
 		table_input_data.addColumn('string', 'Description');
 		table_input_data.addColumn('number', 'Value');
 		table_input_data.addRows([
-			['Example Property\'s 2024 Tax Year Assessed Value (AV)', sampleParcelAV],
+			['Example Property 2024 Tax Year Assessed Value (AV)', sampleParcelAV],
 		]);
 
 		// Total AV 0 Adjust table
@@ -178,7 +178,7 @@
 		table_pof_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_pof_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_pof_change_0_adjust_input_data.addRows([
-			['Example Property\'s Annual POF Percent Change Guess', pofChange0 ],
+			['Annual POF Percent Change Guess', pofChange0 ],
 		]);
 
 		// Levy 1 output table
