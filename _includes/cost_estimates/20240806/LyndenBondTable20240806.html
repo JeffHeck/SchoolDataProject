@@ -94,15 +94,15 @@
 		
 		// Table Output General
 		table_output = new google.visualization.DataTable();
-		table_output.addColumn('string', 'Year');
-		table_output.addColumn('number', 'Total AV');
-		table_output.addColumn('number', 'Total AV <br> Change Guess');
-		table_output.addColumn('number', 'New Bond <br> Total Tax');
-		table_output.addColumn('number', 'Resulting New Bond<br> Tax Rate');
-		table_output.addColumn('number', 'Example Property\'s <br> AV');
-		table_output.addColumn('number', 'Example Property\'s <br> POF');
-		table_output.addColumn('number', 'Example Property\'s <br> New Bond Tax');
-		table_output.addColumn('number', 'Example Property\'s <br> AV Change');
+		table_output.addColumn('string', 'A<br>Tax<br>Year');
+		table_output.addColumn('number', 'B<br>Total<br>AV');
+		table_output.addColumn('number', 'C<br>Total AV <br> Change Guess');
+		table_output.addColumn('number', 'D<br>New Bond <br> Total Tax');
+		table_output.addColumn('number', 'E<br>Resulting New Bond<br> Tax Rate');
+		table_output.addColumn('number', 'F<br>Example Property\'s <br> AV');
+		table_output.addColumn('number', 'G<br>Example Property\'s <br> POF');
+		table_output.addColumn('number', 'H<br>Example Property\'s <br> New Bond Tax');
+		table_output.addColumn('number', 'I<br>Example Property\'s <br> AV Change');
 
 		table_output.addRows(levyYears + 1);
 		for (let i = 0; i < levyYears + 1; i++) {
