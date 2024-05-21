@@ -37,10 +37,10 @@
 		data.addColumn('string', 'Year');
 		data.addColumn('number', 'Total AV');
 		data.addColumn('number', 'Total AV Change');
-		data.addColumn('number', 'Example Property AV');
-		data.addColumn('number', 'Example Property AV Change');
-		data.addColumn('number', 'Example Property POF');
-		data.addColumn('number', 'Example Property POF Change');
+		data.addColumn('number', 'Example Property\'s AV');
+		data.addColumn('number', 'Example Property\'s AV Change');
+		data.addColumn('number', 'Example Property\'s POF');
+		data.addColumn('number', 'Example Property\'s POF Change');
 
 		data.addRows([
 			['2021', 3462376848, 0, 0, 0, 0, 0],
@@ -53,13 +53,13 @@
 		
 		// Table Output General
 		table_output = new google.visualization.DataTable();
-		table_output.addColumn('string', 'Year');
-		table_output.addColumn('number', 'Total AV');
-		table_output.addColumn('number', 'Total AV Change');
-		table_output.addColumn('number', 'Example Property AV');
-		table_output.addColumn('number', 'Example Property Change');
-		table_output.addColumn('number', 'Example Property POF');
-		table_output.addColumn('number', 'Example Property POF Change');
+		table_output.addColumn('string', '(A)<br>Tax<br>Year');
+		table_output.addColumn('number', '(B)<br>Total<br>AV');
+		table_output.addColumn('number', '(C)<br>Total AV<br>Change');
+		table_output.addColumn('number', '(D)<br>Example Property\'s<br>AV');
+		table_output.addColumn('number', '(E)<br>Example Property\'s<br>AV Change');
+		table_output.addColumn('number', '(F)<br>Example Property\'s<br>POF');
+		table_output.addColumn('number', '(G)<br>Example Property\'s<br>POF Change');
 
 		table_output.addRows(3);
 		for (let i = 0; i < 3; i++) {
@@ -93,7 +93,7 @@
 		table_data.addColumn('string', 'Description');
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
-			['Ave annual POF change 2021 to 2024', 0],
+			['Average annual POF change 2021 to 2024', 0],
 			['Compounded annual POF change 2021 to 2024', 0],
 		]);
 
@@ -102,7 +102,7 @@
 		table_ex_av_2021.addColumn('string', 'Description');
 		table_ex_av_2021.addColumn('number', 'Value');
 		table_ex_av_2021.addRows([
-			['Ex prop AV 2021', exPropAV2021],
+			['Example property\'s AV 2021', exPropAV2021],
 		]);
 
 		// Ex AV 2022 table
@@ -110,7 +110,7 @@
 		table_ex_av_2022.addColumn('string', 'Description');
 		table_ex_av_2022.addColumn('number', 'Value');
 		table_ex_av_2022.addRows([
-			['Ex prop AV 2022', exPropAV2022],
+			['Example property\'s AV 2022', exPropAV2022],
 		]);
 
 		// Ex AV 2023 table
@@ -118,7 +118,7 @@
 		table_ex_av_2023.addColumn('string', 'Description');
 		table_ex_av_2023.addColumn('number', 'Value');
 		table_ex_av_2023.addRows([
-			['Ex prop AV 2023', exPropAV2023],
+			['Example property\'s AV 2023', exPropAV2023],
 		]);
 
 		// Ex AV 2024 table
@@ -126,7 +126,7 @@
 		table_ex_av_2024.addColumn('string', 'Description');
 		table_ex_av_2024.addColumn('number', 'Value');
 		table_ex_av_2024.addRows([
-			['Ex prop AV 2024', exPropAV2024],
+			['Example property\'s AV 2024', exPropAV2024],
 		]);
 
 		// Formatters
@@ -300,16 +300,17 @@
   
   <H3>Output</H3>
   <p>POF results for the example property</P>
-  <div id="table_output_div" style="width:1200px; height: 100px;"></div>
+  <div id="table_output_div" style="width:1200px; height: 140px;"></div>
   <div id="table_data_div" style="width:2000px; height: 100px;"></div>
   <H3>Notes</H3>
   <p>This interactive calculator was created by the author independently from and not associated with the school district.</p>
   <p>POF: The Proportional Obligation Factor for any given year equals the assessed value (AV) of the example property divided by the Total AV of the properties within the district's tax area.</p>
   <p>AV: AV is the assessed value of a property as assessed by the county assessor's office. The AV of a property is supposed to be the market value at the time of the assessment. 
   AVs are always a year behind. For example, the county assessor's office during the summer of 2024 is assessing properties to assign AVs to use in the 2025 tax year.</p>
+  <p>Total AV: Total AV is the total assessed value of all private properties within the school district's tax area.</p>
   <p></p>
   <H3>Equations</H3>
-  <p>POF For The Year = {Example Property's AV For The Year} / {Total AV For The Year}</p>
+  <p>Example Property's POF For The Year = {Example Property's AV For The Year} / {Total AV For The Year}</p>
   <H3>Data Sources</H3>
   <p>The county assessor's annual tax reports</p>
   <!-- <p>The county assessor's website for historical property taxes</p> -->
