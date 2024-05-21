@@ -9,14 +9,14 @@
 	var table;  // Short output table to draw for totals
 	
 	// New start
-	exPropAV2021 = 440000;
-	exPropAV2022 = 460000;
-	exPropAV2023 = 480000;
-	exPropAV2024 = 500000;
-	totalAV2021 = 3162376848;
+	exPropAV2021 = 600000; //596455
+	exPropAV2022 = 670000; //668012
+	exPropAV2023 = 810000; //808304
+	exPropAV2024 = 960000; //956247
+	totalAV2021 = 3162701112;
 	totalAV2022 = 3647425488;
 	totalAV2023 = 4468838343;
-	totalAV2024 = 5260408000;
+	totalAV2024 = 5260405141;
 	exPropAVMin = 100000;
 	exPropAVMax = 2000000;
 	exPropPOF2021 = exPropAV2021 / totalAV2021;
@@ -43,10 +43,10 @@
 		data.addColumn('number', 'Example Property\'s POF Change');
 
 		data.addRows([
-			['2021', 3462376848, 0, 0, 0, 0, 0],
-			['2022', 3647425488, 0, 0, 0, 0, 0],
-			['2023', 4468838343, 0, 0, 0, 0, 0],
-			['2024', 5260408000, 0, 0, 0, 0, 0],
+			['2021', totalAV2021, 0, 0, 0, 0, 0],
+			['2022', totalAV2022, 0, 0, 0, 0, 0],
+			['2023', totalAV2023, 0, 0, 0, 0, 0],
+			['2024', totalAV2024, 0, 0, 0, 0, 0],
 
 		]);
 		
@@ -94,7 +94,7 @@
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
 			['Average annual POF change 2021 to 2024', 0],
-			['Compounded annual POF change 2021 to 2024', 0],
+			['Effective (compounded) annual POF change 2021 to 2024', 0],
 		]);
 
 		// Ex AV 2021 table
@@ -304,7 +304,7 @@
   
   <H3>Output</H3>
   <p>POF results for the example property</P>
-  <div id="table_output_div" style="width:1200px; height: 140px;"></div>
+  <div id="table_output_div" style="width:1200px; height: 180px;"></div>
   <div id="table_data_div" style="width:2000px; height: 100px;"></div>
   <H3>Notes</H3>
   <p>This interactive calculator was created by the author independently from and not associated with the school district.</p>
@@ -315,7 +315,7 @@
   <p></p>
   <H3>Equations</H3>
   <p>Example Property's POF For The Year = {Example Property's AV For The Year} / {Total AV For The Year}</p>
-  <p>Compounded annual POF change 2021 to 2024 = (({Example Property's POF 2024} / {Example Property's POF 2021} ** (1/3)) - 1)</p>
+  <p>Effective (compounded) annual POF change 2021 to 2024 = (({Example Property's POF 2024} / {Example Property's POF 2021} ** (1/3)) - 1)</p>
   <H3>Data Sources</H3>
   <p>The county assessor's annual tax reports and the DOR's (Department of Revenue's) tax reports</p>
   <!-- <p>The county assessor's website for historical property taxes</p> -->
