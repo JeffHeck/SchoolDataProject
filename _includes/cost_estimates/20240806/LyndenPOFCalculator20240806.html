@@ -7,51 +7,6 @@
 
 	var table_ex_av_2021_encl; // Table input to draw with parcel AV info
 	var table;  // Short output table to draw for totals
-	<!-- var chart; -->
-	// Ready to start delete
-	var dataParcel;
-	
-	totalLevyAV = 5260405000;
-	sampleParcelAV = 500000;
-	sampleParcelAVMin = 100000;
-	sampleParcelAVMax = 2000000;
-	totalLevyCost = 254765000;
-	sampleParcelPOF = sampleParcelAV / totalLevyAV;
-	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 20;
-	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-	// Total AV Annual Change Percent
-	totalAVChange0 = 6.0;
-	pofChange0 = 0.0;
-
-	totalAVChange1 = 6.0;
-	totalAVChange2 = 6.0;
-	totalAVChange3 = 6.0;
-	totalAVChange4 = 5.0;
-	totalAVChange5 = 5.0;
-	totalAVChange6 = 5.0;
-	totalAVChange7 = 5.0;
-	totalAVChange8 = 5.0;
-	totalAVChange9 = 5.0;
-	totalAVChange10 = 5.0;
-	totalAVChange11 = 5.0;
-	totalAVChange12 = 5.0;
-	totalAVChange13 = 5.0;
-	totalAVChange14 = 5.0;
-	totalAVChange15 = 5.0;
-	totalAVChange16 = 5.0;
-	totalAVChange17 = 5.0;
-	totalAVChange18 = 5.0;
-	totalAVChange19 = 5.0;
-
-	totalAVChangeMin = -20.0;
-	totalAVChangeMax = 20.0;
-	
-	pofChangeMin = -5.0;
-	pofChangeMax = 5.0;
-
-	pofChange = 0
-	// Ready to stop delete
 	
 	// New start
 	exPropAV2021 = 440000;
@@ -68,8 +23,11 @@
 	exPropPOF2022 = exPropAV2022 / totalAV2022;
 	exPropPOF2023 = exPropAV2023 / totalAV2023;
 	exPropPOF2024 = exPropAV2024 / totalAV2024;
-	exPropAveAnnualPOFChange2021to2024 = (exPropPOF2021 + exPropPOF2022 + exPropPOF2023 + exPropPOF2024)/4;
-	exPropCompoundedAnnualPOFChange2021to2024 = ((exPropPOF2024 / exPropPOF2021) ** (1/3))  - 1;
+	exPropPOFChange2021to2022 = (exPropPOF2022 - exPropPOF2021) / exPropPOF2021;
+	exPropPOFChange2022to2023 = (exPropPOF2023 - exPropPOF2022) / exPropPOF2022;
+	exPropPOFChange2023to2024 = (exPropPOF2024 - exPropPOF2023) / exPropPOF2023;
+	exPropAveAnnualPOFChange2021to2024 = (exPropPOFChange2021to2022 + exPropPOFChange2022to2023 + exPropPOFChange2023to2024) / 3 * 100;
+	exPropCompoundedAnnualPOFChange2021to2024 = (((exPropPOF2024 / exPropPOF2021) ** (1/3))  - 1) * 100;
 	// New end
 
 
@@ -106,9 +64,9 @@
 		table_output.addRows(3);
 		for (let i = 0; i < 3; i++) {
 			table_output.setCell(i, 0, data.getValue(i+1, 0)); // Year
-			table_output.setCell(i, 1, data.getValue(i+1, 2)); // Total AV
-			table_output.setCell(i, 2, data.getValue(i+1, 3)); // Total AV Change
-			table_output.setCell(i, 3, data.getValue(i+1, 1)); // Ex Prop AV
+			table_output.setCell(i, 1, data.getValue(i+1, 1)); // Total AV
+			table_output.setCell(i, 2, data.getValue(i+1, 2)); // Total AV Change
+			table_output.setCell(i, 3, data.getValue(i+1, 3)); // Ex Prop AV
 			table_output.setCell(i, 4, data.getValue(i+1, 4)); // Ex Prop AV Change
 			table_output.setCell(i, 5, data.getValue(i+1, 5)); // POF
 			table_output.setCell(i, 6, data.getValue(i+1, 6)); // POF Change
@@ -171,25 +129,6 @@
 			['Ex prop AV 2024', exPropAV2024],
 		]);
 
-		<!-- // POF 0 Adjust table -->
-		<!-- // POF 0 Adjust -->
-		<!-- table_pof_change_0_adjust_input_data = new google.visualization.DataTable(); -->
-		<!-- table_pof_change_0_adjust_input_data.addColumn('string', 'Description'); -->
-		<!-- table_pof_change_0_adjust_input_data.addColumn('number', 'Value'); -->
-		<!-- table_pof_change_0_adjust_input_data.addRows([ -->
-			<!-- ['Annual POF Percent Change Guess', pofChange0 ], -->
-		<!-- ]); -->
-
-		<!-- // Levy 1 output table -->
-		<!-- table_data = new google.visualization.DataTable(); -->
-		<!-- table_data.addColumn('string', 'Description'); -->
-		<!-- table_data.addColumn('number', 'Value'); -->
-		<!-- table_data.addRows([ -->
-			<!-- ['Total cost for the owner of the example property', totalLevyCostParcel], -->
-			<!-- ['Average cost per year for 20 years', averageTotalLevyCostParcel], -->
-		
-		<!-- ]); -->
-
 		// Formatters
 		formatter = new google.visualization.NumberFormat(
 			{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: false});
@@ -235,7 +174,7 @@
 		formatter.format(table_output, 1); // Apply formatter to Total AV column
 		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
 		formatter.format(table_output, 3); // Apply formatter to ex prop AV column
-		formatterRate.format(table_output, 4); // Apply formatter to ex prop AV change column
+		formatterPercent1.format(table_output, 4); // Apply formatter to ex prop AV change column
 		formatterPOF.format(table_output, 5); // Apply formatter to Example Property POF column
 		formatterPercent1.format(table_output, 6); // Apply formatter to Example Property POF change column
 		table_output_encl.draw(table_output, {sort:'disable'});
@@ -250,20 +189,42 @@
 		exPropPOF2022 = exPropAV2022 / totalAV2022;
 		exPropPOF2023 = exPropAV2023 / totalAV2023;
 		exPropPOF2024 = exPropAV2024 / totalAV2024;
-		exPropAveAnnualPOFChange2021to2024 = (exPropPOF2021 + exPropPOF2022 + exPropPOF2023 + exPropPOF2024)/4;
-		exPropCompoundedAnnualPOFChange2021to2024 = ((exPropPOF2024 / exPropPOF2021) ** (1/3))  - 1;
+		exPropPOFChange2021to2022 = (exPropPOF2022 - exPropPOF2021) / exPropPOF2021;
+		exPropPOFChange2022to2023 = (exPropPOF2023 - exPropPOF2022) / exPropPOF2022;
+		exPropPOFChange2023to2024 = (exPropPOF2024 - exPropPOF2023) / exPropPOF2023;
+		exPropAveAnnualPOFChange2021to2024 = (exPropPOFChange2021to2022 + exPropPOFChange2022to2023 + exPropPOFChange2023to2024) / 3 * 100;
+	    exPropCompoundedAnnualPOFChange2021to2024 = (((exPropPOF2024 / exPropPOF2021) ** (1/3))  - 1) * 100;
 
 		table_data.setValue(0, 1, exPropAveAnnualPOFChange2021to2024); // Average annual POF change
 		table_data.setValue(1, 1, exPropCompoundedAnnualPOFChange2021to2024); // Compounded annual POF change
-		formatter.format(table_data, 1); // Apply formatter to second column
+		formatterPercent1.format(table_data, 1); // Apply formatter to second column
 		table_data_encl.draw(table_data, {sort:'disable'});
 		
 		//Update table output general
-		table_output.setValue(0, 3, totalAV2022);
-		table_output.setValue(1, 3, totalAV2023);
-		table_output.setValue(2, 3, totalAV2024);
-		formatter.format(table_output, 3); // Apply formatter to Total AV Change column
-	
+		table_output.setValue(0, 1, totalAV2022);
+		table_output.setValue(1, 1, totalAV2023);
+		table_output.setValue(2, 1, totalAV2024);
+		formatter.format(table_output, 1); // Apply formatter to Total AV column
+		table_output.setValue(0, 2, (totalAV2022-totalAV2021)/totalAV2021*100);
+		table_output.setValue(1, 2, (totalAV2023-totalAV2022)/totalAV2022*100);
+		table_output.setValue(2, 2, (totalAV2024-totalAV2023)/totalAV2023*100);
+		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
+		table_output.setValue(0, 3, exPropAV2022);
+		table_output.setValue(1, 3, exPropAV2023);
+		table_output.setValue(2, 3, exPropAV2024);
+		formatter.format(table_output, 3); // Apply formatter to Ex Prop AV Change column
+		table_output.setValue(0, 4, (exPropAV2022-exPropAV2021)/exPropAV2021*100);
+		table_output.setValue(1, 4, (exPropAV2023-exPropAV2022)/exPropAV2022*100);
+		table_output.setValue(2, 4, (exPropAV2024-exPropAV2023)/exPropAV2023*100);
+		formatterPercent1.format(table_output, 4); // Apply formatter to Ex Prop AV Change column
+		table_output.setValue(0, 5, exPropPOF2022);
+		table_output.setValue(1, 5, exPropPOF2023);
+		table_output.setValue(2, 5, exPropPOF2024);
+		formatterPOF.format(table_output, 5); // Apply formatter to Ex Prop POF column
+		table_output.setValue(0, 6, (exPropPOF2022-exPropPOF2021)/exPropPOF2021*100);
+		table_output.setValue(1, 6, (exPropPOF2023-exPropPOF2022)/exPropPOF2022*100);
+		table_output.setValue(2, 6, (exPropPOF2024-exPropPOF2023)/exPropPOF2023*100);
+		formatterPercent1.format(table_output, 6); // Apply formatter to Ex Prop POF Change column
 		table_output_encl.draw(table_output, {sort:'disable',allowHtml:'true'});
     }
 	
@@ -318,7 +279,7 @@
   </script>
  </head>
  <body>
-  <H2>Example property POF estimate calculator for the August 6th 2024 bond measure proposed by the Lynden SD</H2>
+  <H2>Historical Proportional Obligation Factor (POF) calculator for an example property in the Lynden SD tax area</H2>
   <H3>Input</H3>
   <div id="table_ex_av_2021_div" style="width:1200px; height: 60px;"></div>
   <input type="button" value="+" onclick="changeAV2021(10000)" />
@@ -339,27 +300,18 @@
   
   <H3>Output</H3>
   <p>POF results for the example property</P>
-  <div id="table_output_div" style="width:1200px; height: 600px;"></div>
-  <div id="table_data_div" style="width:2000px; height: 200px;"></div>
-  <!-- <div id="chart_div" style="width:800px; height: 640px;"></div> -->
-  <!-- <p>POF: Proportional Obligation Factor equals the assessed value (AV) of the sample parcel divided by the Total AV of the properties within the district's tax area.</p> -->
+  <div id="table_output_div" style="width:1200px; height: 100px;"></div>
+  <div id="table_data_div" style="width:2000px; height: 100px;"></div>
   <H3>Notes</H3>
   <p>This interactive calculator was created by the author independently from and not associated with the school district.</p>
   <p>POF: The Proportional Obligation Factor for any given year equals the assessed value (AV) of the example property divided by the Total AV of the properties within the district's tax area.</p>
-  <p>Notice how changing the Total AV annual change percent guess affects the calculated tax rates but not the bond tax amount (in dollars) for the owner of the example property. </p>
-  <p>Notice how changing the POF annual change guess does not change the calculated bond tax rates but does change the bond tax amount for the owner of the example property.</p>
   <p>AV: AV is the assessed value of a property as assessed by the county assessor's office. The AV of a property is supposed to be the market value at the time of the assessment. 
   AVs are always a year behind. For example, the county assessor's office during the summer of 2024 is assessing properties to assign AVs to use in the 2025 tax year.</p>
   <p></p>
   <H3>Equations</H3>
-  <p>There are two ways to calculate the property tax for a given year for a given property. They are equivalent.</p>
-  <p>For any given year:</p>
   <p>POF For The Year = {Example Property's AV For The Year} / {Total AV For The Year}</p>
-  <p>Example Property's New Bond Tax Payment For The Year = {POF For The Year} X {New Bond's Total Tax Payment For The Year}</p>
-  <p>Resulting New Bond's Tax Rate For The Year = {New Bond's Total Tax Payment For The Year} / {Total AV For The Year} X 1,000</p>
-  <p>Example Property's New Bond's Tax Payment For The Year = {Resulting New Bond's Tax Rate For The Year} X {Example Property's AV For The Year} / 1,000</p>
   <H3>Data Sources</H3>
-  <p>The district's bond/levy projection datasheet</p>
+  <p>The county assessor's annual tax reports</p>
   <!-- <p>The county assessor's website for historical property taxes</p> -->
 
  </body>
