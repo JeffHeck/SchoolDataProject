@@ -96,13 +96,13 @@
 		table_output = new google.visualization.DataTable();
 		table_output.addColumn('string', '(A)<br>Tax<br>Year');
 		table_output.addColumn('number', '(B)<br>Total<br>AV');
-		table_output.addColumn('number', '(C)<br>Total AV <br> Change Guess');
-		table_output.addColumn('number', '(D)<br>New Bond <br> Total Tax');
-		table_output.addColumn('number', '(E)<br>Resulting New Bond<br> Tax Rate');
-		table_output.addColumn('number', '(F)<br>Example Property\'s <br> AV');
-		table_output.addColumn('number', '(G)<br>Example Property\'s <br> POF');
-		table_output.addColumn('number', '(H)<br>Example Property\'s <br> New Bond Tax');
-		table_output.addColumn('number', '(I)<br>Example Property\'s <br> AV Change');
+		table_output.addColumn('number', '(C)<br>Total AV<br>Change');
+		table_output.addColumn('number', '(D)<br>New Bond<br>Total Tax');
+		table_output.addColumn('number', '(E)<br>Resulting New Bond<br>Tax Rate');
+		table_output.addColumn('number', '(F)<br>Example Property\'s<br>AV');
+		table_output.addColumn('number', '(G)<br>Example Property\'s<br>POF');
+		table_output.addColumn('number', '(H)<br>Example Property\'s<br>New Bond Tax');
+		table_output.addColumn('number', '(I)<br>Example Property\'s<br>AV Change');
 
 		table_output.addRows(levyYears + 1);
 		for (let i = 0; i < levyYears + 1; i++) {
@@ -402,7 +402,7 @@
   <!-- <H3>Enrichment Levy</H3> -->
   <p>Estimated obligations for the example property</P>
   <div id="table_output_general_div" style="width:1200px; height: 600px;"></div>
-  <div id="table_output_div" style="width:2000px; height: 200px;"></div>
+  <div id="table_output_div" style="width:2000px; height: 150px;"></div>
   <!-- <div id="chart_div" style="width:800px; height: 640px;"></div> -->
   <!-- <p>POF: Proportional Obligation Factor equals the assessed value (AV) of the sample parcel divided by the Total AV of the properties within the district's tax area.</p> -->
   <H3>Notes</H3>
