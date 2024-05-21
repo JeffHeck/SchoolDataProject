@@ -5,9 +5,10 @@
     google.charts.load('current', {'packages':['corechart','bar','table']});
     google.charts.setOnLoadCallback(drawStuff);
 
-	var table_input; // Table input to draw with parcel AV info
+	var table_ex_av_2021_encl; // Table input to draw with parcel AV info
 	var table;  // Short output table to draw for totals
 	<!-- var chart; -->
+	// Ready to start delete
 	var dataParcel;
 	
 	totalLevyAV = 5260405000;
@@ -50,44 +51,44 @@
 	pofChangeMax = 5.0;
 
 	pofChange = 0
-
+	// Ready to stop delete
+	
+	// New start
+	exPropAV2021 = 440000;
+	exPropAV2022 = 460000;
+	exPropAV2023 = 480000;
+	exPropAV2024 = 500000;
+	totalAV2021 = 3162376848;
+	totalAV2022 = 3647425488;
+	totalAV2023 = 4468838343;
+	totalAV2024 = 5260408000;
+	exPropAVMin = 100000;
+	exPropAVMax = 2000000;
+	exPropPOF2021 = exPropAV2021 / totalAV2021;
+	exPropPOF2022 = exPropAV2022 / totalAV2022;
+	exPropPOF2023 = exPropAV2023 / totalAV2023;
+	exPropPOF2024 = exPropAV2024 / totalAV2024;
+	exPropAveAnnualPOFChange2021to2024 = (exPropPOF2021 + exPropPOF2022 + exPropPOF2023 + exPropPOF2024)/4;
+	exPropCompoundedAnnualPOFChange2021to2024 = ((exPropPOF2024 / exPropPOF2021) ** (1/3))  - 1;
+	// New end
 
 
     function drawStuff() {
 		// Levy 1 init
 		data = new google.visualization.DataTable();
 		data.addColumn('string', 'Year');
-		data.addColumn('number', 'New Bond Total Tax');
 		data.addColumn('number', 'Total AV');
-		data.addColumn('number', 'Total AV Change Guess');
-		data.addColumn('number', 'Resulting New Bond Tax Rate');
+		data.addColumn('number', 'Total AV Change');
 		data.addColumn('number', 'Example Property AV');
-		data.addColumn('number', 'Example Property POF');
-		data.addColumn('number', 'Example Property Bond Tax');
 		data.addColumn('number', 'Example Property AV Change');
+		data.addColumn('number', 'Example Property POF');
+		data.addColumn('number', 'Example Property POF Change');
 
 		data.addRows([
-			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0, 0],
-			['2025', 7564000, 5576029300, 6, 1.36, 530000, 0.00009505, 719, 6],
-			['2026', 8027000, 5910591058, 6, 1.36, 561800, 0.00009505, 763, 6],
-			['2027', 8515000, 6265226521, 6, 1.36, 595508, 0.00009505, 809, 6],
-			['2028', 9026000, 6641140113, 6, 1.36, 631238, 0.00009505, 858, 6],
-			['2029', 9477000, 6973197118, 5, 1.36, 662800, 0.00009505, 901, 6],
-			['2030', 9951000, 7321856974, 5, 1.36, 695940, 0.00009505, 946, 5],
-			['2031', 10451000, 7687949823, 5, 1.36, 730737, 0.00009505, 993, 5],
-			['2032', 10974000, 8072347314, 5, 1.36, 767274, 0.00009505, 1043, 5],
-			['2033', 11521000, 8475964680, 5, 1.36, 805638, 0.00009505, 1095, 5],
-			['2034', 12096000, 8899762914, 5, 1.36, 845920, 0.00009505, 1150, 5],
-			['2035', 12698000, 9344751060, 5, 1.36, 888216, 0.00009505, 1207, 5],
-			['2036', 13337000, 9811988613, 5, 1.36, 932627, 0.00009505, 1268, 5],
-			['2037', 14002000, 10302588043, 5, 1.36, 979258, 0.00009505, 1331, 5],
-			['2038', 14704000, 10817717445, 5, 1.36, 1028221, 0.00009505, 1398, 5],
-			['2039', 15440000, 11358603318, 5, 1.36, 1079632, 0.00009505, 1468, 5],
-			['2040', 16208000, 11926533484, 5, 1.36, 1133614, 0.00009505, 1541, 5],
-			['2041', 17021000, 12522860158, 5, 1.36, 1190294, 0.00009505, 1618, 5],
-			['2042', 17872000, 13149003166, 5, 1.36, 1249809, 0.00009505, 1699, 5],
-			['2043', 18765000, 13806453324, 5, 1.36, 1312299, 0.00009505, 1784, 5],
-			['2044', 17116000, 14496775990, 5, 1.18, 1377914, 0.00009505, 1627, 5],
+			['2021', 3462376848, 0, 0, 0, 0, 0],
+			['2022', 3647425488, 0, 0, 0, 0, 0],
+			['2023', 4468838343, 0, 0, 0, 0, 0],
+			['2024', 5260408000, 0, 0, 0, 0, 0],
 
 		]);
 		
@@ -96,44 +97,22 @@
 		table_output = new google.visualization.DataTable();
 		table_output.addColumn('string', 'Year');
 		table_output.addColumn('number', 'Total AV');
-		table_output.addColumn('number', 'Total AV <br> Change Guess');
-		table_output.addColumn('number', 'New Bond <br> Total Tax');
-		table_output.addColumn('number', 'Resulting New Bond<br> Tax Rate');
-		table_output.addColumn('number', 'Example Property <br> AV');
-		table_output.addColumn('number', 'Example Property <br> POF');
-		table_output.addColumn('number', 'Example Property <br> New Bond Tax');
-		table_output.addColumn('number', 'Example Property <br> AV Change');
+		table_output.addColumn('number', 'Total AV Change');
+		table_output.addColumn('number', 'Example Property AV');
+		table_output.addColumn('number', 'Example Property Change');
+		table_output.addColumn('number', 'Example Property POF');
+		table_output.addColumn('number', 'Example Property POF Change');
 
-		table_output.addRows(levyYears + 1);
-		for (let i = 0; i < levyYears + 1; i++) {
-			table_output.setCell(i, 0, data.getValue(i, 0)); // Year
-			table_output.setCell(i, 1, data.getValue(i, 2)); // Total AV
-			table_output.setCell(i, 2, data.getValue(i, 3)); // Total AV Change
-			table_output.setCell(i, 3, data.getValue(i, 1)); // New Bond Total Tax
-			table_output.setCell(i, 4, data.getValue(i, 4)); // Rate
-			table_output.setCell(i, 5, data.getValue(i, 5)); // Example Property AV
-			table_output.setCell(i, 6, data.getValue(i, 6)); // Example Property POF
-			table_output.setCell(i, 7, data.getValue(i, 7)); // Example Property Bond Tax
-			table_output.setCell(i, 8, data.getValue(i, 8)); // Example Property AV Change
-		
+		table_output.addRows(3);
+		for (let i = 0; i < 3; i++) {
+			table_output.setCell(i, 0, data.getValue(i+1, 0)); // Year
+			table_output.setCell(i, 1, data.getValue(i+1, 2)); // Total AV
+			table_output.setCell(i, 2, data.getValue(i+1, 3)); // Total AV Change
+			table_output.setCell(i, 3, data.getValue(i+1, 1)); // Ex Prop AV
+			table_output.setCell(i, 4, data.getValue(i+1, 4)); // Ex Prop AV Change
+			table_output.setCell(i, 5, data.getValue(i+1, 5)); // POF
+			table_output.setCell(i, 6, data.getValue(i+1, 6)); // POF Change
 		}
-
-
-		// Levy 1 parcel data
-		dataParcel = new google.visualization.DataTable();
-		dataParcel.addColumn('string', 'Year');
-		dataParcel.addColumn('number', 'New Bond Total Tax');
-
-		dataParcel.addRows(levyYears + 1);
-		sampleParcelPOFEffective = sampleParcelPOF;
-		totalLevyCostParcel = 0;
-		for (let i = 0; i < levyYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (i);
-			dataParcel.setCell(i, 0, data.getValue(i, 0));
-			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
-			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
-		}		
-		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 
 		options = {
 			title: 'Estimated Bond Cost Schedule For The Sample Parcel',
@@ -151,48 +130,67 @@
         }
 		};
 	  
-		
-
-		
-		// Levy 1 input data
-		// Example parcel AV table
-		table_input_data = new google.visualization.DataTable();
-		table_input_data.addColumn('string', 'Description');
-		table_input_data.addColumn('number', 'Value');
-		table_input_data.addRows([
-			['Example Property 2024 Tax Year Assessed Value (AV)', sampleParcelAV],
-		]);
-
-		// Total AV 0 Adjust table
-		// Total AV 0 Adjust
-		table_total_av_change_0_adjust_input_data = new google.visualization.DataTable();
-		table_total_av_change_0_adjust_input_data.addColumn('string', 'Description');
-		table_total_av_change_0_adjust_input_data.addColumn('number', 'Value');
-		table_total_av_change_0_adjust_input_data.addRows([
-			['Annual Total AV Percent Change Guess', totalAVChange0 ],
-		]);
-
-		// POF 0 Adjust table
-		// POF 0 Adjust
-		table_pof_change_0_adjust_input_data = new google.visualization.DataTable();
-		table_pof_change_0_adjust_input_data.addColumn('string', 'Description');
-		table_pof_change_0_adjust_input_data.addColumn('number', 'Value');
-		table_pof_change_0_adjust_input_data.addRows([
-			['Annual POF Percent Change Guess', pofChange0 ],
-		]);
-
-		// Levy 1 output table
+		// Output short summary data with ave annual POF change and compounded annual POF change
 		table_data = new google.visualization.DataTable();
 		table_data.addColumn('string', 'Description');
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
-			['Total cost for the owner of the example property', totalLevyCostParcel],
-			['Average cost per year for 20 years', averageTotalLevyCostParcel],
-		
+			['Ave annual POF change 2021 to 2024', 0],
+			['Compounded annual POF change 2021 to 2024', 0],
 		]);
 
-		// Levy 1 chart
-		<!-- chart = new google.visualization.ColumnChart(document.getElementById('chart_div')); -->
+		// Ex AV 2021 table
+		table_ex_av_2021 = new google.visualization.DataTable();
+		table_ex_av_2021.addColumn('string', 'Description');
+		table_ex_av_2021.addColumn('number', 'Value');
+		table_ex_av_2021.addRows([
+			['Ex prop AV 2021', exPropAV2021],
+		]);
+
+		// Ex AV 2022 table
+		table_ex_av_2022 = new google.visualization.DataTable();
+		table_ex_av_2022.addColumn('string', 'Description');
+		table_ex_av_2022.addColumn('number', 'Value');
+		table_ex_av_2022.addRows([
+			['Ex prop AV 2022', exPropAV2022],
+		]);
+
+		// Ex AV 2023 table
+		table_ex_av_2023 = new google.visualization.DataTable();
+		table_ex_av_2023.addColumn('string', 'Description');
+		table_ex_av_2023.addColumn('number', 'Value');
+		table_ex_av_2023.addRows([
+			['Ex prop AV 2023', exPropAV2023],
+		]);
+
+		// Ex AV 2024 table
+		table_ex_av_2024 = new google.visualization.DataTable();
+		table_ex_av_2024.addColumn('string', 'Description');
+		table_ex_av_2024.addColumn('number', 'Value');
+		table_ex_av_2024.addRows([
+			['Ex prop AV 2024', exPropAV2024],
+		]);
+
+		<!-- // POF 0 Adjust table -->
+		<!-- // POF 0 Adjust -->
+		<!-- table_pof_change_0_adjust_input_data = new google.visualization.DataTable(); -->
+		<!-- table_pof_change_0_adjust_input_data.addColumn('string', 'Description'); -->
+		<!-- table_pof_change_0_adjust_input_data.addColumn('number', 'Value'); -->
+		<!-- table_pof_change_0_adjust_input_data.addRows([ -->
+			<!-- ['Annual POF Percent Change Guess', pofChange0 ], -->
+		<!-- ]); -->
+
+		<!-- // Levy 1 output table -->
+		<!-- table_data = new google.visualization.DataTable(); -->
+		<!-- table_data.addColumn('string', 'Description'); -->
+		<!-- table_data.addColumn('number', 'Value'); -->
+		<!-- table_data.addRows([ -->
+			<!-- ['Total cost for the owner of the example property', totalLevyCostParcel], -->
+			<!-- ['Average cost per year for 20 years', averageTotalLevyCostParcel], -->
+		
+		<!-- ]); -->
+
+		// Formatters
 		formatter = new google.visualization.NumberFormat(
 			{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: false});
 		formatterPercent = new google.visualization.NumberFormat(
@@ -203,206 +201,146 @@
 			{suffix: '', fractionDigits:7, negativeColor: 'red', negativeParens: false});
 		formatterRate = new google.visualization.NumberFormat(
 			{suffix: '', fractionDigits:2, negativeColor: 'red', negativeParens: false});
-		formatter.format(dataParcel, 1); // Apply formatter to second column
-		//formatter.format(dataParcel, 2); // Apply formatter to third column
-		<!-- chart.draw(dataParcel, options); -->
+		<!-- formatter.format(dataParcel, 1); // Apply formatter to second column -->
 		
 		table = new google.visualization.Table(document.getElementById('table_output_div'));
 		formatter.format(table_data, 1); // Apply formatter to second column
 		table.draw(table_data, {sort:'disable'});
 		
-		// Input table for sample parcel AV
-		table_input = new google.visualization.Table(document.getElementById('table_input_div'));
-		formatter.format(table_input_data, 1); // Apply formatter to second column
-		table_input.draw(table_input_data, {sort:'disable'});
+		// Enclosing tables
+		// Input table for the ex prop AV 2021
+		table_ex_av_2021_encl = new google.visualization.Table(document.getElementById('table_ex_av_2021_div'));
+		formatter.format(table_ex_av_2021, 1); // Apply formatter to second column
+		table_ex_av_2021_encl.draw(table_ex_av_2021, {sort:'disable'});
+		// Input table for the ex prop AV 2022
+		table_ex_av_2022_encl = new google.visualization.Table(document.getElementById('table_ex_av_2022_div'));
+		formatter.format(table_ex_av_2022, 1); // Apply formatter to second column
+		table_ex_av_2022_encl.draw(table_ex_av_2022, {sort:'disable'});
+		// Input table for the ex prop AV 2023
+		table_ex_av_2023_encl = new google.visualization.Table(document.getElementById('table_ex_av_2023_div'));
+		formatter.format(table_ex_av_2023, 1); // Apply formatter to second column
+		table_ex_av_2023_encl.draw(table_ex_av_2023, {sort:'disable'});
+		// Input table for the ex prop AV 2024
+		table_ex_av_2024_encl = new google.visualization.Table(document.getElementById('table_ex_av_2024_div'));
+		formatter.format(table_ex_av_2024, 1); // Apply formatter to second column
+		table_ex_av_2024_encl.draw(table_ex_av_2024, {sort:'disable'});
 
 		// Input table for Total AV change
-		table_total_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_total_av_adjust_input_div'));
-		formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column
-		table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data, {sort:'disable'});
-
-		// Input table for POF change
-		table_pof_0_adjust_input = new google.visualization.Table(document.getElementById('table_pof_adjust_input_div'));
-		formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column
-		table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data, {sort:'disable'});
+		table_data_encl = new google.visualization.Table(document.getElementById('table_data_div'));
+		formatterPercent1.format(table_data, 1); // Apply formatter to second column
+		table_data_encl.draw(table_data, {sort:'disable'});
 
 		// Output table general
-		table_output_vis = new google.visualization.Table(document.getElementById('table_output_general_div'));
-		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
+		table_output_encl = new google.visualization.Table(document.getElementById('table_output_div'));
 		formatter.format(table_output, 1); // Apply formatter to Total AV column
-		formatter.format(table_output, 3); // Apply formatter to Bond Total Tax column
-		formatterRate.format(table_output, 4); // Apply formatter to Rate column
-		formatter.format(table_output, 5); // Apply formatter to Example Property AV column
-		formatterPOF.format(table_output, 6); // Apply formatter to Example Property POF column
-		formatter.format(table_output, 7); // Apply formatter to Example Property Bond Tax column
-		formatterPercent1.format(table_output, 8); // Apply formatter to Example Property AV Change column
-		table_output_vis.draw(table_output, {sort:'disable'});
+		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
+		formatter.format(table_output, 3); // Apply formatter to ex prop AV column
+		formatterRate.format(table_output, 4); // Apply formatter to ex prop AV change column
+		formatterPOF.format(table_output, 5); // Apply formatter to Example Property POF column
+		formatterPercent1.format(table_output, 6); // Apply formatter to Example Property POF change column
+		table_output_encl.draw(table_output, {sort:'disable'});
 		
-		changeParcelAV(0);
+		updateOutput(0);
     }
 	
 
-    function changeParcelAV(dir) {
-		//Update table input
-		sampleParcelAV = sampleParcelAV + dir
-		if (sampleParcelAV < sampleParcelAVMin)
-			sampleParcelAV = sampleParcelAVMin
-		if (sampleParcelAV > sampleParcelAVMax)
-			sampleParcelAV = sampleParcelAVMax
-		sampleParcelPOF = sampleParcelAV / totalLevyAV;
-		table_input_data.setValue(0, 1, sampleParcelAV);
-		formatter.format(table_input_data, 1); // Apply formatter to second column
-		table_input.draw(table_input_data);
-		//Update chart 1
-		sampleParcelPOFEffective = sampleParcelPOF;
-		totalLevyCostParcel = 0;
-		//totalLevyPriorCostParcel = 0;
-		for (let i = 0; i < levyYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (i);
-			dataParcel.setValue(i, 0, data.getValue(i, 0));
-			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
-			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
-		}		
-		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-		formatter.format(dataParcel, 1); // Apply formatter to second column
-		<!-- chart.draw(dataParcel, options); -->
-		
-		//Update table output
-		table_data.setValue(0, 1, totalLevyCostParcel); // Total levy cost parcel
-		table_data.setValue(1, 1, averageTotalLevyCostParcel); // Average levy cost parcel
+    function updateOutput(dir) {
+		//Update the short summary table output
+		exPropPOF2021 = exPropAV2021 / totalAV2021;
+		exPropPOF2022 = exPropAV2022 / totalAV2022;
+		exPropPOF2023 = exPropAV2023 / totalAV2023;
+		exPropPOF2024 = exPropAV2024 / totalAV2024;
+		exPropAveAnnualPOFChange2021to2024 = (exPropPOF2021 + exPropPOF2022 + exPropPOF2023 + exPropPOF2024)/4;
+		exPropCompoundedAnnualPOFChange2021to2024 = ((exPropPOF2024 / exPropPOF2021) ** (1/3))  - 1;
+
+		table_data.setValue(0, 1, exPropAveAnnualPOFChange2021to2024); // Average annual POF change
+		table_data.setValue(1, 1, exPropCompoundedAnnualPOFChange2021to2024); // Compounded annual POF change
 		formatter.format(table_data, 1); // Apply formatter to second column
-		table.draw(table_data, {sort:'disable'});
+		table_data_encl.draw(table_data, {sort:'disable'});
 		
 		//Update table output general
-		table_output.setValue(1, 2, totalAVChange0);
-		table_output.setValue(2, 2, totalAVChange1);
-		table_output.setValue(3, 2, totalAVChange2);
-		table_output.setValue(4, 2, totalAVChange3);
-		table_output.setValue(5, 2, totalAVChange4);
-		table_output.setValue(6, 2, totalAVChange5);
-		table_output.setValue(7, 2, totalAVChange6);
-		table_output.setValue(8, 2, totalAVChange7);
-		table_output.setValue(9, 2, totalAVChange8);
-		table_output.setValue(10, 2, totalAVChange9);
-		table_output.setValue(11, 2, totalAVChange10);
-		table_output.setValue(12, 2, totalAVChange11);
-		table_output.setValue(13, 2, totalAVChange12);
-		table_output.setValue(14, 2, totalAVChange13);
-		table_output.setValue(15, 2, totalAVChange14);
-		table_output.setValue(16, 2, totalAVChange15);
-		table_output.setValue(17, 2, totalAVChange16);
-		table_output.setValue(18, 2, totalAVChange17);
-		table_output.setValue(19, 2, totalAVChange18);
-		table_output.setValue(20, 2, totalAVChange19);
-		table_output.setValue(0, 5, sampleParcelAV);
-		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
-		// Total AV update
-		for (let i = 1; i < levyYears + 1; i++) {
-			newTotalAV = table_output.getValue(i-1,1) * (1 + table_output.getValue(i, 2)/100)
-			table_output.setValue(i, 1, newTotalAV);
-		}
-		formatter.format(table_output, 1); // Apply formatter to Total AV column
-		// Rate update
-		for (let i = 0; i < levyYears + 1; i++) {
-			newRate = table_output.getValue(i,3) / table_output.getValue(i,1) * 1000
-			table_output.setValue(i, 4, newRate);
-		}
-		formatterRate.format(table_output, 4); // Apply formatter to Rate column
-		// Example Property AV update
-		for (let i = 1; i < levyYears + 1; i++) {
-			newExPropAV = table_output.getValue(i-1,5) * (1 + table_output.getValue(i,2) / 100) * ((1 + pofChange0/100) ** (1))
-			table_output.setValue(i, 5, newExPropAV);
-		}
-		formatter.format(table_output, 5); // Apply formatter to Ex Prop AV column
-		// Example Property POF update
-		for (let i = 0; i < levyYears + 1; i++) {
-			newExPropPOF = table_output.getValue(i,5) / table_output.getValue(i,1)
-			table_output.setValue(i, 6, newExPropPOF);
-		}
-		formatterPOF.format(table_output, 6); // Apply formatter to Ex Prop POF column
-		// Example Property Levy Tax update
-		for (let i = 0; i < levyYears + 1; i++) {
-			newExPropLevyAmount = table_output.getValue(i,5) * table_output.getValue(i,4) / 1000
-			table_output.setValue(i, 7, newExPropLevyAmount);
-		}
-		formatter.format(table_output, 7); // Apply formatter to Ex Prop Levy Tax column
-		// Example Property AV Change update
-		for (let i = 1; i < levyYears + 1; i++) {
-			newExPropAVChange = (table_output.getValue(i,5) - table_output.getValue(i-1,5)) / table_output.getValue(i-1,5) * 100
-			table_output.setValue(i, 8, newExPropAVChange);
-		}
-		formatterPercent1.format(table_output, 8); // Apply formatter to Ex Prop Levy Tax column
+		table_output.setValue(0, 3, totalAV2022);
+		table_output.setValue(1, 3, totalAV2023);
+		table_output.setValue(2, 3, totalAV2024);
+		formatter.format(table_output, 3); // Apply formatter to Total AV Change column
 	
-		//table_output.setValue(1, 2, totalAVChange0);
-		table_output_vis.draw(table_output, {sort:'disable',allowHtml:'true'});
+		table_output_encl.draw(table_output, {sort:'disable',allowHtml:'true'});
     }
 	
-	function changeTotalAVChange(dir) {
-		totalAVChange0 = totalAVChange0 + dir;
-		if (totalAVChange0 < totalAVChangeMin)
-			totalAVChange0 = totalAVChangeMin;
-		if (totalAVChange0 > totalAVChangeMax)
-			totalAVChange0 = totalAVChangeMax;
-		totalAVChange1 = totalAVChange0
-		totalAVChange2 = totalAVChange0
-		totalAVChange3 = totalAVChange0
-		totalAVChange4 = totalAVChange0
-		totalAVChange5 = totalAVChange0
-		totalAVChange6 = totalAVChange0
-		totalAVChange7 = totalAVChange0
-		totalAVChange8 = totalAVChange0
-		totalAVChange9 = totalAVChange0
-		totalAVChange10 = totalAVChange0
-		totalAVChange11 = totalAVChange0
-		totalAVChange12 = totalAVChange0
-		totalAVChange13 = totalAVChange0
-		totalAVChange14 = totalAVChange0
-		totalAVChange15 = totalAVChange0
-		totalAVChange16 = totalAVChange0
-		totalAVChange17 = totalAVChange0
-		totalAVChange18 = totalAVChange0
-		totalAVChange19 = totalAVChange0
-		table_total_av_change_0_adjust_input_data.setValue(0, 1, totalAVChange0);
-		formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column
-		table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data);
-		changeParcelAV(0);
+	function changeAV2021(dir) {
+		exPropAV2021 = exPropAV2021 + dir;
+		if (exPropAV2021 < exPropAVMin)
+			exPropAV2021 = exPropAVMin;
+		if (exPropAV2021 > exPropAVMax)
+			exPropAV2021 = exPropAVMax;
+		table_ex_av_2021.setValue(0, 1, exPropAV2021);
+		formatter.format(table_ex_av_2021, 1); // Apply formatter to second column
+		table_ex_av_2021_encl.draw(table_ex_av_2021);
+		updateOutput(0);
 	}
 
-	function changePOFChange(dir) {
-		pofChange0 = pofChange0 + dir;
-		if (pofChange0 < pofChangeMin)
-			pofChange0 = pofChangeMin;
-		if (pofChange0 > pofChangeMax)
-			pofChange0 = pofChangeMax;
-		table_pof_change_0_adjust_input_data.setValue(0, 1, pofChange0);
-		formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column
-		table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data);
-		changeParcelAV(0);
+	function changeAV2022(dir) {
+		exPropAV2022 = exPropAV2022 + dir;
+		if (exPropAV2022 < exPropAVMin)
+			exPropAV2022 = exPropAVMin;
+		if (exPropAV2022 > exPropAVMax)
+			exPropAV2022 = exPropAVMax;
+		table_ex_av_2022.setValue(0, 1, exPropAV2022);
+		formatter.format(table_ex_av_2022, 1); // Apply formatter to second column
+		table_ex_av_2022_encl.draw(table_ex_av_2022);
+		updateOutput(0);
+	}
+	
+	function changeAV2023(dir) {
+		exPropAV2023 = exPropAV2023 + dir;
+		if (exPropAV2023 < exPropAVMin)
+			exPropAV2023 = exPropAVMin;
+		if (exPropAV2023 > exPropAVMax)
+			exPropAV2023 = exPropAVMax;
+		table_ex_av_2023.setValue(0, 1, exPropAV2023);
+		formatter.format(table_ex_av_2023, 1); // Apply formatter to second column
+		table_ex_av_2023_encl.draw(table_ex_av_2023);
+		updateOutput(0);
+	}
+	
+	function changeAV2024(dir) {
+		exPropAV2024 = exPropAV2024 + dir;
+		if (exPropAV2024 < exPropAVMin)
+			exPropAV2024 = exPropAVMin;
+		if (exPropAV2024 > exPropAVMax)
+			exPropAV2024 = exPropAVMax;
+		table_ex_av_2024.setValue(0, 1, exPropAV2024);
+		formatter.format(table_ex_av_2024, 1); // Apply formatter to second column
+		table_ex_av_2024_encl.draw(table_ex_av_2024);
+		updateOutput(0);
 	}
 
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the August 6th 2024 bond measure proposed by the Lynden SD</H2>
+  <H2>Example property POF estimate calculator for the August 6th 2024 bond measure proposed by the Lynden SD</H2>
   <H3>Input</H3>
-  <div id="table_input_div" style="width:1200px; height: 60px;"></div>
-  <!-- <p></p> -->
-  <input type="button" value="+" onclick="changeParcelAV(25000)" />
-  <input type="button" value="-" onclick="changeParcelAV(-25000)" />
+  <div id="table_ex_av_2021_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeAV2021(10000)" />
+  <input type="button" value="-" onclick="changeAV2021(-10000)" />
   <p></p>
-  <div id="table_total_av_adjust_input_div" style="width:1200px; height: 60px;"></div>
-  <input type="button" value="+" onclick="changeTotalAVChange(0.2)" />
-  <input type="button" value="-" onclick="changeTotalAVChange(-0.2)" />
+  <div id="table_ex_av_2022_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeAV2022(10000)" />
+  <input type="button" value="-" onclick="changeAV2022(-10000)" />
   <p></p>
-  <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div>
-  <input type="button" value="+" onclick="changePOFChange(0.1)" />
-  <input type="button" value="-" onclick="changePOFChange(-0.1)" />
+  <div id="table_ex_av_2023_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeAV2023(10000)" />
+  <input type="button" value="-" onclick="changeAV2023(-10000)" />
   <p></p>
+  <div id="table_ex_av_2024_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeAV2024(10000)" />
+  <input type="button" value="-" onclick="changeAV2024(-10000)" />
+  <p></p>
+  
   <H3>Output</H3>
-  <!-- <H3>Enrichment Levy</H3> -->
-  <p>Estimated obligations for the example property</P>
-  <div id="table_output_general_div" style="width:1200px; height: 600px;"></div>
-  <div id="table_output_div" style="width:2000px; height: 200px;"></div>
+  <p>POF results for the example property</P>
+  <div id="table_output_div" style="width:1200px; height: 600px;"></div>
+  <div id="table_data_div" style="width:2000px; height: 200px;"></div>
   <!-- <div id="chart_div" style="width:800px; height: 640px;"></div> -->
   <!-- <p>POF: Proportional Obligation Factor equals the assessed value (AV) of the sample parcel divided by the Total AV of the properties within the district's tax area.</p> -->
   <H3>Notes</H3>
