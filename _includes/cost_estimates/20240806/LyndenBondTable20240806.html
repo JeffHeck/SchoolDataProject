@@ -136,7 +136,6 @@
 			table_output.setCell(i, 10, data.getValue(i, 10)); // New Construction As Percent Of Prev Year's Total AV
 			table_output.setCell(i, 11, data.getValue(i, 11)); // Existing Properties' AV Change
 			table_output.setCell(i, 12, data.getValue(i, 12)); // Example Property's POF Change
-		
 		}
 
 
@@ -337,64 +336,28 @@
 		table.draw(table_data, {sort:'disable'});
 		
 		//Update table output general
-		table_output.setValue(1, 2, totalAVChange0);
-		table_output.setValue(2, 2, totalAVChange1);
-		table_output.setValue(3, 2, totalAVChange2);
-		table_output.setValue(4, 2, totalAVChange3);
-		table_output.setValue(5, 2, totalAVChange4);
-		table_output.setValue(6, 2, totalAVChange5);
-		table_output.setValue(7, 2, totalAVChange6);
-		table_output.setValue(8, 2, totalAVChange7);
-		table_output.setValue(9, 2, totalAVChange8);
-		table_output.setValue(10, 2, totalAVChange9);
-		table_output.setValue(11, 2, totalAVChange10);
-		table_output.setValue(12, 2, totalAVChange11);
-		table_output.setValue(13, 2, totalAVChange12);
-		table_output.setValue(14, 2, totalAVChange13);
-		table_output.setValue(15, 2, totalAVChange14);
-		table_output.setValue(16, 2, totalAVChange15);
-		table_output.setValue(17, 2, totalAVChange16);
-		table_output.setValue(18, 2, totalAVChange17);
-		table_output.setValue(19, 2, totalAVChange18);
-		table_output.setValue(20, 2, totalAVChange19);
-		table_output.setValue(0, 5, sampleParcelAV);
-		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
-		// Total AV update
-		for (let i = 1; i < levyYears + 1; i++) {
-			newTotalAV = table_output.getValue(i-1,1) * (1 + table_output.getValue(i, 2)/100)
-			table_output.setValue(i, 1, newTotalAV);
-		}
-		formatter.format(table_output, 1); // Apply formatter to Total AV column
-		// Rate update
-		for (let i = 0; i < levyYears + 1; i++) {
-			newRate = table_output.getValue(i,3) / table_output.getValue(i,1) * 1000
-			table_output.setValue(i, 4, newRate);
-		}
-		formatterRate.format(table_output, 4); // Apply formatter to Rate column
-		// Example Property AV update
-		for (let i = 1; i < levyYears + 1; i++) {
-			newExPropAV = table_output.getValue(i-1,5) * (1 + table_output.getValue(i,2) / 100) * ((1 + pofChange0/100) ** (1))
-			table_output.setValue(i, 5, newExPropAV);
-		}
-		formatter.format(table_output, 5); // Apply formatter to Ex Prop AV column
-		// Example Property POF update
-		for (let i = 0; i < levyYears + 1; i++) {
-			newExPropPOF = table_output.getValue(i,5) / table_output.getValue(i,1)
-			table_output.setValue(i, 6, newExPropPOF);
-		}
-		formatterPOF.format(table_output, 6); // Apply formatter to Ex Prop POF column
-		// Example Property Levy Tax update
-		for (let i = 0; i < levyYears + 1; i++) {
-			newExPropLevyAmount = table_output.getValue(i,5) * table_output.getValue(i,4) / 1000
-			table_output.setValue(i, 7, newExPropLevyAmount);
-		}
-		formatter.format(table_output, 7); // Apply formatter to Ex Prop Levy Tax column
-		// Example Property AV Change update
-		for (let i = 1; i < levyYears + 1; i++) {
-			newExPropAVChange = (table_output.getValue(i,5) - table_output.getValue(i-1,5)) / table_output.getValue(i-1,5) * 100
-			table_output.setValue(i, 8, newExPropAVChange);
-		}
-		formatterPercent1.format(table_output, 8); // Apply formatter to Ex Prop Levy Tax column
+		<!-- table_output.setValue(1, 2, totalAVChange0); -->
+		<!-- table_output.setValue(2, 2, totalAVChange1); -->
+		<!-- table_output.setValue(3, 2, totalAVChange2); -->
+		<!-- table_output.setValue(4, 2, totalAVChange3); -->
+		<!-- table_output.setValue(5, 2, totalAVChange4); -->
+		<!-- table_output.setValue(6, 2, totalAVChange5); -->
+		<!-- table_output.setValue(7, 2, totalAVChange6); -->
+		<!-- table_output.setValue(8, 2, totalAVChange7); -->
+		<!-- table_output.setValue(9, 2, totalAVChange8); -->
+		<!-- table_output.setValue(10, 2, totalAVChange9); -->
+		<!-- table_output.setValue(11, 2, totalAVChange10); -->
+		<!-- table_output.setValue(12, 2, totalAVChange11); -->
+		<!-- table_output.setValue(13, 2, totalAVChange12); -->
+		<!-- table_output.setValue(14, 2, totalAVChange13); -->
+		<!-- table_output.setValue(15, 2, totalAVChange14); -->
+		<!-- table_output.setValue(16, 2, totalAVChange15); -->
+		<!-- table_output.setValue(17, 2, totalAVChange16); -->
+		<!-- table_output.setValue(18, 2, totalAVChange17); -->
+		<!-- table_output.setValue(19, 2, totalAVChange18); -->
+		<!-- table_output.setValue(20, 2, totalAVChange19); -->
+		<!-- table_output.setValue(0, 5, sampleParcelAV); -->
+		<!-- formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column -->
 		// New Construction Amount
 		for (let i = 1; i < levyYears + 1; i++) {
 			newConstructionAmount = table_output.getValue(i-1,1) * newConstructionChange0 / 100
@@ -411,58 +374,98 @@
 			table_output.setValue(i, 11, existingPropertiesAVChange0);
 		}
 		formatterPercent1.format(table_output, 11); // Apply formatter to New Construction Percent column
+		// Total AV Change Update
+		for (let i = 1; i < levyYears + 1; i++) {
+			table_output.setValue(i, 2, newConstructionChange0 + existingPropertiesAVChange0);
+		}
+		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
+		// Total AV update
+		for (let i = 1; i < levyYears + 1; i++) {
+			newTotalAV = table_output.getValue(i-1,1) * (1 + table_output.getValue(i, 2)/100)
+			table_output.setValue(i, 1, newTotalAV);
+		}
+		formatter.format(table_output, 1); // Apply formatter to Total AV column
+		// Rate update
+		for (let i = 0; i < levyYears + 1; i++) {
+			newRate = table_output.getValue(i,3) / table_output.getValue(i,1) * 1000
+			table_output.setValue(i, 4, newRate);
+		}
+		formatterRate.format(table_output, 4); // Apply formatter to Rate column
+		// Example Property AV Change update
+		for (let i = 1; i < levyYears + 1; i++) {
+			table_output.setValue(i, 8, examplePropertyAVChange0);
+		}
+		formatterPercent1.format(table_output, 8); // Apply formatter to Ex Prop Levy Tax column
+		// Example Property AV update
+		for (let i = 1; i < levyYears + 1; i++) {
+			newExPropAV = table_output.getValue(i-1,5) * (1 + examplePropertyAVChange0 / 100)
+			table_output.setValue(i, 5, newExPropAV);
+		}
+		formatter.format(table_output, 5); // Apply formatter to Ex Prop AV column
+		// Example Property POF update
+		for (let i = 0; i < levyYears + 1; i++) {
+			newExPropPOF = table_output.getValue(i,5) / table_output.getValue(i,1)
+			table_output.setValue(i, 6, newExPropPOF);
+		}
+		formatterPOF.format(table_output, 6); // Apply formatter to Ex Prop POF column
 		// Example property's POF change
 		for (let i = 1; i < levyYears + 1; i++) {
 			pofPercentChange = (table_output.getValue(i,6) - table_output.getValue(i-1,6)) / table_output.getValue(i-1,6) * 100
 			table_output.setValue(i, 12, pofPercentChange);
 		}
 		formatterPercent1.format(table_output, 12); // Apply formatter to Ex Prop Levy Tax column
+		// Example Property Levy Tax update
+		for (let i = 0; i < levyYears + 1; i++) {
+			newExPropLevyAmount = table_output.getValue(i,5) * table_output.getValue(i,4) / 1000
+			table_output.setValue(i, 7, newExPropLevyAmount);
+		}
+		formatter.format(table_output, 7); // Apply formatter to Ex Prop Levy Tax column
 	
 		//table_output.setValue(1, 2, totalAVChange0);
 		table_output_vis.draw(table_output, {sort:'disable',allowHtml:'true'});
     }
 	
 	function changeTotalAVChange(dir) {
-		totalAVChange0 = totalAVChange0 + dir;
-		if (totalAVChange0 < totalAVChangeMin)
-			totalAVChange0 = totalAVChangeMin;
-		if (totalAVChange0 > totalAVChangeMax)
-			totalAVChange0 = totalAVChangeMax;
-		totalAVChange1 = totalAVChange0
-		totalAVChange2 = totalAVChange0
-		totalAVChange3 = totalAVChange0
-		totalAVChange4 = totalAVChange0
-		totalAVChange5 = totalAVChange0
-		totalAVChange6 = totalAVChange0
-		totalAVChange7 = totalAVChange0
-		totalAVChange8 = totalAVChange0
-		totalAVChange9 = totalAVChange0
-		totalAVChange10 = totalAVChange0
-		totalAVChange11 = totalAVChange0
-		totalAVChange12 = totalAVChange0
-		totalAVChange13 = totalAVChange0
-		totalAVChange14 = totalAVChange0
-		totalAVChange15 = totalAVChange0
-		totalAVChange16 = totalAVChange0
-		totalAVChange17 = totalAVChange0
-		totalAVChange18 = totalAVChange0
-		totalAVChange19 = totalAVChange0
-		table_total_av_change_0_adjust_input_data.setValue(0, 1, totalAVChange0);
-		formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column
-		table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data);
-		changeParcelAV(0);
+		<!-- totalAVChange0 = totalAVChange0 + dir; -->
+		<!-- if (totalAVChange0 < totalAVChangeMin) -->
+			<!-- totalAVChange0 = totalAVChangeMin; -->
+		<!-- if (totalAVChange0 > totalAVChangeMax) -->
+			<!-- totalAVChange0 = totalAVChangeMax; -->
+		<!-- totalAVChange1 = totalAVChange0 -->
+		<!-- totalAVChange2 = totalAVChange0 -->
+		<!-- totalAVChange3 = totalAVChange0 -->
+		<!-- totalAVChange4 = totalAVChange0 -->
+		<!-- totalAVChange5 = totalAVChange0 -->
+		<!-- totalAVChange6 = totalAVChange0 -->
+		<!-- totalAVChange7 = totalAVChange0 -->
+		<!-- totalAVChange8 = totalAVChange0 -->
+		<!-- totalAVChange9 = totalAVChange0 -->
+		<!-- totalAVChange10 = totalAVChange0 -->
+		<!-- totalAVChange11 = totalAVChange0 -->
+		<!-- totalAVChange12 = totalAVChange0 -->
+		<!-- totalAVChange13 = totalAVChange0 -->
+		<!-- totalAVChange14 = totalAVChange0 -->
+		<!-- totalAVChange15 = totalAVChange0 -->
+		<!-- totalAVChange16 = totalAVChange0 -->
+		<!-- totalAVChange17 = totalAVChange0 -->
+		<!-- totalAVChange18 = totalAVChange0 -->
+		<!-- totalAVChange19 = totalAVChange0 -->
+		<!-- table_total_av_change_0_adjust_input_data.setValue(0, 1, totalAVChange0); -->
+		<!-- formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column -->
+		<!-- table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data); -->
+		<!-- changeParcelAV(0); -->
 	}
 
 	function changePOFChange(dir) {
-		pofChange0 = pofChange0 + dir;
-		if (pofChange0 < pofChangeMin)
-			pofChange0 = pofChangeMin;
-		if (pofChange0 > pofChangeMax)
-			pofChange0 = pofChangeMax;
-		table_pof_change_0_adjust_input_data.setValue(0, 1, pofChange0);
-		formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column
-		table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data);
-		changeParcelAV(0);
+		<!-- pofChange0 = pofChange0 + dir; -->
+		<!-- if (pofChange0 < pofChangeMin) -->
+			<!-- pofChange0 = pofChangeMin; -->
+		<!-- if (pofChange0 > pofChangeMax) -->
+			<!-- pofChange0 = pofChangeMax; -->
+		<!-- table_pof_change_0_adjust_input_data.setValue(0, 1, pofChange0); -->
+		<!-- formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column -->
+		<!-- table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data); -->
+		<!-- changeParcelAV(0); -->
 	}
 
 	function changeNewConstructionChange(dir) {
