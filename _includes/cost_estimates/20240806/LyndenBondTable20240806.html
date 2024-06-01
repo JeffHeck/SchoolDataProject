@@ -74,29 +74,33 @@
 		data.addColumn('number', 'Example Property\'s POF');
 		data.addColumn('number', 'Example Property\'s Bond Tax');
 		data.addColumn('number', 'Example Property\'s AV Change');
+		data.addColumn('number', 'New Construction Amount');
+		data.addColumn('number', 'New Construction As Percent Of Prev Year\'s Total AV');
+		data.addColumn('number', 'Existing Properties\' AV Change');
+		data.addColumn('number', 'Example Property\'s POF Change');
 
 		data.addRows([
-			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0, 0],
-			['2025', 7564000, 5576029300, 6, 1.36, 530000, 0.00009505, 719, 6],
-			['2026', 8027000, 5910591058, 6, 1.36, 561800, 0.00009505, 763, 6],
-			['2027', 8515000, 6265226521, 6, 1.36, 595508, 0.00009505, 809, 6],
-			['2028', 9026000, 6641140113, 6, 1.36, 631238, 0.00009505, 858, 6],
-			['2029', 9477000, 6973197118, 5, 1.36, 662800, 0.00009505, 901, 6],
-			['2030', 9951000, 7321856974, 5, 1.36, 695940, 0.00009505, 946, 5],
-			['2031', 10451000, 7687949823, 5, 1.36, 730737, 0.00009505, 993, 5],
-			['2032', 10974000, 8072347314, 5, 1.36, 767274, 0.00009505, 1043, 5],
-			['2033', 11521000, 8475964680, 5, 1.36, 805638, 0.00009505, 1095, 5],
-			['2034', 12096000, 8899762914, 5, 1.36, 845920, 0.00009505, 1150, 5],
-			['2035', 12698000, 9344751060, 5, 1.36, 888216, 0.00009505, 1207, 5],
-			['2036', 13337000, 9811988613, 5, 1.36, 932627, 0.00009505, 1268, 5],
-			['2037', 14002000, 10302588043, 5, 1.36, 979258, 0.00009505, 1331, 5],
-			['2038', 14704000, 10817717445, 5, 1.36, 1028221, 0.00009505, 1398, 5],
-			['2039', 15440000, 11358603318, 5, 1.36, 1079632, 0.00009505, 1468, 5],
-			['2040', 16208000, 11926533484, 5, 1.36, 1133614, 0.00009505, 1541, 5],
-			['2041', 17021000, 12522860158, 5, 1.36, 1190294, 0.00009505, 1618, 5],
-			['2042', 17872000, 13149003166, 5, 1.36, 1249809, 0.00009505, 1699, 5],
-			['2043', 18765000, 13806453324, 5, 1.36, 1312299, 0.00009505, 1784, 5],
-			['2044', 17116000, 14496775990, 5, 1.18, 1377914, 0.00009505, 1627, 5],
+			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0, 0, 0, 0, 0, 0],
+			['2025', 7564000, 5576029300, 6, 1.36, 530000, 0.00009505, 719, 6, 0, 0, 0, 0],
+			['2026', 8027000, 5910591058, 6, 1.36, 561800, 0.00009505, 763, 6, 0, 0, 0, 0],
+			['2027', 8515000, 6265226521, 6, 1.36, 595508, 0.00009505, 809, 6, 0, 0, 0, 0],
+			['2028', 9026000, 6641140113, 6, 1.36, 631238, 0.00009505, 858, 6, 0, 0, 0, 0],
+			['2029', 9477000, 6973197118, 5, 1.36, 662800, 0.00009505, 901, 6, 0, 0, 0, 0],
+			['2030', 9951000, 7321856974, 5, 1.36, 695940, 0.00009505, 946, 5, 0, 0, 0, 0],
+			['2031', 10451000, 7687949823, 5, 1.36, 730737, 0.00009505, 993, 5, 0, 0, 0, 0],
+			['2032', 10974000, 8072347314, 5, 1.36, 767274, 0.00009505, 1043, 5, 0, 0, 0, 0],
+			['2033', 11521000, 8475964680, 5, 1.36, 805638, 0.00009505, 1095, 5, 0, 0, 0, 0],
+			['2034', 12096000, 8899762914, 5, 1.36, 845920, 0.00009505, 1150, 5, 0, 0, 0, 0],
+			['2035', 12698000, 9344751060, 5, 1.36, 888216, 0.00009505, 1207, 5, 0, 0, 0, 0],
+			['2036', 13337000, 9811988613, 5, 1.36, 932627, 0.00009505, 1268, 5, 0, 0, 0, 0],
+			['2037', 14002000, 10302588043, 5, 1.36, 979258, 0.00009505, 1331, 5, 0, 0, 0, 0],
+			['2038', 14704000, 10817717445, 5, 1.36, 1028221, 0.00009505, 1398, 5, 0, 0, 0, 0],
+			['2039', 15440000, 11358603318, 5, 1.36, 1079632, 0.00009505, 1468, 5, 0, 0, 0, 0],
+			['2040', 16208000, 11926533484, 5, 1.36, 1133614, 0.00009505, 1541, 5, 0, 0, 0, 0],
+			['2041', 17021000, 12522860158, 5, 1.36, 1190294, 0.00009505, 1618, 5, 0, 0, 0, 0],
+			['2042', 17872000, 13149003166, 5, 1.36, 1249809, 0.00009505, 1699, 5, 0, 0, 0, 0],
+			['2043', 18765000, 13806453324, 5, 1.36, 1312299, 0.00009505, 1784, 5, 0, 0, 0, 0],
+			['2044', 17116000, 14496775990, 5, 1.18, 1377914, 0.00009505, 1627, 5, 0, 0, 0, 0],
 
 		]);
 		
@@ -107,11 +111,15 @@
 		table_output.addColumn('number', '(B)<br>Total<br>AV');
 		table_output.addColumn('number', '(C)<br>Total AV<br>Change');
 		table_output.addColumn('number', '(D)<br>New Bond<br>Total Tax');
-		table_output.addColumn('number', '(E)<br>Resulting New Bond<br>Tax Rate');
-		table_output.addColumn('number', '(F)<br>Example Property\'s<br>AV');
-		table_output.addColumn('number', '(G)<br>Example Property\'s<br>POF');
-		table_output.addColumn('number', '(H)<br>Example Property\'s<br>New Bond Tax');
-		table_output.addColumn('number', '(I)<br>Example Property\'s<br>AV Change');
+		table_output.addColumn('number', '(E)<br>Resulting<br>New Bond<br>Tax Rate');
+		table_output.addColumn('number', '(F)<br>Example<br>Property\'s<br>AV');
+		table_output.addColumn('number', '(G)<br>Example<br>Property\'s<br>POF');
+		table_output.addColumn('number', '(H)<br>Example<br>Property\'s<br>New Bond Tax');
+		table_output.addColumn('number', '(I)<br>Example<br>Property\'s<br>AV Change');
+		table_output.addColumn('number', '(J)<br>New<br>Construction<br>Amount');
+		table_output.addColumn('number', '(K)<br>New<br>Construction<br>As a Percent of<br>Prev Year\'s Total AV');
+		table_output.addColumn('number', '(L)<br>Existing<br>Properties\'<br>AV Change');
+		table_output.addColumn('number', '(M)<br>Example<br>Property\'s<br>POF Change');
 
 		table_output.addRows(levyYears + 1);
 		for (let i = 0; i < levyYears + 1; i++) {
@@ -124,6 +132,10 @@
 			table_output.setCell(i, 6, data.getValue(i, 6)); // Example Property POF
 			table_output.setCell(i, 7, data.getValue(i, 7)); // Example Property Bond Tax
 			table_output.setCell(i, 8, data.getValue(i, 8)); // Example Property AV Change
+			table_output.setCell(i, 9, data.getValue(i, 9)); // New Construction Amount
+			table_output.setCell(i, 10, data.getValue(i, 10)); // New Construction As Percent Of Prev Year's Total AV
+			table_output.setCell(i, 11, data.getValue(i, 11)); // Existing Properties' AV Change
+			table_output.setCell(i, 12, data.getValue(i, 12)); // Example Property's POF Change
 		
 		}
 
@@ -196,7 +208,7 @@
 		table_new_construction_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_new_construction_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_new_construction_change_0_adjust_input_data.addRows([
-			['New Construction As Percent Of Prev Year\'s Total AV Guess', pofChange0 ],
+			['New Construction as a Percent of the Prev Year\'s Total AV Guess', pofChange0 ],
 		]);
 
 		// Example Property's AV Change 0 Adjust table
@@ -205,7 +217,7 @@
 		table_example_property_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_example_property_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_example_property_av_change_0_adjust_input_data.addRows([
-			['Example Property\'s AV Guess', pofChange0 ],
+			['Example Property\'s Annual AV Percent Change Guess', pofChange0 ],
 		]);
 
 		// Existing Properties' AV Change 0 Adjust table
@@ -214,7 +226,7 @@
 		table_existing_properties_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_existing_properties_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_existing_properties_av_change_0_adjust_input_data.addRows([
-			['Existing Properties\'s AV Guess', pofChange0 ],
+			['Existing Properties\'s Annual AV Percent Change Guess', pofChange0 ],
 		]);
 
 		// Levy 1 output table
