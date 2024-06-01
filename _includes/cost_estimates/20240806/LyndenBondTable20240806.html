@@ -315,25 +315,8 @@
 		table_input_data.setValue(0, 1, sampleParcelAV);
 		formatter.format(table_input_data, 1); // Apply formatter to second column
 		table_input.draw(table_input_data);
-		//Update chart 1
-		sampleParcelPOFEffective = sampleParcelPOF;
-		totalLevyCostParcel = 0;
-		//totalLevyPriorCostParcel = 0;
-		for (let i = 0; i < levyYears + 1; i++) {
-			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (i);
-			dataParcel.setValue(i, 0, data.getValue(i, 0));
-			dataParcel.setValue(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
-			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
-		}		
-		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
-		formatter.format(dataParcel, 1); // Apply formatter to second column
 		<!-- chart.draw(dataParcel, options); -->
 		
-		//Update table output
-		table_data.setValue(0, 1, totalLevyCostParcel); // Total levy cost parcel
-		table_data.setValue(1, 1, averageTotalLevyCostParcel); // Average levy cost parcel
-		formatter.format(table_data, 1); // Apply formatter to second column
-		table.draw(table_data, {sort:'disable'});
 		
 		//Update table output general
 		<!-- table_output.setValue(1, 2, totalAVChange0); -->
@@ -423,6 +406,21 @@
 	
 		//table_output.setValue(1, 2, totalAVChange0);
 		table_output_vis.draw(table_output, {sort:'disable',allowHtml:'true'});
+		
+		//Update chart 1
+		sampleParcelPOFEffective = sampleParcelPOF;
+		totalLevyCostParcel = 0;
+		//totalLevyPriorCostParcel = 0;
+		for (let i = 0; i < levyYears + 1; i++) {
+			totalLevyCostParcel = totalLevyCostParcel + table_output.getValue(i, 7);
+		}		
+		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
+		formatter.format(dataParcel, 1); // Apply formatter to second column
+		//Update table output
+		table_data.setValue(0, 1, totalLevyCostParcel); // Total levy cost parcel
+		table_data.setValue(1, 1, averageTotalLevyCostParcel); // Average levy cost parcel
+		formatter.format(table_data, 1); // Apply formatter to second column
+		table.draw(table_data, {sort:'disable'});
     }
 	
 	function changeTotalAVChange(dir) {
