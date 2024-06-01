@@ -263,15 +263,15 @@
 		formatter.format(table_input_data, 1); // Apply formatter to second column
 		table_input.draw(table_input_data, {sort:'disable'});
 
-		// Input table for Total AV change
-		table_total_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_total_av_adjust_input_div'));
-		formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column
-		table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data, {sort:'disable'});
+		<!-- // Input table for Total AV change -->
+		<!-- table_total_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_total_av_adjust_input_div')); -->
+		<!-- formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column -->
+		<!-- table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data, {sort:'disable'}); -->
 
-		// Input table for POF change
-		table_pof_0_adjust_input = new google.visualization.Table(document.getElementById('table_pof_adjust_input_div'));
-		formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column
-		table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data, {sort:'disable'});
+		<!-- // Input table for POF change -->
+		<!-- table_pof_0_adjust_input = new google.visualization.Table(document.getElementById('table_pof_adjust_input_div')); -->
+		<!-- formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column -->
+		<!-- table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data, {sort:'disable'}); -->
 
 		// Input table for New Construction change
 		table_new_construction_0_adjust_input = new google.visualization.Table(document.getElementById('table_new_construction_adjust_input_div'));
@@ -514,14 +514,14 @@
   <input type="button" value="+" onclick="changeParcelAV(25000)" />
   <input type="button" value="-" onclick="changeParcelAV(-25000)" />
   <p></p>
-  <div id="table_total_av_adjust_input_div" style="width:1200px; height: 60px;"></div>
-  <input type="button" value="+" onclick="changeTotalAVChange(0.2)" />
-  <input type="button" value="-" onclick="changeTotalAVChange(-0.2)" />
-  <p></p>
-  <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div>
-  <input type="button" value="+" onclick="changePOFChange(0.1)" />
-  <input type="button" value="-" onclick="changePOFChange(-0.1)" />
-  <p></p>
+  <!-- <div id="table_total_av_adjust_input_div" style="width:1200px; height: 60px;"></div> -->
+  <!-- <input type="button" value="+" onclick="changeTotalAVChange(0.2)" /> -->
+  <!-- <input type="button" value="-" onclick="changeTotalAVChange(-0.2)" /> -->
+  <!-- <p></p> -->
+  <!-- <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div> -->
+  <!-- <input type="button" value="+" onclick="changePOFChange(0.1)" /> -->
+  <!-- <input type="button" value="-" onclick="changePOFChange(-0.1)" /> -->
+  <!-- <p></p> -->
   <div id="table_new_construction_adjust_input_div" style="width:1200px; height: 60px;"></div>
   <input type="button" value="+" onclick="changeNewConstructionChange(0.1)" />
   <input type="button" value="-" onclick="changeNewConstructionChange(-0.1)" />
