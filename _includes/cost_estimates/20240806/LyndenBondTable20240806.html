@@ -395,6 +395,28 @@
 			table_output.setValue(i, 8, newExPropAVChange);
 		}
 		formatterPercent1.format(table_output, 8); // Apply formatter to Ex Prop Levy Tax column
+		// New Construction Amount
+		for (let i = 1; i < levyYears + 1; i++) {
+			newConstructionAmount = table_output.getValue(i-1,1) * newConstructionChange0 / 100
+			table_output.setValue(i, 9, newConstructionAmount);
+		}
+		formatter.format(table_output, 9); // Apply formatter to New Construction Percent column
+		// New Construction As % Of Prev Year's Total AV
+		for (let i = 1; i < levyYears + 1; i++) {
+			table_output.setValue(i, 10, newConstructionChange0);
+		}
+		formatterPercent1.format(table_output, 10); // Apply formatter to New Construction Percent  column
+		// Existing Properties' AV Change update
+		for (let i = 1; i < levyYears + 1; i++) {
+			table_output.setValue(i, 11, existingPropertiesAVChange0);
+		}
+		formatterPercent1.format(table_output, 11); // Apply formatter to New Construction Percent column
+		// Example property's POF change
+		for (let i = 1; i < levyYears + 1; i++) {
+			pofPercentChange = (table_output.getValue(i,6) - table_output.getValue(i-1,6)) / table_output.getValue(i-1,6) * 100
+			table_output.setValue(i, 12, pofPercentChange);
+		}
+		formatterPercent1.format(table_output, 12); // Apply formatter to Ex Prop Levy Tax column
 	
 		//table_output.setValue(1, 2, totalAVChange0);
 		table_output_vis.draw(table_output, {sort:'disable',allowHtml:'true'});
