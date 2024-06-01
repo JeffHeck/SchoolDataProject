@@ -22,6 +22,9 @@
 	// Total AV Annual Change Percent
 	totalAVChange0 = 6.0;
 	pofChange0 = 0.0;
+	newConstructionChange0 = 0;
+	examplePropertyAVChange0 = 0;
+	existingPropertiesAVChange0 = 0;
 
 	totalAVChange1 = 6.0;
 	totalAVChange2 = 6.0;
@@ -43,11 +46,17 @@
 	totalAVChange18 = 5.0;
 	totalAVChange19 = 5.0;
 
-	totalAVChangeMin = -20.0;
-	totalAVChangeMax = 20.0;
+	totalAVChangeMin = -30.0;
+	totalAVChangeMax = 30.0;
+	pofChangeMin = -6.0;
+	pofChangeMax = 6.0;
+	newConstructionChangeMin = -6.0;
+	newConstructionChangeMax = 6.0;
+	examplePropertyAVChangeMin = -30;
+	examplePropertyAVChangeMax = 30;
+	existingPropertiesAVChangeMin = -30;
+	existingPropertiesAVChangeMax = 30;
 	
-	pofChangeMin = -5.0;
-	pofChangeMax = 5.0;
 
 	pofChange = 0
 
@@ -181,6 +190,33 @@
 			['Example Property\'s Annual POF Percent Change Guess', pofChange0 ],
 		]);
 
+		// New Construction 0 Adjust table
+		// New Construction 0 Adjust
+		table_new_construction_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_new_construction_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_new_construction_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_new_construction_change_0_adjust_input_data.addRows([
+			['New Construction As Percent Of Prev Year\'s Total AV Guess', pofChange0 ],
+		]);
+
+		// Example Property's AV Change 0 Adjust table
+		// Example Property's AV 0 Adjust
+		table_example_property_av_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_example_property_av_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_example_property_av_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_example_property_av_change_0_adjust_input_data.addRows([
+			['Example Property\'s AV Guess', pofChange0 ],
+		]);
+
+		// Existing Properties' AV Change 0 Adjust table
+		// Existing Properties' AV Change 0 Adjust
+		table_existing_properties_av_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_existing_properties_av_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_existing_properties_av_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_existing_properties_av_change_0_adjust_input_data.addRows([
+			['Existing Properties\'s AV Guess', pofChange0 ],
+		]);
+
 		// Levy 1 output table
 		table_data = new google.visualization.DataTable();
 		table_data.addColumn('string', 'Description');
@@ -225,6 +261,21 @@
 		table_pof_0_adjust_input = new google.visualization.Table(document.getElementById('table_pof_adjust_input_div'));
 		formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column
 		table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data, {sort:'disable'});
+
+		// Input table for New Construction change
+		table_new_construction_0_adjust_input = new google.visualization.Table(document.getElementById('table_new_construction_adjust_input_div'));
+		formatterPercent1.format(table_new_construction_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_new_construction_0_adjust_input.draw(table_new_construction_change_0_adjust_input_data, {sort:'disable'});
+
+		// Input table for Example Property AV change
+		table_example_property_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_example_property_av_adjust_input_div'));
+		formatterPercent1.format(table_example_property_av_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_example_property_av_0_adjust_input.draw(table_example_property_av_change_0_adjust_input_data, {sort:'disable'});
+
+		// Input table for Existing Properties AV change
+		table_existing_properties_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_existing_properties_av_adjust_input_div'));
+		formatterPercent1.format(table_existing_properties_av_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_existing_properties_av_0_adjust_input.draw(table_existing_properties_av_change_0_adjust_input_data, {sort:'disable'});
 
 		// Output table general
 		table_output_vis = new google.visualization.Table(document.getElementById('table_output_general_div'));
@@ -380,6 +431,42 @@
 		changeParcelAV(0);
 	}
 
+	function changeNewConstructionChange(dir) {
+		newConstructionChange0 = newConstructionChange0 + dir;
+		if (newConstructionChange0 < newConstructionChangeMin)
+			newConstructionChange0 = newConstructionChangeMin;
+		if (newConstructionChange0 > newConstructionChangeMax)
+			newConstructionChange0 = newConstructionChangeMax;
+		table_new_construction_change_0_adjust_input_data.setValue(0, 1, newConstructionChange0);
+		formatterPercent1.format(table_new_construction_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_new_construction_0_adjust_input.draw(table_new_construction_change_0_adjust_input_data);
+		changeParcelAV(0);
+	}
+
+	function changeExamplePropertyAVChange(dir) {
+		examplePropertyAVChange0 = examplePropertyAVChange0 + dir;
+		if (examplePropertyAVChange0 < examplePropertyAVChangeMin)
+			examplePropertyAVChange0 = examplePropertyAVChangeMin;
+		if (examplePropertyAVChange0 > examplePropertyAVChangeMax)
+			examplePropertyAVChange0 = examplePropertyAVChangeMax;
+		table_example_property_av_change_0_adjust_input_data.setValue(0, 1, examplePropertyAVChange0);
+		formatterPercent1.format(table_example_property_av_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_example_property_av_0_adjust_input.draw(table_example_property_av_change_0_adjust_input_data);
+		changeParcelAV(0);
+	}
+
+	function changeExistingPropertiesAVChange(dir) {
+		existingPropertiesAVChange0 = existingPropertiesAVChange0 + dir;
+		if (existingPropertiesAVChange0 < existingPropertiesAVChangeMin)
+			existingPropertiesAVChange0 = existingPropertiesAVChangeMin;
+		if (existingPropertiesAVChange0 > existingPropertiesAVChangeMax)
+			existingPropertiesAVChange0 = existingPropertiesAVChangeMax;
+		table_existing_properties_av_change_0_adjust_input_data.setValue(0, 1, existingPropertiesAVChange0);
+		formatterPercent1.format(table_existing_properties_av_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_existing_properties_av_0_adjust_input.draw(table_existing_properties_av_change_0_adjust_input_data);
+		changeParcelAV(0);
+	}
+
   </script>
  </head>
  <body>
@@ -397,6 +484,18 @@
   <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div>
   <input type="button" value="+" onclick="changePOFChange(0.1)" />
   <input type="button" value="-" onclick="changePOFChange(-0.1)" />
+  <p></p>
+  <div id="table_new_construction_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeNewConstructionChange(0.1)" />
+  <input type="button" value="-" onclick="changeNewConstructionChange(-0.1)" />
+  <p></p>
+  <div id="table_example_property_av_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeExamplePropertyAVChange(0.1)" />
+  <input type="button" value="-" onclick="changeExamplePropertyAVChange(-0.1)" />
+  <p></p>
+  <div id="table_existing_properties_av_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeExistingPropertiesAVChange(0.1)" />
+  <input type="button" value="-" onclick="changeExistingPropertiesAVChange(-0.1)" />
   <p></p>
   <H3>Output</H3>
   <!-- <H3>Enrichment Levy</H3> -->
