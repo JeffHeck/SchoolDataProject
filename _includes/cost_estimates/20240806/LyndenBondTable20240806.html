@@ -1,4 +1,9 @@
 <html>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
  <head>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script type="text/javascript">
@@ -80,7 +85,7 @@
 		data.addColumn('number', 'Example Property\'s POF Change');
 
 		data.addRows([
-			['2024', 0, 5260405000, 0, 0, 500000, 0.00009505, 0, 0, 0, 0, 0, 0],
+			['2024', 0, 5260405000, 17.71, 0, 500000, 0.00009505, 0, 0, 0, 2.05, 15.67, 0],
 			['2025', 7564000, 5576029300, 6, 1.36, 530000, 0.00009505, 719, 6, 0, 0, 0, 0],
 			['2026', 8027000, 5910591058, 6, 1.36, 561800, 0.00009505, 763, 6, 0, 0, 0, 0],
 			['2027', 8515000, 6265226521, 6, 1.36, 595508, 0.00009505, 809, 6, 0, 0, 0, 0],
@@ -482,8 +487,60 @@
   <p>Example Property's New Bond's Tax Payment For The Year = {POF For The Year} X {New Bond's Total Tax Payment For The Year}</p>
   <p>Resulting New Bond's Tax Rate For The Year = {New Bond's Total Tax Payment For The Year} / {Total AV For The Year} X 1,000</p>
   <p>Example Property's New Bond's Tax Payment For The Year = {Resulting New Bond's Tax Rate For The Year} X {Example Property's AV For The Year} / 1,000</p>
+  <H3>Historical Property Tax Data</H3>
+  <table>
+  <tr>
+    <th>Tax Year</th>
+    <th>Total AV</th>
+    <th>New Construction<br>Amount</th>
+    <th>New Construction<br>As a Percent of<br>Prev Year's Total AV</th>
+    <th>Existing Properties'<br>AV Change</th>
+    <th>Total AV Change</th>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>$2,859,582,135</td>
+    <td>$64,348,404</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>$3,162,701,112</td>
+    <td>$57,624,256</td>
+    <td>2.0%</td>
+    <td>8.6%</td>
+    <td>10.6%</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>$3,647,425,488</td>
+    <td>$68,076,623</td>
+    <td>2.1%</td>
+    <td>13.2%</td>
+    <td>15.3%</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>$4,468,838,343</td>
+    <td>$89,387,916</td>
+    <td>2.4</td>
+    <td>20.1%</td>
+    <td>22.5%</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>$5,260,405,000</td>
+    <td>$91,395,201</td>
+    <td>2.0</td>
+    <td>15.7%</td>
+    <td>17.7%</td>
+  </tr>
+  </table>
   <H3>Data Sources</H3>
   <p>The district's bond/levy projection datasheet</p>
+  <p>Whatcom County Assessor's Office</p>
 
  </body>
 </html>
