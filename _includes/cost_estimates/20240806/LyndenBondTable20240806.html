@@ -319,28 +319,6 @@
 		
 		
 		//Update table output general
-		<!-- table_output.setValue(1, 2, totalAVChange0); -->
-		<!-- table_output.setValue(2, 2, totalAVChange1); -->
-		<!-- table_output.setValue(3, 2, totalAVChange2); -->
-		<!-- table_output.setValue(4, 2, totalAVChange3); -->
-		<!-- table_output.setValue(5, 2, totalAVChange4); -->
-		<!-- table_output.setValue(6, 2, totalAVChange5); -->
-		<!-- table_output.setValue(7, 2, totalAVChange6); -->
-		<!-- table_output.setValue(8, 2, totalAVChange7); -->
-		<!-- table_output.setValue(9, 2, totalAVChange8); -->
-		<!-- table_output.setValue(10, 2, totalAVChange9); -->
-		<!-- table_output.setValue(11, 2, totalAVChange10); -->
-		<!-- table_output.setValue(12, 2, totalAVChange11); -->
-		<!-- table_output.setValue(13, 2, totalAVChange12); -->
-		<!-- table_output.setValue(14, 2, totalAVChange13); -->
-		<!-- table_output.setValue(15, 2, totalAVChange14); -->
-		<!-- table_output.setValue(16, 2, totalAVChange15); -->
-		<!-- table_output.setValue(17, 2, totalAVChange16); -->
-		<!-- table_output.setValue(18, 2, totalAVChange17); -->
-		<!-- table_output.setValue(19, 2, totalAVChange18); -->
-		<!-- table_output.setValue(20, 2, totalAVChange19); -->
-		<!-- table_output.setValue(0, 5, sampleParcelAV); -->
-		<!-- formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column -->
 		// New Construction Amount
 		for (let i = 1; i < levyYears + 1; i++) {
 			newConstructionAmount = table_output.getValue(i-1,1) * newConstructionChange0 / 100
@@ -380,6 +358,7 @@
 		}
 		formatterPercent1.format(table_output, 8); // Apply formatter to Ex Prop Levy Tax column
 		// Example Property AV update
+		table_output.setValue(0, 5, sampleParcelAV)
 		for (let i = 1; i < levyYears + 1; i++) {
 			newExPropAV = table_output.getValue(i-1,5) * (1 + examplePropertyAVChange0 / 100)
 			table_output.setValue(i, 5, newExPropAV);
@@ -424,46 +403,9 @@
     }
 	
 	function changeTotalAVChange(dir) {
-		<!-- totalAVChange0 = totalAVChange0 + dir; -->
-		<!-- if (totalAVChange0 < totalAVChangeMin) -->
-			<!-- totalAVChange0 = totalAVChangeMin; -->
-		<!-- if (totalAVChange0 > totalAVChangeMax) -->
-			<!-- totalAVChange0 = totalAVChangeMax; -->
-		<!-- totalAVChange1 = totalAVChange0 -->
-		<!-- totalAVChange2 = totalAVChange0 -->
-		<!-- totalAVChange3 = totalAVChange0 -->
-		<!-- totalAVChange4 = totalAVChange0 -->
-		<!-- totalAVChange5 = totalAVChange0 -->
-		<!-- totalAVChange6 = totalAVChange0 -->
-		<!-- totalAVChange7 = totalAVChange0 -->
-		<!-- totalAVChange8 = totalAVChange0 -->
-		<!-- totalAVChange9 = totalAVChange0 -->
-		<!-- totalAVChange10 = totalAVChange0 -->
-		<!-- totalAVChange11 = totalAVChange0 -->
-		<!-- totalAVChange12 = totalAVChange0 -->
-		<!-- totalAVChange13 = totalAVChange0 -->
-		<!-- totalAVChange14 = totalAVChange0 -->
-		<!-- totalAVChange15 = totalAVChange0 -->
-		<!-- totalAVChange16 = totalAVChange0 -->
-		<!-- totalAVChange17 = totalAVChange0 -->
-		<!-- totalAVChange18 = totalAVChange0 -->
-		<!-- totalAVChange19 = totalAVChange0 -->
-		<!-- table_total_av_change_0_adjust_input_data.setValue(0, 1, totalAVChange0); -->
-		<!-- formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column -->
-		<!-- table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data); -->
-		<!-- changeParcelAV(0); -->
 	}
 
 	function changePOFChange(dir) {
-		<!-- pofChange0 = pofChange0 + dir; -->
-		<!-- if (pofChange0 < pofChangeMin) -->
-			<!-- pofChange0 = pofChangeMin; -->
-		<!-- if (pofChange0 > pofChangeMax) -->
-			<!-- pofChange0 = pofChangeMax; -->
-		<!-- table_pof_change_0_adjust_input_data.setValue(0, 1, pofChange0); -->
-		<!-- formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column -->
-		<!-- table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data); -->
-		<!-- changeParcelAV(0); -->
 	}
 
 	function changeNewConstructionChange(dir) {
@@ -512,14 +454,6 @@
   <input type="button" value="+" onclick="changeParcelAV(25000)" />
   <input type="button" value="-" onclick="changeParcelAV(-25000)" />
   <p></p>
-  <!-- <div id="table_total_av_adjust_input_div" style="width:1200px; height: 60px;"></div> -->
-  <!-- <input type="button" value="+" onclick="changeTotalAVChange(0.2)" /> -->
-  <!-- <input type="button" value="-" onclick="changeTotalAVChange(-0.2)" /> -->
-  <!-- <p></p> -->
-  <!-- <div id="table_pof_adjust_input_div" style="width:1200px; height: 60px;"></div> -->
-  <!-- <input type="button" value="+" onclick="changePOFChange(0.1)" /> -->
-  <!-- <input type="button" value="-" onclick="changePOFChange(-0.1)" /> -->
-  <!-- <p></p> -->
   <div id="table_new_construction_adjust_input_div" style="width:1200px; height: 60px;"></div>
   <input type="button" value="+" onclick="changeNewConstructionChange(0.1)" />
   <input type="button" value="-" onclick="changeNewConstructionChange(-0.1)" />
@@ -533,17 +467,12 @@
   <input type="button" value="-" onclick="changeExistingPropertiesAVChange(-0.1)" />
   <p></p>
   <H3>Output</H3>
-  <!-- <H3>Enrichment Levy</H3> -->
   <p>Estimated obligations for the example property</P>
   <div id="table_output_general_div" style="width:1200px; height: 600px;"></div>
   <div id="table_output_div" style="width:2000px; height: 150px;"></div>
-  <!-- <div id="chart_div" style="width:800px; height: 640px;"></div> -->
-  <!-- <p>POF: Proportional Obligation Factor equals the assessed value (AV) of the sample parcel divided by the Total AV of the properties within the district's tax area.</p> -->
   <H3>Notes</H3>
   <p>This interactive calculator was created by the author independently from and not associated with the school district.</p>
   <p>POF: The Proportional Obligation Factor for any given year equals the assessed value (AV) of the example property divided by the Total AV of the properties within the district's tax area.</p>
-  <p>Notice how changing the Total AV annual change percent guess affects the calculated tax rates but not the bond tax amount (in dollars) for the owner of the example property. </p>
-  <p>Notice how changing the POF annual change guess does not change the calculated bond tax rates but does change the bond tax amount for the owner of the example property.</p>
   <p>AV: AV is the assessed value of a property as assessed by the county assessor's office. The AV of a property is supposed to be the market value at the time of the assessment. 
   AVs are always a year behind. For example, the county assessor's office during the summer of 2024 is assessing properties to assign AVs to use in the 2025 tax year.</p>
   <p></p>
@@ -556,7 +485,6 @@
   <p>Example Property's New Bond's Tax Payment For The Year = {Resulting New Bond's Tax Rate For The Year} X {Example Property's AV For The Year} / 1,000</p>
   <H3>Data Sources</H3>
   <p>The district's bond/levy projection datasheet</p>
-  <!-- <p>The county assessor's website for historical property taxes</p> -->
 
  </body>
 </html>
