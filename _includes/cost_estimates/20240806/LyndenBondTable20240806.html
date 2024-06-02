@@ -61,7 +61,7 @@ table, th, td {
 	examplePropertyAVChangeMax = 30;
 	existingPropertiesAVChangeMin = -30;
 	existingPropertiesAVChangeMax = 30;
-	
+	totalNewBondTax = 0;
 
 	pofChange = 0
 
@@ -127,6 +127,7 @@ table, th, td {
 		// table_output.addColumn('number', '(J)<br>New<br>Construction<br>Amount');
 
 		table_output.addRows(levyYears + 1);
+		totalNewBondTax = 0;
 		for (let i = 0; i < levyYears + 1; i++) {
 			table_output.setCell(i, 0, data.getValue(i, 0)); // Tax Year
 			table_output.setCell(i, 1, data.getValue(i, 1)); // New Bond Total Tax
@@ -140,6 +141,7 @@ table, th, td {
 			table_output.setCell(i, 9, data.getValue(i, 6)); // Example Property POF
 			table_output.setCell(i, 10, data.getValue(i, 12)); // Example Property POF Change %
 			table_output.setCell(i, 11, data.getValue(i, 7)); // Example Property New Bond Tax
+			totalNewBondTax = totalNewBondTax + table_output.getValue(i, 1);
 		}
 
 
@@ -202,7 +204,7 @@ table, th, td {
 		table_pof_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_pof_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_pof_change_0_adjust_input_data.addRows([
-			['Example Property\'s Annual POF Percent Change Guess', pofChange0 ],
+			['Example Property\'s Annual POF Percent Change Guesstimate', pofChange0 ],
 		]);
 
 		// New Construction 0 Adjust table
@@ -211,7 +213,7 @@ table, th, td {
 		table_new_construction_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_new_construction_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_new_construction_change_0_adjust_input_data.addRows([
-			['New Construction as a Percent of the Prev Year\'s Total AV Guess', newConstructionChange0 ],
+			['New Construction as a Percent of the Prev Year\'s Total AV Guesstimate', newConstructionChange0 ],
 		]);
 
 		// Example Property's AV Change 0 Adjust table
@@ -220,7 +222,7 @@ table, th, td {
 		table_example_property_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_example_property_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_example_property_av_change_0_adjust_input_data.addRows([
-			['Example Property\'s Annual AV Percent Change Guess', examplePropertyAVChange0  ],
+			['Example Property\'s Annual AV Percent Change Guesstimate', examplePropertyAVChange0  ],
 		]);
 
 		// Existing Properties' AV Change 0 Adjust table
@@ -229,7 +231,7 @@ table, th, td {
 		table_existing_properties_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_existing_properties_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_existing_properties_av_change_0_adjust_input_data.addRows([
-			['Existing Properties\'s Annual AV Percent Change Guess', existingPropertiesAVChange0  ],
+			['Existing Properties\'s Average Annual AV Percent Change Guess', existingPropertiesAVChange0  ],
 		]);
 
 		// Levy 1 output table
@@ -237,8 +239,9 @@ table, th, td {
 		table_data.addColumn('string', 'Description');
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
+			['Total new bond cost (bond principal, bond interest and fees)', totalNewBondTax],
 			['Total cost for the owner of the example property', totalLevyCostParcel],
-			['Average cost per year for 20 years', averageTotalLevyCostParcel],
+			['Average cost per year for 20 years for the owner of the example property', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -400,8 +403,9 @@ table, th, td {
 		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 		formatter.format(dataParcel, 1); // Apply formatter to second column
 		//Update table output
-		table_data.setValue(0, 1, totalLevyCostParcel); // Total levy cost parcel
-		table_data.setValue(1, 1, averageTotalLevyCostParcel); // Average levy cost parcel
+		table_data.setValue(0, 1, totalNewBondTax); // Total new bond cost
+		table_data.setValue(1, 1, totalLevyCostParcel); // Total levy cost parcel
+		table_data.setValue(2, 1, averageTotalLevyCostParcel); // Average levy cost parcel
 		formatter.format(table_data, 1); // Apply formatter to second column
 		table.draw(table_data, {sort:'disable'});
     }
@@ -477,7 +481,7 @@ table, th, td {
   <H3>Usage</H3>
   <p>1) Select your property's 2024 Tax Year AV.</p>
   <p>2) Select your property's guesstimated annual AV percent change for the next 20 years.</p>
-  <p>3) Select the average for the other existing properties' guesstimated annual AV percent change for the next 20 years. This may be similar to the 
+  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 20 years. This may be similar to the 
   assumption for your property but not necessarily so.</p>
   <p>4) Select the guesstimated value for new construction as a percent of the previous year's Total AV.</p>
   <p>5) Review the output table results.</p>
