@@ -27,8 +27,6 @@ Listed below are the the types and counts for the tax measures expected for the 
 - Enrichment Levies: 0
 - Capital / Tech Levies: 1
 
-The only tax measure for the August 6th 2024 election is the bond for the Lynden SD in Whatcom County.
-
 ### Local voters' pamphlet (LVP) statistics
 - Bonds
     - Number of bonds =  1
