@@ -25,7 +25,7 @@ ___
 Listed below are the the types and counts for the tax measures expected for the August 6th 2024 election:
 - Bonds: 1
 - Enrichment Levies: 0
-- Capital / Tech Levies: 0
+- Capital / Tech Levies: 1
 
 The only tax measure for the August 6th 2024 election is the bond for the Lynden SD in Whatcom County.
 
@@ -34,9 +34,15 @@ The only tax measure for the August 6th 2024 election is the bond for the Lynden
     - Number of bonds =  1
     - Number of bonds with pro statements =  1
     - Number of bonds with con statements =  1
+- Capital / Tech Levies
+    - Number of capital / tech levies =  1
+    - Number of capital / tech levies with pro statements =  1
+    - Number of capital / tech levies with con statements =  1
 
 ## Measure details
 ### Tax measures by county
+[San Juan](sanjuancountymeasures20240806)
+
 [Whatcom](whatcomcountymeasures20240806)
 
 ___
