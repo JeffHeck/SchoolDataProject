@@ -14,6 +14,25 @@ ___
 
 [Link to the interactive calculator](calculator_lynden_20240806_enhanced){:target="_blank" rel="noopener"}
 
+[Link to the interactive cost impact estimating calculator version 2 {shows how future guesstimated bond tax rates are meaningless}](table_lynden_bond_20240806){:target="_blank" rel="noopener"}
+
+___
+
+Since the district designed an escalating bond repayment schedule, average annual costs are used in this next chart for the bond taxes for the 2024 bond for local taxpayers. 
+The worst case scenario for taxpayers is usually the assumption of zero new construction. Another scenario to consider is continued new construction (despite high interest rates) 
+for each of the next 20 years at about the same pace as 2024. That is about 2.0% of Total AV (also called the Total Tax Base). The district, in their campaign materials, is, 
+effectively, using a value of 5.3% of Total AV for new construction in each of the next 20 years. That 5.3% value of Total AV is more than 2 1/2 times the actual new construction activity for 2024.
+
+To use this chart, start at the x-axis at the value of your property's 2024 AV - say for example $500,000
+
+If we assume zero new construction for each of the next 20 years, the owner of that property would on average pay just over $1200 per year.
+
+If we assume new construction continues each year at the pace of about 2.0% of Total AV each year, then the owner would pay about $960 per year on average.
+
+The district is assuming 5.3% for new construction as a percentage of Total AV. That is how they came up with their advertised $680 per year for the property owner for the example property with a 2024 AV of $500,000.
+
+![Lynden SD bond example parcel chart with different new construction assumptions](pagesManual/LeviesReport/20240806/LyndenNewConstructionAnnotated.png "Lynden SD bond example parcel chart with different new construction assumptions")
+
 ___
 
 The district’s property tax cost impact analysis (from the district’s website) is shown in the next image with the red border.
