@@ -186,7 +186,7 @@ table, th, td {
 		table_input_data.addColumn('string', 'Description');
 		table_input_data.addColumn('number', 'Value');
 		table_input_data.addRows([
-			['Example Property\'s 2024 Tax Year Assessed Value (AV)', sampleParcelAV],
+			['Enter Your Property\'s Actual 2024 Tax Year Assessed Value (AV)', sampleParcelAV],
 		]);
 
 		// Total AV 0 Adjust table
@@ -204,7 +204,7 @@ table, th, td {
 		table_pof_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_pof_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_pof_change_0_adjust_input_data.addRows([
-			['Example Property\'s Annual POF Percent Change Guesstimate', pofChange0 ],
+			['Enter Your Guesstimate for Your Property\'s Annual POF Percent Change', pofChange0 ],
 		]);
 
 		// New Construction 0 Adjust table
@@ -213,7 +213,7 @@ table, th, td {
 		table_new_construction_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_new_construction_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_new_construction_change_0_adjust_input_data.addRows([
-			['New Construction as a Percent of the Prev Year\'s Total AV Guesstimate', newConstructionChange0 ],
+			['Enter Your Guesstimate for New Construction as a Percent of the Prev Year\'s Total AV', newConstructionChange0 ],
 		]);
 
 		// Example Property's AV Change 0 Adjust table
@@ -222,7 +222,7 @@ table, th, td {
 		table_example_property_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_example_property_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_example_property_av_change_0_adjust_input_data.addRows([
-			['Example Property\'s Annual AV Percent Change Guesstimate', examplePropertyAVChange0  ],
+			['Enter Your Guesstimate for Your Property\'s Annual AV Percent Change', examplePropertyAVChange0  ],
 		]);
 
 		// Existing Properties' AV Change 0 Adjust table
@@ -231,7 +231,7 @@ table, th, td {
 		table_existing_properties_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_existing_properties_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_existing_properties_av_change_0_adjust_input_data.addRows([
-			['All Existing Properties\' Average Annual AV Percent Change Guesstimate', existingPropertiesAVChange0  ],
+			['Enter Your Guesstimate for All Existing Properties\' Average Annual AV Percent Change', existingPropertiesAVChange0  ],
 		]);
 
 		// Levy 1 output table
@@ -456,7 +456,7 @@ table, th, td {
  </head>
  <body>
   <H2>Property tax impact estimate calculator for the August 6th 2024 bond measure proposed by the Lynden SD</H2>
-  <H3>Input</H3>
+  <H3>Input (Enter Your Data)</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
   <!-- <p></p> -->
   <input type="button" value="+" onclick="changeParcelAV(25000)" />
@@ -474,7 +474,7 @@ table, th, td {
   <input type="button" value="+" onclick="changeNewConstructionChange(0.1)" />
   <input type="button" value="-" onclick="changeNewConstructionChange(-0.1)" />
   <p></p>
-  <H3>Output</H3>
+  <H3>Output (Results)</H3>
   <p>Estimated obligations for the example property</P>
   <div id="table_output_general_div" style="width:1200px; height: 660px;"></div>
   <div id="table_output_div" style="width:2000px; height: 150px;"></div>
