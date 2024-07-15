@@ -96,22 +96,22 @@ The county assessor and only the county assessor calculates the actual rate each
 
 {Rate for a given year} = {Bond payment for the given year} / {Total AV for the given year} X 1,000
 
-The district came up with a 1.36 rate because of their assumption of 5-6% for Total AV growth each year for the next 20 years. If they had used a 10% growth for just 2024 to 2025 the calculated rate would have been 1.31
+The district came up with a 1.36 rate because of their assumption of 5-6% for Total AV growth each year for the next 20 years. If they had used a 10% growth, the average calculated future tax rate would have been 0.89
 
 ![Lynden SD's bond table for an example property](pagesManual/LeviesReport/20240806/LyndenSDBondExProperty3.png "Lynden SD's bond table for an example property")
 
 Then the district would have incorrectly calculated:
 
-1.31 X $500,000 / 1,000 = $655
+0.89 X $500,000 / 1,000 = $445
 
 
-If they had used 2% growth for just 2024 to 2025, the fictitious calculated future rate would have then been 1.41
+If they had used 2% growth, the average fictitious calculated future tax rate would have then been 1.92
 
 ![Lynden SD's bond table for an example property](pagesManual/LeviesReport/20240806/LyndenSDBondExProperty2.png "Lynden SD's bond table for an example property")
 
 Then the district would have incorrectly calculated:
 
-1.41 X $500,000 / 1,000 = $705
+1.92 X $500,000 / 1,000 = $960
 
 But in each case, the homeowner of the example property would still actually owe $1200 on average each year for the next 20 years as the tables show. And that is the point. Future guesstimated rates should be prohibited from 
 all district campaign materials. Citizens are not voting on future rates. They are voting on amounts in dollars.
