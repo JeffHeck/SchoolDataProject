@@ -96,7 +96,8 @@ The county assessor and only the county assessor calculates the actual rate each
 
 {Rate for a given year} = {Bond payment for the given year} / {Total AV for the given year} X 1,000
 
-The district came up with a 1.36 rate because of their assumption of 5-6% for Total AV growth each year for the next 20 years. If they had used a 10% growth, the average calculated future tax rate would have been 0.89
+The district came up with a 1.36 rate because of their assumption of 5-6% for Total AV growth each year for the next 20 years. If they had used a 10% growth, 
+the average calculated future tax rate would have been 0.89
 
 ![Lynden SD's bond table for an example property](pagesManual/LeviesReport/20240806/LyndenSDBondExProperty3.png "Lynden SD's bond table for an example property")
 
