@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: July 9th, 2024
+Last updated: July 18th, 2024
 
 Preliminary. In progress.
 
@@ -38,6 +38,8 @@ ___
 [King](kingcountymeasures20241105)
 
 [Snohomish](snohomishcountymeasures20241105)
+
+[Whatcom](whatcomcountymeasures20241105)
 
 ___
 
