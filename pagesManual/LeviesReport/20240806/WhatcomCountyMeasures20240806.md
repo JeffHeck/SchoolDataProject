@@ -31,6 +31,8 @@ If we assume new construction continues each year at the pace of about 2.0% of T
 
 The district is assuming 5.3% for new construction as a percentage of Total AV. That is how they came up with their advertised $680 per year for the property owner for the example property with a 2024 AV of $500,000.
 
+The case for a property with a 2024 Tax Year AV of $800,000 is also highlighted.
+
 ![Lynden SD bond example parcel chart with different new construction assumptions](pagesManual/LeviesReport/20240806/LyndenNewConstructionAnnotated.png "Lynden SD bond example parcel chart with different new construction assumptions")
 
 ___
