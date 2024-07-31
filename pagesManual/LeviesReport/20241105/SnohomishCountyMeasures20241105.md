@@ -15,3 +15,12 @@ ___
 
 ___
 
+### Sultan SD
+
+![Sultan SD bond totals chart](pagesManual/LeviesReport/20241105/Sultan.png "Sultan SD bond totals chart")
+![Sultan SD bond example parcel chart](pagesManual/LeviesReport/20241105/SultanParcel.png "Sultan SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_sultan_20241105_enhanced){:target="_blank" rel="noopener"}
+
+___
+
