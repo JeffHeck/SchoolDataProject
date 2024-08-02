@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: July 28th, 2024
+Last updated: Auguest 2nd, 2024
 
 Preliminary. In progress.
 
@@ -40,6 +40,8 @@ ___
 [Pierce](piercecountymeasures20241105)
 
 [Snohomish](snohomishcountymeasures20241105)
+
+[Spokane](spokanecountymeasures20241105)
 
 [Whatcom](whatcomcountymeasures20241105)
 
