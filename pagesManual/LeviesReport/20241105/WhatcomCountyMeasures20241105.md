@@ -15,3 +15,12 @@ ___
 
 ___
 
+### Meridian SD
+
+![Meridian SD bond totals chart](pagesManual/LeviesReport/20241105/Meridian.png "Meridian SD bond totals chart")
+![Meridian SD bond example parcel chart](pagesManual/LeviesReport/20241105/MeridianParcel.png "Meridian SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_meridian_20241105_enhanced){:target="_blank" rel="noopener"}
+
+___
+
