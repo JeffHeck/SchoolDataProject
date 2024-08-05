@@ -6,6 +6,15 @@ permalink: kingcountymeasures20241105
 
 ___
 
+### Auburn SD
+
+![Auburn SD bond totals chart](pagesManual/LeviesReport/20241105/Auburn.png "Auburn SD bond totals chart")
+![Auburn SD bond example parcel chart](pagesManual/LeviesReport/20241105/AuburnParcel.png "Auburn SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_auburn_20241105_enhanced){:target="_blank" rel="noopener"}
+
+___
+
 ### Issaquah SD
 
 ![Issaquah SD bond totals chart](pagesManual/LeviesReport/20241105/Issaquah.png "Issaquah SD bond totals chart")
