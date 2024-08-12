@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: August 4th, 2024
+Last updated: August 12th, 2024
 
 Preliminary. In progress.
 
@@ -32,6 +32,8 @@ ___
 ### Tax measures by county
 
 [Benton](bentoncountymeasures20241105)
+
+[Clallam](clallamcountymeasures20241105)
 
 [Island](islandcountymeasures20241105)
 
