@@ -15,3 +15,12 @@ ___
 
 ___
 
+### Orchard Prairie SD
+
+![Orchard Prairie SD bond totals chart](pagesManual/LeviesReport/20241105/OrchardPrairie.png "Orchard Prairie SD bond totals chart")
+![Orchard Prairie SD bond example parcel chart](pagesManual/LeviesReport/20241105/OrchardPrairieParcel.png "Orchard Prairie SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_orchard_prairie_20241105_enhanced){:target="_blank" rel="noopener"}
+
+___
+
