@@ -15,3 +15,11 @@ ___
 
 ___
 
+
+![Port Angeles SD enrichment levy totals chart](pagesManual/LeviesReport/20241105/PortAngelesEnrichment.png "Port Angeles SD enrichment levy totals chart")
+![Port Angeles SD enrichment levy example parcel chart](pagesManual/LeviesReport/20241105/PortAngelesEnrichmentParcel.png "Port Angeles SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_port_angeles_enrichment_20241105_enhanced){:target="_blank" rel="noopener"}
+
+___
+
