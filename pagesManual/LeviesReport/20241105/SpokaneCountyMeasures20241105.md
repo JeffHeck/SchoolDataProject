@@ -33,3 +33,12 @@ ___
 
 ___
 
+### West Valley SD
+
+![West Valley SD capital levy totals chart](pagesManual/LeviesReport/20241105/WestValleyCapital.png "West Valley SD capital levy totals chart")
+![West Valley SD capital levy example parcel chart](pagesManual/LeviesReport/20241105/WestValleyCapitalParcel.png "West Valley SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_west_valley_capital_20241105_enhanced){:target="_blank" rel="noopener"}
+
+___
+
