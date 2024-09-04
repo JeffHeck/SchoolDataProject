@@ -47,7 +47,7 @@ ___
 
 Data source: Each district's bond/levy projection datasheet
 
-### Total bond cost to owners of properties with 2023 assessed values (AVs) of $500,000
+### Total bond cost to owners of properties with 2024 assessed values (AVs) of $500,000
 ![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20241105/BondSummaryParcels.png "Bond totals")
 
 $500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
@@ -66,7 +66,7 @@ ___
 ### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
 ![Enrichment levy totals, group 1](pagesManual/LeviesReport/20241105/LevySummaryTotals-1.png "Levy totals")
 
-### Average annual enrichment levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
+### Average annual enrichment levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
 ![Average annual enrichment levy cost for example properties, group 1](pagesManual/LeviesReport/20241105/LevySummaryParcels-1.png "Levy average annual cost")
 
 ___
@@ -76,7 +76,7 @@ ___
 ### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
 ![Capital levy totals](pagesManual/LeviesReport/20241105/CapitalLevySummaryTotals.png "Levy totals")
 
-### Average annual capital levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
+### Average annual capital levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
 ![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20241105/CapitalLevySummaryParcels.png "Levy average annual cost")
 
 ___
