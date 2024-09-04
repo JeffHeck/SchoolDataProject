@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: September 3rd, 2024
+Last updated: September 4th, 2024
 
 Preliminary. In progress.
 
@@ -14,8 +14,18 @@ As analyses are completed, summary results will be provided on this page.
 - Summary
     - Overview
     - Local voters' pamphlet (LVP) statistics
-- Measure details
+- Bond summary
+    - Total bond cost to local taxpayers
+	- Total bond cost to owners of properties with 2024 assessed values of $500,000
+- Enrichment levy summary
+    - Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+    - Average annual enrichment levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
+- Capital levy summary
+    - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+    - Average annual capital levy cost to owners of properties with 2024 assessed values (AVs) of $500,000- Measure details
 	- Tax measures by county
+- Measure details
+	- All measures (bonds, enrichment levies, capital levies) by county
 - A critique of each district's taxpayer cost impact analysis
 - Calculator methodology
     - POF proof
@@ -27,6 +37,49 @@ ___
 
 
 ### Local voters' pamphlet (LVP) statistics
+
+___
+
+## Bond summary
+
+### Total bond cost to local property taxpayers in each school district tax area with a bond measure
+![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20241105/BondSummaryTotals.png "Bond totals")
+
+Data source: Each district's bond/levy projection datasheet
+
+### Total bond cost to owners of properties with 2023 assessed values (AVs) of $500,000
+![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20241105/BondSummaryParcels.png "Bond totals")
+
+$500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
+
+The conservative assumption used was that the POF (proportional obligation factor) as of 2024 remains constant over the term of the bond. The interested reader can use the 
+cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the calculators as well as different AVs. 
+The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV for a given year) divided by (The Total AV of all 
+properties in the district's tax area for the same year). 
+
+See the Calculator Methodology section below for more details. 
+
+___
+
+## Enrichment levy summary
+
+### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+![Enrichment levy totals, group 1](pagesManual/LeviesReport/20241105/LevySummaryTotals-1.png "Levy totals")
+
+### Average annual enrichment levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
+![Average annual enrichment levy cost for example properties, group 1](pagesManual/LeviesReport/20241105/LevySummaryParcels-1.png "Levy average annual cost")
+
+___
+
+## Capital levy summary
+
+### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+![Capital levy totals](pagesManual/LeviesReport/20241105/CapitalLevySummaryTotals.png "Levy totals")
+
+### Average annual capital levy cost to owners of properties with 2023 assessed values (AVs) of $500,000
+![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20241105/CapitalLevySummaryParcels.png "Levy average annual cost")
+
+___
 
 ## Measure details
 ### Tax measures by county
