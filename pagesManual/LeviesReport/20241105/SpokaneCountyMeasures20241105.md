@@ -31,6 +31,8 @@ ___
 
 [Link to the interactive calculator](calculator_orchard_prairie_20241105_enhanced){:target="_blank" rel="noopener"}
 
+[Link to the interactive cost impact estimating calculator version 2 {shows how future guesstimated bond tax rates are meaningless}](table_orchard_prairie_bond_20241105){:target="_blank" rel="noopener"}
+
 ___
 
 ### West Valley SD

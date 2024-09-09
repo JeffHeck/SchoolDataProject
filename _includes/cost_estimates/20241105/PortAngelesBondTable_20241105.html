@@ -1,0 +1,584 @@
+<html>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+ <head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load('current', {'packages':['corechart','bar','table']});
+    google.charts.setOnLoadCallback(drawStuff);
+
+	var table_input; // Table input to draw with parcel AV info
+	var table;  // Short output table to draw for totals
+	<!-- var chart; -->
+	var dataParcel;
+	
+	totalLevyAV = 5828829000;
+	sampleParcelAV = 500000;
+	sampleParcelAVMin = 100000;
+	sampleParcelAVMax = 2000000;
+	totalLevyCost = 238401000;
+	sampleParcelPOF = sampleParcelAV / totalLevyAV;
+	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
+	levyYears = 21;
+	levyStartYearOffset = 2;
+	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
+	// Total AV Annual Change Percent
+	totalAVChange0 = 0.0;
+	pofChange0 = 0.0;
+	newConstructionChange0 = 0;
+	examplePropertyAVChange0 = 0;
+	existingPropertiesAVChange0 = 0;
+
+	<!-- totalAVChange1 = 6.0; -->
+	<!-- totalAVChange2 = 6.0; -->
+	<!-- totalAVChange3 = 6.0; -->
+	<!-- totalAVChange4 = 5.0; -->
+	<!-- totalAVChange5 = 5.0; -->
+	<!-- totalAVChange6 = 5.0; -->
+	<!-- totalAVChange7 = 5.0; -->
+	<!-- totalAVChange8 = 5.0; -->
+	<!-- totalAVChange9 = 5.0; -->
+	<!-- totalAVChange10 = 5.0; -->
+	<!-- totalAVChange11 = 5.0; -->
+	<!-- totalAVChange12 = 5.0; -->
+	<!-- totalAVChange13 = 5.0; -->
+	<!-- totalAVChange14 = 5.0; -->
+	<!-- totalAVChange15 = 5.0; -->
+	<!-- totalAVChange16 = 5.0; -->
+	<!-- totalAVChange17 = 5.0; -->
+	<!-- totalAVChange18 = 5.0; -->
+	<!-- totalAVChange19 = 5.0; -->
+
+	totalAVChangeMin = -30.0;
+	totalAVChangeMax = 30.0;
+	pofChangeMin = -6.0;
+	pofChangeMax = 6.0;
+	newConstructionChangeMin = 0.0;
+	newConstructionChangeMax = 6.0;
+	examplePropertyAVChangeMin = -30;
+	examplePropertyAVChangeMax = 30;
+	existingPropertiesAVChangeMin = -30;
+	existingPropertiesAVChangeMax = 30;
+	totalNewBondTax = 0;
+
+	pofChange = 0
+
+
+
+    function drawStuff() {
+		// Levy 1 init
+		data = new google.visualization.DataTable();
+		data.addColumn('string', 'Year');
+		data.addColumn('number', 'New Bond Total Tax');
+		data.addColumn('number', 'Total AV');
+		data.addColumn('number', 'Total AV Change Guess');
+		data.addColumn('number', 'Resulting New Bond Tax Rate');
+		data.addColumn('number', 'Example Property\'s AV');
+		data.addColumn('number', 'Example Property\'s POF');
+		data.addColumn('number', 'Example Property\'s Bond Tax');
+		data.addColumn('number', 'Example Property\'s AV Change');
+		data.addColumn('number', 'New Construction Amount');
+		data.addColumn('number', 'New Construction As Percent Of Prev Year\'s Total AV');
+		data.addColumn('number', 'Existing Properties\' AV Change');
+		data.addColumn('number', 'Example Property\'s POF Change');
+
+		data.addRows([
+				['2024', 0, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2025', 0, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2026', 7953000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2027', 8577000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2028', 9541000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2029', 9824000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2030', 10120000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2031', 10319000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2032', 10527000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2033', 10740000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2034', 10955000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2035', 11171000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2036', 11395000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2037', 11623000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2038', 11859000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2039', 12094000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2040', 12333000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2041', 12582000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2042', 12833000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2043', 13091000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2044', 13355000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2045', 13618000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2046', 13891000, 5828829000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+
+		
+			<!-- ['2024', 0, 5260405000, 17.71, 0, 500000, 0.00009505, 0, 0, 0, 2.05, 15.67, 0], -->
+			<!-- ['2025', 7564000, 5576029300, 6, 1.36, 530000, 0.00009505, 719, 6, 0, 0, 0, 0], -->
+			<!-- ['2026', 8027000, 5910591058, 6, 1.36, 561800, 0.00009505, 763, 6, 0, 0, 0, 0], -->
+			<!-- ['2027', 8515000, 6265226521, 6, 1.36, 595508, 0.00009505, 809, 6, 0, 0, 0, 0], -->
+			<!-- ['2028', 9026000, 6641140113, 6, 1.36, 631238, 0.00009505, 858, 6, 0, 0, 0, 0], -->
+			<!-- ['2029', 9477000, 6973197118, 5, 1.36, 662800, 0.00009505, 901, 5, 0, 0, 0, 0], -->
+			<!-- ['2030', 9951000, 7321856974, 5, 1.36, 695940, 0.00009505, 946, 5, 0, 0, 0, 0], -->
+			<!-- ['2031', 10451000, 7687949823, 5, 1.36, 730737, 0.00009505, 993, 5, 0, 0, 0, 0], -->
+			<!-- ['2032', 10974000, 8072347314, 5, 1.36, 767274, 0.00009505, 1043, 5, 0, 0, 0, 0], -->
+			<!-- ['2033', 11521000, 8475964680, 5, 1.36, 805638, 0.00009505, 1095, 5, 0, 0, 0, 0], -->
+			<!-- ['2034', 12096000, 8899762914, 5, 1.36, 845920, 0.00009505, 1150, 5, 0, 0, 0, 0], -->
+			<!-- ['2035', 12698000, 9344751060, 5, 1.36, 888216, 0.00009505, 1207, 5, 0, 0, 0, 0], -->
+			<!-- ['2036', 13337000, 9811988613, 5, 1.36, 932627, 0.00009505, 1268, 5, 0, 0, 0, 0], -->
+			<!-- ['2037', 14002000, 10302588043, 5, 1.36, 979258, 0.00009505, 1331, 5, 0, 0, 0, 0], -->
+			<!-- ['2038', 14704000, 10817717445, 5, 1.36, 1028221, 0.00009505, 1398, 5, 0, 0, 0, 0], -->
+			<!-- ['2039', 15440000, 11358603318, 5, 1.36, 1079632, 0.00009505, 1468, 5, 0, 0, 0, 0], -->
+			<!-- ['2040', 16208000, 11926533484, 5, 1.36, 1133614, 0.00009505, 1541, 5, 0, 0, 0, 0], -->
+			<!-- ['2041', 17021000, 12522860158, 5, 1.36, 1190294, 0.00009505, 1618, 5, 0, 0, 0, 0], -->
+			<!-- ['2042', 17872000, 13149003166, 5, 1.36, 1249809, 0.00009505, 1699, 5, 0, 0, 0, 0], -->
+			<!-- ['2043', 18765000, 13806453324, 5, 1.36, 1312299, 0.00009505, 1784, 5, 0, 0, 0, 0], -->
+			<!-- ['2044', 17116000, 14496775990, 5, 1.18, 1377914, 0.00009505, 1627, 5, 0, 0, 0, 0], -->
+
+		]);
+		
+		
+		// Table Output General
+		table_output = new google.visualization.DataTable();
+		table_output.addColumn('string', '(A)<br>Tax<br>Year');
+		table_output.addColumn('number', '(B)<br>New Bond<br>Total Tax');
+		table_output.addColumn('number', '(C)<br>Total<br>AV');
+		table_output.addColumn('number', '(D)<br>New<br>Construction<br>As a Percent of<br>Prev Year\'s Total AV');
+		table_output.addColumn('number', '(E)<br>Existing<br>Properties\'<br>AV Change');
+		table_output.addColumn('number', '(F)<br>Total AV<br>Change');
+		table_output.addColumn('number', '(G)<br>Resulting<br>New Bond<br>Tax Rate');
+		table_output.addColumn('number', '(H)<br>Example<br>Property\'s<br>AV');
+		table_output.addColumn('number', '(I)<br>Example<br>Property\'s<br>AV Change');
+		table_output.addColumn('number', '(J)<br>Example<br>Property\'s<br>POF');
+		table_output.addColumn('number', '(K)<br>Example<br>Property\'s<br>POF Change');
+		table_output.addColumn('number', '(L)<br>Example<br>Property\'s<br>New Bond Tax');
+		// table_output.addColumn('number', '(J)<br>New<br>Construction<br>Amount');
+
+		table_output.addRows(levyYears + levyStartYearOffset);
+		totalNewBondTax = 0;
+		for (let i = 0; i < levyYears + levyStartYearOffset; i++) {
+			table_output.setCell(i, 0, data.getValue(i, 0)); // Tax Year
+			table_output.setCell(i, 1, data.getValue(i, 1)); // New Bond Total Tax
+			table_output.setCell(i, 2, data.getValue(i, 2)); // Total AV
+			table_output.setCell(i, 3, data.getValue(i, 10)); // New Construction %
+			table_output.setCell(i, 4, data.getValue(i, 11)); // Existing Properties AV Change %
+			table_output.setCell(i, 5, data.getValue(i, 3)); // Total AV Change %
+			table_output.setCell(i, 6, data.getValue(i, 4)); // Resulting New Bond Tax Rate
+			table_output.setCell(i, 7, data.getValue(i, 5)); // Example Property AV
+			table_output.setCell(i, 8, data.getValue(i, 8)); // Example Property AV Change %
+			table_output.setCell(i, 9, data.getValue(i, 6)); // Example Property POF
+			table_output.setCell(i, 10, data.getValue(i, 12)); // Example Property POF Change %
+			table_output.setCell(i, 11, data.getValue(i, 7)); // Example Property New Bond Tax
+			totalNewBondTax = totalNewBondTax + table_output.getValue(i, 1);
+		}
+
+
+		// Levy 1 parcel data
+		dataParcel = new google.visualization.DataTable();
+		dataParcel.addColumn('string', 'Year');
+		dataParcel.addColumn('number', 'New Bond Total Tax');
+
+		dataParcel.addRows(levyYears + levyStartYearOffset);
+		sampleParcelPOFEffective = sampleParcelPOF;
+		totalLevyCostParcel = 0;
+		for (let i = 0; i < levyYears + levyStartYearOffset; i++) {
+			sampleParcelPOFEffective = sampleParcelPOF * (1 + pofChange0/100) ** (i);
+			dataParcel.setCell(i, 0, data.getValue(i, 0));
+			dataParcel.setCell(i, 1, data.getValue(i, 1) * sampleParcelPOFEffective);
+			totalLevyCostParcel = totalLevyCostParcel + data.getValue(i, 1) * sampleParcelPOFEffective;
+		}		
+		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
+
+		options = {
+			title: 'Estimated Bond Cost Schedule For The Sample Parcel',
+			isStacked: true,
+			hAxis: {
+			title: '',
+			//format: 'h:mm a',
+			viewWindow: {
+				min: [7, 30, 0],
+				max: [17, 30, 0]
+			}
+        },
+        vAxis: {
+			title: '$'
+        }
+		};
+	  
+		
+
+		
+		// Levy 1 input data
+		// Example parcel AV table
+		table_input_data = new google.visualization.DataTable();
+		table_input_data.addColumn('string', 'Description');
+		table_input_data.addColumn('number', 'Value');
+		table_input_data.addRows([
+			['Enter Your Property\'s Actual 2024 Tax Year Assessed Value (AV)', sampleParcelAV],
+		]);
+
+		// Total AV 0 Adjust table
+		// Total AV 0 Adjust
+		table_total_av_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_total_av_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_total_av_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_total_av_change_0_adjust_input_data.addRows([
+			['Annual Total AV Percent Change Guess', totalAVChange0 ],
+		]);
+
+		// POF 0 Adjust table
+		// POF 0 Adjust
+		table_pof_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_pof_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_pof_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_pof_change_0_adjust_input_data.addRows([
+			['Enter Your Guesstimate for Your Property\'s Annual POF Percent Change', pofChange0 ],
+		]);
+
+		// New Construction 0 Adjust table
+		// New Construction 0 Adjust
+		table_new_construction_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_new_construction_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_new_construction_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_new_construction_change_0_adjust_input_data.addRows([
+			['Enter Your Guesstimate for Future Annual New Construction (District Tax Area) as a Percent of the Prev Year\'s Total AV', newConstructionChange0 ],
+		]);
+
+		// Example Property's AV Change 0 Adjust table
+		// Example Property's AV 0 Adjust
+		table_example_property_av_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_example_property_av_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_example_property_av_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_example_property_av_change_0_adjust_input_data.addRows([
+			['Enter Your Guesstimate for Your Property\'s Future Annual AV Percent Change', examplePropertyAVChange0  ],
+		]);
+
+		// Existing Properties' AV Change 0 Adjust table
+		// Existing Properties' AV Change 0 Adjust
+		table_existing_properties_av_change_0_adjust_input_data = new google.visualization.DataTable();
+		table_existing_properties_av_change_0_adjust_input_data.addColumn('string', 'Description');
+		table_existing_properties_av_change_0_adjust_input_data.addColumn('number', 'Value');
+		table_existing_properties_av_change_0_adjust_input_data.addRows([
+			['Enter Your Guesstimate for All Existing Properties\' (District Tax Area) Future Average Annual AV Percent Change', existingPropertiesAVChange0  ],
+		]);
+
+		// Levy 1 output table
+		table_data = new google.visualization.DataTable();
+		table_data.addColumn('string', 'Description');
+		table_data.addColumn('number', 'Value');
+		table_data.addRows([
+			['Total new bond cost (bond principal, bond interest and fees)', totalNewBondTax],
+			['Total cost for the owner of the example property', totalLevyCostParcel],
+			['Average cost per year for 21 years for the owner of the example property', averageTotalLevyCostParcel],
+		
+		]);
+
+		// Levy 1 chart
+		<!-- chart = new google.visualization.ColumnChart(document.getElementById('chart_div')); -->
+		formatter = new google.visualization.NumberFormat(
+			{prefix: '$', fractionDigits:0, negativeColor: 'red', negativeParens: false});
+		formatterPercent = new google.visualization.NumberFormat(
+			{suffix: '%', fractionDigits:0, negativeColor: 'red', negativeParens: false});
+		formatterPercent1 = new google.visualization.NumberFormat(
+			{suffix: '%', fractionDigits:1, positiveColor: 'black', negativeColor: 'black', negativeParens: false});
+		formatterPOF = new google.visualization.NumberFormat(
+			{suffix: '', fractionDigits:7, negativeColor: 'red', negativeParens: false});
+		formatterRate = new google.visualization.NumberFormat(
+			{suffix: '', fractionDigits:2, negativeColor: 'red', negativeParens: false});
+		formatter.format(dataParcel, 1); // Apply formatter to second column
+		//formatter.format(dataParcel, 2); // Apply formatter to third column
+		<!-- chart.draw(dataParcel, options); -->
+		
+		table = new google.visualization.Table(document.getElementById('table_output_div'));
+		formatter.format(table_data, 1); // Apply formatter to second column
+		table.draw(table_data, {sort:'disable'});
+		
+		// Input table for sample parcel AV
+		table_input = new google.visualization.Table(document.getElementById('table_input_div'));
+		formatter.format(table_input_data, 1); // Apply formatter to second column
+		table_input.draw(table_input_data, {sort:'disable'});
+
+		<!-- // Input table for Total AV change -->
+		<!-- table_total_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_total_av_adjust_input_div')); -->
+		<!-- formatterPercent1.format(table_total_av_change_0_adjust_input_data, 1); // Apply formatter to second column -->
+		<!-- table_total_av_0_adjust_input.draw(table_total_av_change_0_adjust_input_data, {sort:'disable'}); -->
+
+		<!-- // Input table for POF change -->
+		<!-- table_pof_0_adjust_input = new google.visualization.Table(document.getElementById('table_pof_adjust_input_div')); -->
+		<!-- formatterPercent1.format(table_pof_change_0_adjust_input_data, 1); // Apply formatter to second column -->
+		<!-- table_pof_0_adjust_input.draw(table_pof_change_0_adjust_input_data, {sort:'disable'}); -->
+
+		// Input table for New Construction change
+		table_new_construction_0_adjust_input = new google.visualization.Table(document.getElementById('table_new_construction_adjust_input_div'));
+		formatterPercent1.format(table_new_construction_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_new_construction_0_adjust_input.draw(table_new_construction_change_0_adjust_input_data, {sort:'disable'});
+
+		// Input table for Example Property AV change
+		table_example_property_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_example_property_av_adjust_input_div'));
+		formatterPercent1.format(table_example_property_av_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_example_property_av_0_adjust_input.draw(table_example_property_av_change_0_adjust_input_data, {sort:'disable'});
+
+		// Input table for Existing Properties AV change
+		table_existing_properties_av_0_adjust_input = new google.visualization.Table(document.getElementById('table_existing_properties_av_adjust_input_div'));
+		formatterPercent1.format(table_existing_properties_av_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_existing_properties_av_0_adjust_input.draw(table_existing_properties_av_change_0_adjust_input_data, {sort:'disable'});
+
+		// Output table general
+		table_output_vis = new google.visualization.Table(document.getElementById('table_output_general_div'));
+		formatterPercent1.format(table_output, 2); // Apply formatter to Total AV Change column
+		formatter.format(table_output, 1); // Apply formatter to Total AV column
+		formatter.format(table_output, 3); // Apply formatter to Bond Total Tax column
+		formatterRate.format(table_output, 4); // Apply formatter to Rate column
+		formatter.format(table_output, 5); // Apply formatter to Example Property AV column
+		formatterPOF.format(table_output, 6); // Apply formatter to Example Property POF column
+		formatter.format(table_output, 7); // Apply formatter to Example Property Bond Tax column
+		formatterPercent1.format(table_output, 8); // Apply formatter to Example Property AV Change column
+		table_output_vis.draw(table_output, {sort:'disable'});
+		
+		changeParcelAV(0);
+    }
+	
+
+    function changeParcelAV(dir) {
+		//Update table input
+		sampleParcelAV = sampleParcelAV + dir
+		if (sampleParcelAV < sampleParcelAVMin)
+			sampleParcelAV = sampleParcelAVMin
+		if (sampleParcelAV > sampleParcelAVMax)
+			sampleParcelAV = sampleParcelAVMax
+		sampleParcelPOF = sampleParcelAV / totalLevyAV;
+		table_input_data.setValue(0, 1, sampleParcelAV);
+		formatter.format(table_input_data, 1); // Apply formatter to second column
+		table_input.draw(table_input_data);
+		<!-- chart.draw(dataParcel, options); -->
+		
+		
+		//Update table output general
+		// New Construction Amount
+		<!-- for (let i = 1; i < levyYears + 1; i++) { -->
+			<!-- newConstructionAmount = table_output.getValue(i-1,1) * newConstructionChange0 / 100 -->
+			<!-- table_output.setValue(i, 9, newConstructionAmount); -->
+		<!-- } -->
+		<!-- formatter.format(table_output, 9); // Apply formatter to New Construction Percent column -->
+		// New Construction As % Of Prev Year's Total AV
+		for (let i = 1; i < levyYears + levyStartYearOffset; i++) {
+			table_output.setValue(i, 3, newConstructionChange0);
+		}
+		formatterPercent1.format(table_output, 3); // Apply formatter to New Construction Percent  column
+		// Existing Properties' AV Change update
+		for (let i = 1; i < levyYears + levyStartYearOffset; i++) {
+			table_output.setValue(i, 4, existingPropertiesAVChange0);
+		}
+		formatterPercent1.format(table_output, 4); // Apply formatter to New Construction Percent column
+		// Total AV Change Update
+		for (let i = 1; i < levyYears + levyStartYearOffset; i++) {
+			table_output.setValue(i, 5, newConstructionChange0 + existingPropertiesAVChange0);
+		}
+		formatterPercent1.format(table_output, 5); // Apply formatter to Total AV Change column
+		// Total AV update
+		for (let i = 1; i < levyYears + levyStartYearOffset; i++) {
+			newTotalAV = table_output.getValue(i-1, 2) * (1 + table_output.getValue(i, 5)/100)
+			table_output.setValue(i, 2, newTotalAV);
+		}
+		formatter.format(table_output, 2); // Apply formatter to Total AV column
+		// Resulting Rate update
+		for (let i = 0; i < levyYears + levyStartYearOffset; i++) {
+			newRate = table_output.getValue(i, 1) / table_output.getValue(i, 2) * 1000
+			table_output.setValue(i, 6, newRate);
+		}
+		formatterRate.format(table_output, 6); // Apply formatter to Rate column
+		// Example Property AV Change update
+		for (let i = 1; i < levyYears + levyStartYearOffset; i++) {
+			table_output.setValue(i, 8, examplePropertyAVChange0);
+		}
+		formatterPercent1.format(table_output, 8); // Apply formatter to Ex Prop Levy Tax column
+		// Example Property AV update
+		table_output.setValue(0, 7, sampleParcelAV)
+		for (let i = 1; i < levyYears + levyStartYearOffset; i++) {
+			newExPropAV = table_output.getValue(i-1, 7) * (1 + examplePropertyAVChange0 / 100)
+			table_output.setValue(i, 7, newExPropAV);
+		}
+		formatter.format(table_output, 7); // Apply formatter to Ex Prop AV column
+		// Example Property POF update
+		for (let i = 0; i < levyYears + levyStartYearOffset; i++) {
+			newExPropPOF = table_output.getValue(i, 7) / table_output.getValue(i, 2)
+			table_output.setValue(i, 9, newExPropPOF);
+		}
+		formatterPOF.format(table_output, 9); // Apply formatter to Ex Prop POF column
+		// Example property's POF change
+		for (let i = 1; i < levyYears + levyStartYearOffset; i++) {
+			pofPercentChange = (table_output.getValue(i,9) - table_output.getValue(i-1,9)) / table_output.getValue(i-1,9) * 100
+			table_output.setValue(i, 10, pofPercentChange);
+		}
+		formatterPercent1.format(table_output, 10); // Apply formatter to Ex Prop Levy Tax column
+		// Example Property Levy Tax update
+		for (let i = 0; i < levyYears + levyStartYearOffset; i++) {
+			newExPropLevyAmount = table_output.getValue(i,7) * table_output.getValue(i,6) / 1000
+			table_output.setValue(i, 11, newExPropLevyAmount);
+		}
+		formatter.format(table_output, 11); // Apply formatter to Ex Prop Levy Tax column
+	
+		//table_output.setValue(1, 2, totalAVChange0);
+		table_output_vis.draw(table_output, {sort:'disable',allowHtml:'true'});
+		
+		//Update chart 1
+		sampleParcelPOFEffective = sampleParcelPOF;
+		totalLevyCostParcel = 0;
+		//totalLevyPriorCostParcel = 0;
+		for (let i = 0; i < levyYears + levyStartYearOffset; i++) {
+			totalLevyCostParcel = totalLevyCostParcel + table_output.getValue(i, 11);
+		}		
+		averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
+		formatter.format(dataParcel, 1); // Apply formatter to second column
+		//Update table output
+		table_data.setValue(0, 1, totalNewBondTax); // Total new bond cost
+		table_data.setValue(1, 1, totalLevyCostParcel); // Total levy cost parcel
+		table_data.setValue(2, 1, averageTotalLevyCostParcel); // Average levy cost parcel
+		formatter.format(table_data, 1); // Apply formatter to second column
+		table.draw(table_data, {sort:'disable'});
+    }
+	
+	function changeTotalAVChange(dir) {
+	}
+
+	function changePOFChange(dir) {
+	}
+
+	function changeNewConstructionChange(dir) {
+		newConstructionChange0 = newConstructionChange0 + dir;
+		if (newConstructionChange0 < newConstructionChangeMin)
+			newConstructionChange0 = newConstructionChangeMin;
+		if (newConstructionChange0 > newConstructionChangeMax)
+			newConstructionChange0 = newConstructionChangeMax;
+		table_new_construction_change_0_adjust_input_data.setValue(0, 1, newConstructionChange0);
+		formatterPercent1.format(table_new_construction_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_new_construction_0_adjust_input.draw(table_new_construction_change_0_adjust_input_data);
+		changeParcelAV(0);
+	}
+
+	function changeExamplePropertyAVChange(dir) {
+		examplePropertyAVChange0 = examplePropertyAVChange0 + dir;
+		if (examplePropertyAVChange0 < examplePropertyAVChangeMin)
+			examplePropertyAVChange0 = examplePropertyAVChangeMin;
+		if (examplePropertyAVChange0 > examplePropertyAVChangeMax)
+			examplePropertyAVChange0 = examplePropertyAVChangeMax;
+		table_example_property_av_change_0_adjust_input_data.setValue(0, 1, examplePropertyAVChange0);
+		formatterPercent1.format(table_example_property_av_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_example_property_av_0_adjust_input.draw(table_example_property_av_change_0_adjust_input_data);
+		changeParcelAV(0);
+	}
+
+	function changeExistingPropertiesAVChange(dir) {
+		existingPropertiesAVChange0 = existingPropertiesAVChange0 + dir;
+		if (existingPropertiesAVChange0 < existingPropertiesAVChangeMin)
+			existingPropertiesAVChange0 = existingPropertiesAVChangeMin;
+		if (existingPropertiesAVChange0 > existingPropertiesAVChangeMax)
+			existingPropertiesAVChange0 = existingPropertiesAVChangeMax;
+		table_existing_properties_av_change_0_adjust_input_data.setValue(0, 1, existingPropertiesAVChange0);
+		formatterPercent1.format(table_existing_properties_av_change_0_adjust_input_data, 1); // Apply formatter to second column
+		table_existing_properties_av_0_adjust_input.draw(table_existing_properties_av_change_0_adjust_input_data);
+		changeParcelAV(0);
+	}
+
+  </script>
+ </head>
+ <body>
+  <H2>Property tax impact estimate calculator for the November 5th 2024 bond measure proposed by the Port Angeles SD</H2>
+  <H3>Input (Enter Your Data)</H3>
+  <div id="table_input_div" style="width:1200px; height: 60px;"></div>
+  <!-- <p></p> -->
+  <input type="button" value="+" onclick="changeParcelAV(25000)" />
+  <input type="button" value="-" onclick="changeParcelAV(-25000)" />
+  <p></p>
+  <div id="table_example_property_av_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeExamplePropertyAVChange(0.1)" />
+  <input type="button" value="-" onclick="changeExamplePropertyAVChange(-0.1)" />
+  <p></p>
+  <div id="table_existing_properties_av_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeExistingPropertiesAVChange(0.1)" />
+  <input type="button" value="-" onclick="changeExistingPropertiesAVChange(-0.1)" />
+  <p></p>
+  <div id="table_new_construction_adjust_input_div" style="width:1200px; height: 60px;"></div>
+  <input type="button" value="+" onclick="changeNewConstructionChange(0.1)" />
+  <input type="button" value="-" onclick="changeNewConstructionChange(-0.1)" />
+  <p></p>
+  <H3>Output (Results)</H3>
+  <p>Estimated obligations for the example property</P>
+  <div id="table_output_general_div" style="width:1200px; height: 727px;"></div>
+  <div id="table_output_div" style="width:2000px; height: 150px;"></div>
+  <H3>Usage</H3>
+  <p>1) Select your property's 2024 Tax Year AV.</p>
+  <p>2) Select your property's guesstimated annual AV percent change for the next 21 years.</p>
+  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 21 years. This may be similar to the 
+  assumption for your property but not necessarily so.</p>
+  <p>4) Select the guesstimated value for new construction as a percent of the previous year's Total AV.</p>
+  <p>5) Review the output table results.</p>
+  <H3>Notes</H3>
+  <p>This interactive calculator was created by the author independently from and not associated with the school district.</p>
+  <p>POF: The Proportional Obligation Factor for any given year equals the assessed value (AV) of the example property divided by the Total AV of the properties within the district's tax area.</p>
+  <p>AV: AV is the assessed value of a property as assessed by the county assessor's office. The AV of a property is supposed to be the market value at the time of the assessment. 
+  AVs are always a year behind. For example, the county assessor's office during the summer of 2024 is assessing properties to assign AVs to use in the 2025 tax year.</p>
+  <p></p>
+  <H3>Equations</H3>
+  <p>There are two ways to calculate the property tax for a given year for a given property. They are equivalent.</p>
+  <p>For any given year:</p>
+  <p>POF For The Year = {Example Property's AV For The Year} / {Total AV For The Year}</p>
+  <p>Example Property's New Bond's Tax Payment For The Year = {POF For The Year} X {New Bond's Total Tax Payment For The Year}</p>
+  <p>Resulting New Bond's Tax Rate For The Year = {New Bond's Total Tax Payment For The Year} / {Total AV For The Year} X 1,000</p>
+  <p>Example Property's New Bond's Tax Payment For The Year = {Resulting New Bond's Tax Rate For The Year} X {Example Property's AV For The Year} / 1,000</p>
+  <!-- <H3>Historical Property Tax Data</H3> -->
+  <!-- <table> -->
+  <!-- <tr> -->
+    <!-- <th>Tax Year</th> -->
+    <!-- <th>Total AV</th> -->
+    <!-- <th>New Construction<br>Amount</th> -->
+    <!-- <th>New Construction<br>As a Percent of<br>Prev Year's Total AV</th> -->
+    <!-- <th>Existing Properties'<br>AV Change</th> -->
+    <!-- <th>Total AV Change</th> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+    <!-- <td>2020</td> -->
+    <!-- <td>$2,859,582,135</td> -->
+    <!-- <td>$64,348,404</td> -->
+    <!-- <td> </td> -->
+    <!-- <td> </td> -->
+    <!-- <td> </td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+    <!-- <td>2021</td> -->
+    <!-- <td>$3,162,701,112</td> -->
+    <!-- <td>$57,624,256</td> -->
+    <!-- <td>2.0%</td> -->
+    <!-- <td>8.6%</td> -->
+    <!-- <td>10.6%</td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+    <!-- <td>2022</td> -->
+    <!-- <td>$3,647,425,488</td> -->
+    <!-- <td>$68,076,623</td> -->
+    <!-- <td>2.1%</td> -->
+    <!-- <td>13.2%</td> -->
+    <!-- <td>15.3%</td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+    <!-- <td>2023</td> -->
+    <!-- <td>$4,468,838,343</td> -->
+    <!-- <td>$89,387,916</td> -->
+    <!-- <td>2.4%</td> -->
+    <!-- <td>20.1%</td> -->
+    <!-- <td>22.5%</td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+    <!-- <td>2024</td> -->
+    <!-- <td>$5,260,405,000</td> -->
+    <!-- <td>$91,395,201</td> -->
+    <!-- <td>2.1%</td> -->
+    <!-- <td>15.7%</td> -->
+    <!-- <td>17.7%</td> -->
+  <!-- </tr> -->
+  <!-- </table> -->
+  <H3>Data Sources</H3>
+  <p>The district's bond/levy projection datasheet for the bond's planned payments.</p>
+  <!-- <p>Whatcom County Assessor's Office for the historical property tax info.</p> -->
+
+ </body>
+</html>
+

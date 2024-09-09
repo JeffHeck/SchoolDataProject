@@ -22,6 +22,8 @@ ___
 
 [Link to the interactive calculator](calculator_issaquah_20241105_enhanced){:target="_blank" rel="noopener"}
 
+[Link to the interactive cost impact estimating calculator version 2 {shows how future guesstimated bond tax rates are meaningless}](table_issaquah_bond_20241105){:target="_blank" rel="noopener"}
+
 ___
 
 ### Kent SD
