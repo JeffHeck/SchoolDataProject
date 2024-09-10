@@ -22,6 +22,10 @@ ___
 
 [Link to the interactive calculator](calculator_lake_stevens_20241105_enhanced){:target="_blank" rel="noopener"}
 
+[Link to the interactive cost impact estimating calculator version 2 {shows how future guesstimated bond tax rates are meaningless}](table_lake_stevens_bond_20241105){:target="_blank" rel="noopener"}
+
+![Lake Stevens SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/LakeStevensNewConstruction.png "Lake Stevens SD new construction chart")
+
 ___
 
 ### Sultan SD
@@ -30,6 +34,10 @@ ___
 ![Sultan SD bond example parcel chart](pagesManual/LeviesReport/20241105/SultanParcel.png "Sultan SD bond example parcel chart")
 
 [Link to the interactive calculator](calculator_sultan_20241105_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how future guesstimated bond tax rates are meaningless}](table_sultan_bond_20241105){:target="_blank" rel="noopener"}
+
+![Sultan SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SultanNewConstruction.png "Sultan SD new construction chart")
 
 ___
 
