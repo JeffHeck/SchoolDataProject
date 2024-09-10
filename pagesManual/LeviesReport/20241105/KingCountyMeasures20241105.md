@@ -13,7 +13,7 @@ ___
 
 [Link to the interactive calculator](calculator_auburn_20241105_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how future guesstimated bond tax rates are meaningless}](table_auburn_bond_20241105){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_auburn_bond_20241105){:target="_blank" rel="noopener"}
 
 ![Auburn SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/AuburnNewConstruction.png "Auburn SD new construction chart")
 
@@ -26,7 +26,7 @@ ___
 
 [Link to the interactive calculator](calculator_issaquah_20241105_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how future guesstimated bond tax rates are meaningless}](table_issaquah_bond_20241105){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_issaquah_bond_20241105){:target="_blank" rel="noopener"}
 
 ![Issaquah SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/IssaquahNewConstruction.png "Issaquah SD new construction chart")
 
