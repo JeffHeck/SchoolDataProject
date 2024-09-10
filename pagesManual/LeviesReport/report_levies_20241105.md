@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: September 4th, 2024
+Last updated: September 9th, 2024
 
 Preliminary. In progress.
 
@@ -202,9 +202,9 @@ This is why TILA (Truth In Lending Act) rules should apply to school district le
 If school districts still want to show future rates for their new measures, they should then assume no change in Total AV from the current year and THEN calculate their future rates. Citizens can then calculate their 
 future levy amounts based on the value of their properties' current year AV. 
 
-See the Lynden SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
+See the Issaquah SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
 
-[Link to the Lynden SD example](table_lynden_bond_20240806)
+[Link to the Issaquah SD example](table_issaquah_bond_20241105)
 
 
 ___
