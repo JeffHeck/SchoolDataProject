@@ -9,20 +9,6 @@ permalink: lacrosse school district
 
 ___
 
-## SBA 10th Grade ELA
-
-[Chart 1 of 1](pages/SBALaCrosse School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
-
-
-___
-
-## SBA 10th Grade MATH
-
-[Chart 1 of 1](pages/SBALaCrosse School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
-
-
-___
-
 ## Dual Credit Participation
 
 [Lacrosse High School](pages/hist_dual_credit_participation/Dual Credit BarChartLaCrosse School District Lacrosse High School.png "Lacrosse High School Dual Credit Participation")

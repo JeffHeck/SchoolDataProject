@@ -9,48 +9,6 @@ permalink: columbia (stevens) school district
 
 ___
 
-## SBA 4th Grade ELA
-
-[Chart 1 of 1](pages/SBAColumbia (Stevens) School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
-
-
-___
-
-## SBA 4th Grade MATH
-
-[Chart 1 of 1](pages/SBAColumbia (Stevens) School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
-
-
-___
-
-## SBA 8th Grade ELA
-
-[Chart 1 of 1](pages/SBAColumbia (Stevens) School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
-
-
-___
-
-## SBA 8th Grade MATH
-
-[Chart 1 of 1](pages/SBAColumbia (Stevens) School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
-
-
-___
-
-## SBA 10th Grade ELA
-
-[Chart 1 of 1](pages/SBAColumbia (Stevens) School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
-
-
-___
-
-## SBA 10th Grade MATH
-
-[Chart 1 of 1](pages/SBAColumbia (Stevens) School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
-
-
-___
-
 ## Dual Credit Participation
 
 [Columbia High And Elementary](pages/hist_dual_credit_participation/Dual Credit BarChartColumbia (Stevens) School District Columbia High And Elementary.png "Columbia High And Elementary Dual Credit Participation")

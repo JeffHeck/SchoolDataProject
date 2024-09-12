@@ -9,16 +9,16 @@ permalink: colton school district
 
 ___
 
-## SBA 4th Grade ELA
+## SBA 10th Grade ELA
 
-[Chart 1 of 1](pages/SBAColton School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
+[Chart 1 of 1](pages/SBAColton School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
 
 
 ___
 
-## SBA 4th Grade MATH
+## SBA 10th Grade MATH
 
-[Chart 1 of 1](pages/SBAColton School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
+[Chart 1 of 1](pages/SBAColton School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
 
 
 ___
