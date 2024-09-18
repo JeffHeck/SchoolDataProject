@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: September 12th, 2024
+Last updated: September 18th, 2024
 
 Preliminary. In progress.
 
@@ -34,10 +34,30 @@ ___
 
 ## Summary
 ### Overview
-
+Listed below are the the types and counts for the tax measures for the February 13th 2024 election that have been analyzed to date:
+- Bonds: 14
+- Enrichment Levies: 3
+- Capital / Tech Levies: 6
 
 ### Local voters' pamphlet (LVP) statistics
+- Bonds
+    - Number of bonds =  14
+    - Number of bonds with pro statements =  12
+    - Number of bonds with con statements =  6
+    - Number of bonds with phony con statements =  1
 
+- Enrichment, capital and tech levies
+    - Number of levies =  9
+    - Number of levies with pro statements =  9
+    - Number of levies with con statements =  5
+
+LVP pro/con statement statistics by county
+
+![Percent of tax measures with LVP pro statements by county](pagesManual/LeviesReport/20241105/CountyLVPPro.png "LVP Pro Statements")
+
+![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20241105/CountyLVPCon.png "LVP Con Statements")
+
+Note: The number of school district tax measures for each county is shown in parentheses.
 ___
 
 ## Bond summary
