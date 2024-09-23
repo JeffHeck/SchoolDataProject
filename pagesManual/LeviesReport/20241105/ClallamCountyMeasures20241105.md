@@ -25,5 +25,7 @@ ___
 
 [Link to the interactive calculator](calculator_port_angeles_enrichment_20241105_enhanced){:target="_blank" rel="noopener"}
 
+![Port Angeles SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/PortAngelesEnrichmentLevyNewConstruction.png "Port Angeles SD new construction chart")
+
 ___
 

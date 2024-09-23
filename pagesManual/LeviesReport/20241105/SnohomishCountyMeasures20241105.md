@@ -13,6 +13,8 @@ ___
 
 [Link to the interactive calculator](calculator_arlington_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
+![Arlington SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/ArlingtonCapitalLevyNewConstruction.png "Arlington SD new construction chart")
+
 ___
 
 ### Lake Stevens SD

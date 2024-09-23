@@ -13,5 +13,7 @@ ___
 
 [Link to the interactive calculator](calculator_north_kitsap_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
+![North Kitsap SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/NorthKitsapCapitalLevyNewConstruction.png "North Kitsap SD new construction chart")
+
 ___
 

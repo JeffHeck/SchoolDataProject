@@ -39,6 +39,8 @@ ___
 
 [Link to the interactive calculator](calculator_kent_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
+![Kent SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/KentCapitalLevyNewConstruction.png "Kent SD new construction chart")
+
 ___
 
 ### Lake Washington SD
@@ -47,6 +49,8 @@ ___
 ![Lake Washington SD capital levy example parcel chart](pagesManual/LeviesReport/20241105/LakeWashingtonCapitalParcel.png "Lake Washington SD capital  example parcel chart")
 
 [Link to the interactive calculator](calculator_lake_washington_capital_20241105_enhanced){:target="_blank" rel="noopener"}
+
+![Lake Washington SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/LakeWashingtonCapitalLevyNewConstruction.png "Lake Washington SD new construction chart")
 
 ___
 

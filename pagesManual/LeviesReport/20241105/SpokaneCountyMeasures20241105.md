@@ -52,5 +52,7 @@ ___
 
 [Link to the interactive calculator](calculator_west_valley_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
+![West Valley SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/WestValleyCapitalLevyNewConstruction.png "West Valley SD new construction chart")
+
 ___
 

@@ -13,5 +13,7 @@ ___
 
 [Link to the interactive calculator](calculator_eastmont_enrichment_20241105_enhanced){:target="_blank" rel="noopener"}
 
+![Eastmont SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/EastmontEnrichmentLevyNewConstruction.png "Eastmont SD new construction chart")
+
 ___
 
