@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: September 18th, 2024
+Last updated: September 23rd, 2024
 
 Preliminary. In progress.
 
