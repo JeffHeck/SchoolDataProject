@@ -130,6 +130,7 @@ ___
 
 ## A critique of each district's taxpayer cost impact analysis
 
+[Critiques](costanalysiscritiques20241105)
 
 ___
 
