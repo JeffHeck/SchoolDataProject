@@ -54,5 +54,7 @@ ___
 
 ![West Valley SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/WestValleyCapitalLevyNewConstruction.png "West Valley SD new construction chart")
 
+![West Valley SD effective annual Total AV change](pagesManual/LeviesReport/20241105/WestValleySDCapitalEffNewConstructionRate.png "West Valley SD new construction rate table")
+
 ___
 

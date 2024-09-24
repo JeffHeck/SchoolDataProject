@@ -15,6 +15,8 @@ ___
 
 ![South Whidbey SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SouthWhidbeyEnrichmentLevyNewConstruction.png "South Whidbey SD new construction chart")
 
+![South Whidbey SD effective annual Total AV change](pagesManual/LeviesReport/20241105/SouthWhidbeySDEnrichmentEffNewConstructionRate.png "South Whidbey SD new construction rate table")
+
 ___
 
 
@@ -24,6 +26,8 @@ ___
 [Link to the interactive calculator](calculator_south_whidbey_tech_20241105_enhanced){:target="_blank" rel="noopener"}
 
 ![South Whidbey SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SouthWhidbeyTechLevyNewConstruction.png "South Whidbey SD new construction chart")
+
+![South Whidbey SD effective annual Total AV change](pagesManual/LeviesReport/20241105/SouthWhidbeySDTechEffNewConstructionRate.png "South Whidbey SD new construction rate table")
 
 ___
 

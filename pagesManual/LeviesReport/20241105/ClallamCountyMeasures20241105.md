@@ -27,5 +27,7 @@ ___
 
 ![Port Angeles SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/PortAngelesEnrichmentLevyNewConstruction.png "Port Angeles SD new construction chart")
 
+![Port Angeles SD effective annual Total AV change](pagesManual/LeviesReport/20241105/PortAngelesSDEnrichmentEffNewConstructionRate.png "Port Angeles SD new construction rate table")
+
 ___
 

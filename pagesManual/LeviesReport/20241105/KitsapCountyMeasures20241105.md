@@ -15,5 +15,7 @@ ___
 
 ![North Kitsap SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/NorthKitsapCapitalLevyNewConstruction.png "North Kitsap SD new construction chart")
 
+![North Kitsap SD effective annual Total AV change](pagesManual/LeviesReport/20241105/NorthKitsapSDCapitalEffNewConstructionRate.png "North Kitsap SD new construction rate table")
+
 ___
 

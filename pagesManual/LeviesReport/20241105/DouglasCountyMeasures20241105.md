@@ -15,5 +15,7 @@ ___
 
 ![Eastmont SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/EastmontEnrichmentLevyNewConstruction.png "Eastmont SD new construction chart")
 
+![Eastmont SD effective annual Total AV change](pagesManual/LeviesReport/20241105/EastmontSDEnrichmentEffNewConstructionRate.png "Eastmont SD new construction rate table")
+
 ___
 
