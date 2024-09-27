@@ -52,6 +52,8 @@ ___
 
 [Link to the interactive calculator](calculator_west_valley_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_west_valley_capital_levy_20241105){:target="_blank" rel="noopener"}
+
 ![West Valley SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/WestValleyCapitalLevyNewConstruction.png "West Valley SD new construction chart")
 
 ![West Valley SD effective annual Total AV change](pagesManual/LeviesReport/20241105/WestValleySDCapitalEffNewConstructionRate.png "West Valley SD new construction rate table")

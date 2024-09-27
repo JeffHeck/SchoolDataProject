@@ -13,6 +13,8 @@ ___
 
 [Link to the interactive calculator](calculator_eastmont_enrichment_20241105_enhanced){:target="_blank" rel="noopener"}
 
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_eastmont_enrichment_levy_20241105){:target="_blank" rel="noopener"}
+
 ![Eastmont SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/EastmontEnrichmentLevyNewConstruction.png "Eastmont SD new construction chart")
 
 ![Eastmont SD effective annual Total AV change](pagesManual/LeviesReport/20241105/EastmontSDEnrichmentEffNewConstructionRate.png "Eastmont SD new construction rate table")

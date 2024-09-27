@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: September 23rd, 2024
+Last updated: September 27th, 2024
 
 Preliminary. In progress.
 
@@ -58,6 +58,7 @@ LVP pro/con statement statistics by county
 ![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20241105/CountyLVPCon.png "LVP Con Statements")
 
 Note: The number of school district tax measures for each county is shown in parentheses.
+
 ___
 
 ## Bond summary
