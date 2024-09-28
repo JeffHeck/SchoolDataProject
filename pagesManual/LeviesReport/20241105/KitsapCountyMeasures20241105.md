@@ -19,5 +19,15 @@ ___
 
 ![North Kitsap SD effective annual Total AV change](pagesManual/LeviesReport/20241105/NorthKitsapSDCapitalEffNewConstructionRate.png "North Kitsap SD new construction rate table")
 
+Notes:
+
+The gray cell values were provided by the district in the voters' pamphlet and in the resolution in the description of the tax measure - namely the amount in dollars to be collected each year of the levy and the district's estimated future tax rates for the measure. Future tax rates are calculated by the amount in dollars to collect each year divided by the estimated Total AV for each year.
+
+The green cell is the Total AV for 2024 which can be obtained from the county assessor or the Department of Revenue.
+
+The blue cells are calculated from the values in the other cells.
+
+For example, the {2026 Total AV} = {2026 District's Levy Amount} / {2026 District's Estimated Levy Tax Rate} X 1000
+
 ___
 
