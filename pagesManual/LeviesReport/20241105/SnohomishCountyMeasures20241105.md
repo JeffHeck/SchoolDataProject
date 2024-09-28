@@ -13,7 +13,7 @@ ___
 
 [Link to the interactive calculator](calculator_arlington_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_arlington_capital_levy_20241105){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_arlington_capital_levy_20241105){:target="_blank" rel="noopener"}
 
 ![Arlington SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/ArlingtonCapitalLevyNewConstruction.png "Arlington SD new construction chart")
 

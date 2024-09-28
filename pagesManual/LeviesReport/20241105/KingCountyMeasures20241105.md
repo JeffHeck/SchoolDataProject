@@ -39,7 +39,7 @@ ___
 
 [Link to the interactive calculator](calculator_kent_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_kent_capital_levy_20241105){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_kent_capital_levy_20241105){:target="_blank" rel="noopener"}
 
 ![Kent SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/KentCapitalLevyNewConstruction.png "Kent SD new construction chart")
 
@@ -54,7 +54,7 @@ ___
 
 [Link to the interactive calculator](calculator_lake_washington_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_lake_washington_capital_levy_20241105){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lake_washington_capital_levy_20241105){:target="_blank" rel="noopener"}
 
 ![Lake Washington SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/LakeWashingtonCapitalLevyNewConstruction.png "Lake Washington SD new construction chart")
 

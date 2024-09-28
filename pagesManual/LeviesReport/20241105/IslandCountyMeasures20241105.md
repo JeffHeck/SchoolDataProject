@@ -13,7 +13,7 @@ ___
 
 [Link to the interactive calculator](calculator_south_whidbey_enrichment_20241105_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_south_whidbey_enrichment_levy_20241105){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_south_whidbey_enrichment_levy_20241105){:target="_blank" rel="noopener"}
 
 ![South Whidbey SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SouthWhidbeyEnrichmentLevyNewConstruction.png "South Whidbey SD new construction chart")
 
@@ -27,7 +27,7 @@ ___
 
 [Link to the interactive calculator](calculator_south_whidbey_tech_20241105_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_south_whidbey_tech_levy_20241105){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_south_whidbey_tech_levy_20241105){:target="_blank" rel="noopener"}
 
 ![South Whidbey SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SouthWhidbeyTechLevyNewConstruction.png "South Whidbey SD new construction chart")
 
