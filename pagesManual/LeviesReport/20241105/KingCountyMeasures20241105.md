@@ -15,6 +15,8 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_auburn_bond_20241105){:target="_blank" rel="noopener"}
 
+This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as this year.
+
 ![Auburn SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/AuburnNewConstruction.png "Auburn SD new construction chart")
 
 ___
@@ -28,6 +30,8 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_issaquah_bond_20241105){:target="_blank" rel="noopener"}
 
+This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as this year.
+
 ![Issaquah SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/IssaquahNewConstruction.png "Issaquah SD new construction chart")
 
 ___
@@ -40,6 +44,8 @@ ___
 [Link to the interactive calculator](calculator_kent_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_kent_capital_levy_20241105){:target="_blank" rel="noopener"}
+
+This next chart shows the estimated average annual taxes for just this levy for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one levy at the same pace as this year.
 
 ![Kent SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/KentCapitalLevyNewConstruction.png "Kent SD new construction chart")
 
@@ -65,6 +71,8 @@ ___
 [Link to the interactive calculator](calculator_lake_washington_capital_20241105_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lake_washington_capital_levy_20241105){:target="_blank" rel="noopener"}
+
+This next chart shows the estimated average annual taxes for just this levy for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one levy at the same pace as this year.
 
 ![Lake Washington SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/LakeWashingtonCapitalLevyNewConstruction.png "Lake Washington SD new construction chart")
 

@@ -15,6 +15,8 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_eastmont_enrichment_levy_20241105){:target="_blank" rel="noopener"}
 
+This next chart shows the estimated average annual taxes for just this levy for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one levy at the same pace as this year.
+
 ![Eastmont SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/EastmontEnrichmentLevyNewConstruction.png "Eastmont SD new construction chart")
 
 ![Eastmont SD effective annual Total AV change](pagesManual/LeviesReport/20241105/EastmontSDEnrichmentEffNewConstructionRate.png "Eastmont SD new construction rate table")
