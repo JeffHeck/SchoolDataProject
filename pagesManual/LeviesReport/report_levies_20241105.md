@@ -4,7 +4,7 @@ title: School District Tax Measures November 5th 2024
 permalink: report_levies_20241105
 ---
 
-Last updated: September 28th, 2024
+Last updated: October 7th, 2024
 
 Preliminary. In progress.
 
@@ -26,7 +26,7 @@ As analyses are completed, summary results will be provided on this page.
 	- Tax measures by county
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
-- A critique of each district's taxpayer cost impact analysis
+- An analysis of each district's taxpayer cost impact analysis
 - Calculator methodology
     - POF proof
 
@@ -129,7 +129,7 @@ ___
 
 ___
 
-## A critique of each district's taxpayer cost impact analysis
+## An analysis of each district's taxpayer cost impact analysis
 
 [Critiques](costanalysiscritiques20241105)
 
