@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cost Analysis Critiques
+title: An Analysis of Each District's Taxpayer Cost Impact Analysis
 permalink: costanalysiscritiques20241105
 ---
 
