@@ -6,8 +6,6 @@ permalink: report_levies_20241105
 
 Last updated: October 7th, 2024
 
-Preliminary. In progress.
-
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
