@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['table']});
+      google.charts.setOnLoadCallback(drawTable);
+
+      function drawTable() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Lead County');
+        data.addColumn('string', 'District');
+        data.addColumn('string', 'Measure');
+        data.addColumn('number', 'Score');
+        data.addColumn('string', 'Grade');
+        data.addRows([
+          ['Spokane', 'Orchard Prairie', 'Bond', {v: 100, f:'100'},'A+', ],
+          ['Spokane', 'West Valley', 'Capital Levy', {v: 97, f:'97'},'A+', ],
+          ['Clallam', 'Port Angeles', 'Enrichment Levy', {v: 96, f:'96'},'A', ],
+          ['Snohomish', 'Arlington', 'Capital Levy', {v: 94, f:'94'},'A', ],
+          ['Kitsap', 'North Kitsap', 'Capital Levy', {v: 93, f:'93'},'A', ],
+          ['Spokane', 'Cheney', 'Bond', {v: 92, f:'92'},'A-', ],
+          ['King', 'Kent', 'Capital Levy', {v: 92, f:'92'},'A-', ],
+          ['Yakima', 'Union Gap', 'Bond', {v: 89, f:'89'},'B+', ],
+          ['Whatcom', 'Blaine', 'Bond', {v: 88, f:'88'},'B+', ],
+          ['Clallam', 'Port Angeles', 'Bond', {v: 85, f:'85'},'B', ],
+          ['Whatcom', 'Meridian', 'Bond', {v: 84, f:'84'},'B', ],
+          ['Snohomish', 'Sultan', 'Bond', {v: 83, f:'83'},'B', ],
+          ['Island', 'South Whidbey', 'Enrichment Levy', {v: 83, f:'83'},'B', ],
+          ['Spokane', 'Deer Park', 'Bond', {v: 82, f:'82'},'B-', ],
+          ['Douglas', 'Eastmont', 'Enrichment Levy', {v: 81, f:'81'},'B-', ],
+          ['King', 'Lake Washington', 'Capital Levy', {v: 79, f:'79'},'C+', ],
+          ['Pierce', 'Orting', 'Bond', {v: 75, f:'75'},'C', ],
+          ['King', 'Auburn', 'Bond', {v: 74, f:'74'},'C', ],
+          ['Island', 'South Whidbey', 'Tech Levy', {v: 73, f:'73'},'C', ],
+          ['Benton', 'Richland', 'Bond', {v: 70, f:'70'},'C-', ],
+          ['Snohomish', 'Lake Stevens', 'Bond', {v: 69, f:'69'},'D+', ],
+          ['King', 'Issaquah', 'Bond', {v: 65, f:'65'},'D', ],
+          ['Pierce', 'Sumner', 'Bond', {v: 60, f:'60'},'D-', ],
+        ]);
+
+        var table = new google.visualization.Table(document.getElementById('table_div'));
+
+        table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
+      }
+    </script>
+  </head>
+  <body>
+    <div id="table_div"></div>
+  </body>
+</html>

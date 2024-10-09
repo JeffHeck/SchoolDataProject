@@ -4,8 +4,32 @@ title: An Analysis of Each District's Taxpayer Cost Impact Analysis
 permalink: costanalysiscritiques20241105
 ---
 
+## Contents
+- Grades for Each District's Taxpayer Cost Analyses
+- Bonds
+- Enrichment Levies
+- Capital and Tech Levies
+
 ___
 
+## Grades for Each District's Taxpayer Cost Analysis
+
+These scores and grades below are based on how well each district performed on their taxpayer cost analyses for their own tax measures.
+
+School district developed cost impact analyses are usually illogical, are mathematically incorrect, and underestimate the taxpayer cost impact. 
+County assessors, using sound accounting principles, should be tasked with developing logical, cost impact calculators for property owners and renters.
+
+Until that happens, the author has developed a simple rubric to grade school districts on their self-developed cost analyses. 
+The rise and fall (in a recession for example) of the AV (assessed values) of exiting properties generally do not affect the amount in dollars that property owners 
+must pay in property taxes for these tax measures. The variable that does matter is new construction rates. The version 2 calculators on this website illustrate that fact.
+
+For example, the interested reader can experiment with the input parameters for the version 2 cost estimating calculator for the Issquah SD's bond. 
+
+[Link to the interactive cost impact estimating calculator version 2 for the Issaquah SD's bond{shows how guesstimated future bond tax rates are meaningless}](table_issaquah_bond_20241105){:target="_blank" rel="noopener"}
+
+{% include cost_estimates/20241105/CostAnalysisGrades.html %}
+
+___
 
 ## Bonds
 
@@ -24,11 +48,15 @@ ___
 ![Sumner SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SumnerNewConstruction.png "Sumner SD new construction chart")
 ![Union Gap SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/UnionGapNewConstruction.png "Union Gap SD new construction chart")
 
+___
+
 ## Enrichment Levies
 
 ![Eastmont SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/EastmontEnrichmentLevyNewConstruction.png "Eastmont SD new construction chart")
 ![Port Angeles SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/PortAngelesEnrichmentLevyNewConstruction.png "Port Angeles SD new construction chart")
 ![South Whidbey SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SouthWhidbeyEnrichmentLevyNewConstruction.png "South Whidbey SD new construction chart")
+
+___
 
 ## Capital and Tech Levies
 
