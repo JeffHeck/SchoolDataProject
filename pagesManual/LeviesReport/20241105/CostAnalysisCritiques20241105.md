@@ -23,9 +23,11 @@ Until that happens, the author has developed a simple rubric to grade school dis
 The rise and fall (in a recession for example) of the AV (assessed values) of exiting properties generally do not affect the amount in dollars that property owners 
 must pay in property taxes for these tax measures. The variable that does matter is new construction rates. The version 2 calculators on this website illustrate that fact.
 
-For example, the interested reader can experiment with the input parameters for the version 2 cost estimating calculator for the Issquah SD's bond. 
+For example, the interested reader can experiment with the input parameters for the version 2 cost estimating calculator for the Issaquah SD's bond. 
 
 [Link to the interactive cost impact estimating calculator version 2 for the Issaquah SD's bond{shows how guesstimated future bond tax rates are meaningless}](table_issaquah_bond_20241105){:target="_blank" rel="noopener"}
+
+Sortable table of district grades:
 
 {% include cost_estimates/20241105/CostAnalysisGrades.html %}
 
