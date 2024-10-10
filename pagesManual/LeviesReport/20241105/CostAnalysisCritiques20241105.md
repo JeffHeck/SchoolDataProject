@@ -16,11 +16,11 @@ ___
 
 These scores and grades below are based on how well each district performed on their taxpayer cost analyses for their own tax measures.
 
-School district developed cost impact analyses are usually illogical, are mathematically incorrect, and underestimate the taxpayer cost impact. 
+School district developed cost impact analyses are often illogical, are mathematically incorrect, and underestimate the taxpayer cost impact. 
 County assessors, using sound accounting principles, should be tasked with developing logical, cost impact calculators for property owners and renters.
 
 Until that happens, the author has developed a simple rubric to grade school districts on their self-developed cost analyses. 
-The rise and fall (in a recession for example) of the AV (assessed values) of exiting properties generally do not affect the amount in dollars that property owners 
+The rise and fall (in a recession for example) of the AV (assessed values) of existing properties generally do not affect the amount in dollars that property owners 
 must pay in property taxes for these tax measures. The variable that does matter is new construction rates. The version 2 calculators on this website illustrate that fact.
 
 Almost all school districts make the error of guessing Total AV (assessed value of all taxable properties in their district's area) growth each year of their tax 
