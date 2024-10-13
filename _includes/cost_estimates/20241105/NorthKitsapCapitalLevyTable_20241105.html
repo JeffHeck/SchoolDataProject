@@ -153,7 +153,7 @@ table, th, td {
 		table_input_data.addColumn('string', 'Description');
 		table_input_data.addColumn('number', 'Value');
 		table_input_data.addRows([
-			['Enter Your Property\'s Actual 2024 Tax Year Assessed Value (AV)', sampleParcelAV],
+			['1) Enter Your Property\'s Actual 2024 Tax Year Assessed Value (AV)', sampleParcelAV],
 		]);
 
 		// Total AV 0 Adjust table
@@ -180,7 +180,7 @@ table, th, td {
 		table_new_construction_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_new_construction_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_new_construction_change_0_adjust_input_data.addRows([
-			['Enter Your Guesstimate for Future Annual New Construction (District Tax Area) as a Percent of the Prev Year\'s Total AV', newConstructionChange0 ],
+			['4) Enter Your Guesstimate for Future Annual New Construction (District Tax Area) as a Percent of the Prev Year\'s Total AV', newConstructionChange0 ],
 		]);
 
 		// Example Property's AV Change 0 Adjust table
@@ -189,7 +189,7 @@ table, th, td {
 		table_example_property_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_example_property_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_example_property_av_change_0_adjust_input_data.addRows([
-			['Enter Your Guesstimate for Your Property\'s Future Annual AV Percent Change', examplePropertyAVChange0  ],
+			['2) Enter Your Guesstimate for Your Property\'s Future Annual AV Percent Change', examplePropertyAVChange0  ],
 		]);
 
 		// Existing Properties' AV Change 0 Adjust table
@@ -198,7 +198,7 @@ table, th, td {
 		table_existing_properties_av_change_0_adjust_input_data.addColumn('string', 'Description');
 		table_existing_properties_av_change_0_adjust_input_data.addColumn('number', 'Value');
 		table_existing_properties_av_change_0_adjust_input_data.addRows([
-			['Enter Your Guesstimate for All Existing Properties\' (District Tax Area) Future Average Annual AV Percent Change', existingPropertiesAVChange0  ],
+			['3) Enter Your Guesstimate for All Existing Properties\' (District Tax Area) Future Average Annual AV Percent Change', existingPropertiesAVChange0  ],
 		]);
 
 		// Levy 1 output table
@@ -432,8 +432,9 @@ table, th, td {
   <H3>Usage</H3>
   <p>1) Select your property's 2024 Tax Year AV.</p>
   <p>2) Select your property's guesstimated annual AV percent change for the next 6 years.</p>
-  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 6 years. This may be similar to the 
-  assumption for your property but not necessarily so.</p>
+  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 6 years. 
+  This should usually be set to the same value assumed for parameter 2 as most properties rise and fall in AV at the same pace. 
+  An example where that might not be the case is if your property has more land than the average property since land tends to appreciate faster than structures.</p>
   <p>4) Select the guesstimated value for new construction as a percent of the previous year's Total AV.</p>
   <p>5) Review the output table results.</p>
   <H3>Notes</H3>
