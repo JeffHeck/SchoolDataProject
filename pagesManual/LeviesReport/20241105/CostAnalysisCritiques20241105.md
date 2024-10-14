@@ -1,6 +1,6 @@
 ---
 layout: page
-title: An Analysis of Each District's Taxpayer Cost Impact Analysis
+title: An Analysis of Each District's Taxpayer Cost Impact Analyses for their School District Tax Measures November 5th 2024
 permalink: costanalysiscritiques20241105
 ---
 
@@ -20,19 +20,21 @@ School district developed cost impact analyses are often illogical, are mathemat
 County assessors, using sound accounting principles, should be tasked with developing logical, cost impact calculators for property owners and renters.
 
 Until that happens, the author has developed a simple rubric to grade school districts on their self-developed cost analyses. 
-The rise and fall (in a recession for example) of the AV (assessed values) of existing properties generally do not affect the amount in dollars that property owners 
+The rise and fall (in a recession for example) of the AV (assessed values) of existing properties generally do not affect the total amount in dollars that property owners 
 must pay in property taxes for these tax measures. The variable that does matter is new construction rates. The version 2 calculators on this website illustrate that fact.
 
 Almost all school districts make the error of guessing Total AV (assessed value of all taxable properties in their district's area) growth each future year of their tax 
 measures without letting their example property also grow at that same assumed pace. It is nonsensical. When they make that error, what they are in fact doing is assuming 
 all of their guesstimated Total AV growth is from new construction. And they make this error while clear evidence is readily available from the county assessor that 
 new construction has been and will likely be significantly lower than their unwitting assumptions. School districts should actually assume the conservative case for 
-their campaign materials. They should assume near 0 new construction since that would be the worst case for existing property taxpayers. The next case school 
-districts might consider (that might be acceptable to voters and taxpayers) is to assume new construction continues each year of their new tax measures at ½ the new construction pace (compounded) as the current year. 
+their campaign materials. They should assume near 0 new construction since that would be the worst case for existing property taxpayers. And to do that, districs should assume 
+0 growth in Total AV each future year of their tax measures. 
+The next case school 
+districts might consider (that might also be acceptable to voters and taxpayers) is to assume new construction continues each year of their new tax measures at ½ the new construction pace (compounded) as the current year. 
 
 This is what the Orchard Prairie SD and West Valley SD did. It is why both districts were given a high score.
 
-For a learning exercise, the interested reader can experiment with the input parameters for the version 2 cost estimating calculators. 
+For a learning exercise, the interested reader can experiment with the input parameters for the version 2 cost estimating calculators. See if the calculators' results are understandable. 
 
 [Link to the interactive cost impact estimating calculator version 2 for the Issaquah SD's bond{shows how guesstimated future bond tax rates are meaningless}](table_issaquah_bond_20241105){:target="_blank" rel="noopener"}
 
