@@ -1,6 +1,6 @@
 ---
 layout: page
-title: An Analysis of Each District's Taxpayer Cost Impact Analyses for their School District Tax Measures November 5th 2024
+title: An Analysis of Each District's Taxpayer Cost Analyses for their School District Tax Measures November 5th 2024
 permalink: costanalysiscritiques20241105
 ---
 

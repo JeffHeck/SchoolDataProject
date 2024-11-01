@@ -1,6 +1,6 @@
 ---
 layout: page
-title: An Analysis of Each County's Taxpayer Cost Impact Analyses for the School District Tax Measures November 5th 2024. A critique of county Tax Transparency Tools.
+title: An Analysis of Each County's Taxpayer Cost Impact Analyses for the School District Tax Measures November 5th 2024: A Critique of County Tax Transparency Tools.
 permalink: costanalysiscritiquescounties20241105
 ---
 
