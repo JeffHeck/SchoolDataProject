@@ -128,13 +128,13 @@ ___
 
 ___
 
-## An analysis of each district's taxpayer cost impact analysis
+## An analysis of each district's taxpayer cost analysis
 
 [Critiques](costanalysiscritiques20241105)
 
 ___
 
-## An analysis of each county's assessor's department's taxpayer cost impact analysis. A critique of county Tax Transparency Tools.
+## An analysis of each county's assessor's department's taxpayer cost analysis. A critique of county Tax Transparency Tools.
 
 [Critiques](costanalysiscritiquescounties20241105)
 
