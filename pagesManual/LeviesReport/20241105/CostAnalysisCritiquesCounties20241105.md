@@ -31,7 +31,7 @@ for the February 2025 election. The other 36 county assessors’ departments hav
 implement it even if they did think it was a good idea, or they are highly interested and are learning more from King County and Spokane County. So there is a range of opinions from 
 the 39 county assessors’ departments.
 
-While King County and Spokane should be commended for initiating TTTs, their implementations to date are inadequate and provide little value to voters regarding the proposed tax measures. 
+While King County and Spokane County should be commended for initiating TTTs, their implementations to date are inadequate and provide little value to voters regarding the proposed tax measures. 
 
 ___
 
