@@ -180,6 +180,11 @@ the new estimated annual cost of the new multi year levy.
 At least the school district is presenting a tax structure where each year is essentially the same amount in dollars to be collected from property taxpayers. So in this 
 case the county assessors' algorithm of looking at just one year, the first year of the new levy, is reasonably accurate. 
 
+There will be many cases where a logical comparison with a previous levy and/or bond with a new levy and/or bond doesn't exist. For this and other reasons the county should just focus on correctly estimating the cost 
+obligations for property taxpayers for each year of the new multi year tax measure (levy or bond).
+
+[Spokane County School District Tax Measures](spokanecountymeasures20241105)
+
 The Spokane County Assessor’s Department should also provide a common sense bar chart (vertical stacked bar chart) showing the historical property taxes for at least the last 4 years. 6 years would 
 be better. King County should be used as a good example for this item.
 
