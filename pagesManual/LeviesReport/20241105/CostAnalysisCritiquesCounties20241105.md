@@ -61,17 +61,17 @@ Critique
 This proposed bond has a planned 22 year repayment schedule. So 22 years of taxes to collect. And unlike a home mortgage, the taxes escalate in the latter half of the schedule. 
 The county assessors focusing on one year, just the first year, is grossly inadequate.
 
-And worse, the county assessor’s office cost analysis algorithm was to take the school district’s stated principal, $532M, and divide that by 20, the stated 20 year repayment 
-schedule, and call that value, $26.6M, the amount that the school district would collect each year for the next 20 years for this one bond if it passes. That logic is disturbing. 
+And worse, the county assessor’s office cost analysis algorithm was to take the school district’s stated principal ($532M) and divide that by 20 (the stated 20 year repayment 
+schedule) and call that value ($26.6M) the amount that the school district would collect each year for the next 20 years for this one bond if it passes. That logic is disturbing. 
 Bonds have bond interest. And this bond has an estimated bond interest of $459M!  The county assessor’s office is not including bond interest at all in their cost estimate to taxpayers/voters. 
 
-The one item the county assessors get right is the historical property taxes for the owner of the example property, years 2021 through 2024. The county also correctly uses vertical 
-stacked bars with years on the X-axis.
+The one item the county assessors get right is the historical property taxes for the owner of the example property, years 2021 through 2024. The county also correctly uses common sense vertical 
+stacked bars with years on the X-axis with time going from left to right.
 
-However, the stacked bar chart for 2025 is the county assessors’ estimate. It is not clear if that estimate is if the measure passes or if it doesn’t. Either way the stacked bar 
+However, the stacked bar chart for 2025 is the county assessors’ estimate. It is not clear if that estimate is if the tax measure passes or if it doesn’t. Either way the stacked bar 
 for year 2025 is in error. The county assessors created that stacked bar by taking the known property tax rates for 2024 for each property tax category and then used those same 
 rates for their preliminary 2025 AV for the property. This is a fundamental logic and math mistake. It is why the county and the school district need to use the Proportional 
-Obligation Factor methodology advocated by the author on this website.
+Obligation Factor methodology described by the author of this website.
   
 
 ### King County, Issaquah SD, Bond
