@@ -4,6 +4,8 @@ title: An Analysis of Each County's Taxpayer Cost Analyses for the School Distri
 permalink: costanalysiscritiquescounties20241105
 ---
 
+Last updated: November 1st, 2024
+
 ## Contents
 - Introduction
 - Grades for Each County's Taxpayer Cost Analyses
@@ -170,10 +172,15 @@ A snapshot of the TTT (redacted) for an example affected property
 
 Critique
 
-This is a 3 year levy. At least the school district is presenting a tax structure where each year is essentially the same amount in dollars to be collected from property taxpayers. So in this 
-case the county assessors’ algorithm of looking at just one year, the first year, is reasonably accurate. 
+This is a new 3 year levy. The previous similar levy was also a 3 year levy. Both levies have escalating payments. So the county is comparing the last year of the previous levy (the highest payment year) 
+with the first year of the new levy (the lowest payment year). This is a recipe for abuse. The county should clearly show all years of the previous levy with all years of the new levy. 
+If the county insists on showing one comparison number, the obvious calculation they could make is to compare the average annual actual cost (to the property taxpayer) of the previous multi year levy to 
+the new estimated annual cost of the new multi year levy. 
 
-The Spokane County Assessor’s Department should also provide a normal bar chart (vertical stacked bar chart) showing the historical property taxes for at least the last 4 years. 6 years would 
+At least the school district is presenting a tax structure where each year is essentially the same amount in dollars to be collected from property taxpayers. So in this 
+case the county assessors' algorithm of looking at just one year, the first year of the new levy, is reasonably accurate. 
+
+The Spokane County Assessor’s Department should also provide a common sense bar chart (vertical stacked bar chart) showing the historical property taxes for at least the last 4 years. 6 years would 
 be better. King County should be used as a good example for this item.
 
 ___
