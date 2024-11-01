@@ -59,7 +59,12 @@ A snapshot of the TTT (redacted) for an example affected property
 Critique
 
 This proposed bond has a planned 22 year repayment schedule. So 22 years of taxes to collect. And unlike a home mortgage, the taxes escalate in the latter half of the schedule. 
-The county assessors focusing on one year, just the first year, is grossly inadequate.
+The county assessors focusing on one year, just the first year, is grossly inadequate. 
+All 22 years of the bond repayment schedule (2026-2047) need to be clearly displayed.
+
+Here is how it should be done:
+
+[King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
 
 And worse, the county assessor’s office cost analysis algorithm was to take the school district’s stated principal ($532M) and divide that by 20 (the stated 20 year repayment 
 schedule) and call that value ($26.6M) the amount that the school district would collect each year for the next 20 years for this one bond if it passes. That logic is disturbing. 
@@ -84,6 +89,11 @@ Critique
 
 This proposed bond has a planned 13 year repayment schedule. So 13 years of taxes to collect. And unlike a home mortgage, the taxes escalate in the latter half of the schedule. 
 The county focusing on one year, just the first year, is grossly inadequate.
+All 13 years of the bond repayment schedule (2025-2037) need to be clearly displayed.
+
+Here is how it should be done:
+
+[King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
 
 The county should not be using the district’s guesstimate for future bond tax rates. Future tax rates are meaningless. Taxpayers/ voters are voting on dollars – not guesses for tax rates. 
 
@@ -106,6 +116,12 @@ Critique
 This is a 3 year levy. At least the district is presenting a tax structure where each year is essentially the same amount in dollars. So in this case the county’s algorithm of looking 
 at just one year, the first year, is more accurate.
 
+Nevertheless, all 3 years of the levy tax schedule (2025-2027) need to be clearly displayed.
+
+Here is how it should be done:
+
+[King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
+
 The one item the county assessors get right is the historical property taxes for the owner of the example property, years 2021 through 2024. The county also correctly uses vertical 
 stacked bars with years on the X-axis. 
 
@@ -123,7 +139,11 @@ A snapshot of the TTT (redacted) for an example affected property
 Critique
 
 This is a 6 year levy. The only comparison the county should be making is the tax obligation for the property owner if the levy passes and if the levy fails. And the county should give 
-results for each of the 6 years. 
+results for each of the 6 future years of the levy (2026-2031). 
+
+Here is how it should be done:
+
+[King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
 
 The one item the county assessors get right is the historical property taxes for the owner of the example property, years 2021 through 2024. The county also correctly uses vertical stacked 
 bars with years on the X-axis. 
@@ -183,7 +203,7 @@ case the county assessors' algorithm of looking at just one year, the first year
 There will be many cases where a logical comparison with a previous levy and/or bond with a new levy and/or bond doesn't exist. For this and other reasons the county should just focus on correctly estimating the cost 
 obligations for property taxpayers for each year of the new multi year tax measure (levy or bond).
 
-[Spokane County School District Tax Measures](spokanecountymeasures20241105)
+[Spokane County School District Tax Measures Analyzed at the School Data Project](spokanecountymeasures20241105)
 
 The Spokane County Assessor’s Department should also provide a common sense bar chart (vertical stacked bar chart) showing the historical property taxes for at least the last 4 years. 6 years would 
 be better. King County should be used as a good example for this item.
