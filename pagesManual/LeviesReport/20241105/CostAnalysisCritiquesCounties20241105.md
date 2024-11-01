@@ -175,9 +175,9 @@ Critique
 This is a new 3 year levy. The previous similar levy was also a 3 year levy. Both levies have escalating payments. So the county is comparing the last year of the previous levy (the highest payment year) 
 with the first year of the new levy (the lowest payment year). This is a recipe for abuse. The county should clearly show all years of the previous levy with all years of the new levy. 
 If the county insists on showing one comparison number, the obvious calculation they could make is to compare the average annual actual cost (to the property taxpayer) of the previous multi year levy to 
-the new estimated annual cost of the new multi year levy. 
+the new estimated average annual cost of the new multi year levy. 
 
-At least the school district is presenting a tax structure where each year is essentially the same amount in dollars to be collected from property taxpayers. So in this 
+At least the school district is presenting a tax structure for the new levy where each year is essentially the same amount in dollars to be collected from property taxpayers. So in this 
 case the county assessors' algorithm of looking at just one year, the first year of the new levy, is reasonably accurate. 
 
 There will be many cases where a logical comparison with a previous levy and/or bond with a new levy and/or bond doesn't exist. For this and other reasons the county should just focus on correctly estimating the cost 
