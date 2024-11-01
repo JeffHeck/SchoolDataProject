@@ -40,7 +40,7 @@ The score compares how close the county's estimate is to the author's estimate t
 So if a county's TTT estimates the average annual cost for a tax measure at the same value as the author's calculated value based on 1/2 of the new construction pace as 2024, that would result 
 in a score of 100.
 
-Sortable table of district grades:
+Sortable table of county grades:
 
 {% include cost_estimates/20241105/CostAnalysisGradesCounties.html %}
 
