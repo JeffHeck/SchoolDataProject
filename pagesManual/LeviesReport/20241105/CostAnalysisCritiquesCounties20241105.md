@@ -36,9 +36,9 @@ ___
 ## Grades for Each County's Taxpayer Cost Analysis
 
 These scores and grades below are based on how well each county's assessor's department performed on their taxpayer cost analyses for each school district tax measure in their county. 
-The score compares how close the county's estimate is to the author's estimate that assumes that new construction continues at 1/2 the pace as the 2024 tax year, compounded.  
+The score compares how close the county's estimate is to the author's estimate that assumes that new construction continues at 1/2 the pace as the 2024 tax year, compounded. 
 So if a county's TTT estimates the average annual cost for a tax measure at the same value as the author's calculated value based on 1/2 of the new construction pace as 2024, that would result 
-in a score of 100%.
+in a score of 100.
 
 Sortable table of district grades:
 

@@ -41,9 +41,9 @@ For a learning exercise, the interested reader can experiment with the input par
 Sortable table of district grades:
 
 These scores and grades below are based on how well each district performed on their taxpayer cost analyses for each tax measure. 
-The score compares how close the district's estimate is to the author's estimate that assumes that new construction continues at 1/2 the pace as the 2024 tax year, compounded.  
+The score compares how close the district's estimate is to the author's estimate that assumes that new construction continues at 1/2 the pace as the 2024 tax year, compounded. 
 So if a district estimates the average annual cost for their new tax measure at the same value as the author's calculated value based on 1/2 of the new construction pace as 2024, that would result 
-in a score of 100%.
+in a score of 100.
 
 {% include cost_estimates/20241105/CostAnalysisGrades.html %}
 
