@@ -19,6 +19,10 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ![Port Angeles SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/PortAngelesNewConstruction.png "Port Angeles SD new construction chart")
 
+Bond/levy projection datasheet
+
+![Port Angeles SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/PortAngelesSD_BondLevyProjectionDatasheet.png "Port Angeles SD bond/levy projection datasheet")
+
 ___
 
 

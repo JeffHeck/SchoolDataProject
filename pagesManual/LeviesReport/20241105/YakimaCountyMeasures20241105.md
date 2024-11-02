@@ -19,5 +19,9 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ![Union Gap SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/UnionGapNewConstruction.png "Union Gap SD new construction chart")
 
+Bond/levy projection datasheet
+
+![Union Gap SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/UnionGapSD_BondLevyProjectionDatasheet.png "Union Gap SD bond/levy projection datasheet")
+
 ___
 

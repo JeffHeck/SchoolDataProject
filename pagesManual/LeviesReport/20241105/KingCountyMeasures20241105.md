@@ -19,6 +19,10 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ![Auburn SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/AuburnNewConstruction.png "Auburn SD new construction chart")
 
+Bond/levy projection datasheet
+
+![Auburn SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/AuburnSD_BondLevyProjectionDatasheet.png "Auburn SD bond/levy projection datasheet")
+
 ___
 
 ### Issaquah SD
@@ -33,6 +37,10 @@ ___
 This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as this year.
 
 ![Issaquah SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/IssaquahNewConstruction.png "Issaquah SD new construction chart")
+
+Bond/levy projection datasheet
+
+![Issaquah SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/IssaquahSD_BondLevyProjectionDatasheet.png "Issaquah SD bond/levy projection datasheet")
 
 ___
 

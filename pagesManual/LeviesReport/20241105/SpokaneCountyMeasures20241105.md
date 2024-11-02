@@ -19,6 +19,10 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ![Cheney SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/CheneyNewConstruction.png "Cheney SD new construction chart")
 
+Bond/levy projection datasheet
+
+![Cheney SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/CheneySD_BondLevyProjectionDatasheet.png "Cheney SD bond/levy projection datasheet")
+
 ___
 
 ### Deer Park SD
@@ -34,6 +38,10 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ![Deer Park SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/DeerParkNewConstruction.png "Deer Park SD new construction chart")
 
+Bond/levy projection datasheet
+
+![Deer Park SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/DeerParkSD_BondLevyProjectionDatasheet.png "Deer Park SD bond/levy projection datasheet")
+
 ___
 
 ### Orchard Prairie SD
@@ -48,6 +56,10 @@ ___
 This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as this year.
 
 ![Orchard Prairie SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/OrchardPrairieNewConstruction.png "Orchard Prairie SD new construction chart")
+
+Bond/levy projection datasheet
+
+![Orchard Prairie SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/OrchardPrairieSD_BondLevyProjectionDatasheet.png "Orchard Prairie SD bond/levy projection datasheet")
 
 ___
 

@@ -46,6 +46,10 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ![Lake Stevens SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/LakeStevensNewConstruction.png "Lake Stevens SD new construction chart")
 
+Bond/levy projection datasheet
+
+![Lake Stevens SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/LakeStevensSD_BondLevyProjectionDatasheet.png "Lake Stevens SD bond/levy projection datasheet")
+
 ___
 
 ### Sultan SD
@@ -60,6 +64,10 @@ ___
 This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as this year.
 
 ![Sultan SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SultanNewConstruction.png "Sultan SD new construction chart")
+
+Bond/levy projection datasheet
+
+![Sultan SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/SultanSD_BondLevyProjectionDatasheet.png "Sultan SD bond/levy projection datasheet")
 
 ___
 

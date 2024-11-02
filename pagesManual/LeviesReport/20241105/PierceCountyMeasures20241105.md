@@ -19,6 +19,10 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ![Orting SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/OrtingNewConstruction.png "Orting SD new construction chart")
 
+Bond/levy projection datasheet
+
+![Orting SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/OrtingSD_BondLevyProjectionDatasheet.png "Orting SD bond/levy projection datasheet")
+
 ___
 
 ### Sumner SD
@@ -33,6 +37,10 @@ ___
 This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as this year.
 
 ![Sumner SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/SumnerNewConstruction.png "Sumner SD new construction chart")
+
+Bond/levy projection datasheet
+
+![Sumner SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/SumnerSD_BondLevyProjectionDatasheet.png "Sumner SD bond/levy projection datasheet")
 
 ___
 

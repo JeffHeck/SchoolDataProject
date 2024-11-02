@@ -19,6 +19,10 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ![Blaine SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/BlaineNewConstruction.png "Blaine SD new construction chart")
 
+Bond/levy projection datasheet
+
+![Blaine SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/BlaineSD_BondLevyProjectionDatasheet.png "Blaine SD bond/levy projection datasheet")
+
 ___
 
 ### Meridian SD
@@ -33,6 +37,10 @@ ___
 This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as this year.
 
 ![Meridian SD average annual costs for different new construction rates](pagesManual/LeviesReport/20241105/MeridianNewConstruction.png "Meridian SD new construction chart")
+
+Bond/levy projection datasheet
+
+![Meridian SD bond/levy projection datasheet](pagesManual/LeviesReport/20241105/MeridianSD_BondLevyProjectionDatasheet.png "Meridian SD bond/levy projection datasheet")
 
 ___
 
