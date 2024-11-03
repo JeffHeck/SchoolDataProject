@@ -58,19 +58,20 @@ A snapshot of the TTT (redacted) for an example affected property
 
 Critique
 
-This proposed bond has a planned 22 year repayment schedule. So 22 years of taxes to collect. And unlike a home mortgage, the taxes escalate in the latter half of the schedule. 
+This proposed bond has a planned 22 year repayment schedule. So 22 years of taxes to collect. And unlike a home mortgage, the taxes escalate in 
+the latter half of the schedule. 
 The county assessors focusing on one year, just the first year, is grossly inadequate. 
 All 22 years of the bond repayment schedule (2026-2047) need to be clearly displayed.
-
-Here is how it should be done:
-
-[King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
 
 And worse, the county assessor’s office cost analysis algorithm was to take the school district’s stated principal ($532M) and divide that by 20 (the stated 20 year repayment 
 schedule) and call that value ($26.6M) the amount that the school district would collect each year for the next 20 years for this one bond if it passes. That logic is disturbing. 
 Bonds have bond interest. And this bond has an estimated bond interest of $459M!  The county assessor’s office is not including bond interest at all in their cost estimate to taxpayers/voters. 
 
-The one item the county assessors get right is the historical property taxes for the owner of the example property, years 2021 through 2024. The county also correctly uses common sense vertical 
+This next link provides a thorough, logical, and useful analysis developed by the author:
+
+[King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
+
+The one area the county assessors present well is the historical property taxes for the owner of the example property, years 2021 through 2024. The county also correctly uses common sense vertical 
 stacked bars with years on the X-axis with time going from left to right.
 
 However, the stacked bar chart for 2025 is the county assessors’ estimate. It is not clear if that estimate is if the tax measure passes or if it doesn’t. Either way the stacked bar 
@@ -161,9 +162,15 @@ A snapshot of the TTT (redacted) for an example affected property
 
 Critique
 
-This proposed bond has a planned 21 year repayment schedule. So 21 years of taxes to collect. The district is not planning for constant annual tax payments. Bond analyses are, admittedly, 
-a little more complicated than levies. But voters/taxpayers are having to vote on this. The county assessor’s office is abdicating its responsibility. Just because bonds are a little more 
-complicated is no reason to provide no assistance, no guidance to voters. Hardworking voters/taxpayers deserve better.
+This proposed bond has a planned 21 year repayment schedule to cover bond principal ($72M) and estimated bond interest ($55M): 21 years of 
+property taxes to collect for those payments. Multi decade bonds require more sophisticated analyses. And unlike a home mortgage, the 
+district is planning for escalating annual bond payments that further complicate the analysis. The county asssessor’s office has not 
+determined a way to adequately present the bond costs to property taxpayers. Therefore the county has decided not to present any information 
+to assist voters for the proposed bond tax measures for this election.
+
+However, the author of this website has derived a bond cost analysis method for property taxpayers that uses sound accounting principles. See the following link. 
+
+[Spokane County School District Tax Measures Analyzed at the School Data Project](spokanecountymeasures20241105)
 
 ### Spokane County, Deer Park SD, Bond
 
@@ -175,6 +182,10 @@ Critique
 
 Similar to the Cheney SD’s bond, the county assessor’s office has elected to provide no guidance for voters.
 
+The author of this website has derived a bond cost analysis method for property taxpayers that uses sound accounting principles. See the following link. 
+
+[Spokane County School District Tax Measures Analyzed at the School Data Project](spokanecountymeasures20241105)
+
 ### Spokane County, Orchard Prairie SD, Bond
 A snapshot of the TTT (redacted) for an example affected property
 
@@ -183,6 +194,10 @@ A snapshot of the TTT (redacted) for an example affected property
 Critique
 
 Similar to the Cheney SD’s bond, the county assessor’s office has elected to provide no guidance for voters.
+
+The author of this website has derived a bond cost analysis method for property taxpayers that uses sound accounting principles. See the following link. 
+
+[Spokane County School District Tax Measures Analyzed at the School Data Project](spokanecountymeasures20241105)
 
 ### Spokane County, West Valley SD, Capital Levy
 
