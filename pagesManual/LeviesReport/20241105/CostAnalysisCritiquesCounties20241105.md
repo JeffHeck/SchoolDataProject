@@ -92,7 +92,7 @@ This proposed bond has a planned 13 year repayment schedule. So 13 years of taxe
 The county focusing on one year, just the first year, is grossly inadequate.
 All 13 years of the bond repayment schedule (2025-2037) need to be clearly displayed.
 
-Here is how it should be done:
+This next link provides a thorough, logical, and useful analysis developed by the author:
 
 [King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
 
@@ -119,7 +119,7 @@ at just one year, the first year, is more accurate.
 
 Nevertheless, all 3 years of the levy tax schedule (2025-2027) need to be clearly displayed.
 
-Here is how it should be done:
+This next link provides a thorough, logical, and useful analysis developed by the author:
 
 [King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
 
@@ -142,7 +142,7 @@ Critique
 This is a 6 year levy. The only comparison the county should be making is the tax obligation for the property owner if the levy passes and if the levy fails. And the county should give 
 results for each of the 6 future years of the levy (2026-2031). 
 
-Here is how it should be done:
+This next link provides a thorough, logical, and useful analysis developed by the author:
 
 [King County School District Tax Measures Analyzed at the School Data Project](kingcountymeasures20241105)
 
