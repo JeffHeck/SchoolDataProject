@@ -19,6 +19,10 @@ Note that the actual list of measures may not be known until the deadline of Dec
 School districts (and all other taxing districts) planning to run tax measures on the February 11th 2025 election must submit their tax resolutions (description of their measures) and their lists of pro and con committee members to their 
 respective county election's office by December 13th 2024.
 
+Pro and con statements are generally due 1 to 3 days after the resolution deadline - so approximately December 16th to the 18th. Pro and con statements will need to be submitted directly to the county elections office - not the school district. 
+After the pro and con statements are submitted, each committee will then have a chance to submit a rebuttal to the other committee's statement. Rebuttals are generally due 1 to 3 days after the pro/con statements deadline. The county elections 
+office will provide detailed instructions and deadlines to the committee volunteers.
+
 School districts are supposed to advertise and select both pro and con committee members (up to 3 volunteers on each committee) to give the pro and con statements for their own tax measures. School districts 
 readily find pro committee members (usually paid staff). But school districts rarely find con committee members (from their short duration advertising efforts often with limited financial information). The result is that the Local Voters' Pamphlets (LVPs) 
 only present the pro arguments.
