@@ -4,7 +4,7 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: November 15th, 2024
+Last updated: November 16th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -16,19 +16,21 @@ ___
 ## Potential school district tax measures. Volunteers are likely needed for the pro/con committees for the Local Voters' Pamphlets (LVPs). 
 Note that the actual list of measures may not be known until the deadline of December 13th 2024.
 
-School districts (and all other taxing districts) planning to run tax measures on the February 11th 2025 election must submit their tax resolutions (description of their measures) and their lists of pro and con committee members to their 
+School districts (and all other taxing districts) planning to run tax measures on the February 11th 2025 election must submit their tax resolutions (descriptions of their measures) and their lists of pro and con committee members to their 
 respective county election's office by December 13th 2024.
 
-Pro and con statements are generally due 1 to 3 days after the resolution deadline - so approximately December 16th to the 18th. Pro and con statements will need to be submitted directly to the county elections office - not the school district. 
-After the pro and con statements are submitted, each committee will then have a chance to submit a rebuttal to the other committee's statement. Rebuttals are generally due 1 to 3 days after the pro/con statements deadline. The county elections 
-office will provide detailed instructions and deadlines to the committee volunteers.
+Pro and con statements (250 words max) are generally due 1 to 3 days after the resolution deadline - so approximately December 16th to the 18th, depending on the county. Pro and con statements will need to be submitted directly to the county elections 
+office - not the school district. 
+After the pro and con statements are submitted, each committee will then have a chance to submit a rebuttal to the other committee's statement. Rebuttals (75 words max) are generally due 1 to 3 days after the pro/con statements deadline. The county elections 
+office will provide detailed instructions and deadlines to the LVP committee volunteers.
 
-School districts are supposed to advertise and select both pro and con committee members (up to 3 volunteers on each committee) to give the pro and con statements for their own tax measures. School districts 
-readily find pro committee members (usually paid staff). But school districts rarely find con committee members (from their short duration advertising efforts often with limited financial information). The result is that the Local Voters' Pamphlets (LVPs) 
-only present the pro arguments.
+School districts are supposed to advertise for and select both pro and con committee members (up to 3 volunteers on each committee) to give the pro and con statements for their own tax measures. School districts 
+readily find pro committee members (usually paid staff). But school districts rarely find con committee members (from their short duration advertising efforts often with limited financial impact information). The result is that the Local Voters' Pamphlets (LVPs) 
+usually only present the pro arguments. On the deadline, December 13th 2024, if a school district fails to submit con committee member (or pro committee member) names, the county election's office reps will generally spend a business day or two to try 
+to find LVP committee members. 
 
-If you are interested in presenting the con (or the pro) argument for the LVP for one of the measures, please contact the school district and county elections office before the deadline, December 13th 2024. Pro and con committee members must reside in the school 
-district running the tax measure.
+If you are interested in presenting the con (or the pro) argument for the LVP for one of the tax measures, please contact the school district and the county elections office before the deadline, December 13th 2024. Pro and con committee members must 
+reside in the school district running the tax measure.
 
 Sortable list of potential school district tax measures for the February 11th 2025 election:
 
