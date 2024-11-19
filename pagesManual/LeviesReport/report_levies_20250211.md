@@ -4,7 +4,7 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: November 18th, 2024
+Last updated: November 19th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -38,9 +38,12 @@ reside in the school district running the tax measure.
 Several reasons to oppose school district tax measures include:
 - There should be no tax measures on the low-voter-turnout February elections. All tax measures should only be run on the high-voter-turnout November elections. 
 - The school district versions of taxpayer cost impacts are usually illogical, mathematically incorrect, and underestimate the true expected cost to property taxpayers - including renters. 
-See the [critique of each district's self-generated property taxpayer cost analysis from the November 2024 election.](costanalysiscritiques20241105)
-- There are 39 counties in WA. Only 2 counties (their county assessor's office) provide a Tax Transparency Tool (TTT) that tries to inform citizens of the cost impacts of tax measures their citizens are voting on. 
-Those 2 counties are King County and Spokane County. While well-intended, the problem is that both TTTs are inadequate and underestimate the cost impacts to taxpayers especially for 20+ year bonds. 
+See the [critique of each district's self-generated property taxpayer cost analysis from the November 2024 election.](costanalysiscritiques20241105) 
+- Voters are not voting on districts' guesses of future tax rates for their measures. We are voting on amounts in dollars that will be collected no matter what happens to assessed values of properties. That is what is meant by budget based. 
+The Proportional Obligation Factor (POF) method of estimating property future taxes for individuals for the proposed multi-year 
+tax measures should be used. Almost all school districts underestimate the tax impacts in what they present in their campaign materials.
+- There are 39 counties in WA. Only 2 counties (their county assessor's offices) provide a Tax Transparency Tool (TTT) that tries to inform citizens of the cost impacts of tax measures their citizens are voting on. 
+Those 2 counties are King County and Spokane County. While well-intentioned, the problem is that both TTTs are inadequate and underestimate the cost impacts to taxpayers especially for 20+ year bonds. 
 See the [critique of the county TTTs from the November 2024 election.](costanalysiscritiquescounties20241105)
 - We had the McCleary Decision with its resulting higher State School property taxes. There should be no local "Enrichment" Levies that many school districts still call EP&O Levies.
 
