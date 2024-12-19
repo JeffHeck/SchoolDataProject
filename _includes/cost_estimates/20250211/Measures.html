@@ -1,0 +1,89 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['table']});
+      google.charts.setOnLoadCallback(drawTable);
+
+      function drawTable() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'County');
+        data.addColumn('string', 'District');
+        data.addColumn('string', 'Measure Type');
+        data.addRows([
+          ['Asotin', 'Asotin-Anatone', 'Capital', ],
+          ['Asotin', 'Asotin-Anatone', 'Enrichment', ],
+          ['Benton', 'Kiona-Benton', 'Enrichment', ],
+          ['Chelan', 'Cascade', 'Capital', ],
+          ['Chelan', 'Cascade', 'Enrichment', ],
+          ['Chelan', 'Manson', 'Capital', ],
+          ['Chelan', 'Manson', 'Enrichment', ],
+          ['Chelan', 'Wenatchee', 'Enrichment', ],
+          ['Clark', 'Battle Ground', 'Enrichment', ],
+          ['Clark', 'Evergreen', 'Capital', ],
+          ['Clark', 'Evergreen', 'Enrichment', ],
+          ['Clark', 'Hockingson', 'Bond', ],
+          ['Clark', 'La Center', 'Enrichment', ],
+          ['Clark', 'Mount Pleasant', 'Enrichment', ],
+          ['Clark', 'Ridgefield', 'Capital', ],
+          ['Clark', 'Ridgefield', 'Enrichment', ],
+          ['Clark', 'Vancouver', 'Capital', ],
+          ['Cowlitz', 'Castle Rock', 'Enrichment', ],
+          ['Ferry', 'Inchelium', 'Enrichment', ],
+          ['Grant', 'Ephrata', 'Enrichment', ],
+          ['Grant', 'Grand Coulee Dam', 'Enrichment', ],
+          ['Grant', 'Moses Lake', 'Enrichment', ],
+          ['Grant', 'Odessa', 'Capital', ],
+          ['Grant', 'Odessa', 'Enrichment', ],
+          ['Grant', 'Wahluke', 'Capital', ],
+          ['Island', 'Oak Harbor', 'Enrichment', ],
+          ['Jefferson', 'Chimacum', 'Enrichment', ],
+          ['Jefferson', 'Port Townsend', 'Capital', ],
+          ['Jefferson', 'Port Townsend', 'Enrichment', ],
+          ['Jefferson', 'Quillayute Valley', 'Enrichment', ],
+          ['Jefferson', 'Sequim', 'Bond', ],
+          ['Jefferson', 'Sequim', 'Enrichment', ],
+          ['King', 'Issaquah', 'Bond', ],
+          ['King', 'Seattle', 'Capital', ],
+          ['King', 'Seattle', 'Enrichment', ],
+          ['Kitsap', 'South Kitsap', 'Enrichment', ],
+          ['Kittitas', 'Cle Elum-Roslyn', 'Capital', ],
+          ['Kittitas', 'Damman', 'Enrichment', ],
+          ['Kittitas', 'Thorp', 'Bus', ],
+          ['Lewis', 'Evaline', 'Enrichment', ],
+          ['Lewis', 'Napavine', 'Enrichment', ],
+          ['Lewis', 'Onalaska', 'Enrichment', ],
+          ['Lewis', 'Pe Ell', 'Enrichment', ],
+          ['Lewis', 'White Pass', 'Enrichment', ],
+          ['Lewis', 'Winlock', 'Enrichment', ],
+          ['Lincoln', 'Odessa', 'Capital', ],
+          ['Lincoln', 'Odessa', 'Enrichment', ],
+          ['Lincoln', 'Sprague', 'Enrichment', ],
+          ['Mason', 'Hood Canal', 'Capital', ],
+          ['Mason', 'Hood Canal', 'Enrichment', ],
+          ['Mason', 'North Mason', 'Enrichment', ],
+          ['Pierce', 'Puyallup', 'Bond', ],
+          ['Skagit', 'La Conner', 'Enrichment', ],
+          ['Snohomish', 'Arlington', 'Capital', ],
+          ['Snohomish', 'Lake Stevens', 'Bond', ],
+          ['Stevens', 'Mary Walker', 'Enrichment', ],
+          ['Stevens', 'Summit Valley', 'Enrichment', ],
+          ['Stevens', 'Valley', 'Bond', ],
+          ['Thurston', 'Yelm', 'Enrichment', ],
+          ['Walla Walla', 'Prescott', 'Capital', ],
+          ['Walla Walla', 'Prescott', 'Enrichment', ],
+          ['Walla Walla', 'Touchet', 'Enrichment', ],
+          ['Yakima', 'Toppenish', 'Enrichment', ],
+          ['Yakima', 'Wahluke', 'Capital', ],
+        ]);
+
+        var table = new google.visualization.Table(document.getElementById('table_div'));
+
+        table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
+      }
+    </script>
+  </head>
+  <body>
+    <div id="table_div"></div>
+  </body>
+</html>

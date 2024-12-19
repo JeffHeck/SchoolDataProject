@@ -4,7 +4,7 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: November 19th, 2024
+Last updated: December 19th, 2024
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -47,6 +47,6 @@ Those 2 counties are King County and Spokane County. While well-intentioned, the
 See the [critique of the county TTTs from the November 2024 election.](costanalysiscritiquescounties20241105)
 - We had the McCleary Decision with its resulting higher State School property taxes. There should be no local "Enrichment" Levies that many school districts still call EP&O Levies.
 
-Sortable list of potential school district tax measures for the February 11th 2025 election:
+Sortable list of known school district tax measures for the February 11th 2025 election:
 
-{% include cost_estimates/20250211/PotentialMeasures.html %}
+{% include cost_estimates/20250211/Measures.html %}
