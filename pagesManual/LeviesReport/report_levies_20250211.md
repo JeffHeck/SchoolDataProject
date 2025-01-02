@@ -4,49 +4,132 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: December 19th, 2024
+Last updated: January 2nd, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
-- Potential school district tax measures. Volunteers are likely needed for the pro/con committees for the Local Voters' Pamphlets (LVPs).
+- Summary
+    - Overview
+- Measure details
+	- All measures (bonds, enrichment levies, capital levies) by county
+- Calculator methodology
+    - POF proof
 
 ___
 
-## Potential school district tax measures. Volunteers are likely needed for the pro/con committees for the Local Voters' Pamphlets (LVPs). 
-Note that the actual list of measures may not be known until the deadline of December 13th 2024. Many school districts procrastinate and wait until the last day to submit their resolutions let alone their lists of pro/con committee volunteers.
+## Summary
+### Overview
+Listed below are the the types and counts for the tax measures for the February 13th 2024 election that have been analyzed to date:
+- Bonds: 6
+- Enrichment Levies: 41
+- Capital / Tech Levies: 17
 
-School districts (and all other taxing districts) planning to run tax measures on the February 11th 2025 election must submit their tax resolutions (descriptions of their measures) and their lists of pro and con committee members to their 
-respective county election's office by December 13th 2024.
+___
 
-Pro and con statements (250 words max) are generally due 1 to 3 days after the resolution deadline - so approximately December 16th to the 18th, depending on the county. Pro and con statements will need to be submitted directly to the county elections 
-office - not the school district. 
-After the pro and con statements are submitted, each committee will then have a chance to submit a rebuttal to the other committee's statement. Rebuttals (75 words max) are generally due 1 to 3 days after the pro/con statements deadline. The county elections 
-office will provide detailed instructions and deadlines to the LVP committee volunteers.
+## Measure details
+### Tax measures by county
 
-School districts are supposed to advertise for and select both pro and con committee members (up to 3 volunteers on each committee) to give the pro and con statements for their own tax measures. School districts 
-readily find pro committee members (usually paid staff). But school districts rarely find con committee members (from their short duration advertising efforts often with limited financial impact information). The result is that the Local Voters' Pamphlets (LVPs) 
-usually only present the pro arguments. Occasionally, a proponent for the tax measure signs up through the district to be the con committee and either doesn't submit anything or unapologetically submits another pro statement. 
-So in that case there are 2 pro statements in the LVP for voters to read. This is a mockery of the democratic process. Citizens/taxpayers deserve to be presented with both sides of the issues.
+[King](kingcountymeasures20250211)
 
-On the deadline, December 13th 2024, if a school district fails to submit con committee member names (or pro committee member names), the county election's office reps will generally spend one or two business days to try 
-to find LVP committee members. 
+___
 
-If you are interested in presenting the con (or the pro) argument for the LVP for one of the tax measures, please contact the school district and the county elections office before the deadline, December 13th 2024. Pro and con committee members must 
-reside in the school district running the tax measure.
 
-Several reasons to oppose school district tax measures include:
-- There should be no tax measures on the low-voter-turnout February elections. All tax measures should only be run on the high-voter-turnout November elections. 
-- The school district versions of taxpayer cost impacts are usually illogical, mathematically incorrect, and underestimate the true expected cost to property taxpayers - including renters. 
-See the [critique of each district's self-generated property taxpayer cost analysis from the November 2024 election.](costanalysiscritiques20241105) 
-- Voters are not voting on districts' guesses of future tax rates for their measures. We are voting on amounts in dollars that will be collected no matter what happens to assessed values of properties. That is what is meant by budget based. 
-The Proportional Obligation Factor (POF) method of estimating future property taxes for property owners and, indirectly, renters for the proposed multi-year 
-tax measures should be used. Almost all school districts unwittingly underestimate the tax impacts in what they present in their campaign materials.
-- There are 39 counties in WA. Only 2 counties (their county assessor's offices) provide a Tax Transparency Tool (TTT) that tries to inform citizens of the cost impacts of tax measures their citizens are voting on. 
-Those 2 counties are King County and Spokane County. While well-intentioned, the problem is that both TTTs are inadequate and underestimate the cost impacts to taxpayers especially for 20+ year bonds. 
-See the [critique of the county TTTs from the November 2024 election.](costanalysiscritiquescounties20241105)
-- We had the McCleary Decision with its resulting higher State School property taxes. There should be no local "Enrichment" Levies that many school districts still call EP&O Levies.
+## Calculator methodology
 
-Sortable list of known school district tax measures for the February 11th 2025 election:
+School district reps often say they need to correctly guess the future 
+Total AV for their district's tax area for each of the future years of their tax measures. Their assumption is incorrect and ends up misleading voters/taxpayers. 
+And district reps' incorrect logic also usually leads to underestimating the true costs of their measures to taxpayers.
 
-{% include cost_estimates/20250211/Measures.html %}
+In contrast, for the property tax impact estimate calculators on this website, the author uses a Proportional Obligation Factor (POF) method. 
+
+Using the 2024 Total District Assessed Value (AV), the POF of the example property was calculated:
+
+POF = (2024 Example Property AV) / (2024 Total District AV)
+
+The POF was then multiplied by the total amount that the district expects to collect each year for the duration of the measure in question (bond or levy) 
+to obtain the estimated taxes for the example property for the measure.
+
+Using this methodology, it doesn’t matter if all properties increase in AV by 20% or all decrease in AV by 20% (which could happen in a recession). 
+The tax collection schedule shown in the charts and tables would still apply for the example property. The example property's proportion of obligation for the bond debt 
+or levy remains the same over the bond payback or levy period. Tax rates, however, would change. If all properties increase in AV by 20%, the tax rate for the measures would 
+decrease by approximately 20%. If all properties decrease in AV by 20%, the tax rate for the measures would increase by approximately 20%.
+
+Note for the POF annual change parameter for the enhanced calculator versions:
+
+For properties that are increasing in POF (Proportional Obligation Factor), a positive POF annual change will give more accurate results. 
+For properties that are decreasing in POF due to rapid new construction or for other reasons, a negative POF annual change will give more accurate results. 
+However a value of 0 will generally be slightly conservative and will generate estimates that are usually within 5% of actual costs. 
+
+It is the author's opinion that county assessors (in all 39 WA counties), using sound accounting principles, should be providing these 
+calculators for their constituents. 
+
+Example calculator calculation:
+
+Centralia SD for their 2023 Enrichment Levy tax measure
+
+Total District AV for 2023: $4,131,948,094
+
+Example property's AV for 2023: $350,000
+
+POF for 2023 assumed to be the same for years 2023 - 2025: $350,000 / $4,131,948,094 = 8.471E-05
+
+Enrichment Levy amount to collect in 2024: $6,700,000
+
+Example property's 2024 tax for the Enrichment Levy: POF * (Enrichment Levy amount to collect in 2024) = 8.471E-05 * $6,700,000 = $568
+
+Similarly for the year 2025
+
+Enrichment Levy amount to collect in 2025: $7,600,000
+
+2025 tax = 8.471E-05 * $7,600,000 = $644
+
+
+### POF proof
+
+For any particular future year:
+
+(1) {Tax For An Individual Property For The Year} = {Tax Rate For The Year} X {Property’s AV For The Year}
+
+(2) {Tax Rate For The Year} = {Known Total Tax To Collect For The Year} / {Total AV For The Year}
+
+The apparent problem is that the {Property’s AV For The Year} is not known and the {Total AV For The Year} is not known. 
+That's 2 unknowns. But we have 2 independent equations. 2 equations, 2 unknowns. Algebra to the rescue.
+
+We can substitute {Tax Rate For The Year} from (2) into (1)
+
+(1a)  {Tax For An Individual Property For The Year} = {Known Total Tax To Collect For The Year} / {Total AV For The Year} X {Property’s AV For The Year}
+
+But {POF} = {Property’s AV For The Year} / {Total AV For The Year} 
+
+Therefore:
+
+(1b) {Tax For An Individual Property For The Year} = {Known Total Tax to Collect For The Year} X {POF}
+
+POF stays relatively constant for an individual property over many years and regardless of how properties values are rising or falling. 
+The POF for an individual property can be accurately calculated for the current year and used for future years.
+
+Individual properties' AVs and therefore Total AVs substantially fluctuate from year to year.
+
+This is why even if guesstimated future Total AVs (and therefore future guesstimated tax rates) were accurate, they are not necessary. 
+And worse, future guesstimated tax rates can be set to almost anything by just adjusting the guesses for future Total AVs. 
+Select a higher future Total AV growth, then the future tax rate will be lower. Select a lower future Total AV growth, then 
+the future tax rate will be higher. However, the POF for an individual property does not change as property AVs rise or fall. 
+School districts and other taxing districts should be prohibited from stating their guesstimated future tax rates on their tax measure resolutions 
+and in their campaign materials. 
+That practice misleads voters. School districts, of all institutions, should teach and practice proper logic and mathematics, accurate 
+financial analysis, and ethical behavior. 
+
+Voters/taxpayers are voting on amounts in dollars - not guesstimated, inaccurate, future tax rates. 
+This is why TILA (Truth In Lending Act) rules should apply to school district levies and bonds.
+
+If school districts still want to show future rates for their new measures, they should then assume no change in Total AV from the current year and THEN calculate their future rates. Citizens can then calculate their 
+future levy amounts based on the value of their properties' current year AV. 
+
+See the Issaquah SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
+
+[Link to the Issaquah SD example](table_issaquah_bond_20241105)
+
+
+___
+
