@@ -128,7 +128,7 @@ future levy amounts based on the value of their properties' current year AV.
 
 See the Issaquah SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
 
-[Link to the Issaquah SD example](table_issaquah_bond_20241105)
+[Link to the Issaquah SD example](table_issaquah_bond_20250211)
 
 
 ___
