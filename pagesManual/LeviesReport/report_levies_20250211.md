@@ -30,6 +30,8 @@ ___
 ## Measure details
 ### Tax measures by county
 
+[Clark](clarkcountymeasures20250211)
+
 [King](kingcountymeasures20250211)
 
 ___
