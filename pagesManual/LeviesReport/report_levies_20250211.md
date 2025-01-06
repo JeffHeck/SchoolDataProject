@@ -4,7 +4,7 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: January 2nd, 2025
+Last updated: January 6th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -28,11 +28,13 @@ Listed below are the the types and counts for the tax measures for the February 
 ___
 
 ## Measure details
-### Tax measures by county
+### Tax measures that have been analyzed to date by county
 
 [Clark](clarkcountymeasures20250211)
 
 [King](kingcountymeasures20250211)
+
+[Snohomish](snohomishcountymeasures20250211)
 
 ___
 
