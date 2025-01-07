@@ -15,15 +15,15 @@ table, th, td {
 	<!-- var chart; -->
 	var dataParcel;
 	
-	totalLevyAV = 2684453000.0;
-	sampleParcelAV = 500000.0;
+	totalLevyAV = 2684453000;
+	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 140168000.0;
+	totalLevyCost = 140168000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 19.0;
-	levyStartYearOffset = 1;
+	levyYears = 19;
+	levyStartYearOffset = 2;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// Total AV Annual Change Percent
 	totalAVChange0 = 0.0;
@@ -66,26 +66,27 @@ table, th, td {
 		data.addColumn('number', 'Example Property\'s POF Change');
 
 		data.addRows([
-				['2024', 0, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2026', 3871000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2027', 4043000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2028', 4226000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2029', 4425000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2030', 4624000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2031', 4827000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2032', 5049000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2033', 5272000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2034', 5513000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2035', 8351000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2036', 8685000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2037', 9035000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2038', 9396000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2039', 9774000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2040', 10162000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2041', 10569000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2042', 10995000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2043', 11434000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2044', 9917000, 2684453000.0, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+				['2024', 0, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2025', 0, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2026', 3871000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2027', 4043000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2028', 4226000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2029', 4425000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2030', 4624000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2031', 4827000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2032', 5049000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2033', 5272000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2034', 5513000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2035', 8351000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2036', 8685000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2037', 9035000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2038', 9396000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2039', 9774000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2040', 10162000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2041', 10569000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2042', 10995000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2043', 11434000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2044', 9917000, 2684453000, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
 
 		]);
 		
@@ -221,7 +222,7 @@ table, th, td {
 		table_data.addRows([
 			['Total new bond cost (bond principal, bond interest and fees)', totalNewBondTax],
 			['Total cost for the owner of the example property', totalLevyCostParcel],
-			['Average cost per year for 19.0 years for the owner of the example property', averageTotalLevyCostParcel],
+			['Average cost per year for 19 years for the owner of the example property', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -440,12 +441,12 @@ table, th, td {
   <p></p>
   <H3>Output (Results)</H3>
   <p>Estimated obligations for the example property</P>
-  <div id="table_output_general_div" style="width:1200px; height: 646.0px;"></div>
+  <div id="table_output_general_div" style="width:1200px; height: 673px;"></div>
   <div id="table_output_div" style="width:2000px; height: 150px;"></div>
   <H3>Usage</H3>
   <p>1) Select your property's 2024 Tax Year AV.</p>
-  <p>2) Select your property's guesstimated annual AV percent change for the next 19.0 years.</p>
-  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 19.0 years. 
+  <p>2) Select your property's guesstimated annual AV percent change for the next 19 years.</p>
+  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 19 years. 
   This should usually be set to the same value assumed for parameter 2 as most properties rise and fall in AV at the same pace. 
   An example where that might not be the case is if your property has more land than the average property since land tends to appreciate faster than structures.</p>
   <p>4) Select the guesstimated value for new construction as a percent of the previous year's Total AV.</p>

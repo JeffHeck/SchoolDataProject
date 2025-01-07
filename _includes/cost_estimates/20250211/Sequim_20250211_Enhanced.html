@@ -11,18 +11,18 @@
 	//var data;
 	var dataParcel;
 	
-	totalBondAV = 48680556000.0;
-	sampleParcelAV = 1000000.0;
-	sampleParcelAVMin = 100000.0;
-	sampleParcelAVMax = 2000000.0;
-	totalBondPrincipal = 231600000.0;
-	totalBondInterest = 79472999.0;
+	totalBondAV = 8744405000;
+	sampleParcelAV = 500000;
+	sampleParcelAVMin = 100000;
+	sampleParcelAVMax = 2000000;
+	totalBondPrincipal = 145950000;
+	totalBondInterest = 102417000;
 	totalBondCost = totalBondPrincipal + totalBondInterest;
 	sampleParcelPOF = sampleParcelAV / totalBondAV;
 	totalBondCostParcel = 0;
 	totalBondPrincipalParcel = 0;
 	totalBondInterestParcel = 0;
-	bondYears = 11.0;
+	bondYears = 21;
 	averageTotalBondCostParcel = 0;
 	// Correction factor for February elections
 	pofYear = 1
@@ -39,17 +39,27 @@
 		data.addColumn('number', 'Interest + Fees');
 
 		data.addRows([
-			['2025', 1975000.0, 0.0],
-			['2026', 334391.0, 3614609.0],
-			['2027', 4203496.0, 6976504.0],
-			['2028', 1680699.0, 10130301.0],
-			['2029', 2989523.0, 10055477.0],
-			['2030', 3576115.0, 9923885.0],
-			['2031', 1587210.0, 9934790.0],
-			['2032', 5597485.0, 9864515.0],
-			['2033', 32097478.0, 9452522.0],
-			['2034', 136303427.0, 7942573.0],
-			['2035', 41255176.0, 1577823.0],
+			['2026', 2865245.0, 4801755.0],
+			['2027', 1167703.0, 7093297.0],
+			['2028', 2137897.0, 7036103.0],
+			['2029', 2566134.0, 6930866.0],
+			['2030', 3024536.0, 6804464.0],
+			['2031', 3519619.0, 6655381.0],
+			['2032', 4046159.0, 6481841.0],
+			['2033', 4616773.0, 6282227.0],
+			['2034', 5227607.0, 6054393.0],
+			['2035', 5861430.0, 5812570.0],
+			['2036', 6422409.0, 5541591.0],
+			['2037', 7020216.0, 5244784.0],
+			['2038', 7650543.0, 4920457.0],
+			['2039', 8335282.0, 4552718.0],
+			['2040', 9070202.0, 4139798.0],
+			['2041', 9849565.0, 3690435.0],
+			['2042', 10676561.0, 3202439.0],
+			['2043', 11552550.0, 2673450.0],
+			['2044', 12479001.0, 2100999.0],
+			['2045', 13456567.0, 1485433.0],
+			['2046', 14404001.0, 911999.0],
 
 		]);
 
@@ -103,7 +113,7 @@
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
 			['Total cost', totalBondCostParcel],
-			['Average cost per year for 11.0 years', averageTotalBondCostParcel],
+			['Average cost per year for 21 years', averageTotalBondCostParcel],
 			['Total principal cost', totalBondPrincipalParcel],
 			['Total interest + fees cost', totalBondInterestParcel],
 		]);
@@ -198,7 +208,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the February 11th 2025 bond measure proposed by the Issaquah SD </H2>
+  <H2>Property tax impact estimate calculator for the February 11th 2025 bond measure proposed by the Sequim SD </H2>
   <p>Created by the author independently from and not associated with the taxing district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>

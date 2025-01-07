@@ -34,8 +34,6 @@ ___
 
 [King](kingcountymeasures20250211)
 
-[Snohomish](snohomishcountymeasures20250211)
-
 ___
 
 
