@@ -6,6 +6,37 @@ permalink: clarkcountymeasures20250211
 
 ___
 
+### Battle Ground SD
+
+![Battle Ground SD enrichment levy totals chart](pagesManual/LeviesReport/20250211/BattleGroundEnrichment.png "Battle Ground SD enrichment levy totals chart")
+![Battle Ground SD enrichment levy example parcel chart](pagesManual/LeviesReport/20250211/BattleGroundEnrichmentParcel.png "Battle Ground SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_battle_ground_enrichment_20250211_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_battle_ground_enrichment_levy_20250211){:target="_blank" rel="noopener"}
+
+___
+
+### Evergreen SD
+
+![Evergreen SD capital levy totals chart](pagesManual/LeviesReport/20250211/EvergreenCapital.png "Evergreen SD capital levy totals chart")
+![Evergreen SD capital levy example parcel chart](pagesManual/LeviesReport/20250211/EvergreenCapitalParcel.png "Evergreen SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_evergreen_capital_20250211_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_evergreen_capital_levy_20250211){:target="_blank" rel="noopener"}
+
+___
+
+
+![Evergreen SD enrichment levy totals chart](pagesManual/LeviesReport/20250211/EvergreenEnrichment.png "Evergreen SD enrichment levy totals chart")
+![Evergreen SD enrichment levy example parcel chart](pagesManual/LeviesReport/20250211/EvergreenEnrichmentParcel.png "Evergreen SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_evergreen_enrichment_20250211_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_evergreen_enrichment_levy_20250211){:target="_blank" rel="noopener"}
+
+___
 
 ### Hockinson SD
 
@@ -16,6 +47,30 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_hockinson_bond_20250211){:target="_blank" rel="noopener"}
 
+
+___
+
+### La Center SD
+
+![La Center SD enrichment levy totals chart](pagesManual/LeviesReport/20250211/LaCenterEnrichment.png "La Center SD enrichment levy totals chart")
+![La Center SD enrichment levy example parcel chart](pagesManual/LeviesReport/20250211/LaCenterEnrichmentParcel.png "La Center SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_la_center_enrichment_20250211_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_la_center_enrichment_levy_20250211){:target="_blank" rel="noopener"}
+
+___
+
+### Mount Pleasant SD
+
+![Mount Pleasant SD enrichment levy totals chart](pagesManual/LeviesReport/20250211/MountPleasantEnrichment.png "Mount Pleasant SD enrichment levy totals chart")
+![Mount Pleasant SD enrichment levy example parcel chart](pagesManual/LeviesReport/20250211/MountPleasantEnrichmentParcel.png "Mount Pleasant SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_mount_pleasant_enrichment_20250211_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_mount_pleasant_enrichment_levy_20250211){:target="_blank" rel="noopener"}
+
+___
 
 ### Ridgefield SD
 
@@ -36,7 +91,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_ridgefield_enrichment_levy_20250211){:target="_blank" rel="noopener"}
 
-
 ___
 
 ### Vancouver SD
@@ -47,4 +101,6 @@ ___
 [Link to the interactive calculator](calculator_vancouver_capital_20250211_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_vancouver_capital_levy_20250211){:target="_blank" rel="noopener"}
+
+___
 
