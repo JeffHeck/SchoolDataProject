@@ -61,15 +61,15 @@ ___
 ## Enrichment levy summary
 
 ### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
-![Enrichment levy totals, group 1](pagesManual/LeviesReport/20250211/LevySummaryTotals-1.png "Levy totals")
+![Enrichment levy totals group 1](pagesManual/LeviesReport/20250211/LevySummaryTotals-1.png "Levy totals")
 
-![Enrichment levy totals, group 2](pagesManual/LeviesReport/20250211/LevySummaryTotals-2.png "Levy totals")
+![Enrichment levy totals group 2](pagesManual/LeviesReport/20250211/LevySummaryTotals-2.png "Levy totals")
 
 
 ### Average annual enrichment levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
-![Average annual enrichment levy cost for example properties, group 1](pagesManual/LeviesReport/20250211/LevySummaryParcels-1.png "Levy average annual cost")
+![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20250211/LevySummaryParcels-1.png "Levy average annual cost")
 
-![Average annual enrichment levy cost for example properties, group 2](pagesManual/LeviesReport/20250211/LevySummaryParcels-2.png "Levy average annual cost")
+![Average annual enrichment levy cost for example properties group 2](pagesManual/LeviesReport/20250211/LevySummaryParcels-2.png "Levy average annual cost")
 
 ___
 
@@ -83,6 +83,7 @@ ___
 
 
 ## Measure details
+
 ### Tax measures that have been analyzed to date by county
 
 [Asotin](asotincountymeasures20250211)
