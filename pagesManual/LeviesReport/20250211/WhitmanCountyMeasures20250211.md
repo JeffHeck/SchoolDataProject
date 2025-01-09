@@ -6,6 +6,17 @@ permalink: whitmancountymeasures20250211
 
 ___
 
+### Colton SD
+
+![Colton SD enrichment levy totals chart](pagesManual/LeviesReport/20250211/ColtonEnrichment.png "Colton SD enrichment levy totals chart")
+![Colton SD enrichment levy example parcel chart](pagesManual/LeviesReport/20250211/ColtonEnrichmentParcel.png "Colton SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_colton_enrichment_20250211_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_colton_enrichment_levy_20250211){:target="_blank" rel="noopener"}
+
+___
+
 ### Garfield SD
 
 ![Garfield SD capital levy totals chart](pagesManual/LeviesReport/20250211/GarfieldCapital.png "Garfield SD capital levy totals chart")
