@@ -11,18 +11,18 @@
 	//var data;
 	var dataParcel;
 	
-	totalBondAV = 11224931000.0;
-	sampleParcelAV = 625000.0;
-	sampleParcelAVMin = 100000.0;
-	sampleParcelAVMax = 2000000.0;
-	totalBondPrincipal = 314000000.0;
-	totalBondInterest = 273693000.0;
+	totalBondAV = 11224931000;
+	sampleParcelAV = 625000;
+	sampleParcelAVMin = 100000;
+	sampleParcelAVMax = 2000000;
+	totalBondPrincipal = 314000000;
+	totalBondInterest = 273693000;
 	totalBondCost = totalBondPrincipal + totalBondInterest;
 	sampleParcelPOF = sampleParcelAV / totalBondAV;
 	totalBondCostParcel = 0;
 	totalBondPrincipalParcel = 0;
 	totalBondInterestParcel = 0;
-	bondYears = 23.0;
+	bondYears = 23;
 	averageTotalBondCostParcel = 0;
 	// Correction factor for February elections
 	pofYear = 1
@@ -52,16 +52,16 @@
 			['2036', 11420452.0, 15458548.0],
 			['2037', 12798266.0, 14885734.0],
 			['2038', 14268032.0, 14243968.0],
-			['2039', 19337673.0, 10031327.0],
-			['2040', 21008890.0, 9243110.0],
-			['2041', 22787669.0, 8371331.0],
-			['2042', 24687825.0, 7407175.0],
-			['2043', 26745570.0, 6311430.0],
-			['2044', 28936188.0, 5108812.0],
-			['2045', 31275752.0, 3792248.0],
-			['2046', 33394701.0, 2725299.0],
-			['2047', 23317589.0, 13886411.0],
-			['2048', 18319000.0, 20000000.0],
+			['2039', 15840380.0, 13528620.0],
+			['2040', 17517416.0, 12734584.0],
+			['2041', 19302375.0, 11856625.0],
+			['2042', 21209096.0, 10885904.0],
+			['2043', 23273813.0, 9783187.0],
+			['2044', 25471836.0, 8573164.0],
+			['2045', 27819265.0, 7248735.0],
+			['2046', 30343279.0, 5776721.0],
+			['2047', 32998433.0, 4205567.0],
+			['2048', 36034964.0, 2284036.0],
 
 		]);
 
@@ -115,7 +115,7 @@
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
 			['Total cost', totalBondCostParcel],
-			['Average cost per year for 23.0 years', averageTotalBondCostParcel],
+			['Average cost per year for 23 years', averageTotalBondCostParcel],
 			['Total principal cost', totalBondPrincipalParcel],
 			['Total interest + fees cost', totalBondInterestParcel],
 		]);

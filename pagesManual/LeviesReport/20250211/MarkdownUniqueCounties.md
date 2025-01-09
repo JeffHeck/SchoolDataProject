@@ -4,6 +4,8 @@
 
 [Chelan](chelancountymeasures20250211)
 
+[Clallam](clallamcountymeasures20250211)
+
 [Clark](clarkcountymeasures20250211)
 
 [Cowlitz](cowlitzcountymeasures20250211)
@@ -34,11 +36,15 @@
 
 [Snohomish](snohomishcountymeasures20250211)
 
+[Spokane](spokanecountymeasures20250211)
+
 [Stevens](stevenscountymeasures20250211)
 
 [Thurston](thurstoncountymeasures20250211)
 
 [Walla Walla](wallawallacountymeasures20250211)
+
+[Whitman](whitmancountymeasures20250211)
 
 [Yakima](yakimacountymeasures20250211)
 

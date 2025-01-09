@@ -4,7 +4,7 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: January 7th, 2025
+Last updated: January 8th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -31,8 +31,8 @@ ___
 ### Overview
 Listed below are the the types and counts for the tax measures for the February 13th 2024 election that have been analyzed to date:
 - Bonds: 6
-- Enrichment Levies: 39
-- Capital / Tech Levies: 15
+- Enrichment Levies: 44
+- Capital / Tech Levies: 19
 
 ___
 
@@ -91,6 +91,8 @@ ___
 
 [Chelan](chelancountymeasures20250211)
 
+[Clallam](clallamcountymeasures20250211)
+
 [Clark](clarkcountymeasures20250211)
 
 [Cowlitz](cowlitzcountymeasures20250211)
@@ -121,11 +123,15 @@ ___
 
 [Snohomish](snohomishcountymeasures20250211)
 
+[Spokane](spokanecountymeasures20250211)
+
 [Stevens](stevenscountymeasures20250211)
 
 [Thurston](thurstoncountymeasures20250211)
 
 [Walla Walla](wallawallacountymeasures20250211)
+
+[Whitman](whitmancountymeasures20250211)
 
 [Yakima](yakimacountymeasures20250211)
 

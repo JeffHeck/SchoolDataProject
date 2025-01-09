@@ -11,18 +11,18 @@
 	//var data;
 	var dataParcel;
 	
-	totalBondAV = 2684453000.0;
-	sampleParcelAV = 500000.0;
-	sampleParcelAVMin = 100000.0;
-	sampleParcelAVMax = 2000000.0;
-	totalBondPrincipal = 87750000.0;
-	totalBondInterest = 52418000.0;
+	totalBondAV = 2684453000;
+	sampleParcelAV = 500000;
+	sampleParcelAVMin = 100000;
+	sampleParcelAVMax = 2000000;
+	totalBondPrincipal = 87750000;
+	totalBondInterest = 52418000;
 	totalBondCost = totalBondPrincipal + totalBondInterest;
 	sampleParcelPOF = sampleParcelAV / totalBondAV;
 	totalBondCostParcel = 0;
 	totalBondPrincipalParcel = 0;
 	totalBondInterestParcel = 0;
-	bondYears = 19.0;
+	bondYears = 19;
 	averageTotalBondCostParcel = 0;
 	// Correction factor for February elections
 	pofYear = 1
@@ -111,7 +111,7 @@
 		table_data.addColumn('number', 'Value');
 		table_data.addRows([
 			['Total cost', totalBondCostParcel],
-			['Average cost per year for 19.0 years', averageTotalBondCostParcel],
+			['Average cost per year for 19 years', averageTotalBondCostParcel],
 			['Total principal cost', totalBondPrincipalParcel],
 			['Total interest + fees cost', totalBondInterestParcel],
 		]);
