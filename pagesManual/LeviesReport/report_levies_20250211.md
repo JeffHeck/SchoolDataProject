@@ -30,7 +30,7 @@ ___
 
 ## Summary
 ### Overview
-Listed below are the the types and counts for the tax measures for the February 13th 2024 election that have been analyzed to date:
+Listed below are the the types and counts for the tax measures for the February 11th 2025 election that have been analyzed to date:
 - Bonds: 6
 - Enrichment Levies: 45
 - Capital / Tech Levies: 19
