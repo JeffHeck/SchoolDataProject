@@ -17,6 +17,7 @@ As analyses are completed, summary results will be provided on this page.
 - Enrichment levy summary
     - Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
     - Average annual enrichment levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
+	- Ranking of the proposed enrichment levies by their percent increases over their previous enrichment levies
 - Capital levy summary
     - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
     - Average annual capital levy cost to owners of properties with 2024 assessed values (AVs) of $500,000- Measure details
@@ -69,6 +70,24 @@ ___
 ![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20250211/LevySummaryParcels-1.png "Levy average annual cost")
 
 ![Average annual enrichment levy cost for example properties group 2](pagesManual/LeviesReport/20250211/LevySummaryParcels-2.png "Levy average annual cost")
+
+### Ranking of the proposed enrichment levies by their percent increases over their previous enrichment levies
+![Enrichment levy increases over the previous enrichment levies group 1](pagesManual/LeviesReport/20250211/LevyEnrichmentIncreases-1.png "Levy increases")
+
+![Enrichment levy increases over the previous enrichment levies group 2](pagesManual/LeviesReport/20250211/LevyEnrichmentIncreases-2.png "Levy increases")
+
+2 examples of enrichment levies with the lowest dollar increases in percent
+
+![Garfield SD](pagesManual/LeviesReport/20250211/GarfieldEnrichment.png "Garfield")
+
+![Odessa SD](pagesManual/LeviesReport/20250211/OdessaEnrichment.png "Odessa")
+
+
+2 examples of enrichment levies with nearly the highest dollar increases in percent
+
+![Toppenish SD](pagesManual/LeviesReport/20250211/ToppenishEnrichment.png "Toppenish")
+
+![Quillayute Valley SD](pagesManual/LeviesReport/20250211/QuillayuteValleyEnrichment.png "Quillayute Valley")
 
 ___
 
