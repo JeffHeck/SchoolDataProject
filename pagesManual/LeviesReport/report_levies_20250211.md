@@ -56,6 +56,7 @@ LVP pro/con statement statistics by county
 ![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20250211/CountyLVPCon.png "LVP Con Statements")
 
 Note: The number of school district tax measures for each county is shown in parentheses.
+
 ___
 
 ## Bond summary
