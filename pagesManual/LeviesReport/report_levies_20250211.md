@@ -46,7 +46,7 @@ Listed below are the the types and counts for the tax measures for the February 
 
 - Enrichment, capital and tech levies
     - Number of levies =  64
-    - Number of levies with pro statements =  43
+    - Number of levies with pro statements =  44
     - Number of levies with con statements =  16
 
 LVP pro/con statement statistics by county
