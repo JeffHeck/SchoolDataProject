@@ -4,13 +4,14 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: January 9th, 2025
+Last updated: January 13th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
     - Overview
+    - Local voters' pamphlet (LVP) statistics
 - Bond summary
     - Total bond cost to local taxpayers
 	- Total bond cost to owners of properties with 2024 assessed values of $500,000
@@ -29,12 +30,32 @@ As analyses are completed, summary results will be provided on this page.
 ___
 
 ## Summary
+
 ### Overview
 Listed below are the the types and counts for the tax measures for the February 11th 2025 election that have been analyzed to date:
 - Bonds: 6
 - Enrichment Levies: 45
 - Capital / Tech Levies: 19
 
+### Local voters' pamphlet (LVP) statistics
+- Bonds
+    - Number of bonds =  6
+    - Number of bonds with pro statements =  6
+    - Number of bonds with con statements =  2
+    - Number of bonds with phony con statements =  1
+
+- Enrichment, capital and tech levies
+    - Number of levies =  64
+    - Number of levies with pro statements =  43
+    - Number of levies with con statements =  16
+
+LVP pro/con statement statistics by county
+
+![Percent of tax measures with LVP pro statements by county](pagesManual/LeviesReport/20250211/CountyLVPPro.png "LVP Pro Statements")
+
+![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20250211/CountyLVPCon.png "LVP Con Statements")
+
+Note: The number of school district tax measures for each county is shown in parentheses.
 ___
 
 ## Bond summary
