@@ -21,7 +21,7 @@ As analyses are completed, summary results will be provided on this page.
 	- Ranking of the proposed enrichment levies by their percent increases over their previous enrichment levies
 - Capital levy summary
     - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
-    - Average annual capital levy cost to owners of properties with 2024 assessed values (AVs) of $500,000- Measure details
+    - Average annual capital levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
 - Calculator methodology
