@@ -126,6 +126,8 @@ ___
 
 ## Total costs of all measures on the ballot
 
+![All tax measures total amounts](pagesManual/LeviesReport/20250211/AllMeasuresSummaryTotals.png "All tax measures")
+
 ### Bonds
 
 Number of bonds: 6
