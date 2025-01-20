@@ -4,7 +4,7 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: January 14th, 2025
+Last updated: January 20th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -22,6 +22,7 @@ As analyses are completed, summary results will be provided on this page.
 - Capital levy summary
     - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
     - Average annual capital levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
+- Total costs of all measures
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
 - Calculator methodology
@@ -121,6 +122,47 @@ ___
 ### Average annual capital levy cost to owners of properties with 2024 assessed values (AVs) of $500,000
 ![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20250211/CapitalLevySummaryParcels.png "Levy average annual cost")
 
+___
+
+## Total costs of all measures on the ballot
+
+### Bonds
+
+Number of bonds: 6
+
+Tax (repayment) durations: 11 – 23 years
+
+Total bond principal: $1.583B
+
+Total bond estimated interest: $1.038B
+
+Total bond principal + estimated bond interest: $2.621B
+
+### Capital levies
+
+Number of capital levies: 19
+
+Durations: 1 – 6 years
+
+Total capital levy amount: $2.087B
+
+### Enrichment levies
+
+Number of enrichment levies: 45
+
+Duration: 1 – 4 years
+
+Total enrichment levy amount: $1.875B
+
+###  Capital and enrichment levies
+
+Total levies: $3.962B
+
+### Bonds, capital and enrichment levies
+
+Total levies + bonds (principal + interest): $6.583B
+
+___
 
 ## Measure details
 
