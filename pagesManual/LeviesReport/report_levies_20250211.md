@@ -150,7 +150,7 @@ Total capital levy amount: $2.087B
 
 Number of enrichment levies: 45
 
-Duration: 1 – 4 years
+Durations: 1 – 4 years
 
 Total enrichment levy amount: $1.875B
 
