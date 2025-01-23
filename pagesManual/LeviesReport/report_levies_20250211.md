@@ -4,7 +4,7 @@ title: School District Tax Measures February 11th 2025
 permalink: report_levies_20250211
 ---
 
-Last updated: January 20th, 2025
+Last updated: January 22nd, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -37,6 +37,9 @@ Listed below are the types and counts for the tax measures for the February 11th
 - Bonds: 6
 - Enrichment Levies: 45
 - Capital / Tech Levies: 19
+- Tax measures: 70
+- Districts running 1 tax measure: 42
+- Districts running 2 tax measures: 14
 
 ### Local voters' pamphlet (LVP) statistics
 - Bonds
