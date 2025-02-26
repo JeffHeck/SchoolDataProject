@@ -4,7 +4,7 @@ title: School District Tax Measures April 22nd 2025
 permalink: report_levies_20250422
 ---
 
-Last updated: February 25th, 2025
+Last updated: February 26th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -24,6 +24,7 @@ ___
 
 [Grays Harbor](graysharborcountymeasures20250422)
 
+[Stevens](stevenscountymeasures20250422)
 
 ___
 
