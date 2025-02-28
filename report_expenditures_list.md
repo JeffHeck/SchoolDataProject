@@ -24,7 +24,6 @@ ___
 - [Median Total Compensation For Teaching Staff Vs Percent Low Income Students](teaching_staff_median_total_compensation_vs_low_income)
 - [Average Class Size Vs Percent Low Income Students](average_class_size)
 - [Student To Teacher Ratios Vs Percent Low Income Students](students_per_teacher)
-- [Total Per Pupil Expenditures Vs Percent Low Income Students](total_expenditures_per_pupil)
 - [Total Per Pupil Voted Bond Debt Vs Enrollments](total_debt_per_pupil_vs_enrollment)
 
 ___
