@@ -4,7 +4,7 @@ title: School District Tax Measures April 22nd 2025
 permalink: report_levies_20250422
 ---
 
-Last updated: March 1st, 2025
+Last updated: March 3rd, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -22,11 +22,19 @@ ___
 
 ### Tax measures that have been analyzed to date by county
 
+[Benton](bentoncountymeasures20250422)
+
+[Clark](clarkcountymeasures20250422)
+
 [Grays Harbor](graysharborcountymeasures20250422)
 
 [King](kingcountymeasures20250422)
 
+[Lewis](lewiscountymeasures20250422)
+
 [Stevens](stevenscountymeasures20250422)
+
+[Walla Walla](wallawallacountymeasures20250422)
 
 ___
 

@@ -6,6 +6,17 @@ permalink: kingcountymeasures20250422
 
 ___
 
+### Enumclaw SD
+
+![Enumclaw SD capital levy totals chart](pagesManual/LeviesReport/20250422/EnumclawCapital.png "Enumclaw SD capital levy totals chart")
+![Enumclaw SD capital levy example parcel chart](pagesManual/LeviesReport/20250422/EnumclawCapitalParcel.png "Enumclaw SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_enumclaw_capital_20250422_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_enumclaw_capital_levy_20250422){:target="_blank" rel="noopener"}
+
+___
+
 ### Mercer Island SD
 
 ![Mercer Island SD bond totals chart](pagesManual/LeviesReport/20250422/MercerIsland.png "Mercer Island SD bond totals chart")
