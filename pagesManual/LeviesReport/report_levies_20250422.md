@@ -9,6 +9,9 @@ Last updated: March 3rd, 2025
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
+- Summary
+- Enrichment levy summary
+- Capital levy summary
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
 - Calculator methodology
@@ -16,7 +19,38 @@ As analyses are completed, summary results will be provided on this page.
 
 ___
 
+## Summary
 
+### Overview
+Listed below are the types and counts for the tax measures for the April 22nd 2025 election that have been analyzed to date:
+- Bonds: 5
+- Enrichment Levies: 7
+- Capital / Tech Levies: 3
+
+___
+
+## Enrichment levy summary
+
+### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+![Enrichment levy totals group 1](pagesManual/LeviesReport/20250422/LevySummaryTotals-1.png "Levy totals")
+
+### Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20250422/LevySummaryParcels-1.png "Levy average annual cost")
+
+### Ranking of the proposed enrichment levies by their percent increases over their previous enrichment levies
+![Enrichment levy increases over the previous enrichment levies group 1](pagesManual/LeviesReport/20250422/LevyEnrichmentIncreases-1.png "Levy increases")
+
+___
+
+## Capital levy summary
+
+### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+![Capital levy totals](pagesManual/LeviesReport/20250422/CapitalLevySummaryTotals.png "Levy totals")
+
+### Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20250422/CapitalLevySummaryParcels.png "Levy average annual cost")
+
+___
 
 ## Measure details
 
