@@ -17,14 +17,14 @@ ___
 
 ___
 
-### Hockingson SD
+### Hockinson SD
 
-![Hockingson SD capital levy totals chart](pagesManual/LeviesReport/20250422/HockingsonCapital.png "Hockingson SD capital levy totals chart")
-![Hockingson SD capital levy example parcel chart](pagesManual/LeviesReport/20250422/HockingsonCapitalParcel.png "Hockingson SD capital  example parcel chart")
+![Hockinson SD capital levy totals chart](pagesManual/LeviesReport/20250422/HockinsonCapital.png "Hockinson SD capital levy totals chart")
+![Hockinson SD capital levy example parcel chart](pagesManual/LeviesReport/20250422/HockinsonCapitalParcel.png "Hockinson SD capital  example parcel chart")
 
-[Link to the interactive calculator](calculator_hockingson_capital_20250422_enhanced){:target="_blank" rel="noopener"}
+[Link to the interactive calculator](calculator_hockinson_capital_20250422_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_hockingson_capital_levy_20250422){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_hockinson_capital_levy_20250422){:target="_blank" rel="noopener"}
 
 ___
 
