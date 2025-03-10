@@ -4,12 +4,15 @@ title: School District Tax Measures April 22nd 2025
 permalink: report_levies_20250422
 ---
 
-Last updated: March 3rd, 2025
+Last updated: March 10th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
+- Bond summary
+    - Total bond cost to local taxpayers
+	- Total bond cost to owners of properties with 2024 assessed values of $500,000
 - Enrichment levy summary
 - Capital levy summary
 - Measure details
@@ -26,6 +29,27 @@ Listed below are the types and counts for the tax measures for the April 22nd 20
 - Bonds: 5
 - Enrichment Levies: 7
 - Capital / Tech Levies: 3
+
+___
+
+## Bond summary
+
+### Total bond cost to local property taxpayers in each school district tax area with a bond measure
+![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20250422/BondSummaryTotals.png "Bond totals")
+
+Data source: Each district's bond/levy projection datasheet
+
+### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20250422/BondSummaryParcels.png "Bond totals")
+
+$500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
+
+The conservative assumption used was that the POF (proportional obligation factor) as of 2025 remains constant over the term of the bond. The interested reader can use the 
+cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the calculators as well as different AVs. 
+The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV for a given year) divided by (The Total AV of all 
+properties in the district's tax area for the same year). 
+
+See the Calculator Methodology section below for more details. 
 
 ___
 
@@ -66,9 +90,15 @@ ___
 
 [Lewis](lewiscountymeasures20250422)
 
+[Pierce](piercecountymeasures20250422)
+
+[Spokane](spokanecountymeasures20250422)
+
 [Stevens](stevenscountymeasures20250422)
 
 [Walla Walla](wallawallacountymeasures20250422)
+
+[Whatcom](whatcomcountymeasures20250422)
 
 ___
 
