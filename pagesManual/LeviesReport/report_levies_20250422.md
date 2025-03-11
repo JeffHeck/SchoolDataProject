@@ -90,6 +90,8 @@ ___
 
 [Lewis](lewiscountymeasures20250422)
 
+[Okanogan](okanogancountymeasures20250422)
+
 [Pierce](piercecountymeasures20250422)
 
 [Spokane](spokanecountymeasures20250422)
