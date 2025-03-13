@@ -4,7 +4,7 @@ title: School District Tax Measures April 22nd 2025
 permalink: report_levies_20250422
 ---
 
-Last updated: March 11th, 2025
+Last updated: March 13th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -12,7 +12,7 @@ As analyses are completed, summary results will be provided on this page.
 - Summary
 - Bond summary
     - Total bond cost to local taxpayers
-	- Total bond cost to owners of properties with 2024 assessed values of $500,000
+	- Total bond cost to owners of properties with 2025 assessed values of $500,000
 - Enrichment levy summary
 - Capital levy summary
 - Total local property taxpayer costs of all measures on the ballot
