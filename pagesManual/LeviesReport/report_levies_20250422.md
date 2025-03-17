@@ -38,10 +38,15 @@ ___
 ### Total bond cost to local property taxpayers in each school district tax area with a bond measure
 ![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20250422/BondSummaryTotals.png "Bond totals")
 
+<center>Figure 1</center>
+<br>
 Data source: Each district's bond/levy projection datasheet
 
 ### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
 ![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20250422/BondSummaryParcels.png "Bond totals")
+
+<center>Figure 2</center>
+<br>
 
 $500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
 
@@ -59,11 +64,20 @@ ___
 ### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
 ![Enrichment levy totals group 1](pagesManual/LeviesReport/20250422/LevySummaryTotals-1.png "Levy totals")
 
+<center>Figure 3</center>
+<br>
+
 ### Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
 ![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20250422/LevySummaryParcels-1.png "Levy average annual cost")
 
+<center>Figure 4</center>
+<br>
+
 ### Ranking of the proposed enrichment levies by their percent increases over their previous enrichment levies
 ![Enrichment levy increases over the previous enrichment levies group 1](pagesManual/LeviesReport/20250422/LevyEnrichmentIncreases-1.png "Levy increases")
+
+<center>Figure 5</center>
+<br>
 
 ___
 
@@ -72,14 +86,23 @@ ___
 ### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
 ![Capital levy totals](pagesManual/LeviesReport/20250422/CapitalLevySummaryTotals.png "Levy totals")
 
+<center>Figure 6</center>
+<br>
+
 ### Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
 ![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20250422/CapitalLevySummaryParcels.png "Levy average annual cost")
+
+<center>Figure 7</center>
+<br>
 
 ___
 
 ## Total local property taxpayer costs of all measures on the ballot
 
 ![All tax measures total amounts](pagesManual/LeviesReport/20250422/AllMeasuresSummaryTotals.png "All tax measures")
+
+<center>Figure 8</center>
+<br>
 
 ### Bonds
 
