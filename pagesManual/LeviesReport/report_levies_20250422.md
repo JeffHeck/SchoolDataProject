@@ -4,7 +4,7 @@ title: School District Tax Measures April 22nd 2025
 permalink: report_levies_20250422
 ---
 
-Last updated: March 13th, 2025
+Last updated: March 17th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
