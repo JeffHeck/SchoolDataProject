@@ -5,14 +5,22 @@ permalink: per_pupil_expenditures_list
 ---
 
 ## Contents
-- Interactive charts for expenditure statistics
-- Tips on using the interactive capabilities
+- Per pupil expenditures
+- Legacy interactive charts for expenditure statistics
+- Tips on using the interactive capabilities for the legacy charts
 - Appendix
     - Methodology and sample calculations
 
 ___
 
-## Interactive charts for expenditure statistics
+## Per pupil expenditures
+
+- [Total Per Pupil Expenditures Vs Percent Low Income Students](ppe_vs_low_income)
+
+___
+
+## Legacy interactive charts for expenditure statistics
+
 - [Total Compensation Per Pupil For Aides Vs Enrollments](aides_total_compensation_per_pupil)
 - [Total Compensation Per Pupil For Assistant Superintendents Vs Enrollments](assistant_superintendents_total_compensation)
 - [Total Compensation Per Pupil For Central District Administrators Vs Enrollments](central_district_administrators_total_compensation_per_pupil)
@@ -28,7 +36,7 @@ ___
 
 ___
 
-## Tips on using the interactive capabilities:
+## Tips on using the interactive capabilities for the legacy charts
 - As you hover your mouse over a bubble, pertinent details are displayed.
 - As you hover your mouse over any part of the chart, a special menu of icons appears just above the chart. 
 - There are icons to zoom in and out, or zoom into a rectangular area.
