@@ -16,6 +16,8 @@ The OSPI’s definition of Per Pupil Expenditures (PPE) only includes the Genera
 
 The enrollments used in this chart are Annual Average Full-Time Equivalent (AAFTE) enrollments.
 
+The tiny Almira SD had their one and only school building accidentally burn to the ground in 2021. Their large amounts of capital spending over the last few years were funded 
+with insurance money and emergency State funding.
 
 ### Sortable data table 
 
