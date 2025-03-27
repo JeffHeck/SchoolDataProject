@@ -21,5 +21,25 @@ with insurance money and emergency State funding.
 
 ### Sortable data table 
 
+Columns guide:
+- County - Lead County
+- District - School District
+- General - General Fund Total Expenditures Per Pupil
+- ASB - ASB Fund Total Expenditures Per Pupil
+- Capital - Capital Projects Fund Total Expenditures (6 Year Rolling Average) Per Pupil
+- Transp - Transportation Vehicle Fund Total Expenditures (6 Year Rolling Average) Per Pupil
+- Interest - Debt Service Fund's Interest And Other Charges Per Pupil
+- TPPE - Total Per Pupil Expenditures = General + ASB + Capital + Transp + Interest
+- AAFTE = Annual Average Full-Time Equivalent Enrollment
+
+
 {% include ppe_report/PPETableForAllDistricts.html %}
+
+### Example: 
+
+- Issaquah SD, 
+- 2023-2024,
+- Snapshot of the F196 budget report showing the key parameters used in the TPPE calculation.
+
+![Issaquah SD F196 Snapshot](pagesManual/ExpendituresReport/IssaquahSDF196SnapshotAnnotated.png "Issaquah SD F196 Snapshot")
 
