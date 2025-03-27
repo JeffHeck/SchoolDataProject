@@ -7,7 +7,7 @@ permalink: ppe_vs_low_income
 
 {% include ppe_report/PPEVsLowIncomeAllDistricts.html %}
 
-### Note:
+### Notes
 The OSPI’s definition of Per Pupil Expenditures (PPE) only includes the General Fund. The Total Per Pupil Expenditures (TPPE) used here includes:
 - Capital outlays (6 year rolling averages) which are usually purchased from funds from local capital levies and local bonds,
 - ASB Fund expenses,
@@ -15,3 +15,9 @@ The OSPI’s definition of Per Pupil Expenditures (PPE) only includes the Genera
 - Interest on debt. This can be substantial since it is mostly bond interest from 10 to 27 year bonds.
 
 The enrollments used in this chart are Annual Average Full-Time Equivalent (AAFTE) enrollments.
+
+
+### Sortable data table 
+
+{% include ppe_report/PPETableForAllDistricts.html %}
+
