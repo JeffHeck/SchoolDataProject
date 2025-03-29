@@ -35,11 +35,26 @@ Columns guide:
 
 {% include ppe_report/PPETableForAllDistricts.html %}
 
-### Example: 
+### Examples 
 
-- Issaquah SD, 
-- 2023-2024,
-- Snapshot of the F196 budget report showing the key parameters used in the TPPE calculation.
+Issaquah SD, 2023-2024
+
+Snapshot of the OSPI's F196 budget report showing the key parameters used in the TPPE calculation.
 
 ![Issaquah SD F196 Snapshot](pagesManual/ExpendituresReport/IssaquahSDF196SnapshotAnnotated.png "Issaquah SD F196 Snapshot")
 
+Snapshot of the OSPI's report card showing the key parameters used in the OSPI's PPE calculation.
+
+![Issaquah SD Report Card Snapshot](pagesManual/ExpendituresReport/IssaquahSDOSPIReportCardAnnotated.png "Issaquah SD Report Card Snapshot")
+
+___
+
+Rainier Prep Charter SD, 2023-2024
+
+Snapshot of the OSPI's F196 budget report showing the key parameters used in the TPPE calculation.
+
+![Rainier Prep Charter SD F196 Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDF196SnapshotAnnotated.png "Rainier Prep Charter SD F196 Snapshot")
+
+Snapshot of the OSPI's report card showing the key parameters used in the OSPI's PPE calculation.
+
+![Rainier Prep Charter SD Report Card Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDOSPIReportCardAnnotated.png "Rainier Prep Charter SD Report Card Snapshot")
