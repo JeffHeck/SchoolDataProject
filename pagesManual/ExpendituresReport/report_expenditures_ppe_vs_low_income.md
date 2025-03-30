@@ -16,6 +16,8 @@ Contents
 
 {% include ppe_report/PPEVsLowIncomeAllDistricts.html %}
 
+<center>Figure 1</center> <br>
+
 ### Summary
 For the 2023-2024 school year, for the State average:
 - The OSPI’s Per Pupil Expenditures (PPE) version is reporting $18,600
@@ -59,6 +61,8 @@ Columns guide:
 
 {% include ppe_report/PPETableForAllDistricts.html %}
 
+<center>Figure 2</center> <br>
+
 ### Examples 
 
 Issaquah SD, 2023-2024
@@ -67,9 +71,13 @@ Snapshot of the OSPI's F196 budget report showing the key parameters used in the
 
 ![Issaquah SD F196 Snapshot](pagesManual/ExpendituresReport/IssaquahSDF196SnapshotAnnotated.png "Issaquah SD F196 Snapshot")
 
+<center>Figure 3</center> <br>
+
 Snapshot of the OSPI's report card showing the key parameters used in the OSPI's PPE calculation.
 
 ![Issaquah SD Report Card Snapshot](pagesManual/ExpendituresReport/IssaquahSDOSPIReportCardAnnotated.png "Issaquah SD Report Card Snapshot")
+
+<center>Figure 4</center> <br>
 
 ___
 
@@ -79,6 +87,10 @@ Snapshot of the OSPI's F196 budget report showing the key parameters used in the
 
 ![Rainier Prep Charter SD F196 Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDF196SnapshotAnnotated.png "Rainier Prep Charter SD F196 Snapshot")
 
+<center>Figure 5</center> <br>
+
 Snapshot of the OSPI's report card showing the key parameters used in the OSPI's PPE calculation.
 
 ![Rainier Prep Charter SD Report Card Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDOSPIReportCardAnnotated.png "Rainier Prep Charter SD Report Card Snapshot")
+
+<center>Figure 6</center> <br>
