@@ -19,9 +19,9 @@ Contents
 ### Summary
 For the 2023-2024 school year, for the State average:
 - The OSPI’s Per Pupil Expenditures (PPE) version is reporting $18,600
-- The more accurate, more inclusive, more transparent, Total Per Pupil Expenditures (TPPE) version reported here is $22,100
+- The more accurate, more inclusive, and more transparent Total Per Pupil Expenditures (TPPE) version reported here is $22,100
 
-Taxpayers are paying the $22,100 per pupil per year on average in WA.
+Taxpayers are paying the $22,100 per pupil per year on average that WA school districts are spending.
 That is 18.5% more than the OSPI’s PPE version.
 
 The OSPI’s version of PPE agrees with the author’s TPPE for charter schools since WA’s charter schools aren’t allowed to run local levies (enrichment levies or capital levies) or bonds. 
