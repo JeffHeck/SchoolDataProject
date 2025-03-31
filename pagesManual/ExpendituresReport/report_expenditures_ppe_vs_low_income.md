@@ -4,7 +4,7 @@ title: Total PPE Vs Low Income Students
 permalink: ppe_vs_low_income
 ---
 
-Last updated: March 30, 2025
+Last updated: March 31, 2025
 
 Contents
 - Interactive Total Per Pupil Expenditures (TPPE) for all WA school districts
@@ -30,6 +30,13 @@ The OSPI’s version of PPE agrees with the author’s TPPE for charter schools 
 A few of the smaller traditional public school districts in WA are not running local capital levies or bonds. So they also have agreement between the PPE and TPPE. But for all other traditional 
 public school districts in WA (the vast majority), the OSPI’s PPE version underestimates what these school districts are actually spending with taxpayer dollars.
 
+![WA State Total Per Pupil Expenditures](pagesManual/ExpendituresReport/SpendForStatePerPupilBar.png "WA State Total Per Pupil Expenditures")
+
+<center>Figure 2</center> <br>
+
+![WA State Total Per Pupil Expenditures](pagesManual/ExpendituresReport/SpendForStatePerPupilLine.png "WA State Total Per Pupil Expenditures")
+
+<center>Figure 3</center> <br>
 
 ### Notes
 The OSPI’s definition of Per Pupil Expenditures (PPE) only includes the General Fund. The alternative Total Per Pupil Expenditures (TPPE) used here includes:
@@ -61,7 +68,7 @@ Columns guide:
 
 {% include ppe_report/PPETableForAllDistricts.html %}
 
-<center>Figure 2</center> <br>
+<center>Figure 4</center> <br>
 
 ### Examples 
 
@@ -71,13 +78,13 @@ Snapshot of the OSPI's F196 budget report showing the key parameters used in the
 
 ![Issaquah SD F196 Snapshot](pagesManual/ExpendituresReport/IssaquahSDF196SnapshotAnnotated.png "Issaquah SD F196 Snapshot")
 
-<center>Figure 3</center> <br>
+<center>Figure 5</center> <br>
 
 Snapshot of the OSPI's report card showing the key parameters used in the OSPI's PPE calculation.
 
 ![Issaquah SD Report Card Snapshot](pagesManual/ExpendituresReport/IssaquahSDOSPIReportCardAnnotated.png "Issaquah SD Report Card Snapshot")
 
-<center>Figure 4</center> <br>
+<center>Figure 6</center> <br>
 
 ___
 
@@ -87,10 +94,10 @@ Snapshot of the OSPI's F196 budget report showing the key parameters used in the
 
 ![Rainier Prep Charter SD F196 Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDF196SnapshotAnnotated.png "Rainier Prep Charter SD F196 Snapshot")
 
-<center>Figure 5</center> <br>
+<center>Figure 7</center> <br>
 
 Snapshot of the OSPI's report card showing the key parameters used in the OSPI's PPE calculation.
 
 ![Rainier Prep Charter SD Report Card Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDOSPIReportCardAnnotated.png "Rainier Prep Charter SD Report Card Snapshot")
 
-<center>Figure 6</center> <br>
+<center>Figure 8</center> <br>
