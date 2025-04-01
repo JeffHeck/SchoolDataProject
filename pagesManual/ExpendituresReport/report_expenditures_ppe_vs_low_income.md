@@ -86,6 +86,10 @@ Annotated snapshot of the OSPI's report card showing the key parameters used in 
 
 <center>Figure 6</center> <br>
 
+![Historical Total Expenses Per Student](pages/hist_spending/SpendForIssaquah School DistrictPerPupilBar.png "Dollars Per Student")
+
+<center>Figure 7</center> <br>
+
 ___
 
 Rainier Prep Charter SD, 2023-2024
@@ -94,10 +98,15 @@ Annotated snapshot of the OSPI's F196 budget report showing the key parameters u
 
 ![Rainier Prep Charter SD F196 Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDF196SnapshotAnnotated.png "Rainier Prep Charter SD F196 Snapshot")
 
-<center>Figure 7</center> <br>
+<center>Figure 8</center> <br>
 
 Annotated snapshot of the OSPI's report card showing the key parameters used in the OSPI's PPE calculation.
 
 ![Rainier Prep Charter SD Report Card Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDOSPIReportCardAnnotated.png "Rainier Prep Charter SD Report Card Snapshot")
 
-<center>Figure 8</center> <br>
+<center>Figure 9</center> <br>
+
+![Historical Total Expenses Per Student](pages/hist_spending/SpendForRainier Prep Charter School DistrictPerPupilBar.png "Dollars Per Student")
+
+<center>Figure 10</center> <br>
+
