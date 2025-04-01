@@ -86,6 +86,8 @@ Annotated snapshot of the OSPI's report card showing the key parameters used in 
 
 <center>Figure 6</center> <br>
 
+Total per pupil expenditures (TPPE).
+
 ![Historical Total Expenses Per Student](pages/hist_spending/SpendForIssaquah School DistrictPerPupilBar.png "Dollars Per Student")
 
 <center>Figure 7</center> <br>
@@ -105,6 +107,8 @@ Annotated snapshot of the OSPI's report card showing the key parameters used in 
 ![Rainier Prep Charter SD Report Card Snapshot](pagesManual/ExpendituresReport/RainierPrepCharterSDOSPIReportCardAnnotated.png "Rainier Prep Charter SD Report Card Snapshot")
 
 <center>Figure 9</center> <br>
+
+Total per pupil expenditures (TPPE).
 
 ![Historical Total Expenses Per Student](pages/hist_spending/SpendForRainier Prep Charter School DistrictPerPupilBar.png "Dollars Per Student")
 
