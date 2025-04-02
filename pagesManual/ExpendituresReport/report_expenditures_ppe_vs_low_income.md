@@ -4,7 +4,7 @@ title: Total PPE Vs Low Income Students
 permalink: ppe_vs_low_income
 ---
 
-Last updated: March 31, 2025
+Last updated: April 2, 2025
 
 Contents
 - Interactive Total Per Pupil Expenditures (TPPE) for all WA school districts
@@ -57,7 +57,7 @@ The other outliers in the chart are generally financially inefficient (high over
 Columns guide:
 - County: Lead County
 - District: School District
-- General: General Fund Total Expenditures Per Pupil
+- General: General Fund Total Expenditures Per Pupil (OSPI's PPE Uses This Only)
 - ASB: ASB Fund Total Expenditures Per Pupil
 - Capital: Capital Projects Fund Total Expenditures (6 Year Rolling Average) Per Pupil
 - Transp: Transportation Vehicle Fund Total Expenditures (6 Year Rolling Average) Per Pupil
