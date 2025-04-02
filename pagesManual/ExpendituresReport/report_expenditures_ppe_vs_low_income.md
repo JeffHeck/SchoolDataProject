@@ -52,6 +52,15 @@ with insurance money and emergency State funding.
 
 The other outliers in the chart are generally financially inefficient (high overhead) small (~100 students total or fewer) traditional public school districts. 
 
+See the Examples section below for snapshots of the F196 Budget Reports. WA school districts are required to submit these budget reports to the OSPI every year. 
+School districts have several "Funds" to work with:
+- The "GeneraL" Fund is the largest by far. It is where "Current" expenditures are made including staff salaries and staff pension funding. 
+- There is an "ASB" Fund for Associated Student Body expenses. 
+- There is a "Debt Service" Fund. That is generally for school district bonds for districts that run bonds. 
+- There is a "Capital Projects" Fund. That is where expenses for new buildings, repairs to existing buildings are paid from. 
+- There is a "Transportation Vehicle" Fund. That is used usually for buying new buses every few years.
+- The "Permanent" Fund is unused.
+
 ### Sortable data table 
 
 Columns guide:
