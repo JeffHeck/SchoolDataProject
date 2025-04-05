@@ -4,7 +4,7 @@ title: State School Property Taxes Report 2021-2022
 permalink: report_state_school_taxes_2021-2022
 ---
 
-Last updated: September 27th, 2023
+Last updated: April 5th, 2025
 
 ## Contents
 - Summary
@@ -126,7 +126,7 @@ Then the average was calculated to align with the 2021-2022 school year data fro
 
 Links: 
 - [DOR Tax Reports](https://dor.wa.gov/about/statistics-reports/local-taxing-district-levy-detail "DOR")
-- [OSPI F196 Budget Reports](https://dor.wa.gov/about/statistics-reports/local-taxing-district-levy-detail "DOR")
+- [OSPI F196 Budget Reports](https://ospi.k12.wa.us/policy-funding/school-apportionment/safs-report "OSPI F196 Budget Reports")
 
 ___
 
