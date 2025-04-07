@@ -9,7 +9,7 @@ Election Reports
 - [School District Tax Measures on the February 11th 2025 Ballot](report_levies_20250211)
 
 Recently Updated Reports
-- [Total Per Pupil Expenditures Vs Percent Low Income Students - Updated April 2nd 2025](ppe_vs_low_income)
+- [Total Per Pupil Expenditures Vs Percent Low Income Students - Updated April 7th 2025](ppe_vs_low_income)
 
 Other Reports
 - [Why February is the Most Popular Election Month for School District Tax Measures](report_election_month)

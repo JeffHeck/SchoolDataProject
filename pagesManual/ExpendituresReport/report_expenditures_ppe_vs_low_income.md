@@ -4,7 +4,7 @@ title: Total PPE Vs Low Income Students
 permalink: ppe_vs_low_income
 ---
 
-Last updated: April 2, 2025
+Last updated: April 7, 2025
 
 Contents
 - Interactive Total Per Pupil Expenditures (TPPE) for all WA school districts
@@ -27,8 +27,11 @@ Taxpayers are paying the $22,100 per pupil per year on average that WA school di
 That is 18.5% more than the OSPI’s PPE version.
 
 The OSPI’s version of PPE agrees with the author’s TPPE for charter schools since WA’s charter schools aren’t allowed to run local levies (enrichment levies or capital levies) or bonds. 
-A few of the smaller traditional public school districts in WA are not running local capital levies or bonds. So they also have agreement between the PPE and TPPE. But for all other traditional 
-public school districts in WA (the vast majority), the OSPI’s PPE version underestimates what these school districts are actually spending with taxpayer dollars.
+Charter schools don't have capital outlays nor interest on debt. 
+About a dozen tiny traditional public school districts (fewer than 100 students in their district) in WA have not been running local capital levies or bonds. So they also have agreement between the PPE and TPPE. But for all other traditional 
+public school districts in WA (the vast majority of the 295), the OSPI’s PPE version underestimates what these school districts are actually spending with taxpayer dollars.
+
+For example, the Seattle SD's Total Per Pupil Expenditures is at $27,600. Bellevue's is at $26,800. Tacoma's is at $25,500. Fife's is at $28,300.
 
 ![WA State Total Per Pupil Expenditures](pagesManual/ExpendituresReport/SpendForStatePerPupilBar.png "WA State Total Per Pupil Expenditures")
 
