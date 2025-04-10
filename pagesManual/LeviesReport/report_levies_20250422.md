@@ -4,7 +4,7 @@ title: School District Tax Measures April 22nd 2025
 permalink: report_levies_20250422
 ---
 
-Last updated: April 3rd, 2025
+Last updated: April 10th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -45,6 +45,13 @@ ___
     - Number of levies =  10
     - Number of levies with pro statements =  6
     - Number of levies with con statements =  3
+	
+There was 1 phony con statement submitted by the Mary Walker SD's con committee person. The auditor (at Stevens County) declared the submitted con statement an 
+obvious second "pro" statement and rejected the con statement. Therefore there is no con argument in the public voters' pamphlet for the citizens in the Mary Walker SD's tax area. 
+The Spokesman-Review has an article on the issue.
+
+https://www.spokesman.com/stories/2025/apr/07/man-appointed-to-write-a-voter-pamphlet-statement-/
+
 
 LVP pro/con statement statistics by county
 
