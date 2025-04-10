@@ -50,8 +50,7 @@ There was 1 phony con statement submitted by the Mary Walker SD's con committee 
 obvious second "pro" statement and rejected the con statement. Therefore there is no con argument in the public voters' pamphlet for the citizens in the Mary Walker SD's tax area. 
 The Spokesman-Review has an article on the issue.
 
-https://www.spokesman.com/stories/2025/apr/07/man-appointed-to-write-a-voter-pamphlet-statement-/
-
+[Link to the Spokesman-Review article](https://www.spokesman.com/stories/2025/apr/07/man-appointed-to-write-a-voter-pamphlet-statement-/)
 
 LVP pro/con statement statistics by county
 
