@@ -4,7 +4,7 @@ title: School District Tax Measures August 5th 2025
 permalink: report_levies_20250805
 ---
 
-Last updated: May 17th, 2025
+Last updated: May 23rd, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -47,6 +47,8 @@ LVP pro/con statement statistics by county
 Note: The number of school district tax measures for each county is shown in parentheses.
 
 The Shoreline SD selected 3 pro committee volunteers and 1 con committee volunteer. The con committee person withdrew at the last minute so there will only be a pro statement in the LVP.
+
+The Lamont SD was granted a waiver so they were not required to submit pro or con statements/rebuttals for the LVP. 
 
 ___
 
