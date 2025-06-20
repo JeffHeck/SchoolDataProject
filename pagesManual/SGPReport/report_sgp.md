@@ -21,7 +21,8 @@ Student growth percentiles (SGPs) as defined by the OSPI:
 "Washington uses student growth percentiles (SGPs) to measure growth in students' Math and English Language Arts skills from one grade to the next. 
 Student growth percentiles compare students in the same grade level with similar scores in previous years and measures their performance relative to those students."
 
-The median SGP is:
+The median SGP:
+
 "The median growth percentile summarizes student growth percentiles by district, school, grade level, or other group of interest. The median is calculated by ordering 
 individual student growth percentiles from lowest to highest, and identifying the middle score, which is the median." 
 
