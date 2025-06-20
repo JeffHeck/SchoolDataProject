@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Student Growth Percentile Report 2023-2024
+title: Median Student Growth Percentile By School District Report 2023-2024
 permalink: report_sgp
 ---
 
@@ -10,8 +10,8 @@ Last updated: June 20th, 2025
 ## Contents
 - Summary
 - Highlights
-- SGP interactive charts
-- SGP interactive data table
+- Median SGP interactive charts
+- Median SGP interactive data table
 
 ___
 
@@ -36,7 +36,7 @@ More information:
 [OSPI SGP Video Explaining The SGP](https://ospi.k12.wa.us/data-reporting/reporting/student-growth-percentiles-sgp)
 
 ## Highlights
-For the 2023-2024 school year, for WA school districts with 200 or more students, the top 5 performing school districts as measured by the Median Student Percentile (mSGP) for Math are:
+For the 2023-2024 school year, for WA school districts with 200 or more students, the top 5 performing school districts as measured by the Median Student Percentile for Math are:
 
 County, District, Median SGP Math
 - King, Rainier Prep Charter School, 77
@@ -55,21 +55,21 @@ County, District, Median SGP  ELA
 - Lewis, White Pass, 64
 
 
-## SGP interactive charts
+## Median SGP interactive charts
 
-### 2023-2024 SGP ELL all districts
+### 2023-2024 Median SGP ELL all districts
 {% include sgp_report/SGP_ELLByDistrict.html %}
 
 ### Other charts
-- [Student Growth Percentile In ELL By District For All Districts](report_sgp_ell)
-- [Student Growth Percentile In Math By District For All Districts](report_sgp_math)
-- [Student Growth Percentile In ELL By District For Small Districts](report_sgp_ell_small)
-- [Student Growth Percentile In Math By District For Small Districts](report_sgp_math_small)
-- [Student Growth Percentile In ELL By District For Large Districts](report_sgp_ell_large)
-- [Student Growth Percentile In Math By District For Large Districts](report_sgp_math_large)
+- [Median Student Growth Percentile In ELL By District For All Districts](report_sgp_ell)
+- [Median Student Growth Percentile In Math By District For All Districts](report_sgp_math)
+- [Median Student Growth Percentile In ELL By District For Small Districts](report_sgp_ell_small)
+- [Median Student Growth Percentile In Math By District For Small Districts](report_sgp_math_small)
+- [Median Student Growth Percentile In ELL By District For Large Districts](report_sgp_ell_large)
+- [Median Student Growth Percentile In Math By District For Large Districts](report_sgp_math_large)
 
 
-## 2023-2024 SGP interactive data table
+## 2023-2024 Median SGP interactive data table
 
 {% include sgp_report/SGPTableForAllDistricts.html %}
 
