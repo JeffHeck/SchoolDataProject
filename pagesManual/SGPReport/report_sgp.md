@@ -10,25 +10,37 @@ Last updated: June 20th, 2025
 ## Contents
 - Summary
 - Highlights
-- Median SGP interactive charts
-- Median SGP interactive data table
+- Median Student Growth Percentiles interactive charts
+- Median Student Growth Percentiles interactive data table
 
 ___
 
 ## Summary
-Student growth percentiles (SGPs) as defined by the OSPI:
+Student Growth Percentiles (SGPs) as defined by the OSPI:
 
 "Washington uses student growth percentiles (SGPs) to measure growth in students' Math and English Language Arts skills from one grade to the next. 
 Student growth percentiles compare students in the same grade level with similar scores in previous years and measures their performance relative to those students."
 
-The median SGP:
+Median Student Growth Percentiles (mSGP):
 
 "The median growth percentile summarizes student growth percentiles by district, school, grade level, or other group of interest. The median is calculated by ordering 
 individual student growth percentiles from lowest to highest, and identifying the middle score, which is the median." 
 
+Interpreting Median Student Growth Percentiles:
+
+While not a perfect measurement, an mSGP above 50 suggests that, on average, students in that group are growing (in the selected academic subject) more than their academic peers. 
+
+An mSGP below 50 suggests that, on average, students are growing less than their academic peers. 
+
+As of this writing, 24 states use SGP as part of their measurements of student progress.
+
 An example:
 
-If a school district has a median SGP of 70, that means that 50% of the students at that district have SGPs greater than 70% of their academic peers across the state.
+If a school district has a mSGP of 70, that means that 50% of the students at that district have SGPs greater than 70% of their academic peers across the state.
+
+In Washington State, while school districts have the SGP (Math and ELA) information for each student each fall when SBA results for the year are available from the OSPI, 
+school districts have the option of sharing that SGP information with parents for their children. 
+
 
 More information: 
 
