@@ -74,6 +74,17 @@ one of the lowest overall mSGPs for large school districts.
 
 As with other SGP studies in other states, the WA State SGP data clearly shows the weak negative correlation between mSGP and the percentage of low income students at a school district. 
 
+Comments on the mSGP student group data:
+
+- Gender X students are improving in their academics at a faster pace than their peers.
+- Asian students (and their parents) put a heavy emphasis on education and working towards a long range goal.
+- English Language Learners are having to learn basic and sometimes remedial English while they try to learn the next level ELA and mathematics. 
+- Highly capable kids learn quickly. That is why they are highly capable. 
+- Being homeless makes it difficult to keep up.
+- Non-low income students are more likely to have 2 college educated parents at home who can provide built-in tutoring 24/7 to not only help their children keep pace but to excel. 
+- Students without disabilities have fewer problems to overcome.
+
+
 ## Median SGP interactive charts
 
 ### 2023-2024 Median SGP ELL all districts
