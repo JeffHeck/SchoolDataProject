@@ -67,8 +67,10 @@ County, District, Median SGP  ELA
 - Pend Oreille, Cusick, 65
 - Lewis, White Pass, 64
 
-The OSPI publishes mSGP data by student group for each district. The figure below shows mSGP student group data for 2 school districts: the Seattle SD which has one of the highest overall mSGPs, and the Vancouver SD which has 
-one of the lowest overall mSGPs for large school districts.
+The OSPI publishes mSGP data by student group for each district in their online district report cards. The figure below shows mSGP student group data for 2 school districts: the Seattle SD which has one of the highest overall mSGPs, 
+and the Vancouver SD which has one of the lowest overall mSGPs for large school districts.
+
+[OSPI Online Report Cards](https://reportcard.ospi.k12.wa.us/)
 
 ![mSGP data by student group](pagesManual/SGPReport/SGP_District_Examples_ByStudentGroup.png "mSGP data by student group")
 
