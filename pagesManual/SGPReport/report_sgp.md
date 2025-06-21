@@ -4,7 +4,7 @@ title: Median Student Growth Percentile By School District Report 2023-2024
 permalink: report_sgp
 ---
 
-Last updated: June 20th, 2025
+Last updated: June 21st, 2025
 
 
 ## Contents
@@ -36,7 +36,7 @@ As of this writing, 24 states use SGP as part of their measurements of student p
 
 An example:
 
-If a school district has a mSGP of 70, that means that 50% of the students at that district have SGPs greater than 70% of their academic peers across the state.
+If a school district has an mSGP of 70, that means that 50% of the students at that district have SGPs greater than 70% of their academic peers across the state.
 
 In Washington State, while school districts have the SGP (Math and ELA) information for each student each fall when SBA results for the year are available from the OSPI, 
 school districts have the option of sharing that SGP information with parents for their children. 
@@ -61,11 +61,16 @@ County, District, Median SGP Math
 For the 2023-2024 school year, for school districts with 200 or more students, the top 5 performing school districts as measured by the Median Student Percentile for ELA are:
 
 County, District, Median SGP  ELA
-- King, Rainier Prep Charter School, 70.50
+- King, Rainier Prep Charter School, 70.5
 - Mason, Southside, 67
-- Yakima, Union Gap, 65.50
+- Yakima, Union Gap, 65.5
 - Pend Oreille, Cusick, 65
 - Lewis, White Pass, 64
+
+The OSPI publishes mSGP data by student group for each district. The figure below shows mSGP student group data for 2 school districts: the Seattle SD which has one of the highest overall mSGPs, and the Vancouver SD which has 
+one of the lowest overall mSGPs for large school districts.
+
+![mSGP data by student group](pagesManual/SGPReport/SGP_District_Examples_ByStudentGroup.png "mSGP data by student group")
 
 
 ## Median SGP interactive charts
