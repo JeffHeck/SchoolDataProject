@@ -28,9 +28,9 @@ individual student growth percentiles from lowest to highest, and identifying th
 
 Interpreting Median Student Growth Percentiles:
 
-While not a perfect measurement, an mSGP above 50 suggests that, on average, students in that group are growing (in the selected academic subject) more than their academic peers. 
+While not a perfect measurement, an mSGP above 50 infers that, on average, students in that group are growing (in the selected academic subject) more than their academic peers. 
 
-An mSGP below 50 suggests that, on average, students are growing less than their academic peers. 
+An mSGP below 50 infers that, on average, students are growing less than their academic peers. 
 
 As of this writing, 24 states use SGP as part of their measurements of student progress.
 
@@ -72,6 +72,7 @@ one of the lowest overall mSGPs for large school districts.
 
 ![mSGP data by student group](pagesManual/SGPReport/SGP_District_Examples_ByStudentGroup.png "mSGP data by student group")
 
+As with other SGP studies in other states, the WA State SGP data clearly shows the weak negative correlation between mSGP and the percentage of low income students at a school district. 
 
 ## Median SGP interactive charts
 
