@@ -78,7 +78,7 @@ As with other SGP studies in other states, the WA State SGP data clearly shows t
 
 Comments on the mSGP student group data:
 
-- Gender X students are improving in their academics at a faster pace than their peers.
+- The 650+ Gender X students in the Seattle SD are improving in their academics at a faster pace than their peers.
 - Asian students (and their parents) put a heavy emphasis on education and working towards a long range goal.
 - English Language Learners are having to learn basic and sometimes remedial English while they try to learn the next level ELA and mathematics. 
 - Highly capable kids learn quickly. That is why they are highly capable. 
