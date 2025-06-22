@@ -4,7 +4,7 @@ title: Median Student Growth Percentile By School District Report 2023-2024
 permalink: report_sgp
 ---
 
-Last updated: June 21st, 2025
+Last updated: June 22nd, 2025
 
 
 ## Contents
@@ -78,10 +78,14 @@ As with other SGP studies in other states, the WA State SGP data clearly shows t
 
 Comments on the mSGP student group data:
 
-- The 650+ Gender X students in the Seattle SD are improving in their academics at a faster pace than their peers.
+- The Gender X students in the Seattle SD are improving in their academics at a faster pace than their peers.
 - Asian students (and their parents) put a heavy emphasis on education and working towards a long range goal.
 - English Language Learners are having to learn basic and sometimes remedial English while they try to learn the next level ELA and mathematics. 
-- Highly capable kids learn quickly. That is why they are highly capable. 
+- Highly capable kids learn quickly and continually when given the chance to thrive. That is why they are highly capable. 
+Keep in mind that students designated at highly capable (as part of admissions to highly capable programs)
+already scored in th 95th percentile on previous academic tests. So their SGP academic peers across the state, by definition, also scored in the 
+extreme high end of tests. 
+Most of the SGP academic peers of highly capable students are likely to also be highly capable students at other school districts. 
 - Being homeless makes it difficult to keep up.
 - Non-low income students are more likely to have 2 college educated parents at home who can provide built-in tutoring 24/7 to not only help their children keep pace but to excel. 
 - Students without disabilities have fewer problems to overcome.
