@@ -85,7 +85,7 @@ Comments on the mSGP student group data:
 Keep in mind that students designated as highly capable (as part of admissions to highly capable programs)
 already scored in the 95th percentile on previous academic tests. So their SGP academic peers across the state, by definition, also scored in the 
 extreme high end of tests. 
-Most of the SGP academic peers of highly capable students therefore are likely to also be highly capable students at other school districts. 
+Most of the SGP academic peers of each highly capable student therefore are likely to also be highly capable students at other school districts. 
 - Being homeless makes it difficult to keep up.
 - Non-low income students are more likely to have 2 college educated parents at home who can provide built-in tutoring 24/7 to not only help their children keep pace but to excel. 
 - Students without disabilities have fewer problems to overcome.
