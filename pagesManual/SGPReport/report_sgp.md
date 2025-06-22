@@ -32,15 +32,15 @@ While not a perfect measurement, an mSGP above 50 infers that, on average, stude
 
 An mSGP below 50 infers that, on average, students are growing less than their academic peers. 
 
-As of this writing, 24 states use SGP as part of their measurements of student progress.
-
-An example:
-
 If a school district has an mSGP of 70, that means that 50% of the students at that district have SGPs greater than 70% of their academic peers across the state.
 
 In Washington State, while school districts have the SGP (Math and ELA) information for each student each fall when SBA results for the year are available from the OSPI, 
 school districts have the option of sharing that SGP information with parents for their children. 
 
+As of this writing, 24 states use SGP as part of their measurements of student progress. Massachusetts for example uses SGP. But they use the average instead of median when aggregating for school districts. 
+Massachusetts also charts their Average Student Growth Percentile against Percent of Students Meeting or Exceeding Proficiency Standards. 
+
+[Massachusetts Average Student Growth Percentile](https://profiles.doe.mass.edu/mcas/growth.aspx?linkid=47&orgcode=00000000&fycode=2024&orgtypecode=0)
 
 More information: 
 
