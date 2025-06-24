@@ -4,7 +4,7 @@ title: Median Student Growth Percentile By School District Report 2023-2024
 permalink: report_sgp
 ---
 
-Last updated: June 22nd, 2025
+Last updated: June 24th, 2025
 
 
 ## Contents
@@ -94,21 +94,29 @@ Many of the SGP academic peers of each highly capable student therefore are like
 ## Median SGP interactive charts
 
 ### 2023-2024 Median SGP ELL all districts
-{% include sgp_report/SGP_ELLByDistrict.html %}
+{% include sgp_report/SGP_ELAByDistrict.html %}
 
 ### Other charts
-- [Median Student Growth Percentile In ELL By District For All Districts](report_sgp_ell)
+- [Median Student Growth Percentile In ELA By District For All Districts](report_sgp_ela)
 - [Median Student Growth Percentile In Math By District For All Districts](report_sgp_math)
-- [Median Student Growth Percentile In ELL By District For Small Districts](report_sgp_ell_small)
+- [Median Student Growth Percentile In ELA By District For Small Districts](report_sgp_ela_small)
 - [Median Student Growth Percentile In Math By District For Small Districts](report_sgp_math_small)
-- [Median Student Growth Percentile In ELL By District For Large Districts](report_sgp_ell_large)
+- [Median Student Growth Percentile In ELA By District For Large Districts](report_sgp_ela_large)
 - [Median Student Growth Percentile In Math By District For Large Districts](report_sgp_math_large)
-- [Median Student Growth Percentile In ELL By District For All Districts For Group = Highly Capable](report_sgp_ell_hc)
+- [Median Student Growth Percentile In ELA By District For All Districts For Group = Highly Capable](report_sgp_ela_hc)
 - [Median Student Growth Percentile In Math By District For All Districts For Group = Highly Capable](report_sgp_math_hc)
 
 
 ## 2023-2024 Median SGP interactive data table
 
 {% include sgp_report/SGPTableForAllDistricts.html %}
+
+Notes:
+- Distr Count is the district's total enrollment.
+- SGP Count is the total count of students in this SGP group.
+- Distr % Low Income is the percentage of low income students at the district.
+- mSGP Math is the median student growth percentile in math at the district.
+- mSGP ELA is the median student growth percentile in ELA at the district.
+
 
 
