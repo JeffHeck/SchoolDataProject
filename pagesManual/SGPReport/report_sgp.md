@@ -99,10 +99,6 @@ Many of the SGP academic peers of each highly capable student therefore are like
 ### Other charts
 - [Median Student Growth Percentile In ELA By District For All Districts](report_sgp_ela)
 - [Median Student Growth Percentile In Math By District For All Districts](report_sgp_math)
-- [Median Student Growth Percentile In ELA By District For Small Districts](report_sgp_ela_small)
-- [Median Student Growth Percentile In Math By District For Small Districts](report_sgp_math_small)
-- [Median Student Growth Percentile In ELA By District For Large Districts](report_sgp_ela_large)
-- [Median Student Growth Percentile In Math By District For Large Districts](report_sgp_math_large)
 - [Median Student Growth Percentile In ELA By District For All Districts For Group = Highly Capable](report_sgp_ela_hc)
 - [Median Student Growth Percentile In Math By District For All Districts For Group = Highly Capable](report_sgp_math_hc)
 
