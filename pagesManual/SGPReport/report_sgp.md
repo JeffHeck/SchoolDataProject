@@ -4,7 +4,7 @@ title: Median Student Growth Percentile By School District Report 2023-2024
 permalink: report_sgp
 ---
 
-Last updated: June 24th, 2025
+Last updated: June 25th, 2025
 
 
 ## Contents
@@ -81,11 +81,12 @@ Comments on the mSGP student group data:
 - The Gender X students in the Seattle SD are improving in their academics at a faster pace than their peers.
 - Asian students (and their parents) put a heavy emphasis on education and working towards a long range goal.
 - English Language Learners are having to learn basic and sometimes remedial English while they try to learn the next level ELA and mathematics. 
-- Highly capable kids learn quickly and continually when given the chance to thrive. That is why they are highly capable. 
+- Highly Capable (HC) students learn quickly and continually when given the chance to thrive. That is why they are highly capable. 
 Keep in mind that students designated as highly capable (as part of admissions to highly capable programs)
-already scored in the 95th percentile on previous academic tests. So their SGP academic peers across the state, by definition, also scored in the 
-extreme high end of tests. 
-Many of the SGP academic peers of each highly capable student therefore are likely to also be highly capable students at other school districts. 
+usually already scored in the 95th percentile on previous academic tests. So their SGP academic peers across the state, by definition, also scored in the 
+extreme high end of assessments. 
+Many of the SGP academic peers of each highly capable student therefore are likely to also be in highly capable programs at other school districts. 
+The Northshore SD by far has the highest ratio of HC students to Total Enrollment. 33% (1 out of 3) of their 4th - 8th graders are designated as HC and are in their HC programs.
 - Being homeless makes it difficult to keep up.
 - Non-low income students are more likely to have 2 college educated parents at home who can provide built-in tutoring 24/7 to not only help their children keep pace but to excel. 
 - Students without disabilities have fewer problems to overcome.
