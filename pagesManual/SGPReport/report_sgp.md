@@ -102,7 +102,7 @@ The Northshore SD by far has the highest ratio of HC students to Total Enrollmen
 - [Median Student Growth Percentile In Math By District For All Districts](report_sgp_math)
 - [Median Student Growth Percentile In ELA By District For All Districts For Group = Highly Capable](report_sgp_ela_hc)
 - [Median Student Growth Percentile In Math By District For All Districts For Group = Highly Capable](report_sgp_math_hc)
-- [Highly Capable Students As Percent Of Possible Students By District](report_hc)
+- [Percentage Of Highly Capable Students By District](report_hc)
 
 
 ## 2023-2024 Median SGP interactive data table
