@@ -10,7 +10,7 @@ Election Reports
 - [School District Tax Measures on the February 11th 2025 Ballot](report_levies_20250211)
 
 Recently Created Or Updated Reports
-- [Student Growth Percentile By District - Updated June 25th 2025](report_sgp)
+- [Student Growth Percentile By District - Updated June 27th 2025](report_sgp)
 - [Total Per Pupil Expenditures Vs Percent Low Income Students - Updated April 7th 2025](ppe_vs_low_income)
 
 Other Reports
