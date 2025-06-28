@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Student Growth Percentile Math For Group = Highly Capable
+title: Student Growth Percentile In Math For Group = Highly Capable
 permalink: report_sgp_math_hc
 ---
 
-### 2023-2024 SGP Math All Districts
+### 2023-2024 SGP In Math For All Districts
 {% include sgp_report/SGP_MathHCByDistrict.html %}
 
 ## 2023-2024 Median SGP interactive data table

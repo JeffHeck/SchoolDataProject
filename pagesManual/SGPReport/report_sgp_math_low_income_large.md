@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Student Growth Percentile Math For Large District For Group = Low Income
+title: Student Growth Percentile In Math For Large Districts For Group = Low Income
 permalink: report_sgp_math_low_income_large
 ---
 
-### 2023-2024 SGP Math Large Districts For Group = Low Income
+### 2023-2024 SGP In Math For Large Districts For Group = Low Income
 {% include sgp_report/SGP_MathLowIncomeByDistrictLarge.html %}
 
 

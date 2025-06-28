@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Student Growth Percentile ELA For Group = Highly Capable
+title: Student Growth Percentile In ELA For Group = Highly Capable
 permalink: report_sgp_ela_hc
 ---
 
-### 2023-2024 SGP ELA All Districts
+### 2023-2024 SGP In ELA For All Districts
 {% include sgp_report/SGP_ELAHCByDistrict.html %}
 
 ## 2023-2024 Median SGP interactive data table
