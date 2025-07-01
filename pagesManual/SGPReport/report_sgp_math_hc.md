@@ -15,5 +15,5 @@ Notes:
 - Distr Count is the district's total enrollment.
 - SGP Count is the total count of students in this SGP group.
 - Distr % Low Income is the percentage of low income students at the district.
-- mSGP Math is the median student growth percentile in math at the district.
-- mSGP ELA is the median student growth percentile in ELA at the district.
+- mSGP Math is the median student growth percentile in math for this group at the district.
+- mSGP ELA is the median student growth percentile in ELA for this group at the district.

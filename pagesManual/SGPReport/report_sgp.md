@@ -4,7 +4,7 @@ title: Median Student Growth Percentile By School District Report 2023-2024
 permalink: report_sgp
 ---
 
-Last updated: June 28th, 2025
+Last updated: July 1st, 2025
 
 
 ## Contents
