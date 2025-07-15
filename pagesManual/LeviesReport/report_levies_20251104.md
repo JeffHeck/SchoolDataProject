@@ -4,7 +4,7 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: July 11th, 2025
+Last updated: July 15th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -29,6 +29,8 @@ ___
 ## Measure details
 
 ### Tax measures that have been analyzed to date by county
+
+[Chelan](chelancountymeasures20251104)
 
 [Spokane](spokanecountymeasures20251104)
 
