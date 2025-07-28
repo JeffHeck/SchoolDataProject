@@ -4,7 +4,7 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: July 16th, 2025
+Last updated: July 27th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -23,6 +23,8 @@ ___
 ### Overview
 Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
 - Bonds: 2
+- Capital Levies: 3
+- Enrichment Levies: 2
 
 ___
 
@@ -31,6 +33,8 @@ ___
 ### Tax measures that have been analyzed to date by county
 
 [Chelan](chelancountymeasures20251104)
+
+[King](kingcountymeasures20251104)
 
 [Spokane](spokanecountymeasures20251104)
 
