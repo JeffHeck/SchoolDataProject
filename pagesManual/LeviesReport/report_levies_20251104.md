@@ -4,7 +4,7 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: July 27th, 2025
+Last updated: July 30th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -49,9 +49,9 @@ And district reps' incorrect logic also usually leads to underestimating the tru
 
 In contrast, for the property tax impact estimate calculators on this website, the author uses a Proportional Obligation Factor (POF) method. 
 
-Using the 2024 Total District Assessed Value (AV), the POF of the example property was calculated:
+Using the latest available Total District Assessed Value (AV), the POF of the example property was calculated:
 
-POF = (2024 Example Property AV) / (2024 Total District AV)
+POF = (2025 Example Property AV) / (2025 Total District AV)
 
 The POF was then multiplied by the total amount that the district expects to collect each year for the duration of the measure in question (bond or levy) 
 to obtain the estimated taxes for the example property for the measure.
