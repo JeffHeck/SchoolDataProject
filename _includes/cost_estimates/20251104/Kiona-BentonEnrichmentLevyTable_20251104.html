@@ -15,14 +15,14 @@ table, th, td {
 	<!-- var chart; -->
 	var dataParcel;
 	
-	totalLevyAV = 2269741670;
+	totalLevyAV = 1458023827;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 18113793;
+	totalLevyCost = 4912907;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 5;
+	levyYears = 2;
 	levyStartYearOffset = 1;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// Total AV Annual Change Percent
@@ -66,12 +66,9 @@ table, th, td {
 		data.addColumn('number', 'Example Property\'s POF Change');
 
 		data.addRows([
-				['2025', 0, 2269741670, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2026', 3399843, 2269741670, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2027', 3518168, 2269741670, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2028', 3640635, 2269741670, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2029', 3731173, 2269741670, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2030', 3823974, 2269741670, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+				['2025', 0, 1458023827, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2026', 2367666, 1458023827, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2027', 2545241, 1458023827, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
 
 		]);
 		
@@ -207,7 +204,7 @@ table, th, td {
 		table_data.addRows([
 			['Total new levy cost', totalNewLevyTax],
 			['Total cost for the owner of the example property', totalLevyCostParcel],
-			['Average cost per year for 5 years for the owner of the example property', averageTotalLevyCostParcel],
+			['Average cost per year for 2 years for the owner of the example property', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -405,7 +402,7 @@ table, th, td {
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the November 4th 2025 Capital Levy measure proposed by the Riverside SD</H2>
+  <H2>Property tax impact estimate calculator for the November 4th 2025 Enrichment Levy measure proposed by the Kiona-Benton SD</H2>
   <H3>Input (Enter Your Data)</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
   <!-- <p></p> -->
@@ -426,12 +423,12 @@ table, th, td {
   <p></p>
   <H3>Output (Results)</H3>
   <p>Estimated obligations for the example property</P>
-  <div id="table_output_general_div" style="width:1200px; height: 268px;"></div>
+  <div id="table_output_general_div" style="width:1200px; height: 187px;"></div>
   <div id="table_output_div" style="width:2000px; height: 150px;"></div>
   <H3>Usage</H3>
   <p>1) Select your property's 2025 Tax Year AV.</p>
-  <p>2) Select your property's guesstimated annual AV percent change for the next 5 years.</p>
-  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 5 years. 
+  <p>2) Select your property's guesstimated annual AV percent change for the next 2 years.</p>
+  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 2 years. 
   This should usually be set to the same value assumed for parameter 2 as most properties rise and fall in AV at the same pace. 
   An example where that might not be the case is if your property has more land than the average property since land tends to appreciate faster than structures.</p>
   <p>4) Select the guesstimated value for new construction as a percent of the previous year's Total AV.</p>

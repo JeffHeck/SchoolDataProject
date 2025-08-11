@@ -4,7 +4,7 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: August 2nd, 2025
+Last updated: August 10th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -23,8 +23,8 @@ ___
 ### Overview
 Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
 - Bonds: 3
-- Capital Levies: 3
-- Enrichment Levies: 2
+- Capital Levies: 6
+- Enrichment Levies: 8
 
 ___
 
@@ -32,11 +32,21 @@ ___
 
 ### Tax measures that have been analyzed to date by county
 
+[Benton](bentoncountymeasures20251104)
+
 [Chelan](chelancountymeasures20251104)
 
 [King](kingcountymeasures20251104)
 
+[Kitsap](kitsapcountymeasures20251104)
+
+[Mason](masoncountymeasures20251104)
+
+[San Juan](sanjuancountymeasures20251104)
+
 [Spokane](spokanecountymeasures20251104)
+
+[Thurston](thurstoncountymeasures20251104)
 
 [Whatcom](whatcomcountymeasures20251104)
 

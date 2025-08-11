@@ -6,6 +6,27 @@ permalink: whatcomcountymeasures20251104
 
 ___
 
+### Bellingham SD
+
+![Bellingham SD capital levy totals chart](pagesManual/LeviesReport/20251104/BellinghamCapital.png "Bellingham SD capital levy totals chart")
+![Bellingham SD capital levy example parcel chart](pagesManual/LeviesReport/20251104/BellinghamCapitalParcel.png "Bellingham SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_bellingham_capital_20251104_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_bellingham_capital_levy_20251104){:target="_blank" rel="noopener"}
+
+___
+
+
+![Bellingham SD enrichment levy totals chart](pagesManual/LeviesReport/20251104/BellinghamEnrichment.png "Bellingham SD enrichment levy totals chart")
+![Bellingham SD enrichment levy example parcel chart](pagesManual/LeviesReport/20251104/BellinghamEnrichmentParcel.png "Bellingham SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_bellingham_enrichment_20251104_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_bellingham_enrichment_levy_20251104){:target="_blank" rel="noopener"}
+
+___
+
 ### Lynden SD
 
 ![Lynden SD bond totals chart](pagesManual/LeviesReport/20251104/Lynden.png "Lynden SD bond totals chart")

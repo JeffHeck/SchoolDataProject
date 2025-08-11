@@ -10,14 +10,14 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 2269741670;
+	totalLevyAV = 21502372801;
 	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 18113793;
+	totalLevyCost = 110800000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 5;
+	levyYears = 6;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// POF Annual Change Percent
 	pofAdjust = 0;
@@ -33,11 +33,12 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2026', 3399843],
-			['2027', 3518168],
-			['2028', 3640635],
-			['2029', 3731173],
-			['2030', 3823974],
+			['2026', 17144318],
+			['2027', 17658648],
+			['2028', 18188408],
+			['2029', 18734060],
+			['2030', 19296082],
+			['2031', 19778484],
 
 		]);
 
@@ -100,7 +101,7 @@
 		table_data.addColumn('number', 'New');
 		table_data.addRows([
 			['Total cost', totalLevyCostParcel],
-			['Average cost per year for 5 years', averageTotalLevyCostParcel],
+			['Average cost per year for 6 years', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -178,7 +179,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the November 4th 2025 levy measure proposed by the Riverside SD</H2>
+  <H2>Property tax impact estimate calculator for the November 4th 2025 levy measure proposed by the Auburn SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>

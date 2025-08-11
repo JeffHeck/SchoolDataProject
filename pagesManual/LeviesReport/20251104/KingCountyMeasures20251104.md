@@ -6,6 +6,17 @@ permalink: kingcountymeasures20251104
 
 ___
 
+### Auburn SD
+
+![Auburn SD capital levy totals chart](pagesManual/LeviesReport/20251104/AuburnCapital.png "Auburn SD capital levy totals chart")
+![Auburn SD capital levy example parcel chart](pagesManual/LeviesReport/20251104/AuburnCapitalParcel.png "Auburn SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_auburn_capital_20251104_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_auburn_capital_levy_20251104){:target="_blank" rel="noopener"}
+
+___
+
 ### Highline SD
 
 ![Highline SD enrichment levy totals chart](pagesManual/LeviesReport/20251104/HighlineEnrichment.png "Highline SD enrichment levy totals chart")
