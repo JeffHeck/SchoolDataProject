@@ -4,7 +4,7 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: August 10th, 2025
+Last updated: August 12th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -22,7 +22,7 @@ ___
 
 ### Overview
 Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
-- Bonds: 3
+- Bonds: 4
 - Capital Levies: 6
 - Enrichment Levies: 8
 
