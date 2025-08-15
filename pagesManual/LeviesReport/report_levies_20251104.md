@@ -4,13 +4,24 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: August 12th, 2025
+Last updated: August 15th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
     - Overview
+- Bond summary
+    - Total bond cost to local taxpayers
+	- Total bond cost to owners of properties with 2025 assessed values of $500,000
+- Enrichment levy summary
+    - Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+    - Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+	- Ranking of the proposed enrichment levies by their percent increases over their previous enrichment levies
+- Capital levy summary
+    - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+    - Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+- Total local property taxpayer costs of all measures
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
 - Calculator methodology
@@ -27,6 +38,94 @@ Listed below are the types and counts for the tax measures for the August 5th 20
 - Enrichment Levies: 8
 
 ___
+
+## Bond summary
+
+### Total bond cost to local property taxpayers in each school district tax area with a bond measure
+![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20251104/BondSummaryTotals.png "Bond totals")
+
+Data source: Each district's bond/levy projection datasheet
+
+### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20251104/BondSummaryParcels.png "Bond totals")
+
+$500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
+
+The conservative assumption used was that the POF (proportional obligation factor) as of 2025 remains constant over the term of the bond. 
+The interested reader can use the 
+cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the 
+calculators as well as different AVs. 
+The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV 
+for a given year) divided by (The Total AV of all 
+properties in the district's tax area for the same year). 
+
+See the Calculator Methodology section below for more details. 
+
+___
+
+## Enrichment levy summary
+
+### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+![Enrichment levy totals group 1](pagesManual/LeviesReport/20251104/LevySummaryTotals-1.png "Levy totals")
+
+
+### Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20251104/LevySummaryParcels-1.png "Levy average annual cost")
+
+___
+
+## Capital levy summary
+
+### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+![Capital levy totals](pagesManual/LeviesReport/20251104/CapitalLevySummaryTotals.png "Levy totals")
+
+### Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20251104/CapitalLevySummaryParcels.png "Levy average annual cost")
+
+___
+
+## Total local property taxpayer costs of all measures on the ballot
+
+![All tax measures total amounts](pagesManual/LeviesReport/20251104/AllMeasuresSummaryTotals.png "All tax measures")
+
+### Bonds
+
+Number of bonds: 4
+
+Tax (repayment) durations: 20 – 24 years
+
+Total bond principal: $892M
+
+Total bond estimated interest: $735M
+
+Total bond principal + estimated bond interest: $1627M
+
+### Capital levies
+
+Number of capital levies: 6
+
+Durations: 4 – 6 years
+
+Total capital levy amount: $336M
+
+### Enrichment levies
+
+Number of enrichment levies: 8
+
+Durations: 2 – 4 years
+
+Total enrichment levy amount: $650M
+
+###  Capital and enrichment levies
+
+Total levies: $986M
+
+### Bonds, capital and enrichment levies
+
+Total levies + bonds (principal + interest): $2613M
+
+___
+
 
 ## Measure details
 
