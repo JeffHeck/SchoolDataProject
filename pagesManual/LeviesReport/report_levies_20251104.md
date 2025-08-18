@@ -72,6 +72,11 @@ ___
 ### Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
 ![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20251104/LevySummaryParcels-1.png "Levy average annual cost")
 
+Note:
+- Three school districts (Bainbridge Island, Bellingham, and Orcas Island) are running what they call "Supplemental" Enrichment Levies. This is in addition to their existing Enrichment Levies. 
+These districts are taking advantage of the law change earlier this year (2025) that lifts the limit lid and allows school districts to request and collect 
+more tax money from their local property taxpayers starting in the 2026 tax year.
+
 ___
 
 ## Capital levy summary
@@ -116,10 +121,7 @@ Durations: 2 – 4 years
 
 Total enrichment levy amount: $650M
 
-Note:
-- Three school districts (Bainbridge Island, Bellingham, and Orcas Island) are running what they call "Supplemental" Enrichment Levies. This is in addition to their existing Enrichment Levies. 
-These districts are taking advantage of the law change earlier this year (2025) that lifts the limit lid and allows school districts to request and collect 
-more tax money from their local property taxpayers starting in the 2026 tax year.
+
 
 ###  Capital and enrichment levies
 
