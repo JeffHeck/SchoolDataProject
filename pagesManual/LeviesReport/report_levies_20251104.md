@@ -116,6 +116,11 @@ Durations: 2 – 4 years
 
 Total enrichment levy amount: $650M
 
+Note:
+- Three school districts (Bainbridge Island, Bellingham, and Orcas Island) are running what they call "Supplemental" Enrichment Levies. This is in addition to their existing Enrichment Levies. 
+These districts are taking advantage of the law change earlier this year (2025) that lifts the limit lid and allows school districts to request and collect 
+more tax money from their local property taxpayers starting in the 2026 tax year.
+
 ###  Capital and enrichment levies
 
 Total levies: $986M
