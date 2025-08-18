@@ -4,7 +4,7 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: August 15th, 2025
+Last updated: August 18th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -96,9 +96,9 @@ Tax (repayment) durations: 20 – 24 years
 
 Total bond principal: $892M
 
-Total bond estimated interest: $735M
+Total bond estimated interest: $730M
 
-Total bond principal + estimated bond interest: $1627M
+Total bond principal + estimated bond interest: $1622M
 
 ### Capital levies
 
@@ -122,7 +122,7 @@ Total levies: $986M
 
 ### Bonds, capital and enrichment levies
 
-Total levies + bonds (principal + interest): $2613M
+Total levies + bonds (principal + interest): $2608M
 
 ___
 
