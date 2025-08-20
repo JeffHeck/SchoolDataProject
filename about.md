@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-A school data analysis project initiated by Jeff Heckathorn.
-
 Pertinent statistics and charts are presented on K-12 schools in Washington State. 
 This site is devoted to analyzing school data to inform and assist parents, taxpayers and policy makers with their school related decisions. 
 The current emphasis is analyzing school districts' finances including teacher and administrator total compensation packages. 
@@ -39,7 +37,7 @@ OSPI report card data:
 
 ## Contact Info:
 
-[Contact](mailto:info@schooldataproject.com)
+![Contact](/info.png "Info")
 
 
 
