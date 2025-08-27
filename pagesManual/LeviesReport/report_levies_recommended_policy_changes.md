@@ -9,9 +9,6 @@ Last updated: February 17th, 2023
 Contents
 - Recommended policies
 - Reasons for the recommended policies
-- Appendix
-    - Table 1: Pro and con committee member counts for school district measures for the February 14th, 2023 election
-    - Table 2: County voters’ pamphlet rules summary as of February 14th, 2023
 
 
 ## Recommended policies
@@ -88,13 +85,4 @@ And this is an institution (public school district) that is supposed to be teach
 
 ### (6) Almost all tax measures are only run in the lowest voter turnout month of the year (February).
 
-
-## Appendix
-### Table 1: Pro and con committee member counts for school district measures for the February 14th, 2023 election
-
-![Pro con committee counts](pagesManual/LeviesReport/20230214/ProConCommitteeCounts.png "Pro con committee counts")
-
-### Table 2: County voters’ pamphlet rules summary as of February 14th, 2023
-
-![County summary table](pagesManual/LeviesReport/20230214/VotersPamphletRules.png "County summary table")
 
