@@ -18,8 +18,8 @@ Contents
 ### (3) Excessive spiraling administrator compensations should be prohibited
 ### (4) All capital projects for public school districts (traditional public school districts and public charter schools) should be completely funded with State allocated funding.
 ### (5) There should be no local School District Capital Levies and no local School District Bonds.
-### (6) There should be no pensions for public school district personnel and OSPI personnel.
-### (7) The OSPI needs to correct their Per Pupil Expenditure (PPE) reports to include all expenses. 
+### (6) There should be no pensions for public school district personnel.
+### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 ### (8) There should be school vouchers to give families more choices than the one monopoly choice. 
 ### (9) There should be more public charter schools.
 
@@ -49,10 +49,10 @@ There should be no uneven and unfair teacher compensations. See the following in
 ### (5) There should be no local School District Capital Levies and no local School District Bonds.
 Larger school districts, such as the Seattle School District, do not run school district bonds. They only run capital levies. Other school districts have to run expensive 20+ year bonds which, with current high interest rates, nearly double the actual costs to local property taxpayers since bond interest is almost as much as bond principal. 
 
-### (6) There should be no pensions for public school district personnel and OSPI personnel.
+### (6) There should be no pensions for public school district personnel.
 The vast majority (85+%) of their customers (parents and soon students) all have 401K plans – not pensions. Public school district personnel first need to learn about 401k plans. Then they need to teach about 401k plans and investments to their customers. They need to practice what they teach.
 
-### (7) The OSPI needs to correct their Per Pupil Expenditure (PPE) reports to include all expenses. 
+### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 Currently the OSPI’s PPE reports do not include capital outlays nor interest on debt. The OSPI PPE statistics only include the General Fund expenses. This fact needs to at least be clearly stated until the OSPI produces PPE statistics that include all expenses.
 
 ### (8) There should be school vouchers to give families more choices than the one monopoly choice. 
