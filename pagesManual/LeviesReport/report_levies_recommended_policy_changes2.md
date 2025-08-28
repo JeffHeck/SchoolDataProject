@@ -84,5 +84,5 @@ school districts are actually spending.
 Public school districts will benefit from a little competition. But most importantly, more families will have more choices for their children.
 
 ### (9) There should be more public charter schools.
-Charter schools need to be funded the same as the traditional public school districts. Currently WA's public charter schools are funded at a lower amount than the traditional public charter schools. Charter schools 
+Public charter schools need to be funded at the same level as the traditional public school districts. Currently WA's public charter schools are funded at a lower amount than the traditional public school districts. Charter schools 
 are not allowed to run local school levies nor school bonds. 
