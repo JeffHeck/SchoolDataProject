@@ -13,7 +13,7 @@ Contents
 
 ## Summary of recommended new policies
 
-### (1) All school district personnel at all WA school districts should come under statewide salary schedules. 
+### (1) All school district personnel at all WA public school districts should come under statewide salary schedules. 
 ### (2) There should be no local Enrichment Levies that certain school districts still incorrectly call EP&O Levies.
 ### (3) Excessive, spiraling school district administrator compensations should be prohibited.
 ### (4) All capital projects for public school districts (traditional public school districts and public charter schools) should be completely funded with State allocated funding.
@@ -26,10 +26,10 @@ Contents
 
 ## Discussion
 
-### (1) All school district personnel at all WA school districts should adhere to statewide salary schedules. 
+### (1) All school district personnel at all WA public school districts should adhere to statewide salary schedules. 
 We had the McCleary Decision. There should be no threats of strikes at certain individual school districts right before school starts in the fall. The current situation allows for each individual school district to 
 have negotiations between local union leaders and local school district administrators - closed sessions. State legislators and local taxpayers are not represented at these meetings. When the meeting participants 
-announce they have come to an agreement of higher compensations, where does that money come from? State legislators don't just grant more money to that particular school district over other districts. The only source 
+announce they have come to an agreement of higher compensations, where does that extra money come from? State legislators don't just grant more money to that particular school district over other districts. The only source 
 is from Enrichment Levies which were originally advertised to the public as a small source of funds for student enrichment programs. And when that levy limit is reached, school district reps complain to the public and 
 state legislators that they have budget shortfalls since they are not fully funded. This illogical cycle must be corrected.
 
@@ -42,7 +42,7 @@ are more able and likely to pass whatever their local school districts request) 
 
 ### (3) Excessive, spiraling school district administrator compensations should be prohibited.
 Once statewide salary schedules for all school district personnel are enacted, there should be no excessive compensations for district administrators. They shouldn't be a salary bidding contest pitting one district against another. 
-School district administrator compensations should be set by state legislation - similar to the compensation for state legislators themselves. Many of the existing 295 school district superintendents collect more compensation, 
+School district administrator compensations should be set by state legislation - similar to the compensation rules for state legislators themselves. Many of the existing 295 school district superintendents collect more compensation, 
 from taxpayers, than the governor!
 See the following interactive chart that highlights the current problem. 
 There should be no golden handshakes where school district superintendents cash in large amounts (an extra $100,000+) of unused vacation pay when they retire or resign voluntarily or otherwise. 
@@ -70,8 +70,8 @@ TILA (Truth In Lending Act) policies.
 [Link to the report on local voters' pamphlets](https://schooldataproject.com/report_levies_recommended_policy_changes)
 
 ### (6) There should be no pensions for public school district personnel - only 401k plans similar to the private sector.
-The vast majority (85+%) of their customers (parents and soon students) all have 401k plans – not pensions. Public school district personnel first need to educate themselves about 401k plans. 
-Then they need to teach about 401k plans and investments to their students. They will then be practicing what they preach/teach.
+The vast majority (85+%) of their customers (parents and soon students) all have 401k plans – not pensions. Public school district personnel first need to educate themselves about 401k plans and start funding their own. 
+Then they need to teach about 401k plans, investments, and other financial literacy topics to their students. They will then be practicing what they preach/teach.
 
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 Currently the OSPI’s PPE reports (including their online school district report cards) do not include capital outlays nor interest on debt. The OSPI PPE statistics only include school districts' General Fund expenses. 
