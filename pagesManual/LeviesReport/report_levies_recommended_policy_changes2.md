@@ -18,7 +18,7 @@ Contents
 ### (3) Excessive, spiraling school district administrator compensations should be prohibited.
 ### (4) All capital projects for public school districts (traditional public school districts and public charter schools) should be completely funded with State allocated funding.
 ### (5) There should be no local School District Capital Levies and no local School District Bonds.
-### (6) There should be no pensions for public school district personnel.
+### (6) There should be no pensions for public school district personnel - only 401k plans similar to the private sector.
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 ### (8) There should be school vouchers to give families more choices than the one monopoly choice. 
 ### (9) There should be more public charter schools.
@@ -65,19 +65,19 @@ TILA (Truth In Lending Act) policies.
 
 [Link to the report on local voters' pamphlets](https://schooldataproject.com/report_levies_recommended_policy_changes)
 
-### (6) There should be no pensions for public school district personnel.
-The vast majority (85+%) of their customers (parents and soon students) all have 401K plans – not pensions. Public school district personnel first need to learn about 401k plans. 
-Then they need to teach about 401k plans and investments to their customers. They need to practice what they teach.
+### (6) There should be no pensions for public school district personnel - only 401k plans similar to the private sector.
+The vast majority (85+%) of their customers (parents and soon students) all have 401k plans – not pensions. Public school district personnel first need to educate themselves about 401k plans. 
+Then they need to teach about 401k plans and investments to their students. They will then be practicing what they preach/teach.
 
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
-Currently the OSPI’s PPE reports do not include capital outlays nor interest on debt. The OSPI PPE statistics only include the General Fund expenses. This fact needs to at least be 
-clearly stated until the OSPI produces PPE statistics that include all expenses. The OSPI's PPE fails to give the general public and state legislators a complete understanding of what 
+Currently the OSPI’s PPE reports (including their online school district report cards) do not include capital outlays nor interest on debt. The OSPI PPE statistics only include school districts' General Fund expenses. 
+This fact needs to at least be clearly stated until the OSPI produces PPE statistics that include all expenses. The OSPI's PPE fails to give the general public and state legislators a complete understanding of what 
 school districts are actually spending.
 
 [Link to the report on total per pupil expenditures by school district](https://schooldataproject.com/ppe_vs_low_income)
 
 ### (8) There should be school vouchers to give families more choices than the one monopoly choice. 
-Public school districts will benefit from a little competition.
+Public school districts will benefit from a little competition. But most importantly, more families will have more choices for their children.
 
 ### (9) There should be more public charter schools.
 Charter schools need to be funded the same as the traditional public school districts. Currently WA's public charter schools are funded at a lower amount than the traditional public charter schools. Charter schools 
