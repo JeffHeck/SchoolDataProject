@@ -31,15 +31,18 @@ We had the McCleary Decision. All school district personnel should be funded wit
 
 ### (2)There should be no local Enrichment Levies that certain school districts still incorrectly call EP&O Levies.
 The state needs to provide funding for staff compensations based on statewide determined salary schedules. The state needs to provide prescribed funds for extracurricular activities including music and sports programs. 
+As of 2026, WA legislators enacted an Enrichment Levy Lid Increase that allows for higher maximum amounts that school districts can request from local property taxpayers and those amounts can increase at inflation plus an additional 3.3% compounded annually. 
+This fuels inflation. School districts should become more financially efficient - not less so. And this will again result in unequal funding among school districts (wealthier school district areas are more able and likely to pass 
+whatever their local school districts request) which led to the McCleary Decision in the first place.
 
 ### (3) Excessive, spiraling administrator compensations should be prohibited.
 Because of item 1 (statewide salary schedules for all school district personnel), there should be no excessive compensations for district administrators. See the following interactive chart that highlights the current problem. 
 
-https://schooldataproject.com/superintendents_total_compensation_vs_low_income_students
+[Link to the report on superintendent compensations by school district](https://schooldataproject.com/superintendents_total_compensation_vs_low_income_students)
 
 There should be no uneven and unfair teacher compensations. See the following interactive chart.
 
-https://schooldataproject.com/teaching_staff_median_total_compensation_vs_low_income
+[Link to the report on median teacher compensations by school district](https://schooldataproject.com/teaching_staff_median_total_compensation_vs_low_income)
 
 ### (4) All capital projects for public school districts (traditional public school districts and public charter schools) should be funded with State allocated funding.
 
@@ -56,4 +59,5 @@ Currently the OSPI’s PPE reports do not include capital outlays nor interest o
 Public school districts will benefit from a little competition.
 
 ### (9) There should be more public charter schools.
-And charter schools need to be funded the same as the traditional public school districts.
+Charter schools need to be funded the same as the traditional public school districts. Currently WA's public charter schools are funded at a lower amount than the traditional public charter schools. Charter schools 
+are not allowed to run local school levies nor school bonds. 
