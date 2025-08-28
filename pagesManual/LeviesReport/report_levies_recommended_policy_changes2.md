@@ -17,7 +17,7 @@ Contents
 ### (2) There should be no local Enrichment Levies that certain school districts still incorrectly call EP&O Levies.
 ### (3) Excessive spiraling administrator compensations should be prohibited
 ### (4) All capital projects for public school districts (traditional public school districts and public charter schools) should be completely funded with State allocated funding.
-### (5) Because of item 5, there should be no local School District Capital Levies and no local School District Bonds.
+### (5) There should be no local School District Capital Levies and no local School District Bonds.
 ### (6) There should be no pensions for public school district personnel and OSPI personnel.
 ### (7) The OSPI needs to correct their Per Pupil Expenditure (PPE) reports to include all expenses. 
 ### (8) There should be school vouchers to give families more choices than the one monopoly choice. 
@@ -36,7 +36,7 @@ This fuels inflation. School districts should become more financially efficient 
 whatever their local school districts request) which led to the McCleary Decision in the first place.
 
 ### (3) Excessive, spiraling administrator compensations should be prohibited.
-Because of item 1 (statewide salary schedules for all school district personnel), there should be no excessive compensations for district administrators. See the following interactive chart that highlights the current problem. 
+Once statewide salary schedules for all school district personnel are enacted, there should be no excessive compensations for district administrators. See the following interactive chart that highlights the current problem. 
 
 [Link to the report on superintendent compensations by school district](https://schooldataproject.com/superintendents_total_compensation_vs_low_income_students)
 
