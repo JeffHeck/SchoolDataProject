@@ -29,7 +29,7 @@ Contents
 ### (1) All school district personnel at all WA school districts should come under statewide salary schedules. 
 We had the McCleary Decision. All school district personnel should be funded with State allocated funding.All personnel at all WA school districts should come under statewide salary schedules. We had the McCleary Decision. All school district personnel should be funded with State allocated funding. There should be no threats of strikes at certain individual school districts right before school starts.
 
-### (2)There should be no local Enrichment Levies that certain school districts still incorrectly call EP&O Levies.
+### (2) There should be no local Enrichment Levies that certain school districts still incorrectly call EP&O Levies.
 The state needs to provide funding for staff compensations based on statewide determined salary schedules. The state needs to provide prescribed funds for extracurricular activities including music and sports programs. 
 As of 2026, WA legislators enacted an Enrichment Levy Lid Increase that allows for higher maximum amounts that school districts can request from local property taxpayers and those amounts can increase at inflation plus an additional 3.3% compounded annually. 
 This fuels inflation. School districts should become more financially efficient - not less so. And this will again result in unequal funding among school districts (wealthier school district areas are more able and likely to pass 
