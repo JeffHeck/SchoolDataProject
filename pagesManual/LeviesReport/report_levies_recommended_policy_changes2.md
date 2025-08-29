@@ -4,7 +4,7 @@ title: Recommended Policy Changes
 permalink: report_levies_recommended_policy_changes2
 ---
 
-Last updated: August 28th, 2025
+Last updated: August 29th, 2025
 
 Contents
 - Summary of recommended new policies
@@ -20,8 +20,7 @@ Contents
 ### (5) There should be no local School District Capital Levies and no local School District Bonds.
 ### (6) There should be no pensions for public school district personnel - only 401k plans similar to the private sector.
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
-### (8) There should be school vouchers to give families more choices than the one monopoly choice. 
-### (9) There should be more public charter schools.
+### (8) There should be more public charter schools with funding at the same level as the traditional public school districts.
 
 
 ## Discussion
@@ -80,9 +79,6 @@ school districts are actually spending.
 
 [Link to the report on total per pupil expenditures by school district](https://schooldataproject.com/ppe_vs_low_income)
 
-### (8) There should be school vouchers to give families more choices than the one monopoly choice. 
-Public school districts will benefit from a little competition. But most importantly, more families will have more choices for their children.
-
-### (9) There should be more public charter schools.
-Public charter schools need to be funded at the same level as the traditional public school districts. Currently WA's public charter schools are funded at a lower amount than the traditional public school districts. Charter schools 
+### (8) There should be more public charter schools with funding at the same level as the traditional public school districts.
+Currently WA's public charter schools are funded at a lower amount than the traditional public school districts. Charter schools 
 are not allowed to run local school levies nor school bonds. 
