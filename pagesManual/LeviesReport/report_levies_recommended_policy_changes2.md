@@ -13,7 +13,7 @@ Contents
 
 ## Summary of recommended new policies
 
-### (1) All school district personnel at all WA public school districts should come under statewide salary schedules. 
+### (1) All school district personnel at all WA public school districts should adhere to statewide salary schedules. 
 ### (2) There should be no local Enrichment Levies that certain school districts still incorrectly call EP&O Levies.
 ### (3) Excessive, spiraling school district administrator compensations should be prohibited.
 ### (4) All capital projects for public school districts (traditional public school districts and public charter schools) should be completely funded with State allocated funding.
