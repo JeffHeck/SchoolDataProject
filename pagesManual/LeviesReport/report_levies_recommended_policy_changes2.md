@@ -29,7 +29,7 @@ Contents
 We had the McCleary Decision. There should be no threats of strikes at certain individual school districts right before school starts in the fall. The current situation allows for each individual school district to 
 have negotiations between local union leaders and local school district administrators - closed sessions. State legislators and local taxpayers are not represented at these meetings. When the meeting participants 
 announce they have come to an agreement of higher compensations, where does that extra money come from? State legislators don't just grant more money to that particular school district over other districts. The only source 
-is from Enrichment Levies which were originally advertised to the public as a small source of funds for student enrichment programs. And when that levy limit is reached, school district reps complain to the public and 
+is from local Enrichment Levies which were originally advertised to the public as a source of small amounts of funds for student enrichment programs. And when that levy limit is reached, school district reps complain to the public and 
 state legislators that they have budget shortfalls since they are not fully funded. This illogical cycle must be corrected.
 
 ### (2) There should be no local Enrichment Levies that certain school districts still incorrectly call EP&O Levies.
@@ -40,7 +40,7 @@ This fuels inflation. School districts should become more financially efficient 
 are more able and likely to pass whatever their local school districts request) which led to the McCleary Decision in the first place.
 
 ### (3) Excessive, spiraling school district administrator compensations should be prohibited.
-Once statewide salary schedules for all school district personnel are enacted, there should be no excessive compensations for district administrators. They shouldn't be a salary bidding contest pitting one district against another. 
+Once statewide salary schedules for all school district personnel are enacted, there should be no excessive compensations for district administrators. There shouldn't be a salary bidding contest pitting one district against another. 
 School district administrator compensations should be set by state legislation - similar to the compensation rules for state legislators themselves. Many of the existing 295 school district superintendents collect more compensation, 
 from taxpayers, than the governor!
 See the following interactive chart that highlights the current problem. 
@@ -74,11 +74,11 @@ Then they need to teach about 401k plans, investments, and other financial liter
 
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 Currently the OSPI’s PPE reports (including their online school district report cards) do not include capital outlays nor interest on debt. The OSPI PPE statistics only include school districts' General Fund expenses. 
-This fact needs to at least be clearly stated until the OSPI produces PPE statistics that include all expenses. The OSPI's PPE fails to give the general public and state legislators a complete understanding of what 
+This fact needs to at least be clearly stated on the OSPI's district report cards until the OSPI produces PPE statistics that include all expenses. The OSPI's PPE fails to give the general public and state legislators a complete understanding of what 
 school districts are actually spending.
 
 [Link to the report on total per pupil expenditures by school district](https://schooldataproject.com/ppe_vs_low_income)
 
 ### (8) There should be more public charter schools with funding at the same level as the traditional public school districts.
 Currently WA's public charter schools are funded at a lower amount than the traditional public school districts. Charter schools 
-are not allowed to run local school levies nor school bonds. 
+are not allowed to run local school levies nor local school bonds. 
