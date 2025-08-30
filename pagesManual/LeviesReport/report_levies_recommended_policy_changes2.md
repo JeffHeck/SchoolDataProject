@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recommended Policy Changes
+title: Recommended Policies
 permalink: report_levies_recommended_policy_changes2
 ---
 
@@ -70,12 +70,15 @@ TILA (Truth In Lending Act) policies.
 
 ### (6) There should be no pensions for public school district personnel - only 401k plans similar to the private sector.
 The vast majority (85+%) of their customers (parents and soon students) all have 401k plans – not pensions. Public school district personnel first need to educate themselves about 401k plans and start funding their own. 
-Then they need to teach about 401k plans, investments, and other financial literacy topics to their students. They will then be practicing what they preach/teach.
+Then they need to teach about 401k plans, investments, and other financial literacy topics to their students. They will then be practicing what they preach/teach. Currently, when school district staff compensations are 
+reported, usually, the pension funding portion is never mentioned which gives a false, lowered compensation amount. But taxpayers are paying for that funding. The rest of society includes total compensation 
+including the amounts that individuals need to set aside for their own retirements. And the rest of society worries a bit about inflation and have to do their best to account for it. 
+Public school district staff need to join the rest of society and fund their own retirement plans and they need to help combat inflation. 
 
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 Currently the OSPI’s PPE reports (including their online school district report cards) do not include capital outlays nor interest on debt. The OSPI PPE statistics only include school districts' General Fund expenses. 
-This fact needs to at least be clearly stated on the OSPI's district report cards until the OSPI produces PPE statistics that include all expenses. The OSPI's PPE fails to give the general public and state legislators a complete understanding of what 
-school districts are actually spending.
+This fact needs to at least be clearly stated on the OSPI's district report cards until the OSPI produces PPE statistics that include all expenses. The OSPI's PPE fails to give the general public and state legislators a 
+complete understanding of what school districts are actually spending.
 
 [Link to the report on total per pupil expenditures by school district](https://schooldataproject.com/ppe_vs_low_income)
 
