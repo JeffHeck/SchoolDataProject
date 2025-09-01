@@ -4,7 +4,7 @@ title: Recommended Policies
 permalink: report_levies_recommended_policy_changes2
 ---
 
-Last updated: August 29th, 2025
+Last updated: September 1st, 2025
 
 Contents
 - Summary of recommended new policies
@@ -21,6 +21,7 @@ Contents
 ### (6) There should be no pensions for public school district personnel - only 401k plans similar to the private sector.
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 ### (8) There should be more public charter schools with funding at the same level as the traditional public school districts.
+### (9) There should be school vouchers/credits to give families more choices than the one monopoly choice.
 
 
 ## Discussion
@@ -77,11 +78,20 @@ Public school district staff need to join the rest of society and fund their own
 
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 Currently the OSPI’s PPE reports (including their online school district report cards) do not include capital outlays nor interest on debt. The OSPI PPE statistics only include school districts' General Fund expenses. 
+Besides a General Fund, each WA school district also has a Capital Projects Fund, a Transportation Vehicles Fund, a Debt Service Fund, and an ASB Fund for different expense categories.
 This fact needs to at least be clearly stated on the OSPI's district report cards until the OSPI produces PPE statistics that include all expenses. The OSPI's PPE fails to give the general public and state legislators a 
-complete understanding of what school districts are actually spending.
+complete understanding of what school districts are actually spending. 
+For example, for the 2023-2024 school year (the latest available budget data year) for the Seattle SD, the OSPI reports $22,600 for per pupil expenditures for the year. 
+However, if all expenses are included, the Seattle SD actually spent $27,600 per pupil for the year.
 
 [Link to the report on total per pupil expenditures by school district](https://schooldataproject.com/ppe_vs_low_income)
 
 ### (8) There should be more public charter schools with funding at the same level as the traditional public school districts.
 Currently WA's public charter schools are funded at a lower amount than the traditional public school districts. Charter schools 
 are not allowed to run local school levies nor local school bonds. 
+
+### (9) There should be school vouchers/credits to give families more choices than the one monopoly choice.
+Public school districts will benefit from a little competition - improvements in student academic performance as well as in financial efficiencies. 
+Some of our current State legislators went to private school in their youth. More of today's families with young children should also have those same kinds of choices including private school and/or homeschool. 
+
+[Link to info on the recently passed federal tax credit for education scholarships](https://www.edchoice.org/2025-congress-enacts-first-ever-federal-tax-credit-for-education-scholarships/#:~:text=The%20One%20Big%20Beautiful%20Bill,start%20on%20January%201%2C%202027.)
