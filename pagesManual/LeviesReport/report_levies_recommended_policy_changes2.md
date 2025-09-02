@@ -31,7 +31,7 @@ We had the McCleary Decision. There should be no threats of strikes at certain i
 have negotiations between local union leaders and local school district administrators - closed sessions. State legislators and local taxpayers are not represented at these meetings. When the meeting participants 
 announce they have come to an agreement of higher compensations, where does that extra money come from? State legislators don't just grant more money to that particular school district over other districts. The only source 
 is from local Enrichment Levies which were originally advertised to the public as a source of small amounts of funds for student enrichment programs. And when that levy limit is reached, school district reps complain to the public and 
-state legislators that they have budget shortfalls since they are not fully funded. This illogical cycle must be corrected.
+state legislators that they have budget shortfalls since (they claim) they are not fully funded. This illogical cycle is abusive to parents and taxpayers and must be corrected.
 
 ### (2) There should be no local Enrichment Levies that certain school districts still incorrectly call EP&O Levies.
 The state needs to provide funding for staff compensations based on statewide determined salary schedules. The state needs to provide prescribed funds for extracurricular activities including music and sports programs. 
