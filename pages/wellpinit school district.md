@@ -9,6 +9,20 @@ permalink: wellpinit school district
 
 ___
 
+## SBA Information
+
+### Note:
+
+There are 4 levels for the SBA with historical definitions of:
+- Level 1: Standard Not Met
+- Level 2: Standard Nearly Met
+- Level 3: Standard Met
+- Level 4: Standard Exceeded
+
+Prior to 2025, the OSPI declared Level 3 and above as proficient. As of 2025, the OSPI lowered their bar to Level 2 and above and redefined it as Students Showing Foundational Grade-Level Knowledge. For this report, Level 3 and above is still used as the measure of proficiency.
+
+___
+
 ## SBA 4th Grade ELA
 
 [Chart 1 of 1](pages/SBAWellpinit School District4THELA.png "Chart 1 of 1 SBA 4th Grade ELA")
@@ -16,37 +30,9 @@ ___
 
 ___
 
-## SBA 4th Grade MATH
-
-[Chart 1 of 1](pages/SBAWellpinit School District4THMATH.png "Chart 1 of 1 SBA 4th Grade MATH")
-
-
-___
-
-## SBA 8th Grade ELA
-
-[Chart 1 of 1](pages/SBAWellpinit School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
-
-
-___
-
-## SBA 8th Grade MATH
-
-[Chart 1 of 1](pages/SBAWellpinit School District8THMATH.png "Chart 1 of 1 SBA 8th Grade MATH")
-
-
-___
-
 ## SBA 10th Grade ELA
 
 [Chart 1 of 1](pages/SBAWellpinit School District10THELA.png "Chart 1 of 1 SBA 10th Grade ELA")
-
-
-___
-
-## SBA 10th Grade MATH
-
-[Chart 1 of 1](pages/SBAWellpinit School District10THMATH.png "Chart 1 of 1 SBA 10th Grade MATH")
 
 
 ___

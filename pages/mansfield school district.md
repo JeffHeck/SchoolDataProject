@@ -9,6 +9,27 @@ permalink: mansfield school district
 
 ___
 
+## SBA Information
+
+### Note:
+
+There are 4 levels for the SBA with historical definitions of:
+- Level 1: Standard Not Met
+- Level 2: Standard Nearly Met
+- Level 3: Standard Met
+- Level 4: Standard Exceeded
+
+Prior to 2025, the OSPI declared Level 3 and above as proficient. As of 2025, the OSPI lowered their bar to Level 2 and above and redefined it as Students Showing Foundational Grade-Level Knowledge. For this report, Level 3 and above is still used as the measure of proficiency.
+
+___
+
+## SBA 8th Grade ELA
+
+[Chart 1 of 1](pages/SBAMansfield School District8THELA.png "Chart 1 of 1 SBA 8th Grade ELA")
+
+
+___
+
 ## Dual Credit Participation
 
 [Mansfield Elem and High School](pages/hist_dual_credit_participation/Dual Credit BarChartMansfield School District Mansfield Elem and High School.png "Mansfield Elem and High School Dual Credit Participation")

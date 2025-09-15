@@ -11,6 +11,7 @@ Election Reports
 - [School District Tax Measures on the February 11th 2025 Ballot](report_levies_20250211)
 
 Recently Created Or Updated Reports
+- [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers, Spring 2025](sba_outliers)
 - [Recommended Policy Changes - Updated September 1st 2025](report_levies_recommended_policy_changes2)
 - [Student Growth Percentile By District - Updated July 1st 2025](report_sgp)
 - [Total Per Pupil Expenditures Vs Percent Low Income Students - Updated April 7th 2025](ppe_vs_low_income)
@@ -21,7 +22,6 @@ Other Reports
 - [Recommended Policy Changes Regarding Local Voters' Pamphlets And Local Property Tax Measures' Cost Impact Analyses](report_levies_recommended_policy_changes)
 - [Median Total Compensation For Teaching Staff Vs Percent Low Income Students](teaching_staff_median_total_compensation_vs_low_income)
 - [Total Compensation For Superintendents Vs Percent Low Income Students](superintendents_total_compensation_vs_low_income_students)
-- [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers, Spring 2024](sba_outliers)
 - [School Bonds in 2020 Summary](report_bonds)
 
 
