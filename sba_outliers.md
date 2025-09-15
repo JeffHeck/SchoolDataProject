@@ -13,6 +13,7 @@ There are 4 levels for the SBA and WCA of Science with historical definitions of
 - Level 2: Standard Nearly Met
 - Level 3: Standard Met
 - Level 4: Standard Exceeded
+
 Prior to 2025, the OSPI declared Level 3 and above as proficient. As of 2025, the OSPI lowered their bar to Level 2 and above and redefined it as Students Showing Foundational Grade-Level Knowledge. 
 For this report, Level 3 and above and Level 4 are shown.
 
