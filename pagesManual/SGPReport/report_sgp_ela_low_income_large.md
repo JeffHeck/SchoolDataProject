@@ -4,10 +4,10 @@ title: Student Growth Percentile In ELA For Large Districts For Group = Low Inco
 permalink: report_sgp_ela_low_income_large
 ---
 
-### 2023-2024 SGP In ELA For Large Districts For Group = Low Income
+### 2024-2025 SGP In ELA For Large Districts For Group = Low Income
 {% include sgp_report/SGP_ELALowIncomeByDistrictLarge.html %}
 
-## 2023-2024 Median SGP interactive data table
+## 2024-2025 Median SGP interactive data table
 
 {% include sgp_report/SGPTableForAllDistrictsLowIncome.html %}
 
