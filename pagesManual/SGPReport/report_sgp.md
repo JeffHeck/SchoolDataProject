@@ -4,7 +4,7 @@ title: Median Student Growth Percentile By School District Report 2023-2024
 permalink: report_sgp
 ---
 
-Last updated: July 1st, 2025
+Last updated: September 17th, 2025
 
 
 ## Contents
@@ -49,21 +49,21 @@ More information:
 [OSPI SGP Video Explaining The SGP](https://ospi.k12.wa.us/data-reporting/reporting/student-growth-percentiles-sgp)
 
 ## Highlights
-For the 2023-2024 school year, for WA school districts with 200 or more students, the top 5 performing school districts as measured by the Median Student Percentile for Math are:
+For the 2024-2025 school year, for WA school districts with 200 or more students, the top 5 performing school districts as measured by the Median Student Percentile for Math are:
 
 County, District, Median SGP Math
 - King, Rainier Prep Charter School, 77
-- Yakima, Union Gap, 64
 - King, Impact Salish Sea Elementary, 64
+- Yakima, Union Gap, 64
 - Mason, Hood Canal, 63
 - King, Vashon Island, 63
 
-For the 2023-2024 school year, for school districts with 200 or more students, the top 5 performing school districts as measured by the Median Student Percentile for ELA are:
+For the 2024-2025 school year, for school districts with 200 or more students, the top 5 performing school districts as measured by the Median Student Percentile for ELA are:
 
 County, District, Median SGP  ELA
-- King, Rainier Prep Charter School, 70.5
+- King, Rainier Prep Charter School, 70
 - Mason, Southside, 67
-- Yakima, Union Gap, 65.5
+- Yakima, Union Gap, 66
 - Pend Oreille, Cusick, 65
 - Lewis, White Pass, 64
 
@@ -76,25 +76,10 @@ and the Vancouver SD which has one of the lowest overall mSGPs for large school 
 
 As with other SGP studies in other states, the WA State SGP data clearly shows the weak negative correlation between mSGP and the percentage of low income students at a school district. 
 
-Comments on the mSGP student group data:
-
-- The Gender X students in the Seattle SD are improving in their academics at a faster pace than their peers.
-- Asian students (and their parents) put a heavy emphasis on education and working towards a long range goal.
-- English Language Learners are having to learn basic and sometimes remedial English while they try to learn the next level ELA and mathematics. 
-- Highly Capable (HC) students learn quickly and continually when given the chance to thrive. That is why they are highly capable. 
-Keep in mind that students designated as highly capable (as part of admissions to highly capable programs)
-usually already scored in the 95th percentile on previous academic tests. So their SGP academic peers across the state, by definition, also scored in the 
-extreme high end of assessments. 
-Many of the SGP academic peers of each highly capable student therefore are likely to also be in highly capable programs at other school districts. 
-The Northshore SD by far has the highest ratio of HC students to Total Enrollment. 33% (1 out of 3) of their 4th - 8th graders are designated as HC and are in their HC programs.
-- Being homeless makes it difficult to keep up.
-- Non-low income students are more likely to have 2 college educated parents at home who can provide built-in tutoring 24/7 to not only help their children keep pace but to excel. 
-- Students without disabilities have fewer problems to overcome.
-
 
 ## Median SGP interactive charts
 
-### 2023-2024 Median SGP ELL all districts
+### 2024-2025 Median SGP ELL all districts
 {% include sgp_report/SGP_ELAByDistrict.html %}
 
 ### Other charts
@@ -107,7 +92,7 @@ The Northshore SD by far has the highest ratio of HC students to Total Enrollmen
 - [Median Student Growth Percentile In Math By District For Large Districts For Group = Low Income](report_sgp_math_low_income_large)
 
 
-## 2023-2024 Median SGP interactive data table
+## 2024-2025 Median SGP interactive data table
 
 {% include sgp_report/SGPTableForAllDistricts.html %}
 
