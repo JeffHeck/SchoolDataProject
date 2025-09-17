@@ -13,7 +13,7 @@ Election Reports
 Recently Created Or Updated Reports
 - [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers, Spring 2025](sba_outliers)
 - [Recommended Policy Changes - Updated September 1st 2025](report_levies_recommended_policy_changes2)
-- [Student Growth Percentile By District - Updated July 1st 2025](report_sgp)
+- [Student Growth Percentile By District - Updated September 17th 2025](report_sgp)
 - [Total Per Pupil Expenditures Vs Percent Low Income Students - Updated April 7th 2025](ppe_vs_low_income)
 
 Other Reports
