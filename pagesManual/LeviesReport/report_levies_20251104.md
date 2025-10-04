@@ -4,7 +4,7 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: August 18th, 2025
+Last updated: October 3rd, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -33,7 +33,7 @@ ___
 
 ### Overview
 Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
-- Bonds: 4
+- Bonds: 5
 - Capital Levies: 6
 - Enrichment Levies: 8
 
@@ -95,15 +95,15 @@ ___
 
 ### Bonds
 
-Number of bonds: 4
+Number of bonds: 5
 
 Tax (repayment) durations: 20 – 24 years
 
-Total bond principal: $892M
+Total bond principal: $1029M
 
-Total bond estimated interest: $730M
+Total bond estimated interest: $838M
 
-Total bond principal + estimated bond interest: $1622M
+Total bond principal + estimated bond interest: $1867M
 
 ### Capital levies
 
@@ -129,7 +129,7 @@ Total levies: $986M
 
 ### Bonds, capital and enrichment levies
 
-Total levies + bonds (principal + interest): $2608M
+Total levies + bonds (principal + interest): $2853M
 
 ___
 
@@ -147,6 +147,8 @@ ___
 [Kitsap](kitsapcountymeasures20251104)
 
 [Mason](masoncountymeasures20251104)
+
+[Pierce](piercecountymeasures20251104)
 
 [San Juan](sanjuancountymeasures20251104)
 
