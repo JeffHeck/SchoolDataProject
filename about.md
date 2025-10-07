@@ -17,7 +17,7 @@ This site is devoted to analyzing school data to inform and assist parents, taxp
 The current emphasis is analyzing school districts' finances including teacher and administrator total compensation packages. 
 
 
-## Data Sources:
+## Data Sources
 
 For the SBA (Smarter Balanced Assessment), school employee compensation, and demographic data:
 
@@ -43,7 +43,7 @@ OSPI report card data:
 
 [OSPI Report Card](https://washingtonstatereportcard.ospi.k12.wa.us/)
 
-## Contact Info:
+## Contact Info
 
 ![Contact](/info.png "Info")
 
