@@ -115,7 +115,7 @@ with no state-wide salary limits or accountability.
 
 Two key reforms are proposed:
 
-Voters’ Pamphlet Representation: Currently, districts must recruit both pro and con committees for tax measures. In practice, they often fill only the pro side — usually with paid staff — leaving voters without a counterargument.
+Voters’ Pamphlet Representation: Currently, districts must recruit both pro and con committees for their own tax measures. In practice, they often fill only the pro side — usually with paid staff — leaving voters without a counterargument.
 
 Transparency in Bond Campaigns: School districts are not bound by the Truth in Lending Act (TILA). Long-term bonds (often 20+ years) can double in total cost due to interest, yet campaign materials frequently omit these full taxpayer impacts.
 
