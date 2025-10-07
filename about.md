@@ -87,7 +87,8 @@ This report highlights schools that significantly outperform on state testing in
 
 3) Student Growth Percentiles (SGP)
 
-The SGP report measures how much students have improved academically compared to their peers statewide. This metric is especially helpful for understanding progress in charter schools, which often serve students entering several grade levels behind.
+The SGP report measures how much students have improved academically compared to their academic peers statewide. This metric is especially helpful for understanding progress in charter schools, 
+which often serve students entering several grade levels behind.
 
 [Student Growth Percentile By District](report_sgp)
 
