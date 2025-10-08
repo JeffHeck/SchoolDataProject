@@ -4,7 +4,7 @@ title: School District Tax Measures November 4th 2025
 permalink: report_levies_20251104
 ---
 
-Last updated: October 3rd, 2025
+Last updated: October 8th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -34,8 +34,8 @@ ___
 ### Overview
 Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
 - Bonds: 5
-- Capital Levies: 6
-- Enrichment Levies: 8
+- Capital Levies: 7
+- Enrichment Levies: 11
 
 ___
 
@@ -120,29 +120,29 @@ Total bond principal + estimated bond interest: $1867M
 
 ### Capital levies
 
-Number of capital levies: 6
+Number of capital levies: 7
 
 Durations: 4 – 6 years
 
-Total capital levy amount: $336M
+Total capital levy amount: $365M
 
 ### Enrichment levies
 
-Number of enrichment levies: 8
+Number of enrichment levies: 11
 
 Durations: 2 – 4 years
 
-Total enrichment levy amount: $650M
+Total enrichment levy amount: $700M
 
 
 
 ###  Capital and enrichment levies
 
-Total levies: $986M
+Total levies: $1065M
 
 ### Bonds, capital and enrichment levies
 
-Total levies + bonds (principal + interest): $2853M
+Total levies + bonds (principal + interest): $2932M
 
 ___
 
@@ -158,6 +158,8 @@ ___
 [King](kingcountymeasures20251104)
 
 [Kitsap](kitsapcountymeasures20251104)
+
+[Lewis](lewiscountymeasures20251104)
 
 [Mason](masoncountymeasures20251104)
 

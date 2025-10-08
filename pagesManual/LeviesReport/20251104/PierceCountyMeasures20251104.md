@@ -22,3 +22,24 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ___
 
+### Steilacoom SD
+
+![Steilacoom SD capital levy totals chart](pagesManual/LeviesReport/20251104/SteilacoomCapital.png "Steilacoom SD capital levy totals chart")
+![Steilacoom SD capital levy example parcel chart](pagesManual/LeviesReport/20251104/SteilacoomCapitalParcel.png "Steilacoom SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_steilacoom_capital_20251104_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_steilacoom_capital_levy_20251104){:target="_blank" rel="noopener"}
+
+___
+
+
+![Steilacoom SD enrichment levy totals chart](pagesManual/LeviesReport/20251104/SteilacoomEnrichment.png "Steilacoom SD enrichment levy totals chart")
+![Steilacoom SD enrichment levy example parcel chart](pagesManual/LeviesReport/20251104/SteilacoomEnrichmentParcel.png "Steilacoom SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_steilacoom_enrichment_20251104_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_steilacoom_enrichment_levy_20251104){:target="_blank" rel="noopener"}
+
+___
+

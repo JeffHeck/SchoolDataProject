@@ -6,7 +6,11 @@
 
 [Kitsap](kitsapcountymeasures20251104)
 
+[Lewis](lewiscountymeasures20251104)
+
 [Mason](masoncountymeasures20251104)
+
+[Pierce](piercecountymeasures20251104)
 
 [San Juan](sanjuancountymeasures20251104)
 

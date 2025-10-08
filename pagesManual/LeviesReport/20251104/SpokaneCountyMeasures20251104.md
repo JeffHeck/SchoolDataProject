@@ -17,6 +17,17 @@ ___
 
 ___
 
+### Orchard Prairie SD
+
+![Orchard Prairie SD enrichment levy totals chart](pagesManual/LeviesReport/20251104/OrchardPrairieEnrichment.png "Orchard Prairie SD enrichment levy totals chart")
+![Orchard Prairie SD enrichment levy example parcel chart](pagesManual/LeviesReport/20251104/OrchardPrairieEnrichmentParcel.png "Orchard Prairie SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_orchard_prairie_enrichment_20251104_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_orchard_prairie_enrichment_levy_20251104){:target="_blank" rel="noopener"}
+
+___
+
 ### Riverside SD
 
 ![Riverside SD capital levy totals chart](pagesManual/LeviesReport/20251104/RiversideCapital.png "Riverside SD capital levy totals chart")
