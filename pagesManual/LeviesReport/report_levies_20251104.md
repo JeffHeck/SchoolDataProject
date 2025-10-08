@@ -11,6 +11,7 @@ As analyses are completed, summary results will be provided on this page.
 ## Contents
 - Summary
     - Overview
+    - Local voters' pamphlet (LVP) statistics
 - Bond summary
     - Total bond cost to local taxpayers
 	- Total bond cost to owners of properties with 2025 assessed values of $500,000
@@ -36,6 +37,22 @@ Listed below are the types and counts for the tax measures for the August 5th 20
 - Bonds: 5
 - Capital Levies: 7
 - Enrichment Levies: 11
+
+___
+
+### Local voters' pamphlet (LVP) statistics
+- Bond, enrichment levies, and capital levies
+    - Number of measures =  23
+    - Number of measures with pro statements =  21
+    - Number of measures with con statements =  9
+	
+LVP pro/con statement statistics by county
+
+![Percent of tax measures with LVP pro statements by county](pagesManual/LeviesReport/20251104/CountyLVPPro.png "LVP Pro Statements")
+
+![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20251104/CountyLVPCon.png "LVP Con Statements")
+
+Note: The number of school district tax measures for each county is shown in parentheses.
 
 ___
 
