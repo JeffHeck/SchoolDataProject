@@ -4,7 +4,7 @@ title: Recommended Policies
 permalink: report_levies_recommended_policy_changes2
 ---
 
-Last updated: September 1st, 2025
+Last updated: October 28th, 2025
 
 Contents
 - Summary of recommended new policies
@@ -39,6 +39,8 @@ As of 2026, WA legislators enacted an Enrichment Levy Lid Increase that allows f
 an additional 3.3% compounded annually. 
 This fuels inflation. School districts should become more financially efficient - not less so. And these escalating local taxes will again result in unequal funding among school districts (wealthier school district areas 
 are more able and likely to pass whatever their local school districts request) which led to the McCleary Decision in the first place.
+
+WA's public charter schools are not allowed to run local school enrichment levies, local school capital levies, or local school bonds. WA's 295 traditional public school districts need to follow the same rules.
 
 ### (3) Excessive, spiraling school district administrator compensations should be prohibited.
 Once statewide salary schedules for all school district personnel are enacted, there should be no excessive compensations for district administrators. There shouldn't be a salary bidding contest pitting one district against another. 
