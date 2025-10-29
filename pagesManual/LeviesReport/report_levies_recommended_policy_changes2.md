@@ -4,7 +4,7 @@ title: Recommended Policies
 permalink: report_levies_recommended_policy_changes2
 ---
 
-Last updated: October 28th, 2025
+Last updated: October 29th, 2025
 
 Contents
 - Summary of recommended new policies
