@@ -188,9 +188,9 @@ This is why TILA (Truth In Lending Act) rules should apply to school district le
 If school districts still want to show future rates for their new measures, they should then assume no change in Total AV from the current year and THEN calculate their future rates. Citizens can then calculate their 
 future levy amounts based on the value of their properties' current year AV. 
 
-See the Issaquah SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
+See the Northshore SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
 
-[Link to the Issaquah SD example](table_issaquah_bond_20250211)
+[Link to the Northshore SD example](table_northshore_bond_20260210)
 
 
 ___
