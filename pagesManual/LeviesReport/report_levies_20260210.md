@@ -4,7 +4,7 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: December 9th, 2025
+Last updated: December 10th, 2025
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -45,6 +45,8 @@ TBD
 ### Tax measures that have been analyzed to date by county
 
 [King](kingcountymeasures20260210)
+
+[Whatcom](whatcomcountymeasures20260210)
 
 ___
 
