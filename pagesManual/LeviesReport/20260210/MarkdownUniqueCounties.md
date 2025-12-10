@@ -24,8 +24,6 @@
 
 [Klickitat](klickitatcountymeasures20260210)
 
-[Lewis](lewiscountymeasures20260210)
-
 [Mason](masoncountymeasures20260210)
 
 [Okanogan](okanogancountymeasures20260210)
@@ -39,8 +37,6 @@
 [Skamania](skamaniacountymeasures20260210)
 
 [Snohomish](snohomishcountymeasures20260210)
-
-[Snohomish ](snohomishcountymeasures20260210)
 
 [Thurston](thurstoncountymeasures20260210)
 

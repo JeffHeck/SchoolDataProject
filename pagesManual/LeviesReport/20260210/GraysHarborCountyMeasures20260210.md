@@ -39,17 +39,6 @@ ___
 
 ___
 
-### McCleary SD
-
-![McCleary SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/McClearyEnrichment.png "McCleary SD enrichment levy totals chart")
-![McCleary SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/McClearyEnrichmentParcel.png "McCleary SD enrichment  example parcel chart")
-
-[Link to the interactive calculator](calculator_mccleary_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
-
-[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_mccleary_enrichment_levy_20260210){:target="_blank" rel="noopener"}
-
-___
-
 ### North Beach SD
 
 ![North Beach SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/NorthBeachEnrichment.png "North Beach SD enrichment levy totals chart")
