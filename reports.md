@@ -5,10 +5,10 @@ permalink:
 ---
 
 Election Reports
+- [School District Tax Measures on the February 10th 2025 Ballot](report_levies_20260210)
 - [School District Tax Measures on the November 4th 2025 Ballot](report_levies_20251104)
 - [School District Tax Measures on the August 5th 2025 Ballot](report_levies_20250805)
 - [School District Tax Measures on the April 22nd 2025 Ballot](report_levies_20250422)
-- [School District Tax Measures on the February 11th 2025 Ballot](report_levies_20250211)
 
 Recently Created Or Updated Reports
 - [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers, Spring 2025](sba_outliers)
