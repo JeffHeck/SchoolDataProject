@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Total Compensation For Superintendents Vs Percent Low Income Students
+title: Total Compensation For Superintendents By School District
 permalink: superintendents_total_compensation_vs_low_income_students
 ---
 
 
-{% include ppe_report/ScatterSuperintendentsTotalCompensationVsLowIncomeAllDistricts.html %}
+<!--{% include ppe_report/ScatterSuperintendentsTotalCompensationVsLowIncomeAllDistricts.html %}-->
+## 2024-2025
 
 ### Sortable data table 
 
