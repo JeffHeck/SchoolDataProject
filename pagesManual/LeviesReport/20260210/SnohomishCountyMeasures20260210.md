@@ -17,6 +17,43 @@ ___
 
 ___
 
+### Edmonds SD
+
+![Edmonds SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/EdmondsEnrichment.png "Edmonds SD enrichment levy totals chart")
+![Edmonds SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/EdmondsEnrichmentParcel.png "Edmonds SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_edmonds_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_edmonds_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+### Everett SD
+
+![Everett SD bond totals chart](pagesManual/LeviesReport/20260210/Everett.png "Everett SD bond totals chart")
+![Everett SD bond example parcel chart](pagesManual/LeviesReport/20260210/EverettParcel.png "Everett SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_everett_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_everett_bond_20260210){:target="_blank" rel="noopener"}
+
+This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
+
+![Everett SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/EverettNewConstruction.png "Everett SD new construction chart")
+
+
+___
+
+
+![Everett SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/EverettEnrichment.png "Everett SD enrichment levy totals chart")
+![Everett SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/EverettEnrichmentParcel.png "Everett SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_everett_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_everett_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
 ### Granite Falls SD
 
 ![Granite Falls SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/GraniteFallsEnrichment.png "Granite Falls SD enrichment levy totals chart")
