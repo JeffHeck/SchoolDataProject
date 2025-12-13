@@ -4,8 +4,15 @@ title: Total Compensation Per Pupil For Teaching Staff
 permalink: teaching_staff_total_compensation_per_pupil
 ---
 
+## 2024-2025 School Year
 
-{% include ppe_report/ScatterTeacherTotalCompensationPerStudentAllDistricts.html %}
+{% include ppe_report/ScatterTeachersMedianTotalCompensationVsLowIncomeAllDistricts.html %}
+
+### Sortable data table 
+
+{% include ppe_report/ScatterTeachersMedianTotalCompensationVsLowIncomeAllDistrictsTable.html %}
+
+### Source: OSPI S275 data
 
 ### Note:
 - Total Compensation = Cash + Insurance Benefits + Mandatory Benefits

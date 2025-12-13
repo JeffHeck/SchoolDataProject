@@ -4,13 +4,16 @@ title: Total Compensation For Superintendents By School District
 permalink: superintendents_total_compensation_vs_low_income_students
 ---
 
+## 2024-2025 School Year
 
-<!--{% include ppe_report/ScatterSuperintendentsTotalCompensationVsLowIncomeAllDistricts.html %}-->
-## 2024-2025
+{% include ppe_report/ScatterSuperintendentsTotalCompensationVsLowIncomeAllDistricts.html %}
 
 ### Sortable data table 
 
 {% include ppe_report/ScatterSuperintendentsTotalCompensationVsLowIncomeAllDistrictsTable.html %}
+
+
+### Source: OSPI S275 data
 
 ### Note:
 - Total Compensation = Cash + Insurance Benefits + Mandatory Benefits

@@ -4,8 +4,15 @@ title: Median Total Compensation For Teaching Staff Vs Low Income Students
 permalink: teaching_staff_median_total_compensation_vs_low_income
 ---
 
+## 2024-2025 School Year
 
 {% include ppe_report/ScatterTeachersMedianTotalCompensationVsLowIncomeAllDistricts.html %}
+
+### Sortable data table 
+
+{% include ppe_report/ScatterTeachersMedianTotalCompensationVsLowIncomeAllDistrictsTable.html %}
+
+### Source: OSPI S275 data
 
 ### Note:
 - Total Compensation = Cash + Insurance Benefits + Mandatory Benefits
