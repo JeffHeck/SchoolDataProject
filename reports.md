@@ -13,10 +13,10 @@ Election Reports
 Recently Created Or Updated Reports
 - [Total Compensation For Superintendents By School District - Updated December 12th 2025](superintendents_total_compensation_vs_low_income_students)
 - [Median Total Compensation For Teaching Staff Vs Percent Low Income Students - Updated December 12th 2025](teaching_staff_median_total_compensation_vs_low_income)
+- [Total Per Pupil Expenditures Vs Percent Low Income Students - Updated December 15th 2025](ppe_vs_low_income)
 - [Smarter Balanced Assessment (SBA) and Washington Comprehensive Assessment of Science (WCAS) Outliers, Spring 2025](sba_outliers)
 - [Recommended Policy Changes - Updated October 29th 2025](report_levies_recommended_policy_changes2)
 - [Student Growth Percentile By District - Updated September 17th 2025](report_sgp)
-- [Total Per Pupil Expenditures Vs Percent Low Income Students - Updated April 7th 2025](ppe_vs_low_income)
 
 Other Reports
 - [Why February is the Most Popular Election Month for School District Tax Measures](report_election_month)
