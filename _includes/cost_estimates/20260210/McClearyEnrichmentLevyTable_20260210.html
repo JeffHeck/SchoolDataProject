@@ -19,10 +19,10 @@ table, th, td {
 	sampleParcelAV = 700000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 250788002;
+	totalLevyCost = 2870000;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 4;
+	levyYears = 2;
 	levyStartYearOffset = 2;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// Total AV Annual Change Percent
@@ -68,10 +68,8 @@ table, th, td {
 		data.addRows([
 				['2025', 0, 508557684, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
 			['2026', 0, 508557684, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2027', 58217253, 508557684, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2028', 61514773, 508557684, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2029', 64320460, 508557684, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2030', 66735516, 508557684, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2027', 1410000, 508557684, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2028', 1460000, 508557684, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
 
 		]);
 		
@@ -207,7 +205,7 @@ table, th, td {
 		table_data.addRows([
 			['Total new levy cost', totalNewLevyTax],
 			['Total cost for the owner of the example property', totalLevyCostParcel],
-			['Average cost per year for 4 years for the owner of the example property', averageTotalLevyCostParcel],
+			['Average cost per year for 2 years for the owner of the example property', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -426,12 +424,12 @@ table, th, td {
   <p></p>
   <H3>Output (Results)</H3>
   <p>Estimated obligations for the example property</P>
-  <div id="table_output_general_div" style="width:1200px; height: 268px;"></div>
+  <div id="table_output_general_div" style="width:1200px; height: 214px;"></div>
   <div id="table_output_div" style="width:2000px; height: 150px;"></div>
   <H3>Usage</H3>
   <p>1) Select your property's 2025 Tax Year AV.</p>
-  <p>2) Select your property's guesstimated annual AV percent change for the next 4 years.</p>
-  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 4 years. 
+  <p>2) Select your property's guesstimated annual AV percent change for the next 2 years.</p>
+  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 2 years. 
   This should usually be set to the same value assumed for parameter 2 as most properties rise and fall in AV at the same pace. 
   An example where that might not be the case is if your property has more land than the average property since land tends to appreciate faster than structures.</p>
   <p>4) Select the guesstimated value for new construction as a percent of the previous year's Total AV.</p>

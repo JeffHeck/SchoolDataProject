@@ -6,6 +6,27 @@ permalink: graysharborcountymeasures20260210
 
 ___
 
+### Cosmopolis SD
+
+![Cosmopolis SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/CosmopolisEnrichment.png "Cosmopolis SD enrichment levy totals chart")
+![Cosmopolis SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/CosmopolisEnrichmentParcel.png "Cosmopolis SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_cosmopolis_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_cosmopolis_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+
+![Cosmopolis SD tech levy totals chart](pagesManual/LeviesReport/20260210/CosmopolisTech.png "Cosmopolis SD tech levy totals chart")
+![Cosmopolis SD tech levy example parcel chart](pagesManual/LeviesReport/20260210/CosmopolisTechParcel.png "Cosmopolis SD tech  example parcel chart")
+
+[Link to the interactive calculator](calculator_cosmopolis_tech_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_cosmopolis_tech_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
 ### Elma SD
 
 ![Elma SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/ElmaEnrichment.png "Elma SD enrichment levy totals chart")
@@ -39,6 +60,17 @@ ___
 
 ___
 
+### McCleary SD
+
+![McCleary SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/McClearyEnrichment.png "McCleary SD enrichment levy totals chart")
+![McCleary SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/McClearyEnrichmentParcel.png "McCleary SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_mccleary_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_mccleary_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
 ### North Beach SD
 
 ![North Beach SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/NorthBeachEnrichment.png "North Beach SD enrichment levy totals chart")
@@ -69,6 +101,17 @@ ___
 [Link to the interactive calculator](calculator_satsop_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_satsop_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+### Wishkah SD
+
+![Wishkah SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/WishkahEnrichment.png "Wishkah SD enrichment levy totals chart")
+![Wishkah SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/WishkahEnrichmentParcel.png "Wishkah SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_wishkah_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_wishkah_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
 ___
 

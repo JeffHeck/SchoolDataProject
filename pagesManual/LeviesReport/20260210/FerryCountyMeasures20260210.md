@@ -17,6 +17,17 @@ ___
 
 ___
 
+### Keller SD
+
+![Keller SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/KellerEnrichment.png "Keller SD enrichment levy totals chart")
+![Keller SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/KellerEnrichmentParcel.png "Keller SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_keller_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_keller_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
 ### Republic SD
 
 ![Republic SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/RepublicEnrichment.png "Republic SD enrichment levy totals chart")

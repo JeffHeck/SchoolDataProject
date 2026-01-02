@@ -75,6 +75,17 @@ ___
 
 ___
 
+### Index SD
+
+![Index SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/IndexEnrichment.png "Index SD enrichment levy totals chart")
+![Index SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/IndexEnrichmentParcel.png "Index SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_index_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_index_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
 ### Lake Stevens SD
 
 ![Lake Stevens SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/LakeStevensEnrichment.png "Lake Stevens SD enrichment levy totals chart")
