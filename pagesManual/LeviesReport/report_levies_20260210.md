@@ -162,6 +162,51 @@ Group 2
 
 <p style="text-align: center;">Figure 16</p>
 
+## Total local property taxpayer costs of all measures
+![All tax measures total amounts](pagesManual/LeviesReport/20260210/AllMeasuresSummaryTotals.png "All tax measures")
+
+<p style="text-align: center;">Figure 17</p>
+
+### Bonds
+
+Number of bonds: 13
+
+Tax (repayment) durations: 19 – 26 years
+
+Total bond principal: $2.8B
+
+Total bond estimated interest: $2.0B
+
+Total bond principal + estimated bond interest: $4.8B
+
+### Capital levies
+
+Number of capital levies: 44
+
+Durations: 1 – 6 years
+
+Total capital levy amount: $1.8B
+
+### Enrichment levies
+
+Number of enrichment levies: 115
+
+Durations: 2 – 4 years
+
+Total enrichment levy amount: $7.1B
+
+
+
+###  Capital and enrichment levies
+
+Total levies: $8.8B
+
+### Bonds, capital and enrichment levies
+
+Total levies + bonds (principal + interest): $13.6B
+
+___
+
 ## Measure details
 
 ### Tax measures that have been analyzed to date by county
