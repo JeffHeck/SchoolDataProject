@@ -4,11 +4,11 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: January 2nd, 2025
-
-As analyses are completed, summary results will be provided on this page.
+Last updated: January 6th, 2025
 
 Preliminary!
+
+As analyses are completed, summary results will be provided on this page.
 
 ## Contents
 - Summary
@@ -28,18 +28,140 @@ Preliminary!
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
 - Calculator methodology
-    - POF proof
+    - Proportional Obligation Factor (POF) proof
 
 ___
 
 ## Summary
+
+### Overview
+Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
+- Bonds: 13
+- Capital Levies: 44
+- Enrichment Levies: 115
+
+### Local voters' pamphlet (LVP) statistics
 TBD
+
 ## Bond summary
-TBD
+### Total bond cost to local property taxpayers in each school district tax area with a bond measure
+![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20260210/BondSummaryTotals.png "Bond totals")
+
+<p style="text-align: center;">Figure 1</p>
+
+Data source: Each district's bond/levy projection datasheet
+
+### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20260210/BondSummaryParcels.png "Bond totals")
+
+<p style="text-align: center;">Figure 2</p>
+
+$500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
+
+The conservative assumption used was that the POF (proportional obligation factor) as of 2025 remains constant over the term of the bond. 
+The interested reader can use the 
+cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the 
+calculators as well as different AVs. 
+The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV 
+for a given year) divided by (The Total AV of all 
+properties in the district's tax area for the same year). 
+
+See the Calculator Methodology section below for more details. 
+
+___
+
 ## Enrichment levy summary
-TBD
+
+### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+Group 1
+
+![Enrichment levy totals group 1](pagesManual/LeviesReport/20260210/LevySummaryTotals-1.png "Levy totals")
+
+<p style="text-align: center;">Figure 3</p>
+
+Group 2
+
+![Enrichment levy totals group 2](pagesManual/LeviesReport/20260210/LevySummaryTotals-2.png "Levy totals")
+
+<p style="text-align: center;">Figure 4</p>
+
+Group 3
+![Enrichment levy totals group 3](pagesManual/LeviesReport/20260210/LevySummaryTotals-3.png "Levy totals")
+
+<p style="text-align: center;">Figure 5</p>
+
+Group 4
+
+![Enrichment levy totals group 4](pagesManual/LeviesReport/20260210/LevySummaryTotals-4.png "Levy totals")
+
+<p style="text-align: center;">Figure 6</p>
+
+Group 5
+
+![Enrichment levy totals group 5](pagesManual/LeviesReport/20260210/LevySummaryTotals-5.png "Levy totals")
+
+<p style="text-align: center;">Figure 7</p>
+
+### Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+
+Group 1
+
+![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20260210/LevySummaryParcels-1.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 8</p>
+
+Group 2
+
+![Average annual enrichment levy cost for example properties group 2](pagesManual/LeviesReport/20260210/LevySummaryParcels-2.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 9</p>
+
+Group 3
+
+![Average annual enrichment levy cost for example properties group 3](pagesManual/LeviesReport/20260210/LevySummaryParcels-3.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 10</p>
+
+Group 4
+
+![Average annual enrichment levy cost for example properties group 4](pagesManual/LeviesReport/20260210/LevySummaryParcels-4.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 11</p>
+
+Group 5
+
+![Average annual enrichment levy cost for example properties group 5](pagesManual/LeviesReport/20260210/LevySummaryParcels-5.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 12</p>
+
 ## Capital levy summary
-TBD
+
+### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+Group 1
+
+![Capital levy totals](pagesManual/LeviesReport/20260210/CapitalLevySummaryTotals-1.png "Levy totals")
+
+<p style="text-align: center;">Figure 13</p>
+
+Group 2
+
+![Capital levy totals](pagesManual/LeviesReport/20260210/CapitalLevySummaryTotals-2.png "Levy totals")
+
+<p style="text-align: center;">Figure 14</p>
+
+### Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+Group 1
+
+![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20260210/CapitalLevySummaryParcels-1.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 15</p>
+
+Group 2
+
+![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20260210/CapitalLevySummaryParcels-2.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 16</p>
+
 ## Measure details
 
 ### Tax measures that have been analyzed to date by county
@@ -95,6 +217,8 @@ TBD
 [Skamania](skamaniacountymeasures20260210)
 
 [Snohomish](snohomishcountymeasures20260210)
+
+[Spokane](spokanecountymeasures20260210)
 
 [Stevens](stevenscountymeasures20260210)
 

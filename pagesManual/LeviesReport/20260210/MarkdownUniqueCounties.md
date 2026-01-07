@@ -50,6 +50,8 @@
 
 [Snohomish](snohomishcountymeasures20260210)
 
+[Spokane](spokanecountymeasures20260210)
+
 [Stevens](stevenscountymeasures20260210)
 
 [Thurston](thurstoncountymeasures20260210)
@@ -57,8 +59,6 @@
 [Wahkiakum](wahkiakumcountymeasures20260210)
 
 [Walla Walla](wallawallacountymeasures20260210)
-
-[Whatcom](whatcomcountymeasures20260210)
 
 [Whitman](whitmancountymeasures20260210)
 

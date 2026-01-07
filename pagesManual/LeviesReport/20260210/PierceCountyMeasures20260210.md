@@ -136,6 +136,21 @@ ___
 
 ### University Place SD
 
+![University Place SD bond totals chart](pagesManual/LeviesReport/20260210/UniversityPlace.png "University Place SD bond totals chart")
+![University Place SD bond example parcel chart](pagesManual/LeviesReport/20260210/UniversityPlaceParcel.png "University Place SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_university_place_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_university_place_bond_20260210){:target="_blank" rel="noopener"}
+
+This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
+
+![University Place SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/UniversityPlaceNewConstruction.png "University Place SD new construction chart")
+
+
+___
+
+
 ![University Place SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/UniversityPlaceEnrichment.png "University Place SD enrichment levy totals chart")
 ![University Place SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/UniversityPlaceEnrichmentParcel.png "University Place SD enrichment  example parcel chart")
 

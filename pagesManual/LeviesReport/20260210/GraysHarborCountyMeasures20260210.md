@@ -62,6 +62,21 @@ ___
 
 ### McCleary SD
 
+![McCleary SD bond totals chart](pagesManual/LeviesReport/20260210/McCleary.png "McCleary SD bond totals chart")
+![McCleary SD bond example parcel chart](pagesManual/LeviesReport/20260210/McClearyParcel.png "McCleary SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_mccleary_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_mccleary_bond_20260210){:target="_blank" rel="noopener"}
+
+This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
+
+![McCleary SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/McClearyNewConstruction.png "McCleary SD new construction chart")
+
+
+___
+
+
 ![McCleary SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/McClearyEnrichment.png "McCleary SD enrichment levy totals chart")
 ![McCleary SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/McClearyEnrichmentParcel.png "McCleary SD enrichment  example parcel chart")
 

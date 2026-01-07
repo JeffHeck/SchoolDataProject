@@ -73,6 +73,21 @@ ___
 
 ### White Salmon SD
 
+![White Salmon SD bond totals chart](pagesManual/LeviesReport/20260210/WhiteSalmon.png "White Salmon SD bond totals chart")
+![White Salmon SD bond example parcel chart](pagesManual/LeviesReport/20260210/WhiteSalmonParcel.png "White Salmon SD bond example parcel chart")
+
+[Link to the interactive calculator](calculator_white_salmon_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_white_salmon_bond_20260210){:target="_blank" rel="noopener"}
+
+This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
+
+![White Salmon SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/WhiteSalmonNewConstruction.png "White Salmon SD new construction chart")
+
+
+___
+
+
 ![White Salmon SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/WhiteSalmonEnrichment.png "White Salmon SD enrichment levy totals chart")
 ![White Salmon SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/WhiteSalmonEnrichmentParcel.png "White Salmon SD enrichment  example parcel chart")
 
