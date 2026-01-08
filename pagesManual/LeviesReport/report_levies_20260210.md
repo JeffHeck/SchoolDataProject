@@ -38,7 +38,7 @@ ___
 Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
 - Bonds: 13
 - Capital Levies: 46
-- Enrichment Levies: 119
+- Enrichment Levies: 120
 
 ### Local voters' pamphlet (LVP) statistics
 TBD
@@ -189,7 +189,7 @@ Total capital levy amount: $1.9B
 
 ### Enrichment levies
 
-Number of enrichment levies: 119
+Number of enrichment levies: 120
 
 Durations: 1 – 4 years
 
@@ -203,7 +203,7 @@ Total levies: $9.3B
 
 ### Bonds, capital and enrichment levies
 
-Total levies + bonds (principal + interest): $14.0B
+Total levies + bonds (principal + interest): $14.1B
 
 ___
 
