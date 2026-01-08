@@ -40,8 +40,6 @@ Listed below are the types and counts for the tax measures for the August 5th 20
 - Capital Levies: 46
 - Enrichment Levies: 120
 
-Note: As of 1/7/26, the Whitman County Elections Office has not yet provided financial information for 6 levies.
-
 ### Local voters' pamphlet (LVP) statistics
 TBD
 
