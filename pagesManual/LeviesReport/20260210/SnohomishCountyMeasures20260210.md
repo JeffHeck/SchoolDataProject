@@ -149,6 +149,16 @@ This next chart shows the estimated average annual taxes for just this bond for 
 
 ___
 
+
+![Mukilteo SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/MukilteoEnrichment.png "Mukilteo SD enrichment levy totals chart")
+![Mukilteo SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/MukilteoEnrichmentParcel.png "Mukilteo SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_mukilteo_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_mukilteo_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
 ### Snohomish SD
 
 ![Snohomish SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/SnohomishEnrichment.png "Snohomish SD enrichment levy totals chart")
@@ -167,6 +177,17 @@ ___
 [Link to the interactive calculator](calculator_snohomish_tech_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_snohomish_tech_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+### Stanwood-Camano SD
+
+![Stanwood-Camano SD capital levy totals chart](pagesManual/LeviesReport/20260210/Stanwood-CamanoCapital.png "Stanwood-Camano SD capital levy totals chart")
+![Stanwood-Camano SD capital levy example parcel chart](pagesManual/LeviesReport/20260210/Stanwood-CamanoCapitalParcel.png "Stanwood-Camano SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_stanwood-camano_capital_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_stanwood-camano_capital_levy_20260210){:target="_blank" rel="noopener"}
 
 ___
 
