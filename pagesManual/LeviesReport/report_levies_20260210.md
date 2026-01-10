@@ -4,7 +4,7 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: January 8th, 2026
+Last updated: January 9th, 2026
 
 Preliminary!
 
@@ -13,17 +13,11 @@ As analyses are completed, summary results will be provided on this page.
 ## Contents
 - Summary
     - Overview
-    - Local voters' pamphlet (LVP) statistics
+- Highlights
+    - Incomplete and misleading Local Voters' Pamphlet (LVP) tax measure descriptions
 - Bond summary
     - Total bond cost to local taxpayers
 	- Total bond cost to owners of properties with 2025 assessed values of $500,000
-- Enrichment levy summary
-    - Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
-    - Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
-	- Ranking of the proposed enrichment levies by their percent increases over their previous enrichment levies
-- Capital levy summary
-    - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
-    - Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
 - Total local property taxpayer costs of all measures
 - Measure details
 	- All measures (bonds, enrichment levies, capital levies) by county
@@ -40,21 +34,81 @@ Listed below are the types and counts for the tax measures for the August 5th 20
 - Capital Levies: 46
 - Enrichment Levies: 120
 
-### Local voters' pamphlet (LVP) statistics
-TBD
+___
+
+## Highlights
+
+### Incomplete and misleading Local Voters' Pamphlet (LVP) tax measure descriptions
+
+Most (75+%) of this election's new multi-year Enrichment Levies (that districts are incorrectly calling EP&O Levies) are significant tax increases in dollars over their previous multi-year Enrichment Levies. But from the descriptions 
+in the LVP, those tax increases are hidden and not clearly shown to voters. For example, the Mukilteo SD in Snohomish County has an Enrichment Levy that is a 42% increase in dollars. See Figure 1. 
+![Mukilteo SD Enrichment Levy Totals](pagesManual/LeviesReport/20260210/MukilteoEnrichment.png "Mukilteo SD Enrichment Levy Totals")
+
+<p style="text-align: center;">Figure 1</p>
+
+However, the LVP description states that the Enrichment Levy is a replacement for an expiring levy. That gives the false impression that voters are voting to continue a levy tax at the same amount, in dollars, as the previous levy. See Figure 2. 
+
+![Mukilteo SD LVP Enrichment Description](pagesManual/LeviesReport/20260210/MukilteoDistrictsLVPDescOnEnrichLevy.png "Mukilteo SD LVP Enrichment Description")
+
+<p style="text-align: center;">Figure 2</p>
+
+There is no mention of the 42% increase in dollars. What is presented is a table showing 3 columns: the Collection Years, the district's 
+Estimated Levy Rate per $1,000 of Assessed Value, and the Levy Amount. That 2nd column showing the Estimated Levy Rate should be prohibited from the LVP and from all of the district's campaign materials. The reason is that it is incomplete. 
+Estimated Levy Rates in future years can be made to be almost anything. The district needs to show their assumption for Total Assessed Value (TAV) changes in each future year. 
+Voters/taxpayers will then need to multiply their property's current year assessed value (AV) by those assumed future year TAV changes 
+and then use the district's Estimated Levy Rates. Or better, the district and the county elections department should only show the "Effective" Future Tax Rates which would be the district's Estimated Levy Rates multiplied by the assumed TAV changes.
+See Figure 3
+
+![Mukilteo SD Enrichment Levy Case Study](pagesManual/LeviesReport/20260210/MukilteoEnrichLevyTable.png "Mukilteo SD Enrichment Levy Case Study")
+
+<p style="text-align: center;">Figure 3</p>
+
+Figure 3 also shows several cases. 
+
+Case 1 is the district's assumption for TAV changes. They are assuming a 7.9% increase in TAV from 2025 to 2027. Note that this analysis had to leave 2026 open since the 2026 property tax information will 
+not be available until a few days after the February 10th election. This is another reason why February elections should be eliminated. The district is assuming a 4% increase in TAV, compounded, for 
+years 2028 through and including 2030.
+
+Case 2 is if one assumes a 10% increase in TAV in each future year.
+
+Case 3 is if one assumes no change to TAV in each future year.
+
+Case 4 is if one assumes a 2% decrease in TAV in each future year. 
+
+The reader will note that the Effective Levy Rate (column D) does not change between any of the cases. And the amount in dollars (taxes to collect, column I) in each future year that the owner of the example property has the same 
+escalating amounts in each case. Only the District's Estimated Levy Rate changes between the different cases. 
+
+The next example is from the Northshore SD in King County. The Northshore SD is running a bond - the largest bond in the state for this election. See Figure 4 for the LVP description. 
+
+![Northshore SD Bond LVP Description](pagesManual/LeviesReport/20260210/NorthshoreDistrictsLVPDescOnBond.png "Northshore SD Bond LVP Description")
+
+<p style="text-align: center;">Figure 4</p>
+
+The description mentions the bond principal of $698M and the maturity of not more than 21 years. 
+But the description does not mention the estimated bond interest and fees that are an additional $450M bringing the total bond costs to local taxpayers of $1.148B. 
+Also not mentioned is the existing bond debt payments still to make of $1.019B
+The planned escalating taxes to collect each year are also not mentioned or shown as they should be if school districts and other taxing districts in WA had to follow TILA (Truth In Lending Act) guidelines. 
+
+A more complete picture of what voters are voting on for this bond is presented on this website and repeated below in Figure 5.
+
+![Northshore SD Bond Chart](pagesManual/LeviesReport/20260210/Northshore.png "Northshore SD Bond Chart")
+
+<p style="text-align: center;">Figure 5</p>
+
+___
 
 ## Bond summary
 ### Total bond cost to local property taxpayers in each school district tax area with a bond measure
 ![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20260210/BondSummaryTotals.png "Bond totals")
 
-<p style="text-align: center;">Figure 1</p>
+<p style="text-align: center;">Figure 6</p>
 
 Data source: Each district's bond/levy projection datasheet
 
 ### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
 ![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20260210/BondSummaryParcels.png "Bond totals")
 
-<p style="text-align: center;">Figure 2</p>
+<p style="text-align: center;">Figure 7</p>
 
 $500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
 
@@ -70,102 +124,11 @@ See the Calculator Methodology section below for more details.
 
 ___
 
-## Enrichment levy summary
-
-### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
-Group 1
-
-![Enrichment levy totals group 1](pagesManual/LeviesReport/20260210/LevySummaryTotals-1.png "Levy totals")
-
-<p style="text-align: center;">Figure 3</p>
-
-Group 2
-
-![Enrichment levy totals group 2](pagesManual/LeviesReport/20260210/LevySummaryTotals-2.png "Levy totals")
-
-<p style="text-align: center;">Figure 4</p>
-
-Group 3
-![Enrichment levy totals group 3](pagesManual/LeviesReport/20260210/LevySummaryTotals-3.png "Levy totals")
-
-<p style="text-align: center;">Figure 5</p>
-
-Group 4
-
-![Enrichment levy totals group 4](pagesManual/LeviesReport/20260210/LevySummaryTotals-4.png "Levy totals")
-
-<p style="text-align: center;">Figure 6</p>
-
-Group 5
-
-![Enrichment levy totals group 5](pagesManual/LeviesReport/20260210/LevySummaryTotals-5.png "Levy totals")
-
-<p style="text-align: center;">Figure 7</p>
-
-### Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
-
-Group 1
-
-![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20260210/LevySummaryParcels-1.png "Levy average annual cost")
-
-<p style="text-align: center;">Figure 8</p>
-
-Group 2
-
-![Average annual enrichment levy cost for example properties group 2](pagesManual/LeviesReport/20260210/LevySummaryParcels-2.png "Levy average annual cost")
-
-<p style="text-align: center;">Figure 9</p>
-
-Group 3
-
-![Average annual enrichment levy cost for example properties group 3](pagesManual/LeviesReport/20260210/LevySummaryParcels-3.png "Levy average annual cost")
-
-<p style="text-align: center;">Figure 10</p>
-
-Group 4
-
-![Average annual enrichment levy cost for example properties group 4](pagesManual/LeviesReport/20260210/LevySummaryParcels-4.png "Levy average annual cost")
-
-<p style="text-align: center;">Figure 11</p>
-
-Group 5
-
-![Average annual enrichment levy cost for example properties group 5](pagesManual/LeviesReport/20260210/LevySummaryParcels-5.png "Levy average annual cost")
-
-<p style="text-align: center;">Figure 12</p>
-
-## Capital levy summary
-
-### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
-Group 1
-
-![Capital levy totals](pagesManual/LeviesReport/20260210/CapitalLevySummaryTotals-1.png "Levy totals")
-
-<p style="text-align: center;">Figure 13</p>
-
-Group 2
-
-![Capital levy totals](pagesManual/LeviesReport/20260210/CapitalLevySummaryTotals-2.png "Levy totals")
-
-<p style="text-align: center;">Figure 14</p>
-
-### Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
-Group 1
-
-![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20260210/CapitalLevySummaryParcels-1.png "Levy average annual cost")
-
-<p style="text-align: center;">Figure 15</p>
-
-Group 2
-
-![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20260210/CapitalLevySummaryParcels-2.png "Levy average annual cost")
-
-<p style="text-align: center;">Figure 16</p>
 
 ## Total local property taxpayer costs of all measures
 ![All tax measures total amounts](pagesManual/LeviesReport/20260210/AllMeasuresSummaryTotals.png "All tax measures")
 
-<p style="text-align: center;">Figure 17</p>
+<p style="text-align: center;">Figure 8</p>
 
 ### Bonds
 
