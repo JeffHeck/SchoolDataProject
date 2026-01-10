@@ -33,7 +33,7 @@ ___
 ## Summary
 
 ### Overview
-Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
+Listed below are the types and counts for the tax measures for the November 4th 2025 election that have been analyzed to date:
 - Bonds: 5
 - Capital Levies: 7
 - Enrichment Levies: 11
