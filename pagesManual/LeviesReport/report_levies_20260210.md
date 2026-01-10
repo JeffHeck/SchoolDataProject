@@ -29,7 +29,7 @@ ___
 ## Summary
 
 ### Overview
-Listed below are the types and counts for the tax measures for the August 5th 2025 election that have been analyzed to date:
+Listed below are the types and counts for the tax measures for the February 10th 2026 election that have been analyzed to date:
 - Bonds: 13
 - Capital Levies: 46
 - Enrichment Levies: 120
@@ -65,7 +65,7 @@ See Figure 3
 
 Figure 3 also shows several cases. 
 
-Case 1 is the district's assumption for TAV changes. They are assuming a 7.9% increase in TAV from 2025 to 2027. Note that this analysis had to leave 2026 open since the 2026 property tax information will 
+Case 1 is the district's assumption for TAV changes. They are assuming a 8% increase in TAV from 2025 to 2027. Note that this analysis had to leave 2026 open since the 2026 property tax information will 
 not be available until a few days after the February 10th election. This is another reason why February elections should be eliminated. The district is assuming a 4% increase in TAV, compounded, for 
 years 2028 through and including 2030.
 
@@ -75,8 +75,8 @@ Case 3 is if one assumes no change to TAV in each future year.
 
 Case 4 is if one assumes a 2% decrease in TAV in each future year. 
 
-The reader will note that the Effective Levy Rate (column D) does not change between any of the cases. And the amount in dollars (taxes to collect, column I) in each future year that the owner of the example property has the same 
-escalating amounts in each case. Only the District's Estimated Levy Rate changes between the different cases. 
+The reader will note that the Effective Levy Rate (column D) does not change between any of the cases. And the amount in dollars (taxes to collect, column I) in each future year that the owner of the example property will pay 
+has the same escalating amounts in each case. Only the District's Estimated Levy Rate changes between the different cases. 
 
 The next example is from the Northshore SD in King County. The Northshore SD is running a bond - the largest bond in the state for this election. See Figure 4 for the LVP description. 
 
