@@ -4,7 +4,7 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: January 9th, 2026
+Last updated: January 10th, 2026
 
 Preliminary!
 
@@ -31,8 +31,8 @@ ___
 ### Overview
 Listed below are the types and counts for the tax measures for the February 10th 2026 election that have been analyzed to date:
 - Bonds: 13
-- Capital Levies: 46
-- Enrichment Levies: 120
+- Capital Levies: 49
+- Enrichment Levies: 123
 
 ___
 
@@ -144,7 +144,7 @@ Total bond principal + estimated bond interest: $4.8B
 
 ### Capital levies
 
-Number of capital levies: 46
+Number of capital levies: 49
 
 Durations: 1 – 6 years
 
@@ -152,7 +152,7 @@ Total capital levy amount: $1.9B
 
 ### Enrichment levies
 
-Number of enrichment levies: 120
+Number of enrichment levies: 123
 
 Durations: 1 – 4 years
 

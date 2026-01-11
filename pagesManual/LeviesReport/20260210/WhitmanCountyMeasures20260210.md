@@ -17,6 +17,16 @@ ___
 
 ___
 
+
+![Colfax SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/ColfaxEnrichment.png "Colfax SD enrichment levy totals chart")
+![Colfax SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/ColfaxEnrichmentParcel.png "Colfax SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_colfax_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_colfax_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
 ### Endicott SD
 
 ![Endicott SD capital levy totals chart](pagesManual/LeviesReport/20260210/EndicottCapital.png "Endicott SD capital levy totals chart")
@@ -35,6 +45,59 @@ ___
 [Link to the interactive calculator](calculator_endicott_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_endicott_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+### LaCrosse SD
+
+![LaCrosse SD capital levy totals chart](pagesManual/LeviesReport/20260210/LaCrosseCapital.png "LaCrosse SD capital levy totals chart")
+![LaCrosse SD capital levy example parcel chart](pagesManual/LeviesReport/20260210/LaCrosseCapitalParcel.png "LaCrosse SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_lacrosse_capital_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lacrosse_capital_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+### Rosalia SD
+
+![Rosalia SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/RosaliaEnrichment.png "Rosalia SD enrichment levy totals chart")
+![Rosalia SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/RosaliaEnrichmentParcel.png "Rosalia SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_rosalia_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_rosalia_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+
+![Rosalia SD tech levy totals chart](pagesManual/LeviesReport/20260210/RosaliaTech.png "Rosalia SD tech levy totals chart")
+![Rosalia SD tech levy example parcel chart](pagesManual/LeviesReport/20260210/RosaliaTechParcel.png "Rosalia SD tech  example parcel chart")
+
+[Link to the interactive calculator](calculator_rosalia_tech_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_rosalia_tech_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+### St John SD
+
+![St John SD capital levy totals chart](pagesManual/LeviesReport/20260210/StJohnCapital.png "St John SD capital levy totals chart")
+![St John SD capital levy example parcel chart](pagesManual/LeviesReport/20260210/StJohnCapitalParcel.png "St John SD capital  example parcel chart")
+
+[Link to the interactive calculator](calculator_st_john_capital_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_st_john_capital_levy_20260210){:target="_blank" rel="noopener"}
+
+___
+
+
+![St John SD enrichment levy totals chart](pagesManual/LeviesReport/20260210/StJohnEnrichment.png "St John SD enrichment levy totals chart")
+![St John SD enrichment levy example parcel chart](pagesManual/LeviesReport/20260210/StJohnEnrichmentParcel.png "St John SD enrichment  example parcel chart")
+
+[Link to the interactive calculator](calculator_st_john_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
+
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_st_john_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
 ___
 
