@@ -32,7 +32,7 @@ ___
 Listed below are the types and counts for the tax measures for the February 10th 2026 election that have been analyzed to date:
 - Bonds: 13
 - Capital Levies: 49
-- Enrichment Levies: 123
+- Enrichment Levies: 124
 
 ___
 
@@ -152,7 +152,7 @@ Total capital levy amount: $1.9B
 
 ### Enrichment levies
 
-Number of enrichment levies: 123
+Number of enrichment levies: 124
 
 Durations: 1 – 4 years
 
