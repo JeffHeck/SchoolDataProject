@@ -4,7 +4,7 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: January 11th, 2026
+Last updated: January 12th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -63,7 +63,7 @@ See Figure 3
 
 Figure 3 also shows several cases. 
 
-Case 1 is the district's assumption for TAV changes. They are assuming a 8% increase in TAV from 2025 to 2027. Note that this analysis had to leave 2026 open since the 2026 property tax information will 
+Case 1 is the district's assumption for TAV changes. They are assuming an 8% increase in TAV from 2025 to 2027. Note that this analysis had to leave 2026 open since the 2026 property tax information will 
 not be available until a few days after the February 10th election. This is another reason why February elections should be eliminated. The district is assuming a 4% increase in TAV, compounded, for 
 years 2028 through and including 2030.
 
