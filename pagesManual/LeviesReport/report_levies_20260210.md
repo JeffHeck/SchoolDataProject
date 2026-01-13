@@ -172,6 +172,13 @@ ___
 
 ### Tax measures that have been analyzed to date by county
 
+For each tax measure, two static charts are presented that show the amounts in local tax dollars that will be collected each year of the multi-year new levy or new bond. 
+One static chart shows the total taxes to collect each year. The other static chart gives an estimate of the amount of levy/bond tax that will be collected for an example property.
+Interactive calculators, that are based on 
+sound accounting principles, are also presented for the interested reader. The version 2 calculator is the teaching calculator. The user can experiment with the input parameters that will show how 
+guesstimated future levy/bond tax rates are meaningless unless the assumed future year Total Assessed Value (TAV) changes are also made available. The owner of a property can enter their property's current tax year Assessed Value (AV) to obtain 
+a logical and accurate property tax cost impact.
+
 [Adams](adamscountymeasures20260210)
 
 [Asotin](asotincountymeasures20260210)
