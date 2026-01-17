@@ -49,6 +49,7 @@ However, the LVP description states that the Enrichment Levy is a replacement fo
 ![Mukilteo SD LVP Enrichment Description](pagesManual/LeviesReport/20260210/MukilteoDistrictsLVPDescOnEnrichLevy.png "Mukilteo SD LVP Enrichment Description")
 
 <p style="text-align: center;">Figure 2</p>
+<p style="text-align: center;">LVP Snapshot, Mukilteo SD Enrichment Levy</p>
 
 There is no mention of the 42% increase in dollars. What is presented is a table showing 3 columns: the Collection Years, the district's 
 Estimated Levy Rate per $1,000 of Assessed Value, and the Levy Amount. That 2nd column showing the Estimated Levy Rate should be prohibited from the LVP and from all of the district's campaign materials. The reason is that it is incomplete. 
@@ -82,6 +83,7 @@ The next example is from the Northshore SD in King County. The Northshore SD is 
 ![Northshore SD Bond LVP Description](pagesManual/LeviesReport/20260210/NorthshoreDistrictsLVPDescOnBond.png "Northshore SD Bond LVP Description")
 
 <p style="text-align: center;">Figure 4</p>
+<p style="text-align: center;">LVP Snapshot, Northshore SD Bond</p>
 
 The description mentions the bond principal of $698M and the maturity of not more than 21 years. 
 But the description does not mention the estimated bond interest and fees that are an additional $450M bringing the total bond costs to local taxpayers of $1.148B. 
