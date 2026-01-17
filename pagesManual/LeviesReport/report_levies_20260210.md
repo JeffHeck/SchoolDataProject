@@ -4,7 +4,7 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: January 12th, 2026
+Last updated: January 16th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -54,7 +54,8 @@ There is no mention of the 42% increase in dollars. What is presented is a table
 Estimated Levy Rate per $1,000 of Assessed Value, and the Levy Amount. That 2nd column showing the Estimated Levy Rate should be prohibited from the LVP and from all of the district's campaign materials. The reason is that it is incomplete. 
 Estimated Levy Rates in future years can be made to be almost anything. The district needs to show their assumption for Total Assessed Value (TAV) changes in each future year. 
 Voters/taxpayers will then need to multiply their property's current year assessed value (AV) by those assumed future year TAV changes 
-and then use the district's Estimated Levy Rates. Or better, the district and the county elections department should only show the "Effective" Future Tax Rates which would be the district's Estimated Levy Rates multiplied by the assumed TAV changes.
+and then use the district's Estimated Levy Rates. Or better, the district and the county elections department should only show the "Effective" Future Tax Rates which would be the district's Estimated Levy Rates multiplied by the 
+assumed TAV changes, compounded.
 See Figure 3
 
 ![Mukilteo SD Enrichment Levy Case Study](pagesManual/LeviesReport/20260210/MukilteoEnrichLevyTable.png "Mukilteo SD Enrichment Levy Case Study")
