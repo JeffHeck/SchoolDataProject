@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_bellevue_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -24,6 +25,11 @@ ___
 [Link to the interactive calculator](calculator_bellevue_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_bellevue_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Bellevue SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/BellevueEnrichLevyRatesTable.png "Bellevue SD enrichment effective levy rates")
 
 ___
 
@@ -36,6 +42,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_enumclaw_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -45,6 +52,11 @@ ___
 [Link to the interactive calculator](calculator_enumclaw_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_enumclaw_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Enumclaw SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/EnumclawEnrichLevyRatesTable.png "Enumclaw SD enrichment effective levy rates")
 
 ___
 
@@ -57,6 +69,11 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_federal_way_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Federal Way SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/FederalWayEnrichLevyRatesTable.png "Federal Way SD enrichment effective levy rates")
+
 ___
 
 ### Issaquah SD
@@ -68,6 +85,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_issaquah_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -77,6 +95,11 @@ ___
 [Link to the interactive calculator](calculator_issaquah_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_issaquah_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Issaquah SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/IssaquahEnrichLevyRatesTable.png "Issaquah SD enrichment effective levy rates")
 
 ___
 
@@ -89,6 +112,11 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lake_washington_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Lake Washington SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/LakeWashingtonEnrichLevyRatesTable.png "Lake Washington SD enrichment effective levy rates")
+
 ___
 
 
@@ -99,6 +127,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lake_washington_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Mercer Island SD
@@ -109,6 +138,11 @@ ___
 [Link to the interactive calculator](calculator_mercer_island_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_mercer_island_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Mercer Island SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/MercerIslandEnrichLevyRatesTable.png "Mercer Island SD enrichment effective levy rates")
 
 ___
 
@@ -136,6 +170,11 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_northshore_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Northshore SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/NorthshoreEnrichLevyRatesTable.png "Northshore SD enrichment effective levy rates")
+
 ___
 
 
@@ -146,6 +185,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_northshore_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Riverview SD
@@ -172,6 +212,11 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_riverview_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Riverview SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/RiverviewEnrichLevyRatesTable.png "Riverview SD enrichment effective levy rates")
+
 ___
 
 
@@ -182,6 +227,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_riverview_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Shoreline SD
@@ -193,6 +239,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_shoreline_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -202,6 +249,11 @@ ___
 [Link to the interactive calculator](calculator_shoreline_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_shoreline_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Shoreline SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/ShorelineEnrichLevyRatesTable.png "Shoreline SD enrichment effective levy rates")
 
 ___
 
@@ -214,6 +266,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_snoqualmie_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -223,6 +276,11 @@ ___
 [Link to the interactive calculator](calculator_snoqualmie_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_snoqualmie_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Snoqualmie SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/SnoqualmieEnrichLevyRatesTable.png "Snoqualmie SD enrichment effective levy rates")
 
 ___
 
@@ -235,6 +293,11 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_tahoma_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Tahoma SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/TahomaEnrichLevyRatesTable.png "Tahoma SD enrichment effective levy rates")
+
 ___
 
 
@@ -245,6 +308,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_tahoma_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Vashon Island SD
@@ -255,6 +319,11 @@ ___
 [Link to the interactive calculator](calculator_vashon_island_enrichment_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_vashon_island_enrichment_levy_20260210){:target="_blank" rel="noopener"}
+
+ 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+
+![Vashon Island SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/VashonIslandEnrichLevyRatesTable.png "Vashon Island SD enrichment effective levy rates")
 
 ___
 
