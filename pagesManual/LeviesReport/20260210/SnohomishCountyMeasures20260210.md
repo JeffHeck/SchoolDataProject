@@ -16,7 +16,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_darrington_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Darrington SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/DarringtonEnrichLevyRatesTable.png "Darrington SD enrichment effective levy rates")
 
@@ -32,7 +32,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_edmonds_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Edmonds SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/EdmondsEnrichLevyRatesTable.png "Edmonds SD enrichment effective levy rates")
 
@@ -46,8 +46,6 @@ ___
 [Link to the interactive calculator](calculator_everett_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_everett_bond_20260210){:target="_blank" rel="noopener"}
-
-This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
 
 ![Everett SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/EverettNewConstruction.png "Everett SD new construction chart")
 
@@ -63,7 +61,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_everett_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Everett SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/EverettEnrichLevyRatesTable.png "Everett SD enrichment effective levy rates")
 
@@ -79,7 +77,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_granite_falls_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Granite Falls SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/GraniteFallsEnrichLevyRatesTable.png "Granite Falls SD enrichment effective levy rates")
 
@@ -106,7 +104,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_index_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Index SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/IndexEnrichLevyRatesTable.png "Index SD enrichment effective levy rates")
 
@@ -122,7 +120,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lake_stevens_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Lake Stevens SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/LakeStevensEnrichLevyRatesTable.png "Lake Stevens SD enrichment effective levy rates")
 
@@ -148,8 +146,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_monroe_bond_20260210){:target="_blank" rel="noopener"}
 
-This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
-
 ![Monroe SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/MonroeNewConstruction.png "Monroe SD new construction chart")
 
 
@@ -164,7 +160,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_monroe_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Monroe SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/MonroeEnrichLevyRatesTable.png "Monroe SD enrichment effective levy rates")
 
@@ -178,8 +174,6 @@ ___
 [Link to the interactive calculator](calculator_mukilteo_20260210_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_mukilteo_bond_20260210){:target="_blank" rel="noopener"}
-
-This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
 
 ![Mukilteo SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/MukilteoNewConstruction.png "Mukilteo SD new construction chart")
 
@@ -195,7 +189,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_mukilteo_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Mukilteo SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/MukilteoEnrichLevyRatesTable.png "Mukilteo SD enrichment effective levy rates")
 
@@ -211,7 +205,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_snohomish_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Snohomish SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/SnohomishEnrichLevyRatesTable.png "Snohomish SD enrichment effective levy rates")
 
@@ -261,7 +255,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_sultan_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
  
-This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
 
 ![Sultan SD enrichment effective levy rates](pagesManual/LeviesReport/20260210/SultanEnrichLevyRatesTable.png "Sultan SD enrichment effective levy rates")
 

@@ -4,7 +4,7 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: January 17th, 2026
+Last updated: January 18th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -13,12 +13,12 @@ As analyses are completed, summary results will be provided on this page.
     - Overview
 - Highlights
     - Incomplete and misleading Local Voters' Pamphlet (LVP) tax measure descriptions
+- Tax measure details
+	- All tax measures (bonds, enrichment levies, capital levies) by county
 - Bond summary
     - Total bond cost to local taxpayers
 	- Total bond cost to owners of properties with 2025 assessed values of $500,000
 - Total local property taxpayer costs of all measures
-- Measure details
-	- All measures (bonds, enrichment levies, capital levies) by county
 - Calculator methodology
     - Proportional Obligation Factor (POF) proof
 
@@ -42,14 +42,13 @@ Most (75+%) of this election's new multi-year Enrichment Levies (that districts 
 in the LVP, those tax increases are hidden and not clearly shown to voters. For example, the Mukilteo SD in Snohomish County has an Enrichment Levy that is a 42% increase in dollars. See Figure 1. 
 ![Mukilteo SD Enrichment Levy Totals](pagesManual/LeviesReport/20260210/MukilteoEnrichment.png "Mukilteo SD Enrichment Levy Totals")
 
-<p style="text-align: center;">Figure 1</p>
+<p style="text-align: left;">Figure 1.</p>
 
 However, the LVP description states that the Enrichment Levy is a replacement for an expiring levy. That gives the false impression that voters are voting to continue a levy tax at the same amount, in dollars, as the previous levy. See Figure 2. 
 
 ![Mukilteo SD LVP Enrichment Description](pagesManual/LeviesReport/20260210/MukilteoDistrictsLVPDescOnEnrichLevy.png "Mukilteo SD LVP Enrichment Description")
 
-<p style="text-align: center;">Figure 2</p>
-<p style="text-align: center;">LVP Snapshot, Mukilteo SD Enrichment Levy</p>
+<p style="text-align: left;">Figure 2. LVP Snapshot, Mukilteo SD Enrichment Levy.</p>
 
 There is no mention of the 42% increase in dollars. What is presented is a table showing 3 columns: the Collection Years, the district's 
 Estimated Levy Rate per $1,000 of Assessed Value, and the Levy Amount. That 2nd column showing the Estimated Levy Rate should be prohibited from the LVP and from all of the district's campaign materials. The reason is that it is incomplete. 
@@ -61,7 +60,7 @@ See Figure 3
 
 ![Mukilteo SD Enrichment Levy Case Study](pagesManual/LeviesReport/20260210/MukilteoEnrichLevyTable4Cases.png "Mukilteo SD Enrichment Levy Case Study")
 
-<p style="text-align: center;">Figure 3</p>
+<p style="text-align: left;">Figure 3.</p>
 
 Figure 3 also shows several cases. 
 
@@ -82,8 +81,7 @@ The next example is from the Northshore SD in King County. The Northshore SD is 
 
 ![Northshore SD Bond LVP Description](pagesManual/LeviesReport/20260210/NorthshoreDistrictsLVPDescOnBond.png "Northshore SD Bond LVP Description")
 
-<p style="text-align: center;">Figure 4</p>
-<p style="text-align: center;">LVP Snapshot, Northshore SD Bond</p>
+<p style="text-align: left;">Figure 4. LVP Snapshot, Northshore SD Bond.</p>
 
 The description mentions the bond principal of $698M and the maturity of not more than 21 years. 
 But the description does not mention the estimated bond interest and fees that are an additional $450M bringing the total bond costs to local taxpayers of $1.148B. 
@@ -94,93 +92,13 @@ A more complete picture of what voters are voting on for this bond is presented 
 
 ![Northshore SD Bond Chart](pagesManual/LeviesReport/20260210/Northshore.png "Northshore SD Bond Chart")
 
-<p style="text-align: center;">Figure 5</p>
+<p style="text-align: left;">Figure 5.</p>
 
 ___
 
-## Bond summary
-### Total bond cost to local property taxpayers in each school district tax area with a bond measure
-![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20260210/BondSummaryTotals.png "Bond totals")
+## Tax measure details
 
-<p style="text-align: center;">Figure 6</p>
-
-Data source: Each district's bond/levy projection datasheet
-
-### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
-![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20260210/BondSummaryParcels.png "Bond totals")
-
-<p style="text-align: center;">Figure 7</p>
-
-$500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
-
-The conservative assumption used was that the POF (proportional obligation factor) as of 2025 remains constant over the term of the bond. 
-The interested reader can use the 
-cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the 
-calculators as well as different AVs. 
-The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV 
-for a given year) divided by (The Total AV of all 
-properties in the district's tax area for the same year). 
-
-See the Calculator Methodology section below for more details. 
-
-___
-
-
-## Total local property taxpayer costs of all measures
-![All tax measures total amounts](pagesManual/LeviesReport/20260210/AllMeasuresSummaryTotals.png "All tax measures")
-
-<p style="text-align: center;">Figure 8</p>
-
-### Bonds
-
-Number of bonds: 13
-
-Tax (repayment) durations: 19 – 26 years
-
-Total bond principal: $2.8B
-
-Total bond estimated interest: $2.0B
-
-Total bond principal + estimated bond interest: $4.8B
-
-### Capital levies
-
-Number of capital levies: 49
-
-Durations: 1 – 6 years
-
-Total capital levy amount: $1.9B
-
-### Enrichment levies
-
-Number of enrichment levies: 124
-
-Durations: 1 – 4 years
-
-Total enrichment levy amount: $7.4B
-
-
-
-###  Capital and enrichment levies
-
-Total levies: $9.3B
-
-### Bonds, capital and enrichment levies
-
-Total levies + bonds (principal + interest): $14.1B
-
-___
-
-## Measure details
-
-### Tax measures that have been analyzed to date by county
-
-For each tax measure, two static charts are presented that show the amounts in local tax dollars that will be collected each year of the multi-year new levy or new bond. 
-One static chart shows the total taxes to collect each year. The other static chart gives an estimate of the amount of levy/bond tax that will be collected for an example property.
-Interactive calculators, that are based on 
-sound accounting principles, are also presented for the interested reader. The version 2 calculator is the teaching calculator. The user can experiment with the input parameters that will show how 
-guesstimated future levy/bond tax rates are meaningless unless the assumed future year Total Assessed Value (TAV) changes are also made available. The owner of a property can enter their property's current tax year Assessed Value (AV) to obtain 
-a logical and accurate property tax cost impact.
+### All tax measures (bonds, enrichment levies, capital levies) by county
 
 [Adams](adamscountymeasures20260210)
 
@@ -249,6 +167,81 @@ a logical and accurate property tax cost impact.
 [Yakima](yakimacountymeasures20260210)
 
 ___
+
+
+## Bond summary
+### Total bond cost to local property taxpayers in each school district tax area with a bond measure
+![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20260210/BondSummaryTotals.png "Bond totals")
+
+<p style="text-align: left;">Figure 6.</p>
+
+Data source: Each district's bond/levy projection datasheet
+
+### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20260210/BondSummaryParcels.png "Bond totals")
+
+<p style="text-align: left;">Figure 7.</p>
+
+$500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
+
+The conservative assumption used was that the POF (proportional obligation factor) as of 2025 remains constant over the term of the bond. 
+The interested reader can use the 
+cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the 
+calculators as well as different AVs. 
+The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV 
+for a given year) divided by (The Total AV of all 
+properties in the district's tax area for the same year). 
+
+See the Calculator Methodology section below for more details. 
+
+___
+
+
+## Total local property taxpayer costs of all measures
+![All tax measures total amounts](pagesManual/LeviesReport/20260210/AllMeasuresSummaryTotals.png "All tax measures")
+
+<p style="text-align: left;">Figure 8.</p>
+
+### Bonds
+
+Number of bonds: 13
+
+Tax (repayment) durations: 19 – 26 years
+
+Total bond principal: $2.8B
+
+Total bond estimated interest: $2.0B
+
+Total bond principal + estimated bond interest: $4.8B
+
+### Capital levies
+
+Number of capital levies: 49
+
+Durations: 1 – 6 years
+
+Total capital levy amount: $1.9B
+
+### Enrichment levies
+
+Number of enrichment levies: 124
+
+Durations: 1 – 4 years
+
+Total enrichment levy amount: $7.4B
+
+
+
+###  Capital and enrichment levies
+
+Total levies: $9.3B
+
+### Bonds, capital and enrichment levies
+
+Total levies + bonds (principal + interest): $14.1B
+
+___
+
 
 
 ## Calculator methodology
