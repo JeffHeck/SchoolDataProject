@@ -4,7 +4,7 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: January 16th, 2026
+Last updated: January 17th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -59,7 +59,7 @@ and then use the district's Estimated Levy Rates. Or better, the district and th
 assumed TAV changes, compounded.
 See Figure 3
 
-![Mukilteo SD Enrichment Levy Case Study](pagesManual/LeviesReport/20260210/MukilteoEnrichLevyTable.png "Mukilteo SD Enrichment Levy Case Study")
+![Mukilteo SD Enrichment Levy Case Study](pagesManual/LeviesReport/20260210/MukilteoEnrichLevyTable4Cases.png "Mukilteo SD Enrichment Levy Case Study")
 
 <p style="text-align: center;">Figure 3</p>
 

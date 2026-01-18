@@ -52,6 +52,10 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_everett_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+This next chart shows the district's assumption for future Total Assessed Value (TAV) changes. It also shows the effective levy rates. Referring to a future est levy rate alone is inadequate and incomplete. One must take into account the district's future TAV change assumptions before applying the district's est levy rates to obtain meaningful cost impacts for example properties.  
+
+![Everett SD effective levy rates](pagesManual/LeviesReport/20260210/EverettEnrichLevyRatesTable.png "Everett SD effective levy rates")
+
 ___
 
 ### Granite Falls SD
