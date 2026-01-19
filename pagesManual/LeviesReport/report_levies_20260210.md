@@ -186,7 +186,7 @@ $500,000 was chosen since it is approximately the median of the median home AVs 
 
 The conservative assumption used was that the POF (proportional obligation factor) as of 2025 remains constant over the term of the bond. 
 The interested reader can use the 
-cost impact estimating calculators (linked below) for the bond and district of interest. An annual POF change parameter can be entered in the 
+cost impact estimating calculators (linked in the measure details by county section of this report) for the bond and district of interest. An annual POF change parameter can be entered in the 
 calculators as well as different AVs. 
 The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV 
 for a given year) divided by (The Total AV of all 
