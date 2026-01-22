@@ -58,10 +58,6 @@ The enrollments used in these PPE charts are Annual Average Full-Time Equivalent
 
 [Historical Total Expenses Per Student](pages/hist_spending/SpendForNorthport School DistrictPerPupilBar.png " Dollars Per Student")
 
-[Historical Total Expenses](pages/hist_spending/SpendForNorthport School DistrictBar.png " Dollars")
-
-[Historical Total AAFTE Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentNorthport School District.png " Historical and Projected Total Enrollment")
-
 
 ___
 

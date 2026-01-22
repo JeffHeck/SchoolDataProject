@@ -96,10 +96,6 @@ The enrollments used in these PPE charts are Annual Average Full-Time Equivalent
 
 [Historical Total Expenses Per Student](pages/hist_spending/SpendForEvergreen School District (Clark)PerPupilBar.png " Dollars Per Student")
 
-[Historical Total Expenses](pages/hist_spending/SpendForEvergreen School District (Clark)Bar.png " Dollars")
-
-[Historical Total AAFTE Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentEvergreen School District (Clark).png " Historical and Projected Total Enrollment")
-
 
 ___
 

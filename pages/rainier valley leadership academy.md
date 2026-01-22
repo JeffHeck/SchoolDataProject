@@ -37,7 +37,3 @@ The enrollments used in these PPE charts are Annual Average Full-Time Equivalent
 
 [Historical Total Expenses Per Student](pages/hist_spending/SpendForRainier Valley Leadership AcademyPerPupilBar.png " Dollars Per Student")
 
-[Historical Total Expenses](pages/hist_spending/SpendForRainier Valley Leadership AcademyBar.png " Dollars")
-
-[Historical Total AAFTE Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentRainier Valley Leadership Academy.png " Historical and Projected Total Enrollment")
-

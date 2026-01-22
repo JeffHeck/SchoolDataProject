@@ -72,10 +72,6 @@ The enrollments used in these PPE charts are Annual Average Full-Time Equivalent
 
 [Historical Total Expenses Per Student](pages/hist_spending/SpendForValley School DistrictPerPupilBar.png " Dollars Per Student")
 
-[Historical Total Expenses](pages/hist_spending/SpendForValley School DistrictBar.png " Dollars")
-
-[Historical Total AAFTE Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentValley School District.png " Historical and Projected Total Enrollment")
-
 
 ___
 

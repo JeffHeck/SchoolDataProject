@@ -43,7 +43,3 @@ The enrollments used in these PPE charts are Annual Average Full-Time Equivalent
 
 [Historical Total Expenses Per Student](pages/hist_spending/SpendForWhy Not You AcademyPerPupilBar.png " Dollars Per Student")
 
-[Historical Total Expenses](pages/hist_spending/SpendForWhy Not You AcademyBar.png " Dollars")
-
-[Historical Total AAFTE Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentWhy Not You Academy.png " Historical and Projected Total Enrollment")
-

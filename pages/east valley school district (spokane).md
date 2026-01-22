@@ -88,10 +88,6 @@ The enrollments used in these PPE charts are Annual Average Full-Time Equivalent
 
 [Historical Total Expenses Per Student](pages/hist_spending/SpendForEast Valley School District (Spokane)PerPupilBar.png " Dollars Per Student")
 
-[Historical Total Expenses](pages/hist_spending/SpendForEast Valley School District (Spokane)Bar.png " Dollars")
-
-[Historical Total AAFTE Enrollment](pages/hist_enrollment/Historical and Projected Total EnrollmentEast Valley School District (Spokane).png " Historical and Projected Total Enrollment")
-
 
 ___
 
