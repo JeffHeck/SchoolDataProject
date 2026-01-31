@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_battle_ground_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Hockinson SD
@@ -26,6 +27,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_hockinson_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Washougal  SD
@@ -37,6 +39,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_washougal__capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -47,5 +50,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_washougal__enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

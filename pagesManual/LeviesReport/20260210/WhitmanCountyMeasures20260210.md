@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_colfax_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -25,6 +26,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_colfax_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Colton SD
@@ -36,6 +38,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_colton_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Endicott SD
@@ -47,6 +50,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_endicott_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -57,6 +61,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_endicott_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### LaCrosse SD
@@ -68,6 +73,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lacrosse_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Rosalia SD
@@ -79,6 +85,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_rosalia_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -89,6 +96,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_rosalia_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### St John SD
@@ -100,6 +108,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_st_john_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -110,6 +119,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_st_john_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Steptoe SD
@@ -121,6 +131,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_steptoe_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Tekoa SD
@@ -132,5 +143,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_tekoa_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

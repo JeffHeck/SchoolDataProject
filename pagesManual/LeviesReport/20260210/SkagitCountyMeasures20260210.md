@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_anacortes_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -25,6 +26,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_anacortes_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Burlington-Edison SD
@@ -36,6 +38,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_burlington-edison_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -46,6 +49,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_burlington-edison_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Concrete SD
@@ -57,6 +61,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_concrete_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Conway SD
@@ -68,6 +73,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_conway_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Sedro-Woolley SD
@@ -79,6 +85,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_sedro-woolley_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -89,5 +96,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_sedro-woolley_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

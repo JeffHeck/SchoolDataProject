@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_benge_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Lind SD
@@ -26,6 +27,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lind_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -36,6 +38,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lind_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Othello SD
@@ -47,6 +50,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_othello_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Ritzville SD
@@ -58,6 +62,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_ritzville_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -68,6 +73,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_ritzville_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Washtucna SD
@@ -79,5 +85,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_washtucna_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

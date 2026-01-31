@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_bethel_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -25,6 +26,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_bethel_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Dieringer SD
@@ -36,6 +38,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_dieringer_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -46,6 +49,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_dieringer_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Fife SD
@@ -57,6 +61,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_fife_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Franklin SD
@@ -68,6 +73,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_franklin_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -78,6 +84,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_franklin_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Orting SD
@@ -89,6 +96,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_orting_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Peninsula SD
@@ -100,6 +108,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_peninsula_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Puyallup SD
@@ -111,6 +120,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_puyallup_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Tacoma SD
@@ -122,6 +132,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_tacoma_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -132,6 +143,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_tacoma_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### University Place SD
@@ -143,9 +155,8 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_university_place_bond_20260210){:target="_blank" rel="noopener"}
 
-This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
-
 ![University Place SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/UniversityPlaceNewConstruction.png "University Place SD new construction chart")
+
 
 
 ___
@@ -158,6 +169,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_university_place_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -168,6 +180,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_university_place_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### White River SD
@@ -179,6 +192,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_white_river_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -189,5 +203,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_white_river_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

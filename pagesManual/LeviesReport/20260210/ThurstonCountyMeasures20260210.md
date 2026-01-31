@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_olympia_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Tenino SD
@@ -26,6 +27,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_tenino_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Tumwater SD
@@ -37,5 +39,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_tumwater_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

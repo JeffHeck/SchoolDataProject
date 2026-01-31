@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_coupeville_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -25,5 +26,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_coupeville_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

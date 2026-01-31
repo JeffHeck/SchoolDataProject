@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_bremerton_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### North Kitsap SD
@@ -26,6 +27,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_north_kitsap_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -36,5 +38,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_north_kitsap_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

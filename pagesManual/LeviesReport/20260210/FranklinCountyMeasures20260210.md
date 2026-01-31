@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_kahlotus_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### North Franklin SD
@@ -26,6 +27,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_north_franklin_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Pasco SD
@@ -37,5 +39,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_pasco_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

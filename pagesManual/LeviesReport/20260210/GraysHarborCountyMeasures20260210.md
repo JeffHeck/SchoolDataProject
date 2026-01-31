@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_cosmopolis_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -25,6 +26,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_cosmopolis_tech_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Elma SD
@@ -36,6 +38,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_elma_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Hoquiam SD
@@ -47,6 +50,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_hoquiam_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Lake Quinault SD
@@ -58,6 +62,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lake_quinault_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### McCleary SD
@@ -69,9 +74,8 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_mccleary_bond_20260210){:target="_blank" rel="noopener"}
 
-This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
-
 ![McCleary SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/McClearyNewConstruction.png "McCleary SD new construction chart")
+
 
 
 ___
@@ -84,6 +88,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_mccleary_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### North Beach SD
@@ -95,6 +100,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_north_beach_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Ocosta SD
@@ -106,6 +112,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_ocosta_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Satsop SD
@@ -117,6 +124,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_satsop_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Wishkah SD
@@ -128,5 +136,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_wishkah_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

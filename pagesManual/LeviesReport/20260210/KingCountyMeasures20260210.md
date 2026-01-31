@@ -158,6 +158,11 @@ ___
 ![Northshore SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/NorthshoreNewConstruction.png "Northshore SD new construction chart")
 
 
+
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates.
+
+![Northshore SD bond effective rates](pagesManual/LeviesReport/20260210/NorthshoreBondRatesTable.png "Northshore SD bond effective rates")
+
 ___
 
 
@@ -196,6 +201,7 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_riverview_bond_20260210){:target="_blank" rel="noopener"}
 
 ![Riverview SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/RiverviewNewConstruction.png "Riverview SD new construction chart")
+
 
 
 ___

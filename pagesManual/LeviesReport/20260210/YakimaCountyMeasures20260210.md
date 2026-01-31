@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_grandview_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Mount Adams SD
@@ -26,6 +27,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_mount_adams_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Union Gap SD
@@ -37,6 +39,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_union_gap_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Wapato SD
@@ -48,6 +51,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_wapato_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### West Valley SD
@@ -59,9 +63,8 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_west_valley_bond_20260210){:target="_blank" rel="noopener"}
 
-This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
-
 ![West Valley SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/WestValleyNewConstruction.png "West Valley SD new construction chart")
+
 
 
 ___
@@ -74,6 +77,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_west_valley_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Zillah SD
@@ -85,5 +89,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_zillah_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_centerville_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Glenwood SD
@@ -26,6 +27,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_glenwood_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Klickitat SD
@@ -37,6 +39,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_klickitat_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Lyle SD
@@ -48,6 +51,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_lyle_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Trout Lake SD
@@ -59,6 +63,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_trout_lake_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -69,6 +74,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_trout_lake_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### White Salmon SD
@@ -80,9 +86,8 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_white_salmon_bond_20260210){:target="_blank" rel="noopener"}
 
-This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
-
 ![White Salmon SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/WhiteSalmonNewConstruction.png "White Salmon SD new construction chart")
+
 
 
 ___
@@ -95,5 +100,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_white_salmon_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 

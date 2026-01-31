@@ -15,6 +15,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_coulee-hartline_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Ephrata SD
@@ -26,9 +27,8 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_ephrata_bond_20260210){:target="_blank" rel="noopener"}
 
-This next chart shows the estimated average annual taxes for just this bond for local property taxpayers.  The worst case scenario for taxpayers is usually the assumption of zero new construction. Another reasonable scenario to consider is continued new construction for each tax collection year of this one bond at the same pace as the latest tax year.
-
 ![Ephrata SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260210/EphrataNewConstruction.png "Ephrata SD new construction chart")
+
 
 
 ___
@@ -42,6 +42,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_quincy_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Royal SD
@@ -53,6 +54,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_royal_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Wahluke SD
@@ -64,6 +66,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_wahluke_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Warden SD
@@ -75,6 +78,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_warden_capital_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 
@@ -85,6 +89,7 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_warden_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
 ### Wilson SD
@@ -96,5 +101,6 @@ ___
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_wilson_enrichment_levy_20260210){:target="_blank" rel="noopener"}
 
+ 
 ___
 
