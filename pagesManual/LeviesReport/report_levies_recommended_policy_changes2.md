@@ -4,7 +4,7 @@ title: Recommended Policies
 permalink: report_levies_recommended_policy_changes2
 ---
 
-Last updated: October 29th, 2025
+Last updated: February 11th, 2025
 
 Contents
 - Summary of recommended new policies
@@ -22,6 +22,7 @@ Contents
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 ### (8) There should be more public charter schools with funding at the same level as the traditional public school districts.
 ### (9) There should be school vouchers/credits to give families more choices than the one monopoly choice.
+### (10) School districts should not be allowed to spend taxpayer dollars on their tax measure campaign materials to obtain more taxes. 
 
 
 ## Discussion
@@ -97,3 +98,14 @@ Public school districts will benefit from a little competition - improvements in
 Some of our current State legislators went to private school in their youth. More of today's families with young children should also have those same kinds of choices including private school and/or homeschool. 
 
 [Link to info on the recently passed federal tax credit for education scholarships](https://www.edchoice.org/2025-congress-enacts-first-ever-federal-tax-credit-for-education-scholarships/#:~:text=The%20One%20Big%20Beautiful%20Bill,start%20on%20January%201%2C%202027.)
+
+### (10) School districts should not be allowed to spend taxpayer dollars on their tax measure campaign materials to obtain more taxes. 
+These so-called information letters sent to all voting households in the regular mail usually contain incorrect, underestimating taxpayer impact cost analyses. 
+Current law permits school districts to spend taxpayer dollars on these flyers (often on the order of $10,000 to $30,000 depending on the district but no real limit to what their school boards can approve). But the PDC states, 
+"The PDC will presume that every school district may distribute district wide an objective and fair presentation of the facts for each ballot measure." 
+The main math error that most school districts are making is that in their taxpayer cost analyses sections, in these flyers, districts are assuming the AVs of all properties increase each year except their example property.
+In these campaign materials and flyers, districts need to clearly state their assumption 
+for TAV increases each year so that voters/taxpayers know that they should let their properties' AVs also increase at that same pace. Then, and only then, can the districts' stated estimated future tax rates be applied 
+to example properties' increased AVs. The other option for districts is to use the future Effective tax rates. Future Effective tax rates do not change with different assumptions for future TAV changes. Districts should 
+also clearly state what future New Construction, if any, they are assuming for each year of their new tax measures. The conservative case of course, since dealing with taxpayer obligations, is to assume 0 New Construction. 
+ 

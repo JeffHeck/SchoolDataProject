@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to the School Data Project!"
-date:   2026-01-07 06:10:36 -0700
+date:   2026-02-10 06:10:36 -0700
 categories: washington schools data analysis
 ---
 This site is devoted to analyzing school data to inform and assist parents, taxpayers and policy makers with their school related decisions.

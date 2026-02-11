@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Contact](/info3.png "Info")
