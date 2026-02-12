@@ -4,4 +4,4 @@ title: About
 permalink:
 ---
 
-This website is closing.
+This website is closed.
