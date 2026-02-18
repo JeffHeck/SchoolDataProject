@@ -48,4 +48,5 @@ plugins:
 
 header_pages:
   - about.md
-
+  - reports.md
+  - districts.md
