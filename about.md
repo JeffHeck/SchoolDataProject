@@ -14,7 +14,6 @@ permalink:
 
 Pertinent statistics and charts are presented on K-12 schools in Washington State. 
 This site is devoted to analyzing school data to inform and assist parents, taxpayers and policy makers with their school related decisions. 
-The current emphasis is analyzing school districts' finances including teacher and administrator total compensation packages. 
 
 
 ## Data Sources
@@ -77,7 +76,7 @@ based on the Total Assessed Value (TAV) of all taxable property within the distr
 The report explains this Proportional Obligation Factor (POF) method in detail and provides online calculators to help voters estimate actual tax impacts using sound accounting principles. 
 Most school districts underestimate costs to taxpayers due to incorrect assumptions or flawed calculations.
 
-[School District Tax Measures on the November 4th 2025 Ballot](report_levies_20251104)
+[School District Tax Measures on the February 10th 2026 Ballot](report_levies_20260210)
 
 2) Academic Performance Outliers
 

@@ -4,7 +4,7 @@ title: School District Tax Measures February 10th 2026
 permalink: report_levies_20260210
 ---
 
-Last updated: January 18th, 2026
+Last updated: February 18th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -12,7 +12,7 @@ As analyses are completed, summary results will be provided on this page.
 - Summary
     - Overview
 - Highlights
-    - Incomplete and misleading Local Voters' Pamphlet (LVP) tax measure descriptions
+    - Incomplete Local Voters' Pamphlet (LVP) tax measure descriptions
 - Tax measure details
 	- All tax measures (bonds, enrichment levies, capital levies) by county
 - Bond summary
@@ -36,25 +36,26 @@ ___
 
 ## Highlights
 
-### Incomplete and misleading Local Voters' Pamphlet (LVP) tax measure descriptions
+### Incomplete Local Voters' Pamphlet (LVP) tax measure descriptions
 
-Most (75+%) of this election's new multi-year Enrichment Levies (that districts are incorrectly calling EP&O Levies) are significant tax increases in dollars over their previous multi-year Enrichment Levies. But from the descriptions 
-in the LVP, those tax increases are hidden and not clearly shown to voters. For example, the Mukilteo SD in Snohomish County has an Enrichment Levy that is a 42% increase in dollars. See Figure 1. 
+Most (75+%) of this election's new multi-year Enrichment Levies are significant tax increases in dollars over their previous multi-year Enrichment Levies. But from the descriptions 
+in the LVP, those tax increases are not clearly shown to voters. For example, the Mukilteo SD in Snohomish County has an Enrichment Levy that is a 42% increase in dollars. See Figure 1. 
 ![Mukilteo SD Enrichment Levy Totals](pagesManual/LeviesReport/20260210/MukilteoEnrichment.png "Mukilteo SD Enrichment Levy Totals")
 
 <p style="text-align: left;">Figure 1.</p>
 
-However, the LVP description states that the Enrichment Levy is a replacement for an expiring levy. That gives the false impression that voters are voting to continue a levy tax at the same amount, in dollars, as the previous levy. See Figure 2. 
+However, the LVP description states that the Enrichment Levy is a replacement for an expiring levy. That gives the impression that voters are voting to continue a levy tax at the same amount, in dollars, as the previous levy. See Figure 2. 
 
 ![Mukilteo SD LVP Enrichment Description](pagesManual/LeviesReport/20260210/MukilteoDistrictsLVPDescOnEnrichLevy.png "Mukilteo SD LVP Enrichment Description")
 
 <p style="text-align: left;">Figure 2. LVP Snapshot, Mukilteo SD Enrichment Levy.</p>
 
 There is no mention of the 42% increase in dollars. What is presented is a table showing 3 columns: the Collection Years, the district's 
-Estimated Levy Rate per $1,000 of Assessed Value, and the Levy Amount. That 2nd column showing the Estimated Levy Rate should be prohibited from the LVP and from all of the district's campaign materials. The reason is that it is incomplete. 
-Estimated Levy Rates in future years can be made to be almost anything. The district needs to show their assumption for Total Assessed Value (TAV) changes in each future year. 
+Estimated Levy Rate per $1,000 of Assessed Value, and the Levy Amount. That 2nd column showing the Estimated Levy Rate should be prohibited from the LVP and from all of the district's campaign materials. 
+The reason is that it is mathematically incomplete. 
+The district needs to also show their assumption for Total Assessed Value (TAV) changes in each future year. 
 Voters/taxpayers will then need to multiply their property's current year assessed value (AV) by those assumed future year TAV changes 
-and then use the district's Estimated Levy Rates. Or better, the district and the county elections department should only show the "Effective" Future Tax Rates which would be the district's Estimated Levy Rates multiplied by the 
+and then they can use the district's Estimated Levy Rates. Or better, the district and the county elections department should only show the "Effective" Future Tax Rates which would be the district's Estimated Levy Rates multiplied by the 
 assumed TAV changes, compounded.
 See Figure 3
 
@@ -93,6 +94,11 @@ A more complete picture of what voters are voting on for this bond is presented 
 ![Northshore SD Bond Chart](pagesManual/LeviesReport/20260210/Northshore.png "Northshore SD Bond Chart")
 
 <p style="text-align: left;">Figure 5.</p>
+
+An example of a school district tax measure that correctly uses and displays the "Effective" future tax rate in its tax measure description in the Local Voters' Pamphlet is the Boistfort SD in Lewis County.
+
+[Lewis County School District Tax Measures](lewiscountymeasures20260210)
+
 
 ___
 
