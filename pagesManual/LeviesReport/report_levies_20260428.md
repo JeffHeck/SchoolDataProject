@@ -11,7 +11,6 @@ As analyses are completed, summary results will be provided on this page.
 ## Contents
 - Tax measure details
 	- All tax measures (bonds, enrichment levies, capital levies) by county
-- Total local property taxpayer costs of all measures
 - Calculator methodology
     - Proportional Obligation Factor (POF) proof
 
