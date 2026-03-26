@@ -27,6 +27,9 @@ As analyses are completed, summary results will be provided on this page.
 - Calculator methodology
     - Proportional Obligation Factor (POF) proof
 
+___
+
+## Summary
 
 ### Overview
 Listed below are the types and counts for the tax measures for the February 10th 2026 election that have been analyzed to date:
@@ -147,13 +150,11 @@ Durations: 3 – 4 years
 
 Total enrichment levy amount: $182M
 
-
-
 ###  Capital and enrichment levies
 
 Total levies: $219M
 
-### Bonds, capital and enrichment levies
+### Bonds, capital levies and enrichment levies
 
 Total levies + bonds (principal + interest): $963M
 
@@ -253,7 +254,6 @@ future levy amounts based on the value of their properties' current year AV.
 See the Northshore SD example bond calculator to demonstrate how future guesstimated tax rates are meaningless:
 
 [Link to the Northshore SD example](table_northshore_bond_20260210)
-
 
 ___
 
