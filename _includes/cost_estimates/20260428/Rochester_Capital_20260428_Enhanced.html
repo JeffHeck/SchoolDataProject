@@ -10,14 +10,14 @@
 	var chart;
 	var dataParcel;
 	
-	totalLevyAV = 5601783227;
-	sampleParcelAV = 700000;
+	totalLevyAV = 2402051443;
+	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 25500000;
+	totalLevyCost = 5412152;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 4;
+	levyYears = 2;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// POF Annual Change Percent
 	pofAdjust = 0;
@@ -33,10 +33,8 @@
 		data.addColumn('number', 'New Levy Amount');
 
 		data.addRows([
-			['2027', 6375000],
-			['2028', 6375000],
-			['2029', 6375000],
-			['2030', 6375000],
+			['2027', 2628405],
+			['2028', 2783747],
 
 		]);
 
@@ -99,7 +97,7 @@
 		table_data.addColumn('number', 'New');
 		table_data.addRows([
 			['Total cost', totalLevyCostParcel],
-			['Average cost per year for 4 years', averageTotalLevyCostParcel],
+			['Average cost per year for 2 years', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -177,7 +175,7 @@
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 28th 2026 levy measure proposed by the Lynden SD</H2>
+  <H2>Property tax impact estimate calculator for the April 28th 2026 levy measure proposed by the Rochester SD</H2>
   <p>Created by the author independently from and not associated with the school district</p>
   <H3>Input</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>

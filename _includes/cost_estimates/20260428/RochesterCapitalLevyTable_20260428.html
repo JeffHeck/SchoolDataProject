@@ -15,14 +15,14 @@ table, th, td {
 	<!-- var chart; -->
 	var dataParcel;
 	
-	totalLevyAV = 5601783227;
-	sampleParcelAV = 700000;
+	totalLevyAV = 2402051443;
+	sampleParcelAV = 500000;
 	sampleParcelAVMin = 100000;
 	sampleParcelAVMax = 2000000;
-	totalLevyCost = 25500000;
+	totalLevyCost = 5412152;
 	sampleParcelPOF = sampleParcelAV / totalLevyAV;
 	totalLevyCostParcel = sampleParcelPOF * totalLevyCost;
-	levyYears = 4;
+	levyYears = 2;
 	levyStartYearOffset = 1;
 	averageTotalLevyCostParcel = totalLevyCostParcel / levyYears;
 	// Total AV Annual Change Percent
@@ -66,11 +66,9 @@ table, th, td {
 		data.addColumn('number', 'Example Property\'s POF Change');
 
 		data.addRows([
-				['2026', 0, 5601783227, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2027', 6375000, 5601783227, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2028', 6375000, 5601783227, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2029', 6375000, 5601783227, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
-			['2030', 6375000, 5601783227, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+				['2026', 0, 2402051443, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2027', 2628405, 2402051443, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
+			['2028', 2783747, 2402051443, 0.0, 0, 0, 0.0, 0, 0, 0, 0.0, 0.0, 0],
 
 		]);
 		
@@ -206,7 +204,7 @@ table, th, td {
 		table_data.addRows([
 			['Total new levy cost', totalNewLevyTax],
 			['Total cost for the owner of the example property', totalLevyCostParcel],
-			['Average cost per year for 4 years for the owner of the example property', averageTotalLevyCostParcel],
+			['Average cost per year for 2 years for the owner of the example property', averageTotalLevyCostParcel],
 		
 		]);
 
@@ -404,7 +402,7 @@ table, th, td {
   </script>
  </head>
  <body>
-  <H2>Property tax impact estimate calculator for the April 28th 2026 Capital Levy measure proposed by the Lynden SD</H2>
+  <H2>Property tax impact estimate calculator for the April 28th 2026 Capital Levy measure proposed by the Rochester SD</H2>
   <H3>Input (Enter Your Data)</H3>
   <div id="table_input_div" style="width:1200px; height: 60px;"></div>
   <!-- <p></p> -->
@@ -425,12 +423,12 @@ table, th, td {
   <p></p>
   <H3>Output (Results)</H3>
   <p>Estimated obligations for the example property</P>
-  <div id="table_output_general_div" style="width:1200px; height: 241px;"></div>
+  <div id="table_output_general_div" style="width:1200px; height: 187px;"></div>
   <div id="table_output_div" style="width:2000px; height: 150px;"></div>
   <H3>Usage</H3>
   <p>1) Select your property's 2026 Tax Year AV.</p>
-  <p>2) Select your property's guesstimated annual AV percent change for the next 4 years.</p>
-  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 4 years. 
+  <p>2) Select your property's guesstimated annual AV percent change for the next 2 years.</p>
+  <p>3) Select the average for all the other tax area's existing properties' guesstimated annual AV percent change for the next 2 years. 
   This should usually be set to the same value assumed for parameter 2 as most properties rise and fall in AV at the same pace. 
   An example where that might not be the case is if your property has more land than the average property since land tends to appreciate faster than structures.</p>
   <p>4) Select the guesstimated value for new construction as a percent of the previous year's Total AV.</p>

@@ -4,15 +4,35 @@ title: School District Tax Measures April 28th 2026
 permalink: report_levies_20260428
 ---
 
-Last updated: March 9th, 2026
+Last updated: March 26th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
 ## Contents
+- Summary
+    - Overview
 - Tax measure details
 	- All tax measures (bonds, enrichment levies, capital levies) by county
+- Bond summary
+    - Total bond cost to local taxpayers
+	- Total bond cost to owners of properties with 2026 assessed values of $500,000
+- Enrichment levy summary
+    - Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+    - Average annual enrichment levy cost to owners of properties with 2026 assessed values (AVs) of $500,000
+	- Ranking of the proposed enrichment levies by their percent increases over their previous enrichment levies
+- Capital levy summary
+    - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+    - Average annual capital levy cost to owners of properties with 2026 assessed values (AVs) of $500,000
+- Total local property taxpayer costs of all measures
 - Calculator methodology
     - Proportional Obligation Factor (POF) proof
+
+
+### Overview
+Listed below are the types and counts for the tax measures for the February 10th 2026 election that have been analyzed to date:
+- Bonds: 2
+- Capital Levies: 3
+- Enrichment Levies: 4
 
 ___
 
@@ -20,7 +40,122 @@ ___
 
 ### All tax measures (bonds, enrichment levies, capital levies) by county
 
+[Benton](bentoncountymeasures20260428)
+
+[Franklin](franklincountymeasures20260428)
+
+[Kittitas](kittitascountymeasures20260428)
+
+[Mason](masoncountymeasures20260428)
+
+[Spokane](spokanecountymeasures20260428)
+
+[Thurston](thurstoncountymeasures20260428)
+
 [Whatcom](whatcomcountymeasures20260428)
+
+[Yakima](yakimacountymeasures20260428)
+
+___
+
+## Bond summary
+### Total bond cost to local property taxpayers in each school district tax area with a bond measure
+![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20260428/BondSummaryTotals.png "Bond totals")
+
+<p style="text-align: left;">Figure 1.</p>
+
+Data source: Each district's bond/levy projection datasheet
+
+### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20260428/BondSummaryParcels.png "Bond totals")
+
+<p style="text-align: left;">Figure 2.</p>
+
+$500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
+
+The conservative assumption used was that the POF (proportional obligation factor) as of 2026 remains constant over the term of the bond. 
+The interested reader can use the 
+cost impact estimating calculators (linked in the measure details by county section of this report) for the bond and district of interest. An annual POF change parameter can be entered in the 
+calculators as well as different AVs. 
+The county assessor's office can assist with calculating the historical POF change parameter for any property. The POF = (The example property's AV 
+for a given year) divided by (The Total AV of all 
+properties in the district's tax area for the same year). 
+
+See the Calculator Methodology section below for more details. 
+
+___
+
+## Enrichment levy summary
+
+### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
+![Enrichment levy totals group 1](pagesManual/LeviesReport/20260428/LevySummaryTotals-1.png "Levy totals")
+
+<p style="text-align: center;">Figure 3</p>
+
+### Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20260428/LevySummaryParcels-1.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 4</p>
+
+___
+
+## Capital levy summary
+
+### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
+![Capital levy totals](pagesManual/LeviesReport/20260428/CapitalLevySummaryTotals-1.png "Levy totals")
+
+<p style="text-align: center;">Figure 5</p>
+
+### Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20260428/CapitalLevySummaryParcels-1.png "Levy average annual cost")
+
+<p style="text-align: center;">Figure 6</p>
+
+___
+
+## Total local property taxpayer costs of all measures on the ballot
+
+![All tax measures total amounts](pagesManual/LeviesReport/20260428/AllMeasuresSummaryTotals.png "All tax measures")
+
+<p style="text-align: center;">Figure 7</p>
+
+### Bonds
+
+Number of bonds: 2
+
+Tax (repayment) durations: 21 years
+
+Total bond principal: $420M
+
+Total bond estimated interest: $324M
+
+Total bond principal + estimated bond interest: $744M
+
+### Capital levies
+
+Number of capital levies: 3
+
+Durations: 2 – 5 years
+
+Total capital levy amount: $37M
+
+### Enrichment levies
+
+Number of enrichment levies: 4
+
+Durations: 3 – 4 years
+
+Total enrichment levy amount: $182M
+
+
+
+###  Capital and enrichment levies
+
+Total levies: $219M
+
+### Bonds, capital and enrichment levies
+
+Total levies + bonds (principal + interest): $963M
 
 ___
 
