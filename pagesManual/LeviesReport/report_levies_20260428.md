@@ -4,7 +4,7 @@ title: School District Tax Measures April 28th 2026
 permalink: report_levies_20260428
 ---
 
-Last updated: March 26th, 2026
+Last updated: March 28th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -69,7 +69,7 @@ ___
 
 Data source: Each district's bond/levy projection datasheet
 
-### Total bond cost to owners of properties with 2025 assessed values (AVs) of $500,000
+### Total bond cost to owners of properties with 2026 assessed values (AVs) of $500,000
 ![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20260428/BondSummaryParcels.png "Bond totals")
 
 <p style="text-align: left;">Figure 2.</p>
@@ -95,7 +95,7 @@ ___
 
 <p style="text-align: center;">Figure 3</p>
 
-### Average annual enrichment levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+### Average annual enrichment levy cost to owners of properties with 2026 assessed values (AVs) of $500,000
 ![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20260428/LevySummaryParcels-1.png "Levy average annual cost")
 
 <p style="text-align: center;">Figure 4</p>
@@ -109,7 +109,7 @@ ___
 
 <p style="text-align: center;">Figure 5</p>
 
-### Average annual capital levy cost to owners of properties with 2025 assessed values (AVs) of $500,000
+### Average annual capital levy cost to owners of properties with 2026 assessed values (AVs) of $500,000
 ![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20260428/CapitalLevySummaryParcels-1.png "Levy average annual cost")
 
 <p style="text-align: center;">Figure 6</p>
