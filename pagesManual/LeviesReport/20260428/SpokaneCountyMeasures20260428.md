@@ -21,14 +21,14 @@ ___
 
 ___
 
-### Nine Mile SD
+### Nine Mile Falls SD
 
-![Nine Mile SD capital levy totals chart](pagesManual/LeviesReport/20260428/NineMileCapital.png "Nine Mile SD capital levy totals chart")
-![Nine Mile SD capital levy example parcel chart](pagesManual/LeviesReport/20260428/NineMileCapitalParcel.png "Nine Mile SD capital  example parcel chart")
+![Nine Mile Falls SD capital levy totals chart](pagesManual/LeviesReport/20260428/NineMileFallsCapital.png "Nine Mile Falls SD capital levy totals chart")
+![Nine Mile Falls SD capital levy example parcel chart](pagesManual/LeviesReport/20260428/NineMileFallsCapitalParcel.png "Nine Mile Falls SD capital  example parcel chart")
 
-[Link to the interactive calculator](calculator_nine_mile_capital_20260428_enhanced){:target="_blank" rel="noopener"}
+[Link to the interactive calculator](calculator_nine_mile_falls_capital_20260428_enhanced){:target="_blank" rel="noopener"}
 
-[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_nine_mile_capital_levy_20260428){:target="_blank" rel="noopener"}
+[Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_nine_mile_falls_capital_levy_20260428){:target="_blank" rel="noopener"}
 
  
 ___
