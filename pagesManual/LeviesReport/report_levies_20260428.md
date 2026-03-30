@@ -4,7 +4,7 @@ title: School District Tax Measures April 28th 2026
 permalink: report_levies_20260428
 ---
 
-Last updated: March 28th, 2026
+Last updated: March 30th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -24,6 +24,7 @@ As analyses are completed, summary results will be provided on this page.
     - Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
     - Average annual capital levy cost to owners of properties with 2026 assessed values (AVs) of $500,000
 - Total local property taxpayer costs of all measures
+- Local voters' pamphlet (LVP) statistics
 - Calculator methodology
     - Proportional Obligation Factor (POF) proof
 
@@ -157,6 +158,22 @@ Total levies: $219M
 ### Bonds, capital levies and enrichment levies
 
 Total levies + bonds (principal + interest): $963M
+
+___
+
+## Local voters' pamphlet (LVP) statistics
+- Bond, enrichment levies, and capital levies
+    - Number of measures =  9
+    - Number of measures with pro statements =  8
+    - Number of measures with con statements =  4
+	
+LVP pro/con statement statistics by county
+
+![Percent of tax measures with LVP pro statements by county](pagesManual/LeviesReport/20260428/CountyLVPPro.png "LVP Pro Statements")
+
+![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20260428/CountyLVPCon.png "LVP Con Statements")
+
+Note: The number of school district tax measures for each county is shown in parentheses.
 
 ___
 
