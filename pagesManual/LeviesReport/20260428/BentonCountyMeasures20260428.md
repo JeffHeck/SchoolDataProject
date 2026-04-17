@@ -16,5 +16,9 @@ ___
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future levy tax rates are meaningless}](table_paterson_enrichment_levy_20260428){:target="_blank" rel="noopener"}
 
  
+The district's estimated tax rates, assumed TAV growth, and the Effective tax rates for the Enrichment Levy tax measure.
+
+![Paterson SD enrichment effective levy rates](pagesManual/LeviesReport/20260428/PatersonEnrichmentLevyRatesTable.png "Paterson SD enrichment effective levy rates")
+
 ___
 

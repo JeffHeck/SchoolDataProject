@@ -4,7 +4,7 @@ title: School District Tax Measures April 28th 2026
 permalink: report_levies_20260428
 ---
 
-Last updated: March 30th, 2026
+Last updated: April 17th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -13,6 +13,7 @@ As analyses are completed, summary results will be provided on this page.
     - Overview
 - Tax measure details
 	- All tax measures (bonds, enrichment levies, capital levies) by county
+- Highlights
 - Bond summary
     - Total bond cost to local taxpayers
 	- Total bond cost to owners of properties with 2026 assessed values of $500,000
@@ -62,18 +63,41 @@ ___
 
 ___
 
+
+## Highlights
+Effective Tax Rate tables have been added for each school district tax measure. Effective tax rates take into account the district’s estimated tax rate and the district’s assumed Total Assessed Value (TAV) growth rates for 
+the future years of each proposed tax measure. 
+From these tables, the districts’ errors in their version of a cost estimate for their local taxpayers were calculated and are shown.
+
+The Lynden SD’s cost estimate for its capital levy is the most accurate with a 4% error.
+
+The Yakima SD’s cost estimate for its bond is the least accurate with a 122% error.
+
+![Yakima SD Tax Rate Table](pagesManual/LeviesReport/20260428/YakimaBondRatesTable.png "Yakima SD Tax Rate Table")
+
+<p style="text-align: left;">Figure 1.</p>
+
+The reason the Yakima SD has such a high error is that the district incorrectly used the 0.79 tax rate as developed by their bond management company. 
+But that estimated rate was only for the first 2 years of the 21 year repayment schedule as shown in Figure 2. The estimated tax rate for the new bond for the remaining 19 years is significantly higher.
+
+![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSDBondDatasheet.png "Yakima SD Bond Levy Projection Datasheet")
+
+<p style="text-align: left;">Figure 2.</p>
+
+___
+
 ## Bond summary
 ### Total bond cost to local property taxpayers in each school district tax area with a bond measure
 ![Bond totals: principal + estimated interest and fees](pagesManual/LeviesReport/20260428/BondSummaryTotals.png "Bond totals")
 
-<p style="text-align: left;">Figure 1.</p>
+<p style="text-align: left;">Figure 3.</p>
 
 Data source: Each district's bond/levy projection datasheet
 
 ### Total bond cost to owners of properties with 2026 assessed values (AVs) of $500,000
 ![Bond totals for example properties: principal + estimated interest and fees](pagesManual/LeviesReport/20260428/BondSummaryParcels.png "Bond totals")
 
-<p style="text-align: left;">Figure 2.</p>
+<p style="text-align: left;">Figure 4.</p>
 
 $500,000 was chosen since it is approximately the median of the median home AVs in the school districts with tax measures.
 
@@ -94,12 +118,12 @@ ___
 ### Total enrichment levy cost to local property taxpayers in each school district tax area with an enrichment levy measure
 ![Enrichment levy totals group 1](pagesManual/LeviesReport/20260428/LevySummaryTotals-1.png "Levy totals")
 
-<p style="text-align: center;">Figure 3</p>
+<p style="text-align: left;">Figure 5</p>
 
 ### Average annual enrichment levy cost to owners of properties with 2026 assessed values (AVs) of $500,000
 ![Average annual enrichment levy cost for example properties group 1](pagesManual/LeviesReport/20260428/LevySummaryParcels-1.png "Levy average annual cost")
 
-<p style="text-align: center;">Figure 4</p>
+<p style="text-align: left;">Figure 6</p>
 
 ___
 
@@ -108,12 +132,12 @@ ___
 ### Total capital levy cost to local property taxpayers in each school district tax area with a capital levy measure
 ![Capital levy totals](pagesManual/LeviesReport/20260428/CapitalLevySummaryTotals-1.png "Levy totals")
 
-<p style="text-align: center;">Figure 5</p>
+<p style="text-align: left;">Figure 7</p>
 
 ### Average annual capital levy cost to owners of properties with 2026 assessed values (AVs) of $500,000
 ![Average annual capital levy cost for example properties](pagesManual/LeviesReport/20260428/CapitalLevySummaryParcels-1.png "Levy average annual cost")
 
-<p style="text-align: center;">Figure 6</p>
+<p style="text-align: left;">Figure 8</p>
 
 ___
 
@@ -121,7 +145,7 @@ ___
 
 ![All tax measures total amounts](pagesManual/LeviesReport/20260428/AllMeasuresSummaryTotals.png "All tax measures")
 
-<p style="text-align: center;">Figure 7</p>
+<p style="text-align: left;">Figure 9</p>
 
 ### Bonds
 
@@ -171,7 +195,11 @@ LVP pro/con statement statistics by county
 
 ![Percent of tax measures with LVP pro statements by county](pagesManual/LeviesReport/20260428/CountyLVPPro.png "LVP Pro Statements")
 
+<p style="text-align: left;">Figure 10</p>
+
 ![Percent of tax measures with LVP con statements](pagesManual/LeviesReport/20260428/CountyLVPCon.png "LVP Con Statements")
+
+<p style="text-align: left;">Figure 11</p>
 
 Note: The number of school district tax measures for each county is shown in parentheses.
 
