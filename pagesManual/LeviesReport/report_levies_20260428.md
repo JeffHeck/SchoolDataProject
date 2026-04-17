@@ -65,13 +65,13 @@ ___
 
 
 ## Highlights
-Effective Tax Rate tables have been added for each school district tax measure. Effective tax rates take into account the district’s estimated tax rate and the district’s assumed Total Assessed Value (TAV) growth rates for 
-the future years of each proposed tax measure. 
-From these tables, the districts’ errors in their version of a cost estimate for their local taxpayers were calculated and are shown.
+Effective Tax Rate tables have been added for each school district tax measure. Effective tax rates take into account each district’s estimated tax rate and each district’s assumed Total Assessed Value (TAV) growth rates for 
+the future years of their proposed tax measures. 
+From these tables, the district errors in their version of a cost estimate for their local taxpayers were calculated and are shown.
 
-The Lynden SD’s cost estimate for its capital levy is the most accurate with a 4% error.
+The Lynden SD’s cost estimate for its capital levy tax measure is the most accurate with a 4% error.
 
-The Yakima SD’s cost estimate for its bond is the least accurate with a 122% error.
+The Yakima SD’s cost estimate for its bond tax measure is the least accurate with a 122% error.
 
 ![Yakima SD Tax Rate Table](pagesManual/LeviesReport/20260428/YakimaBondRatesTable.png "Yakima SD Tax Rate Table")
 
