@@ -23,6 +23,10 @@ The district's estimated tax rates, assumed TAV growth, and the Effective tax ra
 
 ![East Valley SD bond effective rates](pagesManual/LeviesReport/20260428/EastValleyBondRatesTable.png "East Valley SD bond effective rates")
 
+The district's bond/levy projection datasheet.
+![East Valley SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/EastValleySDBondDatasheet.png "East Valley SD Bond Levy Projection Datasheet")
+
+
 ___
 
 ### Nine Mile Falls SD

@@ -4,7 +4,7 @@ title: School District Tax Measures April 28th 2026
 permalink: report_levies_20260428
 ---
 
-Last updated: April 18th, 2026
+Last updated: April 19th, 2026
 
 As analyses are completed, summary results will be provided on this page.
 
@@ -75,14 +75,21 @@ The Lynden SD’s cost estimate for its capital levy tax measure is the most acc
 
 <p style="text-align: left;">Figure 1.</p>
 
-The Yakima SD’s cost estimate for its bond tax measure is the least accurate with a 122% error.
+The Yakima SD’s cost estimate for its bond tax measure is the least accurate with a 117% to 122% error depending on what value of new construction is assumed. 
+The conservative case is assuming 0 new construction over the 21 years of the new bond's repayment schedule. A reasonable new construction rate to also consider 
+is assuming the 2026 new construction rate of 0.2% of Total AV continues annually, compounded. See figures 2a and 2b.
 
 ![Yakima SD Tax Rate Table](pagesManual/LeviesReport/20260428/YakimaBondRatesTable.png "Yakima SD Tax Rate Table")
 
-<p style="text-align: left;">Figure 2.</p>
+<p style="text-align: left;">Figure 2a.</p>
 
-The reason the Yakima SD has such a high error is that the district incorrectly used the 0.79 tax rate as developed by their bond management company. 
-But that estimated rate was only for the first 2 years of the 21 year repayment schedule as shown in Figure 3. The estimated tax rate for the new bond for the remaining 19 years is significantly higher.
+![Yakima SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260428/YakimaNewConstruction.png "Yakima SD new construction chart")
+
+<p style="text-align: left;">Figure 2b.</p>
+
+The reason the Yakima SD has such a high error is apparently that the district incorrectly used the 0.79 tax rate as developed by their bond management company. 
+That estimated rate was only for the first 2 years of the 21 year repayment schedule as shown in Figure 3. The estimated tax rate for the new bond for the remaining 19 years is significantly higher. 
+And the assumed Total Assessed Value (TAV) growth has to also be applied to the Assessed Value (AV) of the example property before the estimated tax rate is used. 
 
 ![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSDBondDatasheet.png "Yakima SD Bond Levy Projection Datasheet")
 

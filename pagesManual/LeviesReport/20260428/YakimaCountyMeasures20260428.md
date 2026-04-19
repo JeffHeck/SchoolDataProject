@@ -17,11 +17,13 @@ ___
 
 ![Yakima SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260428/YakimaNewConstruction.png "Yakima SD new construction chart")
 
-
-
 The district's estimated tax rates, assumed TAV growth, and the Effective tax rates.
 
 ![Yakima SD bond effective rates](pagesManual/LeviesReport/20260428/YakimaBondRatesTable.png "Yakima SD bond effective rates")
+
+The district's bond/levy projection datasheet.
+![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSDBondDatasheet.png "Yakima SD Bond Levy Projection Datasheet")
+
 
 ___
 
