@@ -11,6 +11,10 @@ ___
 ![Yakima SD bond totals chart](pagesManual/LeviesReport/20260428/Yakima.png "Yakima SD bond totals chart")
 ![Yakima SD bond example parcel chart](pagesManual/LeviesReport/20260428/YakimaParcel.png "Yakima SD bond example parcel chart")
 
+Estimated property taxes for the example property if the tax measure passes. A constant POF (proportional obligation factor) was assumed.
+
+![Yakima SD bond example parcel chart all prop taxes](pagesManual/LeviesReport/20260428/YakimaAllPropTaxesForExPropertyIfPasses.png "Yakima SD bond example parcel all prop taxes chart")
+
 [Link to the interactive calculator](calculator_yakima_20260428_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_yakima_bond_20260428){:target="_blank" rel="noopener"}
