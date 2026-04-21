@@ -87,9 +87,7 @@ is assuming the 2026 new construction rate of 0.2% of Total AV continues annuall
 
 <p style="text-align: left;">Figure 2b.</p>
 
-The reason the Yakima SD has such a high error is apparently that the district incorrectly used the 0.79 tax rate as developed by their bond management company. 
-That estimated rate was only for the first 2 years of the 21 year repayment schedule as shown in Figure 3. The estimated tax rate for the new bond for the remaining 19 years is significantly higher. 
-And the assumed Total Assessed Value (TAV) growth has to also be applied to the Assessed Value (AV) of the example property before the estimated tax rate is used. 
+The bond/levy projection datasheet.
 
 ![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSDBondDatasheet.png "Yakima SD Bond Levy Projection Datasheet")
 
