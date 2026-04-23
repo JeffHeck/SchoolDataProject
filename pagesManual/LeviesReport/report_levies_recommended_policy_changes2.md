@@ -4,7 +4,7 @@ title: Recommended Policies
 permalink: report_levies_recommended_policy_changes2
 ---
 
-Last updated: February 11th, 2025
+Last updated: April 23rd, 2026
 
 Contents
 - Summary of recommended new policies
@@ -18,11 +18,11 @@ Contents
 ### (3) Excessive, spiraling school district administrator compensations should be prohibited.
 ### (4) All capital projects for public school districts (traditional public school districts and public charter schools) should be completely funded with State allocated funding.
 ### (5) There should be no local School District Capital Levies and no local School District Bonds.
-### (6) There should be no pensions for public school district personnel - only 401k plans similar to the private sector.
+### (6) There should be no pensions for public school district personnel - only 401k (403b) plans similar to the private sector.
 ### (7) The OSPI needs to correct and clarify their Per Pupil Expenditure (PPE) reports to include all expenses. 
 ### (8) There should be more public charter schools with funding at the same level as the traditional public school districts.
 ### (9) There should be school vouchers/credits to give families more choices than the one monopoly choice.
-### (10) School districts should not be allowed to spend taxpayer dollars on their tax measure campaign materials to obtain more taxes. 
+### (10) School districts should be prohibited from spending taxpayer dollars on their tax measure campaign materials to obtain more taxes. 
 
 
 ## Discussion
@@ -72,7 +72,7 @@ TILA (Truth In Lending Act) policies.
 
 [Link to the report on local voters' pamphlets](https://schooldataproject.com/report_levies_recommended_policy_changes)
 
-### (6) There should be no pensions for public school district personnel - only 401k plans similar to the private sector.
+### (6) There should be no pensions for public school district personnel - only 401k (403b) plans similar to the private sector.
 The vast majority (85+%) of their customers (parents and soon students) all have 401k plans – not pensions. Public school district personnel first need to educate themselves about 401k plans and start funding their own. 
 Then they need to teach about 401k plans, investments, and other financial literacy topics to their students. They will then be practicing what they preach/teach. Currently, when school district staff compensations are 
 reported, usually, the pension funding portion is never mentioned which gives a false, lowered compensation amount. But taxpayers are paying for that funding. The rest of society includes total compensation 
@@ -99,7 +99,7 @@ Some of our current State legislators went to private school in their youth. Mor
 
 [Link to info on the recently passed federal tax credit for education scholarships](https://www.edchoice.org/2025-congress-enacts-first-ever-federal-tax-credit-for-education-scholarships/#:~:text=The%20One%20Big%20Beautiful%20Bill,start%20on%20January%201%2C%202027.)
 
-### (10) School districts should not be allowed to spend taxpayer dollars on their tax measure campaign materials to obtain more taxes. 
+### (10) School districts should be prohibited from spending taxpayer dollars on their tax measure campaign materials to obtain more taxes. 
 These so-called information letters sent to all voting households in the regular mail usually contain incorrect, underestimating taxpayer impact cost analyses. 
 Current law permits school districts to spend taxpayer dollars on these flyers (often on the order of $10,000 to $30,000 depending on the district but no real limit to what their school boards can approve). But the PDC states, 
 "The PDC will presume that every school district may distribute district wide an objective and fair presentation of the facts for each ballot measure." 
