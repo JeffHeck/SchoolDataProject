@@ -11,21 +11,24 @@ ___
 ![East Valley SD bond totals chart](pagesManual/LeviesReport/20260428/EastValley.png "East Valley SD bond totals chart")
 ![East Valley SD bond example parcel chart](pagesManual/LeviesReport/20260428/EastValleyParcel.png "East Valley SD bond example parcel chart")
 
+Estimated property taxes for the example property if the tax measure passes. A constant POF (proportional obligation factor) was assumed.
+
+![East Valley SD bond example parcel chart all prop taxes](pagesManual/LeviesReport/20260428/EastValleyAllPropTaxesForExPropertyIfPasses.png "East Valley SD bond example parcel all prop taxes chart")
+
 [Link to the interactive calculator](calculator_east_valley_20260428_enhanced){:target="_blank" rel="noopener"}
 
 [Link to the interactive cost impact estimating calculator version 2 {shows how guesstimated future bond tax rates are meaningless}](table_east_valley_bond_20260428){:target="_blank" rel="noopener"}
 
 ![East Valley SD average annual costs for different new construction rates](pagesManual/LeviesReport/20260428/EastValleyNewConstruction.png "East Valley SD new construction chart")
 
-
-
 The district's estimated tax rates, assumed TAV growth, and the Effective tax rates.
 
 ![East Valley SD bond effective rates](pagesManual/LeviesReport/20260428/EastValleyBondRatesTable.png "East Valley SD bond effective rates")
 
-The district's bond/levy projection datasheet.
-![East Valley SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/EastValleySDBondDatasheet.png "East Valley SD Bond Levy Projection Datasheet")
+The district's bond/levy projection datasheet info.
+![East Valley SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/EastValleySD_BondAndLevyAnalysis20260210A.png "East Valley SD Bond Levy Projection Datasheet")
 
+![East Valley SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/EastValleySD_BondAndLevyAnalysis20260210B.png "East Valley SD Bond Levy Projection Datasheet")
 
 ___
 

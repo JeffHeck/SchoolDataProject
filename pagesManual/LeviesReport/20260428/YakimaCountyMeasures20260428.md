@@ -25,8 +25,10 @@ The district's estimated tax rates, assumed TAV growth, and the Effective tax ra
 
 ![Yakima SD bond effective rates](pagesManual/LeviesReport/20260428/YakimaBondRatesTable.png "Yakima SD bond effective rates")
 
-The district's bond/levy projection datasheet.
-![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSDBondDatasheet.png "Yakima SD Bond Levy Projection Datasheet")
+The district's bond/levy projection datasheet info.
+![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSD_BondAndLevyAnalysis20260210A.png "Yakima SD Bond Levy Projection Datasheet")
+
+![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSD_BondAndLevyAnalysis20260210B.png "Yakima SD Bond Levy Projection Datasheet")
 
 
 ___

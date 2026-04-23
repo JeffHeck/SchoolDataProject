@@ -87,11 +87,15 @@ is assuming the 2026 new construction rate of 0.2% of Total AV continues annuall
 
 <p style="text-align: left;">Figure 2b.</p>
 
-The bond/levy projection datasheet.
+The bond/levy projection datasheet info.
 
-![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSDBondDatasheet.png "Yakima SD Bond Levy Projection Datasheet")
+![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSD_BondAndLevyAnalysis20260210A.png "Yakima SD Bond Levy Projection Datasheet")
 
-<p style="text-align: left;">Figure 3.</p>
+<p style="text-align: left;">Figure 3a.</p>
+
+![Yakima SD Bond Levy Projection Datasheet](pagesManual/LeviesReport/20260428/YakimaSD_BondAndLevyAnalysis20260210B.png "Yakima SD Bond Levy Projection Datasheet")
+
+<p style="text-align: left;">Figure 3b.</p>
 
 ___
 
