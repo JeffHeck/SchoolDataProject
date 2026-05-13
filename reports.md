@@ -5,6 +5,7 @@ permalink:
 ---
 
 Election Reports
+- [School District Tax Measures on the August 4th 2026 Ballot](report_levies_20260804)
 - [School District Tax Measures on the April 28th 2026 Ballot](report_levies_20260428)
 - [School District Tax Measures on the February 10th 2026 Ballot](report_levies_20260210)
 
